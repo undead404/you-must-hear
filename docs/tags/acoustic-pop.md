@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:59:18.098Z
+date: 2025-11-24T12:26:36.970Z
 permalink: tags/acoustic-pop
 title: acoustic pop
 ---
 
 ## acoustic pop
 
-Last updated: <time datetime="2025-10-28T05:59:18.098Z">Tue Oct 28 2025 07:59:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T12:26:36.970Z">Mon Nov 24 2025 14:26:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,9 +47,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/fYBFP26h82YPQhTUrivc6UdpXakG_O-Mip4VDzu2_BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM5/NDM2LTE2MzczNTU5/OTgtMTA5OS5qcGVn.jpeg" alt="Cover for drivers license" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae2bb33b121176852bee9b5ed4ec8f3.png" alt="Cover for drivers license" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-06-00</td>
       <td>Ashley Price</td>
@@ -88,7 +88,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee01cdbe48926ae5e29dcf09ea797a50.png" alt="Cover for Friction Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -102,12 +102,12 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 46</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/1wNCyI9jonc_A39v7kmthHIFYXF2MV9jFo2DY5OicFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDM1/OS0xNjI5NDgwMzM4/LTE0NzEuanBlZw.jpeg" alt="Cover for La State of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -129,7 +129,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/7TTPh9qkEtyUw1u8FCiCGRAbMe673UhYPRM4mJIxjNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY3/Ny0xMTE3NzM2NDk0/LmpwZw.jpeg" alt="Cover for WE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4691ed35327d822939a56a5a3f3605.png" alt="Cover for WE" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Winner</td>
@@ -147,13 +147,13 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 37</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 49</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/iUi5zWSATxaBNkhGEKKeBohUpnv0C_dLmsOpdJ1BjI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMz/MjItMTM0MjU2OTY5/MC0yOTkyLmpwZWc.jpeg" alt="Cover for Telelove" style="max-width:120px; height:auto;" />
       </td>
@@ -197,36 +197,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/Y1TIAWUQxAOO7CxbMf0b6nrp-itQcrRxFEoNc6uUdQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA2/MjMtMTQ0NjE1OTk3/NC0xMTU2LmpwZWc.jpeg" alt="Cover for People Watch" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Mariano Di Gabriele</td>
-      <td>People Watch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/Y1TIAWUQxAOO7CxbMf0b6nrp-itQcrRxFEoNc6uUdQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA2/MjMtMTQ0NjE1OTk3/NC0xMTU2LmpwZWc.jpeg" alt="Cover for Write This Song with Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c11f4b528e3e0f59228fe20c911933b4.png" alt="Cover for Write This Song with Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mariano Di Gabriele</td>
@@ -247,7 +225,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Y1TIAWUQxAOO7CxbMf0b6nrp-itQcrRxFEoNc6uUdQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA2/MjMtMTQ0NjE1OTk3/NC0xMTU2LmpwZWc.jpeg" alt="Cover for Heaven Sent" style="max-width:120px; height:auto;" />
       </td>
@@ -267,18 +245,15 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Y1TIAWUQxAOO7CxbMf0b6nrp-itQcrRxFEoNc6uUdQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjA2/MjMtMTQ0NjE1OTk3/NC0xMTU2LmpwZWc.jpeg" alt="Cover for Tomorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffbe0bb64c5e6a2f88a58ec17c1c80da.png" alt="Cover for Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mariano Di Gabriele</td>
       <td>Tomorrow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
@@ -287,7 +262,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/nE4cCpDEL0VpF1fly2tHiK-kBpjo1KsbeeKk4cqOXg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjcw/MzYtMTUxMjc2NjQ5/Mi02ODc5LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -304,12 +279,12 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 47</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/X_RrCB7vOQwZWmDfIUxOuETg4QHvkBnF_OSbPb4jZu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjA2/NC0xNTkxNjY5MzI2/LTMwMTkuanBlZw.jpeg" alt="Cover for L.A. State of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +304,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>2002</td>
@@ -357,9 +332,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/_vnXpnmUySsG3SBGhzE5giviCDnRWGu16lBBlnHxMl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzk0/OS0xMzQ5ODE0NzI2/LTY2ODUuanBlZw.jpeg" alt="Cover for Come Away With Me (Remastered 2022)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed2b3224cdb48719d38f9e61bd0c554a.png" alt="Cover for Come Away With Me (Remastered 2022)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-26</td>
       <td>Norah Jones</td>
@@ -377,7 +352,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/737a610168439ccb69f51b96e99f7d9c.png" alt="Cover for Visitor" style="max-width:120px; height:auto;" />
       </td>
@@ -397,8 +372,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7649dd96430eb9ffb52d878e49d9489.png" alt="Cover for Áudio-Retrato" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Leoni</td>
@@ -415,13 +391,13 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 34</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 39</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-03-19</td>
@@ -441,12 +417,12 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 28</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2003-05-21</td>
@@ -464,7 +440,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Aykei38197eJjAmUTxf4TkaoEnqB03z-UW6itetARxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzk1/MjgtMTM4MDAzMTU5/OS0xMDMyLmpwZWc.jpeg" alt="Cover for The Twilight Saga: Eclipse (Original Motion Picture Soundtrack) [Deluxe]" style="max-width:120px; height:auto;" />
       </td>
@@ -485,9 +461,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/li_nuYG1j1Bf5L_TiPk5OvMrbik7If2djy8xI5OvFOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk4/OTgtMTM4MjM1MDY2/My0yNjA3LmpwZWc.jpeg" alt="Cover for Acoustic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18dfe25e71eafdbe118ae36cb83d159d.png" alt="Cover for Acoustic" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-22</td>
       <td>Kelly Clarkson</td>
@@ -537,7 +513,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/598215280ab099fa1b76c4de97d53cb9.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -554,14 +530,15 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 81</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a819dd518ebc45bc871f3c90b0181718.png" alt="Cover for Goodbye Alice in Wonderland" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-13</td>
       <td>Jewel</td>
@@ -600,7 +577,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/hUINMFyzeoi2iXo9gf7a0RXQnF52XrEBQ9_QwlLJv2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE4/NDItMTQ1MTkwMjg0/NS03NjgyLmpwZWc.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -635,13 +612,13 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 21</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/08uFoS_S9XvbOoceg7wRB4ZsZr5PHqQAoLmXwk7W-rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTIx/MzItMTQ1ODc2Mjc5/My00MDA2LmpwZWc.jpeg" alt="Cover for Live At St Kevin&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -664,12 +641,12 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 57</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/CIShBXL9JQwRoi3Rp3l1_E4W_tRzrnBteKyHNdMH-1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMw/MDgwLTE1MDMyNDAz/ODgtODU0MS5qcGVn.jpeg" alt="Cover for Tânia Mara - Acústico" style="max-width:120px; height:auto;" />
       </td>
@@ -689,9 +666,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/yOfs1VjAzW1uhIgt0t7M3WDC1hxf3KG7Zd45pyaHo5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTQw/MzgtMTM3MjQ1OTA5/NS01MjkwLmpwZWc.jpeg" alt="Cover for ONErpm Showcase (Ao Vivo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2227da6b993cbdbab8d095f796203681.png" alt="Cover for ONErpm Showcase (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-16</td>
       <td>Wanessa Camargo</td>
@@ -708,14 +685,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/X5pYuVJIshekZFDgd8etX9tRVSSApU1-YapXvkOvvW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODg3/MTktMTY0MzA3ODIy/MS04MjY5LmpwZWc.jpeg" alt="Cover for The Dutchess (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/217570b0ae3d4702890d0907808c84f2.png" alt="Cover for The Dutchess (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Fergie</td>
@@ -735,8 +712,8 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 8</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 33</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -764,7 +741,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/YvxkIs49-OKuGelRKi1rwmiEXFtRWFhL7Psuk_TGzLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg2/MzYtMTI3MDUwMjQ5/MC5qcGVn.jpeg" alt="Cover for Slippery ground EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e043b0d57974f388a63000663a0a5b4.png" alt="Cover for Slippery ground EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Maria Helen</td>
@@ -784,7 +761,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/uIkQ4zhIUvUzvshueFRRw9ABO9Zqg9bDmuDckM3g53U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk4/ODAtMTI5OTM2Nzcz/Ny5qcGVn.jpeg" alt="Cover for London&#39;s Alright 7" style="max-width:120px; height:auto;" />
       </td>
@@ -806,8 +783,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-05</td>
       <td>Fresh Body Shop</td>
@@ -834,16 +812,17 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
         <ul>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 38</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 41</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afcc1841a43945f9c5f168d5c956cbb3.png" alt="Cover for Acústico MTV" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-10</td>
       <td>Sandy e Junior</td>
@@ -861,9 +840,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/HpK1glCLtvpenZPh9n_XBkQnjhRSNLO5o7Q4UQl4INk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk3/MjItMTM0Nzg5MzI4/Ni05OTg4LmpwZWc.jpeg" alt="Cover for Here, Not There." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/897a084fe2574918b4970c3d1b4aeac4.png" alt="Cover for Here, Not There." style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Heathers</td>
@@ -881,7 +860,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/NF1aZ61uj7o2MbB9eKBQRhrIVJ2PnDE_3ZwPLFw5BNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkx/Mzg4LTE1MjA3MzIz/NDUtNDg0OC5qcGVn.jpeg" alt="Cover for My First EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84fa8170e6a24b85cbc6a11a74619fde.png" alt="Cover for My First EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Ashleigh Mannix</td>
@@ -939,7 +918,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11056d7e7dfeb088d33e48dcca69848d.png" alt="Cover for America Del Sur" style="max-width:120px; height:auto;" />
       </td>
@@ -965,8 +944,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52e1e5c053c44d51aa24942e1b7c1013.png" alt="Cover for Hydrophobia" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-29</td>
       <td>Entertainment for the Braindead</td>
@@ -986,7 +966,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,19 +1010,20 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 34</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 66</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba9d8a5ff63b764613367d88f56c29cc.png" alt="Cover for Unbroken" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-05</td>
       <td>Katharine McPhee</td>
@@ -1061,9 +1042,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/fa1WDn0DZWf6AK9dPyn-f8-1oyolIjYr9qDnY_rlGCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY4/NTgtMTI3NjI4ODIz/Ny5qcGVn.jpeg" alt="Cover for Back To Tennessee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59de31ed8d142928b5e50c52aa6317d.png" alt="Cover for Back To Tennessee" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06</td>
       <td>Miley Cyrus</td>
@@ -1083,7 +1064,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/ronndS0pv9TwC65EjT3y64oBYXuNoCkeR8Pi0RbhbsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjEy/NTg1LTE3MjUwMzM2/NTUtNTY1Mi5qcGVn.jpeg" alt="Cover for Weltrekorder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8f5a527966b4f45ac44f4e8f8217bdc.png" alt="Cover for Weltrekorder" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-23</td>
       <td>Weltrekorder</td>
@@ -1103,9 +1084,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/BdWx1TvxiX-jMvHkQzp8k6RqrU-8xNr2W_1yiS2RqO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc0/MjgtMTMzMDQyMDU2/MS5qcGVn.jpeg" alt="Cover for Raising The Flag" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed25e92f13d34abd8465a0b19d67c764.png" alt="Cover for Raising The Flag" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-19</td>
       <td>Republic of Two</td>
@@ -1124,7 +1105,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/luTojkz7H_JJGywPLdQeVKq4lyE5kg5b4G-Zs_guVXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/MzIxLTE1MDY3NDky/MDktODEyMS5qcGVn.jpeg" alt="Cover for Homeless (2010)" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1128,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82de68424a174b7e97c62d8cf4a369e8.png" alt="Cover for Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1171,6 +1152,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176d7c267546430db2264bccce48d1bd.png" alt="Cover for Born and Raised" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-18</td>
       <td>John Mayer</td>
@@ -1182,16 +1164,16 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 88</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 75</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 76</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/q7ni0gFaN_alpcF9pDm8Sby3_TVcJwauz_3eSg721o8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzYy/MzQtMTM2NTk1MzM1/Ny00NDgyLmpwZWc.jpeg" alt="Cover for Tales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7258168a2fea5e6a7eb0a5981b085921.png" alt="Cover for Tales" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Couscous</td>
@@ -1209,9 +1191,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/cXcmcIfzeOYqUkE4ZZ6kJz1PwE165gObRAfbfqfgEqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDUz/NjgtMTM2OTcyODA5/NS03MzIxLmpwZWc.jpeg" alt="Cover for Crossroads (demos of forthcoming album)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/410706487812484e97905017b1b9bdb6.png" alt="Cover for Crossroads (demos of forthcoming album)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-22</td>
       <td>Ghostnotes</td>
@@ -1231,7 +1213,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/tpmnNjHWyjn-OdRnqVvUk9uwVcYDPt7L4CjyZPOJcLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTk5/NDktMTM4MjMwMTgy/Ni05MDk1LmpwZWc.jpeg" alt="Cover for No Heroes Allowed (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,14 +1228,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 7</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/LQ15nCFqAB6KVXB5HA7ZhQtaShjMq3HK43LnK2Cp3AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEw/MTItMTM5MTcxOTY5/NC0yMzA2LmpwZWc.jpeg" alt="Cover for Love (Sweet Love) (Acoustic Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6467035b431dd0b30e1d68e2127390c6.png" alt="Cover for Love (Sweet Love) (Acoustic Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-29</td>
       <td>Little Mix</td>
@@ -1273,7 +1255,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/yU54F4eL4wMyc8JdqMwamMfwvO-sLQEVQvI2YIth35Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU5/NDMxLTE1MTA5NTU4/NzYtMzk1NS5qcGVn.jpeg" alt="Cover for Sora" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,9 +1278,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/5YV-T8LwSzp9POPgU8prUElF6CVF0eBf70Yn01LF4vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODUz/MDItMTQ0NjcwODIw/OS03NzkwLnBuZw.jpeg" alt="Cover for Two Hands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9882f29174407d4227701f6eeef083b9.png" alt="Cover for Two Hands" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-23</td>
       <td>Astrid S</td>
@@ -1317,7 +1299,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7923448319ef855ae414a624ea5db12f.png" alt="Cover for Mariners Apartment Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,17 +1308,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       <td>Mariners Apartment Complex</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 4</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 13</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 64</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 91</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 92</li>
         </ul>
       </td>
@@ -1363,19 +1342,19 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 22</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 53</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/EPmOyUNeA47ra2JXnU8v-6LcmWRmz9XnRC5TuEfn3Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ1/NTQ5LTE1OTg4NTky/NDQtNzc0MC5wbmc.jpeg" alt="Cover for Melim: As Melhores" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e7ddda592b414d2ec51028c35f94df7.png" alt="Cover for Melim: As Melhores" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Melim</td>
@@ -1393,9 +1372,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/U-Q8xJmJIBVSYB6crcPPDkwOmRyhVPPhTOtG6qgKUSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/NzI5LTE1NDkwMzA1/MDgtMTA2OS5qcGVn.jpeg" alt="Cover for Hot Fever Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe72ff32e4a8c6f5933806f58fd36d7.png" alt="Cover for Hot Fever Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-01</td>
       <td>Astrid S</td>
@@ -1414,9 +1393,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/JNW5wmj1dIFeJSMCSX9J1OAMmJ6f-IrU0L1SZ3Bd6Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk4/NDg4LTE1NzU3Njgy/OTQtNTM5OC5qcGVn.jpeg" alt="Cover for Mood Swing (even moodier)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c369059270180e26859c231ea6f5c36d.png" alt="Cover for Mood Swing (even moodier)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>CYN</td>
@@ -1431,14 +1410,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 44</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/dUY0JTH2a4qIebNbou4z2q8sxcWTZ1Uo-qc7uwgKItQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/NzU2LTE2NTMxNjY0/MjEtOTEyMS5wbmc.jpeg" alt="Cover for Working to Design" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e2622fad7aac5c080297e8f7a54b914.png" alt="Cover for Working to Design" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Dunkie</td>
@@ -1461,41 +1440,26 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-13</td>
       <td>IAMX</td>
       <td>Echo Echo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 11</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 45</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 49</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/_Uor53a7DPpm2wkPNkkyYpFRXmD3AUj2pb9fBi0ZoxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MzAwLTE2NTEzMzUx/MjctMTE2Ny5qcGVn.jpeg" alt="Cover for Self-Portrait" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,9 +1482,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/_Uor53a7DPpm2wkPNkkyYpFRXmD3AUj2pb9fBi0ZoxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MzAwLTE2NTEzMzUx/MjctMTE2Ny5qcGVn.jpeg" alt="Cover for Self-Portrait" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ec2767a2fc716c5b98316236f5a172d.png" alt="Cover for Self-Portrait" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-06</td>
       <td>SUHO</td>
@@ -1541,9 +1505,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/9fd02MNwz6riFXFOgeU4z75qaMECsvEpHhMJ3FunU54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODkx/NDk5LTE2MjU3ODg3/MjEtOTMzNy5qcGVn.jpeg" alt="Cover for Squaring the Circle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6974f20622c1d76efd826bdf947d948.png" alt="Cover for Squaring the Circle" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-09</td>
       <td>Sneaker Pimps</td>
@@ -1567,16 +1531,16 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/qv5xXwzlt_ghFoHDpce4v_29DwiCuVJI7cf6cPvCLkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIw/OTU5LTE2ODEyNTQz/NjEtMzMxNS5qcGVn.jpeg" alt="Cover for Universo Invertido" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b38f430ea8c96ccaac2fa6dcd737066.png" alt="Cover for Universo Invertido" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-15</td>
       <td>Wanessa Camargo</td>
@@ -1597,7 +1561,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/myyssPZrFa9aYpkWYwCdtNVwyiP989ws182aIElHSM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/NTQyLTE2MzczMzI5/MDQtNjc0OC5qcGVn.jpeg" alt="Cover for Não Passa Vontade" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,14 +1577,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 56</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Z5bOkZ1S9haWnlzi8Rd6QTRhIUv8qzGzPgHoc_58nhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDQ5/NTQyLTE2NDAxOTgx/MTYtOTgzNy5qcGVn.jpeg" alt="Cover for Oh Emma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d0357e87f59b96551a2bfa8ffb8679b.png" alt="Cover for Oh Emma" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-10</td>
       <td>Astrid S</td>
@@ -1639,9 +1603,26 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/-5CHrn7TUKDw1XWbUgYTM335uMq5iNzgqTqO-CNWJa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzA2/MzU0LTE2NDg0MDQ0/NzItNDk3MC5qcGVn.jpeg" alt="Cover for Sora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cbe816e7a62de402f1ec0b3fa366ffe.png" alt="Cover for Sirens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Lana Del Rey</td>
+      <td>Sirens</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6474f268ceb54417c4bab2e8adaf943b.png" alt="Cover for Sora" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-20</td>
       <td>Foxtail-Grass Studio</td>
@@ -1658,9 +1639,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1OTMIil7d-AM_FjUU1wTliaJGsUGgulDT0RBF5I5DrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMz/MDUxLTE2NjMzNDA4/NjktMTMyNi5qcGVn.jpeg" alt="Cover for The Hardest Part (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4170c3e36ed822349b8cffb66f21dbc.png" alt="Cover for The Hardest Part (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>Noah Cyrus</td>
@@ -1674,12 +1655,12 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 8</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/ckSUhhBJwowBUi2XmNRiTWB9E7PwNjDlUFHqOxMeYXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU2/MjczLTE0OTc4MDQw/MTItNzg0Mi5qcGVn.jpeg" alt="Cover for the internet made me do it (the comment songs)" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,9 +1679,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/O0nRNs1OSlfMGLpXexktHH--c0R85MuX93L1OJ38CgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzI4/MTc1LTE2ODEyMzkx/NTktNzQyOC5qcGVn.jpeg" alt="Cover for Can&#39;t Tame Her (Acoustic)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e86c9824da25e3dd26f0c01f92e903e.png" alt="Cover for Can&#39;t Tame Her (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-10</td>
       <td>Zara Larsson</td>
@@ -1722,9 +1703,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/UfMnenjtHFyNsthsfsBHzbOj8jPrGr0GEiw9l-PNslU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzcw/Njg4LTE3MTY1NzI4/NTEtMTUyNi5qcGVn.jpeg" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a240916f36efd8e7f1f53148ef636f58.png" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-24</td>
       <td>Astrid S</td>
@@ -1741,13 +1722,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 24</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29bde5f021ff4a1a8399ee3a1680d0cd.png" alt="Cover for librecord" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>yutaka hirasaka</td>
@@ -1776,8 +1758,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5907d9f2d1b574d9ddffd9fab87ea24.png" alt="Cover for Acústico (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sandy e Junior</td>
@@ -1792,13 +1775,14 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71f2b3cf5f0a4d7a8f7c78679b32ce1a.png" alt="Cover for Manuscrito Ao Vivo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sandy Leah</td>
@@ -1818,8 +1802,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d686eff801e59673efd20074a1064678.png" alt="Cover for The Discount Heroes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Discount Heroes</td>
@@ -1839,8 +1824,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/928074649953c337ed0c820297428b3a.png" alt="Cover for Briefcase" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Malkmusian</td>
@@ -1862,8 +1848,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6252e2467b1eb83a1025c7f501961db.png" alt="Cover for Alright" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Malkmusian</td>
@@ -1885,8 +1872,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4c28e96bc0ab3572e5177bfd256d6b9.png" alt="Cover for On My Own" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kyrre Bjørdal Sæther</td>
@@ -1905,7 +1893,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1928,7 +1916,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1947,7 +1935,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/885e8bce8045ae127dec23ccac129e75.png" alt="Cover for Squirrel Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,6 +1978,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf324967a000409eaa2e884a58a7e80.png" alt="Cover for Left the Town" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Groosha</td>
@@ -2007,27 +1996,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Taylor McMahon</td>
-      <td>Memory Music - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f4462b73b2544113a7810c2ae7e7aa.png" alt="Cover for Music Heart" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nice Guy Dave</td>
@@ -2055,6 +2026,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/226c70389b53605acacb667e73469f54.png" alt="Cover for Romantic Americana" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Holden Laurence</td>
@@ -2073,8 +2045,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0459db6e830840bf9b187650210441e0.png" alt="Cover for Annie Singer" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Malkmusian</td>
@@ -2093,7 +2066,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -2110,8 +2083,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20dc4dbbb7ab4706c7089a21117451d6.png" alt="Cover for Manuscrito" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sandy Leah</td>
@@ -2131,7 +2105,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2151,8 +2125,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94bf318ab5ac486cb645cf136cef1526.png" alt="Cover for Influenced" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>David Allen Slater</td>
@@ -2189,7 +2164,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -2212,7 +2187,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -2229,7 +2204,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -2249,7 +2224,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
@@ -2266,8 +2241,9 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57dacb155711ce264d56b6a1cfa77005.png" alt="Cover for I Want to Know What Love Is (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hannah&#39;s Yard</td>
@@ -2286,10 +2262,28 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc4fdcaf2640200bf5853effd8c919ba.png" alt="Cover for Bill, Mary, and Tom" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Malkmusian</td>
       <td>Bill, Mary, and Tom</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d128e25df9054d959f310344f92455cf.png" alt="Cover for Memory Music - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Taylor McMahon</td>
+      <td>Memory Music - EP</td>
       <td>
         <ul>
         </ul>
@@ -2307,10 +2301,10 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [indie pop]({{ "/tags/indie-pop" | relative_url }})
-- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [acoustic rock]({{ "/tags/acoustic-rock" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
-- [pop rock]({{ "/tags/pop-rock" | relative_url }})
+- [alternative pop]({{ "/tags/alternative-pop" | relative_url }})

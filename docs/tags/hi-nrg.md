@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T04:03:25.448Z
+date: 2025-11-24T12:50:59.869Z
 permalink: tags/hi-nrg
 title: hi-nrg
 ---
 
 ## hi-nrg
 
-Last updated: <time datetime="2025-11-23T04:03:25.448Z">Sun Nov 23 2025 06:03:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T12:50:59.869Z">Mon Nov 24 2025 14:50:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -72,7 +72,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49fbb4f34d8a248586f52bd189bfbdb2.png" alt="Cover for Queen of Fools" style="max-width:120px; height:auto;" />
       </td>
@@ -81,28 +81,6 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       <td>Queen of Fools</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fbad8d649cf403ac05436c5642b8cbf.png" alt="Cover for Feels Like I&#39;m In Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Kelly Marie</td>
-      <td>Feels Like I&#39;m In Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
@@ -222,7 +200,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/ENQ1szpX4SH3l2EneAPR4HkWuJDCAmZDPPnvR0sH5pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk0/NjItMTMyNzkxNjUz/MS5qcGVn.jpeg" alt="Cover for Eurobeat Go2, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -240,7 +218,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6192c5980ddedf8d1ae350faea453097.png" alt="Cover for Xanadu" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +240,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/hm8e4Rvx5kVtHATU6FzXET5aI33bHIbsqasogvHvPqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc0/Mi0xMTA5Nzk2Njcw/LmpwZw.jpeg" alt="Cover for Now!" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +280,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d27d395e7c2f8dce038be797f840de38.png" alt="Cover for Do Ya Wanna Funk" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +365,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb00d5bfee4deddf9b8da1fa1b6ec0b6.png" alt="Cover for Made in America" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +388,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a7fa34a56066aa69d6389b77e3eb4db.png" alt="Cover for Videosex84" style="max-width:120px; height:auto;" />
       </td>
@@ -434,7 +412,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5afb2c117332007ab9b2352d31173fd.png" alt="Cover for The Age of Consent" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +431,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/3VAKXI29SNVUXYdz_nNtAXR8lZKtExCO4fwRrYKxTDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/My0xMTYyMzY2ODI2/LmpwZWc.jpeg" alt="Cover for &quot;Youthquake&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +446,8 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 45</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +471,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2daa4815b21d499999bad9608b8406ce.png" alt="Cover for Rock the Box" style="max-width:120px; height:auto;" />
       </td>
@@ -501,10 +480,6 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       <td>Rock the Box</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
@@ -513,7 +488,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1984-10-29</td>
@@ -526,12 +501,12 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 4</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21bcacbcbb694c699c47738250362ec2.png" alt="Cover for Heart First" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +559,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9e09281de9048128243e474456b1032.png" alt="Cover for Best of Oh Romeo" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +602,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/sj7uXAec0UylUZJRbd-89YCCLMUX05X3vQVw32h-h8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEy/NTItMTMxMTYxODE5/MS5qcGVn.jpeg" alt="Cover for Theme From Drag U" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d1c029968d39c534b0bba1d635a6411.png" alt="Cover for Theme From Drag U" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>RuPaul</td>
@@ -646,7 +621,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aba649f939e4679b55a7c831ba3bd1a.png" alt="Cover for Sex Over The Phone" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +659,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c51318832a2bbdadd0d9da7c6321c1fd.png" alt="Cover for Youthquake" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +700,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca361d298bc864ebdc521121a09852e7.png" alt="Cover for Better than Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -762,9 +737,9 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/nMRYrDjI0sepxY-P1qEBCqyHLVEZUZihhW-1_v80SZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU4/NzEtMTMxODc1MDIy/OS5qcGVn.jpeg" alt="Cover for Talk Crazy To Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ea9a3437e66773eeb59cb08bbeea42.png" alt="Cover for Talk Crazy To Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-11-21</td>
       <td>Girl Talk</td>
@@ -864,7 +839,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/142f8baa07a8ec8164e837b061c006e1.png" alt="Cover for Bold As Love" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +922,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf6a89ff462305bfa359ebe003b51e8.png" alt="Cover for Lime 3 &#x2F; Sensual Sensation" style="max-width:120px; height:auto;" />
       </td>
@@ -983,6 +958,24 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64c4dd1f504543f9834cd4817025edbb.png" alt="Cover for Move to Move" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-05-30</td>
+      <td>Kon Kan</td>
+      <td>Move to Move</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>49</td>
       <td>
           <img src="https://i.discogs.com/79kWRbBsDxatqk3_mJp-zcuKgeikritQvcNClQlshXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQ4/MS0xNTUzNzM5MzY3/LTg5OTMuanBlZw.jpeg" alt="Cover for Tattoo It" style="max-width:120px; height:auto;" />
@@ -1005,7 +998,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd39bfd1209e3473c54ec6c679179d2b.png" alt="Cover for Got To Be Certain" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1016,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 23</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1087,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f548180d7b64f8a443426bcf16e73f5.png" alt="Cover for Supermodel Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1162,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72c2f93768de75c4eac953a1a7b348a6.png" alt="Cover for From Now On" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1182,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 43</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1315,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d567782dd6e4ea5a034d2ba8e3a7847.png" alt="Cover for That&#39;s the Way It Is" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1358,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/pZyVReb1SzSlwcar3UU5oVspeVXXDh-xbVzCzfq4QPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA4/Ny0xNjc1Mjk2OTA0/LTcxNDkuanBlZw.jpeg" alt="Cover for I Wanna Go Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1377,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/QDnl2laA4UnBTVexbGjwmuRlnGCWo2GuCALGA7t7Xp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDIw/My0xNDc5Njc3NjM3/LTYyMzMuanBlZw.jpeg" alt="Cover for Paris by Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1416,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/356a354dcab229e238ed0def8f2c6ad2.png" alt="Cover for Responsitrannity: Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1484,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/rESm8i-12_7JgQltnExXC78GNTM0urerNVGxSn2Tc_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDA2/Ny0xMTc0MDU4NzI5/LmpwZWc.jpeg" alt="Cover for Nite Klub Skewl" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,12 +1581,12 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 11</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/9aHYK_xrcbxAwkzwS0zVvJX_Q4HSxH-oepYkaOeiVGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMy/NjMtMTIxNTgzNzkw/OC5qcGVn.jpeg" alt="Cover for Five Minute Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1680,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca5348892051bcfa12c3e3b7b32057c1.png" alt="Cover for Drag Race" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,9 +1703,9 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/VBCsuOvVvWwdxIjIdKhHW6PSJD8Q4g6okzgXn85NF2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ4/MzMtMTI5NDcwODM5/My5qcGVn.jpeg" alt="Cover for Pop Galaxy (Bonus Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/738fa94cfeaf43d3aa3f34987094ffc4.png" alt="Cover for Pop Galaxy (Bonus Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-01</td>
       <td>Magnus Carlsson</td>
@@ -1748,7 +1741,24 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09c929cca19b40408ce650a7165e7dc2.png" alt="Cover for Glamazon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-03</td>
+      <td>RuPaul</td>
+      <td>Glamazon</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc23a1118429d5cfa41ee3f36187c7c4.png" alt="Cover for SuperGlam DQ" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,6 +1803,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab596ebc9fd4ff58f943400dee03772.png" alt="Cover for Sex Is in the Heel (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-17</td>
       <td>Cyndi Lauper</td>
@@ -1852,7 +1863,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Pv3keUpb9DHhREkmElOMRg0-aVWvDwsvRwD_guXOq0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzI0/OTgtMTM2MDM0MjAx/Ny05NDgyLmpwZWc.jpeg" alt="Cover for If I Dream: Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c25b3ba4a40003cc296f769574418f8.png" alt="Cover for If I Dream: Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-15</td>
       <td>RuPaul</td>
@@ -1928,31 +1939,6 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/h00LfJmMwmSVtkhde9FIPArsMQyVzTPbyULv-OlXZhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgz/Mjg1LTE1OTk1ODE5/MTAtNjM1MC5qcGVn.jpeg" alt="Cover for LP II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-09-07</td>
-      <td>Linea Aspera</td>
-      <td>LP II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f566c9863e11488a0ea8bb37e08c1b67.png" alt="Cover for New Earth" style="max-width:120px; height:auto;" />
@@ -1989,7 +1975,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f193f9b9c578f36fa30a5e48005947b.png" alt="Cover for New Earth Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,7 +1998,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 3</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 21</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 22</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 52</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
@@ -2042,7 +2028,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b55e84ed40fcb484c6ca8ae6edd0251.png" alt="Cover for Definitive N-R-G - Volume One" style="max-width:120px; height:auto;" />
       </td>
@@ -2098,7 +2084,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39a8ceeb195c41f0a4cda4a9475094c4.png" alt="Cover for Funkamoog" style="max-width:120px; height:auto;" />
       </td>
@@ -2123,7 +2109,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
