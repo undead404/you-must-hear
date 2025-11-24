@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:35:50.234Z
+date: 2025-11-24T04:50:56.037Z
 permalink: tags/industrial-hip-hop
 title: industrial hip hop
 ---
 
 ## industrial hip hop
 
-Last updated: <time datetime="2025-11-23T01:35:50.234Z">Sun Nov 23 2025 03:35:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T04:50:56.037Z">Mon Nov 24 2025 06:50:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
   </thead>
   <tbody>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/382wg0o_KGiAhPMV2rhMtxo9YV85E6vr-9_t2g91jxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTAw/LTEyNzQ0NzM0MDgu/anBlZw.jpeg" alt="Cover for This Is Not a Drill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adcfed292f4a35716e15892f540ef06d.png" alt="Cover for This Is Not a Drill" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Ize</td>
@@ -47,7 +47,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ef735404bf3b5bfae05751d80cde31e.png" alt="Cover for Derbe Respect, Alder" style="max-width:120px; height:auto;" />
       </td>
@@ -64,26 +64,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td>2001-02-20</td>
-      <td>2nd Gen</td>
-      <td>Irony Is</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/LZFzN31YEFO4JYSoGHnTiKKEkQs-u_pMA60JVUPzzaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDAy/LTEzMTA1NDE4Mzku/anBlZw.jpeg" alt="Cover for From Filthy Tongue of Gods and" style="max-width:120px; height:auto;" />
       </td>
@@ -99,14 +80,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 11</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>87</td>
       <td>
       </td>
       <td>2002-08-05</td>
@@ -121,138 +103,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg" alt="Cover for TERMINAL_2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-01-01</td>
-      <td>Eric North</td>
-      <td>TERMINAL_2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 30</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg" alt="Cover for DEFCON_6" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-01-01</td>
-      <td>Eric North</td>
-      <td>DEFCON_6</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg" alt="Cover for DEATH OF ME" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-01-01</td>
-      <td>Eric North</td>
-      <td>DEATH OF ME</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f6c104896ba1ce3ac9fc2393fcdbbd.png" alt="Cover for Kyomi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>XXX</td>
-      <td>Kyomi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/DTEMLDLTC_3-dEti4Dl90gWA5uhHid3ozNP87eYRJzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk5/Ni0xMTc2Nzg3OTcw/LmpwZWc.jpeg" alt="Cover for PQ" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Saskia</td>
-      <td>PQ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/EvYmfyp0C4ww8tjHt2NI7VZ6kXl0gk0orRBbPgoPVIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzI3/NC0xMjM4ODc5ODY5/LmpwZWc.jpeg" alt="Cover for Scavengers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Food For Animals</td>
-      <td>Scavengers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/818b6cf1994f0b0b7ad11ab0889e87c3.png" alt="Cover for I&#39;ll Sleep When You&#39;re Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +120,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>I&#39;ll Sleep When You&#39;re Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
@@ -271,7 +130,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b064dc0cb370920329333fb7edb2ac4.png" alt="Cover for The Inevitable Rise and Liberation of Niggy Tardust" style="max-width:120px; height:auto;" />
       </td>
@@ -288,25 +147,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/hnUkKEZtM9gI0szTjpJSrGJ26U267mmQAxuDnGNOGaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI3/NTctMTIwMjQ5MjU4/NC5qcGVn.jpeg" alt="Cover for Belly" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Food For Animals</td>
-      <td>Belly</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009-01-27</td>
@@ -320,12 +161,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/831e96df3afd4777c7ac562537bdb356.png" alt="Cover for Exmilitary" style="max-width:120px; height:auto;" />
       </td>
@@ -334,15 +175,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Exmilitary</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 40</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 47</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -362,13 +201,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 93</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 99</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa1fed510a74fb9cf1954182169789c.png" alt="Cover for Live From Death Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -389,18 +228,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>89</td>
       <td>
       </td>
       <td>2011-08-03</td>
@@ -418,18 +257,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 91</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 92</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/iq9o4u68Jsgmm1Ilc9KnbVJQ6kd4QE6-Cfd5VAYJ1qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDM4/ODYtMTQ2OTY5MDgx/NC0xNzk4LnBuZw.jpeg" alt="Cover for Guillotine - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eefa0a31ed249fdacf8df9beb5e194e.png" alt="Cover for Guillotine - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-03</td>
       <td>Death Grips</td>
@@ -445,7 +284,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab97706d20fe4b10cb32bfb8b136f795.png" alt="Cover for Jenny Death" style="max-width:120px; height:auto;" />
       </td>
@@ -454,22 +293,20 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Jenny Death</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 95.3125 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 20</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 35</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 39</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ef0d3d35720910529fe026a2d2fe7c.png" alt="Cover for The Money Store" style="max-width:120px; height:auto;" />
       </td>
@@ -482,15 +319,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 15</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 20</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/B_QfGKwLiaEQ5qBw6wthu3Ve5yQ1teY-vev75688YhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQw/NTUtMTM0MDk2OTY0/My01Nzc4LmpwZWc.jpeg" alt="Cover for Biophilia Remix Series II" style="max-width:120px; height:auto;" />
       </td>
@@ -509,13 +346,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 1</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 53</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f3bf939762c4ca58430c8db55cf4c05.png" alt="Cover for No Love Deep Web" style="max-width:120px; height:auto;" />
       </td>
@@ -528,16 +366,33 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 50</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 38</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 55</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd13e7a15a9e4f2aa31af986932a6332.png" alt="Cover for Full Moon (Death Classic) - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-02-21</td>
+      <td>Death Grips</td>
+      <td>Full Moon (Death Classic) - Single</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d8c1f84d67e60c5dda039d6fb3653f.png" alt="Cover for Yeezus" style="max-width:120px; height:auto;" />
       </td>
@@ -546,45 +401,40 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Yeezus</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 94</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c9a25520fdc4577c5b8256057d37725.png" alt="Cover for Government Plates" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-13</td>
       <td>Death Grips</td>
       <td>Government Plates</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/783f7b1d71e8c0109db301fff2221e0b.png" alt="Cover for GENERASIAN" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +452,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/WSAXjXdrHiL0GxWf1rwaEY0mmGfHB-vV61JMrbFP9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU5/MzU3LTE2ODc0NDQx/NjEtMzYzOC5qcGVn.jpeg" alt="Cover for Hoover" style="max-width:120px; height:auto;" />
       </td>
@@ -619,12 +469,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 71</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a23b39140814db0cd83aa34bf7da500.png" alt="Cover for Niggas on the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -639,12 +489,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c24ded825ba87f7e7225585fc511e9.png" alt="Cover for Oblivion Access" style="max-width:120px; height:auto;" />
       </td>
@@ -653,20 +503,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Oblivion Access</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 44</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -680,16 +527,16 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 89</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -706,18 +553,18 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson + Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -736,13 +583,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 8</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 5</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg" alt="Cover for Black Ben Carson" style="max-width:120px; height:auto;" />
       </td>
@@ -759,13 +606,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4255ae69ea06f4edf88ed00095707e36.png" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
       </td>
@@ -788,41 +635,36 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
         <ul>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 32</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 48</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 64</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 76</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/4AHOZFry48iXvkzD70JiGDoupX74xm3mPeucZBMil9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQx/NDgtMTQ2MjUyMTU0/MC04NTcxLmpwZWc.jpeg" alt="Cover for Bottomless Pit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52817f5a1bbab6bef03f9845892d362.png" alt="Cover for Bottomless Pit" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-29</td>
       <td>Death Grips</td>
       <td>Bottomless Pit</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 73</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/M267omzlnrRi1ANrd3BFACbddgKvo88byHEBerhbkZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjMw/ODAtMTQ3NTE3MDI5/My01OTU0LmpwZWc.jpeg" alt="Cover for Fetish Bones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/784979785027c59808ba9cbe648e520d.png" alt="Cover for Fetish Bones" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-16</td>
       <td>Moor Mother</td>
@@ -838,7 +680,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7288ec5442a34c3583f9cb38d38595ee.png" alt="Cover for Atrocity Exhibition" style="max-width:120px; height:auto;" />
       </td>
@@ -847,19 +689,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Atrocity Exhibition</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/F5u3_nK2vNmqte_e3k-y06kIJ-apf6sC4MR6uJuI4QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTkzLTE1MjU4ODE5/NTUtMTQxOS5qcGVn.jpeg" alt="Cover for 333" style="max-width:120px; height:auto;" />
       </td>
@@ -884,31 +724,65 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/jTrCYBrpa2Ot_v7wiuU1SCmvmtFRXX2aBqNV0NXzpRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDk3LTE0OTU1MDIy/ODAtMTE2OC5qcGVn.jpeg" alt="Cover for Steroids (Crouching Tiger Hidden Gabber)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6652f330da96e4eae3973646eb89025b.png" alt="Cover for Steroids (Crouching Tiger Hidden Gabber)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-22</td>
       <td>Death Grips</td>
       <td>Steroids (Crouching Tiger Hidden Gabber)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 7</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2fd69e1153b728c5dd91b33c7eae317.png" alt="Cover for Lxrdszn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-29</td>
+      <td>SCARLXRD</td>
+      <td>Lxrdszn</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e32d1c4297619a7ae4c05b323f4059b.png" alt="Cover for CHAXSTHEXRY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-04</td>
+      <td>SCARLXRD</td>
+      <td>CHAXSTHEXRY</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/TTST25CctXxxaO2osJ1Bp7C3OwZ0agdnMN_FuIMEVn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY3/NDU5LTE1Mjc2MjQ2/ODUtNTY5NS5qcGVn.jpeg" alt="Cover for Cruel Practice - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -929,58 +803,30 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17101ec892cf0dd4d09bef752c3015e1.png" alt="Cover for Year of the Snitch" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Death Grips</td>
       <td>Year of the Snitch</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 42</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 96</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 55</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/885a2a141098efffdfd0ea63c8fc3fb0.png" alt="Cover for God and I Worked Things Out" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-07-28</td>
-      <td>Shamana</td>
-      <td>God and I Worked Things Out</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/qXTlxMz1X68vc2xHJZYoOEY6HFu_APgiB9Buavi8e9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/MjI0LTE1MzYzMjE4/MTAtODE4My5qcGVn.jpeg" alt="Cover for Prisoner 709" style="max-width:120px; height:auto;" />
       </td>
@@ -997,13 +843,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7398b011303786537859aa00a10cadb6.png" alt="Cover for iridescence" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,13 +863,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 14</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/r35jgOtlOUBUNm9Kxjy1ZTFPeoxMO6nwllmXis6SM9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA1/NTYwLTE2NDAzNTI5/MDQtNTU2OS5qcGVn.jpeg" alt="Cover for Puff Daddy - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,12 +889,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 38</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6416fee7b4e60f096a4ce429649556.png" alt="Cover for Language" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +913,26 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97f0200f810c452b951ac89cb164c2c8.png" alt="Cover for Jesus Forgive Me, I Am A Thot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-13</td>
+      <td>JPEGMAFIA</td>
+      <td>Jesus Forgive Me, I Am A Thot</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab73a2ef85ff757e616cdbd991301859.png" alt="Cover for All My Heroes Are Cornballs" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,23 +941,20 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>All My Heroes Are Cornballs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/gZB6VPNCHI8U2wWGiBFeppE0oivr14T40bs8e0kiJiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/OTg1LTE1NzA5MjI4/ODgtOTk0OC5qcGVn.jpeg" alt="Cover for There Existed An Addiction To Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0bff290ca9a6f213d20bccdf5033b4.png" alt="Cover for There Existed An Addiction To Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-18</td>
       <td>clipping.</td>
@@ -1104,34 +966,31 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 77</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/IT5xu2v-SX7R0gAHYDSuiAEK29U7h0PmYpFnBfbjexI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDky/NzkxLTE2Mzc2Nzc3/MjktNDI4MC5qcGVn.jpeg" alt="Cover for The Shape of a Burning Credit Card" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6a71f95547f0ba6d662f8fd4b9b909.png" alt="Cover for The Shape of a Burning Credit Card" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-22</td>
       <td>KFC Murder Chicks</td>
       <td>The Shape of a Burning Credit Card</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 81</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 55</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/BRGuI5971HzfVUURHhmj4Nerw3-iYLPTLtyP110PhzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg2/OTUxLTE2MDMxOTg3/MTctNDYzOS5qcGVn.jpeg" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1005,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 74</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 80</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 84</li>
         </ul>
       </td>
@@ -1168,15 +1027,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 98</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/-lAZ0dgtjXc2NKgLaSkh4sL6lh_2habp-t_xbsvoOnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU5/ODgtMTM4MTQ5MzE4/OS02NjcwLmpwZWc.jpeg" alt="Cover for Yeezus [Explicit Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,140 +1050,71 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg" alt="Cover for Speed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc910464ae65c81851ca451df6ea71d.png" alt="Cover for Speed" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>nascar aloe</td>
       <td>Speed</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 50</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc96f61fb19302740c1fe79b06e205b.png" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>nascar aloe</td>
       <td>AMERICAN WASTELAND</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 60</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 36</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>69</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fefb49db354db7a32fe63cf08c715b18.png" alt="Cover for HXW THEY JUDGE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-06-12</td>
-      <td>SCARLXRD</td>
-      <td>HXW THEY JUDGE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/eDztAocuww-LpHCYZPqgpq83_nht0M2rSsIKImH8NVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIy/ODM1LTE2MjM1NjY4/ODAtNDY4Ni5qcGVn.jpeg" alt="Cover for (Untitled_0007-0020&amp;0001)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-08-15</td>
-      <td>JOHNNASCUS</td>
-      <td>(Untitled_0007-0020&amp;0001)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 45</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 46</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/w7Cykhw4TPKZ30RtMLKj_mZUGyqe3PLJiEZJZDN2kI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/NjQyLTE2MDQ4NjUw/NzMtMTQ5MC5qcGVn.jpeg" alt="Cover for BEST HOUSE ON A BAD BLOCK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216824459b92f51de3847c428c3459e9.png" alt="Cover for BEST HOUSE ON A BAD BLOCK" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-11</td>
       <td>1 800 PAIN</td>
       <td>BEST HOUSE ON A BAD BLOCK</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 65</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d20b8c86a69bc535b2fbe1bf831ad000.png" alt="Cover for Lang Lebe Der Tod" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,68 +1123,33 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Lang Lebe Der Tod</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 49</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg" alt="Cover for Visions of Bodies Being Burned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/018cfaf835606f97de6dc3144a2bb38b.png" alt="Cover for Visions of Bodies Being Burned" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>clipping.</td>
       <td>Visions of Bodies Being Burned</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 77</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 85</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/JQYvkwUKdSlQEIMajX_D2zc3eia-YmDZs94359F0ClY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY4/MDM0LTE2MDQ2MDY0/NzQtODYzNy5qcGVn.jpeg" alt="Cover for Don&#39;t Play It Straight" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-30</td>
-      <td>Small Bills</td>
-      <td>Don&#39;t Play It Straight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/NsI84f3PtS7ND2wmfWdB4jPW4HOPTbXRUC_6QYy6c5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NzUxLTE2MDU4NTAx/NTAtNzA5NS5qcGVn.jpeg" alt="Cover for Alias" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1172,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg" alt="Cover for VETERAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,14 +1186,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 75</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff37eb694ad3e3b50c764bd7274bf4c.png" alt="Cover for cum" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,12 +1210,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/43IGCA1ov4FMvr6Vy4dfcY68C6X5vEcjqms7Sm-j6ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQw/MTA4LTE2MzUyNjg2/MDAtMzI4OC5qcGVn.jpeg" alt="Cover for I LIE HERE BURIED WITH MY RINGS AND MY DRESSES" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,12 +1231,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 57</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f605ea6f6dc065b79d53924d8971272.png" alt="Cover for By the Time I Get to Phoenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,92 +1245,37 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>By the Time I Get to Phoenix</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 5</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 46</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 85</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/yDiQ7Cff-QiEMmOJmphl6TQBkOJEnodNRLNO7IWrNYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/Mjk0LTE2Mzc2Njcz/OTMtODUyOS5wbmc.jpeg" alt="Cover for Dig Yourself a Grave" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-13</td>
-      <td>Andy Morin</td>
-      <td>Dig Yourself a Grave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eebd74396e8f298458665810b7e9a151.png" alt="Cover for From Me To You (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-11-03</td>
-      <td>Quadeca</td>
-      <td>From Me To You (Deluxe)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 60</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/y9gRuJhWLTvRivoPd4eFaTky05hvD-SAvMwwYkF5bO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc5/MTIxLTE2NTAwMzQ5/NDItNzY5NS5qcGVn.jpeg" alt="Cover for KicK iii" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b64c749685c53995ba61b8e1e18cf57.png" alt="Cover for KicK iii" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-01</td>
       <td>Arca</td>
       <td>KicK iii</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 90</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 67</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/396b0253bac5bd9bd0b2ccd84134f40e.png" alt="Cover for Post Mortem" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,102 +1296,55 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 74</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 78</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7452f36c612e52968edd7cb17cc64481.png" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>LustSickPuppy</td>
       <td>AS HARD AS YOU CAN</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 72</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 91</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>71</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2f3cf661527d0696e0a07780cfae73.png" alt="Cover for NOT ON VETERAN!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-02-01</td>
-      <td>JPEGMAFIA</td>
-      <td>NOT ON VETERAN!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/c3_EAqL9vxb5wqmi9mMG3UtzXEwCOVBopwfxOoaM2X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/OTYwLTE2MTMwNzE5/NzEtODczNi5qcGVn.jpeg" alt="Cover for Puff Daddy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e3304779047aae622a4c73233022892.png" alt="Cover for Puff Daddy" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-24</td>
       <td>JPEGMAFIA</td>
       <td>Puff Daddy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/a5SHD2zM2lpVNn-ZPGoavQCDDNCWyuhfKfRd1phgNXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQy/NjYyLTE2NDk3MTA1/ODktODA5MS5qcGVn.jpeg" alt="Cover for Dreams Drenched in Static" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-04-15</td>
-      <td>Cremation Lily</td>
-      <td>Dreams Drenched in Static</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e6f66a60d99fe39c301b28abb820b42.png" alt="Cover for Bimbocore" style="max-width:120px; height:auto;" />
       </td>
@@ -1699,18 +1353,15 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Bimbocore</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>36</td>
       <td>
       </td>
       <td>2022-07-11</td>
@@ -1729,39 +1380,9 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/mvpEOtA8iH9Z6tJ-NFD6yByl7pp7zF2C2p4dMj4gdWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA0/Mzc5LTE2NzA1MDcy/MDctNDAzMS5qcGVn.jpeg" alt="Cover for Sitting At The End Of The World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-08-16</td>
-      <td>JOHNNASCUS</td>
-      <td>Sitting At The End Of The World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 2</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 38</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 39</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 61</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 7</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1783,50 +1404,43 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/2rgWoOqZyiIZ3u3xN0KjOmC6KqrxrzooWcS0XDgc0tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkz/MjQyLTE1OTA3OTY3/NDktNzY1MC5qcGVn.jpeg" alt="Cover for Beta Male Strategies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65cfbd5fe1296aa0b9f0854b5b3f524b.png" alt="Cover for Beta Male Strategies" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-05</td>
       <td>JPEGMAFIA</td>
       <td>Beta Male Strategies</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79e9f1e44ac00b0760d73b80be69bde.png" alt="Cover for Jardineiros" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd0ebfb3d4b1a5ba30bf051caa1b9cb.png" alt="Cover for Thug Tears - A COLORS SHOW" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022-10-21</td>
-      <td>Planet Hemp</td>
-      <td>Jardineiros</td>
+      <td>2022-10-07</td>
+      <td>JPEGMAFIA</td>
+      <td>Thug Tears - A COLORS SHOW</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/DpVSfhkWbESP58aRYEQCfJUIoHhMAS3HDyMrI70Arsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM2/NzA3LTE2NjgyMzAw/MjYtMTUzNi5qcGVn.jpeg" alt="Cover for HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,7 +1460,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/4sgwj9HcLW27g1YS4BO8JiuC07vHePXLsWhEQuQVLrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIw/NjIxLTE2ODUwMzk4/MjUtNjk2Mi5qcGVn.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1865,36 +1479,13 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 48</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 54</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 49</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6733f92be97cc8ec99454e85dad4c6b9.png" alt="Cover for Revenge EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-01-13</td>
-      <td>Cute Door</td>
-      <td>Revenge EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,56 +1505,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/064ecbfb2358f39ae5897f46b3e2a7c1.png" alt="Cover for RORSCHACH" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-09-09</td>
-      <td>23wa</td>
-      <td>RORSCHACH</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/pLq4cvulQoIDXt_YRaZi6nAnNKN7sKewUkR4qgQXUxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzQ3/NDQwLTE3MDc0OTM2/NjUtOTc5My5qcGVn.jpeg" alt="Cover for The Legend of ABM" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-01-26</td>
-      <td>Angry Blackmen</td>
-      <td>The Legend of ABM</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1530,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 81</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 99</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 100</li>
@@ -1991,7 +1538,7 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/weoOtjcwaYUFu6-iMzkHTPWNCqV-tzmPuEgb9tfAH6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYy/NjIyLTE3MDg0Mzgx/OTktMjk0OS5qcGVn.jpeg" alt="Cover for 2093 (P2)" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,14 +1557,14 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 60</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1914379ce4e72c120f7a018666ccb1ec.png" alt="Cover for The Collective" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,19 +1573,17 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>The Collective</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 46</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 67</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78c6080f4eefda008fc136c4186637b4.png" alt="Cover for Carousel From Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,74 +1592,40 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       <td>Carousel From Hell</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 13</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/uO2X7RUsrikk8_1m-9OAUckQVqa7aOLmhJS8eM-jLsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/NDExLTE3MTYzMDc3/MjMtODQxNS5qcGVn.jpeg" alt="Cover for LAUGHINGFISH" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-05-20</td>
-      <td>Black Dresses</td>
-      <td>LAUGHINGFISH</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 13</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-          <img src="https://i.discogs.com/KiqGpfX2oaqs00mVxcmSCmlES7JzbXhK-lkORGyPpy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/OTI4LTE3MjI2MjEz/ODItOTAzOS5qcGVn.jpeg" alt="Cover for I LAY DOWN MY LIFE FOR YOU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0fbf0601a554a6e1c61226c22f7909.png" alt="Cover for I LAY DOWN MY LIFE FOR YOU" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-01</td>
       <td>JPEGMAFIA</td>
       <td>I LAY DOWN MY LIFE FOR YOU</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 96</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 67</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/CRAbMcV4OJ5xuOnft71Rm1j3W7AYSKCnSP6jNyBbKUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI2/MTc4LTE3MjkxNjQ1/OTgtOTczMy5qcGVn.jpeg" alt="Cover for Daredeviil2000" style="max-width:120px; height:auto;" />
       </td>
@@ -2135,7 +1646,63 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a4ecdba723aa74cc7e0dedd163b343c.png" alt="Cover for SKELETRIX LANGUAGE" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Edward Skeletrix</td>
+      <td>SKELETRIX LANGUAGE</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345f2ab17c9605d2ba3c9bc4b5c77310.png" alt="Cover for Blood Pact" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Death Tour</td>
+      <td>Blood Pact</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 33</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 37</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115c612172d7ee4494ffa919a0be36d7.png" alt="Cover for Museum Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Edward Skeletrix</td>
+      <td>Museum Music</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2154,12 +1721,30 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 31</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63ddeb74b4b83b73a7accd81b3771f60.png" alt="Cover for M&#39;Lady" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Dorian Electra</td>
+      <td>M&#39;Lady</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2180,84 +1765,28 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 39</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png" alt="Cover for Revengeseekerz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Death Tour</td>
-      <td>Blood Pact</td>
+      <td>Jane Remover</td>
+      <td>Revengeseekerz</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 57</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 71</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874304f6869f3db52ad965650ed5b85d.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Tyler, The Creator</td>
-      <td>Cherry Bomb</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09970a96f673790ec7c752a99a02e54f.png" alt="Cover for Acelero" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Crizin da Z.O.</td>
-      <td>Acelero</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Buy Muy Drugs</td>
-      <td>Buy Muy Drugs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 56</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2275,6 +1804,301 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f49087c9eb1441ba57eafa8f539723f0.png" alt="Cover for ANTI-ICON" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ghostemane</td>
+      <td>ANTI-ICON</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 29</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf81cd536efbe76e3b8bd540a651d5b5.png" alt="Cover for SCARING THE HOES" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>JPEGMAFIA</td>
+      <td>SCARING THE HOES</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae227857bfc377493be34bfcec01ff1.png" alt="Cover for I LIE HERE BURIED WITH MY RINGS AND MY DRESSES" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Backxwash</td>
+      <td>I LIE HERE BURIED WITH MY RINGS AND MY DRESSES</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb3b6bd5635780be0d6f623b8b6467a.png" alt="Cover for HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Backxwash</td>
+      <td>HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874304f6869f3db52ad965650ed5b85d.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Tyler, The Creator</td>
+      <td>Cherry Bomb</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b8116958325d54ce0f74793fe52792.png" alt="Cover for Puta &#x2F; Sola" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Arca</td>
+      <td>Puta &#x2F; Sola</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9e7fdb97214aefca5a964c6c1240dc.png" alt="Cover for The Powers That B" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Death Grips</td>
+      <td>The Powers That B</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 15</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/129abe00a88c4ad365fbd0f1f695126f.png" alt="Cover for black ben carson" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>JPEGMAFIA</td>
+      <td>black ben carson</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109adfe3cc11201e3fb97a246afc733d.png" alt="Cover for Veteran" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>JPEGMAFIA</td>
+      <td>Veteran</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>GhosteMane</td>
+      <td>N&#x2F;O&#x2F;I&#x2F;S&#x2F;E</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09970a96f673790ec7c752a99a02e54f.png" alt="Cover for Acelero" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Crizin da Z.O.</td>
+      <td>Acelero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f21ac9cfee3ce255ca2de2491ff1bd50.png" alt="Cover for Buy Muy Drugs" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Buy Muy Drugs</td>
+      <td>Buy Muy Drugs</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2e722375163e8d37b291b18f7b1ecb8.png" alt="Cover for A Odisseia do Neguinho Violento e Vingativo" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>D$ Luqi</td>
+      <td>A Odisseia do Neguinho Violento e Vingativo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7749110ccdf4819a0846195763185ab3.png" alt="Cover for Cruel Practice - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Shygirl</td>
+      <td>Cruel Practice - EP</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7fd62962ee0e28b8c26555d67521ba.png" alt="Cover for Dead Channel Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>clipping.</td>
+      <td>Dead Channel Sky</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47b6f81403e1a6a56c7250dbaf4bd9d.png" alt="Cover for SAOKO" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ROSALÍA</td>
+      <td>SAOKO</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2284,12 +2108,12 @@ Industrial hip hop fuses aggressive rap vocals with harsh, abrasive production d
 ### Related genres
 
 - [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})
-- [trap metal]({{ "/tags/trap-metal" | relative_url }})
 - [glitch hop]({{ "/tags/glitch-hop" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
 - [hardcore hip hop]({{ "/tags/hardcore-hip-hop" | relative_url }})
+- [trap metal]({{ "/tags/trap-metal" | relative_url }})
 - [abstract hip hop]({{ "/tags/abstract-hip-hop" | relative_url }})
-- [digital hardcore]({{ "/tags/digital-hardcore" | relative_url }})
 - [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [electro-industrial]({{ "/tags/electro-industrial" | relative_url }})

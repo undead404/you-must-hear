@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:09:44.311Z
+date: 2025-11-24T04:24:38.396Z
 permalink: tags/post-industrial
 title: post-industrial
 ---
 
 ## post-industrial
 
-Last updated: <time datetime="2025-11-18T12:09:44.311Z">Tue Nov 18 2025 14:09:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T04:24:38.396Z">Mon Nov 24 2025 06:24:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/1cdTSeIrxJ3WXQwlnJ5U0b5s7cw_Hzsw7Epb7d5MmJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk5/LTE2MTM0ODU1NjQt/MjA2NC5qcGVn.jpeg" alt="Cover for Songs of Love and Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
       </td>
       <td>1987-12</td>
@@ -65,7 +65,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/azAAmAGVnvqJ6W2PwGrHHW_6bcryxmuJqksNvFZjbKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgz/OTQtMTM0MTgyODAx/MC0yMzk1LmpwZWc.jpeg" alt="Cover for Spiritflesh" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f10cd49c2e64b97e2b5ee83cce935f.png" alt="Cover for Love&#39;s Secret Domain (30th-anniversary edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe6b52f7bb54ba0cb8ed12073b3425e.png" alt="Cover for Лёгкое дело холод" style="max-width:120px; height:auto;" />
       </td>
@@ -124,13 +124,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 74</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 75</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 77</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d1a5072b4d3e07438ef23431750563e.png" alt="Cover for Construction Time Again (2007 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
       </td>
       <td>1995-08-28</td>
@@ -168,7 +168,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/968c39f41afe3634566d1a32ba8bfc4c.png" alt="Cover for Gun Aramaic" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +190,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
       </td>
       <td>1996-04-16</td>
@@ -212,7 +212,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/IytLwbmJfMVBhKHYKiEppecRNqOlv1CLp3Dq24TGBHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYw/Ny0xMzgzNDE5Nzc4/LTU2NjYuanBlZw.jpeg" alt="Cover for Killed by Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -232,13 +232,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 45</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 46</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ca740fb5f83ed4878db1fac38f58db9.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -253,13 +253,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 35</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77cbaabaebe8457e8ec9e174c0e1ca2f.png" alt="Cover for Серый Альбом" style="max-width:120px; height:auto;" />
       </td>
@@ -277,12 +277,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 83</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6285253160c046c0b78b4f7cfab84c1e.png" alt="Cover for Radio Hades" style="max-width:120px; height:auto;" />
       </td>
@@ -300,7 +300,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
       </td>
       <td>1999-04-06</td>
@@ -324,7 +324,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/z0AssTKkam7atCDxYnbBaY5E7CV4rDlliTh-yZ5Pxdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjk1/MC0xMzUxOTAwNDE0/LTcyNjIuanBlZw.jpeg" alt="Cover for Легкое Дело Холод" style="max-width:120px; height:auto;" />
       </td>
@@ -342,14 +342,14 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 69</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 72</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 72</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/D3u3kyRAVeDXzB1_w411CDhQQLPcfrV0L4Q1gWWlBRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY5/MzctMTI2NzA1OTA5/NC5qcGVn.jpeg" alt="Cover for Lucy &amp; Aaron" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +367,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001-11-20</td>
@@ -387,7 +387,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/hbd-NaLelNGJsv4KB2KmLaTrlfPKI4PJ-OGINnQUEAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjcz/NC0xMTkyNTYwNzQ5/LmpwZWc.jpeg" alt="Cover for Beckoning At The Black" style="max-width:120px; height:auto;" />
       </td>
@@ -411,7 +411,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39242df59284bf509a74f5baf58bf882.png" alt="Cover for &quot;I Could Go Anywhere But Again I Go With You&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -430,7 +430,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a6f6f4d482077be3d1b020ef0884cfc.png" alt="Cover for Hot Wet &amp; Sassy" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +449,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37d0976f3e8290243f7461e330d88ee4.png" alt="Cover for デビル メイ クライ 3 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +475,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2005-06-14</td>
@@ -491,13 +491,57 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 55</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 56</li>
             <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg" alt="Cover for Entropy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-25</td>
+      <td>Mind Necrosis Factor</td>
+      <td>Entropy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 73</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/166476d717abf1e93ceb11b5d0f0c478.png" alt="Cover for Empreintes" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +561,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa7eca5f29253884f18ccc9cf3c9f335.png" alt="Cover for The Ape of Naples" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +580,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
       </td>
       <td>2006-09-03</td>
@@ -556,7 +600,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
       </td>
       <td>2007-12-04</td>
@@ -572,12 +616,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 67</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-05-13</td>
@@ -592,13 +636,57 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 22</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 24</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg" alt="Cover for Morphogenesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-26</td>
+      <td>Mind Necrosis Factor</td>
+      <td>Morphogenesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>2008-10-09</td>
@@ -613,12 +701,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 77</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/AGXuy6RDUIyydLDphbPYYFZGp47FnH6KWE8zd1kWifo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTY2/MDAtMTMyODc5NDc1/Mi5qcGVn.jpeg" alt="Cover for Terre Humaine" style="max-width:120px; height:auto;" />
       </td>
@@ -641,7 +729,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>2009-12-23</td>
@@ -658,12 +746,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 24</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7688eaa1c884146920488a28f295de7.png" alt="Cover for Night City" style="max-width:120px; height:auto;" />
       </td>
@@ -681,13 +769,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 31</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db4ef959912e40459e9b3c22e6ac68fa.png" alt="Cover for How to Destroy Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -706,7 +794,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5cd4bd939e4471a9d86458829b0c81d.png" alt="Cover for Seconds Late for the Brighton Line" style="max-width:120px; height:auto;" />
       </td>
@@ -725,7 +813,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-12-21</td>
@@ -760,9 +848,9 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 13</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 44</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
@@ -773,7 +861,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0e0e84f2f8f49db98fba0b3fce0c5a4.png" alt="Cover for Creepshow" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +880,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -818,15 +906,15 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 2</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 5</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ab20a07835ba61ef2f926bdd1e4ce29.png" alt="Cover for Welcome Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -840,12 +928,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
@@ -886,11 +974,11 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
@@ -902,7 +990,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-11-12</td>
@@ -927,7 +1015,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/277ef4c22ed060fe7f12362bd3c9cd45.png" alt="Cover for Caged Animal" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +1037,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/7pq3KTG2C0XFb7ZrU-C3i_Y6ytqAHjr8U3KxeyF7M4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk5/NTUxLTE2MTg0Mzg0/MDAtNzY0NC5qcGVn.jpeg" alt="Cover for Pxe - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -968,12 +1056,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>2014-02-04</td>
@@ -986,12 +1074,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 8</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20b6f3a457c79c23f5f05d271ae12b89.png" alt="Cover for Demonico EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,12 +1096,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 51</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c8d4a03a7ac4322868693fcc80b36b.png" alt="Cover for Flanch" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,6 +1140,26 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/UAX-Sdc5yS7cgP2iSJaA0OdiWwHjEqIDhN-enq-jfEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NTc1LTE2Nzc3OTU5/MzgtMzU2MS5qcGVn.jpeg" alt="Cover for Ignore Grief" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-17</td>
+      <td>Xiu Xiu</td>
+      <td>Ignore Grief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>87</td>
       <td>
           <img src="https://i.discogs.com/rN1GMANQQI-iH5S1FujcD1GDCrCTheWuk8YQAP6mjH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDcx/ODQtMTQ4NzI5MDQz/OS00MDIyLmpwZWc.jpeg" alt="Cover for Forget" style="max-width:120px; height:auto;" />
@@ -1067,8 +1176,8 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 80</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1222,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54df7aa898c22ecda4abe5e0bba2f791.png" alt="Cover for City of Women" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1241,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/mSz3RjNfI4YUuqyzcEGNxoqMHbz1LrrvN-_Y8-PIGeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ3/ODQ4LTE1MDE5MDU4/NzUtNzYxNy5qcGVn.jpeg" alt="Cover for Voodoo-U (Special Remastered Band Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,57 +1283,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 92</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c621d33e6b60d05289e1b62d928e1cfc.png" alt="Cover for Insert Genre Here" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-12-25</td>
-      <td>GROUNDBREAKING</td>
-      <td>Insert Genre Here</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 66</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/2nqf_PUYLPLP6VL342yNKpMdMCjDlCq3miJ7yH1HUDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI3/MzY4LTE1MjQ5MDU2/MDgtMjg4MC5qcGVn.jpeg" alt="Cover for UNA VITA IN CAPSLOCK" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-04-20</td>
-      <td>M¥SS KETA</td>
-      <td>UNA VITA IN CAPSLOCK</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/CQC3ET18tJimHKrR9C_6dnBPWePX5QjpzA5t_MIqh5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg4/MzU4LTE1MjYwNzI3/MjktMjE3Mi5qcGVn.jpeg" alt="Cover for DNA Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1312,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b482e95ee228abbaaccd0d5a31b81ad2.png" alt="Cover for Oil of Every Pearl&#39;s Un-Insides" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,10 +1326,10 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 2</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 6</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 5</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 13</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 94</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 96</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1284,13 +1348,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/WScE5EonhlLhlWNTh3sti7-HUdhaVJVkIblYsvK3wRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NDg3LTE2ODc5ODM4/MTctMzMxNC5qcGVn.jpeg" alt="Cover for Skinless X-1" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,9 +1375,9 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 40</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 64</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1398,8 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 75</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 91</li>
         </ul>
       </td>
@@ -1358,15 +1422,15 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 69</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b468c89d5ed16833510109e5bede077.png" alt="Cover for Pastoral" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,12 +1450,37 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64a8b0d310cdf58a5f37abd9359e3c8b.png" alt="Cover for Inhaling Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88e4768ee398638aa83b2dc160e366f.png" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-14</td>
+      <td>Uboa</td>
+      <td>The Origin of My Depression</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 99</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/M8TQ1vyP9xQ8kW7C8GJj7AIYvqMKF2Z5w6jAGKwhaYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE2/NzQ4LTE2NDk0OTA5/NzMtNTc5OS5qcGVn.jpeg" alt="Cover for Inhaling Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-11</td>
-      <td>dylann angercar</td>
+      <td>Dylann Angercar</td>
       <td>Inhaling Light</td>
       <td>
         <ul>
@@ -1411,9 +1500,9 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/tcThqhTctEjfLWV6rrgsuRWNPULHKWIyZ_VJDVMl0Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTMx/NDItMTQ3MTQ0MzUy/Ny0zMDk1LnBuZw.jpeg" alt="Cover for Neurosis &amp; Jarboe (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/502de28d34e0f3d11e1e0702906f2454.png" alt="Cover for Neurosis &amp; Jarboe (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-02</td>
       <td>Neurosis</td>
@@ -1433,7 +1522,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/HZ9xNpmqW1szpDKjQhJ2OZTptr7aaODmHWqMefueSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIy/MjM4LTE2MDcwNTYx/ODktOTI1OS5qcGVn.jpeg" alt="Cover for No Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,12 +1536,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 56</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddc40f654743fdcf045820ffb518886c.png" alt="Cover for Feeling Cool And Normal" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,9 +1579,10 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 2</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 39</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 77</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
         </ul>
       </td>
@@ -1533,6 +1623,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 2</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 100</li>
         </ul>
       </td>
@@ -1555,9 +1646,9 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 20</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1582,9 +1673,9 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 4</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1607,7 +1698,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 71</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 95</li>
         </ul>
       </td>
@@ -1639,22 +1730,23 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5346abf9b7db2b454657c4ce067fa64c.png" alt="Cover for The Asymptotical World - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1769,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/quoTuqJFpalBnt8s8nRyIMy1HYmSGc_0KCot-gW3KG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU5/NjcwLTE2MzUyMTcy/MjgtMjQwOC5qcGVn.jpeg" alt="Cover for Eternal Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1693,12 +1785,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76d1c03cf28f134636da62cf7117fe3.png" alt="Cover for Drift" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,7 +1812,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb2801542e1bf3b8d4807c2fc26b9cf.png" alt="Cover for Concrete" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1834,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccac69131d4e2ca094d1716bb72b8691.png" alt="Cover for Beautiful Illusions" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,15 +1874,17 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 29</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 46</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/VU0NYMp89i37XHzXrEymYR4d4mD7aVKj324tnn3dWJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIz/NjkyLTE2NTkyODc2/MjMtMTM5OC5qcGVn.jpeg" alt="Cover for I Can&#39;t Die As Well" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,28 +1904,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/a5SHD2zM2lpVNn-ZPGoavQCDDNCWyuhfKfRd1phgNXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQy/NjYyLTE2NDk3MTA1/ODktODA5MS5qcGVn.jpeg" alt="Cover for Dreams Drenched in Static" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-04-15</td>
-      <td>Cremation Lily</td>
-      <td>Dreams Drenched in Static</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1850,13 +1924,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 35</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 37</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3951eee522a737c393be2d0939c07548.png" alt="Cover for Suture" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,8 +1944,8 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 21</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 22</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1892,12 +1966,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 48</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.png" alt="Cover for I&#39;ll Try Living Like This" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,8 +1984,8 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 55</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 57</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1937,10 +2011,10 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 47</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 59</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
@@ -1969,15 +2043,15 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 44</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 69</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/E2ERLoUrAcjlQs6rh1X7X7UDFmjDuBUBXUXQqyNt_yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDMzLTE1MzczNjc5/OTktOTg4NC5qcGVn.jpeg" alt="Cover for Hobby Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,7 +2070,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 78</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2021,14 +2095,14 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 48</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 51</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 65</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 53</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/5xtdpsdZ_lbwXk9_fHW73lG0EeBJpj54rT0dnnqYiYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTE4LTE2ODAzNjQy/OTMtMzgyMS5qcGVn.jpeg" alt="Cover for I am upset because I see something that is not there." style="max-width:120px; height:auto;" />
       </td>
@@ -2051,12 +2125,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 35</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/6AZ9DGHPcb5_gk9clRcBiUvEwITz29KYJcbvZxrmnrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjYz/MjYxLTE2ODA3Mzc0/NTUtMTg4NC5qcGVn.jpeg" alt="Cover for &quot;Darling The Dawn&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -2076,7 +2150,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Dmxx33s6UflKhfTwnR9XwgVmrJ7ZC2Wmy6FXjyLTomc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEz/MjQxLTE2ODQzOTI1/ODgtODI4Ni5qcGVn.jpeg" alt="Cover for Dismantled Into Juice" style="max-width:120px; height:auto;" />
       </td>
@@ -2091,12 +2165,12 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 52</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/dB3z1GRchuvl5pI3sLaqV2sPqIAqVtPuU5YvrSmUyYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzcz/NDk2LTE2OTg5MTQ1/NjMtOTQ1Ny5qcGVn.jpeg" alt="Cover for Acts of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,7 +2190,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8865138fe2d8989b5282b305c1d4b053.png" alt="Cover for Shake It Like A (Jane Remover Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2142,7 +2216,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 35</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2163,46 +2237,14 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 59</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 61</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 62</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78c6080f4eefda008fc136c4186637b4.png" alt="Cover for Carousel From Hell" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-04-26</td>
-      <td>LustSickPuppy</td>
-      <td>Carousel From Hell</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2221,7 +2263,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -2238,13 +2280,13 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 49</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 51</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -2261,7 +2303,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 53</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 55</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 64</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
         </ul>
@@ -2286,7 +2328,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 84</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 85</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 92</li>
         </ul>
       </td>
@@ -2305,8 +2347,8 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 59</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 87</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2329,7 +2371,7 @@ Post-industrial music emerged from 1980s industrial&#39;s harsh aesthetics, soft
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 65</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 92</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 97</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 98</li>
         </ul>
