@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T22:56:43.804Z
+date: 2025-11-24T01:51:59.350Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-11-22T22:56:43.804Z">Sun Nov 23 2025 00:56:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T01:51:59.350Z">Mon Nov 24 2025 03:51:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -236,7 +236,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>1963</td>
@@ -349,6 +349,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>Bellini, V.: Sonnambula (La) [Opera]</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Birgit Nilsson</td>
+      <td>Puccini:Turandot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
       <td>
@@ -847,7 +864,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
       </td>
       <td>1990</td>
@@ -957,7 +974,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td>1994</td>
@@ -1045,7 +1062,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
       <td>
       </td>
       <td>1996</td>
@@ -1479,7 +1496,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
       </td>
       <td>2018</td>
@@ -1565,6 +1582,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra e Coro del Teatro Regio di Torino</td>
+      <td>Verdi: I Due Foscari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1694,44 +1728,12 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
       <td>Ferdinando Fontana</td>
       <td>Puccini, G.: Villi (Le) [Opera]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia, Jan Latham Koenig, Lucia Mazzaria, Jonathan Summers, Martha Senn, Mario Malagnini, Bruno Praticò, Silvano Pagliuca , Pietro Spagnoli, Romano Emili, Giampaolo Grazioli, Cinzia De Mola</td>
-      <td>La Bohème</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata</td>
-      <td>Bellini: Bianca &amp; Fernando</td>
       <td>
         <ul>
         </ul>

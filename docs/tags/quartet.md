@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T18:21:06.266Z
+date: 2025-11-24T00:38:38.648Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-22T18:21:06.266Z">Sat Nov 22 2025 20:21:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T00:38:38.648Z">Mon Nov 24 2025 02:38:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -624,6 +624,24 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>2001</td>
       <td>Come Shine</td>
       <td>Come Shine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/qkAdOKaxHBIZiV_drPA3Jb64EXr4L8ElN3wDBz52_Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OS0xMzk3NzY4NDA0/LTI3NTcuanBlZw.jpeg" alt="Cover for シューベルト:「死と乙女」「ロザムンデ」　85" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Alban Berg Quartet</td>
+      <td>シューベルト:「死と乙女」「ロザムンデ」　85</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
@@ -1393,7 +1411,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 8</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 33</li>
         </ul>
       </td>
@@ -1570,35 +1588,36 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Giulio Genovese</td>
-      <td>Presages</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>
       </td>
       <td></td>
-      <td>Eujineus</td>
-      <td>Eujineus Quartets 2012</td>
+      <td>Patricio da Silva</td>
+      <td>Piano Quartet</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lute" | relative_url }}">lute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
         </ul>
       </td>
       <td>
@@ -1750,6 +1769,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f02b0709013b89fb8260ddea5fc92ee.png" alt="Cover for Bibletone: Arnold Hyles and The Rangers Quartet" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Arnold Hyles</td>

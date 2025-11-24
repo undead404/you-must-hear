@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:39:10.069Z
+date: 2025-11-24T01:12:38.058Z
 permalink: tags/dark-ambient
 title: dark ambient
 ---
 
 ## dark ambient
 
-Last updated: <time datetime="2025-11-18T09:39:10.069Z">Tue Nov 18 2025 11:39:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T01:12:38.058Z">Mon Nov 24 2025 03:12:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55c2d21f19d1e9868471c17cee5c85fb.png" alt="Cover for Ambient 4: On Land (Remastered 2004)" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04c7a09bae00211a4db62d108ec7ca46.png" alt="Cover for Ambient 4: On Land" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/gNOWElMPMfd5rruIktdzIrmiECb1W8uKr7_M4ewQ3wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTkz/MjYtMTQ1NzQyMTY3/NC03MTIxLmpwZWc.jpeg" alt="Cover for ForbiddenImage" style="max-width:120px; height:auto;" />
       </td>
@@ -81,12 +81,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 31</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9b7c3f1e3474a63a8fe0bd32228e157.png" alt="Cover for Teimo" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b1994f1a2e344a486558b073cc27833.png" alt="Cover for Permafrost" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td>1994</td>
@@ -144,7 +144,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27cbbe4e88884b81911699b88c2d5eca.png" alt="Cover for Selected Ambient Works Volume II" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -186,7 +186,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
       </td>
       <td>1995</td>
@@ -203,7 +203,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb6cd9f24ab695e8f515157dee38c7e.png" alt="Cover for Stalker" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +221,25 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f0833d38f3a488cb1e4872fe8f28c67.png" alt="Cover for Crypt Of The Wizard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Mortiis</td>
+      <td>Crypt Of The Wizard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
       </td>
       <td>1996</td>
@@ -238,7 +256,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a9254c09bbc834a6bf9aca915ac811.png" alt="Cover for Quake" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +276,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/zU4y0iWD3XpGBH5lhksrhlh0ENTowB4EFgh--jlYRsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkx/MC0xNDUzNzQ3OTg0/LTU2NDkuanBlZw.jpeg" alt="Cover for Ephemeral" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +296,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
       </td>
       <td>1997-06</td>
@@ -296,7 +314,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
       </td>
       <td>1998-03-23</td>
@@ -313,7 +331,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
       </td>
       <td>1998-10-13</td>
@@ -327,13 +345,13 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 26</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 27</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a097ae23c1bc7913558a061789336d35.png" alt="Cover for Hlidskjalf" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +404,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2000</td>
@@ -406,7 +424,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/U1ZsbXY50cE4BZrI6a-rUhvDIBjqOKu-gvtup-_mOJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM5/Mi0xMzQyNjEzMTg5/LTg4ODkuanBlZw.jpeg" alt="Cover for In Nomine Aeternitatis" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +443,28 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5adcf49dafe341b1c1b284e51e3be7b9.png" alt="Cover for Silence Teaches You How To Sing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Ulver</td>
+      <td>Silence Teaches You How To Sing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa40d2da39374691c662099c2f19889a.png" alt="Cover for Nostromo" style="max-width:120px; height:auto;" />
       </td>
@@ -445,27 +484,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5adcf49dafe341b1c1b284e51e3be7b9.png" alt="Cover for Silence Teaches You How To Sing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Ulver</td>
-      <td>Silence Teaches You How To Sing</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31fd51fc8951445a8aecfcf6275ac7d1.png" alt="Cover for Deadbeat" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +502,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2047e544bac8c8d153d87e04137a0d8b.png" alt="Cover for Metavoid" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +520,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
       </td>
       <td>2001-06</td>
@@ -520,7 +539,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c0891639327a0ac96ca2ab66a79402.png" alt="Cover for Saviour" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +559,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55be2672cff8075f0192591bd2788d1d.png" alt="Cover for The Smell Of Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -554,12 +573,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc130dfb50c8595fab737d688e582f6.png" alt="Cover for Black Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -568,7 +587,6 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       <td>Black Earth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -578,7 +596,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41d05729e4b54dd085710fcc237a7d92.png" alt="Cover for Inner Pale Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -595,12 +613,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
       </td>
       <td>2003</td>
@@ -617,7 +635,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-09-02</td>
@@ -634,7 +652,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2004</td>
@@ -649,7 +667,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 19</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +690,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2004-03-22</td>
@@ -689,7 +707,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004-08-23</td>
@@ -704,12 +722,13 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2004-09</td>
@@ -726,7 +745,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/709c1c311a3c4d7bcde8f3f8d754bd48.png" alt="Cover for Saurian Meditation" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +764,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/609e1f0876c94dae9284ec18be921b2e.png" alt="Cover for Nuuk" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +785,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2004-10</td>
@@ -788,7 +807,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>70</td>
       <td>
       </td>
       <td>2004-12</td>
@@ -806,7 +825,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7301d4a169424f5f8e7c4ad7ef904f1b.png" alt="Cover for The Starwheel" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +844,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/322e97d5b35b66e916f1e5102ac90ef8.png" alt="Cover for That Which Is Tragic and Timeless" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +862,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31745d4a24fd4a29ca5819fe380ed116.png" alt="Cover for Draconian Poetry" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +881,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44726488cd3e482fbcc5dd933f9eef80.png" alt="Cover for Pale Ravine" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +899,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e927361063fb789b5123b51b4d64559.png" alt="Cover for Horizons" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +917,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d5d32979003284f712c719030929e69.png" alt="Cover for Ptahil" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +935,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/042a64a50b164c86ccc66826f6944b79.png" alt="Cover for The Inmost Light" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +959,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1586c91e8e5b43ab8e8200cb79f0fdab.png" alt="Cover for Deep Frieze" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +978,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a43ccb2ba27a4bb8b1c4100d90831f38.png" alt="Cover for Einsamkeit" style="max-width:120px; height:auto;" />
       </td>
@@ -977,7 +996,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4aa3b311ef3c4c1ca9edc6a81d5f4687.png" alt="Cover for Seven Sorrows" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +1014,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9d994da3e3c4480a5185d5deffbd1d1.png" alt="Cover for Dead People&#39;s Trails" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1033,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937e3396777059c22705cfcb5414ac06.png" alt="Cover for Shadows of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,12 +1047,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75bb70f95a1cea4e00a0984ac71ed144.png" alt="Cover for Under Seven Skies" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,13 +1086,13 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 63</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 71</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/840fa37c80e7403196d9e8c43728d170.png" alt="Cover for Irdial" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1113,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/dPqBYDmf74OGyYFbWJXTL_heIfBrvXt6yprgG4Kprfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzkw/NTctMTU1ODEyMDUw/OS0xNTk5LmpwZWc.jpeg" alt="Cover for Eye of the Soundscape" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1134,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47a2f0ebcd29313c1ff5cc942c258b38.png" alt="Cover for Drive (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,12 +1151,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 7</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b16267693b04769c7620f946dab1041.png" alt="Cover for Saurian Exorcisms" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1176,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2009-05-22</td>
@@ -1174,7 +1193,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e75c6b28658d4265b4385d0efa9dcaf4.png" alt="Cover for Daudi Baldrs" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,13 +1207,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       <td>
         <ul>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 90</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/EuCdv7kY7gHOv6ge4rcy0QUJxV-WH8kjIXCyJv-PAqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU3/NDM2LTE1MTg0NTgz/NzMtMzk3OC5qcGVn.jpeg" alt="Cover for beko_BOX1_1" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1230,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d47efc2806b042afc2d2e23051c46166.png" alt="Cover for Mythic Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1248,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cda9638cdae44938b6395734f84bcd64.png" alt="Cover for Owl Splinters" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,11 +1262,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ad3800944ef48e29e4886f2ea862394.png" alt="Cover for With U" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,14 +1280,14 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 12</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-06-06</td>
@@ -1285,7 +1304,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb045a9d135f07bebe9c420f06c8c0e.png" alt="Cover for 20 Jazz Funk Greats (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,13 +1323,13 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 80</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71ac4a2f016b4c0ba19d30f905d1dcf0.png" alt="Cover for Procession" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1348,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2012-10-09</td>
@@ -1347,7 +1366,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdbc2e203af64d26b48fddf3dd5efd2b.png" alt="Cover for Quarter Turns Over a Living Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1384,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/M6WpNgdNeoay0T01dqtEa8-6b7ahiViaZh-QaSMSfEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTYz/NTQtMTYwNTM3MzI5/MS02NTM5LmpwZWc.jpeg" alt="Cover for Sol Austan, Mani Vestan" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1439,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/nO7N1YSsuHpy8bBrR6vUZ1mlZW_3pXhBnoOTasA-TtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQy/NDQtMTM1NjEwMDY2/OC0zMTQwLmpwZWc.jpeg" alt="Cover for Purifying Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1457,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/ESfk3OXPjfwrKxUxMXcbGOgoqfKxBirDZmx-L56w76Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkw/ODEtMTQzODYxODA2/MS04NjUyLmpwZWc.jpeg" alt="Cover for The Word As Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1478,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/aPj_Sa9HovckxGdCRYzJFLop_pjOSWS-BgW_HAsLyY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzI0/NC0xMjI2MDAxMTkz/LmpwZWc.jpeg" alt="Cover for The Place Where The Black Stars Hang" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1496,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/286fc8840b95473cc701d1434b7e7edf.png" alt="Cover for Piano Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1516,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-05-21</td>
@@ -1511,12 +1530,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 58</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1532,14 +1551,14 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 7</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 8</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 13</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2015</td>
@@ -1573,8 +1592,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 85</li>
         </ul>
       </td>
@@ -1598,7 +1617,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/L4tF4KUXWOMmeq3Ow1x3rif0yniMuyGL6pGa3X0z4JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk3/MzU5LTE1MTE2ODY4/MzAtNDY2Ny5wbmc.jpeg" alt="Cover for Diablo II Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,7 +1636,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb3c25bd2b05da614e4cd3b927131157.png" alt="Cover for Satanic Slumber Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1656,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1660,14 +1679,14 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 81</li>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Hba1kF3sG8g1I7xBp7tLYU3u0Hz-DewQfNzfFpkBodE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NDAxLTE1NjY3ODA4/NTktNDE0NS5qcGVn.jpeg" alt="Cover for Black Corner Den" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1707,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4748bc3098288264ac0c86b848482665.png" alt="Cover for The Lunar Lexicon" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,12 +1723,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 92</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88e4768ee398638aa83b2dc160e366f.png" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,37 +1767,12 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg" alt="Cover for Visions of Bodies Being Burned" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-10-23</td>
-      <td>clipping.</td>
-      <td>Visions of Bodies Being Burned</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 68</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 75</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f31d3a759b9993ac05b7b53aee4cd8.png" alt="Cover for Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1794,29 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/EsfBZcl6GrSG6OyYBrLrmCp_jPTb1DiU-PFLz4pAe20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDUw/LTEzMjMwOTc1Njcu/anBlZw.jpeg" alt="Cover for Пособие для начинающих: Глас Сéребра" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-27</td>
+      <td>Coil</td>
+      <td>Пособие для начинающих: Глас Сéребра</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66d3b52230f39a3f7fbbf28724787ddc.png" alt="Cover for Bohren For Beginners" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,9 +1863,10 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
@@ -1862,7 +1879,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/Xf7sGtDnTZgLuZfpl2kDENkFeJuCIzEJf4Gftkycc7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTU3/NDY4LTE2Mjk2NTc5/NjctNjkxNy5qcGVn.jpeg" alt="Cover for Disco Elysium" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1920,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b1e4205aaa9e8f742d1e5c9eb45c3f.png" alt="Cover for SILENT HILL4 -THE ROOM- (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,7 +1956,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fbe05e0694b4777e5004595539c02db.png" alt="Cover for Twin Peaks (Limited Event Series Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,29 +1974,6 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png" alt="Cover for ペルソナ4 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>アトラスサウンドチーム</td>
-      <td>ペルソナ4 オリジナル・サウンドトラック</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 25</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 28</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 78</li>
         </ul>
       </td>
     </tr>

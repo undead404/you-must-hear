@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T06:26:50.515Z
+date: 2025-11-24T01:11:37.965Z
 permalink: tags/comedy-rock
 title: comedy rock
 ---
 
 ## comedy rock
 
-Last updated: <time datetime="2025-11-13T06:26:50.515Z">Thu Nov 13 2025 08:26:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T01:11:37.965Z">Mon Nov 24 2025 03:11:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/722ea1f22ae203ed9e6915d3451f196f.png" alt="Cover for The Doughnut In Granny&#39;s Greenhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-11</td>
       <td>The Bonzo Dog Band</td>
@@ -49,7 +50,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8895e64eb26159a60eed9656e510854e.png" alt="Cover for Troia" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +71,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d580c96206b0e2586ddc393b377c148a.png" alt="Cover for Sheik Yerbouti" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +85,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -103,12 +104,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 55</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15bc63ea0744acbbb94fba5f8c49a66.png" alt="Cover for This Is Spinal Tap" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +127,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0803a6ddf59db992ee47eb492363bef2.png" alt="Cover for Big Lizard in My Backyard" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +145,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/ZMfArr71arQkd7VP9PyCVs-h5b_FTxebaZdnl6_bF90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njcy/MjctMTM5Njc0NDM0/NS05NDI3LmpwZWc.jpeg" alt="Cover for UHF: &quot;Weird Al&quot; Yankovic" style="max-width:120px; height:auto;" />
       </td>
@@ -184,7 +185,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee4e3919dea715bd122769a9a39b19eb.png" alt="Cover for Beelzebubba" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +200,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 56</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -224,7 +225,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df152adcd88207d5deec2c7c829aa048.png" alt="Cover for Even Worse" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +240,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 63</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +286,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/rhvCD70l1IJwcmPSgR37FTW_X4hgpdu5KeX4PXB4RgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjEz/ODYtMTM1ODk0MTYw/MC02NTE3LmpwZWc.jpeg" alt="Cover for Paté d&#39;animo" style="max-width:120px; height:auto;" />
       </td>
@@ -324,17 +325,16 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c8b54e0fa4fca84fe7f900e59e529b.png" alt="Cover for The Pod" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-09-20</td>
       <td>Ween</td>
       <td>The Pod</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
         </ul>
       </td>
       <td>
@@ -343,7 +343,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1992-04-14</td>
@@ -363,7 +363,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/NPpybS1SsBvfDaAP6SzB6jQDcR6yO_qevEsofeM4j1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTgw/NC0xMzk0NjY4OTA5/LTQyMjcuanBlZw.jpeg" alt="Cover for Smells Like Nirvana" style="max-width:120px; height:auto;" />
       </td>
@@ -404,27 +404,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26c595545470d724604838e50873d95.png" alt="Cover for Gordon" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992-07-28</td>
-      <td>Barenaked Ladies</td>
-      <td>Gordon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 48</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b742ac9f1c94873856601d1380748d3.png" alt="Cover for Pure Guava" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +413,6 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       <td>Pure Guava</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
         </ul>
       </td>
       <td>
@@ -462,7 +441,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/gfiwX6Gp3phePqNKWqKBhrmVEVu24BU6QMAW6sJU4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjY2/NjYtMTM4NjU3Nzgy/Ny04ODIwLmpwZWc.jpeg" alt="Cover for Родина Слышит" style="max-width:120px; height:auto;" />
       </td>
@@ -477,12 +456,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 43</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6417f7bc3bb69691323690c12fc360f.png" alt="Cover for &quot;Weird Al&quot; Yankovic" style="max-width:120px; height:auto;" />
       </td>
@@ -496,33 +475,14 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td>1996-05-06</td>
-      <td>Ween</td>
-      <td>12 Golden Country Greats</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 6</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 35</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b27b97511983c849a45b45998d534bc8.png" alt="Cover for The Mollusk" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-24</td>
       <td>Ween</td>
@@ -535,11 +495,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/323c312e0e60aaf40d8f207c97a0c27f.png" alt="Cover for Chef Aid: The South Park Album" style="max-width:120px; height:auto;" />
       </td>
@@ -580,8 +541,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 41</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 42</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -602,12 +563,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 13</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/202205869025b60b797cbfefc8187a6b.png" alt="Cover for The Mark, Tom And Travis Show (The Enema Strikes Back!) [live]" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +585,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/iHBcSj4m8E-r6IxHfGoJZVHOpKnt-uoYQORrENYMwUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTIy/NC0xMzI4MzAwMzg5/LmpwZWc.jpeg" alt="Cover for Recipe Ferrum! 777" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +605,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3318c0988f417f7304fabba985267f07.png" alt="Cover for Myths, Legends and Other Amazing Adventures Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -663,6 +624,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03129520a5e04a58aa10538179a9957b.png" alt="Cover for A Garage Dayz Nite" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Beatallica</td>
@@ -702,7 +664,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da352d62150734d382cc71b141d08b7a.png" alt="Cover for Weeeeee!" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +724,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ec9ac76458e47fca2b6919dd53c9889.png" alt="Cover for Tenacious D" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +742,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2094bc237d9a36109d677da892d1a0c8.png" alt="Cover for Cicciput" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +763,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/uWv1jQs-TTz9vUs3DMu9MRszujRGR36mKy4j72WbUiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg0/NjEtMTI0MjEyOTQ5/Ni5qcGVn.jpeg" alt="Cover for Concerto pour détraqués!" style="max-width:120px; height:auto;" />
       </td>
@@ -818,13 +780,13 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 15</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 17</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/248b33e5a260bd5320d8c5b6046d8c1b.png" alt="Cover for Concerto pour détraqués" style="max-width:120px; height:auto;" />
       </td>
@@ -841,13 +803,13 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 19</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 21</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2004</td>
@@ -864,7 +826,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/I-Nl-eTWuweirM7Vq5hYBHn0R98iP4K6NSPUOKIjSyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTIz/OS0xMTQ2MzYxMDAx/LmpwZWc.jpeg" alt="Cover for Den Femte Statsmakt" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +865,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/lZur1GbbT42ZSqIRLju7Mo2sNGzrH3iikmrXhubnkE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTU2/ODMtMTI0NTIxODcy/OC5qcGVn.jpeg" alt="Cover for Сулейман Стальский" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acf836b5d610d5e4779fae8a26740c5e.png" alt="Cover for Сулейман Стальский" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Коммунизм</td>
@@ -940,7 +902,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2006-03-29</td>
@@ -976,7 +938,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c3d305fe2b74c7d80020ac641ff39ca.png" alt="Cover for The Pick of Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +972,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 83</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1019,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2007-10-29</td>
@@ -1075,7 +1037,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/cJ915utvoa_yrxQ0jZam-KTwZJxRSzwU6cIxS3jxCEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTEz/NTQtMTQ4MTU5MTgy/OS0xNDUzLmpwZWc.jpeg" alt="Cover for Sex Ed Rocks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e02297fed58fb50ee99d0fd666540fa.png" alt="Cover for Sex Ed Rocks" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-24</td>
       <td>I Set My Friends on Fire</td>
@@ -1091,7 +1053,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1115,7 +1077,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RWXN6uvLUQI_QBkOlPM3XVDo033qFsNuJqv2mMNhz8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA5/NzY4LTE1MTM5MzI2/ODUtNjIyMi5wbmc.jpeg" alt="Cover for Greatest Shits" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,12 +1110,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 11</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/7rYaz3IoSZg7vMzxTjZJccgQIqxojvGpmIcTWFpofHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTg3/NC0xMTE1NTUzODY2/LmpwZw.jpeg" alt="Cover for God Ween Satan: The Oneness [anniversary Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1176,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/VhPtjkD8pjh-6MkjzdPNbsik7BQX-0rObS54QMd3O0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYx/MDctMTY4MDU4Njgz/MS00MTI4LnBuZw.jpeg" alt="Cover for Four Years Foreplay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ac66eea0f4724c14963755d9d0d0e2.png" alt="Cover for Four Years Foreplay" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>I Set My Friends on Fire</td>
@@ -1230,12 +1192,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 1</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-12-06</td>
@@ -1254,7 +1216,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2012</td>
@@ -1271,7 +1233,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b93afb8e906045828884a39adf4456a9.png" alt="Cover for Rize of the Fenix" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1309,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 61</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1392,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af35d89de764026581492d66b8c9ae5.png" alt="Cover for Devin Townsend Presents: Ziltoid Live at the Royal Albert Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1412,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7474d22fea634822a074049ce1c4adc7.png" alt="Cover for Beating A Dead Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,6 +1429,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 3</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 7</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
         </ul>
@@ -1486,7 +1449,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 7</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
         </ul>
       </td>
@@ -1514,7 +1478,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       <td>
         <ul>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 83</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1537,14 +1501,14 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 71</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 76</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
             <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f883552a02150e4c8080533c59025ba0.png" alt="Cover for Chocolate &amp; Cheese" style="max-width:120px; height:auto;" />
       </td>
@@ -1577,7 +1541,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 65</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1593,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41d8e8e47df3b48cb79911af2aa0492e.png" alt="Cover for Dear Maria, Count Me In (Japanese Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1612,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/091e1711e28051afbf64821001345c29.png" alt="Cover for Homeless Millennial" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,14 +1630,14 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 69</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 91</li>
             <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/5MEjomXZDIO0UhwboJw_Es3ivO42ktk4cTdI_4JSdz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/OTQ3LTE1MDg1ODA0/MDgtODcwMy5qcGVn.jpeg" alt="Cover for Ohio Is for Emo Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1680,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1b22c0f66bbe2bf26c93d7c1b479558.png" alt="Cover for Libtard Cucks Fuck Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1741,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 22</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1769,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/B2pk_hiRv3MpKDKQKXhUofqmEDz4EOaioXkT4x9WKvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkx/NjcwLTE1MzQzMzU3/OTgtNjk1NS5qcGVn.jpeg" alt="Cover for Tribjut" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1787,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ZiB_Mk5nADfH7eSmSbtIT10ezNcepMblSNnVlW2YfTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ5/MzEyLTE1NjI1MTM5/NDQtNTkzOS5qcGVn.jpeg" alt="Cover for O-dur C-ból" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,6 +1823,59 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc69dd5889ecb952e9bf43e3e757298.png" alt="Cover for Dorkcore: The Compact Disc" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-06</td>
+      <td>Kevin and the Bikes</td>
+      <td>Dorkcore: The Compact Disc</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bc3778a99e0e0ab55c9f868fe60ce7.png" alt="Cover for Away in a Manger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Vermicide Violence</td>
+      <td>Away in a Manger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>46</td>
       <td>
           <img src="https://i.discogs.com/xS5i7EDTf_izXVYmWlQCG6_S_We0U44El0mkE_GW0Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/OTUyLTE1ODIxMjM1/NjItNDEzNy5qcGVn.jpeg" alt="Cover for Socjalibacja" style="max-width:120px; height:auto;" />
@@ -1877,7 +1894,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e58d99a0febf71eb2a5a2b85bc6e3a9.png" alt="Cover for Gamer" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,12 +1910,12 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 69</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d545a0cb3fc33e74e4e9939b4d53252.png" alt="Cover for Gamer 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,8 +1932,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 48</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 50</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 52</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +2002,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55128072f94e124abccbcf3ff450c1d6.png" alt="Cover for The Fury Of The Aquabats! Live At The Fonda!" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +2024,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2029,7 +2046,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>

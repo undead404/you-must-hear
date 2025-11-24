@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:32:56.106Z
+date: 2025-11-24T01:09:38.096Z
 permalink: tags/bubblegum-pop
 title: bubblegum pop
 ---
 
 ## bubblegum pop
 
-Last updated: <time datetime="2025-11-14T23:32:56.106Z">Sat Nov 15 2025 01:32:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T01:09:38.096Z">Mon Nov 24 2025 03:09:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>
       </td>
       <td>1974</td>
@@ -46,7 +46,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>10</td>
       <td>
       </td>
       <td>1977</td>
@@ -64,7 +64,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Ice Princess" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72ac1ad2d7c4f4686b3b939238c8e9fe.png" alt="Cover for Strawberry Switchblade (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +128,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39aa9f9cf69e499028416d88314ecbe.png" alt="Cover for The 12&#39; Album" style="max-width:120px; height:auto;" />
       </td>
@@ -151,7 +151,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/275e8837769b86550837b929465e8385.png" alt="Cover for Kylie" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/4Fv2ybc_kAaTzsR8VD4i8C4dUQPQEzCeZjwih582XCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk2/NjUtMTQxOTI2MDEy/My00NzQyLmpwZWc.jpeg" alt="Cover for Ooze" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/Ukv0JGATgUPXqEpn05Rh-QZSE7VGlNzULOarnk1LGQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzk4/Ni0xNTM2MTU5Nzk1/LTYzMDguanBlZw.jpeg" alt="Cover for Sugar Sugar" style="max-width:120px; height:auto;" />
       </td>
@@ -202,12 +202,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 73</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35de26bea8de551cb12cc85e824709a5.png" alt="Cover for El Tiempo Es Oro" style="max-width:120px; height:auto;" />
       </td>
@@ -216,21 +216,15 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       <td>El Tiempo Es Oro</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 58</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/EG9ppYGOl4WWc4J9eb5bUKotU-ZeUkKEIXT5eqlBElg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDUx/NTgtMTIzODc0MDg5/My5qcGVn.jpeg" alt="Cover for The Gestures" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +243,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1996-07-22</td>
@@ -266,7 +260,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fffc675cfaab6fbe164fc74f249553b.png" alt="Cover for Planeta Paulina" style="max-width:120px; height:auto;" />
       </td>
@@ -280,12 +274,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 12</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/866c6d13bfe690a01dcbc2fb1b7d6eb1.png" alt="Cover for Aquarium" style="max-width:120px; height:auto;" />
       </td>
@@ -298,13 +292,13 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 27</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 76</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 25</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/gIeWutNHt6VXJFiFUEdT6waj8GZxCu3ki0Ix_FMLCdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTky/Mi0xMjc2MTEyNjM5/LmpwZWc.jpeg" alt="Cover for Aaron Carter" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +315,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4f2154724f0fa13e9a1d2f72b4ee968.png" alt="Cover for Por Que Disimular" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +354,26 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/053769ab989261d82d8c446b3127ce1e.png" alt="Cover for ...Baby One More Time (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Britney Spears</td>
+      <td>...Baby One More Time (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-sIUFDkcJIn2n7jsoDCDWFCsJLAVmpK0dFo6RYw1Z74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDAy/Ni0xNDg4NzYyODE4/LTE2NDUuanBlZw.jpeg" alt="Cover for Vitamin" style="max-width:120px; height:auto;" />
       </td>
@@ -379,7 +392,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1999</td>
@@ -397,7 +410,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a8b3a594cfde0960724a44be84a00f8.png" alt="Cover for Baby One More Time" style="max-width:120px; height:auto;" />
       </td>
@@ -411,12 +424,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 9</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf2c4bd52de2b91b5fd6e50e3b5e2ea.png" alt="Cover for Tarzan &amp; Jane" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +449,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8850656d9dd86233989b0eaf5c1dadc.png" alt="Cover for So Real" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +467,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
       </td>
       <td>2000</td>
@@ -472,7 +485,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/0tQJaLNCe4iQm4UvsxL1Z97ZX00UEy0U9YPBo2podqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE2/Mzk3LTE1NjM5OTk3/MzctNzE1NC5qcGVn.jpeg" alt="Cover for Aquarium (Limited Christmas Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +505,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d13d2de869455c6faa68d203c91282f.png" alt="Cover for No Strings Attached" style="max-width:120px; height:auto;" />
       </td>
@@ -506,30 +519,13 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 24</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 29</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21090e4cb94c4845b3e5920bce7c7d1c.png" alt="Cover for Aaron&#39;s Party (Come Get It)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-09-26</td>
-      <td>Aaron Carter</td>
-      <td>Aaron&#39;s Party (Come Get It)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001</td>
@@ -546,7 +542,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>21</td>
       <td>
       </td>
       <td>2001</td>
@@ -563,7 +559,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/lyk3POr4nZ5M1TtVKhIMqwgqrJ_AA8xS_Y9VvOX-Hj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzAx/NS0xMzI4OTAxNDQ5/LmpwZWc.jpeg" alt="Cover for Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +577,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
       </td>
       <td>2001-03-06</td>
@@ -598,7 +594,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2001-04-10</td>
@@ -615,7 +611,25 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d8b0aff07b59ceccedcefce4cff2c1b.png" alt="Cover for Popstars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05-01</td>
+      <td>Eden&#39;s Crush</td>
+      <td>Popstars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>2001-05-15</td>
@@ -632,7 +646,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2001-06-19</td>
@@ -649,7 +663,25 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29c056b3efc05f1abf484cdf40b9603.png" alt="Cover for Willa Was Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07-17</td>
+      <td>Willa Ford</td>
+      <td>Willa Was Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YTp6BPmrdOHI6WXQCPADHMcKs2I9yamba00Rk406lO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTYy/OC0xMTg1NTc0MzU2/LmpwZWc.jpeg" alt="Cover for Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +699,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7829bf0949cd785d84ba34f9945e7e42.png" alt="Cover for ...Baby One More Time" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +713,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 31</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ba46ba0fa2a162ac2aa950e076b22c4.png" alt="Cover for Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +736,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe9e8f87940e4df8adf97810ebb2f22f.png" alt="Cover for 0304" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +754,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2004-06-13</td>
@@ -740,9 +772,8 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/cjknl3z5CCck-aiJ4mgtA2jWUAo4mGYqQyoWMxQj3z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjUz/NzgtMTI4ODc0NzQ5/OS5qcGVn.jpeg" alt="Cover for The Princess Diaries 2 - Royal Engagement" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-21</td>
       <td>Raven-Symoné</td>
@@ -761,7 +792,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/120d40d07ca2ca2b2a612467f7aa8a2d.png" alt="Cover for Playlist" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +813,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
       </td>
       <td>2007-04-30</td>
@@ -803,7 +834,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83d19187e2424625c6c6031cf3b179ad.png" alt="Cover for Hannah Montana&#x2F;Miley Cyrus (Best of Both Worlds In Concert)" style="max-width:120px; height:auto;" />
       </td>
@@ -821,9 +852,8 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/06ugp9oLPU2RfblYC1R5OecYMYZPZjq01gRsquZV_4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI3/MzM3LTE1ODcwMzcx/ODktMTkxOC5qcGVn.jpeg" alt="Cover for Hannah Montana&#x2F;Miley Cyrus (Best of Both Worlds In Concert)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Hannah Montana &amp; Miley Cyrus</td>
@@ -841,7 +871,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c999c48309b34469bf2ca3e5b3253663.png" alt="Cover for Hannah Montana&#x2F;Miley Cyrus: Best of Both Worlds Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +891,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11bf973d5c494ec5a8e2d24e5f7451db.png" alt="Cover for Hadise" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +910,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Barbie Summer Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +929,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d52a0b0e2371014ce37a957361e4a035.png" alt="Cover for All I Ever Wanted (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +949,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fab088371c64526970925ffb701f1d6.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +985,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>2010-08-13</td>
@@ -993,7 +1023,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26cfd267adf2e5c8dd6144533ba676b8.png" alt="Cover for Treachery" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1046,26 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2412d0aae7f1c360bdd2ac7fd84fab23.png" alt="Cover for Barbie The Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Various Artists</td>
+      <td>Barbie The Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/521debcec5cf4c60cc7b4c748522b882.png" alt="Cover for Hair &amp; Soul - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,27 +1086,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2412d0aae7f1c360bdd2ac7fd84fab23.png" alt="Cover for Barbie The Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Various Artists</td>
-      <td>Barbie The Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/derSKV-Hb1w6YevnwQKB2zGgl8kV60f2uodu5pCFfC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/MTcxLTE2NDM0MTkw/MTMtNDU0My5qcGVn.jpeg" alt="Cover for Barbie The Album (Best Weekend Ever Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1106,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ddcc8290cd585fa40f1b3411e28df92.png" alt="Cover for Take Me Home (Yearbook Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,9 +1127,9 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/285918a80eb11783f553daa67c18e726.png" alt="Cover for Kiss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bc2ebd3ce46d253b901c1d9d25682b.png" alt="Cover for Kiss" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-13</td>
       <td>Carly Rae Jepsen</td>
@@ -1113,13 +1142,13 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 47</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ee049a6b12d4cf4cc172dab38ce5b01.png" alt="Cover for Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,8 +1177,8 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 16</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1201,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63bfa35e65521a818de70c491bc77855.png" alt="Cover for Demi" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,7 +1219,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/ri4MnJ7R7XrnUv8LTtRzKdhOJrTkNrcM4OlXDBppN28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjI4/OTctMTM1ODM2NDMy/MC0zMTQwLmpwZWc.jpeg" alt="Cover for THE 4TH ALBUM &#39;I GOT A BOY&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1247,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2014-12-15</td>
@@ -1235,7 +1264,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c9f6af3a10d410e611e0f64bb419e59.png" alt="Cover for Camp Rock 2: The Final Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1284,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa748606bf2ecfab847b5e56b857512.png" alt="Cover for Lovelyz8" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,12 +1297,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1924bdd0e2846dac6e8e9c88208da00.png" alt="Cover for Bitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1338,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 85</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1433,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a29fffc697db6fa0342d98b8922186b3.png" alt="Cover for We Young - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,7 +1451,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7613ecc13a4bfc74cab715f8b4920117.png" alt="Cover for LOL" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1515,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/gKHpxmOoNQDmkWNYmmkj6pII5ZDjNvArmkBGlXuJKss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI0/ODIzLTE1NDA3NTcz/NjktNzgwNy5qcGVn.jpeg" alt="Cover for Love At First Sight" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1533,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 26</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1526,14 +1555,14 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 46</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 54</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 47</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/RFnfhANqXFEfO7M6Rp1ns158ZkTsiyLOuFwjScdLjPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEy/NTE3LTE1NDI0NDYy/MDktODkxNy5qcGVn.jpeg" alt="Cover for Christmas With the Fizz!" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,12 +1597,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc82e31ae72ac5e6b40404f3ec4ebf4.png" alt="Cover for Clarity" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,12 +1616,12 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 62</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.png" alt="Cover for Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,13 +1635,13 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 72</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 20</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/ABjEJv3cK8MbumJMnK_w3QvM9_vfGUZKH-zZqxTszzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDMx/NTQ5LTE2MTEyMzg4/OTctNDc0Ny5qcGVn.jpeg" alt="Cover for Wasting Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,26 +1677,6 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/4KYfoSgHvKsC9AHAHvRS-ZwBpW5xHv8bBsuvlFhVnyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ2/NjI4LTE2MTgxMjU5/MjItNzAzNi5qcGVn.jpeg" alt="Cover for Flowers &#x2F; Tangled Hearts" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-07-03</td>
-      <td>Melotika</td>
-      <td>Flowers &#x2F; Tangled Hearts</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b35a08b1e046d837fa9b9ba09c485df.png" alt="Cover for Versions Of Me (Deluxe)" style="max-width:120px; height:auto;" />
@@ -1686,32 +1695,30 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 30</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Lizzie McGuire Total Party!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19965cd1c07578f8ac201baf6739e30d.png" alt="Cover for Takin&#39; It Back (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Lizzie McGuire Total Party!</td>
+      <td>2022-10-21</td>
+      <td>Meghan Trainor</td>
+      <td>Takin&#39; It Back (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/188858a09e2c04945338d1dab595987a.png" alt="Cover for Boy&#39;s a liar Pt. 2 - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,30 +1738,9 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/dim1b65G-7QpaO2vjpXRtTgfCOvsV2Y7tNsepCBoIj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzQw/OTctMTQxNjcyMjM4/NC02NjA3LmpwZWc.jpeg" alt="Cover for Crybaby - Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-03-17</td>
-      <td>Melanie Martinez</td>
-      <td>Crybaby - Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/MH1BQQ0QfhI2mmDEze59doFTBl3LIJJL0zCk2RsmNbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDc2/NTEtMTQ3MzE3MDY4/Mi01NTAzLmpwZWc.jpeg" alt="Cover for See In Me What I Can&#39;t (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81c721c2e546d2171b84bf00f2aa3c7a.png" alt="Cover for See In Me What I Can&#39;t (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-17</td>
       <td>Melanie Martinez</td>
@@ -1773,7 +1759,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab5fe558399947c5292516cabbbeb093.png" alt="Cover for I Can Do Better (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,7 +1780,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1817,7 +1803,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1834,7 +1820,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd8ecb089db55450972b1f5a6b75978.png" alt="Cover for The Rat Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1840,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a498d1f722570ff45dda7f4a0f766c80.png" alt="Cover for Catfishing" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1866,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eda3c495c2c4261b6401732c06b2ba0.png" alt="Cover for Knights Of The Round Pastry" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1887,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1921,7 +1907,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf87f613b075d7b4a8675de7ffcc68e6.png" alt="Cover for Planeta Paulina" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1927,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -1959,7 +1945,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1976,7 +1962,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97a3aeaa08fccf01b08bc8aa757d0381.png" alt="Cover for Cosmic" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +1980,7 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcb0cfe0afa567cee8c84c5ff5b5f108.png" alt="Cover for BEST SELECTION NON STOP MIX" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,4 +2016,4 @@ Bubblegum pop is a cheerful, catchy style of pop music characterized by simple m
 - [electropop]({{ "/tags/electropop" | relative_url }})
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
-- [bubblegum bass]({{ "/tags/bubblegum-bass" | relative_url }})
+- [doomergaze]({{ "/tags/doomergaze" | relative_url }})
