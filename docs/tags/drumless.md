@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:39:25.386Z
+date: 2025-11-24T06:56:37.996Z
 permalink: tags/drumless
 title: drumless
 ---
 
 ## drumless
 
-Last updated: <time datetime="2025-11-23T02:39:25.386Z">Sun Nov 23 2025 04:39:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T06:56:37.996Z">Mon Nov 24 2025 08:56:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
   </thead>
   <tbody>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/onto3G208RXha8VzOEEUvNC-UJmtQrTlQwhY0RJNfH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODg4/My0xNDM5Njg3MzE4/LTQ2NzAuanBlZw.jpeg" alt="Cover for Soapsuds, Soapsuds" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>1984</td>
@@ -66,7 +66,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1984-08</td>
@@ -86,7 +86,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/rVAZGrNPiUSfCw2D7kY7DITQhKH8GQCG2Pms0j-rQmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODg0/NTMtMTM3NTU1NzMz/OS02NDY2LmpwZWc.jpeg" alt="Cover for Something Special" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>1994</td>
@@ -123,9 +123,9 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e21e48d1332ac05241aeeb55ed308846.png" alt="Cover for Don&#39;t Eat the Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Elcamino</td>
@@ -133,24 +133,20 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 19</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>1998</td>
@@ -171,7 +167,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/UX8eDKqV-8Eo7EFGektlX4-k3X2IKudJPuIFjcO6UBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MTItMTE5MTc3MTkz/MC5qcGVn.jpeg" alt="Cover for Songs We Know" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +192,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/125b172c6f8d525fb9b4382a61cc6f7d.png" alt="Cover for Hell On Wheels" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +212,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/RBbJQqWaoOnt2X20N8B7bZrTBZyzYHKLVrcJ7IKvMnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTIx/OTktMTQzMTE5MTM1/MC0zMDg4LmpwZWc.jpeg" alt="Cover for Motherboard (Drumless Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -234,7 +230,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
       </td>
       <td>2002-05-14</td>
@@ -269,11 +265,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2004-04-06</td>
@@ -292,7 +289,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/949e29a52b49f3c69736ce158a4078dd.png" alt="Cover for Wegahta Tapes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -313,7 +310,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/E7WAfyqaZfU0Dmzkg6-BllfKLjStxw4YVKF7jPEwpdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA4/NTk0LTE2NjIyODU3/MTctMjg1OC5wbmc.jpeg" alt="Cover for Empápate" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +328,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/DljCJGVfZyujh8DBWxCo70BRYnF5TmWZYpmRBvEy_VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE2/NjMtMTE4NDk3NDMx/Mi5qcGVn.jpeg" alt="Cover for Hiperbórea" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +348,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
       </td>
       <td>2008-01-30</td>
@@ -371,7 +368,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/J8lGQ_C5AyTF72H80OIRreKD10QvioB8571xU9_-pFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg2/NDUtMTQyMDgxNzE5/Ni02ODE0LmpwZWc.jpeg" alt="Cover for Place To Be" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +392,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/4cCE5FSvhTCkcW3Gsb1wcN6N3fl_KSYg8U68UWajpBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODE1/NjktMTY0MDg4Njk1/MS0yMzkwLmpwZWc.jpeg" alt="Cover for I Dwell in Possibility" style="max-width:120px; height:auto;" />
       </td>
@@ -413,7 +410,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Z_c2QxaRSKka4XL_2dnjT9faIt252is4LvdbmhooTvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYz/MDEtMTI5MzQzOTM0/MS5qcGVn.jpeg" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +430,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2011</td>
@@ -454,7 +451,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/BdmE-vqXrBUqy-oqv5z_6aL-dsRN507X_uVb9gdOnho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTA4/ODEtMTQ0ODgyODcz/NC05ODMyLnBuZw.jpeg" alt="Cover for Alone At The Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +472,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/0IRlgd-3HvLXXkqg1uQ0uwQvDWl_5ZfDBY1WMGsNnBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDcy/NDQtMTU1OTcwMjM5/OC00OTkxLmpwZWc.jpeg" alt="Cover for Sign of Life: Music for 858 Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +491,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/m3AyxytxoBTAMW7i5KI7h2zYDUeVq9JIx682IjIwVzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM5/NjI0LTE2NDYwODIx/ODYtNzE4MC5qcGVn.jpeg" alt="Cover for I&#39;m Old Fashioned" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +510,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-01-01</td>
@@ -531,7 +528,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
       </td>
       <td>2011-02-21</td>
@@ -551,7 +548,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-09-30</td>
@@ -570,7 +567,25 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b203ccf4564346dcc6b8c0d3de514b35.png" alt="Cover for Reloaded" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-13</td>
+      <td>Roc Marciano</td>
+      <td>Reloaded</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/aQCFP5qtDRvfKPloAZgHlIOwkcSAw6oQ9hHAHW-1ZLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYz/OTAtMTM3NDE4NDg3/Ny05ODgxLmpwZWc.jpeg" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -589,13 +604,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 72</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b8c264552084d843086d882bfbf375.png" alt="Cover for Voir Dire" style="max-width:120px; height:auto;" />
       </td>
@@ -608,12 +623,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/GjA498oS4_dmToCZoJf5vrm2ekuWvjqoPs-xJ2Q_B9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDY2/MTMtMTM5MzU4MjA3/MC00MTc0LmpwZWc.jpeg" alt="Cover for Raw Materials" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +648,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72f1cea877a47ce2647d17c3169388a5.png" alt="Cover for Days With Dr. Yen Lo" style="max-width:120px; height:auto;" />
       </td>
@@ -646,19 +661,18 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f48d9b1f6a50856951d3be2b6bda40e.png" alt="Cover for Lindes" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +710,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 96</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 99</li>
@@ -704,7 +718,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9f6669f6cc15ea0f0dfade0a125db0a.png" alt="Cover for THOSE THAT SLAY DRAGONS" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +738,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/PcMfMjpZV0qxBHXdS50NHukJfAhE6XfTSrWtmI9QCMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NTU0LTE1MTAwODU5/NjgtNzM0OC5qcGVn.jpeg" alt="Cover for The Dead Don&#39;t Die" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +759,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/9k93RfvJ5lGHOBEqJf-Fsa-KfwVkHP6OhfxoliSbFv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/NjIzLTE1MDEyNDk2/ODMtMTE3My5qcGVn.jpeg" alt="Cover for CUISINE" style="max-width:120px; height:auto;" />
       </td>
@@ -763,31 +777,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>76</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25aebdb1369397d0d1b66f4a546fe89f.png" alt="Cover for Behold a Dark Horse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Roc Marciano</td>
-      <td>Behold a Dark Horse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 29</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ccee7aab19dc6c907d1101d0fe358e.png" alt="Cover for Dollar Menu 3: DUMP GAWD EDITION" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +798,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/bdH93dv6eztEMxWVODVkcN5IYEMLiD_sDtmly7v2Q1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg5/NTk3LTE1MjQxODg2/NTUtMTUwMC5qcGVn.jpeg" alt="Cover for Penalty of Leadership" style="max-width:120px; height:auto;" />
       </td>
@@ -826,35 +816,28 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/ZWKEbn8XxrLgIQS17W6Dkhtg5O2q2VhKQSTr9Oh6mpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/MTc3LTE1MzAxODE3/NjQtMjQzMS5qcGVn.jpeg" alt="Cover for SUPREME BLIENTELE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2a17077e43db1848546632e2b8bb938.png" alt="Cover for SUPREME BLIENTELE" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Westside Gunn</td>
       <td>SUPREME BLIENTELE</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 25</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeb1049fdabe3591d57e22d7d0b4fb7e.png" alt="Cover for Orpheus vs. The Sirens" style="max-width:120px; height:auto;" />
       </td>
@@ -878,9 +861,9 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d79ec648f2f9c55c16b90b58badeacc.png" alt="Cover for Hall &amp; Nash 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4913d5e0cea883f117518a3f51b2c919.png" alt="Cover for Hall &amp; Nash 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-15</td>
       <td>Westside Gunn</td>
@@ -895,12 +878,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b922f3b10c3ab4d25b02fe86722a2a7.png" alt="Cover for Cafe Tom Tom" style="max-width:120px; height:auto;" />
       </td>
@@ -917,14 +900,14 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/vsXoBy1QXPd4vrT6ClYFpzPcFwXTsvPwFu7Mw5yqIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NDY1LTE0OTUzMTk0/MDAtNDUzOS5qcGVn.jpeg" alt="Cover for Hitler Wears Hermes 6" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ddda438a82c4b640a8f4338337fad1.png" alt="Cover for Hitler Wears Hermes 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-04</td>
       <td>Westside Gunn</td>
@@ -932,24 +915,20 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 59</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 74</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 60</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/btVrR0ZNIx1v9CDw-cI73xMv_5Hz8DT2q1-dBS3b6K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NTk4LTE1NDQyNjcz/ODMtNDkzMy5qcGVn.jpeg" alt="Cover for some rap songs" style="max-width:120px; height:auto;" />
       </td>
@@ -964,16 +943,16 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/orKRl_jewA-2GskyKcfAnqPAKxCAsHxkVzFwfI8b1fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc3/MjY3LTE2MTQ4MDc5/ODYtMzAzMC5qcGVn.jpeg" alt="Cover for Kill Em All" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +974,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb508e77306f32ba3fba9a9dc32a74f3.png" alt="Cover for Majestic Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +994,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/934489219ce529357ca9c451c8145d49.png" alt="Cover for It Wasn&#39;t Even Close" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,16 +1013,16 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 12</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 23</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 45</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 57</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/sV0rVIG_EotY6pTRlYuA7XIGf6L-0D0ia04xbqFByjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NzM1LTE1NjIzMDQ5/NzktNTI4OS5qcGVn.jpeg" alt="Cover for Flygod Is An Awesome God" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,16 +1041,16 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 36</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 87</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/VlMmRh2KialBUFaqGEJ2_QU0yAjpcPJmc-SunX4CZok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/OTg3LTE1NzgwODQ3/MzItODYyOC5qcGVn.jpeg" alt="Cover for Code Name Bang" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1069,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/ciMtmCCqkjH800PFVtEyj0fcr-S1PfkR0dN5Qkl-6EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA4/Njc4LTE2NjM5NTEw/OTUtNTAxOS5qcGVn.jpeg" alt="Cover for El Hijo de Norma" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1087,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg" alt="Cover for Block Work" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1105,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7baf8e55b188d7de40e8605bf6930c.png" alt="Cover for Six Ring Champ" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,9 +1126,9 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f4b17a576f3ef85f94bf819039c53aa.png" alt="Cover for Marcielago" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-28</td>
       <td>Roc Marciano</td>
@@ -1165,16 +1144,16 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/8QheY_w8eZE7_29FeJ7Tcj17rZqKEGQcIHIh0US1bXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ0/OTgxLTE1ODcyNTM3/OTMtODkyNi5qcGVn.jpeg" alt="Cover for Pray For Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b0b1768e13e33ad33da2e4f7cc2add.png" alt="Cover for Pray For Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-01</td>
       <td>Westside Gunn</td>
@@ -1186,15 +1165,15 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 56</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 96</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 60</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdd4f299834c41db164ba9e69ce4c663.png" alt="Cover for Reasonable Drought" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,22 +1185,19 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 15</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 47</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 26</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/XDgHTRUbg_Z_cvQUW-bkbKClsx3q6miLA2FN94QzahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NTQ2LTE2MDYzNDEy/MzgtOTE3Mi5qcGVn.jpeg" alt="Cover for True Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,14 +1214,14 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/s8IOUWIchpBnGfIHzMAikZGNKDwyy9NbobMSihmUjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MjIyLTE2MDEzMTQx/MDItODY0OC5qcGVn.jpeg" alt="Cover for Flygod Is An Awesome God 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,13 +1237,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 27</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/k2m3UodwRfi0-HFL8iE4-XwFaEIF4zHmOAmRCW1Wizs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgw/NjQwLTE2MTQ2NDQy/NzMtMjkxNi5qcGVn.jpeg" alt="Cover for Ghostpell&#39;s Olga Kórbut" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,13 +1259,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 11</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 10</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fa731f1c00e61046be081d64653a84.png" alt="Cover for Dollar Menu 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,14 +1283,15 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 38</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4297f03939a52a55021564757847f804.png" alt="Cover for Testigo I" style="max-width:120px; height:auto;" />
       </td>
@@ -1336,7 +1313,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a419b518902e86cf125603834939cb8.png" alt="Cover for El León" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1333,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/sYOIy50kL0BAMv2jQm0nBBxP4Axz4X0-Chz6sOURBnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU1/NDY0LTE2MzE4MDkx/NDUtMjE5NC5qcGVn.jpeg" alt="Cover for Sp.I." style="max-width:120px; height:auto;" />
       </td>
@@ -1377,7 +1354,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/CGsbT975a2Po6LXqWBFPOnRrYh1M6LryIKrPepBH_tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDE0/NzgyLTE2MTMzMjUw/MjYtNzc2NC5qcGVn.jpeg" alt="Cover for Verdor" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1372,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
       </td>
       <td>2021-03-26</td>
@@ -1414,7 +1391,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/eRkc8K47L44Q2u6QSSrN2lWiZeZ767cZ5Cszggl7cE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE4/NDUxLTE1OTI4ODA3/NzYtNTgzMC5qcGVn.jpeg" alt="Cover for Real Bad Flights" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1411,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00f757bd2bf4163fb91606ac12c8fa49.png" alt="Cover for Bangkok Dangerous 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1432,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43834db6493a949defa6945cb3ac69a4.png" alt="Cover for Bangkok Dangerous 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1454,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/149d7302d918fe9df92db3341f6e3d34.png" alt="Cover for Hidden Treasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,11 +1463,6 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       <td>Hidden Treasure</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
@@ -1499,7 +1471,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/mCs0LE7CvRyf1dmO73oaGt9DVfKW-VkCa4WEg1TnC8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEy/MjM2LTE2MjU2ODM0/MTEtNjg0MC5qcGVn.jpeg" alt="Cover for Joyería" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1489,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ceea4a0d1091ec074dea6dd973480a.png" alt="Cover for Movie" style="max-width:120px; height:auto;" />
       </td>
@@ -1535,12 +1507,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 8</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77298704b92db89d072adb02427e9759.png" alt="Cover for Hitler Wears Hermes 8: Sincerely Adolf" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,19 +1521,14 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       <td>Hitler Wears Hermes 8: Sincerely Adolf</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 64</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 73</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 87</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 93</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 81</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1584,36 +1551,35 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 75</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 79</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 90</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 95</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 87</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/HApYKJT_Q09Q8C1PkEIyYI-AreQzL_Hl0pezMGQqnpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEw/NzEtMTQ1Njg0NTEw/OC03ODU3LmpwZWc.jpeg" alt="Cover for FlyGod" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05efd42ce2634022beaf3375dacbb424.png" alt="Cover for FlyGod" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Westside Gunn</td>
       <td>FlyGod</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 49</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 86</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c1adfd209ec41ba9b9e3ff1c93da3fa.png" alt="Cover for Sick!" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,13 +1592,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/743a1b670dfffa6d247e4e28a87465ef.png" alt="Cover for MOMO&#39;S MYSTERIOUS SKIN" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1616,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c2d052fee50d158e534306ca409772b.png" alt="Cover for Aethiopes" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,16 +1629,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 59</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 87</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/8GzR5ZzFjwn8HXCBA-82s1HlDhzFHtDYLk_MxuaFbOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQ3/MjY4LTE2NjM2MTc4/NDEtNTk2NS5qcGVn.jpeg" alt="Cover for Spencer For Higher" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1653,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/VuuFUMUDHljv9Pv-eoYob4WfeypzuDj20fO4cnsrcTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/MjI3LTE2NTY1MzE5/OTYtNTU2Ny5wbmc.jpeg" alt="Cover for FlySiifu&#39;s (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,11 +1673,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/9I9IXzGHbMrqOHBXkB7JctmZUYqYP-tpjJKNUxH6Oj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDkw/MTY4LTE2NDQ0MzAx/NDEtMzU2Ny5qcGVn.jpeg" alt="Cover for Space Bar" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,12 +1693,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d5e8cde099ede588a70d3c02357e8d2.png" alt="Cover for MAN PLAYS THE HORN" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1715,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbbb1273f650e24af94480593ca57c77.png" alt="Cover for 10" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,13 +1728,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 24</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 42</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19af464d3afeea3b4d069627a8a7a1ab.png" alt="Cover for Flair 4 The Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,7 +1755,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/9yHWcIsR42F3E1h-du9w3wRlEnd8w5tSeLlGNjQ-so0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg" alt="Cover for Random Access Memories (Drumless Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1773,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/752e4ca25cfa6c6ed92b170b705de0ef.png" alt="Cover for Notorious Dump Legends, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1826,7 +1790,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/340faa3f2f2eca1173cdfb5b85545274.png" alt="Cover for Ways of Knowing" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,15 +1808,15 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 62</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 46</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 63</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ddd1fa8240f6416eaa1c6da5cdec720.png" alt="Cover for Voir Dire" style="max-width:120px; height:auto;" />
       </td>
@@ -1865,12 +1829,11 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7594e7a335a9065ae46d29401ef12e58.png" alt="Cover for We Buy Diabetic Test Strips" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,13 +1846,12 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/dFpTxEKX3lrHIwTsFIfoiCMTx9P7OWrYgu0Y7FvPPj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ0/MDQ2LTE3MjUzNzcz/MjQtNDg1Ny5qcGVn.jpeg" alt="Cover for Good Friday Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1870,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/769789169cb6662537284811644b2656.png" alt="Cover for Vampmus" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1892,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bdd9806a1bb177fa1e4d328584c5c7c.png" alt="Cover for Across The Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,13 +1909,32 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 19</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 65</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d89363316384256c6017d70c7bc4282e.png" alt="Cover for The Thief Next To Jesus" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ka</td>
+      <td>The Thief Next To Jesus</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed761cf8d955113bb775ac38613b4c8f.png" alt="Cover for Alfredo 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,13 +1947,13 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 20</li>
             <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
       </td>
       <td></td>
@@ -1987,13 +1968,14 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aaa15b26c9eb7cbb8b6d17aa3dd0a03.png" alt="Cover for And Then You Pray For Me" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Westside Gunn &amp; Peezy</td>
@@ -2014,8 +1996,9 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6ebc716fccfb9c13dfd2da662fd58e.png" alt="Cover for And Then You Pray For Me" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Westside Gunn &amp; EST Gee</td>
@@ -2036,7 +2019,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a2b77e2894e6c30af885f1f6a2b9033.png" alt="Cover for 10" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,7 +2043,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9fa14ca5b5bdb4ae1a3c9bbc0ec4956.png" alt="Cover for The Supergoat" style="max-width:120px; height:auto;" />
       </td>
@@ -2081,8 +2064,9 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c6dcd072df337f0c6f59a96f13db70d.png" alt="Cover for And Then You Pray For Me" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Westside Gunn &amp; Stove God Cooks</td>
@@ -2103,7 +2087,7 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>
@@ -2119,23 +2103,6 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d89363316384256c6017d70c7bc4282e.png" alt="Cover for The Thief Next To Jesus" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ka</td>
-      <td>The Thief Next To Jesus</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2143,11 +2110,11 @@ Drumless is a minimalist hip-hop subgenre that strips away traditional drum patt
 
 - [boom bap]({{ "/tags/boom-bap" | relative_url }})
 - [jazz rap]({{ "/tags/jazz-rap" | relative_url }})
-- [east coast hip hop]({{ "/tags/east-coast-hip-hop" | relative_url }})
-- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
 - [duo]({{ "/tags/duo" | relative_url }})
 - [jazz piano]({{ "/tags/jazz-piano" | relative_url }})
-- [sampling]({{ "/tags/sampling" | relative_url }})
+- [east coast hip hop]({{ "/tags/east-coast-hip-hop" | relative_url }})
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [sampling]({{ "/tags/sampling" | relative_url }})
 - [abstract hip hop]({{ "/tags/abstract-hip-hop" | relative_url }})
 - [jazz guitar]({{ "/tags/jazz-guitar" | relative_url }})

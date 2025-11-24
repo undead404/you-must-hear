@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T04:50:16.469Z
+date: 2025-11-24T06:48:38.093Z
 permalink: tags/midwest-rap
 title: midwest rap
 ---
 
 ## midwest rap
 
-Last updated: <time datetime="2025-11-08T04:50:16.469Z">Sat Nov 08 2025 06:50:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T06:48:38.093Z">Mon Nov 24 2025 08:48:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
   </thead>
   <tbody>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1977</td>
@@ -50,13 +50,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 73</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 39</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/643cd1e0aa611add0d41eafe76d98237.png" alt="Cover for Bag of Hammers:eXtreme - Weed-n-Coffee" style="max-width:120px; height:auto;" />
       </td>
@@ -78,12 +78,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 28</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/0kzQTvo2VSTzdImAO8pM5zvP7CLVqWibLDRkgTOutrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MzQtMTYwMDg1NDE1/Ni04NTQxLmpwZWc.jpeg" alt="Cover for 313" style="max-width:120px; height:auto;" />
       </td>
@@ -101,12 +101,11 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858ce21bfb4bcb7866cef90fce14d2fc.png" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -115,17 +114,35 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>Resurrection</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc42cf3fcef422e9a254c07d44a969c.png" alt="Cover for E 1999 Eternal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Bone Thugs-N-Harmony</td>
+      <td>E 1999 Eternal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c3a78c2840f48a0b1b2627066133496.png" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +170,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>1995-02-24</td>
@@ -168,22 +185,20 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 35</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/705065d70e0348eb96222d121927f851.png" alt="Cover for Dead Flowerz" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-24</td>
       <td>Esham</td>
       <td>Dead Flowerz</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
         </ul>
       </td>
       <td>
@@ -192,7 +207,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>1997</td>
@@ -208,14 +223,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 43</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/QQRmpmrBuEjnBZRTII1TkQGHBL17RuA8dL326Y3yBDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjMx/MS0xMjQ4NzEzNjky/LmpwZWc.jpeg" alt="Cover for 16 Minutes with an O.G." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72220923aa5719714d2a9801d677f61b.png" alt="Cover for 16 Minutes with an O.G." style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02-19</td>
       <td>E-Mack-7</td>
@@ -251,7 +266,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg" alt="Cover for Paragraphs" style="max-width:120px; height:auto;" />
       </td>
@@ -270,12 +285,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
       </td>
@@ -294,13 +309,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 11</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 38</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22bba47afe4429c8c98571864ce7814.png" alt="Cover for Born Dead 2" style="max-width:120px; height:auto;" />
       </td>
@@ -324,7 +339,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10872fa443844c9eab34f6495f4cc05e.png" alt="Cover for Vices" style="max-width:120px; height:auto;" />
       </td>
@@ -346,14 +361,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 16</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/_lOzrf7w2AD-XfeSDCWIlaqCx5sK-6ZRCY9XA6l__xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzAz/LTE1NDI0NzM5NTEt/ODU0NS5qcGVn.jpeg" alt="Cover for Release Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ce75f2cf32d8e079f4321cb8f0360e.png" alt="Cover for Release Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Sabotage</td>
@@ -371,18 +386,15 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/WXPkPyCTGdDm4Qk7_5rDPSMyneJJXPpwlnG42pzSmEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjQ2/Ni0xNjAzODIwNTg1/LTkzNzcuanBlZw.jpeg" alt="Cover for Nellyville (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/757e8d4b8869f36adf82e8320ef62734.png" alt="Cover for Nellyville (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Nelly</td>
       <td>Nellyville (Deluxe Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
         </ul>
       </td>
       <td>
@@ -391,7 +403,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/395471812f48415695bf2c87f7a48236.png" alt="Cover for Theneighborhoodshittalka" style="max-width:120px; height:auto;" />
       </td>
@@ -413,12 +425,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 26</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d8fb76c814bb259ca4da3c8c1468d5.png" alt="Cover for The Entity" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +450,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d5e94c9aa712b29e283325bc5ae87f.png" alt="Cover for The College Dropout" style="max-width:120px; height:auto;" />
       </td>
@@ -447,20 +459,17 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>The College Dropout</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 10</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68c403f99cba445cb4e1730a2f3eaa5.png" alt="Cover for Bedlamitez Rize" style="max-width:120px; height:auto;" />
       </td>
@@ -480,12 +489,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 42</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b253f559f2e5fae3ab89a8a947cfa6.png" alt="Cover for D12 World" style="max-width:120px; height:auto;" />
       </td>
@@ -500,14 +509,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 55</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 85</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3abfad2930d22b5068c0c0c5741988.png" alt="Cover for 11 Steps Down" style="max-width:120px; height:auto;" />
       </td>
@@ -529,12 +538,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 30</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6337559957a0444ea2350644dbfc50bd.png" alt="Cover for The New Prescription" style="max-width:120px; height:auto;" />
       </td>
@@ -554,12 +563,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 11</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0faace3c84645cdbefd6f3fe8393e7e.png" alt="Cover for The Drugz LP" style="max-width:120px; height:auto;" />
       </td>
@@ -585,7 +594,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a1d0c30ef5164c4e11399ce0b93117.png" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
       </td>
@@ -606,13 +615,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 3</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 33</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c033abe191e445f181151892716f2a95.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +670,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cf4601967c425e104df77cbebfd20fc.png" alt="Cover for Second Rounds On Me" style="max-width:120px; height:auto;" />
       </td>
@@ -675,6 +684,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 26</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +707,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/582023a980294c5f96f6183ef5ae0ae4.png" alt="Cover for Once Upon A Time In The Projects" style="max-width:120px; height:auto;" />
       </td>
@@ -716,12 +727,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 45</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 78</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/487f0db723634a5597e7a835b7076bda.png" alt="Cover for The Remix Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +758,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9d8bb06a1044fc99d7e19ea7b3cd67a.png" alt="Cover for Lupe Fiasco&#39;s The Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -780,38 +791,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 62</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 64</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a45324446349eac90a397e065a238b.png" alt="Cover for Fresh Out Da Kitchen" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Bake Up Boyz</td>
-      <td>Fresh Out Da Kitchen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 2</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/3e_NGf2lW2MF9X7Q9do0w9mQVe4DEvdNZt4qFvzs7JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ2/NzU0LTE1MDUyNjYz/MTktNjcxOS5qcGVn.jpeg" alt="Cover for Fresh Out Da Kitchen (Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +819,31 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a45324446349eac90a397e065a238b.png" alt="Cover for Fresh Out Da Kitchen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Bake Up Boyz</td>
+      <td>Fresh Out Da Kitchen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c2fa4df7e5d4423bf18fb06cd42e157.png" alt="Cover for The Villain" style="max-width:120px; height:auto;" />
       </td>
@@ -855,12 +865,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 30</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 63</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 75</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2e4e7fefb7a40748399c29d23d64c7b.png" alt="Cover for Certified WhiteBoy" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +900,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd67f114bdca411d9e279de8e62cec0b.png" alt="Cover for Hatred Vol 2" style="max-width:120px; height:auto;" />
       </td>
@@ -915,7 +925,30 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bb0906fb714811b3a96f7e145ab4f9.png" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Machine Gun Kelly</td>
+      <td>Lace up!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 15</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab25f5c63a4930cbd3e6c4dcbb8e7628.png" alt="Cover for Fuck It" style="max-width:120px; height:auto;" />
       </td>
@@ -937,13 +970,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 35</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 71</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 36</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd1ce848a0e3538a1e21e6d583fa4297.png" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
       </td>
@@ -962,13 +995,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 41</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 74</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 42</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a1793e4d97f428fa7de486f5c619fcd.png" alt="Cover for Rage Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -991,38 +1024,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 16</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 48</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 77</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6bb0906fb714811b3a96f7e145ab4f9.png" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Machine Gun Kelly</td>
-      <td>Lace up!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 14</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 49</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 78</li>
         </ul>
       </td>
@@ -1049,17 +1052,17 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 9</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 35</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 63</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 78</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b793ca113a844dd89fe670d1899e1ed.png" alt="Cover for 100 Words and Running" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,14 +1083,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 47</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 5</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 48</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2011-08-07</td>
@@ -1125,12 +1128,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 24</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f3fcbc881bc09d54ef46d49051fe34.png" alt="Cover for Heated Speech w&#x2F; bonus DVD" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,12 +1157,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c617745b99fe49a48454248440c45932.png" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1180,9 +1183,9 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 6</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 45</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 3</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 46</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1209,9 +1212,9 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 87</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 74</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 91</li>
         </ul>
       </td>
@@ -1238,9 +1241,9 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 22</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 64</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 66</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 78</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 88</li>
         </ul>
       </td>
@@ -1262,8 +1265,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 57</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1289,13 +1292,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/561ac6bfbbeb46fbc65245149d563f45.png" alt="Cover for Sail" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,12 +1316,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 68</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a169135c43a602649c10a2e3f4f281.png" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,8 +1344,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 34</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 70</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 35</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1369,10 +1372,10 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 14</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 23</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 56</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 90</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 31</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 61</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
         </ul>
       </td>
@@ -1400,12 +1403,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 77</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 82</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 87</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 89</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1424,14 +1427,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/H3QuuSs5ewqyvSRj_o56zhcqSgpNCOT4TQ_d6sIcxkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY2/MzMzLTE0OTQzNjM5/ODQtNTkwMS5qcGVn.jpeg" alt="Cover for Genre : Sadboy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e6d8327ead7a5c816c7dad9a1a3539.png" alt="Cover for Genre : Sadboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Machine Gun Kelly</td>
@@ -1448,12 +1450,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 10</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/047e4164a5203409bf354ebe9066fba3.png" alt="Cover for BMXXing" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,12 +1474,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 26</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8771d8f83b367cb2d89df82522b1905.png" alt="Cover for Wanna Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,7 +1497,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 42</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1520,37 +1522,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 81</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 95</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 96</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed0d5e385bdf44f0af42e42d6a7627f6.png" alt="Cover for Bitch I&#39;m From Cleveland 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-09-08</td>
-      <td>Machine Gun Kelly</td>
-      <td>Bitch I&#39;m From Cleveland 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 18</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c12a7294e552791bdf5f9671dda847.png" alt="Cover for Stamp of Approval" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1549,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 30</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1622,12 +1601,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 35</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 51</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 58</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 99</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1654,10 +1635,10 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 27</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 25</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 84</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1685,11 +1666,11 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 68</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 18</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 70</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
         </ul>
       </td>
@@ -1714,14 +1695,14 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 90</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/HFZ79yjihH4LF_kljcJouO5gYkHzYPuyMoR3R-oQbj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODI4LTE2NTkzNTYw/ODUtMTAyNy5qcGVn.jpeg" alt="Cover for The Land (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,12 +1721,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 33</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Lace up!" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,12 +1748,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 34</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Z7b6zliZx31ISoRdj1579lOx_KkXY5nQNTRUXp8_EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzYyLTE2NTkzNTU1/NzctODQwOC5qcGVn.jpeg" alt="Cover for Lace Up (The Prelude)" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,13 +1772,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 3</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 43</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 4</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for El Pistolero" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,12 +1796,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 53</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Black Flag" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1822,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 59</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1893,9 +1874,9 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 52</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 48</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 49</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 86</li>
         </ul>
       </td>
@@ -1929,16 +1910,16 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 94</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for el diablo" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1940,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -2002,7 +1983,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/-jgbr9Y_zaOmcgG3o0xZQ5i9jjhn8o8AjeiOwZiXg60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzgzLTE2NTkzNTU3/NDctMjQxMC5qcGVn.jpeg" alt="Cover for EST 4 Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,13 +2004,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 13</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 51</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 14</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg" alt="Cover for Hated" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2027,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 63</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2073,8 +2054,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 79</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 94</li>
         </ul>
@@ -2100,7 +2081,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 83</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 94</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 97</li>
         </ul>
@@ -2169,7 +2150,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/pBkkydCBLIPTubgNiqZYIXQ9EGOwmk9kAc7SQ5nzYTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MjIzLTE2NTkzNDQ4/NDgtODMyNC5qcGVn.jpeg" alt="Cover for Alice In Wonderland" style="max-width:120px; height:auto;" />
       </td>
@@ -2187,12 +2168,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/pzD6FbOuIBVsu517TvuXbXfS9NiJgLRI8sAdupAm3Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/ODEzLTE2NTkzNTU5/MzMtOTQ0Ni5qcGVn.jpeg" alt="Cover for World Series" style="max-width:120px; height:auto;" />
       </td>
@@ -2213,7 +2194,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/KG_vq_sxqVX-5Li5XcKazl2-QGAwEr8LOH7Ze869qYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY0/MDMxLTE2NTkzNDM5/MjYtMzE3MC5qcGVn.jpeg" alt="Cover for Lace Up (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2236,8 +2217,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 62</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 27</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2264,8 +2245,8 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 50</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 73</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 82</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 87</li>
         </ul>
@@ -2300,15 +2281,15 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 69</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3546a2eb5a3f3ac1e910334ebc6d5057.png" alt="Cover for Homecoming" style="max-width:120px; height:auto;" />
       </td>
@@ -2328,13 +2309,13 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 37</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 72</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c99058804a540eeb27c74b876c9a2e7.png" alt="Cover for Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape" style="max-width:120px; height:auto;" />
       </td>
@@ -2356,12 +2337,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 6</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea8b42ca77b4a97bdc77c40de980575.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
@@ -2380,12 +2361,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 10</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2c4f7ef2eb44d5964173d3916f4ce3.png" alt="Cover for Where is the P***y and Beer?" style="max-width:120px; height:auto;" />
       </td>
@@ -2408,12 +2389,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/304a7884480142d986e3637f55b5c925.png" alt="Cover for Terror..." style="max-width:120px; height:auto;" />
       </td>
@@ -2435,12 +2416,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 21</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c00415445348738efcb1c4407866e9.png" alt="Cover for Welcome to Detroit Muthafuckaz" style="max-width:120px; height:auto;" />
       </td>
@@ -2460,12 +2441,12 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 22</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -2509,7 +2490,7 @@ Midwest rap emerged from cities like Chicago, Detroit, and Cleveland, blending t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73d38a8abdff4182bc7a3e805759285a.png" alt="Cover for Deebee- Duct tape" style="max-width:120px; height:auto;" />
       </td>
