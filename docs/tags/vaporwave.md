@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T11:59:21.813Z
+date: 2025-11-24T02:58:38.067Z
 permalink: tags/vaporwave
 title: vaporwave
 ---
 
 ## vaporwave
 
-Last updated: <time datetime="2025-11-18T11:59:21.813Z">Tue Nov 18 2025 13:59:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T02:58:38.067Z">Mon Nov 24 2025 04:58:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c85ed275d201c82dbbe47b97e6512575.png" alt="Cover for PC Music, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -46,7 +46,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/7az1f_c_ahvXHGX9m5NUStwOsHskRE58EgwW9QpU2tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjUw/NzMtMTQ1NDQ1NzA1/My0zMzU1LmpwZWc.jpeg" alt="Cover for Os Morenos" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27cbde7d1381c5d6caae5c601d50d215.png" alt="Cover for Falling Into Place" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 64</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 77</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 79</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 95</li>
         </ul>
       </td>
@@ -137,7 +137,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2009-02-14</td>
@@ -170,13 +170,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 88</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/Uk0WBIsekk2FALdVE8shz72HoxSTSXl0scQoGhP2Xho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDI0/NTUtMTMyNDc3Nzc1/NC5qcGVn.jpeg" alt="Cover for Vintage Romance" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6000501b749222f1ae0d56f691878ad6.png" alt="Cover for Far Side Virtual" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +212,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-10-31</td>
@@ -229,7 +229,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b5e9a95a77ad52f88b958651074c90.png" alt="Cover for Replica" style="max-width:120px; height:auto;" />
       </td>
@@ -242,13 +242,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ae954322c064d308f43cb3d60093fcf.png" alt="Cover for Genre-Specific Xperience" style="max-width:120px; height:auto;" />
       </td>
@@ -267,7 +266,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a37724b70842199072e0a0df578130.png" alt="Cover for Floral Shoppe" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +284,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7897e57bcb9dae62c84aaf571411a43f.png" alt="Cover for BLANK BANSHEE 0" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +301,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c05b16bc82a466ee4de40d5b796e4f8f.png" alt="Cover for Black Pleasure 2012" style="max-width:120px; height:auto;" />
       </td>
@@ -320,7 +319,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02b0c681b24e4e0492b6b104d9efc320.png" alt="Cover for with love" style="max-width:120px; height:auto;" />
       </td>
@@ -338,7 +337,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/uKvs0ST_0Hc2287FGUawG1LwdDK7kEfNzIL54_sRmsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTY3/MzctMTM5NjQ2MzUy/OC0zNTQxLmpwZWc.jpeg" alt="Cover for Shrines" style="max-width:120px; height:auto;" />
       </td>
@@ -356,7 +355,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/338dee0139464ae3ad721eeb12abee02.png" alt="Cover for Summer Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -369,12 +368,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c54322ba0aad1db3c2d240d97491af12.png" alt="Cover for Scumbag" style="max-width:120px; height:auto;" />
       </td>
@@ -404,13 +403,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 9</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 11</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/555085ab622d4ff3cff0aa0e5bedb935.png" alt="Cover for Ghettoville" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +428,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/q5ulVFpTs3iWoUMlMiG7LkYn7wtg5UYQRFAIOWNVh58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Njgz/NjMtMTQ4NjA1MDQz/Ni04NzY1LmpwZWc.jpeg" alt="Cover for internet lust" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +446,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/0e-UnuSagk2YiDcdwW-0eq_ck5otWm0RnYSbhxuJbJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI1/MjYtMTQ4NDg1NTI4/NC01NzcxLnBuZw.jpeg" alt="Cover for HOSTAGE" style="max-width:120px; height:auto;" />
       </td>
@@ -462,12 +461,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ace6a709bb0418bc1be1b9d8852e6b6.png" alt="Cover for Dream Sequins®" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +484,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/kKvcsRkNhoQS7EWeEFjXjW4G8vmQ-0V9GlRQHYQ5Ngk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/OTQzLTE1OTk2MjEw/NDUtMzAxOC5wbmc.jpeg" alt="Cover for Crystal" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +502,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40af163973c4bf0cbfe80cb2ce4f314.png" alt="Cover for Network Entities" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +520,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10267d508dcd468ec66c707713052b8e.png" alt="Cover for A Million Miles Away" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +539,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a527c4bd48633bca879ba37d9c98d2c.png" alt="Cover for virtua.zip" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +557,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d6a26e56af34555c5367ae4b4e19c5f.png" alt="Cover for Computer Afterlife" style="max-width:120px; height:auto;" />
       </td>
@@ -576,7 +575,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0863c57faee4291c2e0840701e75020.png" alt="Cover for Mana Pool" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +593,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec4d21b84a3c3d9abe32b3ef43f8ac55.png" alt="Cover for POLYCHROMATIC COMPILER" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +611,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a5fe9409b624e2dce0951a969fae63e.png" alt="Cover for 2047" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +629,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55131e84538ef3e3248a23173f035433.png" alt="Cover for 2814" style="max-width:120px; height:auto;" />
       </td>
@@ -665,13 +664,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 74</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 76</li>
             <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ab67401f83750ac00334cde6a65d1b7.png" alt="Cover for HK" style="max-width:120px; height:auto;" />
       </td>
@@ -708,7 +707,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/5LT86ww_k1MYs_FBClAHf83Twc7MdhPbFd_xv0bFdpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTQ2/OTMtMTQyNzE5Njg5/Ni0xODAyLmpwZWc.jpeg" alt="Cover for Palm Reader" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +725,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/E6201g4CaHg8glXjYLKLlE_6jBkl82ndvH6rmmrF2M8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzI3/NjEtMTQ0NTU1Njg0/NC01OTU4LmpwZWc.jpeg" alt="Cover for Braincase (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +743,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/t52EdDO-MS7CM_9zLPeEyRzcjiCbSJV1z1H8w1_8lSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjQ4/ODYtMTU0ODYzNTQy/My00NjYwLmpwZWc.jpeg" alt="Cover for world class" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +761,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a72f915e6d04b00474d04fd723289cf9.png" alt="Cover for Dragonball Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -800,7 +799,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/HaXQJLkvVxnPgbIEkWz3lb2-XzMT9OtMv1Ftir_lBss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDg1/NDktMTQ2NTA0Nzk3/OS05MjI1LnBuZw.jpeg" alt="Cover for Adult" style="max-width:120px; height:auto;" />
       </td>
@@ -818,27 +817,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0740c877f16466cc990f12faf50d2e.png" alt="Cover for Lovestory" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-10-09</td>
-      <td>Desired</td>
-      <td>Lovestory</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc3f86fe66fa5b7d8739f72993cd045.png" alt="Cover for Building a Better World" style="max-width:120px; height:auto;" />
       </td>
@@ -857,7 +836,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/KP3C2uCtvI1ZH-kcDaM111nEyiQrWhX1vFzE3ytzK6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTM3/MzAtMTQ5NTc5ODY5/My05Nzg4LnBuZw.jpeg" alt="Cover for TV Party" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +854,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdc12214f835df34efb33d5c4233b37f.png" alt="Cover for Hong Kong Express" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +872,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99951ef22f7253b6e50fe49befbae839.png" alt="Cover for Rain Temple" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +890,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f00e1189ad56bdc4bfb26000bb4b499e.png" alt="Cover for BA3" style="max-width:120px; height:auto;" />
       </td>
@@ -931,7 +910,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2752897a27dfe7de12511bcaf21854f.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +929,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/7KJd3WwLDkIiFW_vZcGBd7mJd64gvstKOmCX9Okgze0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcy/ODAzLTE1MzM5MzQz/NzYtNjMwMS5qcGVn.jpeg" alt="Cover for Special Intervention" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +947,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c499014510405a9c901266eaad30f515.png" alt="Cover for Skyscraper Anonymous" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +968,26 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/K6wWnFYEjCuu-Rc4XITvd5xkIcgJwCldGnyBGELmk8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjUy/OTktMTQ4MjA4ODE5/NC0zMzQ5LmpwZWc.jpeg" alt="Cover for the boy who cried wolf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-05</td>
+      <td>whyetc</td>
+      <td>the boy who cried wolf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/J3nBD_mBOJDTTpfY5MLZsvLW5E-tPPWltnXUsewDBKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgz/OTc0LTE1OTI5NDky/MzAtMTUyOS5qcGVn.jpeg" alt="Cover for B4E" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1008,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/rUswnCqTBNlEwTKLZMtRxuLlRudBs_eFydT0gnjHZ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU1/NTMxLTE3MjEzMTU3/MzAtOTU0My5qcGVn.jpeg" alt="Cover for Hologram Plaza 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1028,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/i8YQ19c6BrrF_5ACs-S_vzxVF6ANuPADoi4OWs0nVBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjA5/NzYtMTQ4NTMwODc2/MC01NTE4LmpwZWc.jpeg" alt="Cover for Glass Prism" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,12 +1043,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f585668bb65419dd5247c7a95ef9985.png" alt="Cover for Enchanted Instrumentals and Whispers" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,12 +1066,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 47</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 71</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/hLe9ShtO0rkO8agEI8QKd6qBH73eCFsaXbcW2r4_0BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/NzYxLTE0OTYzNzA4/NjktMjY0OC5qcGVn.jpeg" alt="Cover for Remember Last Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1089,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553c58e8442775c3aed94d377461fe57.png" alt="Cover for nineteen" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1107,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/EFqximpR_AUsmG_4hqc5x4MHJ1S1pgedjR1ZGEsqd3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgz/NTI4LTE2Njg2MTE4/ODEtOTE5NC5qcGVn.jpeg" alt="Cover for George Clanton and Nick Hexum" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1125,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/ajyNHny9QhzpFlFGy5xAUR-STB-5p1FYj-84xyPbAuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM2/ODM5LTE1NjEwNjEy/NjUtNDkyNS5qcGVn.jpeg" alt="Cover for Descend" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,12 +1140,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 5</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/JcITHSHUod_HPUO7NAEtvkE_t-pf5B8n7uNJcgz9HbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjY4/NDMtMTQ5MDc3MzUy/Ny0zNjI2LmpwZWc.jpeg" alt="Cover for HIRAETH" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1163,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/l-ZW36itelzxhLWe7owmzwSHQhvwo0cY3O03vfkwpCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQx/NDM4LTE1MjcxMDI0/ODMtMjg1Ni5qcGVn.jpeg" alt="Cover for Breathing Room" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1181,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/LbQb9tzQ3VeFBImV2nT2vqtjye8cEObvtxoUIUR9xVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUw/NTc3LTE1NTAzNTA3/NDQtMjM2MS5qcGVn.jpeg" alt="Cover for Plastic Whatever" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1199,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e4cb7901dbd5f18d19d76898323672c.png" alt="Cover for 囚人" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1218,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a80b637080082f0bfb136001782262db.png" alt="Cover for Tomorrow, 2096" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1235,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3062b80b578842d1a04b296e1f4207fe.png" alt="Cover for Lost Fragments" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1256,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/_y-Y6hHFwwyc9aIS8Bxz8-n-BU-QHwuyUpYmiK5CXs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI3/NTIxLTE2MDA2MjM2/MzQtMTIwMC5qcGVn.jpeg" alt="Cover for memory tape" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,12 +1288,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 65</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/_rkb1IC2uq3SjDxXGvqwPuupvUs4iFqt4QT0gdJR4Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDc3/NDQ0LTE2NTQ0NTEz/ODUtODkyMC5qcGVn.jpeg" alt="Cover for Ethereal Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1311,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25875b4b82ac4a7994ec9a5b25073119.png" alt="Cover for WEIGHT OF THE WORLD" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1330,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/bLKq1FiE5PYXjUD16oCsQ-kvTbuWBBzPqAcKbhnnsH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk5/Mzc4LTE2NzU1OTc1/MzEtNTk2Ni5qcGVn.jpeg" alt="Cover for Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1353,25 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png" alt="Cover for Faith in Persona" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-23</td>
+      <td>death&#39;s dynamic shroud</td>
+      <td>Faith in Persona</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3ce6f8465526c5b563e1bb7b787967.png" alt="Cover for Heavy Black Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,12 +1389,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.png" alt="Cover for I&#39;ll Try Living Like This" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,13 +1407,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 9</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 10</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,16 +1434,16 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9dcb58c8616a4f2ea87e3d67061babc.png" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,39 +1466,15 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 44</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 69</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 77</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 80</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png" alt="Cover for Faith in Persona" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-23</td>
-      <td>death&#39;s dynamic shroud</td>
-      <td>Faith in Persona</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 86</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b073121fa3b335d0d237afff28d6290.png" alt="Cover for 世界大戦OLYMPICS" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1530,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg" alt="Cover for The Ghost~Pop Tape (Remastered + Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,14 +1551,14 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 82</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80e25a0f70b1008688230ead350de047.png" alt="Cover for Air Travel" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1580,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/JqHVt6bxATHauNhmWo3LCIeuaatO6Dkn2HaLJchMx1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQx/MTY0LTE2ODU1MDU4/ODItMzE2MS5qcGVn.jpeg" alt="Cover for Vapor Drip 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1598,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ec634a28992e4bf77367edbf4d1e1f.png" alt="Cover for Vapor Drip" style="max-width:120px; height:auto;" />
       </td>
@@ -1624,7 +1616,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1641,12 +1633,12 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 77</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/851130b6849df61cf4ce951c3f4fb028.png" alt="Cover for Reflection" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,13 +1655,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 5</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 20</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01c4e5cd291564b117083bae4ab75b71.png" alt="Cover for Pink Dance EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,14 +1675,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 8</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 4</li>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
@@ -1704,7 +1695,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1725,13 +1716,13 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 81</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af96e757f73fdd8933f37029190a442c.png" alt="Cover for no sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1741,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1767,7 +1758,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49b5d8f9b95e4f00cf625a18d7daa2a2.png" alt="Cover for アンタラ通信" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1776,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1802,7 +1793,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -1820,7 +1811,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25622a32eda4729c1e1917b4a1bdb4b0.png" alt="Cover for 一緒に別の夜" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1830,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1856,7 +1847,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f832d936836418ac1e0f735930f8b6d.png" alt="Cover for アンドロメダ" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1865,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -1891,7 +1882,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31aef5e7c9cd7c63d4883374e00bea89.png" alt="Cover for 超越愛" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1902,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc1bceec75cc464bc6ceb7007a570d9c.png" alt="Cover for Miami Virtual" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,7 +1920,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
@@ -1946,7 +1937,7 @@ Vaporwave is an electronic music genre that emerged online in the early 2010s, c
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
