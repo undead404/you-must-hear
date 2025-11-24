@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:34:21.917Z
+date: 2025-11-23T17:37:37.969Z
 permalink: tags/russian-pop
 title: russian pop
 ---
 
 ## russian pop
 
-Last updated: <time datetime="2025-10-22T06:34:21.917Z">Wed Oct 22 2025 09:34:21 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T17:37:37.969Z">Sun Nov 23 2025 19:37:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37836bc6253f7fa15ca08a6bc4a4d0f3.png" alt="Cover for Disco Alliance" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Zodiac</td>
@@ -54,14 +55,14 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 84</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 88</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 95</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/w7i3NSojV7BLkiwqimoMqTEtdPMXxzxoct8uyKdhUwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/MTgtMTIxMjYwMzcw/MS5qcGVn.jpeg" alt="Cover for Double-Barrel Prayer" style="max-width:120px; height:auto;" />
       </td>
@@ -99,9 +100,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 43</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 48</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 52</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -126,9 +127,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/DT-lcuftf0qlXOrdcAxktv-JiaZbzd9ssYFACmpwKR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDYx/MjMtMTMzMDcwMzM4/Ny5qcGVn.jpeg" alt="Cover for Избранное" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e0055bbe19e8c9658509184e531feb8.png" alt="Cover for Избранное" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Игорь Тальков</td>
@@ -166,9 +167,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/5STqWG1nhLZQrKXwPWN3Ew5t__HCYT1QYf5r5YAJNGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTY0/ODctMTY1MTEzMDk4/NS05MTI3LmpwZWc.jpeg" alt="Cover for В лунном танце" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9359f2ed9d5099e63097eea0422f47f9.png" alt="Cover for В лунном танце" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Montreal</td>
@@ -187,7 +188,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1999</td>
@@ -264,9 +265,26 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/5xypgYXp1nckJRQBWLDOGUx5m1csN6fvpHrv0s99v6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA1/MDExLTE1MDA4MDg3/NzktNjA2MC5qcGVn.jpeg" alt="Cover for Raketa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/189bf5dd9e9c4d9e69ccc48fdfb36dfe.png" alt="Cover for Глаза цвета неба" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Валерия</td>
+      <td>Глаза цвета неба</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/631c39df243149469b366b12a8b36683.png" alt="Cover for Raketa" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Орбита</td>
@@ -314,6 +332,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/346d1e12dff7f84b77bcff156651c06b.png" alt="Cover for Stop! Stop! Stop!" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-18</td>
       <td>Nu Virgos</td>
@@ -398,7 +417,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/FrEZQpWLQu1R_P_3HKtsVhfEpo3Rl37wgXMK0cqYG1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDg2/NjctMTMyMDU3MDA0/OC5qcGVn.jpeg" alt="Cover for Джага-джага" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a505a155ccfb408d2b3aa282e517339.png" alt="Cover for Джага-джага" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Катя Лель</td>
@@ -416,7 +435,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Dd_4wfG5KB-G4Qami71X_2C-tTQCzYIQG64e53cR54Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc5/NjUtMTI0MDg1Nzc5/My5qcGVn.jpeg" alt="Cover for T.A.T.Y. - The Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +477,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>2005</td>
@@ -514,7 +533,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/91aN99O8kUvbBFChi3s-_qFpdQ0HQoRUlogs9JrYyy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgz/MzY3LTE1NzU0NTAx/NzEtMzA5NC5qcGVn.jpeg" alt="Cover for Москва" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cf81c80310f4d36a266525821e873cc.png" alt="Cover for Москва" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-06</td>
       <td>Глюкоза</td>
@@ -530,7 +549,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/l9poJOXh_0p8c2mAnVNG-mHNkUJ4CK7wNLZS_eUU8C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMy/MjgxLTE2NTAzNTA0/ODQtNzQ0OS5qcGVn.jpeg" alt="Cover for Маленький осколок большой войны" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +567,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/lw6UJxVvLzfhwDO-30Xick4hi7zgRqmUSfQQqASDtR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ2/MjMxLTE1NTQzNzAz/OTEtMjg4My5wbmc.jpeg" alt="Cover for Русский Drum &amp; Bass 03" style="max-width:120px; height:auto;" />
       </td>
@@ -569,6 +588,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/622d64dbcc064971bbdd6fb802c89d61.png" alt="Cover for Трудный возраст" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-28</td>
       <td>МакSим</td>
@@ -612,7 +632,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/o8Kw6QAsQopcAQOFuOoUlYjiTRH4ZdexpuVCVHT-Jcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI0/NzctMTYxMjEyOTIz/OC05MjA3LmpwZWc.jpeg" alt="Cover for Реальна только музыка" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +651,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/azoPr9qbDNbGwMfpTjZytUksIgNKtdXiZyS_ppTR-vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcz/MDYtMTQzNzE2MjU0/OC03ODY4LmpwZWc.jpeg" alt="Cover for V Epitsentre" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +709,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/X6s6I4qUsuIcVHXX_OFtMWQMqd_cdtZcIMvC0he50bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTYw/LTE1ODAxMjk2ODYt/MTQ1MC5qcGVn.jpeg" alt="Cover for Последний раз" style="max-width:120px; height:auto;" />
       </td>
@@ -746,9 +766,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/5STqWG1nhLZQrKXwPWN3Ew5t__HCYT1QYf5r5YAJNGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTY0/ODctMTY1MTEzMDk4/NS05MTI3LmpwZWc.jpeg" alt="Cover for Нет меня" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41d17b9c906e7c2946377f5ae1d09827.png" alt="Cover for Нет меня" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Montreal</td>
@@ -765,7 +785,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Future Sound Of Russia 2" style="max-width:120px; height:auto;" />
       </td>
@@ -807,6 +827,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/023bf7c04e1e4e5ea49456c6fd6404d8.png" alt="Cover for Дети телевизора" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Deform</td>
@@ -842,6 +863,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5a397c15440469a97102b0ac5b6ab1f.png" alt="Cover for Медленно" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Chikiss</td>
@@ -856,12 +878,12 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 12</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Other party of time" style="max-width:120px; height:auto;" />
       </td>
@@ -890,10 +912,10 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 14</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 20</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 46</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 57</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 44</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +1015,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2012-05</td>
@@ -1049,7 +1071,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/y70fb7xcwMhzV-CLlPcjJppu2SdtSkKzEZq4wuJFFFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/MzQ5LTE2MTE5NjE4/ODgtNjcyNS5wbmc.jpeg" alt="Cover for Don&#39;t Be Afraid Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1090,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ISmx-3_bQioMu4p8jbYi4E0CeH-uEQL4OsxCkW1t6ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcw/MjQyLTE1NTg2OTI2/ODgtNDkzNy5wbmc.jpeg" alt="Cover for Весна в Сердце" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1127,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/BqJRVwgl_mSa2_k1hcV_5a-pRXmISFA6qH95Xh915Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE0/ODExLTE1Mzg2NDMw/ODItMjg0Ny5qcGVn.jpeg" alt="Cover for 94 Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -1162,13 +1184,13 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 88</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 89</li>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Re8SGkoS9c2eao5yIkF9o5JE16j2qrg6D5k8hyElhf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzY0/NjYtMTQ2MTU3NTYx/NC02NjM2LmpwZWc.jpeg" alt="Cover for Спасите люди мир" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1233,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/IWuYp6J2cGTDi5I9dNKD1lvmhzBajy8YaIdCF59GU5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTQx/MjQtMTQ3NjQ0MzMw/MC0yNDE4LmpwZWc.jpeg" alt="Cover for Фантастика" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b174f42da387626de06ca9486256a51c.png" alt="Cover for Фантастика" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-14</td>
       <td>Ева Польна</td>
@@ -1249,7 +1271,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/etMgBtlfu1mGAdL0KuHMPqb-_Vl_X5CrSc6E12xq4yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY2/Nzc3LTE1Mzc3MzQ5/MzctOTQzMy5qcGVn.jpeg" alt="Cover for Воздушный шар (Из к&#x2F;ф &quot;Чебурашка&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,18 +1385,18 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 62</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
         </ul>
@@ -1418,7 +1440,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/H8BT-Y6OuJjeAfGLCK8tO7rWyqgux63ddpIbQx97WVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM2/ODg5LTE3MDc0MDgy/ODYtNjcxNC5wbmc.jpeg" alt="Cover for Не принц" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,9 +1477,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/G0Uf8-VZ7bwBdSs88Htf2UHeEIoyMdPuih-jC5PzNRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI4/NDk1LTE2NDUzMTg4/MjYtMzU4Ny5qcGVn.jpeg" alt="Cover for Мама Россия" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2a36be8ca578c66fad8b23f36548ac7.png" alt="Cover for Мама Россия" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-20</td>
       <td>Dashi</td>
@@ -1476,42 +1498,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for On the brink of the Universe" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Besto</td>
-      <td>On the brink of the Universe</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 17</li>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 20</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Castle in the air" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,13 +1530,13 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 21</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 21</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 19</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Absolute abstraction" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,13 +1566,13 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 22</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 22</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 20</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/BHjI1becDl703-ar79942-KHn8Oq7q_D4jR_hWwLvxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgx/NTAzLTE2ODI4ODQz/OTUtODcwMy5qcGVn.jpeg" alt="Cover for Demo Version" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,15 +1603,15 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 24</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 24</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 22</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Living in a vault" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af88540185340e39dbcf681b57d355f.png" alt="Cover for Living in a vault" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -1646,14 +1633,14 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 25</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for The new remix (special album)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eaa5e329cd4415ab9dba4f077705fd5.png" alt="Cover for The new remix (special album)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -1677,14 +1664,14 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 12</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 38</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Mutation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ee2323c578421fa6522a74cd2abdf5.png" alt="Cover for Mutation" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -1708,14 +1695,14 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 28</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 49</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce50a886a50a494ca49fa513956b669b.png" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Besto</td>
@@ -1738,14 +1725,14 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       <td>
         <ul>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 29</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 52</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/3gf83WW0D3e2nO8IapXA-PwyUIurNWp3QIODH8VmAng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMx/MTQzLTE3MDI4NDcy/NzUtNDkyMC5qcGVn.jpeg" alt="Cover for POPSTAR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e75cdf830b787128271c5f12e848cc56.png" alt="Cover for POPSTAR" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>INSTASAMKA</td>
@@ -1802,7 +1789,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1821,8 +1808,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e317bd5f6c9d7ce10adfd81f534bac13.png" alt="Cover for Не сдавайся" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>OLSHEVA</td>
@@ -1841,7 +1829,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -1858,7 +1846,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1875,7 +1863,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1892,8 +1880,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff24a22f32accd72c77acfe2bb148692.png" alt="Cover for В голове ветер" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Chi-Lli</td>
@@ -1911,8 +1900,9 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a75fa737a69855692a0f89ee8db4c52f.png" alt="Cover for 88 чашек кофе" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Амбисаша</td>
@@ -1933,7 +1923,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -1956,6 +1946,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d403add3084513621a32b401ecd2873.png" alt="Cover for До востребования" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alex Amadeus</td>
@@ -1992,6 +1983,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5597c54b23f5aa146f7578a9d73aead7.png" alt="Cover for Заходи" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Амбисаша</td>
@@ -2162,6 +2154,7 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4d0307412b0399bf405e0daaca2266.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Max Barskih</td>
@@ -2211,5 +2204,5 @@ Russian pop blends Western pop sensibilities with distinctly Slavic melodic trad
 - [moscow]({{ "/tags/moscow" | relative_url }})
 - [new wave]({{ "/tags/new-wave" | relative_url }})
 - [synthpop]({{ "/tags/synthpop" | relative_url }})
-- [electronica]({{ "/tags/electronica" | relative_url }})
 - [science fiction]({{ "/tags/science-fiction" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})

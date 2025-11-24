@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:33:28.490Z
+date: 2025-11-23T17:35:38.084Z
 permalink: tags/polish-metal
 title: polish metal
 ---
 
 ## polish metal
 
-Last updated: <time datetime="2025-10-22T06:33:28.490Z">Wed Oct 22 2025 09:33:28 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-23T17:35:38.084Z">Sun Nov 23 2025 19:35:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,6 +67,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5e5e5965474500b5e91b181365dbad.png" alt="Cover for Oddech wymarłych światów" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Kat</td>
@@ -120,7 +121,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/p-09JSgBgXgRWWIbbrCK_31nZ8PhkLx7-l-jJp-HByE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQw/ODgtMTMzNzAzMDUx/Mi03MDY0LmpwZWc.jpeg" alt="Cover for Strażnik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d6615fd76bbc094303b42d28ef96ea.png" alt="Cover for Strażnik" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Aborcja</td>
@@ -164,7 +165,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Hp-pzoLr_gEaDXyUNAsYdjmxWVKl0VE0k-vTFaYjROY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/OTAtMTU4NzE2NzQ5/Mi03NTU2LmpwZWc.jpeg" alt="Cover for Zło" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4cadfd0faf48ec87dc4f3fec670341.png" alt="Cover for Zło" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Alastor</td>
@@ -180,8 +181,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 7</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 89</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 6</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -224,7 +225,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/xw2wMd6oTRsFOF7_lyPmxU2oBHZ9Yx8Sa9gyychPpvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzc3/MjMtMTM2MDQ5NjY3/OC05Nzc3LmpwZWc.jpeg" alt="Cover for Masquerade of Shadows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6cbe3f09f116bc372a9dc17fbecb8b.png" alt="Cover for Masquerade of Shadows" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Misteria</td>
@@ -243,14 +244,14 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 38</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 51</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/j3Z-3DR8ymNmtiJuRHFaG2uVEe91cbUTsZpViGItoQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDEw/NDctMTM2NzUzMjU5/Mi0xOTc4LmdpZg.jpeg" alt="Cover for Announced In Whispers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bc4a8edaeaad17c7cebe66d0c4d54dd.png" alt="Cover for Announced In Whispers" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Ad Noctum</td>
@@ -309,7 +310,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/__h5WUnvUHxaUen1fvOH0KaPPlQSjJ1K7AUwdcIcV5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTIz/Mi0xNDY4MDk4NDEw/LTgzNjEuanBlZw.jpeg" alt="Cover for Norden - Glory In Flames &#39; 1997" style="max-width:120px; height:auto;" />
       </td>
@@ -386,6 +387,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/affeea5b7be22936bd6c1e187917231d.png" alt="Cover for Infernal Blasting" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12-15</td>
       <td>Azarath</td>
@@ -564,7 +566,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/xZa85FlZHRoiXVu--wLNL7TfE4kJ-HAoD12ULMo5KPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc0/MjktMTYxNjg1Mjc0/OC01MDMxLmpwZWc.jpeg" alt="Cover for Infernal Revelation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57955f95522c4c43811e8f4e3b73fb83.png" alt="Cover for Infernal Revelation" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-17</td>
       <td>Ebola</td>
@@ -673,7 +675,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da182869df8b4c029adb169ed1976e38.png" alt="Cover for Verses of Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +713,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/fwMTootGyNOvqI-de-4Pkf5WkI2sZ7D-VzVGYtooPUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUx/NDMtMTI4NjEwNTIw/MS5qcGVn.jpeg" alt="Cover for Kres Panowania Ery Ludzi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5853ab92ca644cb2a37117702acd8a6f.png" alt="Cover for Kres Panowania Ery Ludzi" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Actum Inferni</td>
@@ -731,7 +733,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 26</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 32</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 31</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 61</li>
         </ul>
       </td>
@@ -739,7 +741,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/1K9QWfXflXdbCdiZwhnETkhe6NTzkGtuZoHtsK5riYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/MTYtMTI2NzY1NTU2/MS5qcGVn.jpeg" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba314d9cf474b0dae8af7b3266caafc.png" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>CSSABA</td>
@@ -762,7 +764,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
         <ul>
             <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 42</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 65</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 81</li>
         </ul>
       </td>
@@ -793,7 +795,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/Uu0acUPxxVLseLq3mpi1hZJkk_0du8BxvF7yuk7pNj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDgz/MDItMTM5NTQ4OTcx/Mi02MTUxLmpwZWc.jpeg" alt="Cover for Arkana Wężowej Mądrości" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b1159df3fff6539c5c5c4276d9d3b8.png" alt="Cover for Arkana Wężowej Mądrości" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03</td>
       <td>Dahak</td>
@@ -835,9 +837,27 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1eb69e133346fd952c734d1561fceb.png" alt="Cover for Idmen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-27</td>
+      <td>Indukti</td>
+      <td>Idmen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/AJkh6tH5Q1-U5_T47SJxKDG8tCf8mujOLLe3Kv7FT_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTcw/NTAtMTQ1MDQzNTI5/OC04Mjk3LmpwZWc.jpeg" alt="Cover for Ostrza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/969aa694c0be4dd9b70b28a382c0c5d1.png" alt="Cover for Ostrza" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-05</td>
       <td>Leichengott</td>
@@ -859,7 +879,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 33</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 32</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 66</li>
         </ul>
       </td>
@@ -867,7 +887,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/ZfP0zXGIPhnCsUhPivUfP_JZ0EebHfai-gUCGwnU77M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTYy/NTAtMTMyNDQ3MDU1/NS5qcGVn.jpeg" alt="Cover for demons of war" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52cb83c65804e98adc7253885601d33.png" alt="Cover for demons of war" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Cross of Iron</td>
@@ -886,7 +906,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/7Lxm8Lb5r6pEoONXfbh108hLqRchQBtW1JzFPZFVvYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA5/MjctMTI5NjMyODM3/OS5qcGVn.jpeg" alt="Cover for Tree of lie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38602588aa7f49068b8680728f19dfdd.png" alt="Cover for Tree of lie" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-26</td>
       <td>Terminal</td>
@@ -923,7 +943,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/vc7WRKRtXajrTtX88ZcU_5EmMdCyTKHv9uYu9h--tSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE3/OTctMTQxMDg3NTc2/Ni03NTM5LmpwZWc.jpeg" alt="Cover for Infernal Chaos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca573f62d4544388ed368530393ab02.png" alt="Cover for Infernal Chaos" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-09</td>
       <td>Quo Vadis</td>
@@ -942,7 +962,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/2AragV283UdGzDC3eL6AgxKR_fF13bFplEImlkXZeu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE1/MzktMTYzMTQzNTgz/Ny00NTE0LmpwZWc.jpeg" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +985,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/CBIiGsQu8rA7YRLg1lLomAJd7YASXOFnPtr-dg-EB3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjkz/NjgtMTQ1NjQzNzc4/Ny0zNDM0LmpwZWc.jpeg" alt="Cover for Licho" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80d4b90735bc4454b3953edd36487784.png" alt="Cover for Licho" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Licho</td>
@@ -990,7 +1010,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/VP2vK3hgugGhrJCHF--miw0Yh_K9XxJ5H8sW6GuY9d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDcx/MTItMTMxNjA5Mjcz/OC5qcGVn.jpeg" alt="Cover for Bestial Overkill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db587ac041a34fb7a7165732da96fe7a.png" alt="Cover for Bestial Overkill" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Persecutor</td>
@@ -1090,6 +1110,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/717c1455290b41348a4bd07876c81d96.png" alt="Cover for Underground lo-fi Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-06</td>
       <td>CSSABA</td>
@@ -1106,7 +1127,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 54</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1161,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/AKB2gWpRBTIjOc335v-XsXJgvbiRLGRMogVFX0Izg2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDI3/MzYtMTQwODUzNzEy/OC02NzIyLmpwZWc.jpeg" alt="Cover for Przedświt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/518d17387af04b39cb981cf4df8cab06.png" alt="Cover for Przedświt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-07</td>
       <td>Othalan</td>
@@ -1200,7 +1221,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/dJhzkrJOMAo7nEPqh2-uO3S7q7crDahZzKOUEttc4yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzA3/NjUtMTQzNDM5NzA2/OC03MjcyLmpwZWc.jpeg" alt="Cover for Dark Dead Tomorrow EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1242,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/um9_XKxW3oHjvygMLAR8nPiXttv10MuCo_ymiqJgyTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDUy/MjYtMTQxNjA2NzQ5/Ny0zMzcyLmpwZWc.jpeg" alt="Cover for Antichristus Ex Utero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21aaab32cb124e4386e3b1a4d4a78913.png" alt="Cover for Antichristus Ex Utero" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-28</td>
       <td>Witchmaster</td>
@@ -1246,7 +1267,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/cYT5DM1m8POe3qyuhhOEuVd4-SBbZ0mTyZQ8fftckfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTMx/NjAtMTQ2NjMwNzU4/NS0yOTY0LmpwZWc.jpeg" alt="Cover for DEBRIS OF FAITH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9941f97865d56e20942dc470f6470c8.png" alt="Cover for DEBRIS OF FAITH" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-25</td>
       <td>Serpent Seed</td>
@@ -1293,7 +1314,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/82a-as2Ob23sWrExEq8ZpegqcGQTq2yrznFlPwK332A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ3/OTUtMTU2NzMzMTg2/Ny0yMTY3LmpwZWc.jpeg" alt="Cover for Raging Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ebe2e50ce19081a3ff026c5ce9be7d9.png" alt="Cover for Raging Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-25</td>
       <td>Raging Death</td>
@@ -1360,7 +1381,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/ejc6jvFvOlLnEtFqZwu3v-E9NNa7NptboPkAF8GXLgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQ0/NzItMTQ3MzEwNTQw/NC01ODUzLmpwZWc.jpeg" alt="Cover for Metal to the Bone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/872dbc83ff0eab8c2cb4d0d4e2ca5f3d.png" alt="Cover for Metal to the Bone" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-30</td>
       <td>Warfist</td>
@@ -1380,7 +1401,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33f9ae9f15b41eeef9e458ed6dfac0ed.png" alt="Cover for Heavy Metal Voodoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1425,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/Kg_8mhR_jG_piKppcBKY2NhxHK2hgVDbP-gv8N7kkbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU4/ODI2LTE0OTA4OTc0/NzAtOTcxMC5qcGVn.jpeg" alt="Cover for Beat The Law" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a4db1abd72610f696b298dbb5c222a.png" alt="Cover for Beat The Law" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-30</td>
       <td>Legalize Crime</td>
@@ -1447,7 +1468,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/5PAxfsaUYRprFey1-bOdKq4V-S3eA41ofiekF9OyBiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/ODYyLTE1Mjc4NTAy/ODItMjUzMC5qcGVn.jpeg" alt="Cover for Dwelling in the Fullmoon Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6113f165065f24e3ccd0a78a8756c363.png" alt="Cover for Dwelling in the Fullmoon Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-18</td>
       <td>Nyctophilia</td>
@@ -1471,7 +1492,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/4Wen_tv6KYz4uxw58jgx8gJb3XDleKYlIc89kWetcMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc5/NDE5LTE1MTEzMzU0/NzQtNTYyMS5qcGVn.jpeg" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef01a304d32f6adb5d7b7c78a20df0c.png" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-13</td>
       <td>Cisza</td>
@@ -1492,7 +1513,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 47</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 46</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 72</li>
         </ul>
       </td>
@@ -1566,7 +1587,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 91</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1606,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 39</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 78</li>
         </ul>
       </td>
@@ -1593,7 +1614,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/puIdiAE7gMVWsvxm1K9DEo6pNgB1p69UbgDwQmTPDek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM1/MDA5LTE1NDA5NDA0/MjktMjAzMy5qcGVn.jpeg" alt="Cover for Lunar Ascension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a89883b3630e0f41bff6b25514755304.png" alt="Cover for Lunar Ascension" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Ars Magna Umbrae</td>
@@ -1612,7 +1633,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 31</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1639,7 +1660,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/9mRlELUQOp05Lm2KqRL0nV7XZb-F8oTIcM5XBPHS35o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA2/MzgxLTE1NDk5MTg1/MzItNTA1My5wbmc.jpeg" alt="Cover for Nad Którymi Nie Czuwa Żaden Stróż" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1680,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 96</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1707,14 +1728,14 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 20</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/x6PbJWctsHGC7aoosNN0ZM8A7Ay5TfH-DHvO-DVGwvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAw/NTgzLTE1Njc4NTgy/MzYtNDc0Ni5qcGVn.jpeg" alt="Cover for Bezdeń" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22b3b23adc7083cdbaff597dcab3f286.png" alt="Cover for Bezdeń" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-05</td>
       <td>Nyctophilia</td>
@@ -1759,7 +1780,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/0yTfMBazoZWOgXJd60MrBSjnV2rkC8Rg1CjwEYQfMkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIz/NjkxLTE1ODIzMDI5/MjYtNTE2OC5qcGVn.jpeg" alt="Cover for ciern" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4ec266e7a54fbd9fd5f350a4435d70.png" alt="Cover for ciern" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-18</td>
       <td>ciern</td>
@@ -1935,7 +1956,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/8fJCJPkGSiOBigNKkkQeDET9akio3w-HoNsE99oClX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTY5/MjA2LTE2ODQ4Njg4/MzMtNzI0MC5qcGVn.jpeg" alt="Cover for Crooked Mirror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9b4ab474782cfa7ec676d8a5922996.png" alt="Cover for Crooked Mirror" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Pandemic</td>
@@ -1948,7 +1969,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 24</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1973,7 +1994,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/p-09JSgBgXgRWWIbbrCK_31nZ8PhkLx7-l-jJp-HByE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDQw/ODgtMTMzNzAzMDUx/Mi03MDY0LmpwZWc.jpeg" alt="Cover for Zaburzenia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4694bb26be0440d4de397d76979761d.png" alt="Cover for Zaburzenia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-29</td>
       <td>Aborcja</td>
@@ -2030,7 +2051,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/8xFHsXQcjF7W2tWEwVF5xeJKdU3pA-Tl9_hsYsijhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzM0/MDYtMTYxOTg5NDYw/Ni00MzYzLmpwZWc.jpeg" alt="Cover for Testimonio de Bautismo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa02aeb8f94ea83bdcf927750972d67e.png" alt="Cover for Testimonio de Bautismo" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Stillborn</td>
@@ -2074,26 +2095,6 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
         <ul>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 28</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5529e735a15c80cfd8d533a0aa297711.png" alt="Cover for Siła Złej Woli" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>FORGA</td>
-      <td>Siła Złej Woli</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
