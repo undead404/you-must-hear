@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T10:18:40.970Z
+date: 2025-11-24T00:04:53.935Z
 permalink: tags/late-90s-country
 title: late 90s country
 ---
 
 ## late 90s country
 
-Last updated: <time datetime="2025-10-22T10:18:40.970Z">Wed Oct 22 2025 13:18:40 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-24T00:04:53.935Z">Mon Nov 24 2025 02:04:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,6 +29,24 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
   </thead>
   <tbody>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Nxzx5XqAAk_WRzobl9-QiJtinzxbdRxQHjg4aFXmM4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDM3/MDEtMTQ4MzEyODMz/Ni00NjY4LmpwZWc.jpeg" alt="Cover for Hank Thompson and Friends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1957</td>
+      <td>Hank Thompson</td>
+      <td>Hank Thompson and Friends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
           <img src="https://i.discogs.com/rJ-p_A8Yd2ICMGM_ewuSHFimqNlqk5RGS98e2s9ImXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgx/NzkzLTE0OTg2ODAx/NTAtMzU5NS5qcGVn.jpeg" alt="Cover for Wide Open Spaces" style="max-width:120px; height:auto;" />
@@ -49,8 +67,8 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 89</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 91</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -72,7 +90,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1996-09-17</td>
@@ -89,7 +107,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1997</td>
@@ -107,7 +125,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1997</td>
@@ -124,7 +142,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/_RjyLywA-_Nghjd3sjpVtklLWgQeUcO_YpU3tNVffSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcz/MTUtMTUwMTQ0MjQ3/My01NDQ3LmpwZWc.jpeg" alt="Cover for Home Grown" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +160,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997</td>
@@ -159,7 +177,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/oy0ahJJUIJ0ko1IsOTOcHClK0r4gRsXAjGNnbdqjFaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUy/MjktMTMzNTY4ODIw/NS5qcGVn.jpeg" alt="Cover for We Can&#39;t All Be Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -177,7 +195,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1997</td>
@@ -194,8 +212,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28d5b5e0e20171dcf1aa45d47a1e22b.png" alt="Cover for Be Good at It" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Neal McCoy</td>
@@ -212,7 +231,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1997</td>
@@ -230,7 +249,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>1997-02-04</td>
@@ -247,7 +266,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>1997-04-08</td>
@@ -265,7 +284,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1997-04-08</td>
@@ -282,8 +301,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a945c8500c904f89cf8883fcc131721c.png" alt="Cover for Lee Ann Womack" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-13</td>
       <td>Lee Ann Womack</td>
@@ -300,7 +320,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1997-06-03</td>
@@ -308,24 +328,6 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       <td>Whatever Comes First</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>1997-06-04</td>
-      <td>Toby Keith</td>
-      <td>Dream Walkin&#39;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a></li>
         </ul>
       </td>
@@ -355,7 +357,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1997-07-29</td>
@@ -374,6 +376,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92d8ad90d5c62ff8bc9bd5424cdce6c1.png" alt="Cover for Nothin&#39; But The Taillights" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-29</td>
       <td>Clint Black</td>
@@ -390,7 +393,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/eHUMStVsb8GqaT8oynTRZOLl73tLfCFk6drDgA1oYQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzIw/MjItMTU5NTE2MDg3/MS0xMTI5LmpwZWc.jpeg" alt="Cover for Shakin&#39; Things Up" style="max-width:120px; height:auto;" />
       </td>
@@ -411,6 +414,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25db8b1be19b673cb31b6b5541f13cd9.png" alt="Cover for Evolution" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-26</td>
       <td>Martina McBride</td>
@@ -429,7 +433,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1997-09-23</td>
@@ -446,8 +450,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef9e46bf586f5f85c160ba9c39bec6e5.png" alt="Cover for Thank God For Believers" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-23</td>
       <td>Mark Chesnutt</td>
@@ -464,7 +469,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1997-09-30</td>
@@ -479,12 +484,12 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 74</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1997-09-30</td>
@@ -519,9 +524,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/gImRVr8Z8636eWetSUfnWy_bcW3GIfBaPgeOnqCKqvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzg2/NDUtMTU4ODM0ODY4/NS04NzA5LmpwZWc.jpeg" alt="Cover for Love Is" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b78c6e18f37ed561eb5bc833cf865af.png" alt="Cover for Love Is" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Kevin Sharp</td>
@@ -538,7 +543,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/acOeF4VCCK34J1-KPUYXvojcGnhNQHdHw3niKQE_myY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE5/OTQyLTE1NjE5Njcz/NzItMjcwNi5qcGVn.jpeg" alt="Cover for Cowgirl Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +561,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1998</td>
@@ -573,7 +578,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/jG6YfGLrFifRPQTyDB68RMwV8zBambAa5k7pDcvKCSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTY0/OTgtMTYxMzkyNzE5/OC0xNTA4LmpwZWc.jpeg" alt="Cover for Brady Seals" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +596,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1998</td>
@@ -608,7 +613,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/5bwAndYrrSgpefZ4b4KOKAqANJelGfxw0DD6l2It1ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE0/MzItMTU2OTUyNTky/Mi0zODIwLmpwZWc.jpeg" alt="Cover for Deryl Dodd" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +631,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>1998</td>
@@ -644,7 +649,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/MFFVKwCsjZoM0QXAJpAw90Q658LXPb5-8ggJ-zRVuTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzYw/MDctMTMxOTYwODg2/NC5qcGVn.jpeg" alt="Cover for Higways &amp; Honky Tonks" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +667,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/CGBYXCLNgow3dzgrXGalc8LazHD3dKKgXo9IN14mAdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDQ5/NjctMTQxODQxNjI4/Mi02OTY1LmpwZWc.jpeg" alt="Cover for What Livin&#39;s All About" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +705,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/gEVOWwywPHizGoRO1FIdYL2iACSgxlwNiwbtPtedaY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTY5/NTAtMTY2NTIyMzgz/OC03NDMyLmpwZWc.jpeg" alt="Cover for Alabama Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f015ced5371889a360fbaf768eb051c.png" alt="Cover for Alabama Song" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Allison Moorer</td>
@@ -719,9 +724,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/8KeZqyULKqKUz8NBjv-Aj8lm_8vIuHJ2eT1HacFZRIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTEx/NDYtMTM4MjA5MDE3/OC02MDMxLmpwZWc.jpeg" alt="Cover for When the Wrong One Loves You Right" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc4bf0fa3514f5090a58342e33ed86c.png" alt="Cover for When the Wrong One Loves You Right" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-27</td>
       <td>Wade Hayes</td>
@@ -738,7 +743,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1998-02-17</td>
@@ -755,8 +760,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d47ceaa9dca34bc3b2f3ebb5548b4b37.png" alt="Cover for Ain&#39;t It the Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-24</td>
       <td>Daryle Singletary</td>
@@ -773,7 +779,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1998-04-07</td>
@@ -825,7 +831,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1998-05-05</td>
@@ -859,9 +865,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/xZ8qFPqQOqu-YA0K64CZkt2ACYqSyDlBBQc1yn8ueFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTkz/NjgtMTMyNDYxODg4/NC5qcGVn.jpeg" alt="Cover for It Would Be You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/150e5fbc4d0d47a59bb81626865726aa.png" alt="Cover for It Would Be You" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-19</td>
       <td>Gary Allan</td>
@@ -878,7 +884,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1998-05-19</td>
@@ -896,7 +902,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>1998-05-26</td>
@@ -913,7 +919,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998-06-02</td>
@@ -930,7 +936,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1998-06-02</td>
@@ -946,7 +952,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1998-06-09</td>
@@ -963,7 +969,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1998-07-14</td>
@@ -997,8 +1003,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7abc67e702584d1284d03c6cce2c2c0a.png" alt="Cover for The Key" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-11</td>
       <td>Vince Gill</td>
@@ -1015,7 +1022,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1998-08-11</td>
@@ -1032,8 +1039,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0564342efdb08c27550be6f9513627c6.png" alt="Cover for Hungry Again" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-25</td>
       <td>Dolly Parton</td>
@@ -1053,7 +1061,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1998-08-25</td>
@@ -1070,7 +1078,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1998-09-01</td>
@@ -1089,6 +1097,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0595358bd0d24491902fa30739058c55.png" alt="Cover for Some Things I Know" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-22</td>
       <td>Lee Ann Womack</td>
@@ -1105,7 +1114,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1998-09-29</td>
@@ -1123,7 +1132,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1998-10-06</td>
@@ -1140,7 +1149,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1998-10-13</td>
@@ -1157,7 +1166,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>1998-10-20</td>
@@ -1174,7 +1183,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1998-10-27</td>
@@ -1191,7 +1200,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1998-11-03</td>
@@ -1209,7 +1218,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/35oosuXtgxJM6s2qkC43T8tfOLTlb31d4zYhiVS8Vr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzUy/NDMtMTQ3NTM4MzMz/My04MDE3LmpwZWc.jpeg" alt="Cover for Bring It On" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1236,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1999</td>
@@ -1244,7 +1253,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/I8yPCtLlcLtpheQFvCDk6cgDM8xYLFUG6ZQ2q2LIGYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/OTYzLTE1MjcyODA2/NjEtMjI3MC5qcGVn.jpeg" alt="Cover for Forever Took Too Long" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1271,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1999</td>
@@ -1296,7 +1305,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1999-01-19</td>
@@ -1313,7 +1322,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1999-03-02</td>
@@ -1330,8 +1339,9 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ec8aebda084a7ca209562075131f64.png" alt="Cover for Lost Herd" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-23</td>
       <td>Ian Tyson</td>
@@ -1351,7 +1361,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>1999-03-23</td>
@@ -1370,7 +1380,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/7qfG64dqlsFaGp4sgHQvgk70FZkt8_U8FC-67PB2F14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDg3/NDMtMTQzMTU3MDMz/OC0xODIyLmpwZWc.jpeg" alt="Cover for Shane Minor" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1398,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>1999-04-13</td>
@@ -1405,7 +1415,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1999-04-13</td>
@@ -1422,7 +1432,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1999-05-04</td>
@@ -1441,6 +1451,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38a8fb1cdf5a15518097d0949454a95.png" alt="Cover for She Rides Wild Horses" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-11</td>
       <td>Kenny Rogers</td>
@@ -1457,7 +1468,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1999-05-25</td>
@@ -1474,7 +1485,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1999-06-01</td>
@@ -1491,7 +1502,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/2lT3Ks7RFUDGobWQtfByU8J9iN-3ewQAtV1bcEtixSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjU0/ODEtMTQ3MzQ4NjQz/Mi0zMzU2LmpwZWc.jpeg" alt="Cover for Being Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1520,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1999-06-15</td>
@@ -1526,7 +1537,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/yIh-jPaG6dnVNn-IGkxpZ17bBWL7xXOkzGuiBdWNbcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg5/MTQtMTM0NzcyNTQ5/Ny01NzkwLmpwZWc.jpeg" alt="Cover for Play" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1555,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1999-07-13</td>
@@ -1561,7 +1572,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1999-08-24</td>
@@ -1578,7 +1589,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1999-08-24</td>
@@ -1595,7 +1606,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1999-09-07</td>
@@ -1612,7 +1623,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1999-09-14</td>
@@ -1649,7 +1660,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1999-09-21</td>
@@ -1666,7 +1677,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>1999-09-21</td>
@@ -1720,7 +1731,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001</td>
@@ -1737,7 +1748,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/iWDpFnyzortCfrF9b4r2qfTwe-bkgWiYkbK1M7iwma0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTgz/MjYtMTQ4NjgxNDgz/NS01OTc1LmpwZWc.jpeg" alt="Cover for Love Letters" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1766,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2006-11-03</td>
@@ -1789,7 +1800,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1812,11 +1823,11 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
 
 - [country]({{ "/tags/country" | relative_url }})
 - [contemporary country]({{ "/tags/contemporary-country" | relative_url }})
-- [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
-- [americana]({{ "/tags/americana" | relative_url }})
 - [country pop]({{ "/tags/country-pop" | relative_url }})
-- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
+- [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [americana]({{ "/tags/americana" | relative_url }})
 - [traditional country]({{ "/tags/traditional-country" | relative_url }})
 - [atlanta]({{ "/tags/atlanta" | relative_url }})
 - [bluegrass]({{ "/tags/bluegrass" | relative_url }})
