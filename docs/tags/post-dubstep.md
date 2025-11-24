@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:20:51.884Z
+date: 2025-11-23T21:31:57.376Z
 permalink: tags/post-dubstep
 title: post-dubstep
 ---
 
 ## post-dubstep
 
-Last updated: <time datetime="2025-11-18T09:20:51.884Z">Tue Nov 18 2025 11:20:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:31:57.376Z">Sun Nov 23 2025 23:31:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -167,7 +167,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-06-30</td>
@@ -188,7 +188,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e14047e42fca5a82d9f596c0380104c7.png" alt="Cover for 2011 12s Vol. 1: ntm 2011" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/KWkOld0iUXGKEv2ZqnEWtK7ixULZFXtgioyzBsDRLD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzIw/NTItMTI3MzY1MzMw/NC5qcGVn.jpeg" alt="Cover for Porto" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/191d08d13f4e4017a371e8a5822061a4.png" alt="Cover for Nitelite&#x2F;Big Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +350,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 13</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -369,13 +369,12 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 16</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adfac91d45954ab9a3935856dd780146.png" alt="Cover for Nicolas &#x2F; Halo" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +424,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/_gHhCXKD_ipN-fwCIUCSqd7cwgBgw_5HhTjQMHFLj20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTE5/NDMtMTQxNjE4NDI4/MS04MTE0LmpwZWc.jpeg" alt="Cover for NY Is Killing Me" style="max-width:120px; height:auto;" />
       </td>
@@ -575,9 +574,9 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +614,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 41</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
@@ -625,6 +624,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f93cb8a3982b44559e64b97c0dce34fb.png" alt="Cover for Still Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-08</td>
       <td>XXYYXX</td>
@@ -638,7 +638,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 11</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +676,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 2</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 3</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 62</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 78</li>
         </ul>
@@ -936,7 +936,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 34</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
         </ul>
       </td>
@@ -989,7 +989,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/GOJSduS74NVRKjSECze47iLm98AK_EYok7zWYWMGcfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTUw/OTgtMTM0OTA4NTQ3/MS01NjgyLmpwZWc.jpeg" alt="Cover for El Drama Del Descenso" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1030,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad6c5902ce78125ab359be874c663996.png" alt="Cover for Control" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1099,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/hEjs9UVLrXCRVfxn99PEck_H4QW3dC-3AWChMU4wzRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjM0/NzUtMTQwMzY4NTAx/MC00NzY0LmpwZWc.jpeg" alt="Cover for Disturbing Noise Compilation #1" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1203,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 21</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 60</li>
         </ul>
       </td>
@@ -1225,7 +1225,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 73</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 78</li>
         </ul>
       </td>
@@ -1293,7 +1293,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/cdXVq-Ds_ft_dODx-VE1qjEBB9wswD9LXE84guIgwZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjAw/MDAtMTM4NTA0MDE4/Ny0zMjY1LmpwZWc.jpeg" alt="Cover for The Friendly EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1312,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/IIgox_95JvLL1YcveggBoyGghMgIHKhGaB1kGxCprhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDI4/NzktMTM3NDA3ODUz/NS02MDcyLmpwZWc.jpeg" alt="Cover for Perspectives From The Medicine Cabinet" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1424,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/528d51b132674975b22a0929d0361747.png" alt="Cover for Tearful Western Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,18 +1530,18 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 36</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 41</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 49</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 62</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 73</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/D0a3e9stR3jdzNJ8fD60e0ppX9VJJJvOMsXyXc9AMDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTE0/NjMtMTQ2MTA4Njcx/OS04MDYxLmpwZWc.jpeg" alt="Cover for No Rush To Leave Dreams - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cc2ccbd87030e3e30fa3d70eed83ac6.png" alt="Cover for No Rush To Leave Dreams - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-04</td>
       <td>Aristophanes</td>
@@ -1558,7 +1558,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd93710e9eabd86d49d8c90c383b56cc.png" alt="Cover for Pelican" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1604,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c52ad5c1844582bb2fb28af6ad388492.png" alt="Cover for Soë Chlevigny" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1655,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/311a1871adbea7e7849cc23750a9ab5c.png" alt="Cover for ㅂㅂ" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,8 +1664,6 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       <td>ㅂㅂ</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
@@ -1695,7 +1693,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/V_ij9AeOcavVBRtFiMaQcZ_qWnuOVPExPw7wtquAYvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/MDYxLTE1MTk4MjY2/MzQtODE5MS5qcGVn.jpeg" alt="Cover for Terrorrythmus" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1726,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1871,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ba5136d8551ed6212e527e109901358.png" alt="Cover for FANAbyss" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1934,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -1961,7 +1959,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1984,7 +1982,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5e5acadac1649728f5c42487ab36f90.png" alt="Cover for Synecdoche" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,18 +2042,18 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ab8231a38a47ac1271b5f57462abe1c.png" alt="Cover for 8luminum" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Grack Thany</td>
-      <td>8luminum</td>
+      <td>Dinosaurs Roam The Earth</td>
+      <td>Youth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a></li>
         </ul>
       </td>
       <td>
@@ -2151,7 +2149,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5701debafaeb8c4a77552bb6ecb9aab3.png" alt="Cover for Wanna Make U Happy (-:" style="max-width:120px; height:auto;" />
       </td>
@@ -2177,7 +2175,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>

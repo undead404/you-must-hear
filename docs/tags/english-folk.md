@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T22:41:14.320Z
+date: 2025-11-23T21:33:09.815Z
 permalink: tags/english-folk
 title: english folk
 ---
 
 ## english folk
 
-Last updated: <time datetime="2025-11-12T22:41:14.320Z">Thu Nov 13 2025 00:41:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:33:09.815Z">Sun Nov 23 2025 23:33:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/7IqPQDs2R4WnoWf9RxCUKbyw8liHiSqcUzsjD3KDRPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTAy/NTYtMTMyMDY5MzEx/My5qcGVn.jpeg" alt="Cover for Original Album Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/_fzi2HIbmaV_3QKJiMVeyHgXZh5vUPjpMnToX9j2nzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQw/MTUtMTU3NzA0NjQ1/NC04MzE0LmpwZWc.jpeg" alt="Cover for The Lark In The Morning" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +164,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/QfCrct-Z1OKYeKSY89cZn1tiV-zWJu0xvkmHOOd6irM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzkx/NzMtMTM3NTI1ODUw/NS05Nzk4LmpwZWc.jpeg" alt="Cover for Spencer The Rover is Alive and Well" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +242,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/AkZB_V-j1VTzdoQcUOFzqo4dzT0E3FozJAF6SZwe5tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTY4/NDItMTQ2MjU3OTYx/NC0zODg1LmpwZWc.jpeg" alt="Cover for Across The Western Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -264,29 +264,26 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Sumer Is Icumen In: The Pagan Sound Of British And Irish Folk 1966-75" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Various Artists</td>
-      <td>Sumer Is Icumen In: The Pagan Sound Of British And Irish Folk 1966-75</td>
+      <td>Voice of the People 09: Rig - A - Jig - Jig : Dance Music of the South of England</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d3c613daf52949557fe0089ff83033.png" alt="Cover for Voice of the People 10: Who&#39;s That at My Bed Window?" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +359,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/J-cnYqR5GX8G7pBkQYcIuVkmghX57rkQDY6cebfObRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjY3/MDktMTQyMDUzOTky/My0yMjcyLmpwZWc.jpeg" alt="Cover for Son of Morris on" style="max-width:120px; height:auto;" />
       </td>
@@ -401,7 +398,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed1a2c8cd1e806bd9cb4bad72d9d9cb.png" alt="Cover for Songs from the Sailing Barges" style="max-width:120px; height:auto;" />
       </td>
@@ -422,9 +419,9 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/yhudP4m3sFHlysT9jbA0s_Y0tNPnDo4y4LukqPpjsdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzUx/NzItMTUxNTk3NTc2/My05MTQyLmpwZWc.jpeg" alt="Cover for Listen Listen: An Introduction to Sandy Denny" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/048199a817c047f6ac284816c081565c.png" alt="Cover for Listen Listen: An Introduction to Sandy Denny" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Sandy Denny</td>
@@ -442,7 +439,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Voice of the People Volume 11 - My Father&#39;s The King Of The Gypsies" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +480,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/EX3WeAjtJxZFED6T5U-OCiTrzu3--uN196v7zzBQm-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDM3/MjUtMTMxNTkyMjkz/Ny5qcGVn.jpeg" alt="Cover for Blue Balloon" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +519,7 @@ English folk music is a traditional form of music that originated in England and
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/SYbZZlW1rlJlVGd6x8GSmLv-fQ6rvm1ZdU3juS9-i_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc5/NDE5LTE1NjU0NDA1/NDMtNDA3MC5qcGVn.jpeg" alt="Cover for Wide Blue Yonder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea84cda24b17e7cc11608c7fb7020d74.png" alt="Cover for Wide Blue Yonder" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-09</td>
       <td>Oysterband</td>
@@ -542,7 +539,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/-2Gd3iBzPcKQk1vXdsQQFHsPI8OnmHuTf-6RnK4jLbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzY5/MzYtMTQxOTE5MTI3/Mi05OTk5LmpwZWc.jpeg" alt="Cover for wayfaring strangers: ladies from the canyon" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +556,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 7</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +622,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2cf43967e1e26257c35cae6f7b1e898.png" alt="Cover for Sheepskins" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +640,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1994</td>
@@ -698,7 +695,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/pLPx7guoAozv5AzUEvN0DLpXE7PzV5svH-VutjPHF_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODkx/MDktMTMyNDE0NTY4/MS5qcGVn.jpeg" alt="Cover for Etchingham Steam Band" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +715,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/XQUY2oJoTqDpe7X6C-d0R8PpY987VNeWCWl9aGCOQQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDg0/Mi0xMTkxNDExMTA1/LmpwZWc.jpeg" alt="Cover for The Best of Maddy Prior &amp; The Carnival Band - A Christmas Caper" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +733,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5f2c81f9a727b0711b0af68de51f96f.png" alt="Cover for Mr. Fox &#x2F; The Gipsy" style="max-width:120px; height:auto;" />
       </td>
@@ -757,7 +754,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/EJ8KoFpKPDjnndcX6Li1m0y89HxvN8iH9qOdd3g5kDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDYw/NDctMTM4MzAzNzI2/OS04MDI4LmpwZWc.jpeg" alt="Cover for Singing The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -776,6 +773,7 @@ English folk music is a traditional form of music that originated in England and
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/785aae0fbe85a421be6feaae34427e82.png" alt="Cover for Best Live: Headlights, White Lines, Black Tar Rivers" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-19</td>
       <td>Levellers</td>
@@ -810,7 +808,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf8640a201e2a78f07df3e94d4589d8.png" alt="Cover for The Rambling Soldier" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +846,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Voice of the People 08: A Story I&#39;m Just About To Tell" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +866,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53d50bee1c3840cffce593d77108e00.png" alt="Cover for Jack-in-the-Green" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +922,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Voice Of The People 07: First I&#39;m Going To Sing You A Ditty" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +964,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/jnfr5aBS96FewUz-mZyh_EGplxutwfhsl7HtztifBQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE1/MTAwLTE2Nzk1NzQ4/MDEtOTg2MC5qcGVn.jpeg" alt="Cover for Die Bremer Stadtmusikanten - Die zertanzten Schuhe - Der Meisterdieb - Die drei Brüder" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1020,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/4bE1Q0cxKb2zhrFKtUTb5BkcQrlL6aqshPPTN_Y6fo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc1/OTA4LTE1Mjk4MjY3/MzUtMjUyMC5qcGVn.jpeg" alt="Cover for Roast Beef of Old England" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1058,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2001</td>
@@ -1122,7 +1120,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2003</td>
@@ -1192,7 +1190,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2004</td>
@@ -1210,7 +1208,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2004</td>
@@ -1229,7 +1227,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2004</td>
@@ -1249,7 +1247,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/6yyw58G22aM8UOlSdE0FRdOPEqdfLv8qg6LWzlosBBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA1/MzEtMTM2Nzg4NDQx/MC0yMDY1LmpwZWc.jpeg" alt="Cover for The Red Haired Lad" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1285,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17fe869e53a22631f39925b2c13e19a.png" alt="Cover for Voice of the People 04: Farewell, My Own Dear Native Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1322,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2005</td>
@@ -1342,7 +1340,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/sszuVlXhNU97IrUZBcLpoP9atrs4ReDniGnuDHNMdJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTc0/NTItMTQ1MjI3MzEx/My0xMzQ3LmpwZWc.jpeg" alt="Cover for Lazy Farmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,7 +1377,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2006-03-20</td>
@@ -1418,7 +1416,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2007</td>
@@ -1590,7 +1588,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009</td>
@@ -1626,7 +1624,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2009-03-18</td>
@@ -1644,7 +1642,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff8fe95a57f44b2fa762b9da821c1710.png" alt="Cover for Through Lonesome Woods" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,11 +1765,11 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
         </ul>
@@ -1798,7 +1796,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/hRBLCGvSwtYGEhnyRxRZHtjpQ7Mw12coCwCx0d1VBwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAy/MTk2LTE1ODk0MzE0/MjctNDEyNi5qcGVn.jpeg" alt="Cover for Into the Well" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1855,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22c82bd90be8a9e5f211f40964cbe930.png" alt="Cover for Stand Up Now (Songs from the Landworkers’ Alliance.)" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1876,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2023</td>
@@ -1897,7 +1895,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2023</td>
@@ -1916,7 +1914,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1933,8 +1931,9 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9489e83658ec28de779d6a6cb71521f.png" alt="Cover for One Word Of Hope" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Maeran</td>
@@ -1951,7 +1950,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -1998,5 +1997,5 @@ English folk music is a traditional form of music that originated in England and
 - [indie folk]({{ "/tags/indie-folk" | relative_url }})
 - [england]({{ "/tags/england" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
-- [folk pop]({{ "/tags/folk-pop" | relative_url }})
 - [baroque]({{ "/tags/baroque" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})

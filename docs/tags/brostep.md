@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T08:14:08.312Z
+date: 2025-11-23T21:30:11.279Z
 permalink: tags/brostep
 title: brostep
 ---
 
 ## brostep
 
-Last updated: <time datetime="2025-11-18T08:14:08.312Z">Tue Nov 18 2025 10:14:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:30:11.279Z">Sun Nov 23 2025 23:30:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db91d100071bea96d0cbc3ffbe443bdd.png" alt="Cover for Infinity EP" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/fx4Ujab1EsBi--K0_4wd95qNV83X5OL59uaKCbAdowg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUz/Ny0xMTczMjA4Mjgz/LmpwZWc.jpeg" alt="Cover for Jackhammer" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/YSnzVEA49sb4mWM4gjyNH49xnI7439mrYbTPVg-jUdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQx/MzUxLTE1ODcyMTg0/MTEtMzcyNi5qcGVn.jpeg" alt="Cover for Big Bang (with Crankdat)" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea56445c58298deb24fee9928d325ef.png" alt="Cover for CRISIS VISION" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ddeb90dfa945b5c53e357d6dc71046.png" alt="Cover for 4x4&#x3D;12" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/B9yEUnJQsYZ2pgWtXkaffOIdztuLl0fm6o62BUeG8Uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzkw/NzctMTMxMDE2NDgy/Mi5qcGVn.jpeg" alt="Cover for Revolutionaire" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +168,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67090b491b4b419db1d14f974d836d8c.png" alt="Cover for Scary Monsters and Nice Sprites" style="max-width:120px; height:auto;" />
       </td>
@@ -182,13 +182,13 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 26</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d17077ce2824642ad55b99c72c8bcec.png" alt="Cover for Feed Me&#39;s Big Adventure" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/p1ijZQ-laaJG2u8YJTVlcOkyyQE90gr32qX3IawpmuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk5/MjktMTQ3OTIyNjYy/MC0xMDMwLnBuZw.jpeg" alt="Cover for Xronial Xero" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +228,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2011-05-23</td>
@@ -246,7 +246,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
       </td>
       <td>2011-06-06</td>
@@ -263,7 +263,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79dd433d8a3ee06ccf6d45249b8f3555.png" alt="Cover for Cities Built On Ruins of Regret" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +303,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>64</td>
       <td>
       </td>
       <td>2011-09-19</td>
@@ -320,7 +320,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/PhNS_-zgoPyxRfzC95r_JH3FhCzoKwihnzZ_YOrW7bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE3/NTI2LTE1NTk2NTcw/MzctOTkzMC5qcGVn.jpeg" alt="Cover for Natural High" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/ycY4g_qLYiNN7cPvRMxxwMMsrPSDgqPPBaqQwXXq5rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI5/Njk1LTE2Mjg3MjUx/NDYtMjA5OS5qcGVn.jpeg" alt="Cover for Locked and Loaded, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +377,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
@@ -386,7 +386,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/xIz_pfkD0-pPAFsmHgoga-kOY4ZJEY7ngWgcTX4kL8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk5/OTI4LTE2NTU0NDAy/ODktMzQxNi5qcGVn.jpeg" alt="Cover for Ry Legit Dubstep LP" style="max-width:120px; height:auto;" />
       </td>
@@ -423,10 +423,10 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 93</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 98</li>
         </ul>
       </td>
@@ -450,7 +450,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/575fadd71220ddb393ac65f4798e3cab.png" alt="Cover for My Teenage Dream Ended" style="max-width:120px; height:auto;" />
       </td>
@@ -459,9 +459,6 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       <td>My Teenage Dream Ended</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -472,7 +469,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/kBvvl4u3NIQBWxSITEpFGzcr89bVnHYl-8cQf8akLBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTIx/OTMtMTY3MDkxNDc2/OC04Njk4LmpwZWc.jpeg" alt="Cover for Drop &#x3D; Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +493,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
       </td>
       <td>2012-11-06</td>
@@ -515,7 +512,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c91772cd944c129463afa2b5763eea.png" alt="Cover for More Monsters and Sprites EP" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +525,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 58</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +549,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/6AC-U9CQA2DQgEf6rZU4ZFyFV6o4m2QU5YBoGFTmOPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgw/NTg2LTE0OTgzMTk5/NDItMjM1OC5qcGVn.jpeg" alt="Cover for See No Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +568,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4829f4e0c43e4633a032d635b243a4ab.png" alt="Cover for There Goes Your Money" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +594,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Ae7s_wDCAPkNjo3FrbqssuRFLByo-Vs7ibRMMbhKaGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgz/MDM0LTE0OTgzODAw/OTYtNTA3NS5qcGVn.jpeg" alt="Cover for Hear No Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +612,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e19836435a1427589b1cc7bf4c14a17.png" alt="Cover for Lady Killa" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +635,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95125b19a35497aa01c318a1f85cee8.png" alt="Cover for Guilty Pleasures EP" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +659,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce616f62bcd47c6a02b11598d1f8174.png" alt="Cover for Rave On! EP" style="max-width:120px; height:auto;" />
       </td>
@@ -686,7 +683,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8860183df6cd4863ac29dfd7df996a14.png" alt="Cover for Not Even Once" style="max-width:120px; height:auto;" />
       </td>
@@ -729,15 +726,15 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 44</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 83</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 86</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 86</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f0494b2f934e81a501d404f727ca12.png" alt="Cover for Nightfall" style="max-width:120px; height:auto;" />
       </td>
@@ -784,13 +781,13 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 34</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 42</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
       </td>
       <td>2013-11-05</td>
@@ -810,7 +807,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f8328c085ed4353c30896f142203808.png" alt="Cover for The Crystal Method" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +824,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 35</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 56</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -847,12 +844,12 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 38</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ced56551bb41b0c1df089c18244371.png" alt="Cover for Stop What You&#39;re Doing EP" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +890,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be69f9a9c484e739526b9840d0aa268.png" alt="Cover for BuzzKill Remixes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -939,15 +936,15 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 27</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 69</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/3MdRPmax0pYi9YnzURYjl3L6RuxwWOs6eAy9hp7HhYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjEy/NjMzLTE2ODAzMzc4/MjEtMjg1My5qcGVn.jpeg" alt="Cover for Quake" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +965,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dc9622942bc6f4a286943702063a8d5.png" alt="Cover for Grabbitz - Friends EP" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +989,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/vOXJHzgxdM2pcnmqi5yhy5udLeAxmvR-iE15xH0AhlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA3/NzYyLTE0OTM0MDkx/MTktNzkyMy5qcGVn.jpeg" alt="Cover for Nordic" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1007,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a6cbf5dc728a7b49a4a4b43c6f8db8.png" alt="Cover for MELLODEATH Tapes Vol. I" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1027,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/qV3l1XhLvEQXg8czzZyM1nG6_yYeH2pnE2QXba65tn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM3/MjEtMTQ4MTM3NDcy/Mi02NjM0LmpwZWc.jpeg" alt="Cover for Backup (Tisoki Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1048,7 +1045,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc12036631d7b30e5541bd068369f35.png" alt="Cover for The Noodle Effect" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,32 +1070,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c621d33e6b60d05289e1b62d928e1cfc.png" alt="Cover for Insert Genre Here" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-12-25</td>
-      <td>GROUNDBREAKING</td>
-      <td>Insert Genre Here</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/d8sreNNA_l49cxeNYP8R9cbUdsnkJjjHU-5fspMhkSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEy/MzM0LTE2MjY0Mjg1/NDctNTI4Mi5qcGVn.jpeg" alt="Cover for Undulations" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1088,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/nYleCTfvRs4HOlvYRmvhukKeo514y8AttxfptHM3meI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk1/OTE2LTE1MjgyMTAx/MDUtMTI4MS5qcGVn.jpeg" alt="Cover for Overdrive EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1109,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/cLg3NIYoofd6oe17jXepVklq0mGHXg_P-A6BMXN1P74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQz/OTc5LTE1MzUzOTU5/ODMtNzQ5NS5qcGVn.jpeg" alt="Cover for Overdose" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1127,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/aruKryXVMhtDkLUbWcDcRtNBsn93w3ZL2RLXh_48gyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcy/NDYyLTE1Mzc4NTEx/MTYtNTc3MC5qcGVn.jpeg" alt="Cover for Axis" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1145,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/G_9e9wLqLzhYN6yDW4Tqzs3tM_pKdovnSyFRMZKE4DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ3/Mjc4LTE1MzkyNzgw/MTgtOTk1Mi5qcGVn.jpeg" alt="Cover for I&#39;ll Fight Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1164,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4a--Kz8hRgDUKG2YMnPdBvhFevzVDZDtUujyxd98gfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/MDg4LTE1NDM1MTUx/MDItNDIwNS5qcGVn.jpeg" alt="Cover for The Headbangers Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1183,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/C_veCQ6oaMIT0AG6QUTk7lNRUt-iCdzMWKPFOmcdXX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc0/MzMwLTE1NjA4Mjcy/NzAtODI4NS5qcGVn.jpeg" alt="Cover for Metropolis EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1229,7 +1201,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/zz1CeEjEhftOlhwVhqOKbY3Lp_JZmhDHP9rWKmdW4o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg1/NTM3LTE1NDk1NjQ5/OTEtNjcwMC5qcGVn.jpeg" alt="Cover for Ultima" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1219,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/iRKsUEgpCeF0ll7JAjMod5eu9jzqy-qmxr7e0vcRU-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUx/MzgwLTE1NTI1ODgy/NDktNzU1MS5qcGVn.jpeg" alt="Cover for Metaphysical" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1237,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f256d0cc33536dffea374e92425f6e7d.png" alt="Cover for Goofball EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1287,7 +1259,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ibc8XPuAVDhvu7S6rimmKyA_dZJ5E3da8pCG9gI66Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDAz/NTU3LTE1NTM1Mzky/MzEtNTM5Ni5qcGVn.jpeg" alt="Cover for Maxima" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1295,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/fzMKhNpQBnGhsDh8CJFqx2XS65FDb-fReRGa-7MCct0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/MzkxLTE1NTY4MTcz/NTgtODg5Ny5qcGVn.jpeg" alt="Cover for Drop Bombs" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1313,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/7uJuBgdGhjrlDxjJaFzMIvLGyBWglQU3utCI_6jP_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU1/NDE2LTE1NTgzNzUw/MDEtNDc0My5qcGVn.jpeg" alt="Cover for We Are Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1331,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/aqt7OcQ7i1VBAf4ci9o9urZZJ0YKQZTUmrvPA-2W6H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/ODU4LTE1NTg2MzM3/NjktNjEwMC5qcGVn.jpeg" alt="Cover for Own Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,7 +1349,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/2BOYk_Rjx-McFMLk-qxS3fmRsJyt0rZ9ChsNKffoiO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA0/MjE3LTE1NjU4OTI1/MTEtOTY3MS5qcGVn.jpeg" alt="Cover for Beat Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,27 +1359,6 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db6639f3e5ff800677296af42cdc4f9a.png" alt="Cover for LOL" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-08-30</td>
-      <td>GROUNDBREAKING</td>
-      <td>LOL</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
         </ul>
       </td>
       <td>
@@ -1434,7 +1385,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/PLVfsIQi-qQsGjvltdDlJtxcjT9r3xETeJfaAyj6WIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI0/NjQ2LTE1NzAyMTA2/MDctMTcwMS5qcGVn.jpeg" alt="Cover for Heart of the Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1403,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/27dsePdtHI9WHrgIsDFG13NvSOUlztRuBTO_74z9krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/MTMyLTE1NzM3NTU2/NDItODM5My5qcGVn.jpeg" alt="Cover for Brostep Strikes Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1421,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/EiAlxFO45YDueryVzAA-PaH_qXj1cIz5LhfB44SSp-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/MDMwLTE1NzQ3MDk3/NDgtODAwMC5qcGVn.jpeg" alt="Cover for Addicted" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1439,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/wP4r1ixyZHj3G-a61LFjg3lCpsVgfrFv0AzXTeX0EFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzgw/MzM5LTE1ODE0NDgy/NTgtNTU4MC5qcGVn.jpeg" alt="Cover for Propane" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1457,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Jzg4KUIrC_A27YnImJlj45vcIzq2bPKjHlfrfMthamw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NjA1LTE1ODcwNTk2/MzItMTQ0NC5qcGVn.jpeg" alt="Cover for Coffee Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,7 +1475,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/IMCpzDTnpzt1O7X8t5XAURsk4LO1BEFkrDAuuPINKPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NjUzLTE1ODU5NjY0/ODAtNjAzMS5qcGVn.jpeg" alt="Cover for WE ARE DEADBEATS (Vol. 4&#x2F;Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1493,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d44bd31882f1122f3f7f8b745ffcc3c.png" alt="Cover for reset_environment EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1539,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Pbyi_KCrmL4poRwkYsdprkJ5bY2QqfFLLISDcPlXxVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE5/MDc2LTE2MTQ0NzM2/ODItNTkyOC5qcGVn.jpeg" alt="Cover for 5G" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1565,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacb290ad489433ff61cb4d9092e8c91.png" alt="Cover for 1 trait bangers" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1586,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f125c24dcdc2546cbad815b06cde04b7.png" alt="Cover for U.U.F.O." style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1617,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
     <tr>
       <td>87</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d3165ebc7930387c04cb2347432333.png" alt="Cover for CUTIEMARKS (And the Things That Bind Us)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9942d282332b90e963d31bd528cff09f.png" alt="Cover for CUTIEMARKS (And the Things That Bind Us)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-30</td>
       <td>Vylet Pony</td>
@@ -1688,7 +1639,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/8mrCXaD2tchqkc_87HGrcUcyNVLFca-bhjmXe7WYjZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg3/MTQ4LTE2ODAxMTc2/NzItOTYxOC5qcGVn.jpeg" alt="Cover for Belly of the Beast EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1659,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92916964ba55a00527c02cf88a180d97.png" alt="Cover for My Agenda (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,6 +1680,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 72</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 85</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 96</li>
@@ -1736,7 +1688,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2cc53ba38b961dc955977752a56708.png" alt="Cover for First Bites! Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1712,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/x7c5gsWHJpcy8BlbA9uVIi_fKZEq9nAhMvvxXPKnLAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk3/MDM1LTE2NTg3NzQ3/OTAtODU0OC5qcGVn.jpeg" alt="Cover for agony district" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1732,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0216302b56a52c42b25aa9f2df9c52.png" alt="Cover for Save Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1753,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98feb40166812220d749d022663a18c1.png" alt="Cover for Waiting for Love (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1774,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d33be8fbbf618d356697eb72041943b.png" alt="Cover for Drop Out EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1797,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb64fd6800fc448bbd13e216d7d5381.png" alt="Cover for Lil T-Rex EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1818,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/Cnr-a7TW_VjoqxvBdfvnB5vwNFmi_6rGFiLaTsHWxIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQz/MDMtMTM1NTA0OTYx/OC0zNDE4LmpwZWc.jpeg" alt="Cover for Adrenaline" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1836,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/WtW07KLwUSqKVIUoFwyExX6oXiXH3Q5GoK7toqlgF2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/Nzg2LTE2ODA5MDU1/OTktNDAyMy5qcGVn.jpeg" alt="Cover for Lightbringer" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1856,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/n-Aca18BSOrh-beh_9N2pXC_xP_EmvQto7K-L3sc70c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzYw/MTQ2LTE2ODE0OTI3/NTItMzcyOS5qcGVn.jpeg" alt="Cover for Slaughter House" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1874,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/UBn7ZzvLT3EV7-gzC9HfuDYQISw7nL0Cq3ImFxOVn_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc5/MzMxLTE3MjE1NTI3/MzctNjc2OC5qcGVn.jpeg" alt="Cover for Girls Who are Wizards" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1897,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf2f1d5f8f1175b26b2e4f826026444.png" alt="Cover for Stealing Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1919,29 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7b895a2b472405f9f10ca688504564a.png" alt="Cover for Stance on Wave" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>かめりあ</td>
+      <td>Stance on Wave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c51825379927c324fbdca109ab86238.png" alt="Cover for Monstercat Uncaged Vol. 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1965,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2008,13 +1982,13 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 31</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 35</li>
             <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
@@ -2035,7 +2009,24 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>CAPTAIN PANIC!</td>
+      <td>Dimensional Domination EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2258cad6f641430dc3543f2b0a99296c.png" alt="Cover for !" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2044,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee3a2143cbea4192c12b6fdf61e4d5dc.png" alt="Cover for Monstercat 019 - Endeavour" style="max-width:120px; height:auto;" />
       </td>
@@ -2079,7 +2070,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -2096,7 +2087,7 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b48ac8da350ca5399ebfbe5ef747e1.png" alt="Cover for Ghost Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -2124,6 +2115,6 @@ Brostep is an aggressive subgenre of dubstep that emerged in the late 2000s, cha
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
 - [house]({{ "/tags/house" | relative_url }})
-- [electro house]({{ "/tags/electro-house" | relative_url }})
 - [glitch hop]({{ "/tags/glitch-hop" | relative_url }})
+- [electro house]({{ "/tags/electro-house" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})

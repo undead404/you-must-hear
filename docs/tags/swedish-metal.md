@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T17:10:53.089Z
+date: 2025-11-23T21:35:12.574Z
 permalink: tags/swedish-metal
 title: swedish metal
 ---
 
 ## swedish metal
 
-Last updated: <time datetime="2025-11-22T17:10:53.089Z">Sat Nov 22 2025 19:10:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:35:12.574Z">Sun Nov 23 2025 23:35:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -246,7 +246,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6786b1f96a8ea1fbe181103862c1eaa.png" alt="Cover for The Gallery" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +260,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -336,9 +336,9 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-250.jpg" alt="Cover for Chaosphere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4c327102e66e9fbca5f399a9174030d.png" alt="Cover for Chaosphere" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-09</td>
       <td>Meshuggah</td>
@@ -346,15 +346,13 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 79</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 97</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 71</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +376,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3f2d6aa877e5564a2350411ac625690.png" alt="Cover for Panzer Division Marduk" style="max-width:120px; height:auto;" />
       </td>
@@ -392,6 +390,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 94</li>
         </ul>
       </td>
@@ -416,7 +415,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03743a098502237759aea05d931f2779.png" alt="Cover for Lotus" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +440,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0362aefee7887be816a1383985016112.png" alt="Cover for Total Soul Rape" style="max-width:120px; height:auto;" />
       </td>
@@ -528,12 +527,12 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/587eee432a1d81735724bd2131ceb620.png" alt="Cover for The Crusher" style="max-width:120px; height:auto;" />
       </td>
@@ -547,8 +546,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 48</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 59</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 49</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +608,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08143267c2f149398ce5378f23954e61.png" alt="Cover for Destroyer of Worlds" style="max-width:120px; height:auto;" />
       </td>
@@ -623,12 +622,11 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aac42c38f07eb6729b0090c54c6ad123.png" alt="Cover for Catch 22" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +646,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/FVdnFlig3zcHl6MooaH16oChvKdGtkN18k2aS066R5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODcz/OC0xNDAxNzMzNTU3/LTIwNzIuanBlZw.jpeg" alt="Cover for Serpent Saints" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +797,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4992fad9af80411681510761bfb6d6e9.png" alt="Cover for Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -833,13 +831,14 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 22</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 51</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4994a8c0ec620505e4af46cef7585d5b.png" alt="Cover for I" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-13</td>
       <td>Meshuggah</td>
@@ -851,15 +850,14 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 36</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 79</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 61</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2004-07-26</td>
@@ -876,7 +874,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/851bee2c49794d478b85edea93008a8f.png" alt="Cover for Revolver" style="max-width:120px; height:auto;" />
       </td>
@@ -890,6 +888,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +949,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4bb1d94aacc9cf0c600c2cbed71ae8.png" alt="Cover for Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +985,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005-02-07</td>
@@ -1003,7 +1002,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/965e4d5f3a8da001edd53487cda39a8c.png" alt="Cover for Primo Victoria" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1017,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 32</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 71</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1078,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2005-07-21</td>
@@ -1096,7 +1095,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/tLsNTE0WZKZap9e66NrcZUwm6TaNtFYtJlh7LghCF_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzI1/MTMtMTY4NjQ1MjE0/Ny0zMDE3LmpwZWc.jpeg" alt="Cover for Symmetric in Design Digipak" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,6 +1236,26 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb36ab20823380e23a822b866fc20e78.png" alt="Cover for Pitch Black Progress" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-21</td>
+      <td>Scar Symmetry</td>
+      <td>Pitch Black Progress</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d83ddd2791355e4e24e6e133fb638fdc.png" alt="Cover for Pulver" style="max-width:120px; height:auto;" />
@@ -1315,8 +1334,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 17</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 18</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1336,7 +1355,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 27</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1523,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b70cd655834cbc97ea93e368616389.png" alt="Cover for 01" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1578,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1fd5f0e60e94db29816c7f37a4e8650.png" alt="Cover for No Sacrifice, No Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,12 +1591,11 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f14752e96494fe4acd530d296336f96.png" alt="Cover for Dystopian Prophecies" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1634,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 13</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 21</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 89</li>
         </ul>
       </td>
@@ -1636,7 +1654,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1677,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1725,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0fdcdd8df3d4cbab425402097791744.png" alt="Cover for Carolus Rex" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,12 +1739,12 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 63</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf6ed0ce43e0c2382ac001ec8fa59210.png" alt="Cover for Thundersteel" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1767,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3a4d23e85c249d89ac0935cf2fedf20.png" alt="Cover for Tide turner" style="max-width:120px; height:auto;" />
       </td>
@@ -1804,7 +1822,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 96</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1916,7 +1934,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 30</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1953,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 94</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2005,26 +2023,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Brick SWE</td>
-      <td>Bagging Memories</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c335324b722ee5cdd6a38c3886c22b.png" alt="Cover for And Love Said No" style="max-width:120px; height:auto;" />
       </td>

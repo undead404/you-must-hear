@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T17:04:35.237Z
+date: 2025-11-23T21:13:31.197Z
 permalink: tags/southern-rap
 title: southern rap
 ---
 
 ## southern rap
 
-Last updated: <time datetime="2025-11-22T17:04:35.237Z">Sat Nov 22 2025 19:04:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:13:31.197Z">Sun Nov 23 2025 23:13:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c751a949259a44e5585b6983aee0bc1b.png" alt="Cover for Sports Weekend" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd0216cfc8885f8d81d1f52f8965e632.png" alt="Cover for We Can&#39;t Be Stopped" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6004c793c9542c899cba43b181a91df.png" alt="Cover for Southernplayalisticadillacmuzik" style="max-width:120px; height:auto;" />
       </td>
@@ -85,15 +85,15 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 25</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8246d1169746f2efabc53f288e4306e7.png" alt="Cover for Fadanuf Fa Erybody" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
     <tr>
       <td>62</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a8e90bf9f987c86266a918b86ac737.png" alt="Cover for The Diary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfd0f16a6bd2ce2faa20d1f6ef119ef1.png" alt="Cover for The Diary" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-18</td>
       <td>Scarface</td>
@@ -130,7 +130,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/vFFn6_UejEo89jW3C8X7aNFQ055TzOF8MeSW8kQGqYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc1/NC0xNjY3ODIxNTU3/LTIyMTMuanBlZw.jpeg" alt="Cover for On Top Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -172,7 +172,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7486d42fe4229e810c959df0936cc6dd.png" alt="Cover for Mind Of Mystikal" style="max-width:120px; height:auto;" />
       </td>
@@ -217,8 +217,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/646ade773e02f61b3db52387bf5b5f26.png" alt="Cover for The Resurrection" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-02</td>
       <td>Geto Boys</td>
@@ -234,7 +235,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb84d5da5f13b740a525e950d60e7972.png" alt="Cover for Ridin&#39; Dirty" style="max-width:120px; height:auto;" />
       </td>
@@ -248,14 +249,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 80</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 91</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/IOpggRSZRuSUfP4-F4LDat5Dfv-nJgLETdjJU8cSnmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYy/MC0xMzYyNzIyNzY3/LTM1ODMuanBlZw.jpeg" alt="Cover for Homicidal Lifestyle" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +279,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>1997-05-13</td>
@@ -317,6 +318,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 72</li>
         </ul>
       </td>
@@ -404,14 +406,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 45</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 80</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d525b9724ca5ccbb3aebf48918bd632b.png" alt="Cover for Aquemini" style="max-width:120px; height:auto;" />
       </td>
@@ -424,13 +426,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 9</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1998-10-27</td>
@@ -452,7 +455,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2afebeeb52ac6bb509c65ebae5d78bd.png" alt="Cover for 400 Degreez" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +473,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>1999-01-01</td>
@@ -495,33 +498,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090c3ae47b88ecf218e02b21809c9c88.png" alt="Cover for Definition of Big Dude" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Big Boogie</td>
-      <td>Definition of Big Dude</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 46</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/_1HYzAH2r7xMFUo3pkCKC_d9IimuNZpwSr1QOZXBDXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MzY0LTE1OTYzMDEx/OTctODI3MC5qcGVn.jpeg" alt="Cover for Da Fat Rat Wit da Cheese" style="max-width:120px; height:auto;" />
       </td>
@@ -557,14 +534,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 54</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 60</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc0c872dde251b824556296ca3ef3384.png" alt="Cover for Incognegro" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +577,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 52</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 83</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 95</li>
         </ul>
@@ -621,7 +598,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 63</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 83</li>
         </ul>
       </td>
@@ -649,7 +626,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f977006c417b4735ad4ecd533c59dc5d.png" alt="Cover for Dirty Money" style="max-width:120px; height:auto;" />
       </td>
@@ -684,12 +661,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2001-08-21</td>
@@ -712,7 +689,24 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50841ab24b644f329e3fde5e92cf3655.png" alt="Cover for I&#39;m Serious" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-10-09</td>
+      <td>T.I.</td>
+      <td>I&#39;m Serious</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f15fc26d2dc649a2486c511e84069823.png" alt="Cover for Word of Mouf" style="max-width:120px; height:auto;" />
       </td>
@@ -728,12 +722,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 47</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 57</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0469f86dbf9807a677fd60e33d958c06.png" alt="Cover for Hawk" style="max-width:120px; height:auto;" />
       </td>
@@ -750,8 +744,26 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 30</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 31</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc30c209bea51b8a6d83fccec830c533.png" alt="Cover for The Fix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-06</td>
+      <td>Scarface</td>
+      <td>The Fix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -774,7 +786,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2003-05-25</td>
@@ -790,8 +802,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 4</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 65</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -810,12 +822,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 28</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td>2003-09-16</td>
@@ -836,7 +848,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2003-11-04</td>
@@ -857,7 +869,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75fe84510d6f31dfcc952fa5e256e7aa.png" alt="Cover for Sweat" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +887,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/CZ9JMujPqw88jpVc6wZl3bj4QoRbP8TmEGgD4EIzbk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/MjEtMTMyOTU2NjM4/Ni5qcGVn.jpeg" alt="Cover for Thug Matrimony (Married To The Streets)" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +905,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/oTMr5eYtLOG6C0GaU2sTJPHzI9rFpmF5Dx_NZpfEB5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/NS0xNDM3Mzc2MDA4/LTkzMjAuanBlZw.jpeg" alt="Cover for Urban Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +923,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/084e83243b5c887dfc7a715ea3d6904f.png" alt="Cover for The Red Light District" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +942,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c60f5cd1d5a3bef71cf49291fbb429.png" alt="Cover for Active" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +964,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2005-01-01</td>
@@ -971,9 +983,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/kcG2VrR92nZ36ulMNE7xXQnf4l6rk35_Wx8cIgq_moQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYz/NTItMTY2NjM5OTA2/MS00MTkwLmpwZWc.jpeg" alt="Cover for Gutta Mixx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a9258b79d04b7bbdfcf79dc7f0d0dd.png" alt="Cover for Gutta Mixx" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-11</td>
       <td>Bushwick Bill</td>
@@ -1008,14 +1020,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 69</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/_LOmg9eIXczy3fiCO0T7MRgoC7rYvwom4rGlxAhM5X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODY4/Mi0xNjg1Njg2ODAz/LTk5NTAuanBlZw.jpeg" alt="Cover for Trill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1c54ed3a4e2cc0c48c0a068a789af88.png" alt="Cover for Trill" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-18</td>
       <td>Bun B</td>
@@ -1028,12 +1040,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 60</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a216b875da1e4c02cc33f67019f0cfb7.png" alt="Cover for The Sound of Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,12 +1059,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 92</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a70acd67c584efeceb749bd9b4f2d2a.png" alt="Cover for Tha Carter II" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1139,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 75</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1146,12 +1158,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c6452bcf6472ae5347a79931f646a2.png" alt="Cover for Stay Tru" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1178,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 68</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1201,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/889cae218cb0480c90073fd1a330400f.png" alt="Cover for Hard to Kill" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,8 +1210,6 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>Hard to Kill</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
         </ul>
       </td>
@@ -1209,7 +1219,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c6ecb1cabec349d43bd95c86993890.png" alt="Cover for Da Bad Guy Returns" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1258,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -1265,7 +1275,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/WkcZb0j5ntASmXMa3GcVmtxbjGX_6Xynf_wF7dFkZdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI0/NTYtMTM0NTY4MDQ2/Ny04NzU1LmpwZWc.jpeg" alt="Cover for That&#39;s Gangsta [Feat. Sean Kingston]" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,12 +1290,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 81</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaca3dd76d565a07560d88dcd4659d22.png" alt="Cover for What Cha Starin&#39; At? Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,14 +1309,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 15</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 16</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 26</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/VahesWHaWgfktb1zkiuzp7YGRs_NiUHCB6gKI81gPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/OTQtMTIxNjA5OTk5/Ny5qcGVn.jpeg" alt="Cover for Life Goes On" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1334,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ea7a0825df48b0c8e4c117dab67d18.png" alt="Cover for Paperwork (Deluxe Explicit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,12 +1352,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b078d67f12640dc92170e70e2196d5e.png" alt="Cover for The Real Is Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1376,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/GP9dW2WXTPHb7cUq8HdSYf1NbmezgL28VpLQfvYaBf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/MDU2LTE1OTczNzc4/NzItNzM2OC5qcGVn.jpeg" alt="Cover for Killa Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1412,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/7e1YQK-LyxgxiJF06ryCYjJ9jmEtWAIUwecQWC-54rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTk0/NS0xMTc3MzYzNjE2/LmpwZWc.jpeg" alt="Cover for Bella Vita" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1430,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06836ba24f25105969a19a1be4061d56.png" alt="Cover for Paper Trail" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,13 +1445,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 80</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3777ab1581ea4ab3bf0710c55fe0f199.png" alt="Cover for Emeritus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-02</td>
       <td>Scarface</td>
@@ -1457,14 +1468,14 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 40</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 43</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 77</li>
             <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/555d9137bbdb4d9fb4a31c20b4b10e15.png" alt="Cover for Strange Journey Volume One" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1496,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2009-04-14</td>
@@ -1504,16 +1515,16 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 25</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 26</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 45</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/pD4IHuOEYqzdxedF95bMadzccZMM-uoKMlIslZtBSRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTIx/MjgtMTQ2MDQyMjQ3/Ny0zNjU5LmpwZWc.jpeg" alt="Cover for Look What You Did to Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d88b8a0f52174acca2976355b760c658.png" alt="Cover for Look What You Did to Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-13</td>
       <td>Z-Ro</td>
@@ -1529,7 +1540,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9afa468dfb520a19eb86511415c5f71.png" alt="Cover for Flockaveli" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,8 +1549,6 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>Flockaveli</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
         </ul>
       </td>
       <td>
@@ -1572,7 +1581,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/3WXs29z01jL_6IvJFJGkjroU_tw6wt-E-nyrjQGnwlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ4/MTktMTUzMTA1MjA5/My04ODYxLmpwZWc.jpeg" alt="Cover for The Carter 3 Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1599,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcc8b3ca97704485a41906c3cf1ca096.png" alt="Cover for Low (feat. T-Pain)" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1638,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-08-09</td>
@@ -1646,7 +1655,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2013-03-14</td>
@@ -1664,7 +1673,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/jrDXxL8qmZ7kcn1zlirzwO4aA9OgzUs1anpbInphta4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODU4/MjMtMTYxNzY4NjM0/Mi02NzE3LmpwZWc.jpeg" alt="Cover for The Life and Times of Jonny Valiant (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1691,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2014-06-24</td>
@@ -1722,7 +1731,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d072820c6e9a170cf84480d844603746.png" alt="Cover for Islah (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1748,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/rvLlygj-CerMZD-V4dFIwxrrA8nP1yX1hXPQbLTJxIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU4/Mi0xMzUyNTE2Mjg4/LTczMzEuanBlZw.jpeg" alt="Cover for I&#39;m Still Livin" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,13 +1765,13 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 55</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 56</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76033ab6f40d82cf3353e5aba84341c9.png" alt="Cover for Return Of The Trill" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,26 +1781,6 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/UKMwA2G-8DrsK-Bi12wCuM2f4gTDddI7EkRKHxEGIBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/NTUwLTE1Nzk5MDgz/NjYtMzI4MS5qcGVn.jpeg" alt="Cover for Playa 4 Life" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-01</td>
-      <td>Lil E</td>
-      <td>Playa 4 Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
         </ul>
       </td>
@@ -1822,7 +1811,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3332d50004c84bbbb654afe6f22730bf.png" alt="Cover for Chemical Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -1848,9 +1837,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 32</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 32</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
@@ -1858,7 +1847,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e342bbb8bd34013e75427dd7629ad75.png" alt="Cover for Slime Language 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1864,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d329de50b75a53168afd42c849fe0a4b.png" alt="Cover for Enemies" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1910,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/659559a4ff8b6d2224b3f3b34f11adab.png" alt="Cover for Mr.Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1939,7 +1928,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e906f7c3425cf00af66eebd7836e130c.png" alt="Cover for Active" style="max-width:120px; height:auto;" />
       </td>
@@ -1962,7 +1951,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/168620d1fb244042cbc7c2cd919fede3.png" alt="Cover for Big Stepper" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,7 +1997,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/157a395c5e08320f28419a3f55538838.png" alt="Cover for Safehouse" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2020,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78f19c475c0e6d03c4a0a4a5c8ba4a9.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,12 +2033,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 83</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/664d20fa359fc1fecfb7c6fb652d0259.png" alt="Cover for Black $uicide" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2059,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/173571cd25da4f1bcf0d3f779df1080c.png" alt="Cover for Honest" style="max-width:120px; height:auto;" />
       </td>
