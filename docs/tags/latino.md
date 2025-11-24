@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T20:55:51.053Z
+date: 2025-11-23T18:52:37.980Z
 permalink: tags/latino
 title: latino
 ---
 
 ## latino
 
-Last updated: <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T18:52:37.980Z">Sun Nov 23 2025 20:52:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/r77uF1vWk9gl2oIAS3JOyd8KabiBaMFZzpU-IXVGWXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTc3/OS0xMTU1MTE4OTIz/LmpwZWc.jpeg" alt="Cover for Afro Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Salsa" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 78</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +109,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Alter Latinos" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/UUi1-_H0qsRavTQzAJeq8g6Gf6CM_A_EXTJFhVLx1Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ0/MjItMTM0ODk1MjQ2/My04MDU2LmpwZWc.jpeg" alt="Cover for Comedia" style="max-width:120px; height:auto;" />
       </td>
@@ -147,8 +147,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4660888bab194d6ca7942180fac0d37b.png" alt="Cover for Fiebre De Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Luis Miguel</td>
@@ -169,8 +170,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 50</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 16</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
         </ul>
@@ -240,7 +241,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/n-6D0MbxydZ0X6JybFY1HkvocKfbFdZSS96uW099Zxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTUx/MTAtMTQ3NTExMDkx/MC0xOTEzLmpwZWc.jpeg" alt="Cover for Mis Mas Grandes Éxitos" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +263,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/vObspu6jS6HgdTo8cn9pe69VvpBOJjsKmmZXwJC_kMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODIx/MzUtMTQ2NDQ5NTU2/Ni0zMjMxLmpwZWc.jpeg" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aea0cd8bba82c072fe1256e4f8f0435.png" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-01</td>
       <td>Lucero</td>
@@ -288,7 +289,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 6</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 42</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 62</li>
         </ul>
@@ -297,7 +298,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/5JeFy2UY8DmEXBUQcnCuXrnrp9NabKHDxMWgwJR_n_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/OTQ3LTE1MDcwNjU0/MTgtNjYwOC5qcGVn.jpeg" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ff4b2276cda47e598d98edd97cbc6.png" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Frágil</td>
@@ -342,12 +343,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 5</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg" alt="Cover for Yanni Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -371,17 +372,17 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 11</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 45</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562f220090ac47acb1b15662ef25a777.png" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucero</td>
@@ -408,11 +409,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 89</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
         </ul>
@@ -455,9 +456,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/8Mg56_t8jnOpuGHePez__3qv4Wn5qEY5qEJ5iZn2xS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg1/NjktMTIzODk2NTgy/OS5qcGVn.jpeg" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/111112540d6e4455a1e377534087e8da.png" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cachao</td>
@@ -518,7 +519,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>1996-07-20</td>
@@ -535,8 +536,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4fe70eb329d1169659a66c32d248b9.png" alt="Cover for Amor a la Mexicana" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-01</td>
       <td>Thalía</td>
@@ -549,14 +551,14 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 16</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/qC7zQ_C2a-B7gahuig8FfFglWqBLAvsYaDSJ2PRg6uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTcy/NDUtMTM5MTM3MTM5/OS02OTY5LmpwZWc.jpeg" alt="Cover for Clandestino: Esperando La Ultima Ola..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf95ff147e014d30aeec5505a92d99b8.png" alt="Cover for Clandestino: Esperando La Ultima Ola..." style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Manu Chao</td>
@@ -568,7 +570,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 32</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -591,12 +593,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 15</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/EgqgC9YJEN0YBClp2WOWTNZ0XvZ9lG8aEVHtO9DB-k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY4/MjUzLTE2NzI4ODky/NzEtNDAyNi5qcGVn.jpeg" alt="Cover for Cuéntame" style="max-width:120px; height:auto;" />
       </td>
@@ -612,12 +614,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 7</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/mw9EIMCKPJ6WRsVB7Tyd5ndYwSPOXrQSztq7XMcoXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc2/MDItMTQxMDA2ODY4/My0yODMwLmpwZWc.jpeg" alt="Cover for Llegar A Ti" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +639,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/wNhwjrm0lpDUB4D0IV7hwhqCLeHYnaJ7u2UfJ17gD1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTYz/MS0xMTYwMjM1OTQ4/LmpwZWc.jpeg" alt="Cover for El Padrino" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +665,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2000</td>
@@ -681,9 +683,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/Tr-XI-jgGamu72bDeVrupGCIuZ2ADKxI-EGulXXHqnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjMw/Mzg5LTE2MzQ1MzI3/MDctMzc5OS5qcGVn.jpeg" alt="Cover for Fireboy Forever II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed5845872fc9612dbeca6d2b47b6a48f.png" alt="Cover for Fireboy Forever II" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Fuego</td>
@@ -718,6 +720,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +744,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/dmIPuWvQu_0CYI1fXq3t3QS6Tix91ayEmHVbI1EFxYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAz/NTkxLTE2MDk5Mjgy/ODMtMzg1OS5qcGVn.jpeg" alt="Cover for El alma al aire Edicion 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +810,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/GjP6QA8U5TnIqaRCaSL4KnF6eiQso671q3p046j6pTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjgx/Mi0xMzk1NDgxNjA3/LTczMjYuanBlZw.jpeg" alt="Cover for Cántalo" style="max-width:120px; height:auto;" />
       </td>
@@ -829,7 +832,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/jyACkoNgZItuirV5gI9-utHcO1JH26QgecJy6UhFK7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg5/ODA5LTE1NDc4ODAw/ODItMjk1Ny5qcGVn.jpeg" alt="Cover for Punto" style="max-width:120px; height:auto;" />
       </td>
@@ -846,12 +849,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 66</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2003-11-18</td>
@@ -881,12 +884,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 68</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/a9mx-2KshNpEs8ySWyPPzwcE7yddCAN3hDl7Zj2m1PA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/NTQ1LTE2NzU1Njgx/MzctODg5Ny5qcGVn.jpeg" alt="Cover for Buena Vista Social Club Presents" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +907,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2004-11-02</td>
@@ -918,7 +921,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 1</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +946,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/1acQ5ZAhYCGtu0cfX3cFr8I2F18LeplXDE4CXS4_4rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcx/NTYtMTI3MTU5MzMx/My5qcGVn.jpeg" alt="Cover for Grandes Exitos (92-98) - Alguien Que Cuide De Mí" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +999,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/qdM405zID8qt1EpNWI0DkCsYAewdIPMoyIg92WohhPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQw/NjU5LTE1ODA2NjIx/NTEtMTg5My5qcGVn.jpeg" alt="Cover for Marcas de Ayer" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,8 +1018,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70560852f9344c9da28ea5c5b00e19b2.png" alt="Cover for Calle 13" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-29</td>
       <td>Calle 13</td>
@@ -1028,7 +1032,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 1</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1055,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2006-05-23</td>
@@ -1064,12 +1068,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 58</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/QoafF9OMj9wV3GAyX5hf3wHzqKI18zm4wMdftg5LTuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY1/ODY4LTE1MDAwMTA2/NTMtMjQ1Ni5qcGVn.jpeg" alt="Cover for Relaciones Conflictivas" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1091,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e54e215e0814e8193bb2ee72ed930b4.png" alt="Cover for El Mundo Se Equivoca" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,12 +1108,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 48</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2006-09-29</td>
@@ -1127,7 +1131,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/7V1pR_t-pFxxHbplGmrKhKqm9ZMIn3RbrHVmQU_CnLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTA4/MTMtMTMyNDIxNzY2/MC5qcGVn.jpeg" alt="Cover for Junto e Misturado" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,9 +1151,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/IHU200hnCQgWNOi4hibVZzgN_cNXxeChhQe4M_3UPzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDk0/MDYtMTQ3OTA0ODMy/MC05NzM3LmpwZWc.jpeg" alt="Cover for Bom Astral" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb748d9ba2bd4f1d9fa9cd78b89fbc6a.png" alt="Cover for Bom Astral" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Só Pra Contrariar</td>
@@ -1166,7 +1170,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-05-15</td>
@@ -1179,12 +1183,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 9</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2007-06-25</td>
@@ -1208,7 +1212,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
       </td>
       <td>2007-06-29</td>
@@ -1225,7 +1229,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2007-09-05</td>
@@ -1249,12 +1253,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>2007-11-20</td>
@@ -1268,12 +1272,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 30</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/kd0UjBtALQZZEFxPszxjf0kOrBpMon8kq9sIuft6yXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MjQtMTI4MzQ5NzQ3/NC5qcGVn.jpeg" alt="Cover for Na Confraria das Sedutoras" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1295,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg" alt="Cover for Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,23 +1319,24 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 15</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 47</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/_8OGoREDJJmig7U-LgFuB6hZfkP9pU3wqzsT9VLQqCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY4/NzAtMTI4MTIyODQx/Mi5qcGVn.jpeg" alt="Cover for Y." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/033a344348024701bdbd64e246e5b6cf.png" alt="Cover for Y." style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-30</td>
       <td>Bebe</td>
       <td>Y.</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
@@ -1340,8 +1345,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6931e7c2fd7842f8b23d643d473bf52d.png" alt="Cover for Almas Transparentes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-23</td>
       <td>Christian Chávez</td>
@@ -1349,24 +1355,22 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 64</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 79</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2010-09-21</td>
@@ -1382,7 +1386,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/GP8GH42Z3lmE9cPQ5OqP7UhrYbtnFMFklcVLKFAbrdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYy/MDYtMTM0MjI5OTEw/My02MTQ4LmpwZWc.jpeg" alt="Cover for Inventor Dos Amores (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1423,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
       </td>
       <td>2010-11-16</td>
@@ -1479,9 +1483,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/fS8me0QjTclsOiCN3Fmd0TtfCiu1jRPfRAUdxAiRb94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzA3/NjMtMTQ1MzgwNzcy/OC05ODk2LmpwZWc.jpeg" alt="Cover for Dance Again... The Hits (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a9ebc8e3e64806b7cd2c053115f0cb.png" alt="Cover for Dance Again... The Hits (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Jennifer Lopez</td>
@@ -1497,7 +1501,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 29</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1542,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 49</li>
             <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 100</li>
         </ul>
       </td>
@@ -1561,7 +1565,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/nZf7mV4fwZXJ6pqsfTBrUH17sDPRP8I2VbKgCG0ntFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAw/MTI2LTE2MTg5ODY2/MTYtOTg4Ni5qcGVn.jpeg" alt="Cover for Enjambre Y Los Huéspedes Del Orbe" style="max-width:120px; height:auto;" />
       </td>
@@ -1620,9 +1624,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/u6-8NmU3Oar0LI9xtGdf_yN6WwFR1ZPCwKvdMuSyDjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU1/MjYtMTM3NDQ5NTcw/NS0xNTk0LmpwZWc.jpeg" alt="Cover for Inevitable" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c390347b77fa4b31cb50e8f82adfbfce.png" alt="Cover for Inevitable" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Samo</td>
@@ -1641,7 +1645,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/hQSVJpHWQQ8YZqxk2NQ013P4X-loIhItWuijO07Yk54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkz/NjAxLTE1MTkwNzQy/ODAtODIzOC5qcGVn.jpeg" alt="Cover for NO SÍ SON" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1666,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 72</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 76</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 95</li>
         </ul>
       </td>
@@ -1728,41 +1732,15 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>34</td>
       <td>
-      </td>
-      <td>2013-09-24</td>
-      <td>Gloria Trevi</td>
-      <td>De Película</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40c8de72b6154587c5384ff9950c4df3.png" alt="Cover for La Familia B Sides" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>J Balvin</td>
       <td>La Familia B Sides</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1773,7 +1751,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/TlDkzt2RGZS4j5BjjsvjG-07FTWH9_stxjLO2WWo0Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTkz/NTMtMTI0ODMzOTg2/Ni5qcGVn.jpeg" alt="Cover for Rare Tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75657504e31027963acce55640b227e9.png" alt="Cover for Rare Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-25</td>
       <td>Thievery Corporation</td>
@@ -1797,7 +1775,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b9a87d1e3649e1c96081939a3073b8.png" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-12</td>
       <td>Lucero</td>
@@ -1824,7 +1802,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/iJM0uQm-Sf5ul_8DZiLDSyg-9X0SXKHIo86yE8RKbwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzIx/ODctMTQxNTI5MTI1/NS0yNDI1LmpwZWc.jpeg" alt="Cover for Can&#39;t Stop Dancin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49fadf838d954a14478bc6bb8e35f749.png" alt="Cover for Can&#39;t Stop Dancin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Becky G</td>
@@ -1864,7 +1842,25 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0835bf8da089be49feb1dd53df22f712.png" alt="Cover for Love Is the Name" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-08</td>
+      <td>Sofia Carson</td>
+      <td>Love Is the Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/uYWcJRV1baqmH3MY_IjbPBxqxApDXpXPB9RjAuz8sM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/ODkwLTE1MTg3NTEw/NzQtNjI3Mi5qcGVn.jpeg" alt="Cover for Energía Lado B" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,9 +1880,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/l5BKZhyLTLh7HWnYiQcgbF9Is29qQybrQ2Gx6C8rxqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjIy/MjQtMTU4NzcwMTAz/MC0zMjMyLmpwZWc.jpeg" alt="Cover for Juntos - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3a10a8fa3d44e7b2338590bc1d5b8e.png" alt="Cover for Juntos - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-17</td>
       <td>Fifth Harmony</td>
@@ -1909,9 +1905,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/R5e_AGEflLYd19EK2R2X6NO2WIxWHuAMdoHFw5n1swQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM1/MjEtMTMwOTM4NTg4/MS5qcGVn.jpeg" alt="Cover for Shakira In Concert: El Dorado World Tour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad3ac753db049874d1f83678337abee.png" alt="Cover for Shakira In Concert: El Dorado World Tour" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-13</td>
       <td>Shakira</td>
@@ -1931,7 +1927,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/wzdTh71e6aeAMCYGWDy-zNSQuN8HXvLjUsiQVbCcAMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzE4/NTQ1LTE2Mjc5MzY4/MDktNjE0OC5qcGVn.jpeg" alt="Cover for Colegio" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1946,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f015adabad255fa93e88ea154244194b.png" alt="Cover for New Bois" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1965,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/g4_cy9Um-jvD-15yHYhUeiuKcVDnKrVLXen4p__SZyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODEx/NjcwLTE2MTU5NjAw/NjAtODc4Ny5qcGVn.jpeg" alt="Cover for Revelación" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1987,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/iVODXnaz78SSH6I9nAQKOgY4VH-toYdBPHe17xe0M_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODMx/NDE5LTE2MzU5MDQ4/OTktNzc1NS5qcGVn.jpeg" alt="Cover for SUTRA" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,7 +2008,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/DP4jDJAq9AFTgGCRI93SCR6Cn85tC-tYqGlbKvMWbKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ0/NTY4LTE2Njk5NjEx/ODUtOTIyOC5qcGVn.jpeg" alt="Cover for SR. SANTOS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a457f1e47fe17169d52d4643036bb684.png" alt="Cover for SR. SANTOS" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-01</td>
       <td>Arcángel</td>
@@ -2048,6 +2044,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2074,16 +2071,17 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 1</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 29</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 3</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 30</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 35</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a1d71596646d809774c33513dc098c6.png" alt="Cover for Voy a Ti" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lucah</td>
@@ -2104,6 +2102,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f717c7da6644170a1b141345ecd6512.png" alt="Cover for Mírame a los Ojos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Green Valley</td>
@@ -2121,7 +2120,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2138,8 +2137,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/105e5fb8ee41f0b93fd1fdb98ac0cc73.png" alt="Cover for GRACIAS SAIKO 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sa!koro</td>

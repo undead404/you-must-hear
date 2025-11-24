@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T08:03:20.721Z
+date: 2025-11-23T18:53:38.426Z
 permalink: tags/acoustic-rock
 title: acoustic rock
 ---
 
 ## acoustic rock
 
-Last updated: <time datetime="2025-11-18T08:03:20.721Z">Tue Nov 18 2025 10:03:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T18:53:38.426Z">Sun Nov 23 2025 20:53:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f9a1a6ca94449b88e3127414e3bd5dd.png" alt="Cover for Never Look Back" style="max-width:120px; height:auto;" />
       </td>
@@ -46,12 +46,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 24</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5334f836e8e84d72cd41a31b295c89e1.png" alt="Cover for MTV Unplugged (The Studio Edits)" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>1993</td>
@@ -123,12 +123,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 41</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75aa4f8d0bb7907bbf700c7693ef32b5.png" alt="Cover for Stoned &amp; Dethroned" style="max-width:120px; height:auto;" />
       </td>
@@ -146,7 +146,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/oFexyZplvpefqo9zKVoRQz7lPZ_CLxRdcXML92OYqyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDMx/NTktMTMyNjYxNzky/MC5qcGVn.jpeg" alt="Cover for Better Than Ezra: Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -186,14 +186,14 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 30</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 87</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 33</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 88</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/htEbBHKUxsZIltZIUv73Y0ABCoBIstSxQndSvziMUCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc0/NDctMTQ4MjcyNjk3/MS05NzAwLmpwZWc.jpeg" alt="Cover for Backbooth" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4df158f5dcfc4ef1ceab4dca59da0eff.png" alt="Cover for Rock Crown" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +249,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/tEcdX8JB8wTQX-hhJTaW7ke-2i04KnMisMmoLkAUJtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/MzItMTI5MDcxNDkz/Ny5qcGVn.jpeg" alt="Cover for Playlist: The Very Best Of Toad The Wet Sprocket" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e1e64de8f88806064f73e38e962f474.png" alt="Cover for Inside Wants Out" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +282,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 45</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace7dfe2de7b0d1c4355d1f27f17de65.png" alt="Cover for Here&#39;s To Moving On" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/GwPXy8K97QrQ2y914gGNbSrOMek2gb1jxO_LUAdzdpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTAz/NS0xMjUyMDQ1OTM2/LmpwZWc.jpeg" alt="Cover for Spirit Bound Flesh" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +380,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1232c3e60a794f81b2ed91382dc0fe52.png" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +417,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 77</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 84</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -481,12 +481,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 90</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7a7af373964b8acbdbd09085ad0063.png" alt="Cover for A Mark, A Mission, A Brand, A Scar" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +503,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e804380d538842e0c2171075b198b2c2.png" alt="Cover for Acoustic Samurai" style="max-width:120px; height:auto;" />
       </td>
@@ -522,7 +522,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004</td>
@@ -583,15 +583,15 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 38</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 67</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 33</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 56</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2fdc2aaa07ee0230e32a9512cbb7f6f.png" alt="Cover for Learning To Let Go (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +655,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2005-10-05</td>
@@ -676,7 +676,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6aa4c9abacf4cd28c42896878d98222.png" alt="Cover for Mi and L&#39;au" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +713,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/hUINMFyzeoi2iXo9gf7a0RXQnF52XrEBQ9_QwlLJv2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE4/NDItMTQ1MTkwMjg0/NS03NjgyLmpwZWc.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
@@ -748,13 +748,13 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 26</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 27</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efbd35c68b834aa7bc6351af38a119ff.png" alt="Cover for Downtown - Journey Of A Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +778,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0948793c77f4ac79b6b5ba42fd9fe40.png" alt="Cover for The Acoustic Verses" style="max-width:120px; height:auto;" />
       </td>
@@ -793,6 +793,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +820,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8f8OkuxUKknFFjD0RerQTpFxwMz_Mgn7xR484cUCOI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgz/ODYtMTIwNjY3NDU4/Ny5qcGVn.jpeg" alt="Cover for Dusk And Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +839,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cf4eaf27ebf48139d17e16e69191ad9.png" alt="Cover for Towards a World Without Dishwashers!" style="max-width:120px; height:auto;" />
       </td>
@@ -881,12 +882,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 80</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2007-03-02</td>
@@ -923,7 +924,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-11-23</td>
@@ -940,7 +941,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b1cc095a1f480e87422ced74466036.png" alt="Cover for Acoustic Connect Sets" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1003,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5fb451283ec87987a480ed0a1cf1362.png" alt="Cover for Konk (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1024,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbdb223393145b2b85724f8d0bd474c.png" alt="Cover for Redemption" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,13 +1060,13 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 38</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 78</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 41</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cffefe6abfa168a7e2385066b5a38476.png" alt="Cover for Dinner for One" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,7 +1105,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-10-25</td>
@@ -1120,7 +1121,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfd7177ce1964bfc82f6a9f9d6d87fca.png" alt="Cover for Love Vs. Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1136,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 12</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1176,14 +1177,14 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 90</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11373c924c8e48bfb2b7aec6da14424b.png" alt="Cover for Acoustic Sessions Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1272,7 +1273,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 51</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1325,13 +1326,13 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 33</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 35</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/535fc523c4a1453982aa13a4e0c84f8a.png" alt="Cover for Bottled At Source - The Best Of The Source Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,28 +1347,6 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53c727fa67648c3a6dcc3403fae499f.png" alt="Cover for Sound The Alarm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-08</td>
-      <td>Howie Day</td>
-      <td>Sound The Alarm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1370,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be20092ffec54fd4904a9ed72a218400.png" alt="Cover for Find A Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1393,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ba3d5c9f6141a1a23d20e4075dd102.png" alt="Cover for These Electric Pages Have Been Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,8 +1467,8 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 59</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 75</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 75</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 76</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 98</li>
         </ul>
       </td>
@@ -1592,7 +1571,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/tpmnNjHWyjn-OdRnqVvUk9uwVcYDPt7L4CjyZPOJcLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTk5/NDktMTM4MjMwMTgy/Ni05MDk1LmpwZWc.jpeg" alt="Cover for No Heroes Allowed (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1591,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc96569f7f36ad97c0ce9a3bca5c6cd.png" alt="Cover for Punk Goes Acoustic" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1612,24 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c929ae5c0e5156e0f13880eaeace17.png" alt="Cover for Punk Goes Acoustic, Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-12-11</td>
+      <td>Punk Goes</td>
+      <td>Punk Goes Acoustic, Vol. 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86b1c7c9edbd453ac532d862e8546137.png" alt="Cover for The Turn" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,12 +1663,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 62</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/LTkvadN53-Mgapj4POKGusI2o41At3iDU1pFyNzkyIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDQz/NzgtMTQ0NDk3NDc1/OC0zNzA3LnBuZw.jpeg" alt="Cover for Rise: Ascension" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1686,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc211e9f6655784e20960d5a34ae3bc.png" alt="Cover for Between the Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1706,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5acb3fcfd970633ab20fd9fc086932f.png" alt="Cover for Lemon Parade Revisited" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,7 +1725,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg" alt="Cover for The Baby Panda" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,15 +1755,15 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 64</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f2eca136483223d37df7044d266fb7e.png" alt="Cover for Blessed Are Those" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1783,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f135e85b75743d6a36834cf9b49b91.png" alt="Cover for Chaos and the Calm (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,6 +1922,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5bb05681dbd8baf7ea6d6cf4b2bf5b5.png" alt="Cover for Kerosene" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-08</td>
       <td>Red Vox</td>
@@ -1942,9 +1939,9 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/A6YCU0kptmjypoJwHt716NM32-MbqWPm5wBj3JJCb2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE2/NjQzLTE1NzQwOTM2/NDctNTEzMi5qcGVn.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6d4c676fb1cd62d12071ed984a6c7f4.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-14</td>
       <td>D At Sea</td>
@@ -1962,7 +1959,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdeec00fa9f31722da445943e0d65af0.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,44 +1983,11 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 20</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 24</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 26</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-13</td>
-      <td>IAMX</td>
-      <td>Echo Echo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 54</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 78</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 1</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 29</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 29</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2045,12 +2009,12 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 19</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/812372f298da6c7ce42a64ea7cac02cb.png" alt="Cover for Devolution Series #1 - Acoustically Inclined, Live in Leeds" style="max-width:120px; height:auto;" />
       </td>
@@ -2067,7 +2031,7 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/335dd6afbd1168cdae750b844fb70f25.png" alt="Cover for Fight Like Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,7 +2066,31 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1eabcc263f4066c03abbfe3eaa0261.png" alt="Cover for Reconciliation" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>(Person) (Noun)</td>
+      <td>Reconciliation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 54</li>
         </ul>
       </td>
     </tr>

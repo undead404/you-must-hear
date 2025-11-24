@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T21:51:58.704Z
+date: 2025-11-23T18:47:37.954Z
 permalink: tags/uk-hardcore
 title: uk hardcore
 ---
 
 ## uk hardcore
 
-Last updated: <time datetime="2025-11-14T21:51:58.704Z">Fri Nov 14 2025 23:51:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T18:47:37.954Z">Sun Nov 23 2025 20:47:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
   </thead>
   <tbody>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae789ca28bfe4908c9b9da12a2a740cf.png" alt="Cover for Bonkers X" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/E0vGLtF-RXK9VkL7iZEdYuVHZrMF9_iJpPcQH_JAucY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY0/MDEtMTMxMDQ5NTM4/Ny5naWY.jpeg" alt="Cover for Back Cat Mega Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/v9uXOOz7Ob0YyAgnq7fbd2WjC3e3JejsVmZggxZWqTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI5/OTQtMTY4NDQ0NDI5/My0zNDEyLmpwZWc.jpeg" alt="Cover for The Spark Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -142,7 +142,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf743afa0bfc4c9190e403560173fea5.png" alt="Cover for Sour Mash E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/GeyXApA5-oUUELm3gy3FHiGXCAH--wmrd3ToTE6rSRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjI3/NDEtMTUzOTI4NDY1/OC05ODk1LmpwZWc.jpeg" alt="Cover for Does It Sound Good At 170, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +239,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>2003</td>
@@ -257,7 +257,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>2003</td>
@@ -331,7 +331,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/GBYzDvSURBq0y8e6soBQ_ZNsw16_lNom4ZakPKVtnm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODY5/MzMtMTQ3NDU0Njcx/OC01ODYwLmpwZWc.jpeg" alt="Cover for AΩ" style="max-width:120px; height:auto;" />
       </td>
@@ -391,12 +391,12 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 67</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2007-01-15</td>
@@ -417,7 +417,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/rVo_lTwkPS8DtwvxrQHwVqGHDfWN4PriNUlMmcmHGJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY4/MjMtMTIyODE2NDIy/OC5qcGVn.jpeg" alt="Cover for F2" style="max-width:120px; height:auto;" />
       </td>
@@ -435,7 +435,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/A3yvR_wfLi63bGAp6ZjdRGpIpmzoIqthMl5q-9KIqDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjcz/NDc0LTE1ODkwMjIy/NDMtODIxNi5qcGVn.jpeg" alt="Cover for All The Time &#x2F; Go This Way" style="max-width:120px; height:auto;" />
       </td>
@@ -454,7 +454,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/1pKao86uoHae2Nt9_6dB-a7s_-UL86zoELByHyv5Apg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTky/NzIyLTE1MjA2MTcx/NTctOTY1NS5qcGVn.jpeg" alt="Cover for Yabai" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/HBuzKPH9j0PpikV5tBGtW9_mGq-cbDvTfXR6VdZUwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ4/MjUtMTMyNzMyNjYx/Ny5qcGVn.jpeg" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -492,13 +492,13 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 53</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 52</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/OL1NA9uGM5gwB_NBsm7uwHYyIWEglnV1gS-2gC0w45A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjEy/NjgtMTI1NTE5NTc1/NC5qcGVn.jpeg" alt="Cover for [chase033] - Strobcore - Funky Music Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +515,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 13</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -534,12 +534,30 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c5d053894bbbe8e9253c7ab1ce341bf.png" alt="Cover for Only Girl (In the World)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-13</td>
+      <td>Rihanna</td>
+      <td>Only Girl (In the World)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/YCCzXZo7EVXzIhlX4QxaZNNjLfkn8ohDFpTa6i77RFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg0/NDgtMTU4ODYyMDY2/My02NzUzLmpwZWc.jpeg" alt="Cover for Hardcore Addiction 3" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +598,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/g84HmgLoalKiswNXse1d9Y11jXqs7XDPAuQhWPUuJJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTkx/MDAtMTY0MDY4MTE2/Mi01NDQ1LnBuZw.jpeg" alt="Cover for Filth &amp; Dumb Hatred" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +658,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 80</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 83</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 99</li>
@@ -648,26 +666,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Qkpy0MPARi3VNxQq0qZw7umAnxw0qL5kt3SNyGRTJdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTA3/NzctMTM5MjY2ODEx/NC00NzQ2LmpwZWc.jpeg" alt="Cover for Sound Pollution" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-02-08</td>
-      <td>Outforce &amp; Age-O</td>
-      <td>Sound Pollution</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/FNZVlMxt2SudokFSGYRdgLGeOgeCpx8kypCJwGKY9rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQ3/MC0xMTg1NDUwNjgy/LmpwZWc.jpeg" alt="Cover for Part Of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +725,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/_Xh56HAZyCpF3IKpX0QU6TG4KNPbHU6iV72i0m3v9oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTkz/MTItMTQ2NjY4NzA3/MS0zMDAxLmpwZWc.jpeg" alt="Cover for My Music" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +743,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/SggJAfH85TuVGAikBdhUMP5bo2KrlBggO7pYdioycic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ2/NjctMTQwMjMwNjMz/Ny03MjU5LmpwZWc.jpeg" alt="Cover for Shadowed By Vultures" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +762,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/eehtL1iqNms6D449vYmVDg73yT5qiw5f3GylwHU4iuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/NzM0LTE1ODQ4MDQy/NDYtNTgzNy5qcGVn.jpeg" alt="Cover for Feesttent (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +820,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-bs3UEx3GZQTM-ODhAdW3EbbNhputRKFY2Fw0iYmDmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTYw/OTAtMTQwMDIzNTE5/My01ODEzLmpwZWc.jpeg" alt="Cover for Ain&#39;t No Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +838,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>2014-08-17</td>
@@ -857,7 +856,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/-_HDGhYuiTTz5yz1qgOEaRLQ8JXF9eHADZIfjTO_lYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODI3/NzktMTQwODEwNTIy/Mi0zMjY0LmpwZWc.jpeg" alt="Cover for Muffin Music - Literally Everything (Literally)" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +942,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/OvoMSVtWGAh6iRbN49At7qmbfXbFOw7FleefRvINt3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk5/MDI4LTE1Njc4Mjc5/MzktMjg5OS5qcGVn.jpeg" alt="Cover for Ludicrous Speed" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1003,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/SHLJ5nG57vVxb1jgFVbUKp3kUVIfPKfy-RO_ccuZ1ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg2/NDYwLTE1NDk1Nzc5/MjYtODI0Ny5qcGVn.jpeg" alt="Cover for LS6 Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1083,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2965a3e0fcfdb8353bfca340ca315483.png" alt="Cover for The Beginning &#x2F; UK Hardcore" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1104,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/-JrNgTeT2C48W8GlLJBqDk5CEnXyfo5lO5YXslrHT44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjA3/MzcwLTE2MDg3NjE3/OTgtOTU4MS5wbmc.jpeg" alt="Cover for Makina 4 Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1124,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/0JyQnpgumcaw2yS_uAw8DMhSrjWhRmdJfYa5_P_MFE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE5/NDk2LTE1MDE0NTkx/MTctNTAzNi5qcGVn.jpeg" alt="Cover for Does It Sound Good At 170, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1163,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/tA48pX5dTvshl4eH23x4xjeG4GF8-fDtlF_Su1QKu1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NTctMTI2MDMzMzI4/Ny5qcGVn.jpeg" alt="Cover for Bass Slut" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1182,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/-8NtxZagt-xbLR5ULWpYaHdK4_EQul8DjhVExKtDnog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE5/Mjk2LTE1MzY4NjIy/MTYtNjU3Mi5qcGVn.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1218,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_0I_6EPqOP6tZ4vY-Rt1-1l1Tv53hAgcEUfrtTJiljY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDA1LTE1MzYyNzA4/MDgtMjc1MC5qcGVn.jpeg" alt="Cover for Finding Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,7 +1239,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 2</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1262,14 +1261,14 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 38</li>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 92</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/kOKCuV5SkL859iUHoOWFvrd2Zi6kKAoD8A3tYatD16A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/NjA1LTE1NTUxNjY3/MDktNjg2OC5qcGVn.jpeg" alt="Cover for Down Down Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1293,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/02u4FvTJxBASmyVULOu635GfY0NDWMg11prlQrHgPVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/OTkxLTE1NTE3MjM5/MTMtOTA4OS5qcGVn.jpeg" alt="Cover for Crank Up the Dank" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1351,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/rg21TEyHzD8ACfJWykfUkTk-4Zzp4265dF5UmusDxdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI0/ODg5LTE2Njg5NDU2/NzgtMjQxOS5qcGVn.jpeg" alt="Cover for Mind Over Matter" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1371,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/-UuMV9gQ0ypQQsCyEFa2l_zQJVH2XSqn2v5eNfcvaIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/Njg5LTE1ODU4ODUz/OTEtMTAzMS5qcGVn.jpeg" alt="Cover for HARDCORE UNDERGROUND vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,38 +1406,34 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 19</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 18</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/J5_3QhqL_QrNw_Gf2n2CV1VVxRJDXkl0DdyMIsJpiFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTQ2LTE1OTE4MTA5/OTUtNTIxNS5wbmc.jpeg" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e648b76bb3023495223a8ce1395485c.png" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-10</td>
       <td>False Noise</td>
       <td>Floral Strobe</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 42</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 56</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Wle4sinjDlzg5fwIaErcY-Zq-msD5Yrh175HPPT80rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU0/ODAzLTE2MzI1MDkx/MjMtNjcwMi5qcGVn.jpeg" alt="Cover for Don&#39;t Let Go Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,7 +1492,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/RTxosnIW5zjk2feH5uPQgJ1NMnYMZVIXFQ_KgWj0bVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTgy/MDI3LTE2NTUyOTgw/NTktNTg3NS5qcGVn.jpeg" alt="Cover for Flowers Unfold" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1510,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for HARDCORE SYNDROME 18" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,7 +1528,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 28</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 27</li>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 100</li>
         </ul>
       </td>
@@ -1559,7 +1554,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023</td>
@@ -1578,7 +1573,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Ultra Reload Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1592,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>2023</td>
@@ -1618,7 +1613,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/fn235avgOT9du73v9T-_MNUZRUc6mHZQo3NN9HtDeaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI4/NzYwLTE1MTk2ODQw/MDYtNjg5Mi5qcGVn.jpeg" alt="Cover for Partystarter" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,7 +1653,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/216VF1gaAQBnpR04PVP6eLfKmBzCOsBbNHPTmSpKbmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQ2/MTIxLTE3MTI2NDgx/MzMtNjI2MS5qcGVn.jpeg" alt="Cover for HiTNEX ViRTUAL SHiFTERZ (feat. Matatabi Sound System, DJ NECOJITA, Shinonome Interface &amp; blaxervant)" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,12 +1666,12 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 22</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1736,7 +1731,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1754,7 +1749,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1771,7 +1766,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1789,7 +1784,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1807,7 +1802,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1831,7 +1826,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1851,7 +1846,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1871,7 +1866,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -1889,7 +1884,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -1907,7 +1902,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -1925,7 +1920,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1943,7 +1938,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -1961,7 +1956,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1978,7 +1973,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2022,10 +2017,10 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
 - [happy hardcore]({{ "/tags/happy-hardcore" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
 - [rave]({{ "/tags/rave" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
-- [trance]({{ "/tags/trance" | relative_url }})
 - [hardstyle]({{ "/tags/hardstyle" | relative_url }})
-- [hardcore techno]({{ "/tags/hardcore-techno" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [j-core]({{ "/tags/j-core" | relative_url }})
+- [hardcore techno]({{ "/tags/hardcore-techno" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
-- [hard dance]({{ "/tags/hard-dance" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})
