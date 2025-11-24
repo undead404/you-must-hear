@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:42:28.310Z
+date: 2025-11-24T08:15:38.215Z
 permalink: tags/midwest
 title: midwest
 ---
 
 ## midwest
 
-Last updated: <time datetime="2025-11-13T16:42:28.310Z">Thu Nov 13 2025 18:42:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:15:38.215Z">Mon Nov 24 2025 10:15:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 29</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -74,7 +74,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/643cd1e0aa611add0d41eafe76d98237.png" alt="Cover for Bag of Hammers:eXtreme - Weed-n-Coffee" style="max-width:120px; height:auto;" />
       </td>
@@ -96,7 +96,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 29</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -115,33 +115,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 66</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/vd1gI1fLoPWTNp3HzOJYaAufRRWxDKjsja27jsC56VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUx/NC0xMzc1NjIxMzM0/LTUyMzcuanBlZw.jpeg" alt="Cover for Closed Casket" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-11-22</td>
-      <td>Esham</td>
-      <td>Closed Casket</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c3a78c2840f48a0b1b2627066133496.png" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
       </td>
@@ -164,12 +143,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 32</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 46</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1995-02-24</td>
@@ -184,7 +163,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 35</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +189,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1997</td>
@@ -226,12 +205,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 40</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/-bTw_DcMLYdMhaqHL_wuFQZQ2YZOZRXR5-ls0akepzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/ODg0LTE1NzkwNDEx/NzMtOTE5MC5qcGVn.jpeg" alt="Cover for Cold Blooded" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +248,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Bk2NxiGgEydbHOFZEDo-PgjR4bhySkKvoPLZN6yutmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/MC0xMTE5NjI0NTky/LmpwZw.jpeg" alt="Cover for A Storm Of Soap And Other Things" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +266,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg" alt="Cover for Paragraphs" style="max-width:120px; height:auto;" />
       </td>
@@ -306,12 +285,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 16</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
       </td>
@@ -331,12 +310,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 10</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22bba47afe4429c8c98571864ce7814.png" alt="Cover for Born Dead 2" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +334,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 48</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +359,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/7QgepmVkEeI0lSbDs2kE1wqESDR8kDQeQdZEWTgDpes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM1/OC0xMzc0OTI2OTEy/LTY0NTQuanBlZw.jpeg" alt="Cover for Boomin Words From Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/142e7b4a641d0f79d5d382ba972a4f02.png" alt="Cover for Boomin Words From Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Esham</td>
@@ -417,9 +396,9 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/3tPjwZcdE-MrP-sNnb_kpmMxL06Taosoa1-tBhcGu8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA1/OC0xMzgyODcyOTc3/LTkxMTguanBlZw.jpeg" alt="Cover for &#39;Bootleg&#39; (From The Lost Vault)-Vol.1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e151cf60674dfcfcdba3e520298a8d0d.png" alt="Cover for &#39;Bootleg&#39; (From The Lost Vault)-Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-28</td>
       <td>Esham</td>
@@ -437,7 +416,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10872fa443844c9eab34f6495f4cc05e.png" alt="Cover for Vices" style="max-width:120px; height:auto;" />
       </td>
@@ -459,12 +438,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 18</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/5VMOwl-2NMAwd6ZDMRhjmrV7hxoMUvEvLYR8H6q3Xwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NTEtMTMzNzk4MDI4/Ni05NzA4LmpwZWc.jpeg" alt="Cover for Walk Thru Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +486,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2002</td>
@@ -529,9 +508,9 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/4mpe6_Q8ijJ8jvgNiWsmBlTRj9CoPTza6FgI7dy5xFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY1/ODg4LTE1OTAzNTc3/MDUtNzI0MC5qcGVn.jpeg" alt="Cover for Big Thyme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75dbea9816554b0696dc923744f277bc.png" alt="Cover for Big Thyme" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Rich the Factor</td>
@@ -568,7 +547,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2002-12-09</td>
@@ -584,7 +563,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/395471812f48415695bf2c87f7a48236.png" alt="Cover for Theneighborhoodshittalka" style="max-width:120px; height:auto;" />
       </td>
@@ -606,12 +585,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca42fd8b996f68eb6b781d4c6e19561.png" alt="Cover for The Motor City Rhythm &amp; Blues Pioneers" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +653,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68c403f99cba445cb4e1730a2f3eaa5.png" alt="Cover for Bedlamitez Rize" style="max-width:120px; height:auto;" />
       </td>
@@ -694,14 +673,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 39</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a703c810e69508c1f68cc110ac2d1a5d.png" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Keston and Westdal</td>
@@ -730,7 +709,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3abfad2930d22b5068c0c0c5741988.png" alt="Cover for 11 Steps Down" style="max-width:120px; height:auto;" />
       </td>
@@ -752,12 +731,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 31</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6337559957a0444ea2350644dbfc50bd.png" alt="Cover for The New Prescription" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +756,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 15</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -799,13 +778,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 14</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 17</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0faace3c84645cdbefd6f3fe8393e7e.png" alt="Cover for The Drugz LP" style="max-width:120px; height:auto;" />
       </td>
@@ -826,12 +806,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 2</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a1d0c30ef5164c4e11399ce0b93117.png" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +833,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 2</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 34</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -904,7 +884,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c033abe191e445f181151892716f2a95.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +904,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 44</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -967,7 +947,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/aXz3xgL3xF8f_b9T8DIb63zpN5hw1pm-CrpDgVXVixI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU4/NC0xMTUwMDY1NTQ5/LmpwZWc.jpeg" alt="Cover for Escape" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +966,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/lvdH9j3WmliXrwetizdRo7cj5eV9BovskDHJX80LVz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzEy/NjgtMTQ0ODQzNjI1/Ny03NzE1LmpwZWc.jpeg" alt="Cover for These Moments Are Momentum" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +984,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 39</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1004,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 26</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 42</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1068,12 +1048,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 45</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 66</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/DP7L_byltLNrN25YiEtKzGjO8ackjViKk4Upsys7rS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQx/MzEtMTMxNjcyMzEy/Mi5qcGVn.jpeg" alt="Cover for 20th Street Rich" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1075,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-13</td>
       <td>Keston and Westdal</td>
@@ -1120,11 +1100,11 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
@@ -1154,7 +1134,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/JeCIcVEZ552zqaPIRYcd7og8Fpm0iH9tdPtn57BETMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/OTEtMTI3MjMyNjIw/Mi5qcGVn.jpeg" alt="Cover for Facade Promo" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,6 +1166,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc11012f1fe4046a2f28ef6d89339a2.png" alt="Cover for The Live EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08</td>
       <td>The Black Keys</td>
@@ -1250,13 +1231,38 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 6</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a45324446349eac90a397e065a238b.png" alt="Cover for Fresh Out Da Kitchen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Bake Up Boyz</td>
+      <td>Fresh Out Da Kitchen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f269669459fa483a8c83707fab10d6a3.png" alt="Cover for Tyrants and Spies" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,14 +1281,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 55</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Keston and Westdal</td>
@@ -1355,8 +1361,8 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 30</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 62</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 63</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1376,7 +1382,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 24</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1412,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 37</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 51</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1431,14 +1437,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 17</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 56</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/A3m_1TsHvCiWszyroaM37ctyFGe1XmlWFXHVUA9y-Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkz/NzItMTI0MDI1NzUw/NC5qcGVn.jpeg" alt="Cover for Scientific Illuminism (Is For Sissies)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/426205596d114844bdfdf8deae38c7c6.png" alt="Cover for Scientific Illuminism (Is For Sissies)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-17</td>
       <td>HipGnosis</td>
@@ -1477,14 +1483,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 30</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 31</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44960217041dd9710d587afcd0dcf7b8.png" alt="Cover for Devil Catch Up With Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1549,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0559ea3e087b03f554fabca19d9407.png" alt="Cover for Opening The Box: The B-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1598,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04f3fcbc881bc09d54ef46d49051fe34.png" alt="Cover for Heated Speech w&#x2F; bonus DVD" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,12 +1622,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 21</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Sk7Lr1rU6OLNHVr1Z5g-kZYz7-oOxn83pgjh4RtPvXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM3/MDYtMTI3NTU4NDMy/OC5qcGVn.jpeg" alt="Cover for Brothers (bonus disc: Akron Sessions)" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1668,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/UfW75siAgQDWDbp_2j-m4msJCdjAcroWahuhMY-AY78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYz/NDg0LTE2MTE5MzU0/NzEtMTIyMC5qcGVn.jpeg" alt="Cover for DEMO" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1710,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b663261b86140cb8df006e8249b13f4.png" alt="Cover for Beat Her Heart Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1770,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 74</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1788,7 +1794,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 82</li>
         </ul>
@@ -1813,7 +1819,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e206453e023dfdb4d749464fcd4fa7fa.png" alt="Cover for Swell" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1833,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 68</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1853,7 +1859,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d08b8a06d7793d0e35febc469758dc.png" alt="Cover for Тени" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,7 +1878,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/1Uvu_ztFvtiy0hhwPfZq6ozn65fZzytgXEEMomLjyS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDc2LTE2NzcyNTc3/ODEtMjgzMy5qcGVn.jpeg" alt="Cover for BBP" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1899,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/9lxevwhcY6rshI7tAUtCa8HJK3-JJs2oT9VztvbNkhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE2/MS0xMzk4NzQwODYw/LTY0NzUuanBlZw.jpeg" alt="Cover for LOYALTY &amp; RESPECT MIXTAPE V.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1918,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c99058804a540eeb27c74b876c9a2e7.png" alt="Cover for Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,12 +1940,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 12</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea8b42ca77b4a97bdc77c40de980575.png" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
       </td>
@@ -1958,12 +1964,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2c4f7ef2eb44d5964173d3916f4ce3.png" alt="Cover for Where is the P***y and Beer?" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,12 +1992,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 19</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/304a7884480142d986e3637f55b5c925.png" alt="Cover for Terror..." style="max-width:120px; height:auto;" />
       </td>
@@ -2013,12 +2019,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 25</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c00415445348738efcb1c4407866e9.png" alt="Cover for Welcome to Detroit Muthafuckaz" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,12 +2044,12 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 26</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -2074,7 +2080,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed62ca63911bc2ee8acbabeb6561afc.png" alt="Cover for The Brains Tha Muscle &amp; Da Mouthpiece" style="max-width:120px; height:auto;" />
       </td>
@@ -2098,7 +2104,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2116,7 +2122,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2134,7 +2140,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2152,7 +2158,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2170,7 +2176,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2191,7 +2197,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2852b22985e2b796a0dfda9732500c2e.png" alt="Cover for R.O.L." style="max-width:120px; height:auto;" />
       </td>
@@ -2219,7 +2225,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td></td>
@@ -2236,7 +2242,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbbbac56283b7a2f86731adb2e89f0cb.png" alt="Cover for New Bombs Explodin&#39; Tracks" style="max-width:120px; height:auto;" />
       </td>
@@ -2264,7 +2270,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bbf9c9096e301c34e677c5daa464eca.png" alt="Cover for Not Enough" style="max-width:120px; height:auto;" />
       </td>

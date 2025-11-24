@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T19:17:32.651Z
+date: 2025-11-24T08:19:38.025Z
 permalink: tags/sadcore
 title: sadcore
 ---
 
 ## sadcore
 
-Last updated: <time datetime="2025-11-18T19:17:32.651Z">Tue Nov 18 2025 21:17:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:19:38.025Z">Mon Nov 24 2025 10:19:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,16 +43,16 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 4</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 4</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 8</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 11</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 15</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 73</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 76</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32a145b21b68eebb85bdb414e815f94.png" alt="Cover for Down Colorful Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -66,12 +66,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 87</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1993</td>
@@ -90,7 +90,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace01a0f2ef2fd6afc23cf7d1a80d361.png" alt="Cover for Eating the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -140,7 +140,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1994</td>
@@ -157,7 +157,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07441d66b4e0aba40c7108b572549774.png" alt="Cover for Roman Candle" style="max-width:120px; height:auto;" />
       </td>
@@ -173,12 +173,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
         <ul>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 5</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 65</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4247c2e3ef9d957b730d04f09b6f8c8.png" alt="Cover for Lowercase" style="max-width:120px; height:auto;" />
       </td>
@@ -192,12 +192,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 14</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84a9a1c6d636efcfde30bb7f5c5ade93.png" alt="Cover for Ocean Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +211,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 57</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -230,9 +230,9 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 46</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 54</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 74</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +256,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dafc18ddeaf443d98dd7b84e965c6fe.png" alt="Cover for Songs For A Blue Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 70</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -294,9 +294,10 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 9</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 10</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 71</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 7</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 16</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 74</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 95</li>
         </ul>
       </td>
@@ -325,7 +326,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7152b511dda34699999f3248778e9b9a.png" alt="Cover for Red Apple Falls" style="max-width:120px; height:auto;" />
       </td>
@@ -342,10 +343,10 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 8</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 15</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
@@ -387,7 +388,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 34</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -407,12 +408,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 26</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/vJ83RDQCg0UCZiXNtF9Taat44NbG1XoL5avWkYJk0ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTUx/OC0xMjExMzU4OTg4/LmpwZWc.jpeg" alt="Cover for Leisure &amp; Other Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -469,27 +470,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/RI2cv4gN7A1JGyYH4U3UlZAhQ3LNc_d4HPaoP4zIWoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA2/OTUtMTQ0Mzc1NDQz/NS05NjIwLmpwZWc.jpeg" alt="Cover for Negarville" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-11</td>
-      <td>madrigali magri</td>
-      <td>Negarville</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/8icj3tYs21BaGXtcD0U5oAh2-_qVMrIy69YpT45EhFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTcy/OC0xNzA5NTU1NTc5/LTM1NTAuanBlZw.jpeg" alt="Cover for Waking Up On the Wrong Side of No One" style="max-width:120px; height:auto;" />
       </td>
@@ -543,6 +524,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +560,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/025f4e39932844a9a6ce4cd20f176d42.png" alt="Cover for Old Ramon" style="max-width:120px; height:auto;" />
       </td>
@@ -592,7 +574,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 65</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -656,7 +638,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2002-08-06</td>
@@ -669,8 +651,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 38</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +671,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 36</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -728,10 +710,10 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 21</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 74</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +736,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5537ea1b66604c74baabfad00198dd99.png" alt="Cover for You Are Free" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +753,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88537e6101389c21e800f3a08e062fe1.png" alt="Cover for Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -809,7 +791,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/GzI-qRfFe9WbXVPqWcPHulux2UVrqr8dmrD1EqNSdms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTIw/MzItMTE5MTQyNzMw/My5qcGVn.jpeg" alt="Cover for Restraint" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +830,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 60</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 64</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 92</li>
         </ul>
       </td>
@@ -887,8 +869,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 41</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 53</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 43</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 64</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 93</li>
@@ -929,11 +911,11 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 19</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 63</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +939,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2de12efd7da74b14b582a6b5f30ae14d.png" alt="Cover for Jamestown Story" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +961,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/SNKN8oE9H0cIUcYG3urpUUakzaxXG9wGD7nxw0zON7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTEx/MzMtMTM0NDU0NjUz/OS00NTQxLmpwZWc.jpeg" alt="Cover for Harpe celtique et chants du monde (2016 Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,7 +1029,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Songs For The Blue Times. A Suicidal Pop Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1049,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/rKPee7zN7DIH_ubqWXU1I9JKyiB9TSN6X9L8oa3K5O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDY1/Ny0xNjAxNTYzMDc5/LTUzNDUuanBlZw.jpeg" alt="Cover for All My Bad Thoughts" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,18 +1082,18 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 5</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 22</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 67</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 28</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 36</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 90</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b5e1e50171c27c6efe1778837c375b.png" alt="Cover for Let Me Go, Let Me Go, Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,9 +1106,10 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 61</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 57</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
         </ul>
@@ -1164,16 +1147,16 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 46</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 47</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 57</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 49</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef4081e35cdb357334f1dbae22c6af7.png" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,11 +1188,11 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 80</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 34</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1239,8 +1222,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 35</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 37</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1260,18 +1243,18 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 82</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 30</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 35</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 47</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/TQ7N79_1Q9Pzlakx2Wynx-O3vlHyfSSaHnUoc__qIvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/MjQtMTcwMzM0Nzc5/Ny0xOTc2LmpwZWc.jpeg" alt="Cover for Another Longing Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1278,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45d5db9325614b25a0875efb5b501ac8.png" alt="Cover for Show Me Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1323,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/OTIhCb1QzsFYWYCdBI1z69sG7matyDCzUUgIYzZdxMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/NTMtMTE5NTc1NjQy/My5qcGVn.jpeg" alt="Cover for Non Io" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,17 +1362,17 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 8</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 12</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 74</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e90ab6bafb4c40888ed62cab62e72be8.png" alt="Cover for New Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,12 +1387,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 42</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ufpsjCEkRKyM3OGyjfhM50vFdqGNYg9A1X_62n206pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk4/MTYtMTMwOTIxMjIw/NS5qcGVn.jpeg" alt="Cover for polanski b" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1419,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/phivCPTR3fpwJRU-khwfjerlnrhz57_wnRJl3w07sAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk3/ODQtMTMwOTIxMDk1/Ni5qcGVn.jpeg" alt="Cover for polanski blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,17 +1515,17 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 14</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 17</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,9 +1542,9 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1597,10 +1580,12 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 31</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 64</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 2</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 71</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
         </ul>
@@ -1669,7 +1654,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Folks Pop In at the Waterhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1689,8 +1674,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 78</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1738,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 38</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 42</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 88</li>
         </ul>
       </td>
@@ -1802,7 +1787,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be20092ffec54fd4904a9ed72a218400.png" alt="Cover for Find A Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1805,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1872,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99434582a5da4b9293ecfe754e0729ab.png" alt="Cover for Born to Die - The Paradise Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,8 +1890,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 99</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 99</li>
@@ -1943,7 +1928,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 34</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1950,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1987,7 +1972,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 88</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 96</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2011,7 +1996,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/OQqk0ApTjHGUHUTsSFaEOtTi0TCZKER2tlSSGSpgwdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTY5/ODMtMTQ1NTQ1OTA3/Ni0xMTMyLmpwZWc.jpeg" alt="Cover for The Cat Lady Album" style="max-width:120px; height:auto;" />
       </td>
@@ -2031,7 +2016,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4ea1d5274dd5ec6a1932bffe33ae39b.png" alt="Cover for Don&#39;t Piss On Me, I&#39;m Already Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,7 +2029,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 89</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2069,6 +2054,24 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0082bf02eae842ccada08374c993940.png" alt="Cover for Coachella - Woodstock in My Mind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-14</td>
+      <td>Lana Del Rey</td>
+      <td>Coachella - Woodstock in My Mind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9ddd9e9270cd400fcf60ab3d9fb1cc.png" alt="Cover for Lust for Life" style="max-width:120px; height:auto;" />
@@ -2083,6 +2086,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 6</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2158,8 +2163,8 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 63</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 69</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
@@ -2189,7 +2194,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/9Di1fKNb2yhKOiDqQhUlqOGoX0Jy355xMj9mx-enRQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc1/MjkwLTE1NTExOTE3/MTQtMjA2Ny5qcGVn.jpeg" alt="Cover for Mechanical Sounds" style="max-width:120px; height:auto;" />
       </td>
@@ -2282,7 +2287,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2314,7 +2319,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2355,7 +2360,7 @@ Sadcore is a subgenre of alternative rock that emerged in the 1990s. It is chara
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4332d05f93f777152d5c43bf8f7ba80a.png" alt="Cover for Sweet Melancholy (Deluxe)" style="max-width:120px; height:auto;" />
       </td>

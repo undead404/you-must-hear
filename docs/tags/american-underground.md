@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T18:14:07.107Z
+date: 2025-11-24T08:04:38.088Z
 permalink: tags/american-underground
 title: american underground
 ---
 
 ## american underground
 
-Last updated: <time datetime="2025-11-16T18:14:07.107Z">Sun Nov 16 2025 20:14:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:04:38.088Z">Mon Nov 24 2025 10:04:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -75,7 +75,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f5c299acc9af7917ef753ef9ce3d508.png" alt="Cover for Walk Among Us" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 48</li>
             <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 97</li>
         </ul>
       </td>
@@ -167,12 +167,12 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Z_SqiL8Z-QYmlXlufDTioAGgeyHkk3R-EgYi8IJ_Rts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUw/Ni0xMzA4NTQ5NDMw/LmpwZWc.jpeg" alt="Cover for Rock for Light" style="max-width:120px; height:auto;" />
       </td>
@@ -186,7 +186,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 49</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -205,15 +205,15 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 18</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 88</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 17</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/X28XbfbPTHC1IgOSOpUetht0EpQ9uNzGfzO0Yy8y6hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY2/MTgtMTYyNDk4MzM4/MS01OTg1LmpwZWc.jpeg" alt="Cover for The Bright Orange Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b27df837f514d6557d19d9a33ce7fad8.png" alt="Cover for The Bright Orange Years" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Volcano Suns</td>
@@ -228,7 +228,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 62</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -287,8 +287,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 1</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 60</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 2</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -310,8 +310,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d1324482818a9455a501af69f7b1749.png" alt="Cover for Themes From Venus" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Love Tractor</td>
@@ -330,7 +331,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/xFQ445CkRon2TnWH8LXXjXlJUm1ciwd_R_TGzkMOfG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTgw/NS0xMzg1NjgwODM0/LTc0NjkuanBlZw.jpeg" alt="Cover for Jettison" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/099558c87a63b41e7abfb96bd9d1ef21.png" alt="Cover for Jettison" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Naked Raygun</td>
@@ -396,13 +397,13 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 3</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/TjhGWnVvMdprlqMfye_sXN-K1iVAnSNQUJ7Ee5kednU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTUy/OC0xMTU0MDM3MzUy/LmpwZWc.jpeg" alt="Cover for Soon the Love Balloon Will Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -428,7 +429,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Q8WGwDjjmNMJ1Ekohq_4TOEOJQ1EOZYZyWRMnxttKqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTU3/Mi0xMTQ1MTMyMjMz/LmpwZWc.jpeg" alt="Cover for Liar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73f3afbca03e3cd721e8902fdabe60d.png" alt="Cover for Liar" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-09-16</td>
       <td>The Jesus Lizard</td>
@@ -441,12 +442,12 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 50</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/249575b027e344b6be8d4593ac8781e9.png" alt="Cover for Fourteen Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -477,7 +478,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/iAk1e4_9m2KXYk150hZf7QVXzZe4qB8mxkbjqd_DnoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEx/NDYtMTMwNjg3OTEw/Ni5qcGVn.jpeg" alt="Cover for the owls and eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -509,17 +510,17 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 35</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 48</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 36</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 47</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 71</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 72</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/3v_gZ0UASz4vkeeR4br4GuJ8U96u4Pt4HYC2ggRUEZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc3/NzQtMTI4NTE1Mzg4/My5qcGVn.jpeg" alt="Cover for Living Legends Series" style="max-width:120px; height:auto;" />
       </td>
@@ -534,13 +535,14 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 18</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a40200180f9f506d69f510593ec299.png" alt="Cover for Failure &#x2F; Animus" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Swans</td>
@@ -568,7 +570,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +612,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96937c37ed56ab105dce436dac18bfc.png" alt="Cover for Black Gold: The Best Of Soul Asylum" style="max-width:120px; height:auto;" />
       </td>
@@ -658,20 +660,21 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 91</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ZIxQkP_fX56AhqqBdtMb4ym8ohZi0F4rVMq2o1BByAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTE4/ODItMTQ2MzkwNTY5/NS0xMDEzLmpwZWc.jpeg" alt="Cover for beko_10" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/514f0a65ed334a96e662e83446cb7cac.png" alt="Cover for beko_10" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-01</td>
       <td>Sore Eros</td>
@@ -700,6 +703,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa9c5e691c8409ac077be47ff9e1cef.png" alt="Cover for A Few Things to Hear Before We All Blow Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-03</td>
       <td>Williamson</td>
@@ -727,7 +731,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/YjgDdEKb-qZXenzfPGOHTdtS8YVuJEtgJeRdwSHY09A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY3/OTU5LTE2MzE4OTQ3/MjgtMzgzNi5qcGVn.jpeg" alt="Cover for Fuck Elvis Here&#39;s the Reatards" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae85052e9afd2f400e43ecb72d832d61.png" alt="Cover for Fuck Elvis Here&#39;s the Reatards" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Reatards</td>
@@ -752,7 +756,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7811296b5f5dca75dfc50e1f2a318763.png" alt="Cover for Don&#39;t Die" style="max-width:120px; height:auto;" />
       </td>
@@ -761,22 +765,15 @@ American underground represents the raw, independent music scenes that flourishe
       <td>Don&#39;t Die</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
@@ -801,8 +798,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 34</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 79</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 62</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -822,43 +819,15 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 77</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>2007-06-27</td>
-      <td>Dan Masquelier</td>
-      <td>Wake Up</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 63</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/k5vnsEx5skKMFxibF3pSXVcB0HEuPpWrGnuEOKoC9qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQ0/MjEtMTMxNTk0Mjgw/Mi5qcGVn.jpeg" alt="Cover for Halcyon EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29458dd3cc944f3b91205cdcf544bc55.png" alt="Cover for Halcyon EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-11</td>
       <td>Canon Blue</td>
@@ -883,8 +852,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39bdce25b05b841fdcf55d6a80aaafae.png" alt="Cover for Children of the Shortwave" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-24</td>
       <td>The Owl Archimedes</td>
@@ -903,14 +873,14 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 27</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/Iivf0TcyWpGaosxBMxUpt41Rgnf57eDItDOpje4y71Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ1/NjYxLTE2MjA0OTg2/ODAtMTMxMy5qcGVn.jpeg" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a948b7eab3f0b4c77d01b2a8e75c8c1f.png" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Totally Nebular</td>
@@ -934,7 +904,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
@@ -944,9 +914,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/63crUwzDlF7911ASBJHNRNlZgw4Famk0ECxV8EtRnCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQ5/NTQtMTI5MTE2ODcx/Ni5qcGVn.jpeg" alt="Cover for beko_17" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2b9dacb6db851e313253bf80f2896f8.png" alt="Cover for beko_17" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Hanging Coffins</td>
@@ -985,7 +955,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/pIzgbaxn_I2U0zbrIwgTD5fY8ZMKURjSyBXrhJcOpi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzMx/MDAtMTI0MjQwNjY0/OC5qcGVn.jpeg" alt="Cover for time&#39;s arrow landing" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,9 +984,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/ZBab7JClFdEFmwAe5P0ZJX7RemAig4tMQMlcwfvVVvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NTktMTI1NDM2MjQz/NS5naWY.jpeg" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0711f6ac593b4a0486ce842369508cc0.png" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-17</td>
       <td>Our Subatomic Earth</td>
@@ -1037,7 +1007,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1067,9 +1037,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/V2Ip6RzL_2vYfZ50HnbZ4oyBzCWRHx1LhXYpPc1ssUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODMy/NDUtMTMxMDM0NzUz/MC5qcGVn.jpeg" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d487bb13032b0cb8cf46a60160f640.png" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-02</td>
       <td>Philip Seymour Hoffman</td>
@@ -1098,7 +1068,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/jT6B2FjTrGzt2xCtstYoIKorY1SIwv01enbAyqz-VhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjEw/MjYtMTQzMjc5NzEx/OS05NjgxLmpwZWc.jpeg" alt="Cover for Pink Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7cb20b2233460c92a0014be6af2cd6.png" alt="Cover for Pink Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-17</td>
       <td>Tan Dollar</td>
@@ -1119,14 +1089,14 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3fb4b2d1212472ebe8c11323c5e41c6.png" alt="Cover for Chasing Rabbits" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1124,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/kX-ILeu7aYsHnbnKN7b-_ARuPYJGjwQmB861XMrq4_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA3/ODEtMTI1NjQ4Mzg0/Ny5qcGVn.jpeg" alt="Cover for Lemon Drop Square Box" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e943be65554ca4b1981b07feba1e23.png" alt="Cover for Lemon Drop Square Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-30</td>
       <td>Velvet Davenport</td>
@@ -1177,7 +1147,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/BDwC61xiK_dsxq6FB7n7NHsqPtV0O5mUlKyv_3-CCn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMx/ODAtMTMwNzQ3NjYy/MC5qcGVn.jpeg" alt="Cover for &amp; New Past Tense" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,7 +1170,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 23</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 54</li>
         </ul>
       </td>
@@ -1231,14 +1201,14 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 39</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/7XF9cOpII1uLHEuHqe2RNR1pPOSh8GAlewdX8ohkLes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY5/OTUtMTI4ODgzMjQ3/Ni5qcGVn.jpeg" alt="Cover for pEACEFANg EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1240,6 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/jeX7tpDl7c9sUEG-KwoLE7vwE4Xsh-gQFuxGRQcXGR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTU2/MDYtMTI4MTYwNTYw/My5qcGVn.jpeg" alt="Cover for Happy Ending - CD [SHDWPLY]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Velvet Davenport</td>
@@ -1292,17 +1261,17 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 11</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 13</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 15</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 20</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/toD_C-qXPlPCFwS0nXB3PDfAeaVlsWT32KWoH_uFs20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODU0/NTktMTUzODI1NTkx/Ny05ODAyLmpwZWc.jpeg" alt="Cover for beko_35" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/604a1ddbde8b585501694721a4c9af07.png" alt="Cover for beko_35" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Idiot Glee</td>
@@ -1341,8 +1310,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/330e730c97ce44947111a9dd1303e8af.png" alt="Cover for beko_24" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-27</td>
       <td>Devices Disguised</td>
@@ -1364,9 +1334,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/xjDRHq-i-y0DqfOsSZNZAa-GbckTT9y7J-u79jfijL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTIw/MzItMTQ1OTkyNDE0/Ni00NjExLmpwZWc.jpeg" alt="Cover for beko_29" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92aba1e2a5e99271f59c0ef41a3764e5.png" alt="Cover for beko_29" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-29</td>
       <td>Raw Thrills</td>
@@ -1418,9 +1388,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/eMTBILxAJZWHOxv68hygLhJkJnOxo2biOdTKDWj2TBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/MTYtMTI5NTY1NzU1/MC5qcGVn.jpeg" alt="Cover for beko_31" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01420b31be4075123d9098b24934643c.png" alt="Cover for beko_31" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-03</td>
       <td>Pink Priest</td>
@@ -1473,7 +1443,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/zBN35yTUGS4j7eIFPNWFtCsIApMWoaz8SW0Z_6oC3mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ0/MjYtMTI5MzgwOTMz/MS5qcGVn.jpeg" alt="Cover for beko_27" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1464,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 55</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 65</li>
         </ul>
       </td>
@@ -1530,7 +1500,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2010-11-22</td>
@@ -1555,7 +1525,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 21</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 26</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 56</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 72</li>
         </ul>
@@ -1592,7 +1562,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/PbglZ3w8bdiMpHdYOmQgjBav0z0UilL3rG6RJOt2XJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc5/MzAtMTMwNTc2NTQ1/My5qcGVn.jpeg" alt="Cover for Breathing Through The Liquid System" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1593,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2011</td>
@@ -1655,7 +1625,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/YYmBeH775GgZVXiCj_M6TOHYWmuxJ-S_FmvgeGcUTS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDk4/NDctMTQ1MDEyMDU1/NS03OTc4LmpwZWc.jpeg" alt="Cover for Tiny Island Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1688,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
@@ -1728,7 +1698,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/y4ICppol_xfg_-KWVK11zY-uxMEjsfjhGb-V35Eqi_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzI4/NzAtMTMwMzA3Njgw/MC5qcGVn.jpeg" alt="Cover for Sleeping In" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1733,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/YDbJVpMnCcFUYrFwPg6u8X05ZBzaGP7iiAAjyPBz2U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI0/NTEtMTM0Mjk1OTY1/OS01NDg0LmpwZWc.jpeg" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50adb01e09544db0aa048ebd8abd8a74.png" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-19</td>
       <td>Rimar</td>
@@ -1784,9 +1754,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 28</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 32</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
         </ul>
       </td>
@@ -1794,7 +1764,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/Osv0XvfQ_q8NwvGJPzeTILpcJ-V-ABr1AFBpVl-sxLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI3/NzItMTMwNzkzMjI5/MC5qcGVn.jpeg" alt="Cover for split face EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b458f5d356dd6f8f04c941bdc65ea1.png" alt="Cover for split face EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-30</td>
       <td>Cults</td>
@@ -1815,7 +1785,7 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 75</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 82</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1880,7 +1850,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/bVYOfDrxQxK-iamLh02iQo4lqHATN7YHVVBl8Rp87EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk1/NjU1LTE1ODc5MzU2/NTItNzQ3OC5qcGVn.jpeg" alt="Cover for Daytrotter Session - 2&#x2F;23&#x2F;2010" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1875,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/b7GXKV4xtfuS__YN3iB7yvtAgrNpj7IzBU0d7A3tA7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU0/NjQtMTYwNjg4ODE0/Mi04OTM0LmpwZWc.jpeg" alt="Cover for These Animals EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1903,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/a-xxZ4VI7RiPnwfH89EgDX0LihxX5iCx_uORDCMy20w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQw/NzQtMTMxMTI4MTE2/NS5qcGVn.jpeg" alt="Cover for Still Petals" style="max-width:120px; height:auto;" />
       </td>
@@ -1956,12 +1926,12 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 53</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2011-07</td>
@@ -2027,7 +1997,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/5iociKLR44BrvFt760FFJWX2OMmPFht1ttmHtvN9u_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDM4/OTg5LTE2MTEyNzAy/MzEtODczOC5qcGVn.jpeg" alt="Cover for Robogirl in Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,7 +2021,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b6de9b2c53b70ec341b1f3a6807105.png" alt="Cover for Low Cool" style="max-width:120px; height:auto;" />
       </td>
@@ -2084,7 +2054,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49534b8985be4933c989e764856963dc.png" alt="Cover for From There To Here... Presented by Mick Boogie &amp; The Press Play Show.Com" style="max-width:120px; height:auto;" />
       </td>
@@ -2135,7 +2105,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3eca06e9fb7409bb9e8258fa677c0bf.png" alt="Cover for Monthly Journal" style="max-width:120px; height:auto;" />
       </td>
@@ -2163,7 +2133,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 17</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 59</li>
         </ul>
       </td>
@@ -2171,7 +2141,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/25_3lCqeHzWYlW-n5arWsvkWBWLtsjCXhsX-UfO2OWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjY3/NTktMTMzMTQ5MTkz/My5qcGVn.jpeg" alt="Cover for Futures EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c713002b0f04179acd9f7b14afa4122.png" alt="Cover for Futures EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-21</td>
       <td>RxGibbs</td>
@@ -2237,7 +2207,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/yUiI_Kbk6oZPBsLVH6u2PHqOpdjTRfo5rKpAKvG0BdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/NzUwLTE0OTU2MzIw/OTYtNTYxOS5qcGVn.jpeg" alt="Cover for beko_07" style="max-width:120px; height:auto;" />
       </td>
@@ -2260,7 +2230,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fde8953adfe4373ad8c7f4f5c5fcd24.png" alt="Cover for Globe Rush Progressions" style="max-width:120px; height:auto;" />
       </td>
@@ -2287,7 +2257,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 44</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 45</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 78</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 80</li>
@@ -2295,9 +2265,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/7cvHpGOQS9fYbOw9fMfsGsKi6YxOGxeFryfCQeysznI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY2/NDctMTM3MTkxODc4/NC05ODIxLmpwZWc.jpeg" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36e7d54c0af96c66fa56b70f83c52298.png" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Cough Cool</td>
@@ -2318,12 +2288,45 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/VfnYaJaMr3-Iz-AOTBVAy5mUEcLaRZHdGDhYmlXwOYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDkx/NTAtMTM3NzQyMTIw/OS05MDI3LmpwZWc.jpeg" alt="Cover for Untapped Horizons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-19</td>
+      <td>Aurastore</td>
+      <td>Untapped Horizons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 43</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 65</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 68</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ee31f956fa5836df7746a737ac3ef52.png" alt="Cover for beko_22" style="max-width:120px; height:auto;" />
       </td>
@@ -2349,7 +2352,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfd56bac772434482cd1a41973a5dba.png" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
@@ -2389,33 +2392,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ab608428bab415c8cc0f057a08d12f5.png" alt="Cover for beko_01" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-10-30</td>
-      <td>Death and Vanilla</td>
-      <td>beko_01</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2014-02-25</td>
@@ -2436,7 +2413,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/-9kaia0Qz4V67EzH503-6Gk2VjGY-2W7G_H8-15S2vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQ0/MDMtMTQ2NDEyNjA0/OS05NDU1LmpwZWc.jpeg" alt="Cover for Best Of Luck In Future Endeavors" style="max-width:120px; height:auto;" />
       </td>
@@ -2449,6 +2426,31 @@ American underground represents the raw, independent music scenes that flourishe
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d7b2c9e7ad8489b8ee8be8c37d503f7.png" alt="Cover for beko_09" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-22</td>
+      <td>The Procedure Club</td>
+      <td>beko_09</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
@@ -2473,43 +2475,40 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 73</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/uHrNvd_EtneASCfUiiDXhrgfPnxkKBDjRdJKVB-kwkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MDU3LTE1NzQ1Mjg2/MTYtNzk5OC5qcGVn.jpeg" alt="Cover for beko_15" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b696a526a7263e49e71f6449b7c409ef.png" alt="Cover for beko_15" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-06</td>
       <td>Romantic States</td>
       <td>beko_15</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 52</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/do75HZVbicyvnZK-jIWWzVdxWgQN_dyLRiHGVIZ0EMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIz/MzYyLTE1OTY2MDE0/MzgtODM4NS5qcGVn.jpeg" alt="Cover for Cyclothymia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5437e3b3f9864bb8a39dc5071bd8e586.png" alt="Cover for Cyclothymia" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-04</td>
       <td>Proswell</td>
@@ -2561,7 +2560,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 8</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
@@ -2571,7 +2570,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Qcjzi2zwTK_G-2DspjW7e5W7eZ2qa9W_BsplOs9R1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTY4/MDgtMTM2MTU2Mzg0/My02MjE5LmpwZWc.jpeg" alt="Cover for Quit Music" style="max-width:120px; height:auto;" />
       </td>
@@ -2593,12 +2592,12 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 51</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2619,13 +2618,13 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 38</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 39</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b24d994b0cd545a696c4ce257143a0a4.png" alt="Cover for I&#39;m The Lion" style="max-width:120px; height:auto;" />
       </td>
@@ -2704,7 +2703,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 8</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 10</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 27</li>
         </ul>
       </td>
@@ -2743,8 +2742,8 @@ American underground represents the raw, independent music scenes that flourishe
 - [usa]({{ "/tags/usa" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [experimental indie]({{ "/tags/experimental-indie" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [alternative pop]({{ "/tags/alternative-pop" | relative_url }})
-- [experimental indie]({{ "/tags/experimental-indie" | relative_url }})
 - [experimental rock]({{ "/tags/experimental-rock" | relative_url }})
 - [avant-rock]({{ "/tags/avant-rock" | relative_url }})

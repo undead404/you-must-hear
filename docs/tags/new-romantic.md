@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:38:01.610Z
+date: 2025-11-24T07:48:37.987Z
 permalink: tags/new-romantic
 title: new romantic
 ---
 
 ## new romantic
 
-Last updated: <time datetime="2025-11-13T16:38:01.610Z">Thu Nov 13 2025 18:38:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T07:48:37.987Z">Mon Nov 24 2025 09:48:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -38,9 +38,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       <td>Obscure Alternatives</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
@@ -86,7 +84,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2902ecff1c75bf3cfd0f43e0f60802a.png" alt="Cover for Metamatic" style="max-width:120px; height:auto;" />
       </td>
@@ -220,6 +218,25 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4787aa3947b37303606b81b997f167c1.png" alt="Cover for Living Ornaments &#39;80" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981-04</td>
+      <td>Gary Numan</td>
+      <td>Living Ornaments &#39;80</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>63</td>
       <td>
       </td>
@@ -240,7 +257,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 25</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 27</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 66</li>
         </ul>
       </td>
@@ -265,7 +282,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/190df1d27be14cddb9545e0719026703.png" alt="Cover for Speak &amp; Spell" style="max-width:120px; height:auto;" />
       </td>
@@ -317,8 +334,8 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 74</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 92</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +372,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 41</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -445,6 +462,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -480,7 +498,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 71</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -515,8 +533,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 63</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -559,7 +576,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/LMRwQc3IeGqxegBX5STjWZ7dNEG8zQMUXMbSfv3AkHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTky/NjgtMTM2OTEzNzE4/MC0zNzcxLmpwZWc.jpeg" alt="Cover for Scribble" style="max-width:120px; height:auto;" />
       </td>
@@ -653,6 +670,8 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -824,12 +843,12 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 59</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/NEM44ZEcvcGR4sc-ovkTecYfQW6apRayo97_zAfuMWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTIz/LTE0MDQ5NDQ3NTEt/OTE1MC5qcGVn.jpeg" alt="Cover for This Last Night in Sodom" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +904,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfeb124c4afcdcbeba14f3122c7fb1ff.png" alt="Cover for Forever Young" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +918,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +1001,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 28</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 48</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1040,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1063,24 +1082,6 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b666118eb7604492c47aafa19c05bcb9.png" alt="Cover for The Colour of Spring" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986-03</td>
-      <td>Talk Talk</td>
-      <td>The Colour of Spring</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1198,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2198bb7f07b97ee3d13bb90b850cadf9.png" alt="Cover for Hats" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1212,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1397,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 16</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1453,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 48</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1476,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/31617c9a1a9e283ec0e65d5a488bdb18.png" alt="Cover for Paixão - O Melhor Dos Heróis Do Mar" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,6 +1613,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceb915d1aed7d8cabbd377d784e2afd2.png" alt="Cover for The Platinum Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-05</td>
       <td>B-Movie</td>
@@ -1703,7 +1705,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 81</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1835,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 64</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
@@ -1865,7 +1867,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 25</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
         </ul>
@@ -1894,9 +1896,10 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 59</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 3</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 21</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 63</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1949,8 +1952,8 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 71</li>
         </ul>
       </td>
@@ -1982,7 +1985,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 14</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 15</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
         </ul>
       </td>

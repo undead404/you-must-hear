@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T18:54:47.992Z
+date: 2025-11-24T08:08:38.025Z
 permalink: tags/french-pop
 title: french pop
 ---
 
 ## french pop
 
-Last updated: <time datetime="2025-11-18T18:54:47.992Z">Tue Nov 18 2025 20:54:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:08:38.025Z">Mon Nov 24 2025 10:08:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/blof7CqDi7SrpP5CngfWBckJM9FwGZrfoTplrO4T9Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU3/MDMxLTE2MTE5MDY2/NTgtMTE1NS5qcGVn.jpeg" alt="Cover for The Vogue Years (2 of 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -205,7 +205,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbc3893b750543d8ac6d7fd2b38eb721.png" alt="Cover for Babacar" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/IqpTOBaPMeoDFkLDbNH-f7ypOcvzI4vffA6fF3SqFms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NC0xMTM2NTg4NTU3/LmpwZWc.jpeg" alt="Cover for Tout savoir" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 74</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 83</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 86</li>
@@ -294,7 +294,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1994</td>
@@ -311,12 +311,12 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 11</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/hAqR_XW_mbHdn_eBuKwkMJy6tJXsfz-WUIJCoQt_yz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM1/NjYtMTQwODU1MjIw/MC0xNjQ2LmpwZWc.jpeg" alt="Cover for Démons (La frustration) [feat. Laylow]" style="max-width:120px; height:auto;" />
       </td>
@@ -332,7 +332,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +356,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1996</td>
@@ -391,7 +391,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/114d13e91a28678454483ffac2f178f5.png" alt="Cover for Comic Strip" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +562,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2004</td>
@@ -580,7 +580,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2cb7d188380c2217ba4e73a693164c4.png" alt="Cover for I Killed My Best Friend" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +625,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/S2wuajJXYpFhh5OPi83r6ios1E7I0Dz7V1-A4nirw1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/ODctMTIzMDQxNjAx/NC5qcGVn.jpeg" alt="Cover for Petite Soeur" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +867,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/469a73cb216547f6ee0c5aa77039a6e0.png" alt="Cover for Au féminin" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +944,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2011-02-14</td>
@@ -982,7 +982,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-03-18</td>
@@ -1083,7 +1083,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 31</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1156,6 +1156,25 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c05195f183467cf413351f24f93fa878.png" alt="Cover for 2016" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-24</td>
+      <td>Poom</td>
+      <td>2016</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ec328eb624140663fc137655f5d5493.png" alt="Cover for Sos (Chapitre 1)" style="max-width:120px; height:auto;" />
@@ -1183,7 +1202,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/515eead357e506fe4d44e1645d4f4649.png" alt="Cover for Recto Verso" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1215,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 29</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1219,7 +1238,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df608c1611886a28f076f852fb0c54f3.png" alt="Cover for Ma peau aime" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1261,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 26</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 76</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 85</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
@@ -1305,7 +1324,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/D3P1vdZdz8PIRw4SFj7WXRaYbjutwCCArd3qOv-N7lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEx/NTgzLTE1Mzg1NzYx/MDUtNTQ0NS5qcGVn.jpeg" alt="Cover for La flemme" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,14 +1347,14 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 2</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 3</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Fl9kmMjP5lo_QoFhI2yjZpSL6WDlb0GL_j4DBvayGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NjI5LTE1ODQ3ODc1/NjItNjYxNi5qcGVn.jpeg" alt="Cover for Boucle" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,13 +1374,13 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 6</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 7</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8be8b485ce50860c2dce70f80bc33d08.png" alt="Cover for Dune" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1488,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/657c02a6f42bb175a65797a841f167e2.png" alt="Cover for Déjà Venise" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,7 +1506,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c994c824ddb0caea30499832438c4f6.png" alt="Cover for Braquage" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1607,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 60</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 77</li>
         </ul>
       </td>
@@ -1742,8 +1761,8 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 49</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
@@ -1756,7 +1775,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Pe2oAbFEYZyiVJH92Utv_jZBUHxbWmQ84NEgI6gzvaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ0/MzY2LTE2MTk4Nzg5/NzEtNTYzNC5qcGVn.jpeg" alt="Cover for SEMPRE &#x2F; JAMAIS" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1799,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 22</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 22</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 82</li>
         </ul>
@@ -1863,7 +1882,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/lBtmZ5lXtxr9guQEF7Dmy9X7E-mk7lnGxtDEvANHR84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE4/MDgyLTE2MzUzMjg2/MDYtNzI5Mi5qcGVn.jpeg" alt="Cover for Vivante" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1897,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 30</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1946,32 +1965,6 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56212e459f24e7dadefa29e1e20f86ec.png" alt="Cover for Dimanche" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022</td>
-      <td>Emma Peters</td>
-      <td>Dimanche</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 25</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 30</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2057,7 +2050,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 50</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 51</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
         </ul>
       </td>
@@ -2238,7 +2231,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
       </td>
@@ -2261,7 +2254,7 @@ French pop is a melodic genre that blends contemporary pop production with Frenc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 28</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 29</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 77</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 89</li>
