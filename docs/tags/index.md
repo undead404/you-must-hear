@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-23T15:05:38.020Z
+date: 2025-11-23T16:59:37.952Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-23T15:05:38.020Z">Sun Nov 23 2025 17:05:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T16:59:37.952Z">Sun Nov 23 2025 18:59:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [bubblegum bass]({{ "tags/bubblegum-bass" | relative_url }}) | <time datetime="2025-11-23T16:59:37.952Z">Sun Nov 23 2025 18:59:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge]({{ "tags/sludge" | relative_url }}) | <time datetime="2025-11-23T15:05:38.020Z">Sun Nov 23 2025 17:05:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [dungeon synth]({{ "tags/dungeon-synth" | relative_url }}) | <time datetime="2025-11-23T15:02:38.080Z">Sun Nov 23 2025 17:02:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [future bass]({{ "tags/future-bass" | relative_url }}) | <time datetime="2025-11-23T14:58:37.979Z">Sun Nov 23 2025 16:58:37 GMT+0200 (Eastern European Standard Time)</time> |
@@ -667,7 +668,6 @@ Last updated: <time datetime="2025-11-23T15:05:38.020Z">Sun Nov 23 2025 17:05:38
 | [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-11-14T22:42:55.657Z">Sat Nov 15 2025 00:42:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk hardcore]({{ "tags/uk-hardcore" | relative_url }}) | <time datetime="2025-11-14T21:51:58.704Z">Fri Nov 14 2025 23:51:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [hyperpop]({{ "tags/hyperpop" | relative_url }}) | <time datetime="2025-11-14T21:17:38.255Z">Fri Nov 14 2025 23:17:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [bubblegum bass]({{ "tags/bubblegum-bass" | relative_url }}) | <time datetime="2025-11-14T21:00:02.245Z">Fri Nov 14 2025 23:00:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [skate punk]({{ "tags/skate-punk" | relative_url }}) | <time datetime="2025-11-14T20:57:25.002Z">Fri Nov 14 2025 22:57:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [8-bit]({{ "tags/8-bit" | relative_url }}) | <time datetime="2025-11-14T16:37:32.760Z">Fri Nov 14 2025 18:37:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [anthem emo]({{ "tags/anthem-emo" | relative_url }}) | <time datetime="2025-11-14T16:05:32.628Z">Fri Nov 14 2025 18:05:32 GMT+0200 (Eastern European Standard Time)</time> |
