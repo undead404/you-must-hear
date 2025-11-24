@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:55:42.985Z
+date: 2025-11-24T08:41:38.248Z
 permalink: tags/dark-cabaret
 title: dark cabaret
 ---
 
 ## dark cabaret
 
-Last updated: <time datetime="2025-11-23T03:55:42.985Z">Sun Nov 23 2025 05:55:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:41:38.248Z">Mon Nov 24 2025 10:41:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,13 +85,13 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/0dGDE3ppWJ0XHm5TGoAaMY27kilfYzvZomkXmduvNlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg1/NjYtMTM4NjE0Nzg0/Ni04NTA2LmpwZWc.jpeg" alt="Cover for Play Kurt Weill" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 82</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -166,12 +166,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 32</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9d679b2abd4a8db90b5a147ca9af2b.png" alt="Cover for Hullu Puutarhuri" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +190,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
       </td>
       <td>1994</td>
@@ -207,7 +207,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/YFVs44P_jzW-QmPYu3FeoS76SG7psiQNAHX0XE7wTmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzc3/MC0xNTk2ODM1ODMy/LTM1NzEuanBlZw.jpeg" alt="Cover for Quintessentially Unreal" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1998</td>
@@ -296,7 +296,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/qdGzc9q5kUCnzgK6ng7hq6wm557YJ6c8Zpwj_aDrNwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE5/NS0xMjMxMDQyNDk1/LmpwZWc.jpeg" alt="Cover for Devil&#39;s Bris" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +314,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3cb5b4d3ca4e729f59e2640527b486.png" alt="Cover for Alice" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 67</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 60</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -371,7 +371,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2001</td>
@@ -390,7 +390,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/E4phqCT6ssqrd48JcLsXjXSgYB0YWZV6XDQr70TRI7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDIy/MjktMTY3ODk1OTc2/Ny0yMDkzLmpwZWc.jpeg" alt="Cover for Births, Marriages &amp; Deaths" style="max-width:120px; height:auto;" />
       </td>
@@ -403,12 +403,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 59</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/FwEnfFBSPxeMKGoBewH4HanxWtwmdRqF_DKPxOjKOdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODY1/MDYtMTMxOTYyOTI1/Ny5qcGVn.jpeg" alt="Cover for Introducing..." style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +426,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d20d7dfff5fa4d62cd2084f832572629.png" alt="Cover for Ompa til du dør" style="max-width:120px; height:auto;" />
       </td>
@@ -443,12 +443,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 35</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 95</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1fa49a82fff2937e6565201c01cf82.png" alt="Cover for Cabin Fever!" style="max-width:120px; height:auto;" />
       </td>
@@ -519,12 +519,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 48</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/9-JiCjTHEQ5qRZpAXULF_PPE6XXQUUaEKCHUb3PsMx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDky/MS0xNDIzNjg5MDI1/LTUyNDcuanBlZw.jpeg" alt="Cover for Speak of Brave Men" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +548,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d2307a57f178b62d3d0144441300a9d.png" alt="Cover for Songs to Cry by for the Golden Age of Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/RaMLWQ1rIwSK8P1sOV6WrsV68e1JhXvsLkjcBKLEmQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIz/MTAtMTE4NzI5OTI2/Ni5qcGVn.jpeg" alt="Cover for Ein Toter fährt gern Ringelspiel" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +586,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/263dd84e1e134642831fa74f4784c36e.png" alt="Cover for Frustration Plantation" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79fe6f6445a853b05756f3d4b51e890.png" alt="Cover for Then And Again" style="max-width:120px; height:auto;" />
       </td>
@@ -743,7 +743,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2005-02-11</td>
@@ -765,7 +765,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04ecd662c484d379dfaa15c116eb544.png" alt="Cover for Me V. Angry Mob" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +790,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb53cdf4020944b28ab59c8a715dc575.png" alt="Cover for Maestro" style="max-width:120px; height:auto;" />
       </td>
@@ -828,14 +828,34 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 55</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86a7cd58837a41608fb62818846b82ae.png" alt="Cover for Separated by Birth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Vermillion Lies</td>
+      <td>Separated by Birth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 7</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/8E6OUeUb4T-bRZeu69hFzpCnqiJ4O9XvsDdOQ60vBL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MjcwLTE1NDI0MDcz/MjgtMzA4Mi5qcGVn.jpeg" alt="Cover for God&#39;s Anger&#x2F;The Devil&#39;s Influence" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +873,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e5a40d97814cd2bd0afa8474fa3d6a.png" alt="Cover for Icicle Bicycle" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +905,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 90</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +936,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef121152bec749aea5758d405c53a69b.png" alt="Cover for Opheliac (Double Disc)" style="max-width:120px; height:auto;" />
       </td>
@@ -930,12 +950,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54f9dab67c5c407da362ecd47d967a23.png" alt="Cover for Opheliac" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +973,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2006-11</td>
@@ -1024,7 +1044,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2008</td>
@@ -1042,7 +1062,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/7SOjBJ1N4BedNdQycKn-maqSwkJHZ0-aJbTspbeVmBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA1/MDctMTQ4ODQwMDUz/Ni00NjIyLmpwZWc.jpeg" alt="Cover for What&#39;s in the Box" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1119,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td>2008-01-29</td>
@@ -1118,6 +1138,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdd49c6a02a74cec998c3a72780a4a7b.png" alt="Cover for What&#39;s in the Box?" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-11</td>
       <td>Vermillion Lies</td>
@@ -1133,7 +1154,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa0ab239bf3424c81503d1ae3bcc391.png" alt="Cover for Who Killed Amanda Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,7 +1174,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2a151f083043e880f25a852b520cd3.png" alt="Cover for Who Killed Amanda Palmer?" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1190,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 93</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1222,12 +1243,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 22</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/brOcHu2QWQB5xG-C_khGBl4lX6zZcFIvU3CU2hvKiL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjM1/NzQtMTM2NDQ5MDI0/My05NzE0LmpwZWc.jpeg" alt="Cover for Here She Comes a Tumblin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1245,7 +1266,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/Jh5Pw2EdjAiAiTcHNlu1LWtzCbFhaQOsihUYxO_FOaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQx/MzktMTM5MDgwNzAy/Ni02ODA5LmpwZWc.jpeg" alt="Cover for The Circus" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,7 +1284,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/6FpkeB0VQKoRoiK8036l1egiWbaN9HaqTbFlZuqN4ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQ0/ODktMTQ5NjQyNzQ0/Ni0zNzMxLmpwZWc.jpeg" alt="Cover for 10 Neurotics" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,12 +1317,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 97</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b46e9c227864e10884499146c3e571b.png" alt="Cover for Sister Kinderhook" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1341,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/mfo9x2jlUU7tmc2X_tlToffwA0JH5JfiN9uzJ1_cssQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg2/NTAtMTQxMzExNzM5/NC00NjU1LmpwZWc.jpeg" alt="Cover for Riding a Black Unicorn..." style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1360,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b6cabc084b4ae988537d9f959bf8d1.png" alt="Cover for Dead Beat" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,7 +1399,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2011-11-08</td>
@@ -1392,12 +1413,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 70</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/BNtsfMDz5pyMBs7FXsucSHwWmp0NdiNYBb_g8BFiKN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE3/NDUtMTQ4ODQwMTc4/OS00MTg4LmpwZWc.jpeg" alt="Cover for Bare Bones Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1442,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2012-02-01</td>
@@ -1440,7 +1461,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d577f01f950db6a9512ffb1c05b195.png" alt="Cover for The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,8 +1475,8 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 12</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 51</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 13</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1472,28 +1493,6 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30677518a0d34186b0cfa9cb2abf7a56.png" alt="Cover for Şeker Prens ve Tuz Kral" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Cem Adrian</td>
-      <td>Şeker Prens ve Tuz Kral</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
         </ul>
       </td>
       <td>
@@ -1613,9 +1612,9 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 62</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
         </ul>
       </td>
@@ -1639,7 +1638,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/13WHGZcLjyCCT0JmtWAqyhdbILonxTd1x6kxlGnLuqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDU3/OTMtMTQ4NzAxNjU2/MC03Mjg3LmpwZWc.jpeg" alt="Cover for Grim Weepers" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1674,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1695,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1723,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc2632bd025b35e59e1b5cc13d344f3.png" alt="Cover for Mon Laferte (Vol. 1&#x2F; Edicion Especial)" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,42 +1740,25 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 23</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 70</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 69</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>61</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2384d9f982982d02ed48525ecf96c0e.png" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/337da2e86856dc739c55ccd19ee50962.png" alt="Cover for Merrie Land" style="max-width:120px; height:auto;" />
       </td>
-      <td>2020-03-13</td>
-      <td>IAMX</td>
-      <td>Echo Echo</td>
+      <td>2018-11-16</td>
+      <td>The Good, the Bad &amp; the Queen</td>
+      <td>Merrie Land</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 41</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 54</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 78</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1800,7 +1782,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 7</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 89</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 98</li>
         </ul>
@@ -1824,14 +1806,14 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 97</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f56f5a6bf0c245fed014c3f51ee327ad.png" alt="Cover for Everything is a Lot (2020 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1856,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/DBpnXDTDW-3dkhU_3l-5W0qJOnRdVdXJCOMxLhuPULw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEz/NjkzLTE2NTc4MDQz/OTQtMjkxNi5qcGVn.jpeg" alt="Cover for Hellfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1890,16 +1872,16 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 78</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 54</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61c2a79d0ecb9b6daf2d265c3deeb5e9.png" alt="Cover for Frank’s Wild Years (2023 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1900,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 57</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1936,7 +1918,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1978,7 +1960,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 76</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2002,7 +1984,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8a34e3e3ede8b4c4f3f9359d6c583cf.png" alt="Cover for The New Normal! (The Normal Album 2024 Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,7 +2001,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2023,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdde558171f54734bdfcff1aa3ab12be.png" alt="Cover for le Phonographe (demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -2069,10 +2051,10 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
 - [cabaret]({{ "/tags/cabaret" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [darkwave]({{ "/tags/darkwave" | relative_url }})
-- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [art rock]({{ "/tags/art-rock" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
 - [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
 - [piano]({{ "/tags/piano" | relative_url }})

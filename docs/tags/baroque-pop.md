@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T20:08:22.331Z
+date: 2025-11-24T08:43:39.051Z
 permalink: tags/baroque-pop
 title: baroque pop
 ---
 
 ## baroque pop
 
-Last updated: <time datetime="2025-11-18T20:08:22.331Z">Tue Nov 18 2025 22:08:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T08:43:39.051Z">Mon Nov 24 2025 10:43:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,13 +42,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 33</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1fffa215f7043d94e9154f4a4ea5a2.png" alt="Cover for Pet Sounds (Original Mono &amp; Stereo Mix Versions)" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 100</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df94b8748fc10d346a80289448a43306.png" alt="Cover for Walk Away Renée&#x2F;Pretty Ballerina" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10061374a3e4185aa0dd09fb366c3a7.png" alt="Cover for Scott" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c4cc274b001481ca7441a0d7561a983.png" alt="Cover for Smiley Smile" style="max-width:120px; height:auto;" />
       </td>
@@ -115,14 +115,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 7</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 38</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 42</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/403d95a4671922a60ef05cf8882d1857.png" alt="Cover for Chelsea Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -137,14 +137,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 27</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 32</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 95</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 34</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/zFJsQ2t-dkKtpPqm8cHjO-Jl3CyzO_O21BeVlIqvM8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTg5/NjMtMTUyOTIwNjkw/OS04NDQ3LmpwZWc.jpeg" alt="Cover for Take a picture" style="max-width:120px; height:auto;" />
       </td>
@@ -160,12 +160,30 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 94</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b8b5d128469bbc9e132e400ed7766f6.png" alt="Cover for Present Tense" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Sagittarius</td>
+      <td>Present Tense</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/914f3c8dd47be419b4208750a9992d8d.png" alt="Cover for The Turtles Present the Battle of the Bands" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +201,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a66b8a4c85ecb75445af425445a1788.png" alt="Cover for Song Cycle" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +219,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d342b00aa4f0439a82143ebfd671da6.png" alt="Cover for Horizontal" style="max-width:120px; height:auto;" />
       </td>
@@ -251,13 +269,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 68</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acb0396a3d24c2249bec8eb66979ef92.png" alt="Cover for Idea" style="max-width:120px; height:auto;" />
       </td>
@@ -275,7 +293,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1596b7296db1a11d4f38a725a9192c76.png" alt="Cover for Best of Bee Gees" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +312,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa43ef748a0d4d18cdd6696848ffed9d.png" alt="Cover for Songs Of Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +365,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acb7454b3f8041e4934347ab73a660ed.png" alt="Cover for Sunflower" style="max-width:120px; height:auto;" />
       </td>
@@ -361,12 +379,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 97</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f9e45ace361c0f9f734476956787dc2.png" alt="Cover for Mediterráneo" style="max-width:120px; height:auto;" />
       </td>
@@ -381,12 +399,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 73</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d26077727f66f57ac13ec92d755a4e6b.png" alt="Cover for One Year" style="max-width:120px; height:auto;" />
       </td>
@@ -404,7 +422,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b08c7037f6e43e2f8c79eba3d414211.png" alt="Cover for Sgt. Pepper&#39;s Lonely Hearts Club Band (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -418,13 +436,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 79</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/yRZrNINfgnlQpVn64i2KeKe5ULev_JQKIkiUPzKTccU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzgw/NDYtMTMyMzYxNDkz/MS5qcGVn.jpeg" alt="Cover for S.P. 73" style="max-width:120px; height:auto;" />
       </td>
@@ -467,12 +485,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1974-09</td>
@@ -488,8 +505,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 18</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 56</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
         </ul>
       </td>
@@ -513,13 +530,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11823fac90166b3c8ccef00e23e9c760.png" alt="Cover for H&#39;art Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -542,14 +559,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 76</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e1f8cfc63dc7c2a564223bb3d8b28b.png" alt="Cover for The Kick Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -562,12 +579,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 61</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee0e7cf6f772a1188f95f03601c0c198.png" alt="Cover for David Bowie" style="max-width:120px; height:auto;" />
       </td>
@@ -584,7 +601,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/G8kuuGD8H2Kj8FiEXBVf_yjOuiFqPIwDmyQISJOt-KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/MDItMTI5NDE3NTM1/OC5qcGVn.jpeg" alt="Cover for Never Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -598,13 +615,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 54</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 60</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c859c67599902e8a38ff2fb1247ebe63.png" alt="Cover for Never for Ever" style="max-width:120px; height:auto;" />
       </td>
@@ -617,13 +634,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 61</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b1740d7cfcc9286ebaf7c6fbdd09fb.png" alt="Cover for La Folie" style="max-width:120px; height:auto;" />
       </td>
@@ -637,12 +654,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 38</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03d769e3f3bf0d2dbb56b773b6c15a6f.png" alt="Cover for The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +677,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea69dab4210443a6845b2298a69fa491.png" alt="Cover for Aim and Ignite (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +697,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/zRIcP7UolloiORRpkf9hc57020X5MVsCBJu9xl60h8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODY1/MS0xMzM4OTc1NjM4/LTk4MDYuanBlZw.jpeg" alt="Cover for Hounds Of Love (remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +715,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -718,11 +735,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 43</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 86</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 90</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +762,25 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/794c26162a1ac440e09486bfce2505a6.png" alt="Cover for Brian Wilson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-06-12</td>
+      <td>Brian Wilson</td>
+      <td>Brian Wilson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf5204ca43d6305d047f0039a8a9931.png" alt="Cover for Lionheart (2018 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +797,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a48b9bd8138a7211a365c36ed1c446.png" alt="Cover for A Short Album About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -794,13 +829,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 60</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a95a656bc85068c7d1fce8254595862.png" alt="Cover for MTV Unplugged - Summer Solstice" style="max-width:120px; height:auto;" />
       </td>
@@ -816,13 +851,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6c1c90d31e7ed33b216ab0ccea6327.png" alt="Cover for Awakening" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +876,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d924c118cdba41e6aefeec3d67ce2bee.png" alt="Cover for Absent Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -855,12 +890,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 64</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3755e6aa9449420097dd54f2b9092333.png" alt="Cover for SMiLE" style="max-width:120px; height:auto;" />
       </td>
@@ -877,30 +912,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bbf963adff4abcb2c5f7f9f4dce616.png" alt="Cover for The Mysterious Production of Eggs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-02-08</td>
-      <td>Andrew Bird</td>
-      <td>The Mysterious Production of Eggs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 8</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 36</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 39</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 39</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/TwLcCuU1NQQRg9Y9aPAKYaZtNd0DT9IBsNs8-CoZxvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg0/ODEtMTY3NjA1NjA0/OC02NDY1LmpwZWc.jpeg" alt="Cover for The Magic of the Wizard&#39;s Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -920,14 +932,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 65</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 66</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 73</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f08d680623554df1a936a8ffec37f291.png" alt="Cover for Wonderland" style="max-width:120px; height:auto;" />
       </td>
@@ -944,8 +956,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/155632fece604d8498999f0e3c064cca.png" alt="Cover for He Poos Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-09</td>
       <td>Final Fantasy</td>
@@ -962,7 +975,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4266a43d03409fbcace4128899ccd7.png" alt="Cover for Fur and Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -976,13 +989,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 4</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 41</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 25</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f1ad2ef153d4280c21cebdf62f9e04f.png" alt="Cover for Neon Bible" style="max-width:120px; height:auto;" />
       </td>
@@ -996,12 +1009,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d0d755a67cfa8d7653a1ea0b52178a1.png" alt="Cover for Hunky Dory (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,15 +1027,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 75</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 98</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e5bd4ce63677a94859dec019960a55e.png" alt="Cover for Viva la Vida (Prospekt&#39;s March Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,14 +1062,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 24</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 31</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 91</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97f65dae9794d179cd380540c398f73.png" alt="Cover for Feel Good Ghosts (Tea-Partying Through Tornadoes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,12 +1085,30 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 5</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20c386a1b1f01f68e695d3ebafea7567.png" alt="Cover for Friends (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-11</td>
+      <td>The Beach Boys</td>
+      <td>Friends (Remastered)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c79785df7914c09b783f75bd937b69c.png" alt="Cover for Entanglements" style="max-width:120px; height:auto;" />
       </td>
@@ -1095,7 +1122,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1113,14 +1140,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 70</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 100</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 71</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 72</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46def4fa25d2821f092448be01e639ea.png" alt="Cover for Lungs" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,13 +1160,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61bdf09d6793bc0b8c81a072e112e7b7.png" alt="Cover for OK Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1179,6 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1173,14 +1199,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 33</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 70</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 43</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d7294f31fa14d5acdb50963f53015a5.png" alt="Cover for Ceremonials (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,7 +1238,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 87</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1232,9 +1258,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 52</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 73</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
@@ -1242,9 +1268,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b92b7d58d108cd7a8c18b78f5433a.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Lana Del Rey</td>
@@ -1258,17 +1284,17 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 28</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 63</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 99</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1288,11 +1314,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 70</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1315,9 +1341,9 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 76</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 99</li>
         </ul>
@@ -1340,13 +1366,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 78</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-01-30</td>
@@ -1360,13 +1386,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 69</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 76</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 71</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/031e3bd90c1744c2887c9de323d58093.png" alt="Cover for The Golden Age" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1409,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd80b8f9d5ee09c16f1063e27f00699.png" alt="Cover for The Electric Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,16 +1418,11 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>The Electric Lady</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1445,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8b05b19c16f47e68c8ee55f2a558726.png" alt="Cover for San Fermin" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,7 +1458,6 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1482,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f87024a3e5504f07cf1864febf63f67e.png" alt="Cover for New Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1524,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/2jj2ZsU2RE3hNoxrBNkYrlzAnyrXdx-RqK9a3_2qEgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzI1/ODEtMTYwOTYxOTI3/Mi00OTY2LmpwZWc.jpeg" alt="Cover for Act IV: Rebirth In Reprise" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1545,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7217fa1319c242872b6148740b26bcc.png" alt="Cover for Have You In My Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,13 +1558,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 40</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a59d3f4048df583fda47ac5f863809b8.png" alt="Cover for Rough Trade Session" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,6 +1578,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1613,12 +1634,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 97</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/827a00fefc7e4cf4b76e72ff8eb156fc.png" alt="Cover for Hunky Dory (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,12 +1660,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 26</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79a9fe4e22388964a0f9e78d81b2ccc.png" alt="Cover for Hang" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,12 +1679,12 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9ddd9e9270cd400fcf60ab3d9fb1cc.png" alt="Cover for Lust for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,12 +1698,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/348b5cd701cf5e1139fa40cf994d1b3e.png" alt="Cover for Party Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,30 +1738,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abd51ea7d902b578144a6d71bb09e361.png" alt="Cover for All Mirrors" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-10-04</td>
-      <td>Angel Olsen</td>
-      <td>All Mirrors</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 48</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 88</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1772,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/kZKDouRNAqQ0CFXW8f8eIAKebJQTzTmvgyjZLYkaZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/NzQ4LTE2MjQ4MTA4/ODYtMjk4Mi5qcGVn.jpeg" alt="Cover for Chaos Space Marine" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,13 +1785,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 55</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 71</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6318e1c64d334cc0dd9cc2d271cdc7.png" alt="Cover for The Turning Wheel" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1805,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1827,7 +1827,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 96</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1849,13 +1849,13 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 87</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 96</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 90</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/153cb088d5989154e6f90d78903f7450.png" alt="Cover for Dance Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1905,8 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1928,7 +1929,7 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bc0a473c42d4b25a45bd48229fd650d.png" alt="Cover for The Emitt Rhodes Recordings (1969-1973)" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,32 +1946,6 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d0f9c63d31d831108783ecbd46af76b.png" alt="Cover for Everything Harmony" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-05</td>
-      <td>The Lemon Twigs</td>
-      <td>Everything Harmony</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 18</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 65</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1993,10 +1968,10 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 45</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 95</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
         </ul>
       </td>
@@ -2042,14 +2017,14 @@ Baroque pop is a subgenre of pop music that emerged in the mid-1960s, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81a1ade8721dd822de2f5c58c52bfc5a.png" alt="Cover for My Mystery" style="max-width:120px; height:auto;" />
       </td>
