@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T08:16:46.510Z
+date: 2025-11-23T21:42:38.510Z
 permalink: tags/hard-dance
 title: hard dance
 ---
 
 ## hard dance
 
-Last updated: <time datetime="2025-11-16T08:16:46.510Z">Sun Nov 16 2025 10:16:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T21:42:38.510Z">Sun Nov 23 2025 23:42:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,12 +47,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 7</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>1977</td>
@@ -90,7 +90,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ovAhpv-1p4TI5H1e_lsEv3drEdIcUH_z6bUYek8cHsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgy/NjY4LTE2NzcyNDE5/MjItNDUyMC5qcGVn.jpeg" alt="Cover for Combine and Destroy" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/RKKCJTi_L931mTg5ZvYIPPCnEw41KLdfp1UP6RJ75Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/MS0xMTg2MDkxMjk2/LmpwZWc.jpeg" alt="Cover for Balloon (El Globo)" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +150,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Dzkk__fxSrfU4nn2vDors68-_kpkXOB8JJmvlTiHpVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjY0/MC0xNTAyMjkyODgw/LTc4NTkuanBlZw.jpeg" alt="Cover for Dance now" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/sfrXOd-QqEiUqQbeHhSb_XIDwuYXrvLaDQUtH5dVEzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDcw/MC0xMjg1MDE2MDY1/LmpwZWc.jpeg" alt="Cover for Dance 2 Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +189,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jaa4MwbLfN1303v6mTwU8LBeQAXUfPVIGqQEli8epS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQx/LTE2NTQzOTYzMTAt/NzkyMC5qcGVn.jpeg" alt="Cover for Best of Hero Music 1995-1999, Part 2" style="max-width:120px; height:auto;" />
       </td>
@@ -202,7 +202,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 30</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2001-02-19</td>
@@ -263,7 +263,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ru99tTb5y6hjwR0fQC0J4o_FTp4JWc2fZ0C4FosIFkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTIy/OC0xMTMyNjIwMDQ5/LmpwZWc.jpeg" alt="Cover for Warp 10" style="max-width:120px; height:auto;" />
       </td>
@@ -302,12 +302,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>2002-01-28</td>
@@ -320,12 +320,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 55</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-9iR5i8aEiVHv_20VktbqLv0OTw58n3XBpK00wfkQQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjUw/OC0xMjIyNTUwMzg1/LmpwZWc.jpeg" alt="Cover for Rave Hard" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +476,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/DTgOT-7Wt8o7EeYBO6--g1UkLtsmk_hLpp4i7lOctG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDE0/OTUxLTE2NTM5NjM0/OTEtNDY3Ny5qcGVn.jpeg" alt="Cover for Oriental Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +513,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 65</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 70</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf66a215fc944988dc6efe591a4e674.png" alt="Cover for Electronic Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +582,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 18</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 48</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 57</li>
         </ul>
       </td>
@@ -607,7 +607,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9abc969a7a348448a790fb25468af79.png" alt="Cover for Robot Picnic" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 9</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +663,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 15</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 16</li>
             <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 79</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 82</li>
         </ul>
@@ -689,7 +689,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/xxUB5pASIhtqkcDSa6Q1Yu_lTydt4Bd86y7iUfp0rMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE0/NjYtMTI5Njc1NDkx/Mi5wbmc.jpeg" alt="Cover for New Collective Audition" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +715,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/uJI5lJeTCtHAl40SMXWSg-4pNLs__3gh6FaOg4fDKz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjM3/OTctMTMyMjk0NDcy/MS5qcGVn.jpeg" alt="Cover for Black Is Back" style="max-width:120px; height:auto;" />
       </td>
@@ -748,24 +748,6 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/MHage42HaBa7OLHj1aM-u-V70M0OZ61Szs5GUNN89LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTIx/OTMtMTM1NTU5Mjgx/OS02MTQ1LmpwZWc.jpeg" alt="Cover for HS17" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-08-27</td>
-      <td>Mon.To</td>
-      <td>HS17</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
         </ul>
       </td>
       <td>
@@ -818,7 +800,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Om3RVIvH_z4ZXFai59i2xeplnjjCTK200ilH7aOjoD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjM3/MDQ4LTE3MzQ4ODE1/MzctMjAxMi5qcGVn.jpeg" alt="Cover for MEGATON KICK 4" style="max-width:120px; height:auto;" />
       </td>
@@ -836,13 +818,13 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 36</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 35</li>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/JNKza1Wbi-2hvpJcXPdhtoWmhIusAsrQEgROhGOmxT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQ4/MjMtMTYyNzExMzY1/Ni0xNDM4LmpwZWc.jpeg" alt="Cover for Feierwall" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +844,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/_V5dSur3AX2v5Qna0zI0n9whGVTWcOEmI9TlyHSIzgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTIy/NDYtMTQzMzUzNDY1/Mi0xNTcyLmpwZWc.jpeg" alt="Cover for Relic" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +886,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4be1440b62cbe009a85dd8613a64b1.png" alt="Cover for 88mph" style="max-width:120px; height:auto;" />
       </td>
@@ -926,7 +908,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Zdaz1MNLpI2exqjFLtQ4tdVhEcR__k2w3D4hveNV2Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDQz/ODYtMTQ4MTczMTYz/OC05OTEzLmpwZWc.jpeg" alt="Cover for Retrovision" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +927,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Techno Classics 1990-2010 (Best Of Club, Trance &amp; Electro Anthems)" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +944,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/BJ7LEtjZbyebN492Axb2KvEBaF8kpqCh8r9mGDJrsPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ0/OTItMTI1NTM5MzYw/Ny5qcGVn.jpeg" alt="Cover for Demoreel" style="max-width:120px; height:auto;" />
       </td>
@@ -1007,7 +989,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Zr8LPL4pQJtBu3M46eDmxpnNF10eCdhV07VBWrlWgVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ1/ODE3LTE1NDg4NjM3/MDMtODk5MC5qcGVn.jpeg" alt="Cover for HS13" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1071,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/z5mFm75JrBZR0IVeM7BD7h9_GDCPgBB5poyl5b88u7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU5/NTktMTI5MzQ5MTg5/MC5qcGVn.jpeg" alt="Cover for Acid pROJECTS" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,7 +1111,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/_0I_6EPqOP6tZ4vY-Rt1-1l1Tv53hAgcEUfrtTJiljY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MDA1LTE1MzYyNzA4/MDgtMjc1MC5qcGVn.jpeg" alt="Cover for Finding Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1132,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 24</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1175,12 +1157,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 29</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 69</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/wWecB2VPz0NSsmvRfw5bffwIermUF2fCn_S8oc8eRok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU1/MzI3LTE1ODQ2OTQ5/NjgtODUzNi5qcGVn.jpeg" alt="Cover for JP-H&#x2F;D #06" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1197,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1243,7 +1225,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/UY368nZcn0IdUXSyyqPUZXgKmBX6XdmLyHzoEC0PoFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgz/MTQ4LTE1OTQwMjY2/NDMtNTc3Ny5qcGVn.jpeg" alt="Cover for Ephemeral Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,12 +1261,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 22</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/HfO3HpirVyi1rQzLp7ucl-8he_ZxuCvUBt27CA24ZMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MzYyLTE2MDEzMTU3/NTQtMTc2OC5qcGVn.jpeg" alt="Cover for peanut butter jelly time 2020" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1292,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Wsi9Q4qbo3n4c50RUboFVCG1QwR5NSBfPhGIzGDvLG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTk4/NDY3LTE2ODM0MTU1/OTMtNzg1NC5qcGVn.jpeg" alt="Cover for 1347" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1332,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/WeDsDAungrmGGwPTTAvIzorfHO4hJnWQSCFCoFDxnCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQ5/OTQ0LTE2NTgzNzI3/NTItNTM2Ny5qcGVn.jpeg" alt="Cover for Drowning In Guilt" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1394,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Niz6lzn9m9oQC4qGrlvTn87q-ArvGoSGKtNpNBPeluE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMx/NzYwLTE2NzA3NTcz/MDYtNzc0MC5qcGVn.jpeg" alt="Cover for HS10" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1414,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/B79CFd3ii-BGE7nJRGa55iJuUeUfoahFwhQK0g8KBmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDYz/Mjc4LTE2MzA0MTY3/MDYtMjU5OS5qcGVn.jpeg" alt="Cover for Party In The LBC" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1434,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73ca0d8fafd7f663cc2c6efcad291975.png" alt="Cover for NIGHTCHOP EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,14 +1475,15 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 72</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 83</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 84</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/2EwhCLzFzbcWX-iPVWBdUQJYYW8wKo5c8yB8BrPx1-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU4/ODk5LTE2NTU5MDky/MzUtNDA2My5qcGVn.jpeg" alt="Cover for HS11" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1520,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1544,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 40</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1588,7 +1571,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/OMeXCn6tSsDuW0foQuNlQCe0ZXFyZtwyz7wK5gHODpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTYy/OTktMTQwNTc0MDk1/OC03NjEwLmpwZWc.jpeg" alt="Cover for Humanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1613,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 34</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1637,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 35</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1677,14 +1660,14 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 40</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 39</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 62</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/lRFmQRnFa4pWCBXG9yaiRuEDfLBl1dNjzXiBf8old2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM2/ODY0LTE2ODM3Mzg1/MzctNDAwNi5qcGVn.jpeg" alt="Cover for SCREAM" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1687,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5174972fa569ab44330f4fdd1125485c.png" alt="Cover for Grave Robbing" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,7 +1700,6 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1739,7 +1721,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 28</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 29</li>
             <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 91</li>
         </ul>
       </td>
@@ -1762,14 +1744,14 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 47</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 76</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 50</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 77</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1bb569718927e09eede9eaa381b0d68.png" alt="Cover for LUV2NITE" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,12 +1769,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 1</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8984a655b169d1d72a2c4eef3236884.png" alt="Cover for 2000s baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,12 +1792,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04491a95b75e1886e8bc9f84c965f57c.png" alt="Cover for Chart Heartless" style="max-width:120px; height:auto;" />
       </td>
@@ -1833,12 +1815,12 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 26</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1867,6 +1849,26 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png" alt="Cover for Revengeseekerz" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Jane Remover</td>
+      <td>Revengeseekerz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>88</td>
       <td>
       </td>
@@ -1891,7 +1893,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 64</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 65</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
         </ul>
       </td>
@@ -1918,7 +1920,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/485d33acbe1d6d922dcff0c9c530f276.png" alt="Cover for RAVE SLUTZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1942,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910c664e7dbb0a88e5ccc0de02c21901.png" alt="Cover for Grave Robbing" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +1975,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1990,7 +1992,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2009,7 +2011,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2027,7 +2029,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2049,7 +2051,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2066,7 +2068,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -2083,7 +2085,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2103,7 +2105,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -2123,7 +2125,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -2142,7 +2144,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td></td>
@@ -2163,7 +2165,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2181,7 +2183,7 @@ Hard dance music is a genre of electronic dance music (EDM) that emerged in the 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
