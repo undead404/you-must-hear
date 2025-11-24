@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T13:54:33.778Z
+date: 2025-11-24T14:52:04.717Z
 permalink: tags/chamber-folk
 title: chamber folk
 ---
 
 ## chamber folk
 
-Last updated: <time datetime="2025-11-19T13:54:33.778Z">Wed Nov 19 2025 15:54:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:52:04.717Z">Mon Nov 24 2025 16:52:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,9 +44,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 25</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 27</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 95</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 28</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 34</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb968db6df642125c2cec2d2b0042187.png" alt="Cover for Five Leaves Left" style="max-width:120px; height:auto;" />
       </td>
@@ -84,13 +84,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 76</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3800a09ce5c24143a3249a7316aeaee6.png" alt="Cover for Just Another Diamond Day" style="max-width:120px; height:auto;" />
       </td>
@@ -104,9 +103,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 4</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 73</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 8</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 11</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 76</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 92</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 96</li>
         </ul>
@@ -147,7 +146,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 31</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +171,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/KrncKZlqD4Y0W5_nnTAsjHGRIg-kjmLkz0Vu6HcWll0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTg4/MDAtMTQyMDY1MjY5/Mi0zNTM4LmpwZWc.jpeg" alt="Cover for Violently Happy" style="max-width:120px; height:auto;" />
       </td>
@@ -195,8 +194,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 41</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 76</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -260,10 +259,10 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 8</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 15</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 58</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 62</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 62</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
         </ul>
@@ -272,7 +271,6 @@ Chamber folk is a genre of music that combines elements of folk music with class
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/TuB86xQ0Z65SCwp8MMooRkiTqE8_fxmpSk13RF_hyc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODc0/NTczLTE2MjE5Mzg5/MzgtNzc3NC5qcGVn.jpeg" alt="Cover for Dus Sokagi Sakinleri 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Düş Sokağı Sakinleri</td>
@@ -291,7 +289,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/MwnJ4hNmM0wT6VBTCnXn9qTAgkCwbfaVynhj3yM17V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY3/NTktMTI3NDcxNTQ3/MS5qcGVn.jpeg" alt="Cover for Hungry Ghosts - Self Titeld" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +312,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/MwnJ4hNmM0wT6VBTCnXn9qTAgkCwbfaVynhj3yM17V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY3/NTktMTI3NDcxNTQ3/MS5qcGVn.jpeg" alt="Cover for Hungry Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +335,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2000</td>
@@ -349,7 +347,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 30</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 61</li>
         </ul>
       </td>
@@ -374,7 +372,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 7</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 84</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
         </ul>
       </td>
@@ -413,11 +412,11 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 31</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 56</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 63</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +434,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 61</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 8</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -454,14 +454,14 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 46</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 54</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 79</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 48</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/jN71kucqUVo7dlMIk2NxQGP7GanE9XYUI5FNUJn9oQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MzQtMTI0MzE1MzA0/Mi5qcGVn.jpeg" alt="Cover for Magic Wand" style="max-width:120px; height:auto;" />
       </td>
@@ -494,7 +494,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 10</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 41</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 64</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 92</li>
@@ -520,12 +520,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 35</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4884fbb2a3714e42cef5a1782e10c26e.png" alt="Cover for Illinois" style="max-width:120px; height:auto;" />
       </td>
@@ -534,18 +534,18 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>Illinois</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 77</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/U8sA-xyNBUyLNFeWXoQpvC_P8aT1IavCBm7nd48e4jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY4/NzUtMTU3NDg4OTkx/OC01OTUzLmpwZWc.jpeg" alt="Cover for The Swell Season" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +565,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b5e1e50171c27c6efe1778837c375b.png" alt="Cover for Let Me Go, Let Me Go, Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -578,16 +578,17 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 54</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 58</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 57</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50205cac72229726303253e3809dfdf7.png" alt="Cover for And Now That I&#39;m In Your Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -618,8 +619,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 46</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 47</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 49</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 95</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 96</li>
@@ -659,16 +660,16 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 4</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 80</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 37</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3099ccb417356b9b0980fbf37eaeb7b.png" alt="Cover for Ys" style="max-width:120px; height:auto;" />
       </td>
@@ -711,7 +712,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79bd22e03e8f46bebd3a5b07d6605030.png" alt="Cover for I See a Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -726,18 +727,18 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 45</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 30</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 35</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 47</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3748fdb43d83dcbb2b37c22fdeb70b53.png" alt="Cover for Blasts of Holy Birth" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +757,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d7c74824284475ec715750d0e207105.png" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
       </td>
@@ -770,12 +771,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -832,8 +833,11 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 31</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 64</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 2</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 71</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
@@ -842,7 +846,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc4a32e382734b988e397e2c62940608.png" alt="Cover for Sun Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -856,13 +860,13 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 49</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 52</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/258aca0f00c342ce97469832f4310c35.png" alt="Cover for Sometimes I Wish We Were an Eagle" style="max-width:120px; height:auto;" />
       </td>
@@ -878,12 +882,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 48</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/416afe11bef827b71f0a0af9f934ef60.png" alt="Cover for Divorce Lawyers I Shaved My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -897,12 +901,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 33</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 88</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc70c6939ed6428997f559e50ff4f09d.png" alt="Cover for Saints and Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +926,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -936,22 +940,19 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>evermore</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 68</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 80</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f863cceffcb45c692e648f11fce5160.png" alt="Cover for Have One on Me" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +990,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff20a3537d91409ca96dc8927d4f879f.png" alt="Cover for Helplessness Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,10 +1004,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 41</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 68</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1026,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 17</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 20</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
         </ul>
       </td>
@@ -1049,7 +1049,26 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc91d029a2145a680f4f269d72c41c7.png" alt="Cover for The Carpenter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-11</td>
+      <td>The Avett Brothers</td>
+      <td>The Carpenter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc02a27a80c43aec30c94a9d847eff4.png" alt="Cover for For The World" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,7 +1110,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 56</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 57</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 94</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 98</li>
         </ul>
@@ -1112,13 +1131,13 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 39</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 90</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2edc47e1034b58d483d62b5683f2e068.png" alt="Cover for A Beginner&#39;s Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1155,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/219d6b6561316971791e2b767fa18151.png" alt="Cover for Marina" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,12 +1173,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f3c07bb127efaf7ef5e6958a5ee0f59.png" alt="Cover for I Love You, Honeybear" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,8 +1191,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 90</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1235,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0578a8ad88d845acac795a47a0423a72.png" alt="Cover for Crippling Lack" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1256,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1f933931a8fe9367c019fdd66cd6ea.png" alt="Cover for case&#x2F;lang&#x2F;veirs" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1277,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 52</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 57</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 94</li>
         </ul>
       </td>
@@ -1279,7 +1298,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 79</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1300,13 +1319,13 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 85</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 86</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/431f51f7525d2724d6f2e1eaf0867c7f.png" alt="Cover for Stranger in the Alps (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,12 +1339,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65caa8feb38b6f10eb338af3e89a6be.png" alt="Cover for Come On Feel The Illinoise!" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,11 +1357,11 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 25</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 32</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 51</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1385,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa529495dce44d3ecdc9e7ef7f8f9db7.png" alt="Cover for Fox Confessor Brings The Flood (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,8 +1402,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 49</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 51</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 53</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1427,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab8726952eff2dd004d4ba33ca11f68b.png" alt="Cover for Kagayaki" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,9 +1457,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 19</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 72</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 91</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 21</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 73</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1481,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg" alt="Cover for Snow Globes" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1494,8 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 9</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 16</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1501,11 +1521,11 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 48</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 68</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1529,7 +1549,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/mOhrrtuJM8vRo6_Gosw33VMVInfRipBrHWc7w59x728/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk4/MTM2LTE1ODc5ODMy/ODYtMzQ0MS5wbmc.jpeg" alt="Cover for Pies sobre la tierra" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,14 +1568,14 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 12</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 63</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ryqjQwf8_JaDMi0sf9Ih5zhvU7k2gGocLApn_ofVpH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/MjkzLTE2MTY1MTA3/NzktNDkwNi5qcGVn.jpeg" alt="Cover for Old Wow" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1593,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/u6G2hOSkiumadUZErcYpzWGngXX1DvCvHiCree1Ztqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAy/NDg3LTE1ODE5NTEw/NDEtMTQ3MC5qcGVn.jpeg" alt="Cover for les failles cachées" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1639,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a082034857ba296ecad420d805c6f0.png" alt="Cover for Phoenix: Flames Are Dew Upon My Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1658,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35e4fce452d93323cb676d7eb0450daa.png" alt="Cover for Projections" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1675,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb7dce95a6578b77970e8af5e2e2b3.png" alt="Cover for Blodhundar &amp; Lullabies" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,14 +1697,14 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 73</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 86</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6576b3c968cd6f239a22a26ccc029b9.png" alt="Cover for Bread Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,13 +1717,13 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 2</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 3</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/r_5Yhw4U2groAQIxS3nbYmc124eU7-AIng8G-10p8Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU1/NjQ5LTE2MTk5NDc3/ODItNDM4My5qcGVn.jpeg" alt="Cover for Vulture Prince" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1741,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/e5EEH0nj_kTGj-gw9ZanT9hqxi6i0EpqjGZjrBmdVgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc0/NTEzLTE2MjYxNjEy/NzItMTg5My5qcGVn.jpeg" alt="Cover for Será que ahora podremos entendernos" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1761,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 14</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 64</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 81</li>
         </ul>
@@ -1787,7 +1807,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/DUQJqCaxkicy9vbb-9k26VqyP1Z3bu5Rq9zQYlqSz-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgz/MTAzLTE2NDY0MDMz/MzYtMzAyMi5qcGVn.jpeg" alt="Cover for Eyeline" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1829,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f4e269d6c890b9b51f279cdc5b103e.png" alt="Cover for You Belong There" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,14 +1847,14 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 92</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af7d1b7e30bda0a0a2dec160b71e9853.png" alt="Cover for De todas las flores" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,9 +1875,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/QDFCuvVzx73nmXUJ72LVK1GEn2ArjxkT6oc-g5RDzcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQw/MjM5LTE2NzAxNTc3/OTctMTQ4Mi5qcGVn.jpeg" alt="Cover for Wie die Nocht noch jung wor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c060d3afc398ec238257ab1d91f47bb2.png" alt="Cover for Wie die Nocht noch jung wor" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-02</td>
       <td>Voodoo Jürgens</td>
@@ -1879,7 +1899,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1876f9f91df57eece4e55bb3c9365574.png" alt="Cover for I Need to Start a Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1913,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1980,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2023-07-07</td>
@@ -1980,9 +2000,9 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/9FQVT8_hXem5LZgEIKWKT-KlYe6KkowAJ_YzKUmwkxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjc5/OTIxLTE2OTQ5NDcy/NzUtNzcxMi5qcGVn.jpeg" alt="Cover for Rosarium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34287494e0dd0a84bc067a9aca4d351b.png" alt="Cover for Rosarium" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-14</td>
       <td>Daniel O&#39;Sullivan</td>
@@ -2015,14 +2035,14 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 73</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 87</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 75</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e9a844d4ceda068ed40e79aadde9cb.png" alt="Cover for Little Bird" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,7 +2069,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/zjqMtq_CFQOvEfvx7_Dk8p11Rqn3kY1qTj77o73dj_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTAy/NTY5LTE3MDM4NjQ1/MDMtNDY4MS5qcGVn.jpeg" alt="Cover for Saisons" style="max-width:120px; height:auto;" />
       </td>
@@ -2067,7 +2087,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2300eb85e9fd92cc3cdc40366acb088.png" alt="Cover for hortelã" style="max-width:120px; height:auto;" />
       </td>
@@ -2076,9 +2096,6 @@ Chamber folk is a genre of music that combines elements of folk music with class
       <td>hortelã</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
@@ -2142,13 +2159,13 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 97</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2162,7 +2179,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2185,29 +2202,12 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 37</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>J. Wiegold</td>
-      <td>Norfolk Serpent</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3738a881ef6828331c40dc6e2b74ddf.png" alt="Cover for Zushi" style="max-width:120px; height:auto;" />
       </td>
@@ -2231,7 +2231,7 @@ Chamber folk is a genre of music that combines elements of folk music with class
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5576707541da7557e7a1aae06141f820.png" alt="Cover for アダンの風" style="max-width:120px; height:auto;" />
       </td>
@@ -2261,6 +2261,6 @@ Chamber folk is a genre of music that combines elements of folk music with class
 - [avant-folk]({{ "/tags/avant-folk" | relative_url }})
 - [psychedelic folk]({{ "/tags/psychedelic-folk" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
-- [chamber pop]({{ "/tags/chamber-pop" | relative_url }})
 - [new weird america]({{ "/tags/new-weird-america" | relative_url }})
+- [chamber pop]({{ "/tags/chamber-pop" | relative_url }})
 - [slowcore]({{ "/tags/slowcore" | relative_url }})

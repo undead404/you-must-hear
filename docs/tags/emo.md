@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:48:56.240Z
+date: 2025-11-24T14:54:18.293Z
 permalink: tags/emo
 title: emo
 ---
 
 ## emo
 
-Last updated: <time datetime="2025-11-14T01:48:56.240Z">Fri Nov 14 2025 03:48:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:54:18.293Z">Mon Nov 24 2025 16:54:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,6 +44,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -62,13 +63,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 71</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/280efe186cb2ec302673419911184947.png" alt="Cover for Analphabetapolothology" style="max-width:120px; height:auto;" />
       </td>
@@ -82,6 +83,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +126,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e84c0c10c79a1a25859919e351028d.png" alt="Cover for Full Collapse" style="max-width:120px; height:auto;" />
       </td>
@@ -157,8 +159,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +178,6 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -196,7 +197,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 76</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 77</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 90</li>
         </ul>
       </td>
@@ -221,7 +222,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2002-08-12</td>
@@ -233,7 +234,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 47</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +272,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +292,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 33</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -311,12 +313,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c88fdbc56d6813df8a3bfe50ad52512.png" alt="Cover for Life In Dreaming" style="max-width:120px; height:auto;" />
       </td>
@@ -350,9 +352,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 100</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -372,9 +374,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 82</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 83</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -394,7 +396,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +416,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -470,13 +472,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 54</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 59</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2005-05-24</td>
@@ -508,8 +510,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 56</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 60</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +536,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1958e8cdfa17448cbbb7f3ccb49247d9.png" alt="Cover for Plans" style="max-width:120px; height:auto;" />
       </td>
@@ -569,15 +571,15 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 53</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cff42aafacc4f2b8d0b49a3fe37cfcc.png" alt="Cover for Ciano" style="max-width:120px; height:auto;" />
       </td>
@@ -611,9 +613,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 13</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 44</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +635,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -688,12 +690,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb9c1ef099fc47beba182893453edcf0.png" alt="Cover for Boys Like Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +709,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +728,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -746,11 +748,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -770,8 +773,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 97</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 73</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +793,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +848,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -864,13 +867,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/045aaecd764e491c152b9346d6d02463.png" alt="Cover for Twenty One Pilots" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-29</td>
       <td>Twenty One Pilots</td>
@@ -886,7 +889,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 67</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 97</li>
         </ul>
       </td>
@@ -910,8 +913,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 14</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 84</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 88</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 99</li>
         </ul>
       </td>
@@ -935,15 +938,15 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 92</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 41</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cc4c696f205d894fbc4d940e2467ee6.png" alt="Cover for The Nameless Ranger" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +966,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc0e04fdc50a4faacf5673d5339b1e4b.png" alt="Cover for Dark World" style="max-width:120px; height:auto;" />
       </td>
@@ -979,6 +982,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1001,7 +1005,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f71f3da87029c0ed5d5adda0506581.png" alt="Cover for Just Married" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,7 +1021,27 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 69</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df2c36e39a7071f0926904b453fb5615.png" alt="Cover for Floral Green" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-18</td>
+      <td>Title Fight</td>
+      <td>Floral Green</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 68</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1041,8 +1065,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 73</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 86</li>
         </ul>
       </td>
@@ -1063,8 +1088,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 37</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 96</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 40</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1109,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 18</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1163,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1183,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1231,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51d3a5ccf7814eaece8323547ebaef29.png" alt="Cover for I&#39;ll Keep You In Mind, From Time to Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1268,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f9826de01a3f9db2fab3a85df05431.png" alt="Cover for The Suspended Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,11 +1291,11 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 57</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 82</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 53</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 54</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 87</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
         </ul>
       </td>
@@ -1291,6 +1316,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1311,13 +1337,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 43</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 88</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 53</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20abfcc6e4e543c40b545abac556afa7.png" alt="Cover for Joy, Departed" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1360,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d595a456dfa24a808dc7efb1e21784d1.png" alt="Cover for Apokalypsis" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,11 +1383,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 58</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 68</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 81</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 54</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
         </ul>
@@ -1425,8 +1450,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 82</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1447,8 +1472,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 54</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 83</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 66</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1473,17 +1498,17 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 78</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 88</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 91</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2994ffc00d101ba38a4529c221069c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,25 +1523,6 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       <td>
         <ul>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c302ad0b500e647f344a76ff1d3ec5c.png" alt="Cover for I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-04-14</td>
-      <td>Erikthemc</td>
-      <td>I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 46</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1539,10 +1545,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 23</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 34</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 19</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 39</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1564,12 +1570,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 95</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 51</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 73</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 82</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1595,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 46</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1607,7 +1613,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 96</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1634,11 +1640,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 87</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 89</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 94</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
         </ul>
       </td>
@@ -1657,8 +1664,8 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 22</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1681,10 +1688,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 92</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 77</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1705,7 +1712,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 78</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1727,9 +1734,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 70</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 80</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 94</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 83</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 96</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 100</li>
         </ul>
       </td>
@@ -1790,7 +1798,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 90</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 98</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1812,9 +1820,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1843,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 72</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1877,13 +1885,13 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 92</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 44</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee08bda639c3df913e1a4a37508a841.png" alt="Cover for To See the Next Part of the Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,12 +1906,12 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 40</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a3345f82b784fc700425a472202841.png" alt="Cover for DigitalLung.EXE" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,15 +1924,15 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 38</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 64</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 67</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 68</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2021-03-29</td>
@@ -1947,7 +1955,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61cdafbb850cce0c33348b9df963e2ef.png" alt="Cover for Tell Me About Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1977,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/vbRapNvdhMPWrSl7AXYekytlpO-sBfj7L6sO6DitEIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA1/NDA4LTE2MzY3MjEz/OTEtNDM5OC5qcGVn.jpeg" alt="Cover for Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,7 +1995,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 42</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2006,8 +2014,9 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 29</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 44</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2051,7 +2060,7 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bfb778e3c035d07291e963b6382838c.png" alt="Cover for Drown (Live from Maida Vale)" style="max-width:120px; height:auto;" />
       </td>
@@ -2071,10 +2080,10 @@ Emo is a rock subgenre characterized by confessional lyrics exploring intense em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 78</li>
         </ul>
       </td>
     </tr>

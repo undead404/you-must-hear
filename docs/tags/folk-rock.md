@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:53:09.913Z
+date: 2025-11-24T14:52:11.740Z
 permalink: tags/folk-rock
 title: folk rock
 ---
 
 ## folk rock
 
-Last updated: <time datetime="2025-11-23T08:53:09.913Z">Sun Nov 23 2025 10:53:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:52:11.740Z">Mon Nov 24 2025 16:52:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34bb2f9592a24e76cecaa093561ccd34.png" alt="Cover for Mr. Tambourine Man" style="max-width:120px; height:auto;" />
       </td>
@@ -97,7 +97,6 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +117,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 56</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 57</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
         </ul>
       </td>
@@ -173,7 +172,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 13</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -214,13 +213,14 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 3</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 10</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/306803378de2447ec476c74017e9768c.png" alt="Cover for Buffalo Springfield Again" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0eb9d5c81259f1506b7c819758e959e.png" alt="Cover for Music From Big Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0789c7cd60a0461738205a8aae7a3492.png" alt="Cover for Crosby, Stills &amp; Nash" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +327,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc0a599b522abafb7338f82f7f0a8b4e.png" alt="Cover for The Band" style="max-width:120px; height:auto;" />
       </td>
@@ -361,9 +361,9 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 55</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 60</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 92</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -404,7 +404,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 33</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 38</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 42</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 84</li>
         </ul>
       </td>
@@ -442,6 +442,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +482,6 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -521,9 +521,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 75</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 81</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +580,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a624c2d9eff44688064e0a1b259988e.png" alt="Cover for Dylan" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +599,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca7508a6cf0c4fcb9965af39d2e3d1a4.png" alt="Cover for Box Set" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +631,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +653,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f76201de12bc156d7b42e4d8a4facf4.png" alt="Cover for Verities &amp; Balderdash" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +685,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 82</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +722,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 33</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -747,10 +745,10 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 68</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 76</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 81</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 96</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 87</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +768,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 63</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +794,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/CGEr3mIzYIJJzo_efP8a-6uswvxp9oto2bTDtW97SxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTUz/OTgtMTI4ODIyMjA2/NC5qcGVn.jpeg" alt="Cover for Mermaid Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -812,7 +810,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 67</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 69</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 92</li>
         </ul>
       </td>
@@ -850,7 +848,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 23</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -888,12 +886,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 13</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1997-04-23</td>
@@ -912,7 +910,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/0-Xf7iUvgYZCtN4U9IKMeKdpbP0tG16EFJ8Y0S0lcEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njc1/MS0xNjA0MTQ0MDc4/LTYyMDUuanBlZw.jpeg" alt="Cover for Under A Violet Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +945,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 41</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -989,7 +987,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 73</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1013,16 +1011,16 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 16</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f4151f14665495893f306cb7c0f5862.png" alt="Cover for The Best of Don McLean" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,7 +1038,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2003-06-23</td>
@@ -1072,8 +1070,8 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 36</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 40</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 41</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1120,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004-10</td>
@@ -1157,15 +1155,15 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 43</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 62</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 45</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 63</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 99</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b9a1d28f4184dd594ff4aa96415e5f5.png" alt="Cover for Get Lonely" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,12 +1197,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 83</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2007-09-24</td>
@@ -1252,8 +1250,9 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 3</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 31</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 4</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 71</li>
@@ -1298,7 +1297,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 39</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1424,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4f18047cd54befcb154b893bc5a327.png" alt="Cover for Some Kind of Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1445,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8edf0e9253054aecaa0082b75650d44b.png" alt="Cover for The King Is Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,12 +1458,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 32</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0a252f5ad4445f952926254171a708.png" alt="Cover for England Keep My Bones" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1503,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/260c986c729f4492a6395ca9edfeb5af.png" alt="Cover for Moonfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1543,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
     <tr>
       <td>33</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b92b7d58d108cd7a8c18b78f5433a.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Lana Del Rey</td>
@@ -1558,13 +1557,13 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
@@ -1592,7 +1591,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d188a8fb00f34036bb5d072114c55dbb.png" alt="Cover for Jake Bugg" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,27 +1641,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9318da6664f44a22ca41771a87ae1cd9.png" alt="Cover for Cassy O&#39; (EP)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>George Ezra</td>
-      <td>Cassy O&#39; (EP)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1704,13 +1683,32 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 44</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b004bd7eb038b9c4a11a5ae35ebd9934.png" alt="Cover for Wanted on Voyage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-19</td>
+      <td>George Ezra</td>
+      <td>Wanted on Voyage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc938ae629737ad9f143fdf761e541c.png" alt="Cover for Caja de Música" style="max-width:120px; height:auto;" />
       </td>
@@ -1728,7 +1726,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 74</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 75</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 83</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 89</li>
         </ul>
@@ -1752,7 +1750,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 81</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 97</li>
         </ul>
@@ -1779,7 +1777,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/pEysmDRLd8496uRuWBflrDXPoaJXtUq1CwNg27WNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTc3LTE0OTUwNTQy/NDItMTEwNi5qcGVn.jpeg" alt="Cover for Maybe A Moment &#x2F; Graceland" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,14 +1795,14 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 75</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 78</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 78</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
             <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/3vUvCXQfAQNbr6Dvhz8EnoAKcYnxnwlIy1Kevieu4ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk1/MzY2LTE1NzU3MTgw/MjYtNTE3NC5qcGVn.jpeg" alt="Cover for All in Good Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1820,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ZYnJBKX4Tz5Qbj-B0JDp9BIl4ewioqXlU_yOX8ev_NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/Mzg1LTE1NzA5Njkw/MzUtNDAwNC5qcGVn.jpeg" alt="Cover for By The Way, I Forgive You" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,12 +1833,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 70</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61fd84247e5cc858a56ea6d4e433cf89.png" alt="Cover for Better Oblivion Community Center" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,13 +1853,13 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 66</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 67</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfa702d934b07342170de1704c72ec65.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1895,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/N-_XY02893LeOq5yf-hXcS5r8q3Vlu0UfgGbRnR3HFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMx/NDIzLTE2MjE0NTMx/NzctMzI5NS5qcGVn.jpeg" alt="Cover for Good Luck Everybody" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,12 +1910,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 76</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d411d0a917a74ce3a08d220802b244.png" alt="Cover for All Things Must Pass (Remastered 2014)" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,12 +1928,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc265270f7b793363600f41770475592.png" alt="Cover for Pressure Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1966,12 +1964,12 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg" alt="Cover for Dragon New Warm Mountain I Believe In You" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,8 +1984,8 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 19</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 72</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 23</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 75</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 84</li>
         </ul>
       </td>
@@ -2009,7 +2007,7 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 45</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2047,5 +2045,5 @@ Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [americana]({{ "/tags/americana" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})
-- [indie folk]({{ "/tags/indie-folk" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
+- [indie folk]({{ "/tags/indie-folk" | relative_url }})

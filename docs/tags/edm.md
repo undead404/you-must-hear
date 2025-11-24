@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:57:23.183Z
+date: 2025-11-24T14:58:38.410Z
 permalink: tags/edm
 title: edm
 ---
 
 ## edm
 
-Last updated: <time datetime="2025-11-23T08:57:23.183Z">Sun Nov 23 2025 10:57:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T14:58:38.410Z">Mon Nov 24 2025 16:58:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf9ad4665ed88573c7ff2d4081877c69.png" alt="Cover for Dead Man Walking" style="max-width:120px; height:auto;" />
       </td>
@@ -48,12 +48,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c62633167b40bfac6a80a326ce0fc9c.png" alt="Cover for Olivia Hye" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4691ed35327d822939a56a5a3f3605.png" alt="Cover for WE" style="max-width:120px; height:auto;" />
       </td>
@@ -93,13 +93,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 51</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/013a3f82f9d19b416f608b59ad30b680.png" alt="Cover for Meduza" style="max-width:120px; height:auto;" />
       </td>
@@ -115,12 +115,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 72</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eae4c9c3172304cd2004d7ec130440b.png" alt="Cover for Hear Me Now" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/dZMxwNHCn4JO9vdjTV1LhpM8dTJFL6_Ez9sGEgh8BgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzc4/OC0xMzk5MjQyNjg3/LTEwNzAuanBlZw.jpeg" alt="Cover for Winter" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84bc8fcb1ca4404b928223e5d2bd8724.png" alt="Cover for Planisphère" style="max-width:120px; height:auto;" />
       </td>
@@ -200,13 +200,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 51</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 52</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/PHeUngw2UdpFNlhhmBnKZuijbhj-tZ3Gbxe0PlsKU9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjY5/NTEtMTQ1MzM3MDQ2/OC04OTA4LmpwZWc.jpeg" alt="Cover for The E.N.D. (The Energy Never Dies) [International Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -223,12 +223,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 50</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce8b4827fab4cd0a857335a5871d0f22.png" alt="Cover for The Cure - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +270,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Iyd9n2yiVQIt09mLsPbzMd1y98c26qdiGtYJLQizJLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTgx/NDQtMTQ1MTI0NDEx/My00NzUxLmpwZWc.jpeg" alt="Cover for How We Party" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +288,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e2df9ebdd4e48d3c8b6fde86503d254.png" alt="Cover for The Thrill" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/xjSZhzM54BvMCZTlAUmgClX2dt1LdxfaZuno8_PDdrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQx/MTAtMTQwMzcwMTkw/NS01MjE2LmpwZWc.jpeg" alt="Cover for deSIrE (wITh saM smITh)" style="max-width:120px; height:auto;" />
       </td>
@@ -348,7 +348,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86880e316b76ac33bb039e2c67c71afe.png" alt="Cover for Nothing But The Beat (Ultimate Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +399,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/EU2fs8pPdEcV9lJKi_z3hkhxfupcn76z85bOg2PoMao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg1/NDA4LTE2MzU1OTky/MTItNTg5Ni5qcGVn.jpeg" alt="Cover for DEEP - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b21964c2ddf6111c661e41dd4051cfad.png" alt="Cover for 96 Months" style="max-width:120px; height:auto;" />
       </td>
@@ -436,12 +436,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 52</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce32293df4d5b9e5f484469cda3060b0.png" alt="Cover for Candyman" style="max-width:120px; height:auto;" />
       </td>
@@ -461,12 +461,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 41</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/pLKj1jcdfj6OYznlxDHwQrEStw3sdTv0k8ZM6p4b_Aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjA4/NzQtMTM1MzkzMDAy/MS04Nzc3LmpwZWc.jpeg" alt="Cover for I Want You to Know" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +486,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54f3b6ef26445a5bbb8a72f0f7830bd.png" alt="Cover for True" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +507,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5427a35f8d4e4712872ecb4a2c5d93b1.png" alt="Cover for Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97a85c926f5f4115c1fdbc4c4249ffe6.png" alt="Cover for Calamari Tuesday" style="max-width:120px; height:auto;" />
       </td>
@@ -548,13 +548,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 42</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 43</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2013-10-28</td>
@@ -575,7 +575,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2013-11-05</td>
@@ -621,7 +621,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg" alt="Cover for Love Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -658,21 +658,21 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/CTDJMG-o7pMCiayloHTXqZo5AULYrLY07LQYpT_jS5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA5/OTg3LTE1NjYwMTM1/NTMtMjQ2Ni5qcGVn.jpeg" alt="Cover for Ascend" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +693,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d173d6a9926477816cea31d409a2d6.png" alt="Cover for WLFGRL" style="max-width:120px; height:auto;" />
       </td>
@@ -734,7 +734,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/UbjgSIgFs5O3YxJC5wgsvRir2jdprSjoLm0GHL4E7x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzgz/MDctMTQwMjQwNDIw/Mi0zMjIwLmpwZWc.jpeg" alt="Cover for Scared To Be Lonely Remixes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +751,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 61</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 63</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 98</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
@@ -783,7 +783,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2014-11-17</td>
@@ -799,12 +799,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 55</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a75a1a847c84bb5cb69198596e2bfb8.png" alt="Cover for Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -825,7 +825,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca63db7362d51ff8c995920e9be358f.png" alt="Cover for KIKO" style="max-width:120px; height:auto;" />
       </td>
@@ -848,15 +848,15 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 92</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/VQSmSxdpGeB3o9WJzQIHf_UQM6iYI-SNCxr0BI-6snE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzg1/MDAtMTQ0NjU1NDM3/MS04MzQ5LmpwZWc.jpeg" alt="Cover for Only You (with Little Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +878,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2990c38cdb224d41cd7fc26159cd4e36.png" alt="Cover for Rebel Heart (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +895,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2164898c049a56082d53e63bb05dfd2e.png" alt="Cover for Gemini" style="max-width:120px; height:auto;" />
       </td>
@@ -913,7 +913,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/8DWwcBdrJtM90HLqKzm08RvZSxSmgovkPWcTd41tgLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODc4/NzItMTUwMjE4NzM3/OC05MzQ2LmpwZWc.jpeg" alt="Cover for All For You" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +932,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db4976f282156495c3eaa3818d587d7d.png" alt="Cover for Chinese Nü Yr" style="max-width:120px; height:auto;" />
       </td>
@@ -954,14 +954,14 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 93</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/JCRa33fqpqBdX4dusJ2eZNrxq1g7iGEWTcMSMmOO0GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTA0/ODQtMTQ0ODgyNDQy/NS0yNzgwLmpwZWc.jpeg" alt="Cover for Peace Is The Mission (Extended)" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +981,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a9597b3c58c5d0092a320d02d7b1c4f.png" alt="Cover for Kygo" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,18 +1004,18 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 55</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96cfc5ca3342dde2e672bd60e1439981.png" alt="Cover for Σ" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1045,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4bd9de90c679a543177d6896394a577.png" alt="Cover for Warsongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1063,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/9H8pV08-bMmsKm1YhkQ2xxqkGxD0ShpwPo8bzBCA3bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTg1/ODEtMTQ1OTI2MTI5/Mi0xMTA5LmpwZWc.jpeg" alt="Cover for Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,12 +1079,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 24</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70fcd54bc926bb60a13781bc14c46a75.png" alt="Cover for At Night, Alone." style="max-width:120px; height:auto;" />
       </td>
@@ -1101,7 +1101,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f4ee1a793f5c91fa702fc6c434f9160.png" alt="Cover for TEN - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1140,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/G2jEOnGALUoyAEWLAAWImEdG2vNesZYHn0OIHHqiHRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTE1/MjMtMTQ2OTI4MDUx/Ny01NDAxLmpwZWc.jpeg" alt="Cover for Who Do You Think of?" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1158,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f348830593c71b202bdc34509f693a.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,14 +1176,14 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 22</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 24</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/ka1cJjc7aC-FDQQVzHt7uI9suu8oShdqsFUmJM_qqFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDky/NTQzLTE1Njc2OTc3/NjAtMTMyMy5qcGVn.jpeg" alt="Cover for Tired" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,7 +1202,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0d7dcbb02924d98d0f9ec0afd3d76ae.png" alt="Cover for Collage" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,12 +1220,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 44</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a4d46225eb73e7161d17baacb3fca0.png" alt="Cover for Back to Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d83534fdbee1611553810cc35183756e.png" alt="Cover for 몽중몽; Dream In A Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1289,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dbef6334e0de9b37a354ac4e7ef797.png" alt="Cover for Ordinary Songs 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,13 +1306,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 50</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 66</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 52</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/i_D2eSOPZEajZr4aGJ6J0yXn46KJ46pPMyrm1tq3Xcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM2/MzM1LTE1MDE0MDc5/NjAtNzE4OS5qcGVn.jpeg" alt="Cover for BRAT" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,8 +1329,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 57</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 72</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
@@ -1358,7 +1358,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/-B_upWKVY9WIAXGRe03x9aSkDAHUvECT5VsTUIG07dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/MzYwLTE1ODEwMzg1/ODgtMTEyNC5wbmc.jpeg" alt="Cover for 1÷X&#x3D;1 (UNDIVIDED)" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1382,30 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad7edd26c8dd8f3b75c5935b033093d.png" alt="Cover for Future Cαke" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-18</td>
+      <td>YUC&#39;e</td>
+      <td>Future Cαke</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19f511694a5db6cf5d9d2844bb7317d6.png" alt="Cover for Everything Black (feat. Mike Taylor)" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1425,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c3ef4c2e4fdfe66239e53cc89ac0171.png" alt="Cover for Kids in Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,7 +1467,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33cc6b16252f4c1ecc9eb60cce1638b4.png" alt="Cover for Shot Me Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1490,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/430b617f4a78f69cbfcf8ad1e90cc1f9.png" alt="Cover for Spotlight" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,7 +1507,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/256384138230dbe5c25f7c077dde7e47.png" alt="Cover for First Time (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,12 +1524,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 62</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/F9F8dy5p-RfjNcrqN6uB5XixolKj0Ifc6ZyWWZXkTqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI2/NTIxLTE1NjM2Mzcw/MzktMzc5NS5qcGVn.jpeg" alt="Cover for Love Yourself 轉 &#39;Tear&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,7 +1548,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/MiIzF0-QWiOjJpJDJCoSH25JLKHBnKp6W36F6QAWphg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/OTkxLTE1NjE4MDI5/NTYtNzMxOC5qcGVn.jpeg" alt="Cover for I AM WHO" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1608,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c673083164dcc3e5531dff854980bd55.png" alt="Cover for XYZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,15 +1629,16 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 2</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 77</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa4bfca0d9bfa737182e004f1955b28.png" alt="Cover for ZAPPER" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1679,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c4ec3e3ed49183ba679a49e81a4f0ac.png" alt="Cover for The Making of a Paracosm" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,13 +1698,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 45</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 47</li>
             <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/PkgFkE3768T5r1K3HSSCJkwL-EZhEaNXPh7vXEZ9_HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODcy/NzAzLTE2ODIzNzQ2/ODMtNTk1OC5qcGVn.jpeg" alt="Cover for trilogy remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1744,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40e49db4e73838815d11f0d7e933cbd1.png" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,38 +1765,14 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 46</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a547356735603b832dbf1d540c1045ee.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-05-14</td>
-      <td>Sam Gellaitry</td>
-      <td>IV</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae932ad2a94887a2d50235845f19d9bd.png" alt="Cover for Cadê o After? Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1795,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/hsS4-mV95ASg08PtQL6eXb9ITNe0rocmmZJXFDi3J8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA0/NTU0LTE2MzU3Mjc2/NDQtNTU3MS5qcGVn.jpeg" alt="Cover for Lyodra" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1813,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c48c1c8227c9269cedff7cbd89725a52.png" alt="Cover for Fallen Embers" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1834,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/RMRBdyfXbaSJIaBprGcw42UPYn0z9iD_WqHhcL20EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDg4/NDA3LTE2NDA1MTcx/NzQtNzAzNy5qcGVn.jpeg" alt="Cover for Don&#39;t Say Goodbye (feat. Tove Lo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1855,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/6p6_ls9-TqNkF3BHo02cm16Jy9Wk8lPiar_bBqqWbKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM0/ODMyLTE2NDg5MTI2/MDctMzA4Ni5qcGVn.jpeg" alt="Cover for ONLY HONEST ON THE WEEKEND" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,13 +1874,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6a607c16ce26acf9cf16d76d1cdc9d3.png" alt="Cover for Walker Racing League" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,26 +1889,19 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>Walker Racing League</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 45</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53fd956aef94ba67fadb2d2086be9ca.png" alt="Cover for Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1924,14 +1917,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       <td>
         <ul>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 85</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff7e03760da28fdea702b71b1f13b760.png" alt="Cover for World of Walker" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,8 +1948,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 64</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
@@ -1968,7 +1959,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e97f27244784ced3cb03e44c24a53c5.png" alt="Cover for Walkerverse, Pt. I" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,13 +1972,14 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 22</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/xEeCpgSMNuVpQCfFA6xJ9ORlOlVIMhZ-sxWnA8z1QBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE0/NDUyLTE2NTI0NjI4/MTMtNzQ5OS5qcGVn.jpeg" alt="Cover for Maze" style="max-width:120px; height:auto;" />
       </td>
@@ -2008,14 +2000,14 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 48</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 67</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8dac9e884580b70f476ea69841c1557.png" alt="Cover for Palaces" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,12 +2021,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 51</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6947b51d7c540a34e2f22a6e12e466ec.png" alt="Cover for Funk Wav Bounces Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2045,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71dd95889877b6d497fb5e50f1974ca6.png" alt="Cover for Slow Motion &#x2F; Hit The Lights" style="max-width:120px; height:auto;" />
       </td>
@@ -2069,12 +2061,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/zC8Uvi6n3phFZErphU05ALKuyUTks7_7NLzzmG6fTyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/NTQxLTE2NzY1OTYy/ODEtODg2Ni5qcGVn.jpeg" alt="Cover for quest for fire" style="max-width:120px; height:auto;" />
       </td>
@@ -2116,7 +2108,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 93</li>
             <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 100</li>
         </ul>
@@ -2145,7 +2137,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e5ba7facc1697bd9d8bdd68ffcb35a8.png" alt="Cover for CHASER" style="max-width:120px; height:auto;" />
       </td>
@@ -2165,9 +2157,9 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/EO4J69-znnIiyr_boyaeI8qWOJoyCZTy60IspD7c714/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzUz/NDE4LTE2OTUzMTgw/ODAtMzQwMy5qcGVn.jpeg" alt="Cover for Roy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1446e3e7c2a5be09967c697af6371164.png" alt="Cover for Roy" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-04</td>
       <td>Nsqk</td>
@@ -2186,7 +2178,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/6by1y1XVRh_HVkxvWJ9nRoUagYKza8XfCek60ErcRvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjc2/NTYzLTE3MTIwMjc0/NjktNDEwNS5qcGVn.jpeg" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -2202,13 +2194,13 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 60</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
             <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62ded996234bd3521c9f99c955567bcd.png" alt="Cover for Telos" style="max-width:120px; height:auto;" />
       </td>
@@ -2226,12 +2218,12 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 22</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0499433e24e3043f0e7a06eb3884c4a.png" alt="Cover for DO U" style="max-width:120px; height:auto;" />
       </td>
@@ -2253,7 +2245,7 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e63ec5a92240a2f3292aa15bd5af39a.png" alt="Cover for Revengeseekerz" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,6 +2259,8 @@ EDM stands for Electronic Dance Music, a genre of electronic music that is prima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 56</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 95</li>
         </ul>
       </td>
