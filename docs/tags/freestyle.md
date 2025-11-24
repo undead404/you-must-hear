@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:59:16.326Z
+date: 2025-11-24T10:06:37.993Z
 permalink: tags/freestyle
 title: freestyle
 ---
 
 ## freestyle
 
-Last updated: <time datetime="2025-11-23T03:59:16.326Z">Sun Nov 23 2025 05:59:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T10:06:37.993Z">Mon Nov 24 2025 12:06:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Freestyle&#39;s Best Extended Versions Volumes 1 &amp; 2" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29ef748d49992f01a57799a856bdbc6d.png" alt="Cover for Seduction" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2748cd5e63826987a58e4b0ecda30652.png" alt="Cover for Do You Wanna Get Away" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/McFJZ6MY8AP9PMQLmQCqlXXbV0odLN2ytP1VpAmlO9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY5/OC0xMjMzMzI3NDY5/LmpwZWc.jpeg" alt="Cover for Lisa Lisa &amp; Cult Jam With Full Force" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3d6acfba16041d2c1de41c95782c36f.png" alt="Cover for Scars of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -152,25 +152,6 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       <td>Scars of Love</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/NU9a-hF10vkoBAkj6yz1TKYoRJQxFTpWohaAmByKF50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/Ni0wMDEuanBn.jpeg" alt="Cover for Over The Rainbow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Nocera</td>
-      <td>Over The Rainbow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
         </ul>
       </td>
@@ -253,7 +234,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da7ffc8d6274d36bc100615823f5556.png" alt="Cover for In My Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +343,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 75</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +366,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c51772faf4d1494b9ecd10d5e59352ab.png" alt="Cover for Cynthia" style="max-width:120px; height:auto;" />
       </td>
@@ -462,7 +443,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1989-10-23</td>
@@ -479,7 +460,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797b025805edb48d7866d1493ca8406e.png" alt="Cover for Sla Radical Dance Disco Club" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +572,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/5BnuR0XdC2N36G18AN-pVAQI40uTlPRSdgXqH4cIghA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzUx/LTE0NTQ0NDM2MTct/MjY3MC5qcGVn.jpeg" alt="Cover for Coro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a251431c2da0f05b9f50e4090ef6770.png" alt="Cover for Coro" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-03-05</td>
       <td>Coro</td>
@@ -624,7 +605,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/HBoS8-RWFNJjfIUTWlp5qfoJUM_UwRbP1emQkSXx7ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQw/Ny0xNDk4NTIzODYw/LTU4MTEuanBlZw.jpeg" alt="Cover for Corina" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +623,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e9a2711a86acfc05807e65292a9c23e.png" alt="Cover for Straight Outta Hell&#39;s Kitchen" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +645,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/0Rwvx_MoSpVC_b1n2tZOBew1HpNwGx21GdZ1PRLxVLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE4/NzQtMTMwMDMyNjI4/MC5qcGVn.jpeg" alt="Cover for Don&#39;t Stop Believin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -682,7 +663,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/uFbSeWU7lkkHwpS09n8kD1nm_0Z6jho5NVIh6UYn3MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTIw/My0xMzg4MjQ3MTI5/LTI1OTcuanBlZw.jpeg" alt="Cover for He Loves Me...He Loves Me Not" style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +683,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/zAqaRct-qUCljxgZrbagZEgd6kzR-IMFZxyB7nQatTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEx/OC0xNDUyNjI4Mjc5/LTI1MTkuanBlZw.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d21a190f19ec7a6d08bde4154d5c3e1.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Exposé</td>
@@ -758,7 +739,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 68</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -783,7 +764,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/qESQ0cPNyM5g6GeM8j0osu7xfjJmJybpcYI5de5fX-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjQ1/NjItMTU4MTYyNTM3/Mi00NDkzLnBuZw.jpeg" alt="Cover for Cutting&#39;s Dance Express 3" style="max-width:120px; height:auto;" />
       </td>
@@ -873,7 +854,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/pDxoAF9fYGQbT_Ae8NhLZB84IuXFMMG0ok1a6C_YoGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk4/OTQtMTY4NDg3NDMw/OS00NTg3LmpwZWc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -893,7 +874,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/4RbXeXiyReHUStwUON2vZVwMFVIeq9fAMyGHQVnynNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/OS0xMjg3MTk5NDM4/LmpwZWc.jpeg" alt="Cover for ALL THE HITS" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +892,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/AuxHno2NZ0_SdTmeRKSyGiAMinR5237UvNFuuk4gj9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE4/NC0xMzUzNjA0MDE4/LTcyMDUuanBlZw.jpeg" alt="Cover for Summertime Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1061,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/1t56m-ihUPZL5Js59eovjX4LXlCWWNpA8GgZ_ObdYr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk0/MC0xNjc4NzIzODg1/LTQwMzEuanBlZw.jpeg" alt="Cover for Summertime, Summertime" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,23 +1087,17 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       <td>Amber</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9055f70d81775d475bf0a406610e3c1b.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1115,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/YJRuPwSQBrKB5_-uli3LiWeAZsnyFqUIJUDma8WAGto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE2/NTktMTYzMTgwNjQ4/MS05ODM4LmpwZWc.jpeg" alt="Cover for Tell It To My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1151,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5f35cee9147dfc7d53849611994f8.png" alt="Cover for Cynthia&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1169,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/zOiPl01L6Cnq8iKNp4jJFy8qwC1N17SfaSOgthn_VTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTYy/Ny0xNDIxNzgzMDc0/LTQ3MTEuanBlZw.jpeg" alt="Cover for The Best Of Connie" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,12 +1286,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       <td>Naked</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1325,7 +1295,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/OnWOTD7acZXloC9Je4B8qKGUxQQq3ShR-WXipvS8yh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQy/MjI5LTE2MDA3OTQ4/OTUtNjM5OC5qcGVn.jpeg" alt="Cover for Ace (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1318,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/RFT3LNavglxUBUDfQw80e7zWZvS3JdcSJd8MOXjWaIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/NjYtMTM1NTY4MjI2/NS0zMDE2LmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,6 +1360,24 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Percee P</td>
+      <td>Legendary Status</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>52</td>
       <td>
           <img src="https://i.discogs.com/ADYiZL_2Bny6rGI_0KyPuwQhIrP4rOop0sk-7g_2SpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODY1/MjYtMTM3NzU4NzQ0/NC05MTA5LmpwZWc.jpeg" alt="Cover for Automatic (i&#39;m talking to you)" style="max-width:120px; height:auto;" />
@@ -1408,7 +1396,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/tY6TEh014x7Arz9SFYHOmmikmRndXAgZRQP70pvec7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ0/NzItMTQ0ODE0MTg3/NS0xNTU3LmpwZWc.jpeg" alt="Cover for Secret Of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1434,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/624c973af0087ab70380548a809ebb2a.png" alt="Cover for Bad Boy Joe Presents: Old School Clubhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1492,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/767d2fc37ce94783b6a1213649793dd4.png" alt="Cover for Fonók" style="max-width:120px; height:auto;" />
       </td>
@@ -1675,7 +1663,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 51</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 69</li>
         </ul>
       </td>
@@ -1725,9 +1713,9 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 22</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 60</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
@@ -1791,7 +1779,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f193f9b9c578f36fa30a5e48005947b.png" alt="Cover for New Earth Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,13 +1803,13 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
         <ul>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 3</li>
             <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 52</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 62</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 63</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/fTEMcALiC9V_gqMKg9YX64hVGNDZpMV2RGg0iqJ3PtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM1/MTUyLTE2NDcyODUz/MDctMjkxOC5qcGVn.jpeg" alt="Cover for dawn FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,8 +1823,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 92</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 95</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 96</li>
         </ul>
@@ -1858,7 +1846,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
         </ul>
       </td>
@@ -1899,9 +1888,9 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 71</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 19</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1988,8 +1977,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
 - [new generation freestyle]({{ "/tags/new-generation-freestyle" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [pop]({{ "/tags/pop" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
 - [house]({{ "/tags/house" | relative_url }})
