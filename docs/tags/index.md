@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-23T22:09:03.686Z
+date: 2025-11-23T22:59:20.905Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-23T22:09:03.686Z">Mon Nov 24 2025 00:09:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T22:59:20.905Z">Mon Nov 24 2025 00:59:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [avant-garde metal]({{ "tags/avant-garde-metal" | relative_url }}) | <time datetime="2025-11-23T22:59:20.905Z">Mon Nov 24 2025 00:59:20 GMT+0200 (Eastern European Standard Time)</time> |
+| [synthwave]({{ "tags/synthwave" | relative_url }}) | <time datetime="2025-11-23T22:59:10.752Z">Mon Nov 24 2025 00:59:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [crunk]({{ "tags/crunk" | relative_url }}) | <time datetime="2025-11-23T22:09:03.686Z">Mon Nov 24 2025 00:09:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage]({{ "tags/garage" | relative_url }}) | <time datetime="2025-11-23T21:51:38.124Z">Sun Nov 23 2025 23:51:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-23T21:49:38.547Z">Sun Nov 23 2025 23:49:38 GMT+0200 (Eastern European Standard Time)</time> |
@@ -374,8 +376,6 @@ Last updated: <time datetime="2025-11-23T22:09:03.686Z">Mon Nov 24 2025 00:09:03
 | [blue-eyed soul]({{ "tags/blue-eyed-soul" | relative_url }}) | <time datetime="2025-11-22T18:19:36.170Z">Sat Nov 22 2025 20:19:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [contemporary folk]({{ "tags/contemporary-folk" | relative_url }}) | <time datetime="2025-11-22T18:19:02.772Z">Sat Nov 22 2025 20:19:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [alt pop]({{ "tags/alt-pop" | relative_url }}) | <time datetime="2025-11-22T18:18:34.142Z">Sat Nov 22 2025 20:18:34 GMT+0200 (Eastern European Standard Time)</time> |
-| [avant-garde metal]({{ "tags/avant-garde-metal" | relative_url }}) | <time datetime="2025-11-22T18:16:46.490Z">Sat Nov 22 2025 20:16:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [synthwave]({{ "tags/synthwave" | relative_url }}) | <time datetime="2025-11-22T18:16:39.224Z">Sat Nov 22 2025 20:16:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz hop]({{ "tags/jazz-hop" | relative_url }}) | <time datetime="2025-11-22T18:14:27.077Z">Sat Nov 22 2025 20:14:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [frenchcore]({{ "tags/frenchcore" | relative_url }}) | <time datetime="2025-11-22T18:13:17.674Z">Sat Nov 22 2025 20:13:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [harsh noise]({{ "tags/harsh-noise" | relative_url }}) | <time datetime="2025-11-22T17:13:09.024Z">Sat Nov 22 2025 19:13:09 GMT+0200 (Eastern European Standard Time)</time> |

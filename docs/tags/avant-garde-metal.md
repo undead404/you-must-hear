@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T18:16:46.490Z
+date: 2025-11-23T22:59:20.905Z
 permalink: tags/avant-garde-metal
 title: avant-garde metal
 ---
 
 ## avant-garde metal
 
-Last updated: <time datetime="2025-11-22T18:16:46.490Z">Sat Nov 22 2025 20:16:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-23T22:59:20.905Z">Mon Nov 24 2025 00:59:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9be91d22c818609561442a5bf62bcec.png" alt="Cover for Into The Pandemonium" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c707dcaf2abbc6561b5b808a531510aa.png" alt="Cover for Mr. Bungle" style="max-width:120px; height:auto;" />
       </td>
@@ -63,33 +63,13 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 93</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b8c6df853bc6284b04d7970086b493.png" alt="Cover for Written In Waters" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Ved Buens Ende</td>
-      <td>Written In Waters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 27</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1332406e1da2227b5960762fd39e5672.png" alt="Cover for Erotic Massage" style="max-width:120px; height:auto;" />
       </td>
@@ -109,16 +89,15 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>76</td>
       <td>
-          <img src="http://coverartarchive.org/release/641293ff-c29e-483c-8f79-b07eab011344/6167514371-250.jpg" alt="Cover for La Masquerade Infernale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a0e3c5a4cfa46b299026bfa0982d404.png" alt="Cover for La Masquerade Infernale" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-27</td>
       <td>Arcturus</td>
       <td>La Masquerade Infernale</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
         </ul>
       </td>
       <td>
@@ -146,9 +125,9 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/OaSN7WZU8q5FfKUXDpP5DS15ppbmrhvrr4l4ug2vvj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk0/NjYtMTMzOTUyNzQ0/OS00MTEzLmpwZWc.jpeg" alt="Cover for Obscura" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b7c59e27d5786e40c143e5ddd7367a.png" alt="Cover for Obscura" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-23</td>
       <td>Gorguts</td>
@@ -165,8 +144,9 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e317135fb327bbffeb8e58964b7b080.png" alt="Cover for Nightwork" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-21</td>
       <td>Diabolical Masquerade</td>
@@ -200,7 +180,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef5355690d1e23e172c9888b913a4e67.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +204,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/EeEiQwfECjv4PFZ_fKjfOCAeOGiq1uAbNRgSjORJT5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjQy/MC0xMjMyNDI0ODU1/LmpwZWc.jpeg" alt="Cover for Neonism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46a604d1be24fbbb2cfcebe8d76cb86.png" alt="Cover for Neonism" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-24</td>
       <td>Solefald</td>
@@ -240,7 +220,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1999-11</td>
@@ -260,7 +240,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db1dc6522a2d409b98e741e6d3327386.png" alt="Cover for The Director&#39;s Cut" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +260,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e46a24120898c4f9c8d1a6a21c62f33.png" alt="Cover for Imaginary Sonicscape" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +275,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 8</li>
             <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 79</li>
         </ul>
       </td>
@@ -319,7 +299,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>93</td>
       <td>
       </td>
       <td>2002</td>
@@ -340,6 +320,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e453da426160445ac466d7f523ed6847.png" alt="Cover for Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ram-Zet</td>
@@ -358,22 +339,19 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/7rqL52Ih17PIYLXsovumKMvx9UOuXP1VEpSMxTQiET4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzAy/OS0xNDQyMDc0OTI2/LTY0MDAuanBlZw.jpeg" alt="Cover for The Sham Mirrors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765d4b7b018e491995301131849dbb23.png" alt="Cover for The Sham Mirrors" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-22</td>
       <td>Arcturus</td>
       <td>The Sham Mirrors</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +377,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/6_P7mMyRbXNdenz6TEabW-PulpZyFzZDw81KvcX48e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDAw/Ni0xMTYwNDM3NjQ4/LmpwZWc.jpeg" alt="Cover for _We, Invaders" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/280e065c79e5485fab807a81fa4e968e.png" alt="Cover for _We, Invaders" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11</td>
       <td>Unexpect</td>
@@ -416,7 +394,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/44GpL6ICH1PwXLumt9_CV7E7Gjr9Y_j6SOozJO1SXsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYy/MC0xMTQxMzI0MjY5/LmpwZWc.jpeg" alt="Cover for Chaosphere (Reloaded)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02560c67f13c4fddaba198a87a355a59.png" alt="Cover for Chaosphere (Reloaded)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Meshuggah</td>
@@ -437,7 +415,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004-03-03</td>
@@ -454,8 +432,9 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a0e06de7d0e80368a83be6aa54b900e.png" alt="Cover for Lost In Reverie" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-19</td>
       <td>Peccatum</td>
@@ -467,7 +446,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -508,7 +487,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d2073c00244852959b4aac288a79a8.png" alt="Cover for Suspended Animation" style="max-width:120px; height:auto;" />
       </td>
@@ -522,26 +501,24 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b84458995b04b1881f88c66e8e9abe1.png" alt="Cover for Sideshow Symphonies" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-19</td>
       <td>Arcturus</td>
       <td>Sideshow Symphonies</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 33</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 89</li>
         </ul>
       </td>
@@ -569,6 +546,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91df3e10658b4289bc97dbbed39f6e27.png" alt="Cover for Pain Necessary To Know" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-07</td>
       <td>Ephel Duath</td>
@@ -583,14 +561,14 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 44</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 74</li>
             <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9e9c126ded4cc2cc9c4952aa9dfb50.png" alt="Cover for Monotheist" style="max-width:120px; height:auto;" />
       </td>
@@ -604,13 +582,14 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c731259c3db683a547d2141615f36990.png" alt="Cover for Dowsing Anemone With Copper Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-10</td>
       <td>Kayo Dot</td>
@@ -631,7 +610,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2006-02-17</td>
@@ -649,7 +628,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/022ae3f6d7e64a9da7e87c805e48e298.png" alt="Cover for There Be Squabbles Ahead" style="max-width:120px; height:auto;" />
       </td>
@@ -668,28 +647,25 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb39bc137f544ed3965c9dd0fcd9d2f1.png" alt="Cover for The Butcher&#39;s Ballroom" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-17</td>
       <td>Diablo Swing Orchestra</td>
       <td>The Butcher&#39;s Ballroom</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
             <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/271695186a42e4316c8eef5a88aa63ad.png" alt="Cover for In A Flesh Aquarium" style="max-width:120px; height:auto;" />
       </td>
@@ -699,6 +675,25 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef68525042d41798b0a394b83842973.png" alt="Cover for Black for Death - An Icelandic Odyssey part II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-24</td>
+      <td>Solefald</td>
+      <td>Black for Death - An Icelandic Odyssey part II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
       <td>
@@ -804,7 +799,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 6</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 98</li>
         </ul>
       </td>
@@ -850,7 +845,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aace30c47394452961478e554a16801.png" alt="Cover for Blackjazz" style="max-width:120px; height:auto;" />
       </td>
@@ -891,6 +886,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/393a94f88be143f294d2a7bc9458e40d.png" alt="Cover for Norrøn Livskunst" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-15</td>
       <td>Solefald</td>
@@ -924,7 +920,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 14</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 39</li>
         </ul>
       </td>
@@ -954,6 +950,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a486f8f25783410982701571a1778f0f.png" alt="Cover for Fables of the Sleepless Empire" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-31</td>
       <td>Unexpect</td>
@@ -969,7 +966,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-08-01</td>
@@ -989,7 +986,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/63Ajct2u2dCmmDrsrifmRIvrbEtBVLohuBmjfU5zJVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTkx/ODUtMTMyMDk5NjQ5/Ny5qcGVn.jpeg" alt="Cover for Rengeteg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/103bbb2a5e294f6488c88f38e715bcde.png" alt="Cover for Rengeteg" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Thy Catafalque</td>
@@ -1007,6 +1004,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e216dec9b00405b84c98fae7f424a09.png" alt="Cover for Gamma Knife" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-03</td>
       <td>Kayo Dot</td>
@@ -1025,6 +1023,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3369c632ad38d252a2be90ed1626e4fc.png" alt="Cover for In Somniphobia" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Sigh</td>
@@ -1042,7 +1041,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9f03201d299a2e5061c1b6d61870b3f.png" alt="Cover for Pandora&#39;s Piñata" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1051,6 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -1139,7 +1137,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/U75AWkjZEauLqrWQxLlSfA0bwJXWUU4ie6WEG8k0LVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjAw/MTktMTQxOTc4Njcz/Ni01NTA5LmpwZWc.jpeg" alt="Cover for Ascending a Mountain of Heavy Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1182,7 +1180,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6fa9a8544277c1a8ab3691bfa54b4a.png" alt="Cover for Cojum Dip" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,12 +1197,12 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -1282,11 +1280,10 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 59</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 60</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
@@ -1294,47 +1291,48 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1357,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/oJSxl08LajAvxwFuWOaY4B6fbn0jua5MtgF2m8oTXkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDE0/MDktMTQyODU1ODk0/NC04MTMwLmpwZWc.jpeg" alt="Cover for World Metal. Kosmopolis Sud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5133c758da72489cc801f5e8f4e646ee.png" alt="Cover for World Metal. Kosmopolis Sud" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-02</td>
       <td>Solefald</td>
@@ -1394,12 +1392,12 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b79c6b74ec5e4d5bcdec5658af255ff3.png" alt="Cover for Arcturian" style="max-width:120px; height:auto;" />
       </td>
@@ -1437,9 +1435,9 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/j4oN6EfgjxZLgKcyHwpD-nvmV9_dN3Q9KrzHvW6dBys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTMw/MzEtMTQ4MzkwNjg0/OS05ODU3LmpwZWc.jpeg" alt="Cover for Meta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cffaa1c065056cb383c0f3800f4e54c.png" alt="Cover for Meta" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Thy Catafalque</td>
@@ -1491,7 +1489,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/888bb81c882fca6d4437189c4039c652.png" alt="Cover for Ex Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1529,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5acc006c0dd4ba42d6e382ca45af145.png" alt="Cover for BLACK ICE" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1610,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,73 +1688,74 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 14</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 45</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 47</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/291f61ac93eff5d2ac42e601332c594a.png" alt="Cover for H.A.Q.Q." style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1776,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fe9a0f132da03714b11a403c4459ab.png" alt="Cover for Naiv" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,9 +1794,9 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/TvfoXqhOWVYr550Qds4Lqjtx_Ek-IvvmElJtgM_WldY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkx/MDI1LTE1ODI2NDY2/MzUtNDk0MS5qcGVn.jpeg" alt="Cover for Telemark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/996b23a616113a9472d5dd032eab8b6a.png" alt="Cover for Telemark" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-14</td>
       <td>Ihsahn</td>
@@ -1849,7 +1848,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1887,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 45</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 58</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 62</li>
         </ul>
@@ -1915,7 +1914,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0345f54853be931015a16176f7d6a9.png" alt="Cover for Van" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1927,6 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2018,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/mVr-mEUq3v0r5HP4BLlM5volG6tEU5otEzZ5J4JB2Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTcx/Mzc1LTE2NDk3MTU3/NTctMzIwNy5qcGVn.jpeg" alt="Cover for The Ailing Facade" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2036,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2115,18 +2113,19 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 70</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
@@ -2143,43 +2142,44 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/XfwXDo0fTcjHQ2mdUdoWb8hPmRV5OinhQciECi9viuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQ2/NjQ1LTE2NTc0OTAw/OTQtNDAzMC5qcGVn.jpeg" alt="Cover for Welcome to Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -2196,14 +2196,14 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 26</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 89</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3FGEJdL0HN-8Luxehm_-6gJXKkwkpdkG3cILWcVGFu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/Mzg1LTE2NTgwNzY0/MTQtMzE4Mi5qcGVn.jpeg" alt="Cover for Aveilut" style="max-width:120px; height:auto;" />
       </td>
@@ -2222,7 +2222,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de34df859c345c2da7cf51fe76716a31.png" alt="Cover for Hostile Architecture" style="max-width:120px; height:auto;" />
       </td>
@@ -2242,7 +2242,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/307aa3c27892dd69909f48385e3de2d4.png" alt="Cover for Let&#39;s Hope Heteros Fail, Learn and Retire" style="max-width:120px; height:auto;" />
       </td>
@@ -2340,79 +2340,79 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 59</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 71</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/DHsQKNApAmX_c6okhuexSYUBsOUGTnTIN8qN2eFlMww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU0/ODUxLTE2NzkwODg0/NTUtNDIzMy5qcGVn.jpeg" alt="Cover for 93696" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9d0fc2e333d86bc739b92626b0fe4f.png" alt="Cover for 93696" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>Liturgy</td>
@@ -2431,7 +2431,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/b7FOR-F-2K_FEJp_LkPNg_Z4G0ddexitNzKRvt9WnGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY1/NzY4LTE2ODg3NDAy/NDYtNTYxNS5qcGVn.jpeg" alt="Cover for Black Medium Current" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ec40cfb4e5da5a0bc44abf6546877f.png" alt="Cover for Black Medium Current" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-14</td>
       <td>Dødheimsgard</td>
@@ -2482,7 +2482,7 @@ Avant-garde metal pushes beyond conventional metal boundaries by incorporating e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 56</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 55</li>
         </ul>
       </td>
     </tr>
