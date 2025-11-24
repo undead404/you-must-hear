@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:28:32.715Z
+date: 2025-11-24T03:47:38.558Z
 permalink: tags/noise-rock
 title: noise rock
 ---
 
 ## noise rock
 
-Last updated: <time datetime="2025-11-23T01:28:32.715Z">Sun Nov 23 2025 03:28:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T03:47:38.558Z">Mon Nov 24 2025 05:47:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,13 +44,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 4</li>
             <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95f7a8caadff57b5a80d709a60b757a.png" alt="Cover for Confusion Is Sex" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b326c065c53a4bb5d3d6c37e93e3b637.png" alt="Cover for Rembrandt Pussyhorse" style="max-width:120px; height:auto;" />
       </td>
@@ -202,7 +202,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/SexBnYHLyg42f5yc2pBJ8iVj4oiu9g_Ajq_Bp0Uduik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ5/OC0xNTk5NDE4NTQ2/LTczODEuanBlZw.jpeg" alt="Cover for Two Nuns &amp; A Pack Mule" style="max-width:120px; height:auto;" />
       </td>
@@ -236,12 +236,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb7520d0c8759c5c6c450bbe2ed7dac.png" alt="Cover for Tweez" style="max-width:120px; height:auto;" />
       </td>
@@ -274,13 +274,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 40</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb0da584f1d9fca83222d467c9e5b73.png" alt="Cover for In a Priest Driven Ambulance" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e47e04a3810a6b46f984aa3118420dd3.png" alt="Cover for Atomizer (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -337,13 +337,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 21</li>
             <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be1fad2772be07d26a4215dc11e2a54.png" alt="Cover for Cor-Crane Secret" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73f3afbca03e3cd721e8902fdabe60d.png" alt="Cover for Liar" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +386,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d495e4c0fd8c418e8a1e60e1a1f3aa71.png" alt="Cover for Super Ae" style="max-width:120px; height:auto;" />
       </td>
@@ -403,13 +403,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 49</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c758adefc19d1fe7616513f28c318be.png" alt="Cover for New Plastic Ideas" style="max-width:120px; height:auto;" />
       </td>
@@ -428,7 +428,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c834f1e78fd4a2280506efec80ee011.png" alt="Cover for Celebrate the New Dark Age" style="max-width:120px; height:auto;" />
       </td>
@@ -447,13 +447,31 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       <td>
         <ul>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 49</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 62</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 63</li>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae33339f509b6f352466d42d793aa865.png" alt="Cover for Bonsai Superstar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-11-24</td>
+      <td>Brainiac</td>
+      <td>Bonsai Superstar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td>1996</td>
@@ -467,12 +485,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 54</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc5c831ed5c2ac29cf35ce5dd54da11.png" alt="Cover for Shot" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +508,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fdf389aeb4256527eb40be7a7f29d87.png" alt="Cover for School Girl Distortional Addict" style="max-width:120px; height:auto;" />
       </td>
@@ -541,12 +559,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 72</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cc5dd1e7d549d799dd50ec0fc5ea3c.png" alt="Cover for They Threw Us All In A Trench And Stuck A Monument On Top" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +620,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 92</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -620,7 +638,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 24</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -640,7 +658,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 36</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 38</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 88</li>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 96</li>
         </ul>
@@ -666,7 +684,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2003-12-25</td>
@@ -690,7 +708,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/AEHvPvNGvMqeaepkjQ9Hnvhub8jBKfaVjfd-KsT4pZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQy/OS0xNjA3NjQ3MTQx/LTkwMDMuanBlZw.jpeg" alt="Cover for You&#39;re A Woman, I&#39;m A Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +727,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/mzr9VPHzzTgbqXsxrCJDg3i0ka8xm7cg0uvDhkrW5gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzM5/Mi0xMzA4Njg2OTk5/LmpwZWc.jpeg" alt="Cover for Green Cosmos" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +765,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d7247a1ab42fda4ae8df505ebcf8b77.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +782,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       <td>
         <ul>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 31</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -782,14 +800,14 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 19</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 32</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 20</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd8dbe63cd64b75a141ce7a90c32238.png" alt="Cover for Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -802,12 +820,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 47</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a27f98331e1647c4a2e00f62556db8b1.png" alt="Cover for HLLLYH" style="max-width:120px; height:auto;" />
       </td>
@@ -824,12 +842,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46b967600e556da0211c0708f72f1c8a.png" alt="Cover for Bambi&#39;s Dilemma" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +886,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-08-20</td>
@@ -881,7 +900,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 24</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 82</li>
         </ul>
       </td>
@@ -904,7 +924,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007-10-23</td>
@@ -918,12 +938,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ERm1ZLrYxeJ2eXfaAj10KoAG2iK-q4esf2KP8syzeGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTA5/MDUtMTQ0MDQ4ODMx/OC0zMzI2LmpwZWc.jpeg" alt="Cover for 7″" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +958,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 50</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +1002,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f7c56d6461830ef3216ee5a077bc95.png" alt="Cover for WOMEN" style="max-width:120px; height:auto;" />
       </td>
@@ -1003,7 +1023,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df755b0624214129c10e30f2b934ce51.png" alt="Cover for Old Wounds" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1041,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f53837faa44d0ac84f3188818f0c814.png" alt="Cover for King of Jeans" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1076,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ecfccaefe3b4b21b9ef0c685837edd7.png" alt="Cover for Exploding Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1070,7 +1090,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 48</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1131,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a39260ae06698f19b6e7a3e39e41b9e8.png" alt="Cover for Violet Cries" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,15 +1152,15 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 6</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ae5d4692a7e9f88e75079ec2c83de7.png" alt="Cover for Self Titled" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,10 +1250,10 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 19</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 25</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 21</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 60</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 92</li>
         </ul>
       </td>
@@ -1275,7 +1295,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6e756bd6a8444a8c41694196576cbbd.png" alt="Cover for Dude Incredible" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1315,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/8_C_TRUVkTTHp3BFsst0ksImee-P0X4pOM2XYmDf4XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTA2/NTQtMTQyODY3NTkx/NS05NzY4LmpwZWc.jpeg" alt="Cover for Fantasy Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,18 +1351,18 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       <td>
         <ul>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/T3F5_JRVfDW3Kkxkw_gVWmUrUx18bUFBLdrWoTn1cMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjY0/MjktMTY1OTc4NjM3/MS0zMjUyLmpwZWc.jpeg" alt="Cover for Death Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,8 +1377,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 10</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1398,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 28</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1418,40 +1438,14 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 85</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/4AHOZFry48iXvkzD70JiGDoupX74xm3mPeucZBMil9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQx/NDgtMTQ2MjUyMTU0/MC04NTcxLmpwZWc.jpeg" alt="Cover for Bottomless Pit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-07-29</td>
-      <td>Death Grips</td>
-      <td>Bottomless Pit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 90</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7921bfcf5a85eb455cc635c33716a62.png" alt="Cover for Polar Similar" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1464,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/qqNQ4mslkzy-avHmEL4zZAGLod5ri7hGK8G2DsszoJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzY2/NDEtMTQ3NDM1NDA2/NS05OTA3LmpwZWc.jpeg" alt="Cover for End Position" style="max-width:120px; height:auto;" />
       </td>
@@ -1487,13 +1481,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       <td>
         <ul>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 77</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 81</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/XwGyhBJBs6IcPYNY2flXFp4PAHmaRp9itVRxMBeMjbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAx/ODg4LTE0OTQ5NDky/MTQtNDk3My5qcGVn.jpeg" alt="Cover for Bodyguard" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,12 +1503,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 16</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2017-06-02</td>
@@ -1531,7 +1525,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4754522a795415714a6f5da1591f8a36.png" alt="Cover for Temporary Slave" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,35 +1544,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-      </td>
-      <td>2018-06-22</td>
-      <td>Death Grips</td>
-      <td>Year of the Snitch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 42</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 92</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 96</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1571,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36adb5886e230e682c0f8368dd1c040c.png" alt="Cover for The Devil-Faces of My Old Friends, Beneath Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1617,9 +1584,9 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 24</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 37</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 94</li>
@@ -1646,13 +1613,13 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/jqTSkax31B1TUy5YD0cNzplDVSivb3CZcWJeLpMHxvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/NTczLTE1NTY3MDYw/NjQtNjk1My5qcGVn.jpeg" alt="Cover for Itekoma Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1639,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/sEsl27iyqJ0eBzuLk6p5qhC3UrIvCeS3EygvIubrLfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYx/NzMzLTE1NjI3ODIz/NDktMjk1Ny5qcGVn.jpeg" alt="Cover for This Dungeon Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1674,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 50</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 98</li>
@@ -1715,7 +1682,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/_nFMInMOKAs3-UAB5Neav-1VZqGuwWJrx8zdHCEiB3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg1/MjA1LTE2MjQwMTc5/ODAtMzg2Ny5qcGVn.jpeg" alt="Cover for Various Types Of Ads" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,8 +1698,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 49</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 60</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 52</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1722,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f425977d2ab46fbb0ae7969a88b3772.png" alt="Cover for Self-Surgery" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1741,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/3bnzQb-1BNzecQJUh__fcJuSJxtPI7vpbRgeuJPg7yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjU5/NDQ0LTE2MTkzMDYw/NDAtMjg2Ni5qcGVn.jpeg" alt="Cover for Ultrapop" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1776,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 69</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
@@ -1839,7 +1807,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6b6fe2233a4d2942daa6526d7a67c9.png" alt="Cover for Downfall of the Neon Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1829,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>2022</td>
@@ -1884,7 +1852,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/XfwXDo0fTcjHQ2mdUdoWb8hPmRV5OinhQciECi9viuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQ2/NjQ1LTE2NTc0OTAw/OTQtNDAzMC5qcGVn.jpeg" alt="Cover for Welcome to Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,14 +1869,14 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 83</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 87</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 89</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/DBpnXDTDW-3dkhU_3l-5W0qJOnRdVdXJCOMxLhuPULw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEz/NjkzLTE2NTc4MDQz/OTQtMjkxNi5qcGVn.jpeg" alt="Cover for Hellfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,8 +1893,8 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 46</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 78</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
         </ul>
@@ -1973,7 +1941,7 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/501f9d803c4d379e229775b39e0d347f.png" alt="Cover for Stepdream" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,12 +1958,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 28</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2024-10-11</td>
@@ -2013,7 +1981,27 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9e7fdb97214aefca5a964c6c1240dc.png" alt="Cover for The Powers That B" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Death Grips</td>
+      <td>The Powers That B</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71bb8c4c02febd13f8f4470ef74f749a.png" alt="Cover for You&#39;re a Woman, I&#39;m a Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,12 +2014,12 @@ Noise rock is a genre of experimental rock music that emerged in the 1980s. It i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae6a7ba9d4b04bb5cb00ad88c48a833b.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:30:00.987Z
+date: 2025-11-24T03:59:38.249Z
 permalink: tags/new-jack-swing
 title: new jack swing
 ---
 
 ## new jack swing
 
-Last updated: <time datetime="2025-11-23T01:30:00.987Z">Sun Nov 23 2025 03:30:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T03:59:38.249Z">Mon Nov 24 2025 05:59:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Mo&#39; Money" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7091ba94b23c2b158746b9ed244ec5f.png" alt="Cover for Control" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for New Jack City" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/530aea3336e621e0e8ff0b227b250dcf.png" alt="Cover for Messages from The Boys" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/449cf6178d9af7271320ac54000623bc.png" alt="Cover for Forever Your Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -123,7 +123,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1988-04-18</td>
@@ -140,7 +140,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5adbe084374752f39d2bbc091fcbf18.png" alt="Cover for Diamonds And Pearls" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6845c77515b84269c25b4db8193426ee.png" alt="Cover for Heart Break" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +212,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f834afd8fb4a8096f48b790150978e.png" alt="Cover for Music From Graffiti Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +232,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2295c829f42c49738cf3a946b9cad5f5.png" alt="Cover for Adventures In Paradise" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1989</td>
@@ -271,7 +271,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1989</td>
@@ -289,7 +289,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b44fd4ee531a2ececbde72abb6f9572d.png" alt="Cover for Attitude" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1c03ce63a5bc4ed74343374658ded59.png" alt="Cover for Janet Jackson&#39;s Rhythm Nation 1814" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +327,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36acefb4096743e48898a20fcdbbe846.png" alt="Cover for Workin&#39; Overtime" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +346,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/953dde44ad9f4787b3e759755457cd77.png" alt="Cover for Tender Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -366,7 +366,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4404990104a23c37a9650607743c3b.png" alt="Cover for Rhythm Nation 1814" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +384,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb843013a8c1afeeb110d77084a05f7.png" alt="Cover for Rhythm Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +403,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2caa2de5c745c2b6f043b5cde49f99.png" alt="Cover for Dance!...Ya Know It!" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +424,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33e003fc585187ebd82e3c6dcdefa78c.png" alt="Cover for Affection" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +443,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d44eaaf7b2f840f7c039677fe3478b7b.png" alt="Cover for Return" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +465,30 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db9df46eac60542859bc43bf569db392.png" alt="Cover for Right Rhythm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>The Pointer Sisters</td>
+      <td>Right Rhythm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c1b212d40694a2482df3b33fce456bd.png" alt="Cover for Jasmine Guy" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +509,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/126790a201e14676a4d581d6a94bd683.png" alt="Cover for This Should Move Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -542,7 +565,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34b7a8802254e9e65c1a290e39cff9ba.png" alt="Cover for Have You Got What It Takes" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +586,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dd5baed699d4ee4a90d8a18281ccc9a.png" alt="Cover for The Revival" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +604,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97d12d37434049c093af74a6f28fed4a.png" alt="Cover for Graffiti Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +623,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>1990-10-23</td>
@@ -617,7 +640,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c011c1c4d86b127a0e2d9c7d2290dd.png" alt="Cover for The Future" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +658,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e6d6be9309c95e98aaee7fda21cff10.png" alt="Cover for Ralph Tresvant" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +676,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/KQVvVQ5K6GMGB8Mecu7f2taJdHniYyFnZenYlMJkGkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjg4/OS0xMzczMjgwODc0/LTgxMDQuanBlZw.jpeg" alt="Cover for Damian Dame" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +698,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26a4f337326f49e48071f5a564abef23.png" alt="Cover for Now That We Found Love" style="max-width:120px; height:auto;" />
       </td>
@@ -694,7 +717,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/2MZ2rBKNoC56zK3xVaB45L_7xB_xWA25zcEM4n92Yeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTAz/Mi0xMzcwNzg3OTU5/LTQzMjMuanBlZw.jpeg" alt="Cover for RizzWaFaire" style="max-width:120px; height:auto;" />
       </td>
@@ -713,7 +736,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fba9b6bf12ef26d7824114a3639b2454.png" alt="Cover for Cooleyhighharmony - Expanded Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +753,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d2c74f71bf6ca003361d0e652aba7a9.png" alt="Cover for Diamonds and Pearls" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +828,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aeed9786c7c542d481deada25d856b3c.png" alt="Cover for Good Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +850,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d0ae1bb8319bc487052997d729167eb.png" alt="Cover for C.M.B." style="max-width:120px; height:auto;" />
       </td>
@@ -845,7 +868,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b36b0ec1b5688a0d9b06c1b4c5c01a3.png" alt="Cover for Mistaken Identity" style="max-width:120px; height:auto;" />
       </td>
@@ -869,7 +892,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/3-fi5R7zcr8s4R17sDooUM1UUIlKuzvch45_mVHTkf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMw/MTQtMTIzMjE3Mzkz/OS5qcGVn.jpeg" alt="Cover for The Best Things In Life Are Free" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +910,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/952f9a10da4b4edace2272bd056a8fac.png" alt="Cover for Inner Child" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +928,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faf8bde1253ec8da9559f915cb1bdf8a.png" alt="Cover for Dangerous" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +946,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1aef783846544e986ab39402bbb3a1f.png" alt="Cover for Affairs Of The Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +969,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1992</td>
@@ -1021,14 +1044,14 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 23</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24dbfd9c1cb52031d731028ee0657daa.png" alt="Cover for Body Mind Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1073,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70c1d32bb7384e399b88cae016e6e0fe.png" alt="Cover for Born into the 90&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1094,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1992</td>
@@ -1088,7 +1111,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1992</td>
@@ -1106,7 +1129,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3ef0dd94d03fbe8f404ef889b8c32b.png" alt="Cover for Ooooooohhh...On the TLC Tip" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1147,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b7aecb66cd8408dad2367dc073a5317.png" alt="Cover for Joe Public" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1183,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1992-08-24</td>
@@ -1174,12 +1197,12 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 48</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2473a64879062ad42c2f8bd922f36b72.png" alt="Cover for La Chica Dorada" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1238,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1992-11-13</td>
@@ -1232,7 +1255,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/184326a8307948afbea8f7e382fbdd99.png" alt="Cover for Lose Control" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1273,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ca15c40c5a4bab90f9b9caca35d78d.png" alt="Cover for Hard Or Smooth" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1291,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/RiZbgsU_0nrOQyDCBymXnhqXdTBYQbXRU0XZeo-arco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/NS0xNTQ4MjcxNDI1/LTE1NTguanBlZw.jpeg" alt="Cover for Nubia Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1315,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/AotFHa9txOEAWSMl1GCp6VGBvO5_Z9_T6S2lKV1kgNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDU1/MS0xMzgwNDA2MTY3/LTYxMzMuanBlZw.jpeg" alt="Cover for It&#39;s A Shame (My Sister)" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,7 +1334,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ef8bc1236484ab5b74641f1a57728bc.png" alt="Cover for Right Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1353,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b66b06d9b1db73ce0dbdb1edb7058bd.png" alt="Cover for Bye Bye Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1375,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8fa85c070b814c35c7c54377a941709.png" alt="Cover for What&#39;s The 411?" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1392,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10d07e90dea14691851b6c073155dbfb.png" alt="Cover for It&#39;s Goin&#39; Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1391,7 +1414,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e122446eb0fd03250249cc7c72a7597.png" alt="Cover for Black Tie White Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1432,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1791c0780947f594167c783257c60c33.png" alt="Cover for janet." style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1451,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a42ab480a2341abc1a111efab6da465.png" alt="Cover for Sons Of Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1470,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37ac3b46fe5b4c24a09ec84d2c4e09b5.png" alt="Cover for For the Cool in You" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,7 +1488,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d87ee9ab32ff4f1bbe87c0354c65f593.png" alt="Cover for Blackstreet" style="max-width:120px; height:auto;" />
       </td>
@@ -1483,7 +1506,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1994-08-09</td>
@@ -1500,7 +1523,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/160b85f18f2e434d986466fc9ccc89e1.png" alt="Cover for Usher" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1542,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/672a71d69faf1b8115481abf6696d58b.png" alt="Cover for Not A Perfect Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,7 +1564,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/wtTlgbuzcbrPa9KEfzbAQg8IEu6TFhK45DtJDD10bcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTcy/MzAtMTM0OTE0NTE4/Mi05ODI0LmpwZWc.jpeg" alt="Cover for No Diggity-The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1582,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fabff4142633848dfbb9783fa9670ba.png" alt="Cover for Nobody Else (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1595,8 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 29</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1620,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbddf012becacae3d11245ede20e899b.png" alt="Cover for Demarre Le Show" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1640,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4db87eb340664973bff4817224a0c95f.png" alt="Cover for Blood on the Dance Floor: HIStory in the Mix" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1679,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ac16438c3244b1b55a8368d77aca4f.png" alt="Cover for FanMail" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,7 +1693,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 42</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1694,24 +1718,45 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29c056b3efc05f1abf484cdf40b9603.png" alt="Cover for Willa Was Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07-17</td>
+      <td>Willa Ford</td>
+      <td>Willa Was Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeeb61c1803faa9408388a2a020a6b6.png" alt="Cover for Best of SWV" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-06</td>
       <td>SWV</td>
       <td>Best of SWV</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -1728,7 +1773,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/ov7l2iuHB5uWbHEdpewUr8ixyJBMVNXZFbh6K2hqfd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTYz/Ny0xMTI1OTg2ODQ3/LmpwZWc.jpeg" alt="Cover for Born Into The 90&#39;s" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1791,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/tkPdNbPF_m4-F6xguLAgqSn4ZG67jzKowuXZXVSXQoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI4/NS0xMzEwNTAyOTU3/LmpwZWc.jpeg" alt="Cover for When The Night Is Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,7 +1812,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/aTyDZF0l8GgQrl5BIzv-8e0xomAMxgFp0kWVPx4ry9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/NTUtMTMyOTU4NDg4/NC5qcGVn.jpeg" alt="Cover for Wines And Spirits" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1848,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3334f01531970ce1cc60de7c139b70d.png" alt="Cover for No Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,34 +1863,14 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 61</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 66</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7b69845c9540fedf03b3124aac49c8e.png" alt="Cover for Skid Row" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-11-13</td>
-      <td>James Ferraro</td>
-      <td>Skid Row</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 14</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75bd1f4a87e4e3692ee0b9921b2d5b77.png" alt="Cover for Reincarnated" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,8 +1898,8 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 22</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 38</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
@@ -1882,7 +1907,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a8b48145c07723ab39ededca36fc03e.png" alt="Cover for 1 and 1 - The 5th Album Repackage" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1943,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6228b38b1f5bad0683c37b609eb06da.png" alt="Cover for Showing Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,30 +1957,6 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png" alt="Cover for ペルソナ4 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>アトラスサウンドチーム</td>
-      <td>ペルソナ4 オリジナル・サウンドトラック</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 72</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1985,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2003,7 +2004,7 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2679de647d614539beb377e0851afb14.png" alt="Cover for Tony! Toni! Tone&#39;! Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,4 +2037,4 @@ New jack swing is a fusion of R&amp;B, hip-hop, and dance-pop that emerged in th
 - [house]({{ "/tags/house" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
-- [adult contemporary]({{ "/tags/adult-contemporary" | relative_url }})
+- [dance-pop]({{ "/tags/dance-pop" | relative_url }})
