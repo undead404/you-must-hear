@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:32:46.537Z
+date: 2025-11-25T06:24:14.329Z
 permalink: tags/liverpool
 title: liverpool
 ---
 
 ## liverpool
 
-Last updated: <time datetime="2025-11-23T11:32:46.537Z">Sun Nov 23 2025 13:32:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:24:14.329Z">Tue Nov 25 2025 08:24:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -403,7 +403,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg" alt="Cover for Mexican R&#39;n&#39;B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1d679b6b979a70d37bf049e0147e2a9.png" alt="Cover for Mexican R&#39;n&#39;B" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>The Stairs</td>
@@ -639,7 +639,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td>2000</td>
@@ -1083,29 +1083,6 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2008-06-02</td>
-      <td>Earl Grey and The Legomen</td>
-      <td>Last Summer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>40</td>
       <td>
           <img src="https://i.discogs.com/32ryPVzttgjoOB2PlXZIaKOxHtSlF67_1N7bzsG9vlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ5/OTYtMTIzODE0MTMy/NC5qcGVn.jpeg" alt="Cover for The Unsettling Time EP" style="max-width:120px; height:auto;" />
@@ -1421,27 +1398,6 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td>2017-10-27</td>
-      <td>Howie Payne</td>
-      <td>Howie Payne - Demos &#39;13</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>19</td>
       <td>
           <img src="https://i.discogs.com/MGo432buWfP4TwS2A2Tmgk0Ix8A8pWf5OXHZ8ZgxfHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/OTg0LTE1MTYzMjI1/NjYtMTgwOS5qcGVn.jpeg" alt="Cover for Demos &#39;13" style="max-width:120px; height:auto;" />
@@ -1632,7 +1588,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       <td>
         <ul>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 9</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 18</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1655,18 +1611,15 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
-      <td>Row Z</td>
-      <td>Green Penny EP</td>
+      <td>Edric man</td>
+      <td>The Night Of The Pickpocket EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
         </ul>
       </td>
@@ -1676,7 +1629,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1697,7 +1650,7 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1708,6 +1661,45 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Music2Think</td>
+      <td>3R&#x3D;NOT ENOUGH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Row Z</td>
+      <td>Green Penny EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
         </ul>
       </td>
       <td>
@@ -1742,10 +1734,12 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       <td>
       </td>
       <td></td>
-      <td>Fallen Streams</td>
-      <td>Lookin&#39; Up</td>
+      <td>grace falls music</td>
+      <td>Restless</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
@@ -1760,12 +1754,10 @@ The Liverpool tag captures the distinctive musical identity of Britain&#39;s mos
       <td>
       </td>
       <td></td>
-      <td>grace falls music</td>
-      <td>Restless</td>
+      <td>Fallen Streams</td>
+      <td>Lookin&#39; Up</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>

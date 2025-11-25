@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:57:29.154Z
+date: 2025-11-25T06:25:04.408Z
 permalink: tags/folk-punk
 title: folk punk
 ---
 
 ## folk punk
 
-Last updated: <time datetime="2025-11-19T20:57:29.154Z">Wed Nov 19 2025 22:57:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:25:04.408Z">Tue Nov 25 2025 08:25:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f09719d6a2d3a9965e62251d5bc41aa6.png" alt="Cover for Violent Femmes" style="max-width:120px; height:auto;" />
       </td>
@@ -61,12 +61,12 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 70</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03ba36a19954492c830dd79f5402eac5.png" alt="Cover for Hallowed Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1988</td>
@@ -109,7 +109,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CJW5Nh3c4PJYuzeDGZE3IzyW2qqinRUfopP8Z1_JjCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI4/NDYtMTI3MDMzNTc1/NS5qcGVn.jpeg" alt="Cover for Akustycznie" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +127,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ivaMEvgsz8uGvuQoslhHKg-vZmgXWjLKVq7zs5lJBj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTU1/NDMtMTYwNDcwNTUw/My00OTI4LmpwZWc.jpeg" alt="Cover for Stay True" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +145,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47ec3e5b4cec44b6ba418b031ac1f48a.png" alt="Cover for New Times" style="max-width:120px; height:auto;" />
       </td>
@@ -183,7 +183,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001</td>
@@ -218,7 +218,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aad7f3c6056349039a2a7c578134ba83.png" alt="Cover for The Moldy Peaches" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 47</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 51</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 83</li>
         </ul>
       </td>
@@ -255,8 +255,8 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 44</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 95</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 45</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-03-05</td>
@@ -483,7 +483,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/ijfrOLFIaCKt1mxbesWZDs871OE9lAk0OWKOtK-eJDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjEz/MDAtMTMzNzcwMDkx/NC02OTE4LnBuZw.jpeg" alt="Cover for Good Old Water" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +558,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/GXd9BCrrV8COZaTYorL_CtmDyQRE_k0m9jUv-SRudqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/OTQtMTE4OTIyNTUy/MC5qcGVn.jpeg" alt="Cover for Ghost Mice &amp; Defiance, Ohio Split" style="max-width:120px; height:auto;" />
       </td>
@@ -577,6 +577,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c459cd7ca047599e85fcc47ba8d23d.png" alt="Cover for The Great Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-13</td>
       <td>Defiance, Ohio</td>
@@ -757,7 +758,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/354b804c7d1f98da3a35704e0cb36793.png" alt="Cover for Never Trust a Man Who Plays Guitar!" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +795,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6c641e6b9647f38aac39bb66ca9347.png" alt="Cover for Float" style="max-width:120px; height:auto;" />
       </td>
@@ -828,13 +829,13 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 42</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 44</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78203b27c76646b2bab48d9bbb5ea798.png" alt="Cover for For My Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +851,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 88</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +875,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a0ae7778a2d4834c875f62ce30f8989.png" alt="Cover for Skin or Swim" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +920,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/gkqQ9bi_T6dnM5YeiG0QbamGed1C7dnlQbMQg3LXanA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQ2/MTEtMTMyOTIwNDI2/My5qcGVn.jpeg" alt="Cover for Andrew Jackson Jihad and Ghost Mice Split" style="max-width:120px; height:auto;" />
       </td>
@@ -993,6 +994,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b206bbe34f2425ea9390ece213d2025.png" alt="Cover for A Rhythm in the Cages" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-01</td>
       <td>The Taxpayers</td>
@@ -1027,7 +1029,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-10-31</td>
@@ -1044,7 +1046,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ee89rC5QAU_0dv_3_BOuKwuXk-Fw5wFQTdZGDjbj3bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQ0/MjQtMTI4NDk1MjQx/MC5qcGVn.jpeg" alt="Cover for Set Ourselves Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1099,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/PNIs4O0ZjSZWsdc4L_oh2qDIFh50kj4i2NlkZlxcwTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYy/NjAtMTYwODY1MDY1/MC02NDA0LnBuZw.jpeg" alt="Cover for Wretched. Filthy. Ugly." style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1119,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b45de76b74014d8b9c49de6fd2da0035.png" alt="Cover for American Slang" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1194,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/089fe5ef6d1f4351a27e77552dd7a2fe.png" alt="Cover for Here, Under Protest" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1229,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 66</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1250,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 48</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1397,26 +1399,6 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/Ww5tvBnGOK-Ed6ULHaBZkkfzwY9Sofa0ZuR4lo4ilVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc1/NTY2LTE1Nzk0MDc4/NDItODk1OS5qcGVn.jpeg" alt="Cover for Paper Ceilings" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-08-11</td>
-      <td>Paper Ceilings</td>
-      <td>Paper Ceilings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1687,7 +1669,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8165fc922496016b13b0668b273afcc4.png" alt="Cover for First Night Back in Port" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1691,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/rDMm5uscntizD3UepZm2EPWZxD-cRlAkDWLxLdE-M-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk5/MDAwLTE1MTM3MDM1/OTUtOTg0My5qcGVn.jpeg" alt="Cover for Foreign Skies" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1709,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebbcd3e8a932afff1cd99002e1f337a2.png" alt="Cover for IX" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,13 +1746,13 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 7</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 10</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdeec00fa9f31722da445943e0d65af0.png" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,10 +1776,10 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 20</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 26</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 29</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 29</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 80</li>
         </ul>
       </td>
@@ -1840,7 +1822,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 41</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 43</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 91</li>
         </ul>
       </td>
@@ -1920,14 +1902,37 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 58</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 87</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 59</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 88</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/335dd6afbd1168cdae750b844fb70f25.png" alt="Cover for Fight Like Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-06</td>
+      <td>Johnny Hobo and the Freight Trains</td>
+      <td>Fight Like Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Imh1pJ1vOCv28sIEfqOMeU_x1K5PZ-Fa85Rq6gXRJGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDkx/NDkxLTE2NDQ0Mjgy/NzUtNzE1MC5qcGVn.jpeg" alt="Cover for fthc" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1950,7 @@ Folk punk is a subgenre of punk rock that combines the elements of folk music, s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0888089595e5e84771b4bfeac39c925.png" alt="Cover for Full Unemployment" style="max-width:120px; height:auto;" />
       </td>

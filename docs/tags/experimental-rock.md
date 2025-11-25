@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:57:16.630Z
+date: 2025-11-25T06:30:17.329Z
 permalink: tags/experimental-rock
 title: experimental rock
 ---
 
 ## experimental rock
 
-Last updated: <time datetime="2025-11-23T11:57:16.630Z">Sun Nov 23 2025 13:57:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:30:17.329Z">Tue Nov 25 2025 08:30:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>1967-05-26</td>
@@ -64,7 +64,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fcc935cdbf04a13ad66a7f21f3e4058.png" alt="Cover for White Light&#x2F;White Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -80,12 +80,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 81</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 98</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd454d7063a476c6a1e88daa73e9d2e.png" alt="Cover for Trout Mask Replica" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54d97e4f2717582c9d8f468733443a57.png" alt="Cover for Starsailor" style="max-width:120px; height:auto;" />
       </td>
@@ -127,33 +127,6 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4046d35192d1455cc5f79fc2a8fad1b4.png" alt="Cover for The Velvet Underground &amp; Nico 45th Anniversary (Deluxe Edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>The Velvet Underground</td>
-      <td>The Velvet Underground &amp; Nico 45th Anniversary (Deluxe Edition)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 79</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27ee78af83c50ce57fb163f49371a7f.png" alt="Cover for Deceit" style="max-width:120px; height:auto;" />
@@ -169,14 +142,14 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 9</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 13</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 55</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5676e5dd25840428c9784b49d538de1.png" alt="Cover for Odyshape" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +168,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6de0ae87d354c1bb73888ad317b6ac0.png" alt="Cover for Allegory &amp; Self" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +187,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a37c0ec17b34690f70e899074e423c.png" alt="Cover for 2- song" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +208,24 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65b3c821755d328067721f744760fc7.png" alt="Cover for Joe&#39;s Garage Acts I, II &amp; III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-06-17</td>
+      <td>Frank Zappa</td>
+      <td>Joe&#39;s Garage Acts I, II &amp; III</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da3687c17718278341e5d5f28a7aac74.png" alt="Cover for Daydream Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -291,13 +281,13 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 72</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 73</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f76da5e7f8895fa1de817316332a1db3.png" alt="Cover for Transient Random-Noise Bursts with Announcements" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +309,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d495e4c0fd8c418e8a1e60e1a1f3aa71.png" alt="Cover for Super Ae" style="max-width:120px; height:auto;" />
       </td>
@@ -336,13 +326,13 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 9</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 27</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 12</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9a2a85cba04c09cc93433f793d1efa.png" alt="Cover for Disco Volante" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +350,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>1996-10-22</td>
@@ -377,28 +367,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cae8dfd982ff4e7ad531e7e937e0a1a2.png" alt="Cover for Bone Church" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Slipknot</td>
-      <td>Bone Church</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/FvIIDY2rsiLI16fLbbVjTZOjUmJULFzjdIdJYwshdBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODk4/NS0xMzY0NzE3MzA0/LTMyMzYuanBlZw.jpeg" alt="Cover for Super Are" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +402,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 47</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +445,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed343318c844d19cd897ec67fad11c4.png" alt="Cover for Kid A" style="max-width:120px; height:auto;" />
       </td>
@@ -518,10 +487,10 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 16</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 52</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 71</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -542,13 +511,13 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2001-10</td>
@@ -585,7 +554,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002-07-30</td>
@@ -602,7 +571,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd757ae20efd45dfb68d8303646afa7d.png" alt="Cover for De-Loused in the Comatorium" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +590,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2003</td>
@@ -638,7 +607,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bccb4ff933044ae89a9fc879db277768.png" alt="Cover for Serart" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +640,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 25</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 26</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 63</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 79</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 90</li>
@@ -697,7 +666,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004-08-23</td>
@@ -712,7 +681,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 40</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 50</li>
         </ul>
       </td>
@@ -736,7 +705,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d7247a1ab42fda4ae8df505ebcf8b77.png" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
       </td>
@@ -753,12 +722,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 31</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 36</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102271a7f00843edc3b7c082fe831683.png" alt="Cover for Feels" style="max-width:120px; height:auto;" />
       </td>
@@ -772,7 +741,8 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 5</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
@@ -805,7 +775,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 7</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 56</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 73</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
@@ -814,7 +784,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-01-01</td>
@@ -869,7 +839,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/wJolQ5mRqDpQV4yGyKPhXFnIazkubaq_aW98aMM7mY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE0/OTYwLTE1ODY4OTk2/MjktNzY2OS5qcGVn.jpeg" alt="Cover for Devil Say I, I Say Air" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +875,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a27f98331e1647c4a2e00f62556db8b1.png" alt="Cover for HLLLYH" style="max-width:120px; height:auto;" />
       </td>
@@ -923,12 +893,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 15</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 20</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90cf26be39d24ba0cbfd13cda4cb83f5.png" alt="Cover for It&#39;s Complicated Being a Wizard" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +917,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2007-06-19</td>
@@ -965,7 +935,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a69e372ad12e4db3be61e178cbf37c8f.png" alt="Cover for Church Mouth" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +954,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2007-10-23</td>
@@ -998,12 +968,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97bb96e97d2a48ca80dd99bf9b9881fa.png" alt="Cover for INTRODUCING" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +993,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/279a1305beda45e3814e8ad2e5d7c428.png" alt="Cover for Third" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1035,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7a25d13d017475ab38ac583640a81e6.png" alt="Cover for Of Fungi And Foe" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1054,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6bf55dbfb641c4c11311a2d4661fb6.png" alt="Cover for Marry Me Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -1104,7 +1074,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2009-08-18</td>
@@ -1121,7 +1091,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d11696e67646b08f36001d635b2551.png" alt="Cover for Embryonic" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1109,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/747f953fa366499b9f5d89b41f21991a.png" alt="Cover for Logos" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,7 +1134,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2009-12-01</td>
@@ -1181,7 +1151,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f24d58324a894fb3802201a3eebfa755.png" alt="Cover for B-Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1200,7 +1170,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7efa5dcd548c448bc4a9b3f5a40887b5.png" alt="Cover for Space Oddity [Space Oddity 40th Anniversary Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1197,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/afb7e3a147674812de61cf82fcee4308.png" alt="Cover for My Father Will Guide Me Up a Rope to the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1236,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a39260ae06698f19b6e7a3e39e41b9e8.png" alt="Cover for Violet Cries" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,14 +1258,14 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 7</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47f0408a925403cbea2564add58000f.png" alt="Cover for The King of Limbs" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1280,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 79</li>
         </ul>
       </td>
@@ -1337,7 +1307,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>2011-06-05</td>
@@ -1355,7 +1325,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2011-06-06</td>
@@ -1364,6 +1334,25 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4cc8708358bbf2587991f68d6481155.png" alt="Cover for Look Up There" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-17</td>
+      <td>Buckethead</td>
+      <td>Look Up There</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -1410,7 +1399,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f52f7f108a68118e6825d57d4421612d.png" alt="Cover for All Hail Bright Futures (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1440,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013-08-20</td>
@@ -1488,12 +1477,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 91</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80d35fa5353f48a6c84c2b7b05687f87.png" alt="Cover for Enclosure" style="max-width:120px; height:auto;" />
       </td>
@@ -1530,7 +1519,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2014-10-24</td>
@@ -1550,7 +1539,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85394c92f6819bb4a64719497909b920.png" alt="Cover for The Velvet Underground &amp; Nico 45th Anniversary (Super Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1576,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/MA4ZEv96Jvz3jIbNepPEKj8d5oXvhAVawEf_0_DEOgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzU2/MTQtMTQ1ODQ1NzQy/OS0zNjkxLmpwZWc.jpeg" alt="Cover for Feelin Kinda Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1617,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6d70865d5a44a90d5abd05626e6feb.png" alt="Cover for Monolith of Phobos" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1635,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cced9669d6650c5ffc303ff5f6177a79.png" alt="Cover for The Glowing Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1665,7 +1654,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/C2hmpO4E0zkVSU4rzbL8CiQWfQagTbprWbvXWzsiQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIz/MTc0LTE2NDAyOTE5/MzUtNTYxMi5qcGVn.jpeg" alt="Cover for Summer Came Early" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1674,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09bab634deffda398be3d01b9257245.png" alt="Cover for Virtue" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1695,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17101ec892cf0dd4d09bef752c3015e1.png" alt="Cover for Year of the Snitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,19 +1708,17 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 55</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36adb5886e230e682c0f8368dd1c040c.png" alt="Cover for The Devil-Faces of My Old Friends, Beneath Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1731,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 9</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
@@ -1828,7 +1815,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce2d6dd01b3da42dde99ffc71caad20d.png" alt="Cover for Where the Spirits Are" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,14 +1862,14 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 20</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0cf19b27ff6d437953f585139ff4d2b.png" alt="Cover for Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,7 +1910,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe885751feb1c4604da79662aa51a52.png" alt="Cover for the truth about hatsune miku" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1958,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2071e1c56dabb0399dfd286e2e2d2c5.png" alt="Cover for Roaches 2012-2019" style="max-width:120px; height:auto;" />
       </td>
@@ -1996,7 +1983,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/jyGZ2zPy8wdSCErgCdGk7lepiNE8X9h_pH9VgmyI4VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY1/ODU2LTE2NDkyNjc1/NTctMjAzOC5qcGVn.jpeg" alt="Cover for Fear Of The Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +1998,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 17</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2024,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c653c492fb016280579f487bf8caa2f.png" alt="Cover for Just Got Back from the Discomfort We&#39;re Alright" style="max-width:120px; height:auto;" />
       </td>
@@ -2050,12 +2037,12 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 43</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49cd75fcaee1f8280a88cb4dd4ada0d3.png" alt="Cover for O Monolith" style="max-width:120px; height:auto;" />
       </td>
@@ -2073,7 +2060,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fee759e8d2adbc4bb38c0e59c961a9d.png" alt="Cover for The Lamb as Effigy" style="max-width:120px; height:auto;" />
       </td>
@@ -2089,7 +2076,7 @@ Experimental rock is a subgenre of rock music that emphasizes challenging and un
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 18</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 19</li>
         </ul>
       </td>
     </tr>
