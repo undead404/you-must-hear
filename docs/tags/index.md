@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-25T13:19:56.581Z
+date: 2025-11-25T13:23:28.372Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-25T13:19:56.581Z">Tue Nov 25 2025 15:19:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:23:28.372Z">Tue Nov 25 2025 15:23:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-11-25T13:23:28.372Z">Tue Nov 25 2025 15:23:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [experimental pop]({{ "tags/experimental-pop" | relative_url }}) | <time datetime="2025-11-25T13:19:56.581Z">Tue Nov 25 2025 15:19:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metalcore]({{ "tags/christian-metalcore" | relative_url }}) | <time datetime="2025-11-25T13:19:33.632Z">Tue Nov 25 2025 15:19:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-rock]({{ "tags/j-rock" | relative_url }}) | <time datetime="2025-11-25T13:19:19.876Z">Tue Nov 25 2025 15:19:19 GMT+0200 (Eastern European Standard Time)</time> |
@@ -480,7 +481,6 @@ Last updated: <time datetime="2025-11-25T13:19:56.581Z">Tue Nov 25 2025 15:19:56
 | [frenchcore]({{ "tags/frenchcore" | relative_url }}) | <time datetime="2025-11-22T18:13:17.674Z">Sat Nov 22 2025 20:13:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [harsh noise]({{ "tags/harsh-noise" | relative_url }}) | <time datetime="2025-11-22T17:13:09.024Z">Sat Nov 22 2025 19:13:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [future garage]({{ "tags/future-garage" | relative_url }}) | <time datetime="2025-11-22T17:09:38.045Z">Sat Nov 22 2025 19:09:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-11-22T17:06:57.126Z">Sat Nov 22 2025 19:06:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-11-22T17:06:51.354Z">Sat Nov 22 2025 19:06:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [piano trio]({{ "tags/piano-trio" | relative_url }}) | <time datetime="2025-11-22T17:05:27.391Z">Sat Nov 22 2025 19:05:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-22T17:00:17.245Z">Sat Nov 22 2025 19:00:17 GMT+0200 (Eastern European Standard Time)</time> |
