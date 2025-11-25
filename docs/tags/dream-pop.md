@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:11:43.559Z
+date: 2025-11-24T18:50:38.539Z
 permalink: tags/dream-pop
 title: dream pop
 ---
 
 ## dream pop
 
-Last updated: <time datetime="2025-11-23T10:11:43.559Z">Sun Nov 23 2025 12:11:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T18:50:38.539Z">Mon Nov 24 2025 20:50:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,8 +105,8 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 36</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 36</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 21</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
         </ul>
       </td>
@@ -180,7 +180,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 60</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 86</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +334,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 26</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -378,9 +378,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 38</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 44</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 63</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 89</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -435,13 +435,13 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 26</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 61</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 28</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg" alt="Cover for Velocity: design: comfort." style="max-width:120px; height:auto;" />
       </td>
@@ -460,8 +460,8 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 23</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 73</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
@@ -524,12 +524,12 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 67</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
@@ -549,8 +549,8 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 4</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 41</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -652,9 +652,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 36</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 47</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 55</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +729,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 73</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 81</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +774,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
     <tr>
       <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b92b7d58d108cd7a8c18b78f5433a.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Lana Del Rey</td>
@@ -788,14 +788,14 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
@@ -821,7 +821,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 99</li>
@@ -863,9 +863,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 28</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 47</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +903,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -942,9 +942,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 24</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 62</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 92</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 93</li>
         </ul>
@@ -966,7 +966,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 2</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 51</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 75</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 97</li>
@@ -974,7 +974,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64a2b18a981d4932c90db96276fdf922.png" alt="Cover for Warpaint" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +989,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1016,10 +1016,10 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 18</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 52</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 59</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 68</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
@@ -1060,9 +1060,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 9</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 53</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 53</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 94</li>
         </ul>
@@ -1087,7 +1087,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/XIYFPvXwxQFDXhGTGW5x2tuqLAxTwRTSaILo3WCHEwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODAx/NzAtMTQyNjQ2MjEw/My00Mzk0LmpwZWc.jpeg" alt="Cover for Abyss" style="max-width:120px; height:auto;" />
       </td>
@@ -1212,15 +1212,15 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1422,7 +1422,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
         </ul>
       </td>
@@ -1447,7 +1447,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddcd302460e40f7719e901e469b84375.png" alt="Cover for Sundays" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,34 +1465,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7923448319ef855ae414a624ea5db12f.png" alt="Cover for Mariners Apartment Complex" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-09-12</td>
-      <td>Lana Del Rey</td>
-      <td>Mariners Apartment Complex</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 4</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 88</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 91</li>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 92</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdd5ff26e7ad06cab7b2b82b2dc6f533.png" alt="Cover for soul on fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1507,7 +1480,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1530,15 +1503,15 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 99</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 99</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/401ac753d56ca9d2f75a9f341d684b84.png" alt="Cover for Violeta" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,7 +1544,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 75</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1677,11 +1650,11 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 15</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 92</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 99</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1723,9 +1696,9 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 38</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 89</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1723,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda1fe1948b1afab36686c743a65b232.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,8 +1738,8 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 70</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 93</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
@@ -1849,7 +1822,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 4</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 53</li>
         </ul>
       </td>
@@ -1954,7 +1927,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/q2lgRMJRjwZbnfChDZxvdJXpSyhUYnuSX6EW61XAXa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzU3/MDc1LTE2OTUzNTM2/OTktNjk2MC5qcGVn.jpeg" alt="Cover for softscars" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,7 +1943,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1971,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97796f18fc02629e8908a78b0466b96a.png" alt="Cover for Four-Calendar Café" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,7 +2007,46 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e743d15abfa1e73d76f322e735c68d6.png" alt="Cover for EP III" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Yumi Zouma</td>
+      <td>EP III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9239fb24edb2a8eb603817fcbe858b0b.png" alt="Cover for Become" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Beach House</td>
+      <td>Become</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48afb68d4d17a1230f062ec361d4d73c.png" alt="Cover for Sick Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2065,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2070,7 +2082,7 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eab63664906b65c15f0898892a2d02c.png" alt="Cover for Ring of Past" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,26 +2092,6 @@ Dream pop is an atmospheric subgenre of alternative rock characterized by ethere
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e743d15abfa1e73d76f322e735c68d6.png" alt="Cover for EP III" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Yumi Zouma</td>
-      <td>EP III</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>

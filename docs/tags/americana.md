@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:09:23.455Z
+date: 2025-11-24T18:36:38.398Z
 permalink: tags/americana
 title: americana
 ---
 
 ## americana
 
-Last updated: <time datetime="2025-11-23T10:09:23.455Z">Sun Nov 23 2025 12:09:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T18:36:38.398Z">Mon Nov 24 2025 20:36:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -149,7 +149,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 38</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 39</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 92</li>
         </ul>
       </td>
@@ -175,7 +175,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a35e097f10440738c2c9c80701dc33a.png" alt="Cover for Fuzzy" style="max-width:120px; height:auto;" />
       </td>
@@ -208,7 +208,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 22</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -232,8 +232,8 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 10</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 14</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 16</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 74</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 95</li>
@@ -256,12 +256,12 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 17</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/717391651cac4b90e3683dcea42eb896.png" alt="Cover for Strangers Almanac" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +276,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 6</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 95</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 63</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 92</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -433,7 +433,7 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/throwaway-grrls" | relative_url }}">throwaway grrls</a> # 26</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 33</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -452,7 +452,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 93</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +490,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 40</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +546,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 87</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 88</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 100</li>
         </ul>
       </td>
@@ -567,7 +567,7 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 14</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 40</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -586,12 +586,13 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 1</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a80eefdad32a45b58ba65aeba1cba1f1.png" alt="Cover for Cathedral" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +616,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf5dec80a584a93af16275d782c7cd0.png" alt="Cover for The Tigers Have Spoken" style="max-width:120px; height:auto;" />
       </td>
@@ -633,7 +634,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/WkODB1lIDedPJFe4ViiOFWaQiWhoCcThAImiA00uNu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk0/OS0xMTQ1NjAwNDI0/LmpwZWc.jpeg" alt="Cover for Tigers Have Spoken" style="max-width:120px; height:auto;" />
       </td>
@@ -669,7 +670,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e201f61f0ca473a5209732080a0a82.png" alt="Cover for 29" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +743,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 11</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -762,11 +763,11 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 28</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 35</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 47</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 59</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 75</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 81</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 94</li>
         </ul>
@@ -887,7 +888,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 82</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 83</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 97</li>
         </ul>
       </td>
@@ -929,12 +930,12 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 27</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/258aca0f00c342ce97469832f4310c35.png" alt="Cover for Sometimes I Wish We Were an Eagle" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +951,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 55</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +969,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 81</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1009,7 +1010,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 5</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 9</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 99</li>
         </ul>
       </td>
@@ -1048,12 +1049,12 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 58</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10011c269aa34ac599b6f8ceacf39a3f.png" alt="Cover for Harlem River Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1069,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 52</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1094,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02c58b0d8851bcfae21a13e16bb06349.png" alt="Cover for The Harrow &amp; The Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -1107,7 +1108,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 71</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1130,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 84</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1211,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 80</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 81</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 98</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 99</li>
         </ul>
@@ -1235,7 +1236,27 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fc91d029a2145a680f4f269d72c41c7.png" alt="Cover for The Carpenter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-11</td>
+      <td>The Avett Brothers</td>
+      <td>The Carpenter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 25</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/a1PXW7kB70NApmW_N8bEyxW1wZK447AQtlMzIl-OJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE3/NTUtMTQxOTY0NTIw/NC0xODc3LmpwZWc.jpeg" alt="Cover for Ashkelon" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1274,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a7c2f172b544e4c4cd0291306ad472.png" alt="Cover for Muchacho" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1334,7 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 57</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 60</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
         </ul>
@@ -1341,14 +1362,14 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 46</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 87</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 48</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 88</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/mdU0lnINPjRuY4k7ywaM-8xz-WlYk1dXqaAx_O_wHR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODU1/NDctMTM4NDMzNjEw/OS0xODUzLmpwZWc.jpeg" alt="Cover for Boy From The North" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1404,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1466,8 +1487,8 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 100</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 100</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1527,7 @@ Americana music is a genre that incorporates elements of various American roots 
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 24</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 74</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 77</li>
             <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 91</li>
         </ul>
       </td>
@@ -1586,7 +1607,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 6</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1609,8 +1630,8 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 57</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 75</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 78</li>
             <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 100</li>
         </ul>
       </td>
@@ -1658,14 +1679,14 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 67</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 93</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 70</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 94</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/720f877c0e5be8dc558df5fc0dd7a4b8.png" alt="Cover for You Don&#39;t Own Me Anymore" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1702,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1722,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1742,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 25</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1757,12 +1778,12 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 46</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa529495dce44d3ecdc9e7ef7f8f9db7.png" alt="Cover for Fox Confessor Brings The Flood (Bonus Track Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,8 +1800,8 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 49</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 88</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1856,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c85d3ee0d946a1c24cea5ac9f565590a.png" alt="Cover for Like I Used To" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,16 +1890,16 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 65</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 70</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 72</li>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d348149e32fe9aed48276582cc6560.png" alt="Cover for In These Silent Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,8 +1933,8 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 75</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 84</li>
         </ul>
       </td>
@@ -1962,9 +1983,9 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 66</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 80</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 90</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 91</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
         </ul>
@@ -2008,7 +2029,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 88</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 90</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 100</li>
         </ul>
       </td>
@@ -2053,28 +2074,7 @@ Americana music is a genre that incorporates elements of various American roots 
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e52e66d4d0b57228614c201e5ca6dd7.png" alt="Cover for Deeper Well" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-03-15</td>
-      <td>Kacey Musgraves</td>
-      <td>Deeper Well</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 87</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1620f1f0cc169887c498ac78153e41ea.png" alt="Cover for Imaginary Man" style="max-width:120px; height:auto;" />
       </td>
