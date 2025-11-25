@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:15:30.658Z
+date: 2025-11-24T20:15:38.491Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-23T10:15:30.658Z">Sun Nov 23 2025 12:15:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T20:15:38.491Z">Mon Nov 24 2025 22:15:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/PPoEnbJ9hUmE96mvY66zOaANWx7SMHbA8Dwvmw7vVRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY3/NzQzLTE2MDI4NTk1/MjUtOTg0My5wbmc.jpeg" alt="Cover for Strauss: Wiener Walzer" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +567,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/xertLf67V02AkVDaJJZNxkt-1tDuBrUwUlequmaERt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTk1/OC0xNTI0NTg1OTIx/LTkyNDYuanBlZw.jpeg" alt="Cover for Donnie Darko (Soundtrack &amp; Score)" style="max-width:120px; height:auto;" />
       </td>
@@ -730,7 +730,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/162f1327b183a8f020fed9a1ae9bae01.png" alt="Cover for Shostakovich: The Jazz Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1068,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/h5rNdLbLbcbz1BlqOifnA5LtH6cHKQNG-7pt9iLiVgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk0/NDYwLTE2NjIxNTYy/OTMtNzAzNi5qcGVn.jpeg" alt="Cover for Twist is the New Twerk" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,17 +1209,15 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/-4Xw5rlvTz3nC7_OPgH59N_gTCzNuh32r2DezXhCMo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI1/NzIxLTE1NTU4NjM2/MjktMTM2Ny5qcGVn.jpeg" alt="Cover for meringue doll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ede029ac101693492373b7295fc29ed.png" alt="Cover for meringue doll" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-24</td>
       <td>Ichiko Aoba</td>
       <td>meringue doll</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
       <td>
@@ -1490,16 +1488,10 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       <td>
       </td>
       <td></td>
-      <td>Florian Behnsen</td>
-      <td>At the end of the world</td>
+      <td>Larrysmusic</td>
+      <td>Electric Accordion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -2079,7 +2071,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>
