@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T15:42:41.246Z
+date: 2025-11-25T12:37:10.252Z
 permalink: tags/bitcore
 title: bitcore
 ---
 
 ## bitcore
 
-Last updated: <time datetime="2025-10-24T15:42:41.246Z">Fri Oct 24 2025 18:42:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-25T12:37:10.252Z">Tue Nov 25 2025 14:37:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
   </thead>
   <tbody>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/0jrNdCWSmynAU1hhmXMFiiU2BkJFxt77P2PxEL1Mcd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDA4/MjktMTQ3MzczNTcw/OS03MTAyLmpwZWc.jpeg" alt="Cover for GameBoy Variations (Hell Yes Remix) - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -76,7 +76,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Weezer - The 8-bit Album" style="max-width:120px; height:auto;" />
       </td>
@@ -95,7 +95,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 22</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 25</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 79</li>
         </ul>
       </td>
@@ -103,7 +103,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/zzxMl6XlGoU4d_KGPzvIH54_QrrU5tVMXLvFGkP3EaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/NzItMTU5MzU5MTgz/NC0zMzcyLnBuZw.jpeg" alt="Cover for I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7b906960be3b55c9fe8dfec1abff19.png" alt="Cover for I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09</td>
       <td>HORSE the band</td>
@@ -121,14 +121,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 3</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 56</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d1fe085cb4b3568019a7612c1507e1.png" alt="Cover for Beautiful Songs by Men" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-09</td>
       <td>HORSE the band</td>
@@ -145,14 +146,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 42</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 43</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a75a24fe3bcd2a8df53a085b1b7641.png" alt="Cover for Eep! an EP!" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Math the Band</td>
@@ -172,14 +174,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg" alt="Cover for Big Money Cybergrind - Compilation, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/246f5c6a680cc8285e8dbbea5986369d.png" alt="Cover for Big Money Cybergrind - Compilation, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
@@ -194,8 +196,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f6618c34a0fc957774a0265e4526a5d.png" alt="Cover for Math the Band and the Secret of Mystery Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Math the Band</td>
@@ -220,9 +223,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/8h9RaixUk5rzwNqrblk5ajLlM-Vd7uLcWPn-DgVsC5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQz/NDgzLTE2NjAwMTU1/NjgtNjY0My5qcGVn.jpeg" alt="Cover for Megaman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e0e423d676b4d7fe708961ab2f413c6.png" alt="Cover for Megaman" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Psychostick</td>
@@ -242,9 +245,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/u3PyogxLnQtDhqNu2xLC5RPoG4ZUO150E7irJJ8VWvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEw/NzIwLTE1MDI4NTky/NTItODM0OS5wbmc.jpeg" alt="Cover for All Good Things, All In Good Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4fc6615318641e19f6738ba15b53c1e.png" alt="Cover for All Good Things, All In Good Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Math the Band</td>
@@ -259,7 +262,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/OvXlx_LXdkTKtnOS7kQHIX26SHE2B7T5qoLIN_Jzyvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU1/Ny0xNTA5NzMwNDIx/LTMyNzEuanBlZw.jpeg" alt="Cover for GameBoy Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -285,9 +288,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/jnH5y-AiLh05Dx39iu0f9pincCPV5g9I074fSewimVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTA4/MjktMTM5NTUxOTkz/NS0yMTIxLmpwZWc.jpeg" alt="Cover for The Land Before Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ee3c74ef3fa796574c3135013c08fe2.png" alt="Cover for The Land Before Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Fizzy DINo POp</td>
@@ -309,8 +312,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb73722815174e7cb30e5934645d14ae.png" alt="Cover for As The World Fades" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>As the world fades</td>
@@ -327,14 +331,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 1</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/QGgxEi26P3Eba9COceO3uI4vnB82e5pHyF3-oJjCv90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkw/OTQyLTE2NDYyNDQ5/NjYtNzc1OS5qcGVn.jpeg" alt="Cover for Covers EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/789f84dee4a3329931498756fccf3c66.png" alt="Cover for Covers EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Math the Band</td>
@@ -349,7 +353,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -376,13 +380,13 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 17</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/vYZN2aMGrbA_zL8Ks9WOEbg8J7bszJ6z4NZpmzU5Myc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODIw/MzItMTQzMDkzNzIx/Mi03MTMzLmpwZWc.jpeg" alt="Cover for Look At Me, I&#39;m A Breakdancing Dinosaur" style="max-width:120px; height:auto;" />
       </td>
@@ -396,8 +400,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 10</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 13</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 18</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 14</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +425,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 36</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 38</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 73</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 78</li>
         </ul>
@@ -450,15 +454,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 20</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/u8Ps4_Z95kpdBDrsJguYx58cj7TEo_F1aLCDkXQ48hE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcw/NDI3LTE2NTIxMjYz/MjctNDI0MS5wbmc.jpeg" alt="Cover for Unreleased Fagsongs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d326632cc14f5e22e9d5712706f418.png" alt="Cover for Unreleased Fagsongs" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>iamerror</td>
@@ -478,15 +482,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 6</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 12</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/kZoK5gwND-2DBqKlFhZUgGZ5uChMaAWHyMK5QGQ2Efs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTA4/MTAtMTM2Njk0Mjc1/OC02OTU1LmpwZWc.jpeg" alt="Cover for too elite to delete" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98261e44dd7baae490a5a707db6c1558.png" alt="Cover for too elite to delete" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Fizzy DINo POp</td>
@@ -505,7 +509,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2008-03-13</td>
@@ -522,13 +526,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 4</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f79b06660ce632d98cb9af47f67534.png" alt="Cover for Arcade" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-16</td>
       <td>Machinae Supremacy</td>
@@ -545,14 +551,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 33</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 37</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bb9774af1b14d4d19eaecf68cf7635d.png" alt="Cover for Banned the Math" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-11</td>
       <td>Math the Band</td>
@@ -572,7 +579,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/EmxFemASHTlPpIi51_1vaPYj1eqPKTFoc7lveRhKCJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTg3/OTMtMTM5NDk0NDcy/OC04MzkzLmpwZWc.jpeg" alt="Cover for Homo History (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +600,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg" alt="Cover for Kitsuné: Inner City Angst" style="max-width:120px; height:auto;" />
       </td>
@@ -611,14 +618,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 12</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 66</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2008-12-04</td>
@@ -637,12 +644,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 2</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2008-12</td>
@@ -658,7 +665,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/dpAG4h8_V4nzO3rpn0p5e-rh5EHFbp2jm2DnRUHXSQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzgw/OTYtMTM3MTk3MDEz/OS0zNDM2LmpwZWc.jpeg" alt="Cover for Instrumental" style="max-width:120px; height:auto;" />
       </td>
@@ -684,9 +691,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
-          <img src="https://i.discogs.com/EmxFemASHTlPpIi51_1vaPYj1eqPKTFoc7lveRhKCJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTg3/OTMtMTM5NDk0NDcy/OC04MzkzLmpwZWc.jpeg" alt="Cover for Demo &#39;08" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5af6fc13f85143e0bb8049b31f5d8df9.png" alt="Cover for Demo &#39;08" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>iamerror</td>
@@ -702,14 +709,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 34</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/ISOqGpD6_oxdLODRkw9OQeOMv0rki2OUFsI4PwihQYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzA1/NjktMTI5NTUzMzAx/My5qcGVn.jpeg" alt="Cover for Desperate Living (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc132d3b83e1456dc56e3c183a4cae43.png" alt="Cover for Desperate Living (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>HORSE the band</td>
@@ -727,14 +734,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 52</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Ax9n1Lza3z28PZlTlmSW1eT3TpMccdsCy8VI7zZmDSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk5/MTg0LTE2NzQ4MDEw/NjUtNDIxMy5qcGVn.jpeg" alt="Cover for Ninstramentalism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a4b484ac764498d8fcdbf532ff1ae63.png" alt="Cover for Ninstramentalism" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>I Shot The Duck Hunt Dog</td>
@@ -753,13 +760,13 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 53</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/mehsQsYDl-MS2JeBcaWT8BPkz0mEKNy0f4Of_H71sBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMx/NzQtMTY0MjIxMzgw/OS00OTk4LnBuZw.jpeg" alt="Cover for Tour de Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +790,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Jhgt_qPSaNBidTAAEL98x9iDKIblx1V-5rGFbY4M2Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk5/MjUwLTE2NzQ4MDE4/ODAtNjExNy5qcGVn.jpeg" alt="Cover for For Humanity" style="max-width:120px; height:auto;" />
       </td>
@@ -806,9 +813,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Let&#39;s do our Best!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79592851f628a1abf16b46e30fbbf832.png" alt="Cover for Let&#39;s do our Best!" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -829,7 +836,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/9cm6IperYLIYCPBx97bejnptlM2RtXOyNpUcrDzlNeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgw/NzktMTI0NDAyMzc0/Ni5qcGVn.jpeg" alt="Cover for Shapeshift" style="max-width:120px; height:auto;" />
       </td>
@@ -849,12 +856,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 30</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efb51c03bdf4cf016cff0a7663dc5163.png" alt="Cover for There Will Be Bears" style="max-width:120px; height:auto;" />
       </td>
@@ -876,14 +883,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 7</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/umVUYmlOLPSLl-pwg6yiKc_yWWmXflymD7S8m6rjYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM3/MjgtMTMwODQ0Nzg0/Ny5wbmc.jpeg" alt="Cover for Kid, Just Letting You Know We Are Doing It Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e328606823c8487fa1bf1693b8ad604f.png" alt="Cover for Kid, Just Letting You Know We Are Doing It Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>FUCKING WEREWOLF ASSO</td>
@@ -920,6 +927,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45de5b3b6d4f4f5c8b1c59f414bce86a.png" alt="Cover for Airbrushed" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-15</td>
       <td>Anamanaguchi</td>
@@ -937,8 +945,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 92</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
         </ul>
@@ -947,6 +955,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4cd5c808f097a715cbfdf7790f3b707.png" alt="Cover for My Skateboard Will Go On" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-30</td>
       <td>Anamanaguchi</td>
@@ -963,14 +972,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 88</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/UeckZFQZ1AWR_2t4fekfimUtcAK2RP4mPIIg8TRo-7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE4/OTUtMTI4ODAzNTQx/OC5qcGVn.jpeg" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
       </td>
@@ -989,14 +998,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 33</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/Rx55CK8Ema5iOCAcxIkTK4UrZ-4SGZFmUiOsP27vNEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzg4/NzE2LTE2NDI1MTc3/NDgtNjg1OS5qcGVn.jpeg" alt="Cover for Interconnected" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d51ce92698b7785fd7fe331001fe9e5.png" alt="Cover for Interconnected" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-24</td>
       <td>Dinotrax</td>
@@ -1015,7 +1024,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/1YbOyAzpbwoSyFn-CBngCz23jqK9PpYicLGdo7bfv1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/Njg2LTE2MDY1MDIw/MjEtNTgxNS5wbmc.jpeg" alt="Cover for My Balls (Rock Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,13 +1042,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 26</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6514a7b99e3b43b4aa28dbe65e956ad2.png" alt="Cover for The Future Of Law Enforcement" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Moshing Samurai</td>
@@ -1061,7 +1071,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9eb93c8d8c34333be225a3130fe6f34.png" alt="Cover for NITTIOTREMO" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,9 +1092,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/B8nmLtvkePSfbF83nicCPc4Iy82wVUClrL8oE6GRx8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTMx/NTMtMTMwNjk4NjU3/NS5wbmc.jpeg" alt="Cover for Best Swishes! Thanks a Dunks!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f027a265cc146efaf906e9f821876d4.png" alt="Cover for Best Swishes! Thanks a Dunks!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-02</td>
       <td>Math the Band</td>
@@ -1106,29 +1116,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td>2012-03-04</td>
-      <td>Anamanaguchi</td>
-      <td>Single + Remix Collections</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/410999b7a8698b96af29bf51c6f60c9e.png" alt="Cover for Get Real" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-20</td>
       <td>Math the Band</td>
@@ -1145,16 +1135,16 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 39</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 43</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 44</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/jeVAcn5x9sv6Gd0M4_1METqpsoEarYdaPk80NMT-CW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODkz/NzI5LTE2Mzc2ODQy/NjQtMzA5Ny5qcGVn.jpeg" alt="Cover for Rearranging Patterns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/697f501cbc3a4d5e88b1bb8f12533f42.png" alt="Cover for Rearranging Patterns" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-28</td>
       <td>Dinotrax</td>
@@ -1173,12 +1163,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 5</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Gvm4A3JUyjX4dF60kHQKXdYsl9ClmYT3qqLgniCdgYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODI4/NjYtMTQxNTUzNTcx/OC04ODg3LmpwZWc.jpeg" alt="Cover for Get Olde Second Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -1202,8 +1192,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/242d3769926a41ffc15fcb9f3ad33b7a.png" alt="Cover for Stupid and Weird" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-04</td>
       <td>Math the Band</td>
@@ -1220,14 +1211,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 36</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/5MBsKitWQiiXoWSGFkEIFPLkRQv1EZ7jX71yQAb0hrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTc5/MDEtMTQxODIzODY3/Ni0xNDkwLmpwZWc.jpeg" alt="Cover for The Geeks Will Inherit the Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa9eca6308ba426789981eb365e9b29f.png" alt="Cover for The Geeks Will Inherit the Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-09</td>
       <td>I Fight Dragons</td>
@@ -1247,7 +1238,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg" alt="Cover for Meow - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,14 +1261,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 49</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 63</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 68</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/lWaIIZkNfSc360Rt9g0kUb6wnyveKtE5Jf9P86drh4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIw/OTAyLTE2MzcxODY1/NDMtOTk2MC5qcGVn.jpeg" alt="Cover for Hopes and Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,15 +1285,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Ry1n3_loo4wiZaEyBBi1KR_l88ICmF08wgOO5ncDNu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MzE5LTE1MTM4Mzc0/NTgtODQ4Ni5qcGVn.jpeg" alt="Cover for KAWAII!!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88a0d7b02a912505759626ef29f66404.png" alt="Cover for KAWAII!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-26</td>
       <td>Heptaedium</td>
@@ -1323,7 +1314,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/AIguxXWMXv_KioVrvokZ3FRQNmjVP5BN-DMEDQsflco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjM4/NzEtMTQ4NzU4NTUx/NS04MDQ1LmpwZWc.jpeg" alt="Cover for he&#39;s not with us anymore" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,14 +1332,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/AIguxXWMXv_KioVrvokZ3FRQNmjVP5BN-DMEDQsflco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjM4/NzEtMTQ4NzU4NTUx/NS04MDQ1LmpwZWc.jpeg" alt="Cover for he&#39;s not with us anymore." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88995da428b93f0df6d57a8382c75fd3.png" alt="Cover for he&#39;s not with us anymore." style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-01</td>
       <td>casio dad</td>
@@ -1364,9 +1355,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/AiQTKflHkAOihuQGC9CcQKYManWeInedpnjT7Xd4kT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTM1/NDctMTQ1NzI2ODAw/My0yMTc1LmpwZWc.jpeg" alt="Cover for Underground Business" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/baf6efcefd6d029e5b836dd6baa2e3c4.png" alt="Cover for Underground Business" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-06</td>
       <td>Heptaedium</td>
@@ -1387,9 +1378,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/O8zGVIpBJvwaykfYnFOVwiAwZ3lKTIM1GYcGNKTx-7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA1/NjU2LTE0OTE3MDEy/OTQtNTczMS5wbmc.jpeg" alt="Cover for Good Talk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2733ad1d83765d906fcf80b7553dcbb.png" alt="Cover for Good Talk" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-12</td>
       <td>(T-T)b</td>
@@ -1414,7 +1405,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/LWAMpmEXi3zUfr5nKPuFhwpFz5vbv1zAPKT5E7EUAP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/NDY0LTE1MTk1MDkw/OTQtOTkzNS5qcGVn.jpeg" alt="Cover for Error37" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c605e7745619400120dbe2fe201c3859.png" alt="Cover for Error37" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-24</td>
       <td>Error37</td>
@@ -1432,14 +1423,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 42</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 46</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 81</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 83</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/LWAMpmEXi3zUfr5nKPuFhwpFz5vbv1zAPKT5E7EUAP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/NDY0LTE1MTk1MDkw/OTQtOTkzNS5qcGVn.jpeg" alt="Cover for Error37 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,9 +1453,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/0aXEX5CDHXVW8FQoyN6gkASG8JWtZfnmDf4F8kjaQpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU2/NjY0LTE1MDE4MDgx/OTYtOTg5OS5qcGVn.jpeg" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a94ca4bb86182c7874f31088ce1578.png" alt="Cover for Kawaii" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08</td>
       <td>Weekly Words and Grammar</td>
@@ -1481,12 +1472,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 14</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f365296b3142191bc78e871b9cc42864.png" alt="Cover for Slimy Quagmire" style="max-width:120px; height:auto;" />
       </td>
@@ -1508,9 +1499,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/4sPqm3H5oP0HVneKCbtcxTA-4SvK6rXhsy8OxBe1OiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/Mjg1LTE1MzcwMTY2/MTMtMTUyMC5qcGVn.jpeg" alt="Cover for From One Castle To The Next (Demo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f572dde120bbcd8babd483122d2b614.png" alt="Cover for From One Castle To The Next (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-18</td>
       <td>Error37</td>
@@ -1527,14 +1518,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/4sPqm3H5oP0HVneKCbtcxTA-4SvK6rXhsy8OxBe1OiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/Mjg1LTE1MzcwMTY2/MTMtMTUyMC5qcGVn.jpeg" alt="Cover for Succ My Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90d3706fd168df34044930f7c5b69349.png" alt="Cover for Succ My Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-18</td>
       <td>Error37</td>
@@ -1552,12 +1543,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 50</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/BIG3sT3jTVB0HvrmoNV6CZ-bw-RcKrUGM82lXBNqhHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg3/ODg3LTE1NDU5NjE2/OTAtODMwMS5qcGVn.jpeg" alt="Cover for Super Gwario Kart" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1573,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/NCoStth4lA7Dfa0FEISsG8QfgbhY1Usbqwm1QlZdlQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzcx/MTIzLTE2OTAyMTU5/MDQtMTkzMS5wbmc.jpeg" alt="Cover for Time Trials Plus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4fb3c0f541b03db0ee197a0e5a22fcb.png" alt="Cover for Time Trials Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-25</td>
       <td>Hyper Potions</td>
@@ -1600,14 +1591,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 42</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/w7Bo6di2mbWXwzSQb3msSzx1aZr-L6X0k_oCEQWTuTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/NzE3LTE1Mzk0Nzgw/MDMtODQ5OS5qcGVn.jpeg" alt="Cover for Bear-sides" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b86ac85d60e487ec81a7d22114c5daf.png" alt="Cover for Bear-sides" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Abandoned By Bears</td>
@@ -1626,15 +1617,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 23</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 41</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 25</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/9HOmi75PHVuSHAvi4Q_n9IdNxoON5gHnljaTG-Xwlx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY5/NjUxLTE2ODMxODY2/OTUtNzMxNS5qcGVn.jpeg" alt="Cover for L&#39;appel du vide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea02e00727a6e0e448a3d9ff512afbbe.png" alt="Cover for L&#39;appel du vide" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-20</td>
       <td>Raccoon City Massacre</td>
@@ -1652,12 +1643,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/23pCqwo6LMdpl7y_l45YOxKXOvKZ2GpEJMzRULim7oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcy/MzcyLTE2MTY3ODIy/ODEtMTgxOC5qcGVn.jpeg" alt="Cover for Those Creatures from Ganon are Pretty Bad" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,9 +1672,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/LyK3NJoTpJDmMzBBuFE-kIdmxulFzJhHgUrKme84zDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI0/OTQyLTE1OTEzOTc5/ODEtOTk0Ny5qcGVn.jpeg" alt="Cover for Baja Blasted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/369d21ec8f2e1ef7e4c9978e06fd727f.png" alt="Cover for Baja Blasted" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-30</td>
       <td>Codex Orzhova</td>
@@ -1706,15 +1697,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 24</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 71</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 25</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/8yuOcfnytyg1aGlgb1a6mLOy2A6_oI7uVd49WM5ozTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/MjgwLTE2NjI1OTkz/MzgtNzM4NC5qcGVn.jpeg" alt="Cover for Curse of the Crystal Coconut (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e859d127133890b77169846faab2a4.png" alt="Cover for Curse of the Crystal Coconut (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-29</td>
       <td>Alestorm</td>
@@ -1730,14 +1721,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 52</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/BfIsoOSTGFwWGVvq4BileKDTRDAg9dAbG4H9R9RptMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDUw/NDkyLTE2MjU5Njk2/NDItNzc5Mi5qcGVn.jpeg" alt="Cover for Half-Pipe (The Art of Vocal Feminization)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5906372f52ad34af2290f6663bf2683b.png" alt="Cover for Half-Pipe (The Art of Vocal Feminization)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-03</td>
       <td>Tape Girl</td>
@@ -1758,9 +1749,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/86U8mpTy82A57dVYR_CvvQ2Fi804Asy2yxu4iYGPzLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQw/NTAxLTE1OTY5MTUz/MDQtNTczNy5qcGVn.jpeg" alt="Cover for BORN TO DIE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbe9e47c2c195fdc39677323402b322d.png" alt="Cover for BORN TO DIE" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-08</td>
       <td>Blind Equation</td>
@@ -1781,9 +1772,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/DCbYWzSLsObKNCBLvsfZQo70IzbhWKG8E1kN-AwSido/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjA5/NzU4LTE2MDg4Mjk4/MzgtMzIyOS5qcGVn.jpeg" alt="Cover for Flange Factory Five" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae1f5caa13302e3069740aa6c747ee34.png" alt="Cover for Flange Factory Five" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-01</td>
       <td>Math the Band</td>
@@ -1804,15 +1795,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/jjFitfj2pGPT7PHGVzVA4XW4QEamXGoytxekmetNO7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI0/MDkzLTE2MjI4OTM0/NTQtODQxNS5qcGVn.jpeg" alt="Cover for Those Creatures from Ganon are Pretty Bad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/260b8dbc47ea49ad1ce342883c6cc5a2.png" alt="Cover for Those Creatures from Ganon are Pretty Bad" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-04</td>
       <td>Nekonomicon</td>
@@ -1829,14 +1820,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 32</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/ewzgymyHKtcrFwdZHokPp90gZBom91evlKu-os6fhi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkz/NzYzLTE2Mzc2ODQw/NDEtMzY2My5qcGVn.jpeg" alt="Cover for Suporma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b386b8f3493a2a81efe204914d58ee.png" alt="Cover for Suporma" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-16</td>
       <td>(T-T)b</td>
@@ -1881,14 +1872,14 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 49</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/92ETYg1jcw_An8acxFjDOxg7y-bUlGhQnK7erxrdJOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjIz/NzA5LTE2MzE1NzQw/MTAtMjcwNC5qcGVn.jpeg" alt="Cover for LIFE IS PAIN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30cc2805f7775ca768552d9e8e79b386.png" alt="Cover for LIFE IS PAIN" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-03</td>
       <td>Blind Equation</td>
@@ -1908,7 +1899,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90435545e807c318b3dd5840b1f64af6.png" alt="Cover for Side Quest: B-Sides And Rarities" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,9 +1925,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/L0t0zEFGP5e1ZWJKULtZU7CTIb09NjJ6P19qRJEyyeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzMy/MTc1LTE2NzgxNzIy/NzctNTM3NC5wbmc.jpeg" alt="Cover for РАЗГОВОРЫ С БОМЖИХАМИ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4cca812c9d0bf71f88e3abdfaf798b6.png" alt="Cover for РАЗГОВОРЫ С БОМЖИХАМИ" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>шумные и угрожающие выходки</td>
@@ -1953,12 +1944,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 41</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/zJKEIMqb2b8Qp8wxRQcRQoiGYGRt8D-L9CKifeZnmoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ2/NzA4LTE2NTYzOTEx/MTYtODM1NS5qcGVn.jpeg" alt="Cover for Master of Disgust..." style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1971,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Cvg_1QEhbIbAB9C-0h4BaqyOwvh6j53V4pOF7Ppw5hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzky/NTkxLTE2NzczODEz/NjUtNzQ4Ny5qcGVn.jpeg" alt="Cover for DEMO" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,7 +1992,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/92ETYg1jcw_An8acxFjDOxg7y-bUlGhQnK7erxrdJOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjIz/NzA5LTE2MzE1NzQw/MTAtMjcwNC5qcGVn.jpeg" alt="Cover for never getting better" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,9 +2016,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/92ETYg1jcw_An8acxFjDOxg7y-bUlGhQnK7erxrdJOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjIz/NzA5LTE2MzE1NzQw/MTAtMjcwNC5qcGVn.jpeg" alt="Cover for We Hate Grindcore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6ca20f626afaba4a724baa69b983785.png" alt="Cover for We Hate Grindcore" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-15</td>
       <td>Blind Equation</td>
@@ -2050,7 +2041,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26dd79894082b08bd431ab56996dc3c1.png" alt="Cover for Origins" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,12 +2061,12 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 9</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2091,7 +2082,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 35</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2113,7 +2104,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 12</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 14</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 67</li>
         </ul>
       </td>
@@ -2121,6 +2112,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b53f46f158f0394d55b68a72bd84b3.png" alt="Cover for The End Is Close. Almost No Need For Money." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>GO! With Fourteen O</td>
@@ -2138,7 +2130,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 30</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 66</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
         </ul>
@@ -2162,14 +2154,15 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 34</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 36</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e940379c83c1b4eb55f2a236f7406ef1.png" alt="Cover for Guardians" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>100DEADRABBITS!!!</td>
@@ -2186,13 +2179,36 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 51</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a245884297495862f3087c92993331dd.png" alt="Cover for Zero Gravity Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Rocketchip</td>
+      <td>Zero Gravity Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2213,8 +2229,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d76b0197824b66483ebc99295a3f19cc.png" alt="Cover for The Digital Sea" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ZOMBIESHARK!</td>
@@ -2236,8 +2253,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9173e9784926fae2dea494c95c8fde.png" alt="Cover for 9999hp&#x2F;mp" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Insert Disc</td>
@@ -2261,8 +2279,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1650798f283b4e1884f4d0e335ad57a7.png" alt="Cover for A Dead Storm" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rawesome</td>
@@ -2284,8 +2303,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a19d53f56dce2fa59761582d138362c7.png" alt="Cover for LIMITED GERMAN TOUR CD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>GO! With Fourteen O</td>
@@ -2305,7 +2325,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2324,8 +2344,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe2787eb2d6e45e982f772f639aa70be.png" alt="Cover for Disc Read Error" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Insert Disc</td>
@@ -2347,8 +2368,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe321304238d12ae2467981226d32b77.png" alt="Cover for tysm!!!!!!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>exciting!!excellent!!</td>
@@ -2371,6 +2393,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b5eb319ca96f5a9f42c170cae80fca8.png" alt="Cover for i feel like i deserve to feel like this forever and i will" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>exciting!!excellent!!</td>

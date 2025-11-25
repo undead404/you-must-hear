@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T16:30:19.471Z
+date: 2025-11-25T11:52:24.857Z
 permalink: tags/chamber
 title: chamber
 ---
 
 ## chamber
 
-Last updated: <time datetime="2025-10-27T16:30:19.471Z">Mon Oct 27 2025 18:30:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T11:52:24.857Z">Tue Nov 25 2025 13:52:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/6FDX9OwPStsvCJrm6woSfnJXZnyeFGC5vqFCx-eR4Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg2/NTA3LTE2NjIwOTI0/OTctNDA4Mi5qcGVn.jpeg" alt="Cover for White Man Sleeps" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Tahlpuaiw-g8CVa_DXHMP6dBElLHYr1RofHjG-y7l6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQw/MjEtMTIxOTUzMjQ4/Ni5qcGVn.jpeg" alt="Cover for The Baroque Beatles" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/ZbJfh2v79tPLUAXyszX-sZTy0B2FY8qT1kKqoKmTWqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjU1/NjgtMTMyNTg1ODM0/MC5qcGVn.jpeg" alt="Cover for Vejvanovský (Musica Florea)" style="max-width:120px; height:auto;" />
       </td>
@@ -132,9 +132,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/q59E9vepfbUwsobcFB6CZO2ceVudyBfqytkkqt70uTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY5/NTU5LTE1NjIzNTY2/MDUtNTg1MC5qcGVn.jpeg" alt="Cover for Mooncircles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937e71f06b3c4af4bc25447a47b63ee8.png" alt="Cover for Mooncircles" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Kay Gardner</td>
@@ -153,7 +153,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/fhHCqv3Xex2HkxxV5iUxF7Tq1-y7SER_7dwnZ9MxGt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE2/ODEtMTY1MjQ3NDUw/OC03NzEzLmpwZWc.jpeg" alt="Cover for VILLA-LOBOS: Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/vuXrt1pXbwTOasPcyb2VVf3Ws9rUzutOCfuw8rbNGwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjAx/MzMtMTM3MDE2ODQw/OS04NDAxLmpwZWc.jpeg" alt="Cover for Chamber Music" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/KSbRqgYDLOTAQC6AFGMpAw8qNk0A47IokEsr5gp65D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjU0/ODItMTI4OTE3ODE0/My5qcGVn.jpeg" alt="Cover for Carols for Brass" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/XorR2OLKHt1Q4qnAn2DmgBBqPbqgMmWoljUqmRZAItY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/NjA5LTE1MDEwMTgw/NzMtNTkyOC5qcGVn.jpeg" alt="Cover for Brahms: String Sextets" style="max-width:120px; height:auto;" />
       </td>
@@ -254,7 +254,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XPWz4AexBJNPPL5wM18DbjVuvj7S-A9oro0v9lQ5ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/NzMyLTE2MDYwNDYx/NDgtMjY0OC5qcGVn.jpeg" alt="Cover for Dvořák: The Complete String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -274,7 +274,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/DrfKi7N5eQfLYSH7Vlqxgdjz7p39jiWk_rWi_zU2U28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzAx/MDgtMTQ4MDUyNjk5/MS05ODEyLmpwZWc.jpeg" alt="Cover for Complete Chamber &amp; Orchestral Works" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +294,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg" alt="Cover for BEST OF BAROQUE MUSIC (COLOGNE CHAMBER ORCHESTRA)" style="max-width:120px; height:auto;" />
       </td>
@@ -313,8 +313,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23abc4940abc4fe895a738aa00215bc8.png" alt="Cover for Музика за Плашење Деца и Нервирање Возрасни, II" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Various Artists</td>
@@ -329,7 +330,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/DFb2f76JYtg3PZMBFJrGvdPOvJbmd2iJfia2IgHL5Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDU0/MTAtMTQ2Nzg0NzE4/Mi01NjUxLmpwZWc.jpeg" alt="Cover for Fantasia for theremin" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +352,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/d03cfzxyQsYMiTBanxk3JLtHgPK--JeQkFILK5CE_ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzMz/ODMtMTMyMzM4ODkx/OS5qcGVn.jpeg" alt="Cover for Brahms: Sonatas for Cello and Piano" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +369,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/2VGdXxsfkwJTTWimaxxm_cLLedFd3BSDyTZlwYvlcHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTY5/MzMtMTM5MTM2OTk3/MC00ODYwLmpwZWc.jpeg" alt="Cover for Bartók: Complete String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -428,7 +429,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/kuSNj8lWHBaoiPZWbZoVddPhzu3Qzwn_9QXmQ95dI8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAx/MjMwLTE2NTA4NDYx/NDItNjc2My5qcGVn.jpeg" alt="Cover for COPLAND: Piano Sonata &#x2F; Piano Fantasy &#x2F; Piano Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +452,24 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f230878be193eb342aac37493199f1f.png" alt="Cover for 1996" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-05-17</td>
+      <td>坂本龍一</td>
+      <td>1996</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/sSInv_fl0zHOLMXGsuZV3hncd7VKciFvRTOS4uTVlQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjQx/NjItMTI5OTk3Nzcw/My5qcGVn.jpeg" alt="Cover for Vivaldi" style="max-width:120px; height:auto;" />
       </td>
@@ -471,7 +489,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/PegJ-tX5I-e6CAeCQCReAW_kt20LcSo2cMP6EoMMj7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzUw/OTctMTQ4NDU4MDU5/NS01NTI5LmpwZWc.jpeg" alt="Cover for String Quartets No.1 &amp; 2 (Pavel Wallinger Quartet)" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +511,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>1999</td>
@@ -510,7 +528,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/SR4YJxPRY1darnmLyNyk0q0qkzt8ZeVaYUefOUYiPK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjcy/NDItMTMzMzk2MjU3/Ny5qcGVn.jpeg" alt="Cover for Martinu: Works For Cello And Piano, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +545,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/-7HAgO1FutupEiwyGUod_yRKwFuV06nvW2TdEFkpisU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/ODYzLTE0OTQ2OTA3/MTYtNDkxMy5qcGVn.jpeg" alt="Cover for Schnittke: Psalms Of Repentance" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +563,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Y9ATl6YaHunYHWLVfY0X8Sc4J55sHMJgR8t4ggm3x_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg0/OTY3LTE2MzM0NjM3/NjEtNzk3Ni5qcGVn.jpeg" alt="Cover for Reicha - Complete String Quartets, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +580,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/WIGypRjUE1P4lxVHhMeYkBzX-APnDWBgtgIDXehziO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/MTU4LTE1MjU0MjM1/OTEtNTMyMi5qcGVn.jpeg" alt="Cover for He Has Left Us Alone But Shafts Of Light Still Sometimes Grace The Corner Of Our Rooms..." style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +600,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/aPdBSRfwxzjY7-75F177kMUAYxMqHdGH42kmJlXkUp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/OTgyLTE1MTUyNjk0/NzMtNDU5My5qcGVn.jpeg" alt="Cover for Works With Violoncello" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +618,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/vbz0vtnb73joopwS6aXrnTB3n_bF5ANpw3h-AJkEixg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NDcyLTE1OTc5NDk0/OTYtNzc5My5qcGVn.jpeg" alt="Cover for Sticky Melodies - CD 1" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +636,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Hgn-29rMih4UeyqnfNookbLyc6VnrY1DHqtbieXbmT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY3/ODA2LTE1MDAwNzA0/MzQtMzE1Mi5qcGVn.jpeg" alt="Cover for Poulenc: La Bal Masqué, Suite Française, Rapsodie Nègre, Le Bestiaire, Cocardes &amp; Aubade" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +654,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/nEny3hS1RkUHhSbQi9QXbJAsgcRBj3zaY_5CDsmjtrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcz/MzY3LTE1NTI5ODc2/MjctNzYzNC5qcGVn.jpeg" alt="Cover for Opus Number Zoo - Twentieth Century Wind Quintets" style="max-width:120px; height:auto;" />
       </td>
@@ -669,14 +687,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 45</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 47</li>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 70</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/EEvot0aOa4TyAWF-mp8FTKFR9FRcibGVDEk_VFNexSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/ODctMTMwODUwNjIz/My5qcGVn.jpeg" alt="Cover for Vivaldi: Le Quattro Stagioni" style="max-width:120px; height:auto;" />
       </td>
@@ -697,7 +715,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/n8ciz7rvZkTJrlYOWzr8UFe9YFnuhkTjp9EyEeUMikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzc5/NDItMTQ0MzY4MDg3/NS0zNjU2LmpwZWc.jpeg" alt="Cover for The Moon And Stars Remain In The Morning Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -717,12 +735,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 11</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/g00RyUu2HA4rROOpIL9rLRC5X80EYkCyaNOdtw26XmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIw/MjQ3LTE2MjA5ODUw/NDEtMzU0MS5qcGVn.jpeg" alt="Cover for Holmboe: Chamber Music, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +776,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2008</td>
@@ -784,7 +802,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>2008-05</td>
@@ -813,7 +831,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/lhhRvhdenpZkpPpKPQQ6hmC26vxavgrSIKNDhpsJJuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDEx/NzMtMTMzODQ5OTQz/MC0yOTExLmpwZWc.jpeg" alt="Cover for Will-o&#39;-Wisp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de87626ab094e50647b98a6a410e5c9c.png" alt="Cover for Will-o&#39;-Wisp" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-24</td>
       <td>Scallion</td>
@@ -838,13 +856,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 9</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -900,7 +919,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
         <ul>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
@@ -909,8 +928,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a1b26a24d0692b89cc1dcf21a5f.png" alt="Cover for Broken Toys" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-10</td>
       <td>NEIZAN</td>
@@ -1003,7 +1023,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/5AyHM7qBtQfmSURyy0_RdPF-Yu7xW4_laiZGJnd4LCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk2/MjUzLTE2MjI3MjM1/NTgtODcwMy5qcGVn.jpeg" alt="Cover for Schumann" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1044,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/6mHrZVdvxgrieAt2Ikn82UjHNgrr7iTHcJspL5WnOD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTkz/MjYtMTM3NzY3OTEy/NC0xNjM0LmpwZWc.jpeg" alt="Cover for N" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,9 +1066,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/LUzzMkgz73dddCqNjt1Hfo5Bj2B6vCnN7QUGsquZtyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/ODEtMTI1Mzk5NzY0/NC5qcGVn.jpeg" alt="Cover for Sorry Monsters, I Have To Grow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ecb2f8ac41649a8b40010cccf21d52b.png" alt="Cover for Sorry Monsters, I Have To Grow" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-07</td>
       <td>A Journey Down the Well</td>
@@ -1059,15 +1079,15 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 49</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 48</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/iakvw-DIUo8wHUYyJH6XCrpp8-LP3Z8U82UdYJt0BF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTEw/NTYtMTM0Mjg5NDY4/NC04NTE1LmpwZWc.jpeg" alt="Cover for Wholeness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c71bbb7ae20664df98576bb35aaba01f.png" alt="Cover for Wholeness" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09</td>
       <td>The Last Dinosaur</td>
@@ -1088,9 +1108,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/OIsbAp4YhYZnMJsflfzuUOMx96SRTsOMQvIiilOyFTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzAx/MjQtMTI1OTU1NDM3/NC5qcGVn.jpeg" alt="Cover for Home EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f725f0f4b4e70c3b50d0aa3afa586d.png" alt="Cover for Home EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-30</td>
       <td>B for Brontosaurus</td>
@@ -1111,7 +1131,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f18c59ea1ede7320f5981d28f77dfe.png" alt="Cover for Faire" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,15 +1145,15 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 34</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 41</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/ZFtzZMMBIaprsp146u2zUMzJzEaFGoNAYEOkcFjgyRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/OTUtMTQ1NTI5MTUw/Ny01MzExLmpwZWc.jpeg" alt="Cover for La Lechuza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9032ca274cd44364a4a0cc4934230889.png" alt="Cover for La Lechuza" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-07</td>
       <td>Esmerine</td>
@@ -1153,7 +1173,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
       </td>
       <td>2011-08</td>
@@ -1172,7 +1192,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/LcMKl7nPtmiz7KRSTM1NZ-VKPAbnJMw070Uiy3vhsaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTAz/NzktMTMyMjM1NzIx/NS5qcGVn.jpeg" alt="Cover for Brightelephant" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1231,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Sqd1mnGNNERTKMkgtadhDSy7N8ANhQH8sw7GzqWl46U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE5/NDgtMTM2NzU2ODE1/NS01ODIwLmpwZWc.jpeg" alt="Cover for Burning Screams Holocaust" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,9 +1252,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/NM56iY1ryB8gHBlEQiLmpMHFtHw2x4NvYDaDmqgGC5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQ2/ODQtMTM1MzA2ODAz/My00MTk2LmpwZWc.jpeg" alt="Cover for Nude" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ce909a4bb24fb6a3183122f6384edc.png" alt="Cover for Nude" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-21</td>
       <td>The Irrepressibles</td>
@@ -1246,13 +1266,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 25</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 69</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/1jFVLKSUuZGKhDjbfX5zNiL9cwQnirx-7-GYSnovefM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTE3/MjAtMTM3OTIwNzc4/Ny04ODYxLmpwZWc.jpeg" alt="Cover for Torture Chamber" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1295,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/14KqSB4tgjYHOv7ivUSWIaco0lbi2dfEyhnrwsY9vGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDIx/NjUtMTQyMjg4Mjc2/MS01OTcwLmpwZWc.jpeg" alt="Cover for Kaija Saariaho: Chamber Works for Strings, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1314,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/F5htMorIFT3ev23Dx0b9iXkZ6mT7fpONzffftmD5L30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTc2/OTUtMTM4NDQyMDAw/Ni05NzE5LmpwZWc.jpeg" alt="Cover for Film" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f5405dfb474fdea8aab2e07fdbd78ce.png" alt="Cover for Film" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>fydhws</td>
@@ -1314,7 +1333,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/1Z72XQNMoJuqBjMU_Mk1rJv_dmfWbl4X_FJ1IgXM6jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ0/NjItMTIzODcwMzQ0/Mi5qcGVn.jpeg" alt="Cover for Poetica: All Beauty Sleeps" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1354,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
       </td>
       <td>2014-06-28</td>
@@ -1355,7 +1374,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4WNhlW24_iCFgKK7NA6_2BoJC_kfgel26DKQWYRRoR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTc3/ODctMTM1MDU3MTIy/OC04OTk1LmpwZWc.jpeg" alt="Cover for A Portrait: PART" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,9 +1392,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/4CMko3bGa3UgUe2ouxe7YiFi6RO5Y2_TFv7MX7gCJ0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/MDA4LTE1OTk3ODY3/ODEtNDgyOC5qcGVn.jpeg" alt="Cover for Alvíssaras" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a71053a4fa388e9589ba2d8e2705cff.png" alt="Cover for Alvíssaras" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-12</td>
       <td>Philippe Meyohas</td>
@@ -1395,9 +1414,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/MWAHTptbBI4LUus2kHlg6QJl-V_wjkYg8xbewHVo3qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODQx/MzQtMTQ3NDc3Nzg1/Ni00NjgwLmpwZWc.jpeg" alt="Cover for Unprecedented" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8349a117e4a82da3398e5c1914f0f18e.png" alt="Cover for Unprecedented" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-23</td>
       <td>Marcela Bovio</td>
@@ -1415,38 +1434,15 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/p74zhSbCHsT-kQbT90qzS8y_-BgFFDG0GXxuoux06cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEy/MDUyLTE1NTg4MjU5/NzQtMjE5Ny5qcGVn.jpeg" alt="Cover for 1948: Russian Works For Cello And Piano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Petr Limonov, Laura van Der Heijden</td>
-      <td>1948: Russian Works For Cello And Piano</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/owRsxf18pPPkblVmrWs_yl1w_712GZPb3xEe352TFCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU4/MzIwLTE0OTQyNDI4/NjQtNDU3Mi5qcGVn.jpeg" alt="Cover for The Machine That Made Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc4f942fc11f0ad6eb544796fc4ff0b.png" alt="Cover for The Machine That Made Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-16</td>
       <td>Flotation Toy Warning</td>
       <td>The Machine That Made Us</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
@@ -1455,7 +1451,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/4VQ-Mmwzny_cK4a_SDWjkLW5OOJfMwzdIpTnL35irdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIz/NjkwLTE1NDQ2MjA2/MTMtNDA0Ni5qcGVn.jpeg" alt="Cover for Reinecke: Complete String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1490,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/L8T-_1RyJDjN_7MPRDeDrBLnuNGRbInj-6wo_JxsL5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA2/NzM1LTE1NzgwNjcy/NjQtOTQxNC5qcGVn.jpeg" alt="Cover for Brahms: The Piano Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,9 +1510,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/bCSNbcp5twWfp_JcKZU1oJsGx2mjXMLe24nDRZ503xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/MjkzLTE1OTc3MDg4/MDgtMjkwMi5qcGVn.jpeg" alt="Cover for Neighborhood Watch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3105211ea8fd9433688b1a9909cf6518.png" alt="Cover for Neighborhood Watch" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-20</td>
       <td>Gregory Uhlmann</td>
@@ -1534,7 +1530,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/TKWbE_cSOfaNRQBkIej-28qgfZoYSQSxqgnxI48n7dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc3/OTQyLTE3MDQ0NDIx/MjAtMTY0OC5qcGVn.jpeg" alt="Cover for Paganini: Quartets for Strings &amp; Guitar Nos. 1, 2 &amp; 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1547,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/kHbjBNVJV1h5DJGRyCG_lj0QEZ_gM6-xKZZITTfY1_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODgz/MzMyLTE2ODI0OTUz/ODgtODcxNC5qcGVn.jpeg" alt="Cover for Holmboe - String Quartets, Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1564,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wkgKSt5QgLd5caGWk1OgipLcBrTzgtokjoQSBTt-N8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTkz/MDQyLTE2NzU1Mzkz/NzctNjM5OS5wbmc.jpeg" alt="Cover for Psychodrama: 13 Variations" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1583,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ES3L37bYCDbUOEKJKKdBJR7rxBWkUn9Z-PYid-VpQdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ1/MDEzLTE2NTQ5OTAy/MDctNTE0My5qcGVn.jpeg" alt="Cover for Blue Silence: Complete Works for String Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1606,7 +1602,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ZfSKkBxj2DFxVTG-KyRvqCRAIaKyeAu3Ks8axR4WPvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc3/MjU5LTE3MTc4Njkz/NzUtMjA2MS5qcGVn.jpeg" alt="Cover for Ruders: Clarinet Quintet, Throne &amp; Piano Quartet" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1619,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-MqGL7FDs22StByxltQV6kJql4tPLQpem1HKKg4t-i0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI0/OTMwLTE2NzgxMTU1/ODktMTAzOC5qcGVn.jpeg" alt="Cover for Weinberg - String Quartets, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1636,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1702,7 +1698,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -1770,12 +1766,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 2</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 42</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
@@ -1843,13 +1839,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 11</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/894a14b3f9e24cc48e297f55b50a32fc.png" alt="Cover for SPYFOX Monsters" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SpyFox</td>
@@ -1898,13 +1895,14 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 6</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e5b88e58ed4399b98698bafdfe29fa.png" alt="Cover for D-D-Praz Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>D-D-Praz</td>
@@ -1924,12 +1922,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 15</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
       </td>
       <td></td>
@@ -1950,7 +1948,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
       </td>
       <td></td>
@@ -1968,12 +1966,12 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 51</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1997,7 +1995,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2017,7 +2015,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2037,7 +2035,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2057,7 +2055,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2074,7 +2072,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2094,7 +2092,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2125,7 +2123,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -2145,8 +2143,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8cf395a7ef0734e844e28925088284.png" alt="Cover for Music For The Long Emergency" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Poliça + S T A R G A Z E</td>
@@ -2166,7 +2165,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2184,7 +2183,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2205,7 +2204,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2228,7 +2227,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
@@ -2249,7 +2248,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td></td>
@@ -2287,7 +2286,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td></td>

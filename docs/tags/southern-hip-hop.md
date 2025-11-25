@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T14:39:35.974Z
+date: 2025-11-25T11:54:26.601Z
 permalink: tags/southern-hip-hop
 title: southern hip hop
 ---
 
 ## southern hip hop
 
-Last updated: <time datetime="2025-11-23T14:39:35.974Z">Sun Nov 23 2025 16:39:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T11:54:26.601Z">Tue Nov 25 2025 13:54:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,7 +89,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 67</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 70</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 85</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 92</li>
         </ul>
@@ -110,9 +110,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 25</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 74</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 37</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 75</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 80</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
       </td>
@@ -132,7 +132,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 32</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 31</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 80</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 92</li>
         </ul>
@@ -174,8 +174,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 69</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 73</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 72</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -199,9 +199,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 77</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 58</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f38e317486c43ffca78a89aea3b37d4d.png" alt="Cover for Da Unbreakables (Explicit Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -245,8 +245,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 55</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 60</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 63</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 62</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 87</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +292,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 27</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -335,29 +335,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 15</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 25</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd294ab92fb2405ec04565891d4539a1.png" alt="Cover for 700 DAGREEZ" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-05-29</td>
-      <td>Black Kray</td>
-      <td>700 DAGREEZ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +357,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +396,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 17</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -441,10 +420,10 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 32</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -485,10 +464,10 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 61</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 67</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 87</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 91</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 65</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +485,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -525,10 +504,10 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 41</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 44</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 61</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 65</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 63</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -572,8 +551,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 12</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 59</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 13</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +579,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 84</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 89</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 91</li>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 100</li>
         </ul>
       </td>
@@ -619,9 +598,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 18</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 22</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 29</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 44</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +618,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 71</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +640,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 23</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -686,7 +665,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 56</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 66</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +686,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 84</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -732,7 +711,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 5</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 48</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -772,7 +751,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +774,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 38</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -815,7 +794,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 84</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +817,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 88</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -861,8 +840,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 35</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 74</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 90</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -880,8 +858,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 40</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 48</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 42</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +921,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 45</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -969,8 +947,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 4</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1090,8 +1069,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 26</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 35</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 29</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 37</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 59</li>
         </ul>
       </td>
@@ -1193,8 +1172,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 82</li>
         </ul>
       </td>
@@ -1277,7 +1256,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 2</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1295,9 +1274,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 48</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 34</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 68</li>
         </ul>
       </td>
@@ -1316,7 +1295,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 82</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1449,8 +1428,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 7</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1448,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 99</li>
         </ul>
       </td>
@@ -1492,8 +1471,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 19</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 62</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 99</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 100</li>
         </ul>
@@ -1515,7 +1494,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 93</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1517,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1540,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 58</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1582,8 +1561,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1626,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 52</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 53</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 61</li>
         </ul>
       </td>
@@ -1671,6 +1650,29 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1f39a740ef6043124e96321d5addea0.png" alt="Cover for Bane - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-12</td>
+      <td>Destroy Lonely</td>
+      <td>Bane - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b78805e337c92deae281bf3196fc73b7.png" alt="Cover for No Stylist" style="max-width:120px; height:auto;" />
@@ -1684,7 +1686,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 36</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1702,7 +1704,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 91</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 92</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 94</li>
         </ul>
       </td>
@@ -1724,8 +1726,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 1</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 2</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1747,8 +1749,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 27</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1771,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 76</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1808,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 13</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1853,7 +1855,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
@@ -1877,9 +1879,9 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 25</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 47</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1901,8 +1903,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1963,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 1</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 5</li>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 67</li>
         </ul>
       </td>
@@ -1985,8 +1987,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 39</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 57</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 70</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
         </ul>
       </td>
@@ -2052,7 +2054,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 68</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
             <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 90</li>
         </ul>
       </td>
@@ -2071,8 +2073,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 52</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 58</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 54</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2092,8 +2094,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       <td>
         <ul>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 23</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 62</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2114,8 +2116,8 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 8</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 87</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 10</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2138,7 +2140,7 @@ Southern hip hop is a subgenre of hip hop music that emerged in the southern Uni
         <ul>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 93</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 98</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
         </ul>
       </td>
     </tr>
