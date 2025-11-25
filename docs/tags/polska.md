@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:35:01.812Z
+date: 2025-11-25T06:33:19.866Z
 permalink: tags/polska
 title: polska
 ---
 
 ## polska
 
-Last updated: <time datetime="2025-10-21T03:35:01.812Z">Tue Oct 21 2025 06:35:01 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-25T06:33:19.866Z">Tue Nov 25 2025 08:33:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 25 lat listy przebojów Trójki: 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 25 lat listy przebojów Trójki: 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/cbw3YDW-b8nEGUmFclv20udp16W857o56FhesHrkFo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM2/MzctMTM3MDA5MDM1/MS00NTU2LmpwZWc.jpeg" alt="Cover for Banda &amp; Wanda" style="max-width:120px; height:auto;" />
       </td>
@@ -106,6 +106,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f02c672a15aa3d2719d08644fca4fb86.png" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dżem</td>
@@ -138,13 +139,14 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 68</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6817e1a1c9f9410489c7dfcd500a0354.png" alt="Cover for Miejska strona Księżyca" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Stare Dobre Małżeństwo</td>
@@ -176,7 +178,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 50</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +199,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 89</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -244,14 +246,14 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 84</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/GorvCvhcA8a8eo0P3pu84CTDnv1o4P4aXATGxrd_1SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/NDYtMTIxOTMxOTE0/MC5qcGVn.jpeg" alt="Cover for Infernal SS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c1f616d382247fd9d88242474fa3f80.png" alt="Cover for Infernal SS" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06</td>
       <td>Infernal War</td>
@@ -332,7 +334,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 32</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 41</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 40</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 55</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 98</li>
         </ul>
@@ -363,8 +365,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 19</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 21</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 18</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 91</li>
         </ul>
       </td>
@@ -527,7 +529,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 8</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -549,7 +551,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/jq4ZZphwI1kjvamcTHBhhYYaHMzs14YeDGA2fqsFnC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTYz/NTctMTMxMTg2MTcy/My5qcGVn.jpeg" alt="Cover for Errorist e.p." style="max-width:120px; height:auto;" />
       </td>
@@ -573,7 +575,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/7D5vtEEx34aFafml1u81hrRT1WjFKJMM_dDLiQInEpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzU5/NjgtMTQ0MDE1MDgy/Mi0xNTkzLmpwZWc.jpeg" alt="Cover for Godspeed" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +669,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 35</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -697,7 +699,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2008-08-01</td>
@@ -721,7 +723,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-12-24</td>
@@ -821,14 +823,14 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 86</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/0jmRIN9NAwZ5kWYMbVjG8JDyrmbTcQXU5zWaQ0ae2gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NDEtMTI1Njg5ODU1/MS5qcGVn.jpeg" alt="Cover for [ATAR-PHI-006]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e37b50a39021c798113c4ce77d0520f.png" alt="Cover for [ATAR-PHI-006]" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-30</td>
       <td>steal 4 ram</td>
@@ -934,9 +936,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 28</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 29</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -970,9 +972,8 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/z7nQjjWJpBeoYfMbzvgOEaKCrQyzwcIOfFqIeyDBZz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDAy/ODctMTI5NDUyNDE2/MS5qcGVn.jpeg" alt="Cover for W Zasięgu Ręki EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Koncept</td>
@@ -992,7 +993,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/YfhKqSVUu2cYO1V96WSU0DoydR67S6q2-jzXdR9vJ8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk2/ODMtMTYyMzcwNDc3/My03NDA1LmpwZWc.jpeg" alt="Cover for Podroze Po Amplitudzie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b9af405c1f4bc3834e17534760102d.png" alt="Cover for Podroze Po Amplitudzie" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-05</td>
       <td>Rahim</td>
@@ -1010,16 +1011,16 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 66</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 69</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 70</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/CH0ibOCsz2_GzD3_Vk6U5ALh8lxWZ2eUULG5E23AZbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg1/MzMtMTI3MjIzODE0/Ny5qcGVn.jpeg" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7df71046c0d83feeb9a2cc6e06eb88.png" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-26</td>
       <td>Emtebe</td>
@@ -1049,7 +1050,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 78</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 77</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 79</li>
         </ul>
       </td>
@@ -1076,7 +1077,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/etJj4V9bz26oVT-Bk4lB_kXNBcviHm71kor1nDT0xDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzgz/OTMtMTU3ODkwNTg4/MS0zMTI2LmpwZWc.jpeg" alt="Cover for Zlodzieje Zapalniczek" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b82c6470ed15454f90fccdc71bb060b7.png" alt="Cover for Zlodzieje Zapalniczek" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-01</td>
       <td>Projekt Ostry Emade</td>
@@ -1094,14 +1095,14 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 80</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 86</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 86</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/2ZiE_eJKYWaOEelDHb5Ogzg4jBjXtbwSzv8ozkOSj2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODY5/MDYtMTI5MTgzNjky/NS5qcGVn.jpeg" alt="Cover for 8 bit is my destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1143,7 +1144,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 74</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1222,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/qiBvHhnHdKehDKZwWCFIH8OmhPoVRqFk9JSY5qr-hCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkz/NTQtMTMyNjQ2NDk1/Ny5qcGVn.jpeg" alt="Cover for Refleksje i Refrakcje (Reflections and Refractions)" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1242,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/MQf0Bovo12nW7e5DNt-2_2YrTe-4IZr5UpEnFFvYdOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzUw/MDItMTM1NjQ2NjUx/Ny0yNDM1LmpwZWc.jpeg" alt="Cover for Czas Przychodzi Sam" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1263,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 65</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1405,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 19</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1524,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 22</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1551,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/lodyCfuXfE7yBEQGIXMCNFfl5f4Wuc9g9NsLN82Zqcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjQw/MjgtMTQ4MjA3MjU5/OS00NTkwLmpwZWc.jpeg" alt="Cover for HalfLajf" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96238c4b1f047d3ba7051da5f62c536c.png" alt="Cover for HalfLajf" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-09</td>
       <td>VNM</td>
@@ -1564,7 +1565,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 59</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1595,16 +1596,16 @@ Polska refers to music originating from or strongly associated with Poland, enco
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 62</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 77</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 63</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 76</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/FHslIkeIVyK5vNvWJsZlnEgu9_iCuTl-z2_xYy_EZBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYx/NjcxLTE0OTk5MzU5/MTQtMjMyOC5qcGVn.jpeg" alt="Cover for Basement Disco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f301bf75c98da3aabaa4bb4e503600f.png" alt="Cover for Basement Disco" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-23</td>
       <td>KęKę&#x2F;Hase</td>
@@ -1619,6 +1620,25 @@ Polska refers to music originating from or strongly associated with Poland, enco
       <td>
         <ul>
             <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db67ff0f50d91b830606cad95831ef9a.png" alt="Cover for Anticult" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-07</td>
+      <td>Decapitated</td>
+      <td>Anticult</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1639,14 +1659,14 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 94</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/TD4KyCpYvf32_DSBGsgP-7gEV-gk9NN_OJM-6-7FOAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIw/MDk0LTE1MTIxMzc1/MzgtNTQ0NS5qcGVn.jpeg" alt="Cover for Recydywista" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a11b3c0fade734a2cc650c850d0df7b.png" alt="Cover for Recydywista" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-01</td>
       <td>Chada</td>
@@ -1660,12 +1680,12 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 52</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/nzuXCxvBseLAV-cElkFVAX4D8txprthIs9QujdNVnKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU3/MzEtMTQzMjkxMDg2/NS01MjU3LmpwZWc.jpeg" alt="Cover for Archiwum" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,9 +1746,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/oFAqRHnM0uKWyFgifK86DI4CitpItc-_dfYl64S0BhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA2/OTAzLTE1NzU5MzE2/MjgtOTYzNy5qcGVn.jpeg" alt="Cover for Trudne Energie, Proste Rozwiązania EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb016cae4a8c392ee7e8f43291d48c11.png" alt="Cover for Trudne Energie, Proste Rozwiązania EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-20</td>
       <td>Jan LF Strach</td>
@@ -1766,7 +1786,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/xZePdMkv66V-yJ8nARf1Ozh9JD_VovFVwTOYquWQWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI3/ODUtMTQ3OTkzNDk0/Ny01NDg2LmpwZWc.jpeg" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04350bca604884809895156cc9930f64.png" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-15</td>
       <td>Arkona</td>
@@ -1789,15 +1809,15 @@ Polska refers to music originating from or strongly associated with Poland, enco
         <ul>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 83</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 93</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 92</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2023</td>
@@ -1815,7 +1835,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1834,12 +1854,12 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1862,7 +1882,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1938,6 +1958,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73a66b1304024212a230e370c8e43005.png" alt="Cover for very good bad music" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>jim duda</td>
@@ -2000,7 +2021,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 12</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 11</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 89</li>
         </ul>
       </td>
@@ -2028,27 +2049,9 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
-      </td>
-      <td></td>
-      <td>Atlas Like</td>
-      <td>Atlas Like</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polska" | relative_url }}">polska</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58e805245b8a44d2a4f11ae474d96bf9.png" alt="Cover for mix" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>gap_year</td>
@@ -2066,7 +2069,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2084,7 +2087,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2104,7 +2107,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2121,7 +2124,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2140,7 +2143,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2208,6 +2211,7 @@ Polska refers to music originating from or strongly associated with Poland, enco
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3383d97f4f7f4e37a8199d00198a098f.png" alt="Cover for Wojna o Pokój" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>War&#39;s Rectors</td>

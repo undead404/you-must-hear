@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:58:29.960Z
+date: 2025-11-25T06:31:29.284Z
 permalink: tags/karlsruhe
 title: karlsruhe
 ---
 
 ## karlsruhe
 
-Last updated: <time datetime="2025-11-23T11:58:29.960Z">Sun Nov 23 2025 13:58:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:31:29.284Z">Tue Nov 25 2025 08:31:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a876cec2bf84c3bb61740bc8710279d.png" alt="Cover for Singin&#39; The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>1967</td>
@@ -64,7 +64,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7b683a91566f9ae425a6c704ae9e741.png" alt="Cover for A Hard Road" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec8b40b1cf8d5f5fe20ffc30605e74b8.png" alt="Cover for Crusade" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e68b3c59812f01c3cb3fa83de2cf33.png" alt="Cover for Hoodoo Man Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -117,12 +117,12 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
         <ul>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 33</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 85</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 98</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c09a1763b56ab8d02edab9d64caa4911.png" alt="Cover for Natural Born Boogie" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce1082982f7828881e598db409b724c.png" alt="Cover for Two Bugs and a Roach" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9acb3e682b34a018a39cd056e725a88.png" alt="Cover for Doris Troy" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +176,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c51943fb3a6ea9f00459fb1d251ccc9b.png" alt="Cover for The London Howlin&#39; Wolf Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ayKJWbBcOrgSFF5KIVudaPk0vnb5YMkQwedjzefeFEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc4/MDYtMTM0MDE5ODM0/NC04ODU2LmpwZWc.jpeg" alt="Cover for Hold That Plane" style="max-width:120px; height:auto;" />
       </td>
@@ -215,7 +215,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f55d45d533884994b90a5c6bbf1bd7e1.png" alt="Cover for Hold That Plane!" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +236,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a02c772afd911cb42d3f11120e2dad.png" alt="Cover for Rattlesnake Guitar, The Music of Peter Green" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/ZGWoY_tG0H9msW0GptNqLDRsvFPm0Tzydm3cCsNRcxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzEy/MzMtMTUxMTcwNTkw/OS00OTY5LmpwZWc.jpeg" alt="Cover for Woman Across The River (World)" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +328,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c93408ddecf59bcac5cc6e5698712e1d.png" alt="Cover for Crusade" style="max-width:120px; height:auto;" />
       </td>
@@ -343,6 +343,25 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3eb7b6f82fe4b64cb8b805072435be9.png" alt="Cover for Struttin&#39; My Stuff" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-12</td>
+      <td>Elvin Bishop</td>
+      <td>Struttin&#39; My Stuff</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +387,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1976</td>
@@ -385,7 +404,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a17fdcc8ed64d52be9c39ffb8560f82.png" alt="Cover for No Reason To Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +421,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1977</td>
@@ -420,8 +439,9 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d007fc9f2e4c0a6de5551e9906397eae.png" alt="Cover for Atlanta&#39;s Burning Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Dickey Betts &amp; Great Southern</td>
@@ -478,7 +498,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/-bOzsRntZtFfqjVA8SSIGKPBBK0M21G1fL6O9p3gfac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTIx/MDEtMTI1ODQ2NjQ2/My5qcGVn.jpeg" alt="Cover for Southside Blues Jam" style="max-width:120px; height:auto;" />
       </td>
@@ -496,7 +516,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/H_cZdY-SQyBAIRdePUGcd6ErL5EIYTyKuN1XByczaKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE2/OTktMTM2MjUyMzU3/OC04OTkzLmpwZWc.jpeg" alt="Cover for Colin James" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +534,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/YrNWSnrElxdckb18Nf5xsT_hPmTgw1hrchEd4OA4K3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTYy/NTctMTM4NDk0MjMw/OS03NjQ5LmpwZWc.jpeg" alt="Cover for Guitar Shop" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +553,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/GKeHiLSVpxSyd0snP6CpoYH-7Vs5jafOvVSL77ZZs-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM1/OTMtMTM4NzA5NTMw/My0zNTg1LmpwZWc.jpeg" alt="Cover for The Best of Featuring Rod Stewart" style="max-width:120px; height:auto;" />
       </td>
@@ -570,7 +590,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1990</td>
@@ -588,7 +608,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea674ea77a5d4c52ab6f9e8871877100.png" alt="Cover for Red House" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +627,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ee85ed277a4309ae9780d63f51687c.png" alt="Cover for Sufferin&#39; Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +645,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1992</td>
@@ -642,7 +662,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd6706fdbf095f46ddc4020146f172b2.png" alt="Cover for Steppin&#39; Out Texas Style" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +681,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ee5da2b9c94488a2f54cf7a28877bf.png" alt="Cover for I&#39;m Ready" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +700,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f65fe99cd6cc5a0602031ec279fc39f.png" alt="Cover for Prescription for the Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +718,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/OBuLxjFWLbvHmA5y_ycppsv8StoBSoV2U2Czn2GLsa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgz/NTAtMTIyNjI1NzQ1/OC5qcGVn.jpeg" alt="Cover for Peter Frampton Comes Alive 2" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +736,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/beacc2e359384891b4ff9050e0a8678e.png" alt="Cover for Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -734,7 +754,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/8VvoHg-w6_LoHGtFOwdjTZZOufApfXial3nXKqVWQIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjQ5/MzMtMTQ1ODM1NTUw/Mi0yODMxLmpwZWc.jpeg" alt="Cover for Texas In My Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +773,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/079e3f3eb83c21ec738aaf26d103ad5d.png" alt="Cover for Smokin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +791,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1995</td>
@@ -788,7 +808,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19a2f1ad992b105e8f9cd83d054c6388.png" alt="Cover for King Of The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +828,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/5rmmyO3BG4KvoUfzRUTG9RZbFPvsmsfh1HK78lf6uHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzYw/MzItMTY3NjIxNDM4/Ni05OTcwLmpwZWc.jpeg" alt="Cover for Super Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80791517e8021056319c0f9a6a575d8d.png" alt="Cover for Super Session" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Mike Bloomfield</td>
@@ -825,7 +845,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/llQcpRqm_TK37i-PhYxrmpFMcQuh7WHTnEYE7_9wgbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg1/ODctMTU2MDUzNzY5/MS0zNjA2LmpwZWc.jpeg" alt="Cover for Stayin&#39; Home With The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -843,7 +863,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1997</td>
@@ -860,7 +880,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1997</td>
@@ -877,7 +897,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -894,7 +914,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb3b34da325f89bba389a4d454508c6.png" alt="Cover for Reconsider Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +932,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/G9byMmdOol08FbYJl5m9YxHMzhZOznMptd5g-SgmGg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/MDU1LTE1NDMxNzQ2/MjMtMjMyMi5qcGVn.jpeg" alt="Cover for I&#39;ll Play the Blues for You" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +950,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2000-06-20</td>
@@ -948,7 +968,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ZNGvSqt07-5nzptamA6l7tfhQonVfD4EKA-qTjC9kSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjc3/MjctMTQzNTIzNTk1/My05MTY5LmpwZWc.jpeg" alt="Cover for Live in Detroit" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +986,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d7705f87a3b46bdc6c42f95c6752d3f.png" alt="Cover for Sinner Street" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +1005,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df7ac611bc384bfaa64300466fe0af02.png" alt="Cover for Bluesville" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1026,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2001</td>
@@ -1024,7 +1044,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/AihYkUltIZaraAMJBCz2j69tJpOAUYpEWeKmRKwzaHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjM5/NjYtMTM3MTUwMDI2/MC0zMzk5LmpwZWc.jpeg" alt="Cover for The Treasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1063,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2001-08-14</td>
@@ -1062,9 +1082,9 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/CP2yy-P01UxAoGd_poFqT6x8v_RaiOxaF7ylw8CbOGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTY5/NDItMTQ3OTM3MDU3/Mi0zNzE2LmpwZWc.jpeg" alt="Cover for Devil&#39;s Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ae55349bfc813cf68d7455056114412.png" alt="Cover for Devil&#39;s Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-24</td>
       <td>Eric Sardinas</td>
@@ -1099,7 +1119,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cf3913a2c194cd192f51697022cdf37.png" alt="Cover for Who Else" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1137,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2003</td>
@@ -1135,7 +1155,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9100d18aaf574326a50ca039a521890f.png" alt="Cover for Jeff" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1175,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0b3115039cd2cb4383a6a23e7ba96a9.png" alt="Cover for Change" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1194,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ae760b574fe0f1af127136e97fffecf.png" alt="Cover for Get Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1214,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004</td>
@@ -1213,7 +1233,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/vsJz-MyBATfyHLRgNMNi86fMiPivSUavhTiCrUdcYZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDk2/MDEtMTY5NTMwMzAy/NS03MzM2LmpwZWc.jpeg" alt="Cover for Sweet Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1251,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/973f65e2dd1d272a8b5e627d57a97078.png" alt="Cover for King Of The Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1269,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2004-08-31</td>
@@ -1266,7 +1286,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b7adc8ac34d10e66356319aa0821756.png" alt="Cover for Guitar Gumbo" style="max-width:120px; height:auto;" />
       </td>
@@ -1285,7 +1305,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/IoDIQkP-7iSE3D0jlKb1kWeNERULzAZ9k4AHGakueZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU4/OTQtMTM3MjA3ODEw/My02NTgzLmpwZWc.jpeg" alt="Cover for 4 Days in the South" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1323,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/GJlijue1fvcd3V3zU9OpbWn6cn7pBZJW6uqkqTEtunE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTEy/MTktMTQ2MzA4MTY0/OC0xMjQ2LmpwZWc.jpeg" alt="Cover for Meat &amp; Potatoes" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1342,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13e31d4e06e84308a24fa0580821370e.png" alt="Cover for Gettin&#39; My Groove Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1361,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/168061ae7c7f4f39b4d322326a25dc6c.png" alt="Cover for Cryin&#39; Hey!" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1380,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/brfETJXlkP-tZAtH3SA6ReKnyt79hBLTf0Mm5B9-bvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjE3/MTMtMTQ1MjU0MjE2/NS0xMjk1LmpwZWc.jpeg" alt="Cover for A Stone&#39;s Throw" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1421,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2006-09-26</td>
@@ -1419,7 +1439,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59952978d039337eadffc6346439ec7.png" alt="Cover for Into The Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1456,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/9tn_nm0LG9Tzg0stYaOkOI0dJgZFzgqCnf506u2Sywk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzk2/NjEtMTQ5MDI3Njk2/NC00NTY3LmpwZWc.jpeg" alt="Cover for Rocket Number 9" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1479,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/666a3888e8354c4ca5e5c6ac6fd3afa7.png" alt="Cover for Dirty Deal" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1497,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_rom_8T0HWh_NG0NjHgpvwLYaZOVPim4f3m7mYUfu6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzMw/MjUtMTQ4MjIyNDQ3/MC0zMTM0LmpwZWc.jpeg" alt="Cover for Groove Thang" style="max-width:120px; height:auto;" />
       </td>
@@ -1495,7 +1515,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/ixcgcVzrwvO3nerNtZcSPLgpTeO2VywEyH0YM5-kkR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc1/OTUtMTU3NjE4MjMw/NS00ODcyLmpwZWc.jpeg" alt="Cover for Ear To The Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1533,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/skY7Axqn_N8jY0er8hfejgWjYX5WSIFAeSN7V3HVOfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/MDIyLTE1MTUxOTk2/MzctNDUzNi5qcGVn.jpeg" alt="Cover for From Lettsworth To Legend: A Tribute To Buddy Guy" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1552,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/nyypJRS_7mjnHi_T9sxT_WSbHWmk9ZNLtEhHlOYopJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg0/MzkzLTE2NDMwNjE0/MzMtNDIzMS5qcGVn.jpeg" alt="Cover for Real To Reel" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1612,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2008</td>
@@ -1609,7 +1629,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a31792b948a10bca5cfffac6726bdb28.png" alt="Cover for Borrowed Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1647,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/CXdpcN_0cvORcU2rdgsW6qVQe6Iyg3sdNhez_3PeijQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzkx/NzEtMTYyODI1NzA2/Ny04MzM4LmpwZWc.jpeg" alt="Cover for Let Life Flow" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,7 +1665,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78b8042f2686388d0f33e058e08e97e2.png" alt="Cover for These Are the Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1684,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2009</td>
@@ -1682,27 +1702,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6848c4b932f1379b3b0ccec72a46fbe8.png" alt="Cover for Joe Bonamassa Live From The Royal Albert Hall" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Joe Bonamassa</td>
-      <td>Joe Bonamassa Live From The Royal Albert Hall</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f5e8d172b8445c89f49adaae5dde45d.png" alt="Cover for Heart Of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1721,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d6f088020eb483ec8fbdd85b5fb18df.png" alt="Cover for There And Back" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1740,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5a4e9a2a2274c5b9066ab36045e3d4e.png" alt="Cover for Who Else!" style="max-width:120px; height:auto;" />
       </td>
@@ -1758,7 +1758,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/QNQWVxDwW3KbvZ6YwXKEBbdoATHuCNAePXew-JreSHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM5/MDE0LTE2MTgxMzQ1/NzktNjY4NS5qcGVn.jpeg" alt="Cover for Live &#x2F; Fillmore East - New York, NY June 19, 1971" style="max-width:120px; height:auto;" />
       </td>
@@ -1775,7 +1775,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/A3WrzRoew5QHG9XemFJmIggWKVWE0n6T_-kQL6IGpNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ3/ODc5LTE2OTYwMTQw/NDItNDQxOC5qcGVn.jpeg" alt="Cover for Black And White" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1793,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/sM80aw1xWNsNSI0WlubIMSjLagSmcNNLPpkkDy7Q4TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg4/NDMzLTE0OTY0ODc5/MjMtNjM4OC5qcGVn.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1811,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be4a74f04bce02fd15aeb7958859ed2.png" alt="Cover for Antone&#39;s Tenth Anniversary Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,7 +1831,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/K8RebLEHY9MoxtBIVoEnNepDaRu3qLmdzHgnuHfh_FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE4/NDEtMTU2ODg0MzU5/OS0xMjI2LmpwZWc.jpeg" alt="Cover for It&#39;s My Life Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,7 +1849,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41e43801ed7f478b9d60dbd55dc85844.png" alt="Cover for allboutGuitar Lesson" style="max-width:120px; height:auto;" />
       </td>
@@ -1868,7 +1868,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>

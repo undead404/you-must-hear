@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:00:53.664Z
+date: 2025-11-25T06:34:03.806Z
 permalink: tags/electric-blues
 title: electric blues
 ---
 
 ## electric blues
 
-Last updated: <time datetime="2025-11-23T12:00:53.664Z">Sun Nov 23 2025 14:00:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:34:03.806Z">Tue Nov 25 2025 08:34:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -145,7 +145,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 33</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 38</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 53</li>
         </ul>
       </td>
@@ -165,7 +165,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 100</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +256,6 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -325,6 +324,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3347d2bf849d46f59514ff365a94614e.png" alt="Cover for Big Gun" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Lucifer</td>
@@ -415,7 +415,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 41</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/CBESpBICYXTpRephhSmpzBjiDHF3zvL3C4xd194KOQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzQz/NzAtMTQwMzE3MDg0/OC01Mjc4LmpwZWc.jpeg" alt="Cover for Live At The 7th Note" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/880f376a2d18484eb1d34d0e279df4ff.png" alt="Cover for Live At The 7th Note" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-11-13</td>
       <td>Quicksilver Messenger Service</td>
@@ -546,7 +546,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 42</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -638,13 +638,13 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 27</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 28</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad4b3475ed1c452dbcec94a85401284f.png" alt="Cover for Iceman" style="max-width:120px; height:auto;" />
       </td>
@@ -683,7 +683,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/oOiL9enpVnDzbqzBHG52Otf9iYQTMrcxvkQ0oencAWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDMz/NDgtMTMwNjUwODA4/My5qcGVn.jpeg" alt="Cover for Hoochie Coochie Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4443fb755c0d15b71471d6efe81d289f.png" alt="Cover for Hoochie Coochie Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Muddy Waters</td>
@@ -695,7 +695,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 60</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +726,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
         </ul>
       </td>
@@ -789,24 +789,6 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/069f85958985e315883a5803c1cc464f.png" alt="Cover for Ballads &amp; Blues 1982-1994" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-11-14</td>
-      <td>Gary Moore</td>
-      <td>Ballads &amp; Blues 1982-1994</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>78</td>
       <td>
           <img src="https://i.discogs.com/xo97y6hTo-pQhQgy1LlJJ8nEbR-qMK49EelldTlXYI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc0/OTIyLTE2NjM2ODY0/NDEtNjc0MS5qcGVn.jpeg" alt="Cover for Senor Blues" style="max-width:120px; height:auto;" />
@@ -842,7 +824,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 85</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +902,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 34</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 46</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1016,7 +998,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 95</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1228,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/D-Xjh-BoeTF-gqvN8IVo0XcBEjvIdvEI8MJ9hDcQbtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjIz/OTgtMTQzMjk3NTkz/Ni04OTgxLmpwZWc.jpeg" alt="Cover for Dedication" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35396e2208494b6fb8a060f810caabe1.png" alt="Cover for Dedication" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Julian Sas</td>
@@ -1406,7 +1388,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 54</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1758,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 6</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1848,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/CPJi-6zEkxCjb9u1qv_LdblJMNtnqA8Yi6HuKg41HdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA3/NzEwLTE1MjEwMTQy/MDEtOTc4Ny5qcGVn.jpeg" alt="Cover for Burn It Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca8eb8cf7ebd32eef9dc60edbbb32ad.png" alt="Cover for Burn It Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-13</td>
       <td>Eric Johanson</td>
@@ -1874,6 +1856,24 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/6Sgb8o2gAeD1ocLhDY8DolN0EBRg5-lqQ8y_Mw0htLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk0/MjIyLTE1OTk3NDI3/ODYtNDcyNi5qcGVn.jpeg" alt="Cover for Look Twice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Saverio Maccne</td>
+      <td>Look Twice</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a></li>
         </ul>
       </td>
@@ -1944,7 +1944,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 33</li>
         </ul>
       </td>
     </tr>

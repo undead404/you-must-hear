@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T03:27:28.870Z
+date: 2025-11-25T08:33:59.577Z
 permalink: tags/minimalism
 title: minimalism
 ---
 
 ## minimalism
 
-Last updated: <time datetime="2025-11-20T03:27:28.870Z">Thu Nov 20 2025 05:27:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T08:33:59.577Z">Tue Nov 25 2025 10:33:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52834a0026375bf20d7deb7f151534e8.png" alt="Cover for Persian Surgery Dervishes" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8_c_BeM4C9QolDBu6-qCTGgih-BU9C83SnoZrR9zeko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDk4/MC0xNDk3MDg2OTY4/LTY1NTUuanBlZw.jpeg" alt="Cover for Strumming Music" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +119,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9175f24b9bb324d7cc8a00319e76e4b.png" alt="Cover for North Star" style="max-width:120px; height:auto;" />
       </td>
@@ -159,8 +159,8 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 65</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
@@ -214,7 +214,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d03d4631bca0cca3580dec5e9cef63d.png" alt="Cover for Ambient 1: Music For Airports (Remastered 2004)" style="max-width:120px; height:auto;" />
       </td>
@@ -233,7 +233,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/LuXdvmtPosZq1MALPC4dvPAN3ZIt94Gqe_gAdrq_bWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTA3/NC0xNjUwMjcyNjIz/LTg4OTAuanBlZw.jpeg" alt="Cover for Octet &#x2F; Music for a Large Ensemble &#x2F; Violin Phase" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +251,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e03dba0b2ca440bea318965a9190e1c4.png" alt="Cover for Ambient 2: The Plateaux Of Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -306,7 +306,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed3add189a58cb3efde7171dd7190c4.png" alt="Cover for Abandoned Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
       </td>
       <td>1985-12-11</td>
@@ -367,24 +367,6 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1985-12-11</td>
-      <td>Philip Glass</td>
-      <td>Mishima</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
         </ul>
       </td>
       <td>
@@ -413,7 +395,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
       </td>
       <td>1987</td>
@@ -431,7 +413,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/x_k6Uo9KvF1aztrmgMTu876hK16jq4v56IxWBu5BCO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ4/MC0xNTY0ODY3ODg5/LTYyMjEuanBlZw.jpeg" alt="Cover for Early Works" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +431,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1987-09-15</td>
@@ -467,7 +449,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/UQLlPjqFCPXJWb8FfTIolno-fhIZtbzgzgHB5vBTFyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTcx/NjUtMTQyMTA1MjU3/NS05ODc5LmpwZWc.jpeg" alt="Cover for One Life : four remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +479,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1988</td>
@@ -507,25 +489,6 @@ Minimalism is a style or technique of music characterized by a limited number of
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c82f630d9b3473bbada0c8267a88c1a.png" alt="Cover for Powaqqatsi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988-02-10</td>
-      <td>Philip Glass</td>
-      <td>Powaqqatsi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
@@ -578,7 +541,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1991</td>
@@ -596,7 +559,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/gf6YWvCBDY6vbFMZ1_JNxnMlSKgW-fbDtw3cSPhXDAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEw/Mi0xMTU2NjQ4MjI4/LmpwZWc.jpeg" alt="Cover for Pavilion Of Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +585,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/iTv7n5TbMr9H_zdlgYFzeABXYtkLOiHh_xJuHGHHt0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYx/OTctMTIyNzg5MzU4/MC5qcGVn.jpeg" alt="Cover for Symphony No 3" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +623,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/Hl68UoRZ7G-cnR29bCRkbBDFUF7tbTPbi9EyJXC-V2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTkx/OS0xMTg5OTU2NTA1/LmpwZWc.jpeg" alt="Cover for The Essential Philip Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +641,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b4f304bc657fa1c65b2c8b4af2ff868.png" alt="Cover for Einstein on the Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +659,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>1994-05-04</td>
@@ -713,7 +676,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2qPUlfB-ini4g_gIe0KBAiNXJRTjo39Bp3Hjwt7bGTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzgw/Ni0xMzIyNzg2MTkx/LmpwZWc.jpeg" alt="Cover for Koyaanisqatsi (Complete Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +698,7 @@ Minimalism is a style or technique of music characterized by a limited number of
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/oV7VkKzawmh3BDCrjcmSS533U4URR73mkK8cl9S5VgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcw/OTcxLTE2Mzc4MDQw/OTItOTg0Ny5qcGVn.jpeg" alt="Cover for Sax Pax for a Sax" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2968fb5413d4ed4a4a85c3d3f9fe8d7.png" alt="Cover for Sax Pax for a Sax" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Moondog</td>
@@ -751,7 +714,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/LuXdvmtPosZq1MALPC4dvPAN3ZIt94Gqe_gAdrq_bWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTA3/NC0xNjUwMjcyNjIz/LTg4OTAuanBlZw.jpeg" alt="Cover for Octet - Music for a Large Ensemble - Violin Phase" style="max-width:120px; height:auto;" />
       </td>
@@ -791,6 +754,7 @@ Minimalism is a style or technique of music characterized by a limited number of
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ae1006d978b1b3eea1dcb71bfe2119.png" alt="Cover for Koyaanisqatsi" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-19</td>
       <td>Philip Glass</td>
@@ -803,12 +767,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 44</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/VuYycFzrw4vLG4qF9TGsXlqSDFkWpw7KYCJFmmeqFx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTIw/NzUtMTI4Njk4MTMw/Ny5qcGVn.jpeg" alt="Cover for Pärt: Tabula Rasa" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +848,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ee4ed5d3054d1fcd5bd83af14679f4.png" alt="Cover for Invention" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +867,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86714c00a33a5c301dd9ccf37010d53.png" alt="Cover for E2-E4 (Mixed)" style="max-width:120px; height:auto;" />
       </td>
@@ -967,7 +931,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/159cc59f210ba5a56e799f52933203df.png" alt="Cover for The Disintegration Loops I" style="max-width:120px; height:auto;" />
       </td>
@@ -986,7 +950,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/HE_Lc4S8JKLsXkfgFd7lNzpk-qwJk4LUhbe_NgIwXFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc4/Ni0xMjAzNDE5NTQ4/LmpwZWc.jpeg" alt="Cover for Des plumes dans la tete" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +966,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 1</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 21</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 36</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
@@ -1040,7 +1004,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f3964b6aa19a230033066cc1bf75ec.png" alt="Cover for Avalon Sutra" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1029,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f2ea59f4d50f3b11eb6bc737b59d912.png" alt="Cover for Corduroy Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1054,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/KMP9IlEgZKdnRLoyrHzn0Ts0p13dvduPzg7f2bytH4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc2/Njc0LTE0OTgyMzU3/ODUtNjY2Ni5qcGVn.jpeg" alt="Cover for Ludovico Einaudi: Le onde" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1077,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/r8SGTDE9vtmtNLEOQCuW74bg9jZXufykXmz3X43MqIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjQ1/OS0xMTc3MjQyOTE0/LmpwZWc.jpeg" alt="Cover for Piano Solos Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1106,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/SqVRqySR5r8moUTFSrC8PwRn9FSQXK0vfEPIldXcVA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTQx/MTktMTQ0ODA5NjYy/OC02NzE4LmpwZWc.jpeg" alt="Cover for Rose Road - City Lines" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1150,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/127bad9092e14fa99f17ebbcbd2d40d8.png" alt="Cover for Piano Solos Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,6 +1175,29 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 72</li>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52722a07d859449d8c041c87187ec35f.png" alt="Cover for IBM 1401, A User&#39;s Manual" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-30</td>
+      <td>Jóhann Jóhannsson</td>
+      <td>IBM 1401, A User&#39;s Manual</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 39</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 40</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1251,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/526f63bfd2464e298f29fef129e5db61.png" alt="Cover for Shining Skull Breath" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1275,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/WYqyjcOCeTn4U-ie-5PyXQ-NSxHHoZOhenMRJ4zACgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU4/NzYtMTMzODExOTAy/NC0yMDQxLmpwZWc.jpeg" alt="Cover for Les Yeux Fermés &#x2F; Lifespan" style="max-width:120px; height:auto;" />
       </td>
@@ -1306,7 +1293,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d25a6bea58f4b18b57022255507280d.png" alt="Cover for Daydreaming" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1321,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c28594f861c2b3f1e5ee71e2cc53115.png" alt="Cover for Carte-de-visite" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1341,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a46a68f4c1c57fbef9dd1d9cdafe98aa.png" alt="Cover for Sound of Light - Nordic Light Hotel" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1360,26 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/WJbine7jK52c9YFYToXBgr_Kj6yGvUyDVsoJGMQghd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTQw/NjAtMTQ0ODkwMjUx/MS01ODQwLmdpZg.jpeg" alt="Cover for John Tavener A Portrait 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>John Tavener</td>
+      <td>John Tavener A Portrait 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td>2008-12-23</td>
@@ -1437,7 +1443,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b61dc7a0d14eff5b8c5b19312ba3a37c.png" alt="Cover for The Bells" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1472,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2009-09-20</td>
@@ -1516,7 +1522,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/_0TiiXMfvVEIKmjam6AbFO3HY1TJ7_bCDoNfaHkpJ1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTI5/MTAtMTM5MTI3NzUw/Ni04MzE2LmpwZWc.jpeg" alt="Cover for Passages" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1540,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64fdfd7f96164b07a3221f1796340374.png" alt="Cover for Reverie" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1673,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a10638c3d264ec4abf2a1c9e5092bb1.png" alt="Cover for In The Mist" style="max-width:120px; height:auto;" />
       </td>
@@ -1701,7 +1707,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16fdee509299459e93bff6896c844c0d.png" alt="Cover for Lifenotes" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1728,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/734bc49bc9d74737b92a73c1317ac0ac.png" alt="Cover for Moon Ate the Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1755,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14729fe808404f8a8131e98e027db9a5.png" alt="Cover for Screws" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1838,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>2013-06-02</td>
@@ -1867,7 +1873,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2013-07-15</td>
@@ -1901,7 +1907,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d496db9b0d64a7aca6233a16f6acb49.png" alt="Cover for The Unintentional Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,7 +1940,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
       </td>
       <td>2014-02-04</td>
@@ -1961,7 +1967,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/YVDo_i41c82WopHwZuYgeEG60h5ueyZHfgcGNR9stwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTM4/MzItMTM4ODgyNjI2/NS04OTE4LmpwZWc.jpeg" alt="Cover for Abandoned City" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,7 +2000,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a44ae81f14d9497bc966128037c1000f.png" alt="Cover for Stateless" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,7 +2051,7 @@ Minimalism is a style or technique of music characterized by a limited number of
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/7aaquEjKE8yZuLVB6jLunMhSCXg8EPXKtVm5tsNohEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA1/MTAtMTQzMzkzOTg3/Mi00NTEyLmpwZWc.jpeg" alt="Cover for Music for the Motion Picture Victoria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde5f0fba9815b550299f2ac810d0e88.png" alt="Cover for Music for the Motion Picture Victoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-12</td>
       <td>Nils Frahm</td>
@@ -2108,8 +2114,8 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 13</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 100</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2129,13 +2135,13 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 81</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4eb10728b7167375923be2ff57e470e.png" alt="Cover for Let Night Come On Bells End The Day" style="max-width:120px; height:auto;" />
       </td>
@@ -2176,7 +2182,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gz_qdlAIfJFDQihsw5LzYrhLF4Y-LOKwJas6aI62FJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcw/ODAxLTE1NzMxNjI3/OTMtMzgxMC5qcGVn.jpeg" alt="Cover for Six Lethargies" style="max-width:120px; height:auto;" />
       </td>
@@ -2216,7 +2222,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26c90de765e10d57cefbaa76b9c52f24.png" alt="Cover for Help" style="max-width:120px; height:auto;" />
       </td>
@@ -2238,7 +2244,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d56c991a3006d27ca7386869e626752.png" alt="Cover for All Thoughts Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -2278,14 +2284,14 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 60</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 65</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/sN3JqQdv4saxf78JLLxH_1Ppt1oIWRC2K5r_YksKKS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM0/ODk1LTE2NjE2MzI1/MzEtMzkwNC5qcGVn.jpeg" alt="Cover for A Thirst for Summer Rain" style="max-width:120px; height:auto;" />
       </td>
@@ -2323,7 +2329,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/sQtAyWW_Fh05hW65X9MuGotWdX5dynLrg7ZzLZGsVs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIz/MTY5LTE3MTgwMTcw/OTItNDE1OS5qcGVn.jpeg" alt="Cover for Soft Power" style="max-width:120px; height:auto;" />
       </td>
