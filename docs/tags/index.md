@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-24T16:07:52.164Z
+date: 2025-11-24T17:41:07.054Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-24T16:07:52.164Z">Mon Nov 24 2025 18:07:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T17:41:07.054Z">Mon Nov 24 2025 19:41:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [sampling]({{ "tags/sampling" | relative_url }}) | <time datetime="2025-11-24T17:41:07.054Z">Mon Nov 24 2025 19:41:07 GMT+0200 (Eastern European Standard Time)</time> |
 | [russian rap]({{ "tags/russian-rap" | relative_url }}) | <time datetime="2025-11-24T16:07:52.164Z">Mon Nov 24 2025 18:07:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie electronic]({{ "tags/indie-electronic" | relative_url }}) | <time datetime="2025-11-24T15:34:38.319Z">Mon Nov 24 2025 17:34:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [west coast rap]({{ "tags/west-coast-rap" | relative_url }}) | <time datetime="2025-11-24T15:34:07.772Z">Mon Nov 24 2025 17:34:07 GMT+0200 (Eastern European Standard Time)</time> |
@@ -325,7 +326,6 @@ Last updated: <time datetime="2025-11-24T16:07:52.164Z">Mon Nov 24 2025 18:07:52
 | [mathcore]({{ "tags/mathcore" | relative_url }}) | <time datetime="2025-11-23T10:07:50.001Z">Sun Nov 23 2025 12:07:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [symphonic prog]({{ "tags/symphonic-prog" | relative_url }}) | <time datetime="2025-11-23T10:07:16.769Z">Sun Nov 23 2025 12:07:16 GMT+0200 (Eastern European Standard Time)</time> |
 | [hardcore]({{ "tags/hardcore" | relative_url }}) | <time datetime="2025-11-23T09:35:11.132Z">Sun Nov 23 2025 11:35:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [sampling]({{ "tags/sampling" | relative_url }}) | <time datetime="2025-11-23T08:59:54.169Z">Sun Nov 23 2025 10:59:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [funk rock]({{ "tags/funk-rock" | relative_url }}) | <time datetime="2025-11-23T08:59:14.104Z">Sun Nov 23 2025 10:59:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [thrash metal]({{ "tags/thrash-metal" | relative_url }}) | <time datetime="2025-11-23T08:58:36.692Z">Sun Nov 23 2025 10:58:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [metalcore]({{ "tags/metalcore" | relative_url }}) | <time datetime="2025-11-23T08:57:54.837Z">Sun Nov 23 2025 10:57:54 GMT+0200 (Eastern European Standard Time)</time> |
