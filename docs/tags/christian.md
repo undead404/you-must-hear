@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:19:45.379Z
+date: 2025-11-24T22:25:38.048Z
 permalink: tags/christian
 title: christian
 ---
 
 ## christian
 
-Last updated: <time datetime="2025-11-23T11:19:45.379Z">Sun Nov 23 2025 13:19:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T22:25:38.048Z">Tue Nov 25 2025 00:25:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 69</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -302,6 +302,30 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68982cce93b18ba13f8b230e6630ee05.png" alt="Cover for The Wraith: Shangri-La" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-05</td>
+      <td>Insane Clown Posse</td>
+      <td>The Wraith: Shangri-La</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 28</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1248,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/639ab876300bad997dc2967f27388802.png" alt="Cover for The War I Wage EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,25 +1363,6 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e5032a02d7b47fc90e5b94ca3e3d201.png" alt="Cover for The Lighthouse And The Whaler" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-11-09</td>
-      <td>The Lighthouse and the Whaler</td>
-      <td>The Lighthouse And The Whaler</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>22</td>
       <td>
       </td>
@@ -1396,7 +1401,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-05-04</td>
@@ -1480,7 +1485,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-03-22</td>
@@ -1707,17 +1712,17 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 60</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 61</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
+            <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
@@ -1725,7 +1730,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1751,7 +1756,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2015-05-26</td>
