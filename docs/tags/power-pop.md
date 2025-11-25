@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:25:50.354Z
+date: 2025-11-25T01:42:23.593Z
 permalink: tags/power-pop
 title: power pop
 ---
 
 ## power pop
 
-Last updated: <time datetime="2025-11-23T11:25:50.354Z">Sun Nov 23 2025 13:25:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T01:42:23.593Z">Tue Nov 25 2025 03:42:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e95950fb75249bec9fffd8f17b7bc24.png" alt="Cover for #1 Record" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa93e6be45cf30b0e55cb4ea3787af9.png" alt="Cover for Shake Some Action" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d59b3c788b0d34e9c1c710d073dd269f.png" alt="Cover for In Color" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1978</td>
@@ -119,7 +119,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bd0741115d06033a33798ab73a988a7.png" alt="Cover for Heaven Tonight" style="max-width:120px; height:auto;" />
       </td>
@@ -189,12 +189,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 33</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec4d3d636df4092bd5f6105f158dcdd.png" alt="Cover for Working Class Dog" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +212,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9d058fe19fceeb823187ed205b02857.png" alt="Cover for New Clear Days" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/521dc1f51e98c3a7d9e731eccf3d17b3.png" alt="Cover for Play Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +249,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7497e00122c19da7bd3627f81a6cb710.png" alt="Cover for TALKING IS HARD (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57c24bcd06213b8cae12d45372e408c0.png" alt="Cover for Girlfriend" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e02168f4f4445cdc5ef49212994b9de.png" alt="Cover for Bandwagonesque" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15fca4537b1b4ae5caba1224626b8880.png" alt="Cover for New Miserable Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +363,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3588a9cd120d5a569551577318cc281b.png" alt="Cover for Spilt Milk" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +381,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1993-04-27</td>
@@ -399,7 +399,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b134c382f89f405c847fb377ca082754.png" alt="Cover for L.P." style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +436,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c66b0e1defc8eaa6e4dbdb227b809651.png" alt="Cover for Follow You Down" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +456,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c596b26144d1b87a5789484658059d9.png" alt="Cover for Congratulations I&#39;m Sorry" style="max-width:120px; height:auto;" />
       </td>
@@ -488,8 +488,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/280e615ce1fe46b7c68b013fc1a79440.png" alt="Cover for Predicts the Future" style="max-width:120px; height:auto;" />
       </td>
@@ -531,12 +531,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 90</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aafaa58f3d54fa58f3e77ac0faaa078.png" alt="Cover for ...The Dandy Warhols Come Down" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +554,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b35aca2f5dfcd3497085d7ad79932d5e.png" alt="Cover for Split Personalities" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +612,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ccb999c085db460ee7a9c98a544454d.png" alt="Cover for Time Capsule" style="max-width:120px; height:auto;" />
       </td>
@@ -630,7 +630,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999-04-06</td>
@@ -647,7 +647,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed2b9633645209ed9dce832056cf7f6.png" alt="Cover for The Madding Crowd" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +667,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d09ac1d516d3ce8e7da5acb3d1eafe80.png" alt="Cover for Maroon" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +721,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -761,7 +761,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2001-08-21</td>
@@ -780,7 +780,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/167ca36f7d2e4c6bcca4ace8848ceb2f.png" alt="Cover for Smash Mouth" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +801,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73c90440fd7f7c863b7097d0aa5d3d6.png" alt="Cover for Lapalco" style="max-width:120px; height:auto;" />
       </td>
@@ -811,6 +811,27 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ed34b28e9abba078e2dcd7eb91e67da.png" alt="Cover for Discotecagem Pop Variada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-30</td>
+      <td>Jota Quest</td>
+      <td>Discotecagem Pop Variada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
@@ -834,12 +855,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 8</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89a19e5058a036f304f1292a52c86f3e.png" alt="Cover for Guitar Romantic" style="max-width:120px; height:auto;" />
       </td>
@@ -891,32 +912,6 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef7e11f53f7a380cd73258c8ff2ea192.png" alt="Cover for More Adventurous (U.S. Release)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-08-17</td>
-      <td>Rilo Kiley</td>
-      <td>More Adventurous (U.S. Release)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 54</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 64</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +974,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c6c5bc6a84c3ddb185f84f5fe92b73.png" alt="Cover for Popaganda" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +992,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ea295a742aa15a7c87d5d5d522ab80a.png" alt="Cover for Raro" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1032,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dd1f6a06b3e3dd7eff3a08b4e87c051.png" alt="Cover for Little Busters" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1054,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5553bd77c2364f0d8b860387f9d54523.png" alt="Cover for Greetings From" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,7 +1113,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/528160a35c138be2bff4ff025743cbee.png" alt="Cover for Flashback" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,11 +1130,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0462d4515a34000c0892488313a3394.png" alt="Cover for Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1173,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/903e1104ef5f4874c8493209b93b8f2f.png" alt="Cover for Hannah Montana Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1210,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f678deb0dce8487dc869545b1a3c7839.png" alt="Cover for Ceremonials (Original Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1243,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 3</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 70</li>
         </ul>
       </td>
@@ -1267,12 +1263,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4517827f4d681b67fd5bceb241b8a4e5.png" alt="Cover for Porfiado" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,7 +1286,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80ed6c55faf3b6dd776ba25ee157a265.png" alt="Cover for Lightning" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,7 +1306,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13d3593013f04c90cc4759249b3f12a8.png" alt="Cover for Ten" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,7 +1327,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/919a1916404a2777163ed83f0057f9cb.png" alt="Cover for Paramore" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,15 +1343,15 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 28</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 49</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 29</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 50</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a1b19e001fe2adb697f55df60aacdd.png" alt="Cover for Everything Will Be Alright in the End" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,12 +1405,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 53</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7ce950fb1b356158e6653800c089828.png" alt="Cover for Montgomery Ricky" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,12 +1423,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 59</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/lT-wUNFhlr5lCATA69LcBxwx7sVdpr41NqrAzBwlQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQ4/MjItMTQ2MzkzNDUw/Ny05MjE4LmpwZWc.jpeg" alt="Cover for Teens Of Denial" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,15 +1442,16 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 4</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 37</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 86</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/rGOoOW84RpOWCmKOg5VKKepnt26MDXmSdhRANVHnEOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTA4/MjMtMTUzNTc3NDcw/MC00NDEzLmpwZWc.jpeg" alt="Cover for Teens Of Style" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1473,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a840fad3ff4cb32abff1fea515cd1e7.png" alt="Cover for New Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,8 +1512,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 16</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
             <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 95</li>
@@ -1564,7 +1561,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4c4f4eb4fa6e9215ecb6705cbb72de.png" alt="Cover for After Laughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,12 +1580,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 73</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 87</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 97</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/479f4ca42a7ec86488a1611845eb04d4.png" alt="Cover for I Love You Like A Brother" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1602,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 47</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 49</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 98</li>
         </ul>
       </td>
@@ -1630,7 +1627,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91925923feca34b32fd197a0e9b45ee.png" alt="Cover for Bend &amp; Break" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,7 +1651,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 29</li>
             <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 91</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 97</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 100</li>
@@ -1662,7 +1659,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8349beb95198a9015ef6b76c2feed67.png" alt="Cover for Terrible Thrills, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1695,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 59</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 83</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 84</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
         </ul>
       </td>
@@ -1756,8 +1753,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 21</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 52</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 22</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 96</li>
         </ul>
@@ -1782,7 +1779,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/Xx7jgBdECDrqVxUxpyibtMfXPBB3JYetI-w1DjfxJ4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUz/MDUwLTE2MjQ0OTU0/MzEtNDQ2OS5qcGVn.jpeg" alt="Cover for Death Of A Cheerleader" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,11 +1803,11 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 12</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 14</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 21</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 30</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 55</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 66</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 90</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1831,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f7ce71d309a73aef06d08039b0e75e6.png" alt="Cover for Open Mouth, Open Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,8 +1908,8 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 66</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 80</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 81</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 91</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 98</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 100</li>
@@ -1936,12 +1933,12 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 73</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/087f3a5c66aba7b46e132be12735e1c2.png" alt="Cover for Life Under The Gun" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,13 +1975,13 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 41</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6b0a7ac633a7ae26c8e4da9a663bef.png" alt="Cover for Cartwheel" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,7 +2002,7 @@ Power pop is a style of rock music that emerged in the late 1960s and gained pop
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb3bde22a87ff8b31c0dd915206aa38f.png" alt="Cover for APT." style="max-width:120px; height:auto;" />
       </td>

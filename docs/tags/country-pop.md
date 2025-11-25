@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:26:20.160Z
+date: 2025-11-25T02:16:30.061Z
 permalink: tags/country-pop
 title: country pop
 ---
 
 ## country pop
 
-Last updated: <time datetime="2025-11-23T11:26:20.160Z">Sun Nov 23 2025 13:26:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T02:16:30.061Z">Tue Nov 25 2025 04:16:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,6 +47,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 10</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 29</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 99</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 99</li>
@@ -112,8 +113,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 43</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 74</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 44</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 96</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 98</li>
         </ul>
@@ -139,7 +140,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18c3b8e09c59cca181c9becc5ba313e4.png" alt="Cover for Up!" style="max-width:120px; height:auto;" />
       </td>
@@ -157,7 +158,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-01-01</td>
@@ -174,7 +175,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6607a8a120164e0782eb86935d4ad1d1.png" alt="Cover for Let&#39;s Be Us Again" style="max-width:120px; height:auto;" />
       </td>
@@ -193,7 +194,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7caaf35b42fe4b458dedc3dec6e58a3b.png" alt="Cover for Some Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -207,13 +208,13 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 52</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 70</li>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 53</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d60d9367bceb0ee1eb97a11033fa37ed.png" alt="Cover for Taylor Swift" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +270,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/SWrE-M-jUrzTkMZN64OfYpBHrzai_OggcnSGpI7chS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM5/MzUtMTUyOTY2OTk2/NC02ODIxLmpwZWc.jpeg" alt="Cover for The Climb - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +285,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 52</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -346,7 +347,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2ae5d863734a1dca35d8b67c86674f.png" alt="Cover for Everything Comes And Goes" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +388,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da9cbf2081f721374a9084ba15a82aa.png" alt="Cover for Speak Now (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +441,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 82</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -478,12 +479,12 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 87</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3727b95c9ccb4b9a894ae15fe3db1319.png" alt="Cover for Speak Now World Tour Live" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +498,6 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -520,7 +520,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0e40dd029354036a24c7e96f481a4e7.png" alt="Cover for It&#39;z Just What We Do" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +540,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad99371a89ed925f63ee3737b4bf9908.png" alt="Cover for Red" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +555,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 92</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21599a732142408cb069b005a78a671c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -686,8 +686,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       <td>
         <ul>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 15</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -709,9 +709,9 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 1</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 88</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -799,8 +799,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 20</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -821,8 +821,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 4</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -845,13 +845,13 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       <td>
         <ul>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 16</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 78</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/dyTP8qe1dETC0rMbgha0m8nH01o5pFQO9dgaAqtbKDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjU1/MjYtMTYwODUwNTMx/MS03ODQ5LmpwZWc.jpeg" alt="Cover for American Love" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +868,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 38</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 64</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 66</li>
         </ul>
       </td>
@@ -916,7 +916,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/vqW9HSYXFG7e52SFUvJuJTMEVDZdybaKDCzMTxb9rsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg2/MjkwLTE1OTc3Njk0/MzgtNTkyNC5wbmc.jpeg" alt="Cover for Used to You" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +932,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +996,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7742916ba7f05db0caf8f715757ded5.png" alt="Cover for Fearless (Platinum Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,12 +1010,12 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 58</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb3edcb2293959b428c66411425b1faa.png" alt="Cover for boom." style="max-width:120px; height:auto;" />
       </td>
@@ -1050,8 +1050,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 25</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 77</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 93</li>
         </ul>
       </td>
@@ -1074,9 +1074,9 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 70</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 81</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 88</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 71</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 85</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1094,13 +1094,13 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 13</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 44</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/smXsIiTVPcLNc3soj9brl25HJNkVqyhfZiS459hIIxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MzM1LTE2NjIyMzg2/NDAtNjkwMC5qcGVn.jpeg" alt="Cover for Graffiti U" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,13 +1135,13 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 3</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e9d4087fdd6ed5d9921239f240fc53.png" alt="Cover for Here and Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1160,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb9b7d07aa0c259cda475cb2632915d.png" alt="Cover for Cry Pretty" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1178,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/bCt5LQXnDh-kav1ggta6p7R78bvsl4roauCEtNAS3Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDMz/MDkyLTE1NDY4MzI4/NDEtNzY1MS5qcGVn.jpeg" alt="Cover for All Of It" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,8 +1195,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 33</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1243,7 +1243,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0b699f0e69b662b56da1e3a09f5d1f7.png" alt="Cover for Beer Never Broke My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1260,12 +1260,33 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/eVdGfA2Wk9Ge_2sGS-5yrKt-u4CU_WJw0A9mRJSDYJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYw/NTcyLTE1NjA1MzI3/ODMtNDM2Ny5qcGVn.jpeg" alt="Cover for The Great Divide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-07</td>
+      <td>Luke Combs</td>
+      <td>The Great Divide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/vqW9HSYXFG7e52SFUvJuJTMEVDZdybaKDCzMTxb9rsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg2/MjkwLTE1OTc3Njk0/MzgtNTkyNC5wbmc.jpeg" alt="Cover for 5 Leaf Clover" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1302,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1323,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 19</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1323,8 +1344,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 8</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 38</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1343,8 +1364,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 79</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 79</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 82</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 87</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 95</li>
         </ul>
@@ -1367,8 +1388,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 12</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 82</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1413,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/oXhvgJuDox4ACtXjW_zD18okJQ5PG3WhVqu8WFDRuSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg2/MTgwLTE1OTc3Njg0/NDUtOTA2NC5qcGVn.jpeg" alt="Cover for Six Feet Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,7 +1429,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1463,11 +1484,12 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/1KYDVhYSkVAsstQay9Czw8VDQqdxRRGu4Zkogu1jB7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MDYyLTE2MDEwNDcw/NTctNDc5NC5qcGVn.jpeg" alt="Cover for My Gift" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,8 +1525,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 10</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1552,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a523de2b3a2b2d8a2f6ad12e8f69af5c.png" alt="Cover for Life Rolls On" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,7 +1575,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/618ecbdc92684f49be03b4e57a9000f2.png" alt="Cover for We Are Never Ever Getting Back Together - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1609,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 61</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 41</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 71</li>
         </ul>
       </td>
@@ -1610,9 +1632,9 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 9</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 29</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1630,13 +1652,12 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Im_OAWeJtoybFaZrJHpDnXBlh-3MRtezZEAaj5Pb-BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk4/MzU4LTE2Mjk5Njg1/NDktNzQ5MC5qcGVn.jpeg" alt="Cover for South On Ya" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1673,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 46</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1694,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1712,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1712,29 +1734,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d8ec3df62b4755ff9c04cabb00a390f.png" alt="Cover for The More Fearless (Taylor’s Version) Chapter" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-01</td>
-      <td>Taylor Swift</td>
-      <td>The More Fearless (Taylor’s Version) Chapter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1756,8 +1756,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 17</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1778,8 +1778,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 7</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1802,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/DY01dOMkYKwbH6kysCEkg5LY4OIUZUZReAXY7-NTg6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc1/NTk4LTE2NTUyMzYy/MzQtMzY4OC5wbmc.jpeg" alt="Cover for Cross Country" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1820,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4170c3e36ed822349b8cffb66f21dbc.png" alt="Cover for The Hardest Part (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1836,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1892,13 +1892,13 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 67</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 73</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/wYAhxNSlQA4Wca37DTRIi0lBFX-inD1UpZKnLP7SRr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI3/Mzc4LTE1MDQ5NjQ4/NjEtNzk5Mi5qcGVn.jpeg" alt="Cover for Up! (Green Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1933,7 +1933,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 65</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 89</li>
         </ul>
       </td>
@@ -2029,37 +2029,37 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
@@ -2075,20 +2075,20 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/H2hI0WaPqV64v0NGUrUtzHYcI9bA7Bv3NC6lbEPUSfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU1/Mjg5LTE2NzYwNDM4/NjctNDI5My5qcGVn.jpeg" alt="Cover for Growin&#39; Up and Gettin&#39; Old" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,12 +2104,12 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/H2hI0WaPqV64v0NGUrUtzHYcI9bA7Bv3NC6lbEPUSfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU1/Mjg5LTE2NzYwNDM4/NjctNDI5My5qcGVn.jpeg" alt="Cover for Beautiful Crazy" style="max-width:120px; height:auto;" />
       </td>
@@ -2125,7 +2125,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2146,8 +2146,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 2</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 82</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2187,7 +2187,7 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 48</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 53</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
         </ul>
       </td>
@@ -2209,8 +2209,8 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 3</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 86</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 5</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2228,4 +2228,4 @@ Country pop is a subgenre of country music that emerged in the 1960s and combine
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
-- [american]({{ "/tags/american" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
