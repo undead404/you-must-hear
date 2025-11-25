@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:08:30.437Z
+date: 2025-11-24T18:01:29.367Z
 permalink: tags/neo-psychedelia
 title: neo-psychedelia
 ---
 
 ## neo-psychedelia
 
-Last updated: <time datetime="2025-11-23T10:08:30.437Z">Sun Nov 23 2025 12:08:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T18:01:29.367Z">Mon Nov 24 2025 20:01:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
   </thead>
   <tbody>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26e4b3a9e92a4003b20a81d061dde12c.png" alt="Cover for Playing With Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -43,13 +43,13 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 28</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 29</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97f26b33b8ed6632be54860099a82f25.png" alt="Cover for Starfish" style="max-width:120px; height:auto;" />
       </td>
@@ -63,12 +63,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 1</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a374fbcf38d5da3031dc5c03963d8a.png" alt="Cover for Pills &#39;N&#39; Thrills And Bellyaches (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60615ead3d8383e70e84a526817de4bf.png" alt="Cover for So Tonight That I Might See" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901d12187dd04481c4193fca495a0c7e.png" alt="Cover for Definitely Maybe (Remastered) [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdce8a547e0003901a829ebce43183c.png" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
       </td>
@@ -179,12 +179,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f80a44bb84c662d615f9db92767e8b1c.png" alt="Cover for Urban Hymns (Remastered 2016)" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +197,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 14</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 15</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 89</li>
         </ul>
       </td>
@@ -262,7 +262,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ab84732ec042ad0ad34474b3201c936.png" alt="Cover for Cherry Peel" style="max-width:120px; height:auto;" />
       </td>
@@ -276,12 +276,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 85</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6b1e55bbb9b4b3969761dde82b1682d.png" alt="Cover for Radiator" style="max-width:120px; height:auto;" />
       </td>
@@ -318,12 +318,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9c4b1bfabf158dbc2d264111f6c1324.png" alt="Cover for Turning Into Small" style="max-width:120px; height:auto;" />
       </td>
@@ -343,15 +343,15 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 87</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 88</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/507c3f4c1863a05626a445057871b56e.png" alt="Cover for Cracker Island" style="max-width:120px; height:auto;" />
       </td>
@@ -366,9 +366,9 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 32</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -387,14 +387,14 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4d941f69c74be4ac08c91ab90a773a.png" alt="Cover for Spirit They&#39;ve Gone, Spirit They&#39;ve Vanished" style="max-width:120px; height:auto;" />
       </td>
@@ -409,12 +409,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cebf2708f83fe0b181647eee815b121.png" alt="Cover for Here Comes the Indian" style="max-width:120px; height:auto;" />
       </td>
@@ -431,13 +431,13 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 63</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 89</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20fb9303fb75b4e117637ad73424c9f6.png" alt="Cover for Danse Manatee" style="max-width:120px; height:auto;" />
       </td>
@@ -476,9 +476,9 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 84</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 89</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -497,8 +497,9 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 1</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 21</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 100</li>
@@ -532,14 +533,14 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 6</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 87</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 92</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/825a7847871947ed9fb2f0c7ac795d3b.png" alt="Cover for People" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +559,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/999a5b8830467c94ef8a8a9cd48b5bc5.png" alt="Cover for Hissing Fauna, Are You the Destroyer?" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +572,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -608,10 +609,10 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 12</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 37</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
         </ul>
       </td>
@@ -632,14 +633,14 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 7</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 39</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 61</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d8a2b3aab7431cb9a9a254519c6963.png" alt="Cover for All Hour Cymbals" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +658,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94ac129e438dc364d21d330f5387583c.png" alt="Cover for The Acrobats" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +722,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png" alt="Cover for Humbug" style="max-width:120px; height:auto;" />
       </td>
@@ -786,8 +787,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 79</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 79</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 79</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 84</li>
         </ul>
       </td>
@@ -806,7 +807,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 18</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 26</li>
         </ul>
       </td>
@@ -831,7 +832,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2010-09-01</td>
@@ -846,7 +847,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 48</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 50</li>
             <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 88</li>
         </ul>
       </td>
@@ -884,7 +885,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 47</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 97</li>
         </ul>
@@ -908,7 +909,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 84</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
             <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
@@ -957,7 +958,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
     <tr>
       <td>50</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab9ed65c5b337129f6b50ca5894d7319.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b92b7d58d108cd7a8c18b78f5433a.png" alt="Cover for Norman Fucking Rockwell!" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Lana Del Rey</td>
@@ -971,13 +972,13 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 63</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
@@ -986,7 +987,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de477d524b724574abebd3e2fab76ff9.png" alt="Cover for Centipede Hz" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1061,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e19c946c0c4bdccb85685c0ae1ff74.png" alt="Cover for Dreamzone" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1077,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 9</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1100,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d025a84bf78a4bbf351b353565b06b81.png" alt="Cover for Tyranny" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1162,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Wf5TThYC0EE0AVLxF6oGPv63EmhfQRPZmyQeQoPkNdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTE4/MzAtMTQ1MzQ2MzE2/Ny04MTY5LmpwZWc.jpeg" alt="Cover for Glamorous Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,12 +1179,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81019b78032702024d4b0a4f82a38205.png" alt="Cover for SLEEP CYCLE" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,6 +1252,24 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb683193ee027428dd2df84982f989fc.png" alt="Cover for Oczy Mlody" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-13</td>
+      <td>The Flaming Lips</td>
+      <td>Oczy Mlody</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c779b98a6b263f55419ce74f70f587.png" alt="Cover for The Weather" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-05</td>
@@ -1262,7 +1281,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1297,9 +1316,9 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 31</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 35</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 88</li>
         </ul>
       </td>
@@ -1319,8 +1338,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 21</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1363,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 71</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 76</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 92</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 96</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 99</li>
@@ -1367,17 +1386,17 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 82</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 87</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd65cfa490d342d493cebe2b2fdb32a3.png" alt="Cover for Crumbling" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,8 +1409,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 77</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 98</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1455,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 75</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 99</li>
         </ul>
@@ -1463,9 +1481,9 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 99</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 100</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 100</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1505,14 +1523,14 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 14</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 16</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2019-08</td>
@@ -1550,7 +1568,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 14</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 72</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 85</li>
@@ -1585,7 +1603,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b5283fa61d8df6e2e0466946027c16.png" alt="Cover for Apollo XXI" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1617,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 90</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1620,11 +1638,11 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 56</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 64</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 59</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 65</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 84</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1692,8 +1710,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 94</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 94</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1715,13 +1733,13 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 79</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f696f58c83a17df71f51c2b9819cdff6.png" alt="Cover for Man Alive!" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,12 +1752,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 19</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e46e88f240553164822da1e60701809.png" alt="Cover for Heaven to a Tortured Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1771,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 88</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1796,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6820b92477ea180d2007640a56e8f7.png" alt="Cover for Free Nationals" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,6 +1809,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1834,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 56</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 55</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 82</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 92</li>
         </ul>
@@ -1863,7 +1884,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d65e033c5b1339a7aae6d10be5a6784a.png" alt="Cover for Time Skiffs" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1919,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 82</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 98</li>
         </ul>
       </td>
@@ -1917,7 +1938,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 72</li>
         </ul>
       </td>
@@ -1936,11 +1957,11 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 20</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 48</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 23</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 51</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 81</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 82</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
@@ -1961,7 +1982,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 40</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 52</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 84</li>
         </ul>
       </td>
@@ -1988,7 +2009,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 95</li>
@@ -2027,7 +2048,7 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/RMFck2YzuuIY13rmnHvTvnRrxmD9Ba4rjjyibaDenf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE5/NDQwLTE3MDYzMTE3/NTUtNDU5NC5qcGVn.jpeg" alt="Cover for Wall of eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,36 +2066,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 27</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 76</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 83</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8168e0e522ac481a2421373ddc28a02.png" alt="Cover for Scrapyard" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-02-16</td>
-      <td>Quadeca</td>
-      <td>Scrapyard</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 78</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2094,12 +2087,12 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/mChBy1BY8kP413x9IfcWZtiMRil9ZM9K1-P-fGmBsSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ2/MzIxLTE3MjQzNDQz/NTktNjkxMC5qcGVn.jpeg" alt="Cover for Imaginal Disk" style="max-width:120px; height:auto;" />
       </td>
@@ -2114,13 +2107,13 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 14</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 44</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 64</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be8361eb106b87e8e781ad4ad1af22fc.png" alt="Cover for My Magic Is Strong" style="max-width:120px; height:auto;" />
       </td>
@@ -2144,14 +2137,14 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 53</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 56</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 54</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0b389bb4cbf522bc5a2b58e15b6620.png" alt="Cover for Chromakopia" style="max-width:120px; height:auto;" />
       </td>
@@ -2164,7 +2157,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
         </ul>
@@ -2185,8 +2179,8 @@ Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 42</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
         </ul>
       </td>
     </tr>

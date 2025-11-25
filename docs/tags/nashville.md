@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T03:45:39.933Z
+date: 2025-11-24T17:43:06.997Z
 permalink: tags/nashville
 title: nashville
 ---
 
 ## nashville
 
-Last updated: <time datetime="2025-10-29T03:45:39.933Z">Wed Oct 29 2025 05:45:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T17:43:06.997Z">Mon Nov 24 2025 19:43:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/fSmMoqc0oLST9ZuyEpgKvd31l2APObGhxItScIusHn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTU5/OTYtMTM4MDUwMDk5/MS0yMzg1LmpwZWc.jpeg" alt="Cover for Moseley EP" style="max-width:120px; height:auto;" />
       </td>
@@ -121,6 +121,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cac5f2f5f90e6bc6f5132f2747646519.png" alt="Cover for Inside Job" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Marshall Chapman</td>
@@ -159,7 +160,6 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/CDIOCqewBM9xE82lktZPtmnXhx7XdHLMbzhfRbonol4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njg4/ODctMTQ4MTExNjM4/Mi0xMTQxLmpwZWc.jpeg" alt="Cover for Paint Me In" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Willie Pearl</td>
@@ -181,6 +181,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d58ced01a6c562d27f04e50ecaf8a548.png" alt="Cover for The Essential Bobby Bare" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02-11</td>
       <td>Bobby Bare</td>
@@ -196,7 +197,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>1998</td>
@@ -256,7 +257,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Give Hope This Christmas - A Gift from Blood:Water Mission" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44185d9ef0f036defefd1d731ec90516.png" alt="Cover for Give Hope This Christmas - A Gift from Blood:Water Mission" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Various Artists</td>
@@ -334,7 +335,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wSmFdDF7UoMLWp8wF5as6dgeCdR-L_NUQENkZFPaDWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ1/NjcwLTE1NDcwNjc4/NTgtMjE4Ni5qcGVn.jpeg" alt="Cover for Remember Me" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +410,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/_IBHz_3BC0IdN69jRgmxoK9CX0yQi8nkfKHleDEjy80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg3/OTctMTIyMjcyMzI4/My5qcGVn.jpeg" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7af4f0e37f4e0da3246a29e95cab48.png" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-19</td>
       <td>Worldwide Groove Corporation</td>
@@ -434,7 +435,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/nagX8aJiO3CLSpr15WKMo7z8DI3Tmywngbpz-XM8K2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcx/MzQtMTM3NTgzNzc1/My00NzI5LmpwZWc.jpeg" alt="Cover for Treehouse &amp; Mother Tongue (Robjn Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c9c96d43b34c36aae8879ffc69bb6f.png" alt="Cover for Treehouse &amp; Mother Tongue (Robjn Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Canon Blue</td>
@@ -451,7 +452,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 12</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -535,6 +536,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7955fcae54344f5381bf8283ef357752.png" alt="Cover for Back To Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>Beth Nielsen Chapman</td>
@@ -554,7 +556,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/pHxpfTIYzjZyBfV4u5aMFGR353WFMO_DbwdvVzBjxtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk1/MTg5LTE1MTU1NDky/NzEtNzMyNy5qcGVn.jpeg" alt="Cover for Why But Of Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +577,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/9Fen3Y-1f_az6aQ-jAXYpkQVC_yJalI52GbesjJIdQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjk2/MDUtMTM1NjI3OTEy/MC05MDYxLmpwZWc.jpeg" alt="Cover for All Them Witches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33f146fb665d40c89008f6c4dddf446a.png" alt="Cover for All Them Witches" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-06</td>
       <td>The Black Cadillacs</td>
@@ -597,7 +599,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/xGY75xVMbsMCbG-t-r163ttsxAB4d6RpF9joUuSPCOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk1/NDI5LTE1MzQ0MTM1/NjMtMjE5Ny5qcGVn.jpeg" alt="Cover for Faceless Sonic Boom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c3901bd1a194d71812a1088b36d55ae.png" alt="Cover for Faceless Sonic Boom" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-04</td>
       <td>Girls In The Eighties</td>
@@ -617,6 +619,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a01f59f4bb433a54a7617dff16dc5e.png" alt="Cover for The Delta Saints" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Delta Saints</td>
@@ -656,7 +659,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/HxDS-l7KidUwsozhCaTE7XCgcanMLLkAc23XVCRf6d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/MzktMTMxMjc0Mjg4/MC5qcGVn.jpeg" alt="Cover for Sounds Like Money" style="max-width:120px; height:auto;" />
       </td>
@@ -695,7 +698,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2012</td>
@@ -794,6 +797,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8287a50366948729a979f41ab8fc1f6.png" alt="Cover for Americanized" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-05</td>
       <td>Tom Beck</td>
@@ -849,7 +853,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/QlFO3d48KoKRrXwjU5CaSp1Xk89kGQKrVMFhqOJl-vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc3/MzkxLTE1OTIxNzI4/NzUtMzE1MS5qcGVn.jpeg" alt="Cover for Everything Happens For A Reason" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db7e6b9bf8deabd03ea22715b147b3e6.png" alt="Cover for Everything Happens For A Reason" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Carly Jamison</td>
@@ -872,9 +876,9 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/ZzbGk18Gr55ljMA6nsmyAuuTatnL21D393ek132G510/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAx/ODAtMTM3NDYyODQy/NS0xMjYxLmpwZWc.jpeg" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cce2f46a54cf037c82e42151a883feea.png" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Sarah Siskind</td>
@@ -938,7 +942,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/I2WwjGYZpoVsCfx5JaMxNEXN6hGnmDBScleFKRCDTlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTQ0/NjQtMTQyMDk5Mjky/MS01MDUyLmpwZWc.jpeg" alt="Cover for The Music of Nashville: Original Soundtrack, Season 1, Volume 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68d3e81495f34ac795f025617601b86d.png" alt="Cover for The Music of Nashville: Original Soundtrack, Season 1, Volume 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Nashville Cast</td>
@@ -955,7 +959,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/kg1gMI0_QqyHtuWBU5aUzYApR0P_iDAgFNdy0dCHmYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/NjktMTM2OTkwNjI3/MS01NzQ0LmpwZWc.jpeg" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3aebdd3b74e8881a78cb9777f5d82.png" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Bombino</td>
@@ -974,7 +978,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 87</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 99</li>
@@ -1002,9 +1006,9 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/Zb4ZHHx_Lx7WXrUT6BAp6rQCraspNgGlqleTIBuaiqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODU4/Mjg4LTE2NTc1OTM2/MDItODY0Mi5qcGVn.jpeg" alt="Cover for O Come" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fd94b2a4c9025a27cca341a0195cdf6.png" alt="Cover for O Come" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-06</td>
       <td>Danae</td>
@@ -1039,7 +1043,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/YW1P42t64zk1nlEMcgvDNjxUNFJErAw_oG9cUSLkSnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/OTk0LTE1OTgzNjQ4/MTEtMzQ4OS5qcGVn.jpeg" alt="Cover for Adam Foster And The Phantoms" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,6 +1064,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa77a10ce0404517ad50feb51102084c.png" alt="Cover for Heartache Is a Four Letter Word" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Aquariums</td>
@@ -1079,7 +1084,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/g5T-TtI7v4qaGw2GqONJ1DPR1r85HNQ1rFohvFJpjOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA3/NjItMTQyMzQ1Mzkz/Mi0yNTMwLmpwZWc.jpeg" alt="Cover for Dream Cellar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfef6e3cf38daafa96aa970c465aaebe.png" alt="Cover for Dream Cellar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Forteana</td>
@@ -1143,7 +1148,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014-05-01</td>
@@ -1178,6 +1183,28 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2017</td>
+      <td>Justin Townes Earle</td>
+      <td>Kids In the Street</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
           <img src="https://i.discogs.com/pEysmDRLd8496uRuWBflrDXPoaJXtUq1CwNg27WNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTc3LTE0OTUwNTQy/NDItMTEwNi5qcGVn.jpeg" alt="Cover for Maybe A Moment &#x2F; Graceland" style="max-width:120px; height:auto;" />
@@ -1196,30 +1223,9 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 34</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 73</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td>2017</td>
-      <td>Justin Townes Earle</td>
-      <td>Kids In the Street</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 78</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1247,24 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9ca64d33ae7b4e67a6bbbb2a0de9ba.png" alt="Cover for Really Nice Guys" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-19</td>
+      <td>Ron Gallo</td>
+      <td>Really Nice Guys</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Rtf_R0GN2vx0pbtaAWuCR_EkY2sowms6GS6WUvX8XlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/ODAyLTE1MjQyNzA4/ODMtOTgzNS5qcGVn.jpeg" alt="Cover for Real Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1489,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/HKeIbPrvjjjm5BEHV-Q8cu6Do_CjTc4ehK6Diwou9OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk5/MjY1LTE2NDg2NTI2/MjctMjAxMi5qcGVn.jpeg" alt="Cover for Wavelength | Instrumentals, Vol. 7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf2cbf917814bea8ca90a3be754c9f0.png" alt="Cover for Wavelength | Instrumentals, Vol. 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-30</td>
       <td>Hazardous</td>
@@ -1525,25 +1548,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>1</td>
       <td>
-      </td>
-      <td></td>
-      <td>Jamie Brabham</td>
-      <td>Lovin&#39; You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312ea4f430c14f1aac15c1d370224e02.png" alt="Cover for Birth of a Wave" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>P.A. Lit</td>
@@ -1560,7 +1565,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1581,7 +1586,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1599,7 +1604,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1619,8 +1624,9 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cf13bf128c74463b8c3c34abc8122a2.png" alt="Cover for Just Say iT Now" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Patrick McManus</td>
@@ -1643,6 +1649,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a5af9fd294925a0f2fce4310ee32067.png" alt="Cover for Smoke &#x2F; Mirrors" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Daily Fare</td>
@@ -1680,6 +1687,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90e7c6035c21f0bfbe4b47539420b636.png" alt="Cover for Rosetta" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tiffany Thompson</td>
@@ -1758,6 +1766,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61d57f6e01f142489b5150de44c41333.png" alt="Cover for Native Companion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Native Companion</td>
@@ -1779,6 +1788,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7b528f10c17a991033369398a77cf4.png" alt="Cover for Bad Taste" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Krystal Cameron</td>
@@ -1840,6 +1850,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc157ce4627b4f2da75187f0afbcf6ea.png" alt="Cover for Bound To" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wishpenny</td>
@@ -1948,6 +1959,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92dacbde16db49b8b038f026f1ee4f7a.png" alt="Cover for Shine Brightly" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ike Catrett</td>
@@ -1969,6 +1981,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7152b1a52944442a6fa35ceb957e2a8.png" alt="Cover for Songs To Sing About" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kuromori</td>

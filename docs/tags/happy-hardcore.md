@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:01:32.065Z
+date: 2025-11-24T17:43:00.954Z
 permalink: tags/happy-hardcore
 title: happy hardcore
 ---
 
 ## happy hardcore
 
-Last updated: <time datetime="2025-10-20T04:01:32.065Z">Mon Oct 20 2025 07:01:32 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-24T17:43:00.954Z">Mon Nov 24 2025 19:43:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Resurrection X" style="max-width:120px; height:auto;" />
       </td>
@@ -45,12 +45,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 18</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Harmonoize" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>1977</td>
@@ -98,7 +98,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for 悩殺！ハードブレイク" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +118,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>1995</td>
@@ -132,13 +132,14 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dccc94a103654242a02b11cf3391e23d.png" alt="Cover for ...and the Beat Goes On!" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01-31</td>
       <td>Scooter</td>
@@ -154,7 +155,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>1995-07-31</td>
@@ -171,7 +172,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/0XTxsynaZXF4fhTsXDAhn96OCFeeTTAuBAR0figqN8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjY2/LTE3MDIwODYzOTUt/MTc3NC5wbmc.jpeg" alt="Cover for I Wanna Be a Gabber Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +193,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
       </td>
       <td>1996</td>
@@ -213,7 +214,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td>1996</td>
@@ -252,15 +253,15 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 40</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 61</li>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/lkzkn5wvl2RLkF8q1oO2nHyO8ca-YFr7JLYwALMgSjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTUx/LTEyMDY4MDI1MTAu/anBlZw.jpeg" alt="Cover for Heartbeat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f59d6eb20064d038c0a4b22dafcfa1c.png" alt="Cover for Heartbeat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Blossom</td>
@@ -277,7 +278,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>1996</td>
@@ -296,7 +297,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>1996-01-20</td>
@@ -315,8 +316,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ced77ea93a1b0e94b3be69cceb7e3d.png" alt="Cover for Our Happy Hardcore" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-03-28</td>
       <td>Scooter</td>
@@ -333,7 +335,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
       </td>
       <td>1996-04-10</td>
@@ -350,7 +352,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>1996-05-09</td>
@@ -371,7 +373,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/gPe2Qq900fpzrZ5eFz6ANYd3U8kRhzVuBrIkA5Exs_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk2/LTE1Mzk0MjMwNTQt/ODY4My5qcGVn.jpeg" alt="Cover for Herzfrequenz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df408494e723bc5d5b5ec15ebae28b81.png" alt="Cover for Herzfrequenz" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-20</td>
       <td>Blümchen</td>
@@ -388,7 +390,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
       </td>
       <td>1996-05-31</td>
@@ -407,7 +409,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>1996-11</td>
@@ -424,8 +426,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52ba47a76e74402b0dd5de320680704.png" alt="Cover for Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Mr. Credo</td>
@@ -446,7 +449,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997</td>
@@ -463,8 +466,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09af9aa79bf7a6dd9974fd7ff40c3ea.png" alt="Cover for Verliebt..." style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-02</td>
       <td>Blümchen</td>
@@ -482,8 +486,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2618c7d1cb48ae9bc1538395b1839d.png" alt="Cover for Holland, 1945" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Neutral Milk Hotel</td>
@@ -494,6 +499,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 3</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 60</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 86</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 93</li>
@@ -501,7 +507,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/lPc68qbN_u5jOsktztZqmI6vsAL6E3cWf-BV5oosNqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDg4/NjMtMTYyMDc3MjMw/NC00MTk0LmpwZWc.jpeg" alt="Cover for Słabo?!" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +525,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/LuZuCFhDx7D-1Pi9OQLmYAXEusvR9-Prm25FEDZhtCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/NTk5LTE2MDY1MDM3/MjctNzUyMC5qcGVn.jpeg" alt="Cover for Dune Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -538,8 +544,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20df8ec059dc4f10ade79c174ee93737.png" alt="Cover for Die Welt gehört dir" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-26</td>
       <td>Blümchen</td>
@@ -573,7 +580,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
       </td>
       <td>2000-12-04</td>
@@ -590,9 +597,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/cyJuZBjOGwZ-D0VFvZOga60dk2mO7PR-E03sd-W31jc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/NTkyLTE1ODY3MTU5/NTktODUxOS5qcGVn.jpeg" alt="Cover for History" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35f090e1ab154efdb39b6571a3a95e5f.png" alt="Cover for History" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08-07</td>
       <td>Dune</td>
@@ -609,7 +616,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/xcDwgudzWBb4mAH0CLSr-LQFQWWCoFPoeXEBqd8dwN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEz/NTgtMTI2ODM1MTIz/NC5qcGVn.jpeg" alt="Cover for History of Dance 5: the Happy Hardcore Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -627,8 +634,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2252a009d7e476b9aeced6143af4fcf.png" alt="Cover for Caliente" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Nightcore</td>
@@ -646,12 +654,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 75</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/e4M2vCqq2qYr0BsRuvk304MPjXWAIqaIdj9L84Ma-EM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjM1/MS0xNTQwNjYxNjEx/LTYwODEuanBlZw.jpeg" alt="Cover for Back by Popular Demand" style="max-width:120px; height:auto;" />
       </td>
@@ -673,9 +681,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/NN7b-9OD4dEfnsRvqfbC3haj0DKjjQk7MraJFeuJKPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTEw/Ny0xMjc5MTA1ODM2/LmpwZWc.jpeg" alt="Cover for Heartbeatz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e951a7aa5592989052ea33c69d530dbc.png" alt="Cover for Heartbeatz" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-18</td>
       <td>Styles &amp; Breeze</td>
@@ -694,9 +702,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/2UIJm05bIL8tIJ6iIkNbl8sy4XUV63xFMuPvR09nm28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODQx/MS0xMjc1MDkyNzA4/LmpwZWc.jpeg" alt="Cover for Enigmatic Lia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b5b57ca872f290aee50ec6f56e31bf.png" alt="Cover for Enigmatic Lia" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-22</td>
       <td>Lia</td>
@@ -713,7 +721,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Clubland Classix 2 - Digital Bundle Package" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +740,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
       </td>
       <td>2006-06-02</td>
@@ -749,7 +757,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/zp634Q-vWzo3-sR5VHmwYs32_UPyJljYKBAHWwT5aVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA1/MTUtMTI4Nzk2MDI1/Ni5qcGVn.jpeg" alt="Cover for Hassle Records Acoustic Session" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +776,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/lTBVr9bmQ3jORynd5gKHvfeyWwRGJ5QRVY7lazOUhkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDU2/NS0xMTg1MjIxNjUx/LmdpZg.jpeg" alt="Cover for The Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +796,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/02B7-y3Zym25MqPlq7Ad-gr14Y-R6fwMjzesOziQeiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcw/MTktMTQ4MDM3NTI1/Mi0zOTQ2LmpwZWc.jpeg" alt="Cover for Doppelganger" style="max-width:120px; height:auto;" />
       </td>
@@ -809,9 +817,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Az7jxEGKpXAG8Zo4OT9GF9EPuGhfl46kS_Ja5CLpASY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/NTQtMTQ0NjA0Mjk5/Mi0xODMyLmpwZWc.jpeg" alt="Cover for Jumping All Over The World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97b91649f47747a391e7438943471abe.png" alt="Cover for Jumping All Over The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-01</td>
       <td>Scooter</td>
@@ -822,12 +830,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 52</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for WE ARE THE BOSS" style="max-width:120px; height:auto;" />
       </td>
@@ -848,7 +856,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2009</td>
@@ -864,12 +872,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-05-05</td>
@@ -888,7 +896,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/_gajdlT5zAvfO0RJ9OBvvK6vmyXneRZ4qtWtid9klUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MzYtMTI1NDMwNjY3/NS5qcGVn.jpeg" alt="Cover for Nekology" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +916,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/HBuzKPH9j0PpikV5tBGtW9_mGq-cbDvTfXR6VdZUwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ4/MjUtMTMyNzMyNjYx/Ny5qcGVn.jpeg" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -927,13 +935,13 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 48</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 52</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2010-02-20</td>
@@ -950,7 +958,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-08-14</td>
@@ -967,7 +975,26 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c5d053894bbbe8e9253c7ab1ce341bf.png" alt="Cover for Only Girl (In the World)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-13</td>
+      <td>Rihanna</td>
+      <td>Only Girl (In the World)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 79</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
       <td>
       </td>
       <td>2010-10-29</td>
@@ -984,9 +1011,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/mp-Tm_6yQdU8b9g4Yo9VV9xpPupnkjEMhS9gf8_S6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/OTI3LTE1NDI2NjIw/OTUtMzI0Mi5qcGVn.jpeg" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6b6cd6ec1ff42d9b39d8678d213c646.png" alt="Cover for Lord Unicorn &amp; The Masters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Mane Horse</td>
@@ -1035,16 +1062,16 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 2</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 58</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 71</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 18</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83fde7792b08c346f15b028215342759.png" alt="Cover for Relapse in the River City" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,8 +1093,8 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 50</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 76</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1092,7 +1119,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/YNE3bpBGiv90ojFbDYEXORlq_m9loNZixesDxtEZMf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjMw/MDg3LTE2ODg5NDYw/NjQtMTIyNi5qcGVn.jpeg" alt="Cover for Pika Girl - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/888d9c6066b08a8a9c716959429b2a38.png" alt="Cover for Pika Girl - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-08</td>
       <td>S3RL</td>
@@ -1110,15 +1137,15 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 22</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 50</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 82</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 80</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 83</li>
             <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
       </td>
       <td>2011-11-08</td>
@@ -1136,7 +1163,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/k0UZ2SGxWD3t02tlenl5U-ZHoaqScMqFBAv05MmWfpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzA0/OTQtMTQyNTEyMTYz/NC04MTYzLmpwZWc.jpeg" alt="Cover for Pokémon" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1203,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2012-08-12</td>
@@ -1194,35 +1221,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-06-07</td>
-      <td>Taylor Swift, Ed Sheeran</td>
-      <td>Red (Taylor&#39;s Version)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 31</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
-            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/eehtL1iqNms6D449vYmVDg73yT5qiw5f3GylwHU4iuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/NzM0LTE1ODQ4MDQy/NDYtNTgzNy5qcGVn.jpeg" alt="Cover for Feesttent (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,12 +1236,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/DGsZzmOlI20jg16q4j1NCIoCDjmlmz41HRny_gFU5Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDM3/MjgtMTQwNDI0NzQz/MC0yOTg1LmpwZWc.jpeg" alt="Cover for Touch the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,13 +1277,13 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 46</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 55</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 49</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>2014-08-17</td>
@@ -1304,7 +1303,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/muOZ80Ms75N6gSnuflyu_CiU3l1oEBhWfgh958bUbEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjI2/MzMtMTQxNTA1NjU0/MS05MjU4LmpwZWc.jpeg" alt="Cover for Cherry Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,9 +1327,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/rURfK_eXCaiyTxqhMN_dXo3iP_txJK8zEjzx7rhgwhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDEw/NDQtMTU4Nzc2MDEz/OC03NTc4LmpwZWc.jpeg" alt="Cover for It Must Really Suck To Be Four Year Strong Right Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3f7001bad3fa4b4f30815c3f447c84c.png" alt="Cover for It Must Really Suck To Be Four Year Strong Right Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-02</td>
       <td>Four Year Strong</td>
@@ -1366,7 +1365,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/bSfvnLmJqB8ZB3ZEv73a5QqCHqb8JjSxD06552kCVac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/MzM5LTE1OTY3MzA0/NzUtMzA5MS5qcGVn.jpeg" alt="Cover for 2 The Rhythm" style="max-width:120px; height:auto;" />
       </td>
@@ -1388,7 +1387,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/w93FHXLiFIchujTWCLHefbgKMUaboBEWC45-OzDBvb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTEz/NTctMTQ1NDk2Njg2/Mi00MDA0LmpwZWc.jpeg" alt="Cover for Pigface (Dougal &amp; Gammer Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,7 +1427,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/PXJpLI2GX5jTuI9P9lVP5AhqD_GuGrUONFKM0imTdvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDcy/MjQtMTQ2NTkwNjE0/Mi0yNzQ4LmpwZWc.jpeg" alt="Cover for Remembrance" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,6 +1468,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/463aaf1cde232b8d91e4a6c3a9353b3b.png" alt="Cover for Blame It On This Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-12</td>
       <td>Chunk! No, Captain Chunk!</td>
@@ -1479,13 +1479,13 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 61</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for SharpnelSound Collection (SRPC0015)" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1506,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/8aB0fJK7VOZ9_x9wL4TwNyw_Ql2pJzz8JqX5fO1HtPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/MzU4LTE1OTY3MzA3/NDktOTg3MC5qcGVn.jpeg" alt="Cover for Pool Party" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1528,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/WCifpTxzPRuIaKTF5aPOQHyUxKhUHgnBJP0VFd89aGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc3/ODQwLTE1MTUyNDM2/MTAtMTA2My5wbmc.jpeg" alt="Cover for ULTRA HAPPY COLLECTION!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1548,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/cz1megyZftIyw0h1jCbBhqriBPGJcYJZPVVkPB0lIaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYy/MTkyLTE1MjAyMzQy/NjAtNDc0OS5qcGVn.jpeg" alt="Cover for Digital Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/167de85b20ef121173ba488a53b09034.png" alt="Cover for Digital Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-14</td>
       <td>nanobii</td>
@@ -1582,14 +1582,14 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 34</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 38</li>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 92</li>
             <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/kOKCuV5SkL859iUHoOWFvrd2Zi6kKAoD8A3tYatD16A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/NjA1LTE1NTUxNjY3/MDktNjg2OC5qcGVn.jpeg" alt="Cover for Down Down Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,12 +1609,12 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 29</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 91</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/gz74hwRPclRIKhduceadVyKQELNnYpCfDC7QqM1s9co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQx/NjU2LTE1NjY2NjM5/NTEtMTMxNS5qcGVn.jpeg" alt="Cover for Rare Part Three" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1648,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       <td>
         <ul>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 45</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 59</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1689,9 +1689,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg" alt="Cover for Kurxxed Emeraldz - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cfc88f6ef37d000d19a2d561f1030e9.png" alt="Cover for Kurxxed Emeraldz - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Luci4</td>
@@ -1709,7 +1709,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ElJE23idFvPneaxGVPWUkQQnQLysx0wvI2z4hyeQ8Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ4/ODc1LTE1ODg2NjYx/MDYtNDM4NS5qcGVn.jpeg" alt="Cover for without Permission" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1727,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Ju9w0a1sWFhJcA9b7OwW5RxGvjHHnngi7iuYxLNE-VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/MzA0LTE1OTY3MzAx/MDctNjY3My5qcGVn.jpeg" alt="Cover for Return Of The Rave" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,15 +1744,15 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 81</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 18</li>
             <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/7Hgjp1njP1Obf_gU7RoTj0ioe1-ssNUXysS4NgHBINw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDAx/MTA1LTE2MTMyNDUy/MjktNDY2OS5qcGVn.jpeg" alt="Cover for Wellerman (Harris &amp; Ford Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5cde249ad302c50bf74cd4ed1a94f87.png" alt="Cover for Wellerman (Harris &amp; Ford Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-12</td>
       <td>Captain X</td>
@@ -1766,7 +1766,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 76</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1790,16 +1790,16 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 32</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 41</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 35</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 68</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 71</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Ur6s0lZUtWLuK8cS5LfIKxOYw56HHAVBSaRSK_G765U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTE5/MTQxLTE2MjY0Njk0/MjktODM1MS5qcGVn.jpeg" alt="Cover for Dream Jungle" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,7 +1815,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 57</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1832,8 +1832,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 34</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 88</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 5</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 41</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 89</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 98</li>
         </ul>
       </td>
@@ -1857,8 +1858,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f89dc37e065f4272b005efad3dbe8b0c.png" alt="Cover for Clubland Xtreme Hardcore 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1876,7 +1878,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/gbt8UcDmT55E2aenEQ-9KMwnLQFdd1-TqA4-FjeqVaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM0/Mzc3LTE2ODI4ODA3/OTktMjc5NS5wbmc.jpeg" alt="Cover for SCARLET EYES" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1897,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/GfUl_CMhc0XY6IvTyy-of1mJvqp57FJIXDygIkhc93c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTM1/ODU5LTE2OTE2OTAy/MDYtMjYyNS5qcGVn.jpeg" alt="Cover for EDGE PLAY (FURRY RAVER REMIX)" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,13 +1916,13 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 40</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 71</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 52</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/FIUV4jaWBwe4_QaFE1CXEwXhWDqtzcGscbCQcqbnMzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDA5LTE2MTU3MDA0/NTMtMzU0Ni5qcGVn.jpeg" alt="Cover for Bridge Underwater" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,9 +1944,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/pS5CAliktI9f1P9ZWkz4hUsS9cfHqrlV2_coc6vxfzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njkz/MjczLTE2OTgxNjk0/MDctOTI3MS5qcGVn.jpeg" alt="Cover for berdlycore chapter 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac9db7f3dac826758f43725750b0e5c2.png" alt="Cover for berdlycore chapter 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-05</td>
       <td>xaev</td>
@@ -1959,14 +1961,14 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 5</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 13</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 17</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/6deKfC-nO6000c6KZL7htABp44KE6242dTcqSZjIQ60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM3/NDMxLTE3MjgzMjkz/NzItMjIyOC5qcGVn.jpeg" alt="Cover for RAVEPOP" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,9 +1986,9 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/rGnV-umabIBrq8M6sKC7IcwL493rVqFUZfDytKWPKX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDk5/OTkxLTE3MDUzNTg1/MjEtNTMxNy5qcGVn.jpeg" alt="Cover for cyanotype" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/728d6b82a6c1bc09deb9222e185bf88a.png" alt="Cover for cyanotype" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-15</td>
       <td>Synthion</td>
@@ -2007,7 +2009,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/RRxDOMs3MkxcLUz5PqCowJpVlLsLd3CJRJ9QG5KkS2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NjI0LTE3MzIyMjA1/NDUtOTA3OC5qcGVn.jpeg" alt="Cover for oh my god i want that shit" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,13 +2025,13 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 79</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 81</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2048,7 +2050,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -2069,16 +2071,16 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 41</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 63</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 65</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td></td>
@@ -2094,13 +2096,14 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 77</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d8ad95dc3b88825682a9cbd8e73c0f0.png" alt="Cover for Taste of Heavin (feat. R-KADE) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Techno Kitten Adventure</td>
@@ -2128,7 +2131,7 @@ Happy hardcore is a high-energy electronic dance music genre that emerged from t
 - [trance]({{ "/tags/trance" | relative_url }})
 - [gabber]({{ "/tags/gabber" | relative_url }})
 - [breakcore]({{ "/tags/breakcore" | relative_url }})
-- [speedcore]({{ "/tags/speedcore" | relative_url }})
 - [j-core]({{ "/tags/j-core" | relative_url }})
+- [speedcore]({{ "/tags/speedcore" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [uk hardcore]({{ "/tags/uk-hardcore" | relative_url }})
