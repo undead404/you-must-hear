@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:36:38.037Z
+date: 2025-11-25T13:15:48.797Z
 permalink: tags/melodic-death-metal
 title: melodic death metal
 ---
 
 ## melodic death metal
 
-Last updated: <time datetime="2025-11-23T18:36:38.037Z">Sun Nov 23 2025 20:36:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:15:48.797Z">Tue Nov 25 2025 15:15:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 61</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/603bff6c72dbdc10417b6eb20b6dba9a.png" alt="Cover for Terminal Spirit Disease" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 22</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +177,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fef1951f7afa1fc4d64ad479dd976ba.png" alt="Cover for Crimson" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd106beea7010885b539bd2e0e064f1.png" alt="Cover for Once Sent From The Golden Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71138f1a93ed47d3bc15648c341c6d00.png" alt="Cover for Stigmata" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b4f152c1da04de9bf37ec26c40fcbbf.png" alt="Cover for The Chainheart Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Xi2GeCuTIlEZDCdi6Ck85ukLlit4ZLtpLLKiywHSgaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjM4/MTgtMTQ4MjA5ODkx/MC01NzkzLmpwZWc.jpeg" alt="Cover for Swamplord" style="max-width:120px; height:auto;" />
       </td>
@@ -451,7 +451,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df0a721f8b621c895609828f966de806.png" alt="Cover for A Predator&#39;s Portrait" style="max-width:120px; height:auto;" />
       </td>
@@ -484,13 +484,13 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 23</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 22</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab2a54e391754cd5cc8fcfc368b39773.png" alt="Cover for Wages of Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +508,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f755b991c10bce85b2c8c5dae02ff14.png" alt="Cover for They Will Return" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +656,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2003-05-23</td>
@@ -691,7 +691,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5a163e97a04da7cd18ba57dd4a1015.png" alt="Cover for Anthems of Rebellion" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +709,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/uXTgYFpicXq2bRun0qdnCdynQ8LK_CSeKSDoZvsMU6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzc1/OC0xNDY1ODg1NDQw/LTQ1NDMuanBlZw.jpeg" alt="Cover for Since the Day All Came Down" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4429e623ebedd4479f42cfaa90e9cf2d.png" alt="Cover for Death Unlimited" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +783,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bc4fad764325f799b1f6445e849840b.png" alt="Cover for Since the Day It All Came Down" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +801,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cb69facb20108283513db2d97bfe5c0.png" alt="Cover for Fragments Of D-Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +929,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac183251bac438b75d4ed8c053bbda64.png" alt="Cover for Virus" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1021,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb36ab20823380e23a822b866fc20e78.png" alt="Cover for Pitch Black Progress" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,6 +1036,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       <td>
         <ul>
             <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1115,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b14d25e350a747999a5d73ab79d20ae5.png" alt="Cover for Bedtime Prayers" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1135,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f09bbee8d60d71da3843827c749a884b.png" alt="Cover for Wolves" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1185,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 24</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1223,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 78</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1246,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/168e1692e5b1e819f52cb0666f9a92b2.png" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1271,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/739de6381f0638d2283e6b0402a752f0.png" alt="Cover for Shogun (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1290,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/983977f66e52944afa346bf3e8933c88.png" alt="Cover for N" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,7 +1323,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
         <ul>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 15</li>
             <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 80</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1346,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d72d96303a3c8b241fa2c783c4303b.png" alt="Cover for For the Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1383,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7d91146ce304585a61898056cb87830.png" alt="Cover for Stone&#39;s Reach" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,27 +1421,6 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/294350a00a074a30886cdeea8baeea47.png" alt="Cover for Deflorate" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-11</td>
-      <td>The Black Dahlia Murder</td>
-      <td>Deflorate</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 15</li>
-            <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f6ff27ff0a4d3b89e32682b334cc2e.png" alt="Cover for We are the Void" style="max-width:120px; height:auto;" />
@@ -1459,7 +1439,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adaf88b1631b4e7095815ddeba2e7a84.png" alt="Cover for The Panic Broadcast" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,7 +1458,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/hAxCVDZXRbOatbjc6CtxtbHZviiXRkHOz5rkBccZg6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQ3/OTQtMTQxMTY2MTQ0/Mi0zNjg0LmpwZWc.jpeg" alt="Cover for Relentless, Reckless Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1494,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9992aae20414ff2cf8088baa94255cb.png" alt="Cover for Khaos Legions" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1512,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6e757577894481bc2bdc5cb908f24b.png" alt="Cover for Ritual" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1552,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/166b61ac7a14497bc90edf174caf28dd.png" alt="Cover for One for Sorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1570,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e661d80a602e42908e30ea3de0f28715.png" alt="Cover for Of Breath and Bone" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,13 +1606,13 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       <td>
         <ul>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 23</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 60</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78bb08f9d0a8402a9793ce2a9303d0d2.png" alt="Cover for Construct" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1702,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0be56102ab67e64ce824fd6b4017056b.png" alt="Cover for Under The Red Cloud" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1722,25 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ee34b371145bf283923798634273b65.png" alt="Cover for I Worship Chaos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-02</td>
+      <td>Children of Bodom</td>
+      <td>I Worship Chaos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f9c36b44f1452bc2043caf39117760d.png" alt="Cover for Atoma" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1776,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/uvuZ76ND2o4HlaEJu79tpGiWtZ39hjDHMXchSMubYPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEz/NTk3LTE1MDQ3MzM1/MzMtNjM5Ni5qcGVn.jpeg" alt="Cover for Will To Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,14 +1878,14 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 45</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 73</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
@@ -1901,47 +1899,47 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83553623d7337a0a5cc95250fe935f89.png" alt="Cover for Shadowminds" style="max-width:120px; height:auto;" />
       </td>
@@ -1961,7 +1959,7 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2040,19 +2038,19 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 24</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 69</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 70</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
@@ -2066,45 +2064,45 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 96</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06f3b88f777f89be3ccd9000b189c6d.png" alt="Cover for Foregone" style="max-width:120px; height:auto;" />
       </td>
@@ -2207,66 +2205,66 @@ Melodic death metal is a subgenre of death metal that combines the aggressive an
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 59</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
         </ul>
       </td>
     </tr>

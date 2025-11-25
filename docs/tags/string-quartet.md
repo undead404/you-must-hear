@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:23:25.947Z
+date: 2025-11-25T13:12:19.215Z
 permalink: tags/string-quartet
 title: string quartet
 ---
 
 ## string quartet
 
-Last updated: <time datetime="2025-10-22T06:23:25.947Z">Wed Oct 22 2025 09:23:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-25T13:12:19.215Z">Tue Nov 25 2025 15:12:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -261,7 +261,6 @@ A string quartet features four string instruments—typically two violins, viola
       <td>Beethoven: The Late String Quartets</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
@@ -270,7 +269,6 @@ A string quartet features four string instruments—typically two violins, viola
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 61</li>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +345,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1987</td>
@@ -389,13 +387,11 @@ A string quartet features four string instruments—typically two violins, viola
       <td>Streichquartette - String Quartets - op. 59 No. 1 »Rasumowsky« - op. 131</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -505,6 +501,25 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c68d10edb54a49ebb947d987741d2650.png" alt="Cover for Different Trains &#x2F; Electric Counterpoint" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Steve Reich</td>
+      <td>Different Trains &#x2F; Electric Counterpoint</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>15</td>
       <td>
           <img src="https://i.discogs.com/2VGdXxsfkwJTTWimaxxm_cLLedFd3BSDyTZlwYvlcHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTY5/MzMtMTM5MTM2OTk3/MC00ODYwLmpwZWc.jpeg" alt="Cover for Bartók: Complete String Quartets" style="max-width:120px; height:auto;" />
@@ -520,7 +535,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 81</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -596,7 +611,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 43</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +654,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RmQBDU8AHbaPV8hi1Twidg7rlVXd0lsgoouCaIs53pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk0/MjU4LTE2MTIxMDIw/NzItNjQxOS5qcGVn.jpeg" alt="Cover for String Quartets Op. 51,1; Op. 51,2" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +705,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 35</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 34</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 89</li>
         </ul>
       </td>
@@ -804,7 +819,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/PhvsyntGsL8cIcTBv-j2BDk6uOwnkpxciJuqxFhzst8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTk4/ODEtMTQyODE2Njkx/MS0yNDM2LmpwZWc.jpeg" alt="Cover for No Doubt, The String Quartet Tribute to" style="max-width:120px; height:auto;" />
       </td>
@@ -817,26 +832,6 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/yYxMU27iop_SAgNkDNhVdh5P1T405g64Mejd5z3bSog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE1/Mjc4LTE1ODgyMTc4/NjEtNjkyMC5qcGVn.jpeg" alt="Cover for Beethoven: Late String Quartets" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Alban Berg Quartett</td>
-      <td>Beethoven: Late String Quartets</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -877,13 +872,13 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/U2gJ69T_fRyNUo8qrAeIBYSbY6HA3WsmSOfpmhrTMqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE4/MjktMTI3NTk0MjIw/My5qcGVn.jpeg" alt="Cover for Caravan" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/yYxMU27iop_SAgNkDNhVdh5P1T405g64Mejd5z3bSog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE1/Mjc4LTE1ODgyMTc4/NjEtNjkyMC5qcGVn.jpeg" alt="Cover for Beethoven: Late String Quartets" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
-      <td>Kronos Quartet</td>
-      <td>Caravan</td>
+      <td>Alban Berg Quartett</td>
+      <td>Beethoven: Late String Quartets</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
@@ -895,15 +890,16 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/HvKR8uyHqF8qEM8HS9qUTbbRGu5HnsONAMbDT4Uj83Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM0/MTgtMTIyMzEwNTQ5/My5qcGVn.jpeg" alt="Cover for String Quartets Nos. 1, 5 and" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/U2gJ69T_fRyNUo8qrAeIBYSbY6HA3WsmSOfpmhrTMqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE4/MjktMTI3NTk0MjIw/My5qcGVn.jpeg" alt="Cover for Caravan" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
-      <td>Gloria Coates</td>
-      <td>String Quartets Nos. 1, 5 and</td>
+      <td>Kronos Quartet</td>
+      <td>Caravan</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
         </ul>
       </td>
       <td>
@@ -1233,7 +1229,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/PRkOdBQ-T3X80PR6EWwP_R00MQCxcJkCplzqQrGzHXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTk2/MDctMTI1MjQ1NzU4/NC5qcGVn.jpeg" alt="Cover for The String Quartet Tribute to The Who: Tommy" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,6 +1693,7 @@ A string quartet features four string instruments—typically two violins, viola
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a83f88b28929aaed5c3d31f0caa04955.png" alt="Cover for Madame Freedom - The Re-Score" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Spooky feat. the Telos Ensemble</td>
@@ -1712,7 +1709,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 21</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1735,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 20</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 18</li>
             <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 78</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 100</li>
         </ul>
@@ -1770,7 +1767,7 @@ A string quartet features four string instruments—typically two violins, viola
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 18</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 19</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 88</li>
         </ul>
       </td>
@@ -1798,6 +1795,7 @@ A string quartet features four string instruments—typically two violins, viola
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba761884f8174323b955713df1387b6e.png" alt="Cover for Arcanum Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ben Houge</td>
@@ -1897,7 +1895,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1936,10 +1934,10 @@ A string quartet features four string instruments—typically two violins, viola
 - [classical]({{ "/tags/classical" | relative_url }})
 - [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
 - [strings]({{ "/tags/strings" | relative_url }})
-- [beethoven]({{ "/tags/beethoven" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [piano]({{ "/tags/piano" | relative_url }})
 - [czech]({{ "/tags/czech" | relative_url }})
 - [baroque]({{ "/tags/baroque" | relative_url }})
 - [russian]({{ "/tags/russian" | relative_url }})
 - [czech classical]({{ "/tags/czech-classical" | relative_url }})
+- [chamber]({{ "/tags/chamber" | relative_url }})

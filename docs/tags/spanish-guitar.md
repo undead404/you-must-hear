@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:31:52.868Z
+date: 2025-11-25T13:14:22.770Z
 permalink: tags/spanish-guitar
 title: spanish guitar
 ---
 
 ## spanish guitar
 
-Last updated: <time datetime="2025-11-22T16:31:52.868Z">Sat Nov 22 2025 18:31:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:14:22.770Z">Tue Nov 25 2025 15:14:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1174,8 +1174,8 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       <td>
           <img src="https://i.discogs.com/mtP-I78lDKCUe2gBNSw49iJ_IRAP8byve9sqS6AjaSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA5/ODYtMTQyMzQ2ODk2/OS00MTk1LmpwZWc.jpeg" alt="Cover for Möbius" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-05-12</td>
-      <td>RIN</td>
+      <td>2004-09-29</td>
+      <td>Rin</td>
       <td>Möbius</td>
       <td>
         <ul>
@@ -1207,7 +1207,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 5</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1900,6 +1900,7 @@ Spanish guitar refers to the distinctive sound of nylon-stringed acoustic guitar
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dc3defe3d9241a3925cb3f83b072929.png" alt="Cover for Sunday Afternoon" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>5inapsi5</td>

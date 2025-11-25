@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:51:55.892Z
+date: 2025-11-25T13:10:43.765Z
 permalink: tags/grindcore
 title: grindcore
 ---
 
 ## grindcore
 
-Last updated: <time datetime="2025-11-22T13:51:55.892Z">Sat Nov 22 2025 15:51:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:10:43.765Z">Tue Nov 25 2025 15:10:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/sUi_2W-l_XH3YAL6MA0v3-yuWwxavE10nwlvmeBCyYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ0/NS0xMzQxOTI2MTYw/LTM0OTAuanBlZw.jpeg" alt="Cover for A Holocaust in Your Head" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1989</td>
@@ -157,7 +157,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53952e13d3a64a85b2e2bb3f6d1cc81a.png" alt="Cover for Utopia Banished" style="max-width:120px; height:auto;" />
       </td>
@@ -177,7 +177,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc7327e077c0851552af20dc77d7565.png" alt="Cover for Need to Control" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>1996-09-05</td>
@@ -212,7 +212,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Q9HSa4CSAIvMRlgqcwEvXtakH2TwbjtG822vc-TgFKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTYy/NS0xMjc3MzE5MTg4/LmpwZWc.jpeg" alt="Cover for Marijuana" style="max-width:120px; height:auto;" />
       </td>
@@ -230,7 +230,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f6dd66d04704f3493fdf956df7dc2df.png" alt="Cover for The Code Is Red...Long Live the Code" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a208c6b89c3996968da8cada33af77b.png" alt="Cover for Human 2.0" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td>2000-08</td>
@@ -283,7 +283,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2000-09-25</td>
@@ -300,7 +300,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28d61cb20b95b99b4a132dd52797c5cd.png" alt="Cover for Cuddlemonster" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +337,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/rE1Ya9VH58BJbgEovkUyN_y80LVuC6YkDLjYO0dYqTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMy/OC0xMjk4NTMyMjkx/LmpwZWc.jpeg" alt="Cover for Dissimulate" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +358,25 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2795167fd5c02e1613c78d4b8451fa5c.png" alt="Cover for Order of the Leech" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10-21</td>
+      <td>Napalm Death</td>
+      <td>Order of the Leech</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2003</td>
@@ -395,7 +413,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2003-05-08</td>
@@ -427,13 +445,13 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 47</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 52</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f86ba4130245dec5f9111e3792ebe3.png" alt="Cover for We Are The Lazer Viking" style="max-width:120px; height:auto;" />
       </td>
@@ -453,15 +471,15 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 92</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003-10-14</td>
@@ -478,7 +496,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-03-23</td>
@@ -496,7 +514,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e00dfbfc83222d2eed83c42bd6d9d8a0.png" alt="Cover for Shift" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +550,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01fa450c89b94fe2aea3316561f40668.png" alt="Cover for Exit" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +587,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2005-03-15</td>
@@ -588,7 +606,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/JhJeqNdgm1jsDWQy3JhA9XHalUY5rzJkku6p3DsAGKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDI1/Ni0xMjUwNDM0NzM4/LmpwZWc.jpeg" alt="Cover for Head Wound City" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +642,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7265409c95db452eb6d3ca0cba30a956.png" alt="Cover for Smear Campaign" style="max-width:120px; height:auto;" />
       </td>
@@ -657,12 +675,12 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 68</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55793d483338401ec0e6ad26e13b5dbc.png" alt="Cover for Eschaton" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +699,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32d64702ef548f2b1a552053cd286da.png" alt="Cover for Cycles" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +717,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/gbwVcXGLGCLUZjeqk2u-sngIA3HNQGSMulAq3TCLy_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzM2/OS0xNDYxNjI2ODM4/LTU5OTYuanBlZw.jpeg" alt="Cover for Raza Odiada" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +736,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33169245c8b370c6d29c065a2dacae52.png" alt="Cover for Animosity" style="max-width:120px; height:auto;" />
       </td>
@@ -742,8 +760,9 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504c01d552264367c330e797b0f0fc52.png" alt="Cover for Sleepwell Deconstructor" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-03</td>
       <td>Trap Them</td>
@@ -834,7 +853,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/079c2754515445c9c55bff2314d0c811.png" alt="Cover for Seizures In Barren Praise" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +863,6 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -872,7 +890,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e50c2ac1dc3540159c00d51f78246e79.png" alt="Cover for Bestial Machinery" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +928,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2009-05</td>
@@ -944,14 +962,14 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 63</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 84</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/6aIkrwOZO7MRLRts1GOE2zTptWAyahOzP2xLlicfktg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc1/MzYtMTI0MzMxODIw/Mi5qcGVn.jpeg" alt="Cover for Magrudergrind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42be526332454d03a0a1443a4e6836a7.png" alt="Cover for Magrudergrind" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-16</td>
       <td>Magrudergrind</td>
@@ -1024,7 +1042,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ded19add25563295cd639ef55d60305.png" alt="Cover for Wearing Out Our Welcome" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1084,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-03-15</td>
@@ -1103,7 +1121,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f1f213bf3547f6a3f4c57d3f679101.png" alt="Cover for Dirge" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1139,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b23c36c4b2d4d938a032d0ce9702d7f.png" alt="Cover for Passion" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1158,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Zv4IaZL69pCPToxOHmyJbBrq58yGovCjQjt4akHhqNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTUy/OTktMTM4MzI4NTgx/Mi04Mjc2LmpwZWc.jpeg" alt="Cover for The Poacher Diaries" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1197,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td>2012-05-04</td>
@@ -1192,7 +1210,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 41</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 44</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 90</li>
         </ul>
       </td>
@@ -1219,12 +1237,12 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 2</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 90</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 92</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1267,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2012-10-22</td>
@@ -1285,8 +1303,9 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d60e00b2678818d57b83495aa30358.png" alt="Cover for Rudiments of Mutilation" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Full of Hell</td>
@@ -1302,7 +1321,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6366abc9f883464085aa8eccf12ded45.png" alt="Cover for Nothing Violates This Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1343,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2662323596a4208bab31ad615f38b46.png" alt="Cover for The Blind Hole" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,7 +1362,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,16 +1437,16 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 61</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
@@ -1516,13 +1535,12 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 60</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 68</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
@@ -1536,44 +1554,45 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2014-10-24</td>
@@ -1587,7 +1606,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 31</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 32</li>
             <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 68</li>
         </ul>
       </td>
@@ -1615,7 +1634,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/PsS_Cf5qZ9Ebzp32xe5cm8p-doQ-KHwCGLcBLFI7Jjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgy/MjMtMTU3ODE3MjEx/Ni00NTAyLmpwZWc.jpeg" alt="Cover for Lightless Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,13 +1650,13 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 23</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 31</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 27</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/qCu4Q5mPy9uTrKwGjBnh_9r9fV5G3tkd69wKEK84mDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYw/NTk4LTE1OTAyODkz/NzUtOTI3OC5qcGVn.jpeg" alt="Cover for Skin Deep" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1725,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b533f75a098aae69b0e8acfbfcc7c84.png" alt="Cover for Voices" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1765,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/jzxhXrE0wfzdKddqFDiUYczO3djlRMctIfWopjPmaok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEx/Njg3LTE1OTA1NDQz/NDgtNDE5My5qcGVn.jpeg" alt="Cover for Trumpeting Ecstasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/067a08e30f10c2b3334dfe35e67a6ac0.png" alt="Cover for Trumpeting Ecstasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Full of Hell</td>
@@ -1765,7 +1784,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/567355dd33c30adc3bb115f5d3d20338.png" alt="Cover for Head Cage" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1839,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 10</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 15</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 92</li>
         </ul>
       </td>
@@ -1851,7 +1870,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/NH_xET8gkDNLxibCwY7Q8ZntnPZBWpCItEyHlL_UACc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjMw/MTU5LTE1NTc4NjI3/OTItOTA0MC5qcGVn.jpeg" alt="Cover for Weeping Choir" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1927,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 59</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 75</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1991,68 +2010,69 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 29</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 14</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 73</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2077,9 +2097,9 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/dJjOy0EqaesxKnK76rHTB3F9BHfON9cepUq6YemDBMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTYy/MzYtMTQyMTkyNTA3/OS00Mjg3LmpwZWc.jpeg" alt="Cover for Apex Predator - Easy Meat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4367c04376224c4fccd1d8e8e2f0e367.png" alt="Cover for Apex Predator - Easy Meat" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-25</td>
       <td>Napalm Death</td>
@@ -2110,27 +2130,6 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/PUnoYCSVKRBZutqpD_QgeSYv-Gq7io8BukGci_hMnc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzg5/NzU2LTE2MzI3NjQz/MDAtNzQ4MC5qcGVn.jpeg" alt="Cover for Garden of Burning Apparitions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-01</td>
-      <td>Full of Hell</td>
-      <td>Garden of Burning Apparitions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 40</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2213,68 +2212,72 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 8</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 24</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 70</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72ef33e7c4f160b1429573683a3ca76e.png" alt="Cover for Hiss" style="max-width:120px; height:auto;" />
       </td>
@@ -2312,13 +2315,13 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 44</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 70</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 77</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/303dbc823c529cfd3ca1277fbf2273e1.png" alt="Cover for Cärlös" style="max-width:120px; height:auto;" />
       </td>
@@ -2333,7 +2336,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2353,7 +2356,7 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2438,76 +2441,76 @@ Grindcore is a subgenre of extreme metal that originated in the early 1980s, cha
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 40</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 49</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 59</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 71</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 87</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 94</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be716b71c502bbd2cfb2aab0d327f338.png" alt="Cover for Every Bridge Burning" style="max-width:120px; height:auto;" />
       </td>
