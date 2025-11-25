@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T19:02:37.972Z
+date: 2025-11-25T13:18:38.313Z
 permalink: tags/symphonic-rock
 title: symphonic rock
 ---
 
 ## symphonic rock
 
-Last updated: <time datetime="2025-11-23T19:02:37.972Z">Sun Nov 23 2025 21:02:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:18:38.313Z">Tue Nov 25 2025 15:18:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,7 +85,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dbe4bc42b90f56b4d9bb0c627e2415f.png" alt="Cover for Asylum" style="max-width:120px; height:auto;" />
       </td>
@@ -196,7 +196,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +494,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/w2V6eaLoY5pbhnqk44X3X5HikUhxpYVSaS5N0dANBac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NzA4LTE1NjgyNjMw/NDktNDM0My5qcGVn.jpeg" alt="Cover for Best of the Alan Parsons Project, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +649,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e83ed0325e844c0c431b5170607b3b6.png" alt="Cover for Union" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +667,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/919cbc697edb4e3dacd402b3889b691f.png" alt="Cover for Sacrilegium" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +705,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/850bded16ea444928c235f914572410a.png" alt="Cover for The Sacrilege of Fatal Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +764,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/RFiF-ycGRwcH-aG6ynu6g7OFPPjFXI-4638jTVYO9Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjEx/OS0xMTY0NTY1MjE3/LmpwZWc.jpeg" alt="Cover for The Very Best Of . . ." style="max-width:120px; height:auto;" />
       </td>
@@ -788,7 +788,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11711937e92565ad977e63c1c0ace383.png" alt="Cover for Dies Irae" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +903,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87891943b6700d4ec582da375ab7a064.png" alt="Cover for Rites of Passage" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,12 +1006,12 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999-08-21</td>
@@ -1138,7 +1138,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9467da7e68624df0cdfc756d8727d877.png" alt="Cover for Ultimate The Alan Parsons Project" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,25 +1163,6 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffd7b2255d04908a6535d6a94ee6026.png" alt="Cover for Together We&#39;re Heavy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-06-30</td>
-      <td>The Polyphonic Spree</td>
-      <td>Together We&#39;re Heavy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f8fabfef2e1e3a82a2a612c9c2b82c.png" alt="Cover for So Much (for) Stardust" style="max-width:120px; height:auto;" />
@@ -1197,7 +1178,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1219,31 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd00c7c025248539fc60fddb70a8d2b.png" alt="Cover for Trust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-21</td>
+      <td>Saga</td>
+      <td>Trust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/fSnFlTsRGea-00W6QKFcOFKHEBqQZiAn8_ieHaJQ3qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjY4/NzgtMTQ3NjAzOTA2/NC02NDc3LmpwZWc.jpeg" alt="Cover for 10.000 Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1284,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/N2giOMVEnZ4r-lMubnmpEahzfdqV6WPn8Vyl70SreNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgz/NTQtMTMyNjgxMzY0/My5qcGVn.jpeg" alt="Cover for What Have You Done" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1338,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/87NGcr-2TRN8QE9E4HH3ScMEEb9VF-x-X-1X7DbdUOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjI1/MTMtMTQxNDM0NjIy/OC0zMTYxLmpwZWc.jpeg" alt="Cover for unveil" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1372,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 96</li>
         </ul>
@@ -1414,12 +1419,12 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4UZo_tjN0igQpL565f6uUv_J1zyGJWlayGUlQSibROo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA2/MDQtMTMxNTI1Nzk2/MS5qcGVn.jpeg" alt="Cover for Au Contraire" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,8 +1564,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 89</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1635,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 66</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1678,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/NEmRZx0m9nI-ag9LkouAuGlrdsVhHV6_zrfk4VLtSLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUw/NTE3LTE1NTI1OTI0/NzAtNDU2Mi5qcGVn.jpeg" alt="Cover for Mad Max: Fury Road" style="max-width:120px; height:auto;" />
       </td>
@@ -1772,7 +1777,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/711aead71b4e414e061bda836566325c.png" alt="Cover for Moonbathers (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1794,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 69</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
         </ul>
       </td>
@@ -1838,7 +1843,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/845c6ec136a482d444db350ede693bd5.png" alt="Cover for Depth" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,7 +1901,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2022-12-09</td>
@@ -1910,12 +1915,12 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91c18f1fd6f942b2ad7d677d6e6c3cd6.png" alt="Cover for The Best of Eloy, Volume 2 (The Prime 1976-1979)" style="max-width:120px; height:auto;" />
       </td>

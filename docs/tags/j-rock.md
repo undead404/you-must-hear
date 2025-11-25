@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:51:58.010Z
+date: 2025-11-25T13:19:19.876Z
 permalink: tags/j-rock
 title: j-rock
 ---
 
 ## j-rock
 
-Last updated: <time datetime="2025-11-22T16:51:58.010Z">Sat Nov 22 2025 18:51:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:19:19.876Z">Tue Nov 25 2025 15:19:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aba666b7ef29455ec57aa4ac8f81427c.png" alt="Cover for Launcher" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/XTkCgSxsmOEEl4Pl16JKms6quIHR7OeFD84Z57yl8rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTAw/OTAtMTQwOTE3MTQ4/Ni0xMDAwLmpwZWc.jpeg" alt="Cover for REAL" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +242,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a65b7406b09042878b2c2e4a98c40bab.png" alt="Cover for DEEP FOREST" style="max-width:120px; height:auto;" />
       </td>
@@ -278,13 +278,13 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 54</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 56</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2002-04-03</td>
@@ -431,7 +431,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a345ef05690bfd9cfaaabb796f2e478.png" alt="Cover for ソルファ" style="max-width:120px; height:auto;" />
       </td>
@@ -603,7 +603,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f7fdfa23d4dee0f1c15bc3091f6510e.png" alt="Cover for NIL" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +621,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2006-09-27</td>
@@ -644,7 +644,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/jLBPB7WgpLnmuMGtQStf8-Ffknti4oqQNX_hAenIcnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjcw/NTEtMTM1NjE5NjU0/NC0yNTg0LmpwZWc.jpeg" alt="Cover for 13&#39;s Reborn" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +662,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/jLBPB7WgpLnmuMGtQStf8-Ffknti4oqQNX_hAenIcnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjcw/NTEtMTM1NjE5NjU0/NC0yNTg0LmpwZWc.jpeg" alt="Cover for 13&#39;s Reborn" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +716,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fad59db04294af6ca16f4e13fc49f4e.png" alt="Cover for RADWIMPS 4 ~おかずのごはん~" style="max-width:120px; height:auto;" />
       </td>
@@ -891,8 +891,9 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51b88323a83bc6f799ebb4dfbf2538b0.png" alt="Cover for 激しさと、この胸の中で絡み付いた灼熱の闇" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-02</td>
       <td>DIR EN GREY</td>
@@ -910,7 +911,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 72</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 77</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 98</li>
         </ul>
@@ -934,7 +935,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/212913c6b6e04205c2408cf19266cc41.png" alt="Cover for Nicheシンドローム" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +990,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/TLalW-aO2U3cYSDjSOsoLsyn2sUqYJ7CxEm1b9LbF68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDI5/MDEtMTQ2ODgyNzcy/NS0xNjkyLmpwZWc.jpeg" alt="Cover for Ho-Kago Tea Time II (From &quot;K-On!!&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1028,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2010-12-01</td>
@@ -1065,7 +1066,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-01-26</td>
@@ -1074,6 +1075,26 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae016bc9f8d04ce7cc11048393e3219a.png" alt="Cover for 残響リファレンス" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-10</td>
+      <td>ONE OK ROCK</td>
+      <td>残響リファレンス</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -1144,7 +1165,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2012-11-14</td>
@@ -1178,25 +1199,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f687eb641e8443992c857e5fad7b2b5.png" alt="Cover for Yoshu Fukushu" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-07-31</td>
-      <td>Maximum the Hormone</td>
-      <td>Yoshu Fukushu</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e86862542e548b28beeb59d66b914ba.png" alt="Cover for サークルゲーム" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,7 +1237,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d463ffa475bc62d94ac369e2c2778e1.png" alt="Cover for Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1274,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1292,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 17</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 40</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
@@ -1370,10 +1373,10 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 40</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 59</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 73</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
@@ -1579,7 +1582,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 64</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 79</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 85</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 92</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1677,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/_xfNFQm9y-vqsmc8gGzbyX73lN4MFHL8OvDdAoyBiZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgx/OTIzLTE1ODY0NTc5/MTAtNTE5OC5wbmc.jpeg" alt="Cover for SIU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/897d8a8e4c00000f7a0b94a1a6dc5d84.png" alt="Cover for SIU" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-17</td>
       <td>maretu</td>
@@ -1732,16 +1735,16 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       <td>
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 61</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 63</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 69</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
             <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -1848,19 +1851,21 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 72</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
@@ -1906,7 +1911,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 80</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 87</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
         </ul>
@@ -1950,7 +1955,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1972,7 +1977,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f8e1f5ede0cce38b10b7ae9526da598.png" alt="Cover for ウェザーステーション" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,7 +1994,7 @@ J-rock is Japanese rock music that blends Western rock influences with distincti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 62</li>
         </ul>
       </td>
     </tr>

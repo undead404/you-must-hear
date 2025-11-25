@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:52:34.204Z
+date: 2025-11-25T13:19:33.632Z
 permalink: tags/christian-metalcore
 title: christian metalcore
 ---
 
 ## christian metalcore
 
-Last updated: <time datetime="2025-11-22T16:52:34.204Z">Sat Nov 22 2025 18:52:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:19:33.632Z">Tue Nov 25 2025 15:19:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -133,7 +133,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Tpr2Js-Wch98O2ypOEvi3_M9xaq9YIY-ucIvZ3eGAi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODMw/MTctMTQ2NjUzMTU3/OS0yNDkwLmpwZWc.jpeg" alt="Cover for Por un Mañana" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>14</td>
       <td>
       </td>
       <td>2005</td>
@@ -263,7 +263,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 63</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 19</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 20</li>
             <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 63</li>
         </ul>
       </td>
@@ -338,7 +338,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -359,10 +358,10 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 83</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +379,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +458,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>11</td>
       <td>
       </td>
       <td>2007-02-07</td>
@@ -491,7 +489,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 29</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +526,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -565,7 +562,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 91</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -650,23 +647,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>Memphis May Fire</td>
       <td>
         <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>2008</td>
-      <td>Factor 150</td>
-      <td>Happy End [EP] 2010</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -784,26 +764,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2008-10-22</td>
-      <td>The Devil Wears Prada</td>
-      <td>3 Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78784f37d358413baacae8cf863b88a8.png" alt="Cover for To Die As Kings" style="max-width:120px; height:auto;" />
@@ -835,7 +795,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +813,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +831,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -918,6 +876,24 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4017dd607dc848139cf229a135922956.png" alt="Cover for When Will We Surrender" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-30</td>
+      <td>Hundredth</td>
+      <td>When Will We Surrender</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b4886b05f681bc530e78bf20f16a3b.png" alt="Cover for The Powerless Rise" style="max-width:120px; height:auto;" />
@@ -933,7 +909,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>
         <ul>
             <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 8</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +945,6 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1041,6 +1015,23 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c233230235d4daeae58b4920b77a406.png" alt="Cover for Costs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-01</td>
+      <td>Gideon</td>
+      <td>Costs</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f96daa376eff4088946254baa6226420.png" alt="Cover for Conviction" style="max-width:120px; height:auto;" />
@@ -1095,6 +1086,25 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/701b9a7191a74582af206abc6a12758e.png" alt="Cover for Let Go" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-27</td>
+      <td>Hundredth</td>
+      <td>Let Go</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2724818cf1d44fd90ea3ae9e9047f74.png" alt="Cover for Children Of Fire" style="max-width:120px; height:auto;" />
@@ -1112,7 +1122,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>7</td>
       <td>
       </td>
       <td>2012</td>
@@ -1135,7 +1145,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>12</td>
       <td>
       </td>
       <td>2012</td>
@@ -1153,7 +1163,25 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/438a728880be46839a2d9bcdb3fd4f16.png" alt="Cover for Milestone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-03</td>
+      <td>Gideon</td>
+      <td>Milestone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>2013</td>
@@ -1211,7 +1239,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e046632b86849a7c90523f13e1c0054.png" alt="Cover for Bloodwork" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,12 +1299,12 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 2</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>3</td>
       <td>
       </td>
       <td>2014-10-14</td>
@@ -1301,7 +1329,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>8</td>
       <td>
       </td>
       <td>2015</td>
@@ -1324,7 +1352,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9b17f8866614b4fc5ae70d19d3edd2.png" alt="Cover for Till The End" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1483,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1840eb3ad2fe4533c53da4d0685ed1f1.png" alt="Cover for Osmosis - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,8 +1575,8 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 27</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 71</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1591,33 +1619,10 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 33</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 34</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 59</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 76</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td>2019-11-15</td>
-      <td>Norma Jean</td>
-      <td>Musik</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1644,7 +1649,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 28</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1672,15 +1677,15 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>
         <ul>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 18</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 63</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 64</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>5</td>
       <td>
       </td>
       <td>2021-03-13</td>
@@ -1696,7 +1701,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>15</td>
       <td>
       </td>
       <td>2021-05-21</td>
@@ -1787,7 +1792,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 44</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1810,6 +1815,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 1</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 85</li>
         </ul>
       </td>
@@ -1843,7 +1849,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>4</td>
       <td>
       </td>
       <td>2024-07-26</td>
@@ -1892,24 +1898,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Factor 150</td>
-      <td>Happy End EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aefa3dde6ea47b34ef19c6cec08fd0a.png" alt="Cover for Когда весь мир - пустота..." style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1919,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6842e7bc10491139fee105cfc5d3c69c.png" alt="Cover for Твой страх (SP)" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1939,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b95a1503c94b4405c40bda740d2aeb3c.png" alt="Cover for Крик в Пустоту (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1970,7 +1959,7 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1989,8 +1978,9 @@ Christian metalcore blends the aggressive instrumentation and breakdowns of meta
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0b7ede5ab9481f89832a8db9ee53bb.png" alt="Cover for Debut EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Our Apologies</td>

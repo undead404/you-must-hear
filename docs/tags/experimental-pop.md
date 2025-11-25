@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T19:12:38.138Z
+date: 2025-11-25T13:19:56.581Z
 permalink: tags/experimental-pop
 title: experimental pop
 ---
 
 ## experimental pop
 
-Last updated: <time datetime="2025-11-23T19:12:38.138Z">Sun Nov 23 2025 21:12:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T13:19:56.581Z">Tue Nov 25 2025 15:19:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -54,7 +54,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1986-09-15</td>
@@ -71,7 +71,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1988-01-19</td>
@@ -94,7 +94,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c610046926f8b0230010cd88d28652d.png" alt="Cover for Do" style="max-width:120px; height:auto;" />
       </td>
@@ -114,7 +114,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1991-02-18</td>
@@ -156,7 +156,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1996-08-30</td>
@@ -216,9 +216,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
         <ul>
             <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 44</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
@@ -226,7 +226,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7d1dd540e284d41348910f1fd66393.png" alt="Cover for The Museum Of Imaginary Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +244,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/356c68b6adc4c2c417269d5efdd82fd6.png" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +259,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 57</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 76</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 76</li>
         </ul>
       </td>
@@ -347,7 +347,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/iAg-U-ev4K7vrRJ5Cda1tUFsVgnjdhU5-3YL1c4EHmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTI4/NzgtMTQyMzkyODEy/Ni04MjQ5LmpwZWc.jpeg" alt="Cover for Um carinho com os dentes" style="max-width:120px; height:auto;" />
       </td>
@@ -411,18 +411,18 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/vMkH4GxkKcWvXNMvMNTS-uUIzUAoy7LNwVDwN5_ieL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODYz/My0xMTQzMTQ4OTIw/LmpwZWc.jpeg" alt="Cover for Tuote Akatemia&#x2F;Unien Savonlinna EP" style="max-width:120px; height:auto;" />
       </td>
@@ -444,25 +444,6 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b96e4091f517178872331ee65b4bb8d3.png" alt="Cover for Can Cladders" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-02-19</td>
-      <td>The High Llamas</td>
-      <td>Can Cladders</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3148b9fbf24f02a0557ca22cab5309.png" alt="Cover for Person Pitch" style="max-width:120px; height:auto;" />
@@ -477,7 +458,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 37</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
@@ -499,11 +480,11 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 7</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 8</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 61</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +510,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz EP" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +534,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 56</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
         </ul>
@@ -664,7 +645,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/730bf14e35ba432aa8add8fbad6cec44.png" alt="Cover for 3: Kosmoseodüsseia" style="max-width:120px; height:auto;" />
       </td>
@@ -709,7 +690,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c72033668b44aabb7758ddc253f1e7.png" alt="Cover for Spool of Collusion" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +739,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8319e89b9d994d3b920f3276765e7b0a.png" alt="Cover for Explosante Fixe" style="max-width:120px; height:auto;" />
       </td>
@@ -811,7 +792,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 51</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 65</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
@@ -833,7 +814,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 56</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -852,12 +833,12 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 44</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/971c905ca89640d0a5f0b2afbf35ec8b.png" alt="Cover for Negative Emotions" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +870,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3fce3cbeec43a0b95011552460fe1b.png" alt="Cover for Positive Outlook" style="max-width:120px; height:auto;" />
       </td>
@@ -972,13 +953,13 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 17</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 61</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94cfdb5f36a7f935b6837f5fe8840ed6.png" alt="Cover for Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +972,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 10</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 75</li>
         </ul>
@@ -1018,7 +999,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/Tc5kc1DzPjgYBiqI0cv0xftVaQiU2u2j7JqsDyRNb2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjIy/ODctMTM4MDcxNjA4/NC0zNTY1LmpwZWc.jpeg" alt="Cover for Max Payne 3: the Official Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1127,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 10</li>
             <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 64</li>
         </ul>
       </td>
@@ -1180,7 +1161,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18b5355226258837c43ca5730e3cd9e1.png" alt="Cover for Ego &#x2F; Mirror" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,9 +1249,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 56</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 74</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 96</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
       </td>
@@ -1333,8 +1314,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 7</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 32</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 34</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
@@ -1359,13 +1340,13 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 81</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 82</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caf56d93359146f0c6eb4e6cf52f26b3.png" alt="Cover for No More Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,14 +1406,14 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 34</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 38</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd21394f4896bd53ed15acf281694841.png" alt="Cover for shadowdog" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1433,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7501c6d7f1054dd3cdeb4a489527d481.png" alt="Cover for Panda Bear Meets the Grim Reaper" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,7 +1448,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 37</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1506,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1546,7 +1527,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 28</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 29</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 100</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 100</li>
         </ul>
@@ -1584,14 +1565,14 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5012ae8978c36c72906d4fe0ae57a293.png" alt="Cover for Сладкая жизнь" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1609,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfe48aa71782214e5e3f52bea5dea94.png" alt="Cover for I&#39;m All Ears" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,7 +1695,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/177jVsTVsq7DhKCwHR8uzZ4nfzbZ0h5dbmcL0ISmfdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NTYwLTE1NjgyODQ4/MTgtOTEwMS5qcGVn.jpeg" alt="Cover for Charli" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,8 +1711,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 5</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 44</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
@@ -1739,7 +1721,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b8d354e7a633da0fe321fffebd0a02.png" alt="Cover for SUPERGROUND" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1767,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/81P6Qp_OWRx8bj9PT7ziDQzdXuBHXwMokf6Gu68-F4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIy/NDI3LTE1ODQxMzY1/MDYtODQ3NS5qcGVn.jpeg" alt="Cover for Redundance" style="max-width:120px; height:auto;" />
       </td>
@@ -1824,6 +1806,29 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3da1c391aae6b554719c83cacf4784c.png" alt="Cover for Dying Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-01</td>
+      <td>Bubblegum Octopus</td>
+      <td>Dying Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>71</td>
       <td>
           <img src="https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg" alt="Cover for How I&#39;m Feeling Now" style="max-width:120px; height:auto;" />
@@ -1842,16 +1847,16 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 59</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8AnQrumDaPlRWXuBW4-kZylobluGmDBNPhSsWH7Txcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODE3/NDU3LTE2MTAwMTgy/MTgtNzU3MC5qcGVn.jpeg" alt="Cover for FRaaaDS" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,7 +1893,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2358ad19d828c17769da9fd3b01f0412.png" alt="Cover for Lockdown Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1933,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db4ffdb9e9f56e880a09ab4e3a96630d.png" alt="Cover for Ookii Gekkou" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,14 +1976,14 @@ Experimental pop blends accessible pop melodies with unconventional production t
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 69</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c37852804f64db3cdc5eb892da9568e.png" alt="Cover for Hi, How Are You? (The Unfinished Album)" style="max-width:120px; height:auto;" />
       </td>
@@ -2087,7 +2092,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 8</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 17</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2144,12 +2149,12 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 7</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/aLtds_AE9Bmah5cxJf_l6bxEqXU-EGawV2I20aH-hfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk5/ODctMTI2NzgwMTg1/Mi5qcGVn.jpeg" alt="Cover for Floatspace Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -2202,7 +2207,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 46</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
             <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
         </ul>
@@ -2246,13 +2251,12 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 13</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2288,13 +2292,13 @@ Experimental pop blends accessible pop melodies with unconventional production t
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 70</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9299ff2c854749c8b9c1c40dd2760cbf.png" alt="Cover for The Thunderclown" style="max-width:120px; height:auto;" />
       </td>
