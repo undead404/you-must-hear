@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T14:46:00.591Z
+date: 2025-11-25T06:21:38.903Z
 permalink: tags/french-rap
 title: french rap
 ---
 
 ## french rap
 
-Last updated: <time datetime="2025-11-10T14:46:00.591Z">Mon Nov 10 2025 16:46:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T06:21:38.903Z">Tue Nov 25 2025 08:21:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/He9g-v3vuEc8tVsdF4H3GhnHiMlLB0qETzGDL0KBrks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYw/NTMxLTE1ODQ0ODAx/MTktODkwMS5qcGVn.jpeg" alt="Cover for Allo maman bobo" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/He9g-v3vuEc8tVsdF4H3GhnHiMlLB0qETzGDL0KBrks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYw/NTMxLTE1ODQ0ODAx/MTktODkwMS5qcGVn.jpeg" alt="Cover for Natasha" style="max-width:120px; height:auto;" />
       </td>
@@ -75,7 +75,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3cdeba7b625ce0ef4249d4aedbfe7ae.png" alt="Cover for Sale" style="max-width:120px; height:auto;" />
       </td>
@@ -98,7 +98,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17519b3971e3ab299488cd141f101cd0.png" alt="Cover for SCHIZO" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95028b5b15c92a6f4f4e7f21c0205bd.png" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 26</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 25</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 32</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 73</li>
         </ul>
@@ -175,7 +175,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 65</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 64</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 77</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 93</li>
         </ul>
@@ -199,7 +199,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/i4k_hdWnHcHI2P5hIv-DORIyatgL0THMKRye9-NHsqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzcw/MjYtMTQ3MzMyOTAw/NC0yMjgzLmpwZWc.jpeg" alt="Cover for j&#39;appuie sur la gachette" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/L6SNIjeh-efun3REsBiwMFdyiBU00SS3lJBzmz7XeGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODY2/OC0xMzAyMDkzMTY1/LmpwZWc.jpeg" alt="Cover for Taxi 1" style="max-width:120px; height:auto;" />
       </td>
@@ -239,6 +239,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/385f7cf6551485110c926f9b89e4f78f.png" alt="Cover for Prose Combat" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-09</td>
       <td>MC Solaar</td>
@@ -250,11 +251,12 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/GukuPocvA8zP3c_c4iEnfJjrMOYSryX0W6Piq25KbQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTEw/LTE0OTY3NDM0OTQt/ODQxOS5qcGVn.jpeg" alt="Cover for simple et funky" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +274,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/GukuPocvA8zP3c_c4iEnfJjrMOYSryX0W6Piq25KbQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTEw/LTE0OTY3NDM0OTQt/ODQxOS5qcGVn.jpeg" alt="Cover for Simple Et Funky" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +292,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/B6sE6nap1EK6efStCzJtoWBi6a85DLYgRPBxDhCvAuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDkz/MC0xMzAyNjAzNTI0/LmpwZWc.jpeg" alt="Cover for 3x Plus Efficace" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +328,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/g2NXILwcoh3-0n4DGYpLVRTB2Ms2pGinMDc1lszpmbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU5/MDktMTUzMzMzNDE3/OS03MDA0LmpwZWc.jpeg" alt="Cover for Tout est calculé..." style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +365,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1998</td>
@@ -372,26 +374,6 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/d078pR02y5fdqr3iMCYU1zuB7pReURXS8UwEQxiYl44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg3/NTAtMTU3ODM5OTg0/OC04NDY0LmpwZWc.jpeg" alt="Cover for Les Liaisons Dangereuses" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Doc Gyneco</td>
-      <td>Les Liaisons Dangereuses</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
         </ul>
       </td>
       <td>
@@ -437,7 +419,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1998-11-13</td>
@@ -474,7 +456,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/CmwDCMYbW8ZQAdEqw0RyRRO3NVH24W473JecGE_Pcos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEx/NDI4LTE1MTAwNTY2/MTgtODQzNy5qcGVn.jpeg" alt="Cover for Phenomenelik" style="max-width:120px; height:auto;" />
       </td>
@@ -508,7 +490,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 80</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -540,14 +522,14 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 84</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 78</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 85</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/puTn80FAUtZ-CmJizBVd-s2hH4fUWIMrM7xxSBT4lak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk1/Ni0xNTkwOTE4NzYy/LTc3MjcuanBlZw.jpeg" alt="Cover for Foulamerde" style="max-width:120px; height:auto;" />
       </td>
@@ -573,8 +555,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 51</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 53</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 52</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
         </ul>
       </td>
@@ -608,8 +590,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 65</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 92</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 93</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -656,6 +638,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cae191548b0947d4a1be455e2b7b1ab3.png" alt="Cover for Mauvais Oeil" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-25</td>
       <td>Lunatic</td>
@@ -671,7 +654,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/pHuD353cL3OdfuUMDUGLGyyHzmiWl7w5ORUOY98p5_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc0/NzUtMTUyNTc5OTU2/Ni0yMjkwLmpwZWc.jpeg" alt="Cover for La Sonora" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +690,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41458449aace8b3670a27b88fa94673c.png" alt="Cover for Du rire aux larmes" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +704,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 38</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +729,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/hOnmEIPowlXf6HcsjYoY9caXecRIJwwY9k7X_nr-eKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/OTUtMTMyMDA3ODAy/NS5qcGVn.jpeg" alt="Cover for Après l&#39;orage" style="max-width:120px; height:auto;" />
       </td>
@@ -764,7 +747,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/6HhwPdH2KRpBjbFN-5y_X5l5hARFpnKnZOHj7AAXnVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTU2/LTE0MjQ3OTM3NDQt/MzkxMC5qcGVn.jpeg" alt="Cover for Hot" style="max-width:120px; height:auto;" />
       </td>
@@ -789,13 +772,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 36</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 35</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/KuNYLzVRm1icHsCbsxEpJ97WL-xes8k-4t-nZ29Sat8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjMw/LTE0MTcwMjEzNzct/NjM1OC5qcGVn.jpeg" alt="Cover for L&#39;Elixir" style="max-width:120px; height:auto;" />
       </td>
@@ -821,14 +804,14 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 31</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 48</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg" alt="Cover for Seule" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +834,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 44</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 52</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 82</li>
         </ul>
@@ -876,7 +859,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/l8Y644rM-6zLng0VDft1O-sRsCsoBqx6c4xuib9OIHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NDYtMTIzMDMzMjY1/MS5qcGVn.jpeg" alt="Cover for On Vit Comme On Peut" style="max-width:120px; height:auto;" />
       </td>
@@ -910,7 +893,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 67</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +917,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/lieR8vumH_KkCPS4jxFomVaaWBxwxrijmG7bPEq0hk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTY4/NjctMTY1NTc1NjAz/Mi01NzY3LmpwZWc.jpeg" alt="Cover for X sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +952,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/08VuYysQlvb85ReknmgVvj1L5_CtPcDD-baJr83txlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA3/MjEtMTI3OTU1NjUy/NS5qcGVn.jpeg" alt="Cover for Vu Du Large" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1033,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg" alt="Cover for Garçon manqué, fille manquante" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1046,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 46</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 45</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 83</li>
         </ul>
       </td>
@@ -1087,7 +1070,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 60</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 59</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 92</li>
         </ul>
       </td>
@@ -1111,7 +1094,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 71</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 70</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 95</li>
         </ul>
       </td>
@@ -1136,7 +1119,30 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a84cf444d534c0478526d28bcfcc4ad.png" alt="Cover for Nou Libere" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12</td>
+      <td>C-Projects</td>
+      <td>Nou Libere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/57ZGawz3ZmaQfVyuZo6y_UgqBVEQsKmZXwQgU0kij7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjMw/MTQtMTQxMDEwNjg4/Ni05ODgxLmpwZWc.jpeg" alt="Cover for Ballon D&#39;Or" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1179,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Triste époque" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,13 +1202,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 39</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 38</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,13 +1231,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 43</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 42</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Plus personne" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,13 +1260,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 44</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 43</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
       </td>
@@ -1284,13 +1290,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 5</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2592b906b35ce99cc7c23d613441de64.png" alt="Cover for Depuis le départ" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,13 +1320,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 25</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 56</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 55</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg" alt="Cover for Pas le choix" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,13 +1350,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 57</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 56</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/566dd09268fc467f928ce7e6d126a633.png" alt="Cover for Le poids des mots" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,7 +1376,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0779c680379c429fba2ebeb97074883a.png" alt="Cover for Le Calme Sous La Pluie" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1395,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/V7nFDY-z5zEggKh2llN7XOLOOXBAb5VLoj04IR4f5u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDUz/MjMtMTQ4NTcwMTA1/Ni02ODY2LmpwZWc.jpeg" alt="Cover for TOCTOC" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1415,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/950e3bb24b5d4012c0e5874dc2495f6a.png" alt="Cover for Toute Entrée est définitive" style="max-width:120px; height:auto;" />
       </td>
@@ -1450,7 +1456,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/VhNOSAQuIRsdXBebfcC9TAKPO34mGpEheRmJFZ0Iww8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDY0/ODctMTQzMDEzOTgy/NS04ODY0LmpwZWc.jpeg" alt="Cover for La cruauté tranquille du quotidien suffit" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1476,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71b25a6e37b8a016ed56e4f7856b6927.png" alt="Cover for Calcul" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,13 +1499,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 24</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for 96" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,13 +1528,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 27</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 26</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7bed4f146cce51199944edb7fac1e9.png" alt="Cover for On prend tout" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,13 +1557,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 34</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 33</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for DGT" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,13 +1586,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 35</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 34</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for Booska Do" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,13 +1615,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 40</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 39</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg" alt="Cover for VRRR" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,7 +1645,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 51</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 50</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 86</li>
         </ul>
       </td>
@@ -1670,7 +1676,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 22</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 52</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 72</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 71</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 96</li>
         </ul>
       </td>
@@ -1691,7 +1697,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 70</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1715,7 +1721,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/351c5f55e3a82ec19c29c79aec093559.png" alt="Cover for Diamant noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1740,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/PvsEwLvCGrTski048DN3RNrVEjPspvoR2_xDOfnESoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/MDIwLTE0OTY5NTgx/MjQtNjA0Ni5qcGVn.jpeg" alt="Cover for Si Dieu Veut (Inch Allah)" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1853,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 42</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 45</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 88</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 98</li>
         </ul>
@@ -1872,7 +1878,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f4c240e193ed12a228ccae49884cd8a.png" alt="Cover for Psaumes" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1916,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Jbftpt95xqTE9RY-aceZ2bXW1lbSaDghRD9ABLwu144/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODY0/MzQ5LTE2NDk4NDY1/NzgtMzY2NC5qcGVn.jpeg" alt="Cover for Ici &#x2F; Là-bas" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,13 +1954,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 4</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 88</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/nqsquRihVtPmV7UX0TSd8xtcrE1vuU_2colv2n_WnEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/MjUxLTE2NDY5MTcy/OTAtOTcwNS5qcGVn.jpeg" alt="Cover for Octogone" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,14 +1975,14 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 32</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/lzyo5zySZ-dVsT4dSzOidZ45rkrEDIkxGaMAf8vdt08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ4/MzQ2LTE2MTE4NTQ3/NDItMjcxOS5qcGVn.jpeg" alt="Cover for Everything Tasteful" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30705fea6f8e4bc026735a8abf2e0f34.png" alt="Cover for Everything Tasteful" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-29</td>
       <td>Lala &amp;ce</td>
@@ -2011,7 +2017,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf928d811a66e9e1efd03696ec2d100.png" alt="Cover for La Corrida - Souvenirs d&#39;été" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,12 +2036,12 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/06sTkiQogBnql5Ya3drTPDv_dG4Zc-ofqdlmaUQmZ44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA1/MDctMTU4NzIxNDg5/My0xNTg4LmpwZWc.jpeg" alt="Cover for Bad Gyal" style="max-width:120px; height:auto;" />
       </td>
@@ -2058,14 +2064,14 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 36</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 40</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg" alt="Cover for Codes" style="max-width:120px; height:auto;" />
       </td>
@@ -2088,14 +2094,14 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 54</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 70</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/8YZo7RYXqRoW5o5dGIpKgIYc-OPX6K_CW7Vr-Y1pgug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTE1/Mi0xNDM0Mzg2MzU4/LTg4OTMuanBlZw.jpeg" alt="Cover for Quelques Gouttes Suffisent..." style="max-width:120px; height:auto;" />
       </td>
@@ -2113,7 +2119,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2130,12 +2136,12 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 29</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e3cf1d49a32cc4fd382787b45fc4b3.png" alt="Cover for Résilience" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,13 +2162,13 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 42</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 41</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3165c1b252c228b36af2106414787c.png" alt="Cover for DIGITAL" style="max-width:120px; height:auto;" />
       </td>
@@ -2217,7 +2223,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 59</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 58</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 91</li>
         </ul>
       </td>
@@ -2239,12 +2245,12 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 69</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
