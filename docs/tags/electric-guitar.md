@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:18:53.157Z
+date: 2025-11-24T21:30:38.063Z
 permalink: tags/electric-guitar
 title: electric guitar
 ---
 
 ## electric guitar
 
-Last updated: <time datetime="2025-11-23T11:18:53.157Z">Sun Nov 23 2025 13:18:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-24T21:30:38.063Z">Mon Nov 24 2025 23:30:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/IuEMm-6pvUjOdqybcuDAThtOCwJWgsg7pV4JQRZ6uZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk5/NDYtMTI4MzYxMDYw/OC5qcGVn.jpeg" alt="Cover for 20 golden guitar melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -40,6 +40,24 @@ Electric guitar refers to music prominently featuring the amplified, electronica
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6811d75abba24893c8d3aadfcbb07e96.png" alt="Cover for Peter Green&#39;s Fleetwood Mac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Fleetwood Mac</td>
+      <td>Peter Green&#39;s Fleetwood Mac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
         </ul>
       </td>
       <td>
@@ -142,7 +160,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2b5a91a88874635a7648f81d3335997.png" alt="Cover for UK" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +349,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg" alt="Cover for The Extremist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/886149f98c6d2f8c35045b65d96314ac.png" alt="Cover for The Extremist" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Joe Satriani</td>
@@ -350,7 +368,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d787f9d6698db5408488e3f391bb899.png" alt="Cover for HARD TO NAME" style="max-width:120px; height:auto;" />
       </td>
@@ -677,7 +695,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Glk9hWnrEnrECHhiV7LEdqMKpuN6qiPLc9bBhJWJ5j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTcy/My0xNDY3OTgzODEz/LTMzODEuanBlZw.jpeg" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -718,26 +736,6 @@ Electric guitar refers to music prominently featuring the amplified, electronica
         <ul>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
             <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/I9Xnytc9fvYXDVpvx25nC_GVhgLF7ToEO6oDjnzXZKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/NjgwLTE2MDQwNDI5/NjgtOTMzOS5qcGVn.jpeg" alt="Cover for Ragas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Stanley Jordan &amp; Jay Kishor</td>
-      <td>Ragas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -826,7 +824,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/PKPNCsVkGdGvRF0o4HgMQEj_-9hnCrQvW8cXl9dzaK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY3/OTY5LTE1NTY2NjA1/MDAtNjcyMy5qcGVn.jpeg" alt="Cover for String Theories" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +870,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/fF9EHXyfGm9W5wP9tG4KExuf0VSTnI-Bm4B7VJlSITw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjA0/MDItMTM2MDYxMTAz/My0zOTE2LmpwZWc.jpeg" alt="Cover for Kornerstoned - The Alexis Korner Anthology 1954-1983" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +906,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg" alt="Cover for Rhythm Cargo" style="max-width:120px; height:auto;" />
       </td>
@@ -943,7 +941,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90835318bfc592c160eca7a45d545f60.png" alt="Cover for Royal Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +989,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/arPDKXIUQe66nJPWoor55YErs89TUHLOEImP4oSrbGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUy/ODUtMTI4MjE4NDgx/My5qcGVn.jpeg" alt="Cover for Electroacoustic Compositions for Electric Guitar" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1054,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/voiiwNeAe_htxkXcKWdKyoj-_UgyuLol4jBUTRNwxDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/NjM4LTE1Mjg5MjQy/MTgtMjIyOC5qcGVn.jpeg" alt="Cover for The Devil&#39;s Got My Soul -" style="max-width:120px; height:auto;" />
       </td>
@@ -1113,7 +1111,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/hMbuAzsCntJA3ADtlVrveCT-C9MzVVccbSKc6MSN2ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU2/MzYtMTI4MjIxODY3/Ni5qcGVn.jpeg" alt="Cover for Tesla at Coney Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1134,7 +1132,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/sdaWdOIgPaq-f24JHwHU8ABXaa2jAv8KE463l6ich6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQy/NTYtMTI4MjE4MDg4/OS5qcGVn.jpeg" alt="Cover for The Ominous Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1171,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for On The Run" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1197,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009</td>
@@ -1228,7 +1226,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for Organic Rock Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1275,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2009-02-23</td>
@@ -1337,7 +1335,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/-ZP3JM447OONHE53UGUNO47c855UuIN2eTeeUpTMXSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM3/MjAtMTI4MjA4NTIw/Mi5qcGVn.jpeg" alt="Cover for Mechanical Uprising" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,7 +1375,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/XBNO1SUsBeC9eRVD4dBgchwZMMVVIiaBokNon4jtshg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/MTgyLTE1MzYzNTE4/OTMtODg3NS5qcGVn.jpeg" alt="Cover for Volume Two: &#39;mr. kiss kiss bang bang&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1436,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/yzFgxrB7JwjaXUu18F0DmO5ck5jo-gDuBpgWFNLGv8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/NTU5LTE1ODYwODY2/ODYtMjYzMy5qcGVn.jpeg" alt="Cover for 20 golden guitar melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1456,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/3fX8iWOIxKQT0n81GYtW4NkPeBobKHvqiM1rYJoQI2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDE2/MjktMTMzODUzMDg0/MC00ODYzLmpwZWc.jpeg" alt="Cover for Impermanence Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1510,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/9ryKxWeHtn6j__7CU1IhQ9Q4VBBjB7f273NIDLyDXew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMz/Nzk4LTE2NDIxNzI4/NzEtNjEzMS5qcGVn.jpeg" alt="Cover for Enter" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1590,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1614,7 +1612,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d558f068c5611a31ce75926779e12bf.png" alt="Cover for 13" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1737,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fb7a1aa2b251225552c84aad65929d9.png" alt="Cover for Deep Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1758,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1777,7 +1775,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1801,7 +1799,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1822,7 +1820,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9063bced16aadd2cf3616dbc5590269.png" alt="Cover for ...This Is What&#39;s Left Of It" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,7 +1845,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1867,7 +1865,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1887,7 +1885,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1905,7 +1903,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/619bf6cdacda4e8a9c5b8eb5399c8f02.png" alt="Cover for The World I Am Livings In" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1929,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e23dd29080ad452a8ea2f6b9635d1774.png" alt="Cover for Your secret place" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1948,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1973,7 +1971,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -2144,7 +2142,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c25a12d6271fc1c1591b18242581e87a.png" alt="Cover for a bird, a dead bird" style="max-width:120px; height:auto;" />
       </td>
@@ -2161,7 +2159,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2177,7 +2175,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537156cc457741cac1f0c622f77b2e7b.png" alt="Cover for Pieces,Stories Without Words" style="max-width:120px; height:auto;" />
       </td>
