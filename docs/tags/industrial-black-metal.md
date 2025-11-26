@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T12:07:57.812Z
+date: 2025-11-26T13:37:07.438Z
 permalink: tags/industrial-black-metal
 title: industrial black metal
 ---
 
 ## industrial black metal
 
-Last updated: <time datetime="2025-10-24T12:07:57.812Z">Fri Oct 24 2025 15:07:57 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-26T13:37:07.438Z">Wed Nov 26 2025 15:37:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/36OK35bkrH_SCy3JJQwfNUuVhD8NdP1NFdF2YQIUeVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc5/MC0xMjI1OTgzNjky/LmpwZWc.jpeg" alt="Cover for In the Streams of Inferno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f9581e4d7bd4fbc81986abdde8a72a9.png" alt="Cover for In the Streams of Inferno" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Mysticum</td>
@@ -47,8 +47,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0636a0cbd9a93e6e5cb2c54d64d414bb.png" alt="Cover for Exile" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Anorexia Nervosa</td>
@@ -61,40 +62,20 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/V-neOzC5hsmImVXcaa0Mww-bV0-7a4r6gEulFJjz2co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjYy/OS0xMzM3NjcyOTU3/LTE3MzYuanBlZw.jpeg" alt="Cover for The End of the World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Godkiller</td>
-      <td>The End of the World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6051a9dc2f91cc3b6d267b7d4807e5e9.png" alt="Cover for 666 International" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-11</td>
       <td>Dødheimsgard</td>
       <td>666 International</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
       <td>
@@ -104,8 +85,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e79d4210f995f1e83b446caf35ecd4.png" alt="Cover for Animatronic" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-19</td>
       <td>The Kovenant</td>
@@ -122,7 +104,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>61</td>
       <td>
       </td>
       <td>2000</td>
@@ -137,7 +119,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 11</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +141,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
       </td>
       <td>2000-03-09</td>
@@ -177,8 +159,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebcc9f4ec4ed461690a202f458e0515f.png" alt="Cover for Rephormula" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05</td>
       <td>Ephel Duath</td>
@@ -196,7 +179,27 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8a0f42492c8411a9d8c580ebf54aadf.png" alt="Cover for Antichristian Kaos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>3</td>
+      <td>Antichristian Kaos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/A14jOGteXgz9pN5JXHG1SCsMwjvTX0qSWeLGAh5qClk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA5/OC0xMTExODI3Mjk3/LmpwZw.jpeg" alt="Cover for Thorns Vs Emperor" style="max-width:120px; height:auto;" />
       </td>
@@ -215,9 +218,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Op_zYt9OdbG8GJAVDEAMcTLocYgO_1GQO1ve-i49MyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQ1/Mi0xMTU1MTI3NDE1/LmpwZWc.jpeg" alt="Cover for Fire Walk With Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6ed014c7384e8cce093521df87c5db.png" alt="Cover for Fire Walk With Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-15</td>
       <td>Aborym</td>
@@ -229,22 +232,21 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 28</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 31</li>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/855206053ee292b99881aab2ee460013.png" alt="Cover for A.m.g.o.d." style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-14</td>
       <td>...and Oceans</td>
       <td>A.m.g.o.d.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
         </ul>
       </td>
       <td>
@@ -272,7 +274,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/O6o4eWPGgjTjDbMm_4jDwiCttOYsxQ3WHlu4fIFDvqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/MTAtMTE4Nzk3NzIw/NC5qcGVn.jpeg" alt="Cover for Codex Necro" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +294,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/EZS8fiNPN4_XXI6AkizDkV8WhJabMWxTwVxeE0PZZ7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjMy/Ni0xMTYxODg5MzQ3/LmpwZWc.jpeg" alt="Cover for Instinct Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +313,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>9</td>
       <td>
       </td>
       <td>2002</td>
@@ -329,9 +331,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/QyyGP4ZrtcaG6QvogmhTrVinB97XkoYMMlw9ax-AT0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE2/NDYtMTI4ODc4OTk0/MS5qcGVn.jpeg" alt="Cover for Cypher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b491b8f583ee79ae207a6b6afc7af71a.png" alt="Cover for Cypher" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-03</td>
       <td>...and Oceans</td>
@@ -348,7 +350,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea95fd141da421eb6100692ba8e90c3.png" alt="Cover for New Era Viral Order" style="max-width:120px; height:auto;" />
       </td>
@@ -366,9 +368,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/jFcSxxZlw75NVgS2vo2Gbwzbpl_iybSTfb9gsMsP0bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI3/NzktMTYyNzIzOTIz/MC02MDU3LmpwZWc.jpeg" alt="Cover for Weltherrschaft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1a138128b5947d6aa0580f412973eb8.png" alt="Cover for Weltherrschaft" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-14</td>
       <td>Mezzerschmitt</td>
@@ -384,8 +386,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64bd266d51ab5f1600f08482567d3536.png" alt="Cover for Werewolf Training" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Bloodline</td>
@@ -401,7 +404,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/FpOgoYU7JPpANRUgpn6ldmv57f_xv6eyndtbretacGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTA0/NS0xMjM2MTg1NjMx/LmpwZWc.jpeg" alt="Cover for Posthuman" style="max-width:120px; height:auto;" />
       </td>
@@ -419,27 +422,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/lVEUi7hD-i_pnIZ41SetQJfRsdK3PBOrJCIHjZiWmAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQ1/Ni0xMjgzNjk5OTg2/LmpwZWc.jpeg" alt="Cover for With No Human Intervention" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Aborym</td>
-      <td>With No Human Intervention</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/DD5IKU9ljPpbH27CrrSI25XmiBpRA4cgv77YyRveLgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY4/NTYtMTI3Mzk0MTIy/My5qcGVn.jpeg" alt="Cover for Bloodsoaked and Ill-Fated" style="max-width:120px; height:auto;" />
       </td>
@@ -457,8 +440,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49f9448b9e9deb58d0e1ad7b14647cf8.png" alt="Cover for When Fire Rains Down From the Sky, Mankind Will Reap as It Has Sown" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-17</td>
       <td>Anaal Nathrakh</td>
@@ -473,8 +457,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2eb3e54acf0f27665786a244f87cfab.png" alt="Cover for The Work Which Transforms God" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-17</td>
       <td>Blut aus Nord</td>
@@ -492,8 +477,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32de2f5f1b304c9f9b128716e3a5ab24.png" alt="Cover for The Ichneumon Method (And Less Welcome Techniques)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-28</td>
       <td>The Axis of Perdition</td>
@@ -509,9 +495,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/CRcYUiqqxRPSBdMSwYtS40SZCnm_0A8P2v-PFW7ct0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTE1/Mi0xMTY1MzI3MDk1/LmpwZWc.jpeg" alt="Cover for Hypnotic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ff3b61447ea42acb2cf11628e369dbe.png" alt="Cover for Hypnotic" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-05</td>
       <td>Thyrane</td>
@@ -527,7 +513,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2003-08-11</td>
@@ -544,8 +530,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18836edc66343729fb751d0fa8472c5.png" alt="Cover for Login:SataN" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10</td>
       <td>Blacklodge</td>
@@ -562,8 +549,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de9599a138a048d8a6d6fc2791515e25.png" alt="Cover for Sinthetic" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-29</td>
       <td>Shade Empire</td>
@@ -582,7 +570,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/uZSv8IyKxTrOIByG-N56tbQedqCk8VWixtA6g4SeZsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjAy/MS0xMjc4MzYwNzY4/LmpwZWc.jpeg" alt="Cover for Aeonics An Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +590,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/v5jETDM0wwN1YunOFRa5dNdCdqi5cCCF4z7eTW6bapI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA0/MjItMTQwMDA3NjYw/NC0xNzYwLmpwZWc.jpeg" alt="Cover for Physical Illucinations in the Sewer of Xuchilbara (The Red God)" style="max-width:120px; height:auto;" />
       </td>
@@ -620,8 +608,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd9897c7f12749a8b1606d1e3d8b4a44.png" alt="Cover for In Times Before the Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>The Kovenant</td>
@@ -638,7 +627,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/RHhzdXByPQpzTmtt7Zc3Lju1d0gETZtCQw8ifiH5GfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkz/NS0xNDMxMzc3MzIz/LTYwOTUuanBlZw.jpeg" alt="Cover for Meister Mephisto" style="max-width:120px; height:auto;" />
       </td>
@@ -658,8 +647,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edf425622add400f8de7e23d1c4cbdff.png" alt="Cover for Deleted Scenes from the Transition Hospital" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-28</td>
       <td>The Axis of Perdition</td>
@@ -675,9 +665,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Pimbwqa1yySFRXN8tHSZjg00vdP3XQcq0N1UB5p12sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzQ5/Mi0xMzA2MDA2NjQ2/LmpwZWc.jpeg" alt="Cover for Particular Hatred" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ce74a65a5a88ed310af6b7742c4fda5.png" alt="Cover for Particular Hatred" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-01</td>
       <td>Iperyt</td>
@@ -693,7 +683,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>36</td>
       <td>
       </td>
       <td>2005-11</td>
@@ -715,6 +705,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a761d5aa893f405d8a61897b2938a9df.png" alt="Cover for Generator" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-20</td>
       <td>Aborym</td>
@@ -728,13 +719,14 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 54</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3cfaa029858729c191d1f0f588e0e7d.png" alt="Cover for Cocaine" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-23</td>
       <td>(V.E.G.A.)</td>
@@ -751,8 +743,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a563e7cbd4e149068e1ea3d2c5b2e181.png" alt="Cover for Near Death Experience" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-05</td>
       <td>Spektr</td>
@@ -768,30 +761,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2006-10-23</td>
-      <td>Psyclon Nine</td>
-      <td>Crwn Thy Frnicatr</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 3</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 10</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>59</td>
       <td>
       </td>
       <td>2006-10-23</td>
@@ -805,15 +775,15 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 17</li>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/IzNqLG6T2_hACYBfHll4hySI4vYDIalSsOQAQSdHJoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTk4/Ny0xMzA2MDEzMTA0/LmpwZWc.jpeg" alt="Cover for Totalitarian Love Pulse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cbf9180222d079e6a8dbe9bd7a6148.png" alt="Cover for Totalitarian Love Pulse" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-07</td>
       <td>Iperyt</td>
@@ -829,7 +799,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>22</td>
       <td>
       </td>
       <td>2007-01-20</td>
@@ -847,8 +817,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5c57068e22481b83605f879f7c5f10.png" alt="Cover for Terminal World Perspective" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-26</td>
       <td>Control Human Delete</td>
@@ -864,16 +835,15 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/RKudAHl1U32PsfwTC52H3cg99GztwEmghX99xHEzRUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDYz/Ny0xMjQ5ODUwOTIw/LmpwZWc.jpeg" alt="Cover for Supervillain Outcast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03287f55c1a81ad5b5809634614c4cdb.png" alt="Cover for Supervillain Outcast" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-17</td>
       <td>Dødheimsgard</td>
       <td>Supervillain Outcast</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
       <td>
@@ -884,6 +854,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc96342427b8341a385e7f4899bdcaf9.png" alt="Cover for Fractal Possession" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-02</td>
       <td>Abigor</td>
@@ -900,7 +871,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>31</td>
       <td>
       </td>
       <td>2007-08-29</td>
@@ -921,7 +892,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>30</td>
       <td>
       </td>
       <td>2007-08</td>
@@ -938,8 +909,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/924a76877465399d06a120b390c5399e.png" alt="Cover for World Expiration" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-19</td>
       <td>Soulfallen</td>
@@ -960,7 +932,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-10-29</td>
@@ -977,8 +949,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b716e48902f34a81b64afca5e940495e.png" alt="Cover for L&#39;Hymne À La Joie" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-12</td>
       <td>The CNK</td>
@@ -994,9 +967,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/lgcVMSO-_7t1RckfdShWC_voZ0zUJsKEcWg1VHaPCd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg4/NzAtMTMyMzc3Mzcw/Ny5qcGVn.jpeg" alt="Cover for h.IV+" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32908c4b8432490a90fece5f736e8a8e.png" alt="Cover for h.IV+" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-04</td>
       <td>Havoc Unit</td>
@@ -1013,8 +986,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ed9412fe473dd0b86a6f5bb5fd49ab.png" alt="Cover for Hacking The Holy Code" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04</td>
       <td>Neo Inferno 262</td>
@@ -1030,9 +1004,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/1K9QWfXflXdbCdiZwhnETkhe6NTzkGtuZoHtsK5riYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/MTYtMTI2NzY1NTU2/MS5qcGVn.jpeg" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba314d9cf474b0dae8af7b3266caafc.png" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>CSSABA</td>
@@ -1054,14 +1028,14 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 65</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 81</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
       </td>
       <td>2009</td>
@@ -1077,14 +1051,14 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 35</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
       <td>
       </td>
       <td>2009-01-27</td>
@@ -1098,16 +1072,17 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 28</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 38</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 40</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 78</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e91ede31b075340c9f5b6392ed1402f8.png" alt="Cover for Reaktor 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02</td>
       <td>Reaktor 4</td>
@@ -1124,9 +1099,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/e06GtUtahBEYYSEzobKG2XyIVfiAEqQhSJsAHrHIZ68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDUw/MDEtMTI0MDYxMjEz/MC5qcGVn.jpeg" alt="Cover for Above" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b877455f847d4805a68174655fedeaa0.png" alt="Cover for Above" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-06</td>
       <td>Samael</td>
@@ -1142,7 +1117,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/nNrGIvLc9TqjvCWTbRX_Y0jRpibbzk5-YJWtpI21cbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzc3/MTItMTM0NzgwMTIy/Ny01MDE2LmpwZWc.jpeg" alt="Cover for Synthetic Breed" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,26 +1138,26 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a761b10250e94b9b8a8e481c9581dd66.png" alt="Cover for We The Fallen" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-08</td>
       <td>Psyclon Nine</td>
       <td>We The Fallen</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ef76b73eab4600896834f66797dd1d.png" alt="Cover for Von rov shelter" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-28</td>
       <td>Slagmaur</td>
@@ -1199,9 +1174,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/4Zy-Kz67NGUZJnQt-GbAFzLjbzqlGnDFc_rhBIHpsqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMx/NTgtMTMwMDM4Njgx/MC5qcGVn.jpeg" alt="Cover for T&#x2F;ME [3rd Level Initiation &#x3D; Chamber of Downfall]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e5a9a871f3008a664ab06d87d4d02b7.png" alt="Cover for T&#x2F;ME [3rd Level Initiation &#x3D; Chamber of Downfall]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-18</td>
       <td>Blacklodge</td>
@@ -1218,7 +1193,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/TeVMZTcuEMDtmeqPbabvVQ7j7sY5l5uR1-crnwPaDcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk3/OTUtMTM2NDEzNTIw/MS01NTExLnBuZw.jpeg" alt="Cover for Black Coal Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,8 +1213,30 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48c91bb050084499ba8e3b87516cb36c.png" alt="Cover for Utopia.Paranoia.Perversions!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-09</td>
+      <td>Scorngrain</td>
+      <td>Utopia.Paranoia.Perversions!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a586ef74bc64b65bc4c7289355ffc4e.png" alt="Cover for Psychogrotesque" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-08</td>
       <td>Aborym</td>
@@ -1261,7 +1258,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/jQFzJsQyni2dLp1LAPHKVnX-Wg2Spw_RxgsGEcUqM-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/NzEtMTU5NDQ4NDI5/NS03NDk0LmpwZWc.jpeg" alt="Cover for No State of Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,6 +1278,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/315bbd685187aab4eecb4ffefa243c91.png" alt="Cover for 777 - Sect(s)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-18</td>
       <td>Blut aus Nord</td>
@@ -1298,9 +1296,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/OvKQnQwkkI0KJ6YRFQ3T2vwsUmEfm0BePn4E8PaHmpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjk5/MzctMTMwNzgyNDcy/OC5qcGVn.jpeg" alt="Cover for Tenements (Of The Anointed Flesh)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ec2e9e2c367f1006f14fe1e3525ae1d.png" alt="Cover for Tenements (Of The Anointed Flesh)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-05</td>
       <td>The Axis of Perdition</td>
@@ -1316,8 +1314,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56a6e59062c495c9f891be56f286109.png" alt="Cover for Macrocosmic Lunacy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-27</td>
       <td>Tyrant of Death</td>
@@ -1335,27 +1334,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>68</td>
       <td>
-      </td>
-      <td>2011-11-11</td>
-      <td>Blut aus Nord</td>
-      <td>777 - The Desanctification</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/WL2-7Fu78ZgL5_WdrE48ZYHAtcT9BMEg1G4EVZ83dtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg1/MzctMTQzNzQ4NDM4/MC04NzkxLmpwZWc.jpeg" alt="Cover for Void" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23411fceadae136ea7f58e27dc37031c.png" alt="Cover for Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-15</td>
       <td>Void</td>
@@ -1373,12 +1354,12 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 51</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/FmKLfwNgD3u5oQoBwH44DoQIvytYKk7SjHZkADYs2lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzgz/OTAtMTMzNjUwMTI3/Ni5qcGVn.jpeg" alt="Cover for Valley of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1377,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>12</td>
       <td>
       </td>
       <td>2012-04-20</td>
@@ -1413,8 +1394,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97128075c314fbc8efe4864bd0329eb.png" alt="Cover for Hollywood Made In Gehenna" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>Dawn of Ashes</td>
@@ -1428,13 +1410,14 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 51</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85abbc1a90e842de800d75559b599bcb.png" alt="Cover for Machination" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-22</td>
       <td>Blacklodge</td>
@@ -1454,8 +1437,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58971c0f13784f8cbecf65621091a455.png" alt="Cover for 777 - Cosmosophy" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-21</td>
       <td>Blut aus Nord</td>
@@ -1463,14 +1447,13 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 32</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 36</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 91</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1495,7 +1478,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_OoEupsLEsNq6XqdRVrmVKFrcTlfx4gFR88zSXnA1Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTQx/MDAtMTM2MzcxMTg4/My0xNDM4LmpwZWc.jpeg" alt="Cover for Unrelenting Fucking Hatred" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1496,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>51</td>
       <td>
       </td>
       <td>2013-02-05</td>
@@ -1531,8 +1514,27 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>6</td>
       <td>
+          <img src="https://i.discogs.com/v1CGGq9FWnCZ1kgHv5iG5WNzzWw6FadEGaMdVM-G4lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/OTgtMTM5OTA0NzEy/Ni01NzY4LmpwZWc.jpeg" alt="Cover for Nuklearpteryx" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-20</td>
+      <td>SS-18</td>
+      <td>Nuklearpteryx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/583e456dfa6a41f4c1605bd8bdf909fe.png" alt="Cover for Desideratum" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-24</td>
       <td>Anaal Nathrakh</td>
@@ -1545,14 +1547,15 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 25</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 31</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 26</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png" alt="Cover for Planet Satan" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-27</td>
       <td>Mysticum</td>
@@ -1568,7 +1571,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/bb5aPv9TAoBWwPKjmcsshECeTgNgz0PKRxbj-2pQqSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDk4/NjYtMTQzNzE1MTY3/OC05NzQ0LmpwZWc.jpeg" alt="Cover for The Architects Of Extermination" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1590,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Ds-Bnbecnrdo_Cnidl7B5erMV5cFs_rtAFcscar6LAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDM1/OTUtMTQzOTM3Mjkz/Ni0xMTY1LmpwZWc.jpeg" alt="Cover for Règne des Morts" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,7 +1610,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/R0kYMSQYxMT07RYL-sa-ai8PX1GaVzXSHtNZ1Pd-XB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE1/MjQzLTE1OTExNzgz/MjItNTIwMS5qcGVn.jpeg" alt="Cover for The Grandeur Of Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,9 +1629,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/rbZf-VoOHph-Ml7rSd2PbqL1_X6A2stsq_g7wbdIT-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTIx/ODItMTQ3NzQwMjc5/MC03OTI3LmpwZWc.jpeg" alt="Cover for The Whole of the Law" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3f64da4441f913ca6663325ea21d1db.png" alt="Cover for The Whole of the Law" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-28</td>
       <td>Anaal Nathrakh</td>
@@ -1648,7 +1651,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/kMFeefzcgGAWbx1lNR2GEwzbfQ8FmSNnB9HlbMUwe-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQ4/MDctMTQ4MDE2NjA1/Ny03NDgyLmpwZWc.jpeg" alt="Cover for The Xun Protectorate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4eb4413026836fbf52cbc76cdeca5c.png" alt="Cover for The Xun Protectorate" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-25</td>
       <td>Khonsu</td>
@@ -1663,12 +1666,12 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/SpUGv5LnP9_h6KRfDuObVabTQ5h1JTyyBMCkdsp6J9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAw/NTcyLTE1MDA3MjIy/MzItMTI5MC5qcGVn.jpeg" alt="Cover for Void" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1701,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/T81qgApDum4zois2zlDSiCpITgCllFwYI_cnUn_DVGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/Mjk2LTE2NDY3NDEy/NzQtMzc4MC5qcGVn.jpeg" alt="Cover for Deus Salutis Meae" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/556803561700c8525e93803fd081c929.png" alt="Cover for Deus Salutis Meae" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-27</td>
       <td>Blut aus Nord</td>
@@ -1717,9 +1720,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/wVbXtb_7UTXaHuua6bH0kyTzIA_rzuofNvE3wFoVyjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/MzM3LTE2MTUxMTY1/NzgtMjQxOC5qcGVn.jpeg" alt="Cover for Umbra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/019eab74d744bfdaa4213d509be99a5a.png" alt="Cover for Umbra" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-24</td>
       <td>Almyrkvi</td>
@@ -1739,9 +1742,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/pAesbzo88j9NpRy7I4c9GEqcM3m33XsfgwsjysunDFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk0/MjY3LTE1MTM2MTEy/NjAtNTk1MC5qcGVn.jpeg" alt="Cover for The Patchwork Gehinnom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ba7a15b621b4da1066de17760341af2.png" alt="Cover for The Patchwork Gehinnom" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-15</td>
       <td>Iperyt</td>
@@ -1757,9 +1760,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/sSazaUCigDqXZguehWfNWCSXKU7NFjLqtoOvV5Bgm5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMx/NzQ5LTE1MzUxNjQ2/NzQtNDQwMy5qcGVn.jpeg" alt="Cover for Icon of the Adversary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db57245889a2c8dc50917c08a2b5548d.png" alt="Cover for Icon of the Adversary" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-24</td>
       <td>Psyclon Nine</td>
@@ -1777,12 +1780,13 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 1</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c30d5386c3a8ded5bc3a768cad5dd20.png" alt="Cover for A New Kind of Horror" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,9 +1806,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/6KokR1XJVQxTHzUcKeWipXlQAMs1GiCiFGp2s85hg-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg3/MjMxLTE1NDc4Mjkz/MTYtNzMyMi5qcGVn.jpeg" alt="Cover for The Crypt Injection II (Non Serviam)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe8df2e361af1b55f3eb3226756a0c2e.png" alt="Cover for The Crypt Injection II (Non Serviam)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-18</td>
       <td>Dawn of Ashes</td>
@@ -1821,15 +1825,15 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 76</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 100</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/7HmwQvq3WfUppeNKaYcmUfJXhHl0FnLZI24dh6Pf8y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/MjM4LTE1ODg4OTU1/MTgtNDI2Mi5qcGVn.jpeg" alt="Cover for Transsatanizm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fccaae234ecfdfbf5574e11107114bf.png" alt="Cover for Transsatanizm" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-08</td>
       <td>Biesy</td>
@@ -1851,9 +1855,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/lVwkapCXnIIWxqZ2MjDxRIFGd6O7wwrfgl61J0G3GDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY5/NjItMTU0ODExNTk4/Mi02NDc3LmpwZWc.jpeg" alt="Cover for Time Is the Sulphur in the Veins of the Saint" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81e6ccb992ffbea219f2aec615dd01a3.png" alt="Cover for Time Is the Sulphur in the Veins of the Saint" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03</td>
       <td>Abigor</td>
@@ -1870,7 +1874,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ltER-RKIVpORCWZqFF5Nn32TE2WM6LfiOKrh1bVa1lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA3/OTM5LTE2MjIxMzky/NTktMTkyOC5qcGVn.jpeg" alt="Cover for Temps Morts" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,7 +1892,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/G-FCuV-edX9woIEQ8WuPBrgvAYfblsU2oFS3wb8imiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY1/MzAzLTE2MjgyNjQw/ODktMjk2My5qcGVn.jpeg" alt="Cover for Not Here" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1911,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 70</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 75</li>
@@ -1915,29 +1919,46 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/w_-FLGAnDeFO0kYmN2U_3hUnUlzU19VWvUsP1GtD27w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODg1/NS0xMTQxNTgzNDAy/LmpwZWc.jpeg" alt="Cover for Kali Yuga Bizarre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08-27</td>
+      <td>Modern Rites</td>
+      <td>Monuments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca0df425140424c99e0a8352a3061e0.png" alt="Cover for Kali Yuga Bizarre" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02</td>
       <td>Aborym</td>
       <td>Kali Yuga Bizarre</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 53</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/-FlJ-7mRmTwlY_jiXDqp-wDXKV6yK8o9DgNBU1pC9sQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQx/NzAyLTE2Nzg5ODY0/OTEtNjY5Ni5qcGVn.jpeg" alt="Cover for Pleonectic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bf11abffe091598b05ac8e546c75a93.png" alt="Cover for Pleonectic" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-31</td>
       <td>Neo Inferno 262</td>
@@ -1953,9 +1974,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/FLrtNqd0sqdJ1kVCmVjjdDKpjkHar-ixsgZ8iIQeOxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/NDY0LTE3MDgzNDAz/NjItODMwMy5qcGVn.jpeg" alt="Cover for Dark Space - II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da2a048303d55ec7290c5d421bdc162.png" alt="Cover for Dark Space - II" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-16</td>
       <td>Darkspace</td>
@@ -1987,4 +2008,4 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
 - [french black metal]({{ "/tags/french-black-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [melodic black metal]({{ "/tags/melodic-black-metal" | relative_url }})
-- [avant-garde black metal]({{ "/tags/avant-garde-black-metal" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
