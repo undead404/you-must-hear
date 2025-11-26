@@ -1,18 +1,29 @@
 ---
 category: list
-date: 2025-11-26T13:43:51.975Z
+date: 2025-11-26T14:23:37.977Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T14:23:37.977Z">Wed Nov 26 2025 16:23:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [japanese metal]({{ "tags/japanese-metal" | relative_url }}) | <time datetime="2025-11-26T14:23:37.977Z">Wed Nov 26 2025 16:23:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [technical death metal]({{ "tags/technical-death-metal" | relative_url }}) | <time datetime="2025-11-26T14:20:37.992Z">Wed Nov 26 2025 16:20:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-11-26T14:14:37.964Z">Wed Nov 26 2025 16:14:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [rap metal]({{ "tags/rap-metal" | relative_url }}) | <time datetime="2025-11-26T14:06:38.382Z">Wed Nov 26 2025 16:06:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [techno-industrial]({{ "tags/techno-industrial" | relative_url }}) | <time datetime="2025-11-26T14:05:37.968Z">Wed Nov 26 2025 16:05:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [swedish death metal]({{ "tags/swedish-death-metal" | relative_url }}) | <time datetime="2025-11-26T14:01:11.031Z">Wed Nov 26 2025 16:01:11 GMT+0200 (Eastern European Standard Time)</time> |
+| [romance]({{ "tags/romance" | relative_url }}) | <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05 GMT+0200 (Eastern European Standard Time)</time> |
+| [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-11-26T14:00:54.632Z">Wed Nov 26 2025 16:00:54 GMT+0200 (Eastern European Standard Time)</time> |
+| [rhythmic noise]({{ "tags/rhythmic-noise" | relative_url }}) | <time datetime="2025-11-26T14:00:22.047Z">Wed Nov 26 2025 16:00:22 GMT+0200 (Eastern European Standard Time)</time> |
+| [southern hip hop]({{ "tags/southern-hip-hop" | relative_url }}) | <time datetime="2025-11-26T13:59:18.414Z">Wed Nov 26 2025 15:59:18 GMT+0200 (Eastern European Standard Time)</time> |
+| [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-11-26T13:54:56.475Z">Wed Nov 26 2025 15:54:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [death industrial]({{ "tags/death-industrial" | relative_url }}) | <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-26T13:43:01.746Z">Wed Nov 26 2025 15:43:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-garde black metal]({{ "tags/avant-garde-black-metal" | relative_url }}) | <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -238,11 +249,7 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [grindcore]({{ "tags/grindcore" | relative_url }}) | <time datetime="2025-11-25T13:10:43.765Z">Tue Nov 25 2025 15:10:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge]({{ "tags/sludge" | relative_url }}) | <time datetime="2025-11-25T13:10:09.815Z">Tue Nov 25 2025 15:10:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [bitcore]({{ "tags/bitcore" | relative_url }}) | <time datetime="2025-11-25T12:37:10.252Z">Tue Nov 25 2025 14:37:10 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-11-25T12:36:37.629Z">Tue Nov 25 2025 14:36:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [rap metal]({{ "tags/rap-metal" | relative_url }}) | <time datetime="2025-11-25T11:57:20.575Z">Tue Nov 25 2025 13:57:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk]({{ "tags/folk" | relative_url }}) | <time datetime="2025-11-25T11:56:38.826Z">Tue Nov 25 2025 13:56:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [southern hip hop]({{ "tags/southern-hip-hop" | relative_url }}) | <time datetime="2025-11-25T11:54:26.601Z">Tue Nov 25 2025 13:54:26 GMT+0200 (Eastern European Standard Time)</time> |
-| [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-11-25T11:53:58.042Z">Tue Nov 25 2025 13:53:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-11-25T11:53:28.037Z">Tue Nov 25 2025 13:53:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [russia]({{ "tags/russia" | relative_url }}) | <time datetime="2025-11-25T11:52:43.475Z">Tue Nov 25 2025 13:52:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [chamber]({{ "tags/chamber" | relative_url }}) | <time datetime="2025-11-25T11:52:24.857Z">Tue Nov 25 2025 13:52:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -412,7 +419,6 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [bubblegum bass]({{ "tags/bubblegum-bass" | relative_url }}) | <time datetime="2025-11-23T16:59:37.952Z">Sun Nov 23 2025 18:59:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [dungeon synth]({{ "tags/dungeon-synth" | relative_url }}) | <time datetime="2025-11-23T15:02:38.080Z">Sun Nov 23 2025 17:02:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [future bass]({{ "tags/future-bass" | relative_url }}) | <time datetime="2025-11-23T14:58:37.979Z">Sun Nov 23 2025 16:58:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [technical death metal]({{ "tags/technical-death-metal" | relative_url }}) | <time datetime="2025-11-23T14:57:37.990Z">Sun Nov 23 2025 16:57:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [alt-country]({{ "tags/alt-country" | relative_url }}) | <time datetime="2025-11-23T14:42:05.749Z">Sun Nov 23 2025 16:42:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [trio]({{ "tags/trio" | relative_url }}) | <time datetime="2025-11-23T14:39:14.532Z">Sun Nov 23 2025 16:39:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish]({{ "tags/polish" | relative_url }}) | <time datetime="2025-11-23T14:36:47.543Z">Sun Nov 23 2025 16:36:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -575,7 +581,6 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [vocal jazz]({{ "tags/vocal-jazz" | relative_url }}) | <time datetime="2025-11-22T13:48:42.137Z">Sat Nov 22 2025 15:48:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [yoga]({{ "tags/yoga" | relative_url }}) | <time datetime="2025-11-22T13:48:36.785Z">Sat Nov 22 2025 15:48:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [old school thrash metal]({{ "tags/old-school-thrash-metal" | relative_url }}) | <time datetime="2025-11-22T13:47:28.392Z">Sat Nov 22 2025 15:47:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [romance]({{ "tags/romance" | relative_url }}) | <time datetime="2025-11-22T13:47:19.086Z">Sat Nov 22 2025 15:47:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [pagan black metal]({{ "tags/pagan-black-metal" | relative_url }}) | <time datetime="2025-11-22T13:44:35.069Z">Sat Nov 22 2025 15:44:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [venezuela]({{ "tags/venezuela" | relative_url }}) | <time datetime="2025-11-22T13:43:51.117Z">Sat Nov 22 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [german thrash metal]({{ "tags/german-thrash-metal" | relative_url }}) | <time datetime="2025-11-22T13:43:09.247Z">Sat Nov 22 2025 15:43:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -680,7 +685,6 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [noise punk]({{ "tags/noise-punk" | relative_url }}) | <time datetime="2025-11-17T23:43:53.485Z">Tue Nov 18 2025 01:43:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-11-17T23:42:06.804Z">Tue Nov 18 2025 01:42:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [blackgaze]({{ "tags/blackgaze" | relative_url }}) | <time datetime="2025-11-17T23:07:16.742Z">Tue Nov 18 2025 01:07:16 GMT+0200 (Eastern European Standard Time)</time> |
-| [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-11-17T22:49:18.734Z">Tue Nov 18 2025 00:49:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-11-17T22:49:10.372Z">Tue Nov 18 2025 00:49:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [hard house]({{ "tags/hard-house" | relative_url }}) | <time datetime="2025-11-17T18:46:50.967Z">Mon Nov 17 2025 20:46:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [iranian]({{ "tags/iranian" | relative_url }}) | <time datetime="2025-11-17T18:40:55.023Z">Mon Nov 17 2025 20:40:55 GMT+0200 (Eastern European Standard Time)</time> |
@@ -979,7 +983,6 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [nederlands]({{ "tags/nederlands" | relative_url }}) | <time datetime="2025-10-28T16:01:29.801Z">Tue Oct 28 2025 18:01:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative electronic]({{ "tags/alternative-electronic" | relative_url }}) | <time datetime="2025-10-28T16:00:27.052Z">Tue Oct 28 2025 18:00:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [indonesia]({{ "tags/indonesia" | relative_url }}) | <time datetime="2025-10-28T16:00:03.776Z">Tue Oct 28 2025 18:00:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [japanese metal]({{ "tags/japanese-metal" | relative_url }}) | <time datetime="2025-10-28T15:59:31.155Z">Tue Oct 28 2025 17:59:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [fiddle]({{ "tags/fiddle" | relative_url }}) | <time datetime="2025-10-28T15:58:29.840Z">Tue Oct 28 2025 17:58:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-pixie]({{ "tags/j-pixie" | relative_url }}) | <time datetime="2025-10-28T15:36:08.958Z">Tue Oct 28 2025 17:36:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [blackened speed metal]({{ "tags/blackened-speed-metal" | relative_url }}) | <time datetime="2025-10-28T15:34:08.873Z">Tue Oct 28 2025 17:34:08 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1244,13 +1247,11 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [fingerstyle guitar]({{ "tags/fingerstyle-guitar" | relative_url }}) | <time datetime="2025-10-22T04:02:48.749Z">Wed Oct 22 2025 07:02:48 GMT+0300 (Eastern European Summer Time)</time> |
 | [braindance]({{ "tags/braindance" | relative_url }}) | <time datetime="2025-10-22T04:00:19.607Z">Wed Oct 22 2025 07:00:19 GMT+0300 (Eastern European Summer Time)</time> |
 | [neomedieval]({{ "tags/neomedieval" | relative_url }}) | <time datetime="2025-10-22T03:59:35.928Z">Wed Oct 22 2025 06:59:35 GMT+0300 (Eastern European Summer Time)</time> |
-| [techno-industrial]({{ "tags/techno-industrial" | relative_url }}) | <time datetime="2025-10-22T03:59:04.571Z">Wed Oct 22 2025 06:59:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [unblack metal]({{ "tags/unblack-metal" | relative_url }}) | <time datetime="2025-10-22T03:57:26.342Z">Wed Oct 22 2025 06:57:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [chicano rap]({{ "tags/chicano-rap" | relative_url }}) | <time datetime="2025-10-22T03:55:20.928Z">Wed Oct 22 2025 06:55:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [new age instrumental]({{ "tags/new-age-instrumental" | relative_url }}) | <time datetime="2025-10-22T03:54:56.081Z">Wed Oct 22 2025 06:54:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [male and female]({{ "tags/male-and-female" | relative_url }}) | <time datetime="2025-10-22T03:53:35.176Z">Wed Oct 22 2025 06:53:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [humour]({{ "tags/humour" | relative_url }}) | <time datetime="2025-10-22T03:53:21.035Z">Wed Oct 22 2025 06:53:21 GMT+0300 (Eastern European Summer Time)</time> |
-| [rhythmic noise]({{ "tags/rhythmic-noise" | relative_url }}) | <time datetime="2025-10-22T03:52:59.913Z">Wed Oct 22 2025 06:52:59 GMT+0300 (Eastern European Summer Time)</time> |
 | [cantautore]({{ "tags/cantautore" | relative_url }}) | <time datetime="2025-10-22T03:51:56.132Z">Wed Oct 22 2025 06:51:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [vibraphone]({{ "tags/vibraphone" | relative_url }}) | <time datetime="2025-10-22T03:05:04.717Z">Wed Oct 22 2025 06:05:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [bhangra]({{ "tags/bhangra" | relative_url }}) | <time datetime="2025-10-22T02:19:20.044Z">Wed Oct 22 2025 05:19:20 GMT+0300 (Eastern European Summer Time)</time> |
@@ -1341,7 +1342,6 @@ Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51
 | [ritual industrial]({{ "tags/ritual-industrial" | relative_url }}) | <time datetime="2025-01-11T22:29:31.223Z">Sun Jan 12 2025 00:29:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [jazz organ]({{ "tags/jazz-organ" | relative_url }}) | <time datetime="2025-01-11T17:49:43.759Z">Sat Jan 11 2025 19:49:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [power electronics]({{ "tags/power-electronics" | relative_url }}) | <time datetime="2025-01-08T10:59:03.938Z">Wed Jan 08 2025 12:59:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [swedish death metal]({{ "tags/swedish-death-metal" | relative_url }}) | <time datetime="2025-01-07T21:24:00.631Z">Tue Jan 07 2025 23:24:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [postclassical]({{ "tags/postclassical" | relative_url }}) | <time datetime="2025-01-07T20:57:49.350Z">Tue Jan 07 2025 22:57:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [queer metal]({{ "tags/queer-metal" | relative_url }}) | <time datetime="2025-01-07T12:11:02.690Z">Tue Jan 07 2025 14:11:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [new age electronic]({{ "tags/new-age-electronic" | relative_url }}) | <time datetime="2025-01-07T09:34:49.520Z">Tue Jan 07 2025 11:34:49 GMT+0200 (Eastern European Standard Time)</time> |

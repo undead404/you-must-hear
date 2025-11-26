@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T22:49:18.734Z
+date: 2025-11-26T14:00:54.632Z
 permalink: tags/electro
 title: electro
 ---
 
 ## electro
 
-Last updated: <time datetime="2025-11-17T22:49:18.734Z">Tue Nov 18 2025 00:49:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T14:00:54.632Z">Wed Nov 26 2025 16:00:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/3WHV7wJrk0orlOQaOIfm_k4WYPjV-sEYoz5N6j7LQEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzAw/NjctMTM5ODQzNDI4/OC0yODg0LmpwZWc.jpeg" alt="Cover for 3-D the Catalogue" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +137,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 65</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -157,13 +157,14 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 62</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7900169db05b4429b11bc88679a204fb.png" alt="Cover for Women In Technology" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02-25</td>
       <td>White Town</td>
@@ -203,29 +204,9 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 37</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 47</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 99</li>
             <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5676fb16bb2a6549eba5c29856739a.png" alt="Cover for Analog Worms Attack" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-10-19</td>
-      <td>Mr. Oizo</td>
-      <td>Analog Worms Attack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +250,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2001-08-21</td>
@@ -303,8 +284,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 90</li>
         </ul>
       </td>
@@ -367,7 +348,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2002-06-10</td>
@@ -418,7 +399,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 76</li>
         </ul>
       </td>
@@ -462,12 +443,12 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 39</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dafa1be8cd074230c269a3c712ab07f0.png" alt="Cover for Devin Dazzle and the Neon Fever" style="max-width:120px; height:auto;" />
       </td>
@@ -507,8 +488,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 54</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 84</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 99</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 100</li>
         </ul>
@@ -781,6 +762,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +786,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/1stvk8ipJaXDSSVq-jHa0dulVss9WlFeGVtU78JuAJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA2/NDItMTI1OTMxNDM3/NC5qcGVn.jpeg" alt="Cover for Dream &#x2F; On Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -911,7 +893,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 45</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 46</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 92</li>
         </ul>
       </td>
@@ -956,7 +938,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12088c10a1f549f592b67b1689bb4640.png" alt="Cover for Dumb Luck" style="max-width:120px; height:auto;" />
       </td>
@@ -992,7 +974,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2007-05-23</td>
@@ -1062,8 +1044,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
         </ul>
@@ -1085,7 +1067,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 41</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 44</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 93</li>
         </ul>
       </td>
@@ -1106,7 +1088,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 84</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1192,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2008-09-09</td>
@@ -1227,7 +1209,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27676c26560d4c7acc56f63115815497.png" alt="Cover for Eon" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,6 +1229,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65052321de2e482284e85d6e934f1849.png" alt="Cover for Lambs Anger" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-05</td>
       <td>Mr. Oizo</td>
@@ -1281,7 +1264,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-03-30</td>
@@ -1298,7 +1281,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/24o1fYjNbQGZo7Sr3VKrZ2Vain-9K_CSSdcMAmQhJSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODgw/NjEtMTM0ODE1MTI2/NC04MTA2LmpwZWc.jpeg" alt="Cover for Apocalypse EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,6 +1295,28 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a85f6ee0b7254ef7929e93e2b3e3e948.png" alt="Cover for Romborama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-21</td>
+      <td>The Bloody Beetroots</td>
+      <td>Romborama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1379,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 55</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 57</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 85</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 91</li>
         </ul>
@@ -1391,7 +1396,6 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -1438,8 +1442,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 53</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 82</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1521,10 +1525,10 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 99</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 100</li>
         </ul>
       </td>
@@ -1547,7 +1551,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b0304a1f074c6393a4bece72c47e99.png" alt="Cover for Something, Something, Awesome." style="max-width:120px; height:auto;" />
       </td>
@@ -1583,14 +1587,14 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-03-16</td>
@@ -1623,7 +1627,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1681,8 +1685,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 19</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
@@ -1690,7 +1694,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79cc155c3f8f6b3da491daf191f4a7a8.png" alt="Cover for BEYONCÉ [Platinum Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1709,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 61</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1744,13 +1748,13 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 15</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 62</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 17</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a18694259b4b414e8c17885ff260830f.png" alt="Cover for Friends On Mushrooms, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1773,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82aab314514458546ab4f84ea53859e3.png" alt="Cover for Dale" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,8 +1790,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 29</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 30</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 30</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1838,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a93b22958217b8d0b8b46aa4846eca11.png" alt="Cover for Uncovered" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,8 +1857,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 26</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 45</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 28</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1881,11 +1885,11 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 15</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 83</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 89</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 95</li>
         </ul>
       </td>
@@ -1933,7 +1937,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe203b2345441fc5a941a78c17d6883e.png" alt="Cover for NOVO SONIC SYSTEM" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1953,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 38</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1970,8 +1974,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 3</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 46</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2001,8 +2005,8 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
@@ -2030,7 +2034,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 24</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2053,7 +2057,7 @@ Electro, also known as electro-funk, is a subgenre of electronic music that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 96</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 100</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 100</li>
