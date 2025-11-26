@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:53:48.092Z
+date: 2025-11-26T08:57:43.401Z
 permalink: tags/eurodance
 title: eurodance
 ---
 
 ## eurodance
 
-Last updated: <time datetime="2025-11-23T11:53:48.092Z">Sun Nov 23 2025 13:53:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T08:57:43.401Z">Wed Nov 26 2025 10:57:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/y3rYJOYHa1ZD2eaWlMfbR-mMu16qDy5nsX63KS-JNPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk1/Ni0xNjMzMjYxNzcw/LTkxOTUuanBlZw.jpeg" alt="Cover for The Magic Of Boney M." style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/mZjJqN1R0rke1eW_bCcMYFQWqBEMxyGslKqMakLJqp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAy/MC0xMTg0MjA0OTQ2/LmpwZWc.jpeg" alt="Cover for Pump Up The Jam - The Album" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1989-11-07</td>
@@ -84,7 +84,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/4tmWskp6MNVDSTn9yg2ldhK6OpG7LO9845iMjak7-rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODMw/OC0xNjg2Nzc1ODk1/LTM5NTQuanBlZw.jpeg" alt="Cover for Move Until We Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bcafb42f24f44d7a5103c89ab499f3e.png" alt="Cover for We All Need Love" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1993</td>
@@ -290,7 +290,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/255Xd7pzo1icSZ9_hfcMk9HIucXb--9RJ-NpeXuir3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTEx/LTE1MDEzNDQxMTYt/NTk4OS5qcGVn.jpeg" alt="Cover for I Like To Move It" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +403,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1e7d6fad15b8b0f378323717b7c0691.png" alt="Cover for No Limits" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +458,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34766ebe727249d5c9742ad4fba50499.png" alt="Cover for Welcome to Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -477,7 +477,24 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1994-05-16</td>
+      <td>Magic Affair</td>
+      <td>Omen (The Story Continues...)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/663acdf43c014b3db703216c658bed4f.png" alt="Cover for Omen - The Story Continues" style="max-width:120px; height:auto;" />
       </td>
@@ -547,7 +564,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Gq6y2TqfzXsJt5PkehKeos7B-0VknVdQ0dTUvYKs1Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/LTE1OTc2ODEwODEt/MTk2NC5qcGVn.jpeg" alt="Cover for Different dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +600,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1994-11-23</td>
@@ -600,7 +617,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1995</td>
@@ -617,7 +634,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1995</td>
@@ -652,7 +669,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf7d44705054a5dbb2d30087af28245.png" alt="Cover for Inside Out" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +764,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8aa04ca2d308835c5ad07a9331f6495.png" alt="Cover for The Essential Gigi D\&#39;Agostino" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +782,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 20</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +839,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fffc675cfaab6fbe164fc74f249553b.png" alt="Cover for Planeta Paulina" style="max-width:120px; height:auto;" />
       </td>
@@ -836,7 +853,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 65</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -854,8 +871,8 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 25</li>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 32</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +914,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f004a7480aa58ad6f807ee42c330f05d.png" alt="Cover for Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +968,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/7wbN4ZXn1UjZs2iIWmTSNGeK0sD5sIPu7fBIdcFLq0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI0/MS0xNTgyMzE4Njg0/LTMyOTAuanBlZw.jpeg" alt="Cover for Inside to Outside" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1068,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24dd241ed5aadd6576995d2c1530ac7d.png" alt="Cover for Top 100 Greatest Dance Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,7 +1086,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1161,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2000-05-29</td>
@@ -1195,7 +1212,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/B7ICJ_0QmLb9D7gWaqzOZEUALuT9-pm_4VqQ0aIAs68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDA0/My0xNDUwNzMyNzE2/LTEwMjYuanBlZw.jpeg" alt="Cover for Libertine" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1230,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4599493d40ada7dbbccc22bf22eb2f2.png" alt="Cover for Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1231,7 +1248,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2096ba35b6a848ebc8a0b589359dc246.png" alt="Cover for Let This Party Never End" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1267,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0487040f0d834b138515cb911937b103.png" alt="Cover for Pray" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1305,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2003-08-13</td>
@@ -1327,7 +1344,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36afbb4ad8ec44ec91dc42da309ea2e1.png" alt="Cover for Crazy Frog Presents Crazy Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1361,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/FfjbscMJlQCVXbGfFt-M_MQxhMGCrsSnQyj1y0x6h0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDE2/OC0xNDU5NDMzMTQy/LTg2MjguanBlZw.jpeg" alt="Cover for Push The Button" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1381,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2006-02-01</td>
@@ -1410,7 +1427,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006-09-01</td>
@@ -1445,7 +1462,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jbVv1VAk_KhR_2oAUvGOlsK-OOVl1xLZP24sni--qCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ4/MzgtMTY0MzUzMzMz/MC0yMDEwLmpwZWc.jpeg" alt="Cover for A Cause Des Garçons" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1502,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4aac63cb7c0f740435871913959813.png" alt="Cover for Lose Control" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,29 +1519,6 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a6490e15f708427cf2478bf4b4f1ab1.png" alt="Cover for Caramelldansen - Speedy Mixes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-06-25</td>
-      <td>Caramell</td>
-      <td>Caramelldansen - Speedy Mixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1541,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1572,7 +1566,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8504f8b6a728694e9985169e97c82990.png" alt="Cover for Chromatica" style="max-width:120px; height:auto;" />
       </td>
@@ -1589,6 +1583,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 1</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 45</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
@@ -1630,6 +1625,8 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1646,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1691,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 29</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 36</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 50</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
@@ -1717,7 +1714,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 52</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1738,9 +1735,9 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 33</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 33</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 39</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 84</li>
         </ul>
       </td>
@@ -1748,7 +1745,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/iN06f6aa8pelm4QzBN5KZPaiea6WZcnzG1lzUeJTHpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg3/NzAtMTQyOTcyMjI4/OS02NTg2LmpwZWc.jpeg" alt="Cover for Ghost Town" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c92e9e71b57700538bf2b59fbb0bf0c.png" alt="Cover for Ghost Town" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-21</td>
       <td>Adam Lambert</td>
@@ -1761,7 +1758,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 91</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1785,7 +1782,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1900,14 +1897,14 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 77</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 78</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 85</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1924,7 +1921,7 @@ Eurodance is a genre of electronic dance music that originated in Europe in the 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>

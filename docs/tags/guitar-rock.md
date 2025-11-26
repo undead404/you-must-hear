@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T10:42:43.292Z
+date: 2025-11-26T09:17:38.399Z
 permalink: tags/guitar-rock
 title: guitar rock
 ---
 
 ## guitar rock
 
-Last updated: <time datetime="2025-11-03T10:42:43.292Z">Mon Nov 03 2025 12:42:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T09:17:38.399Z">Wed Nov 26 2025 11:17:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
   </thead>
   <tbody>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/s0yaD4iS9xzk5wb3fAk9CvHWSBLS8YaMHr_AfJe8s-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTk2/MDQtMTUzNDEyOTM5/My05MTYzLmpwZWc.jpeg" alt="Cover for The Adventures of Robert Savage (Volume 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -68,9 +68,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Ov7S1x7e8R_HQM8ZfVYa1TlR77LjwsLwOgD0ZmezVuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQy/MjUtMTQ5Nzk5MTg2/OS02NTUyLmpwZWc.jpeg" alt="Cover for Crisis? What Crisis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c4913b418cd492fb1eef9e579c3c28c.png" alt="Cover for Crisis? What Crisis" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Supertramp</td>
@@ -87,7 +87,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/VVWRVg1-JiFodKRsQ4lrLPbyISX7ZNgISd0swWbHq4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA1/MTkwLTE2Mzk5MDA2/MDgtNzIzOS5qcGVn.jpeg" alt="Cover for Life On A Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/VVWRVg1-JiFodKRsQ4lrLPbyISX7ZNgISd0swWbHq4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA1/MTkwLTE2Mzk5MDA2/MDgtNzIzOS5qcGVn.jpeg" alt="Cover for Live At The Drome" style="max-width:120px; height:auto;" />
       </td>
@@ -141,7 +141,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/yjO6-ZnlMIOPfJN3o58sfuPBPWUT73XOtcQyPNNJIdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjk1/MTEtMTQzMjA0Nzc0/OC00MjU5LmpwZWc.jpeg" alt="Cover for Et 2 Trois !" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5666d69744c2408591001e4fa1efbf85.png" alt="Cover for Et 2 Trois !" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Chorus</td>
@@ -393,7 +393,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/sDOoRJ3bGGNlPG9vfWvNh8rCVLKXxjKLTmm52vSANrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njgw/MC0xMjcwMzI4ODk5/LmpwZWc.jpeg" alt="Cover for Cuttin Heads" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +414,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13fdbd1442e84587ba58f1ae9c3cd500.png" alt="Cover for Hi Fi Way" style="max-width:120px; height:auto;" />
       </td>
@@ -423,8 +423,6 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       <td>Hi Fi Way</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -433,7 +431,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/Au1vesxPU6qFgAo7c0lrWyX-JvkuM_M6gZisDGVlAu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDk2/MjYtMTMxMzM1MTEw/OS5qcGVn.jpeg" alt="Cover for Genius of America" style="max-width:120px; height:auto;" />
       </td>
@@ -482,7 +480,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 10</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -529,13 +527,13 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 79</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80de266cbd9f4b7ebc44847a7b28d7ca.png" alt="Cover for The Ultra Zone" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +572,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 6</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -725,9 +723,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 32</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 32</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 33</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 53</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -785,15 +783,15 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 64</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 68</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 65</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/LwZ8QlNUI-9fg8h3Am06BZjAHqn4zw2weweULnyw7TI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODg0/OC0xMDk2MTI2MTA2/LmpwZw.jpeg" alt="Cover for Just For Tonight EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76172f6d13201e0af0d79416fe8fe097.png" alt="Cover for Just For Tonight EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-07</td>
       <td>Roan</td>
@@ -887,7 +885,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 86</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 89</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 95</li>
         </ul>
       </td>
@@ -1012,6 +1010,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/367f41580d514f0d8a8276eb1c468519.png" alt="Cover for Songs &amp; Circuits" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-17</td>
       <td>Capsula</td>
@@ -1033,6 +1032,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95d8ac160c01f0da0ef416ad264168e3.png" alt="Cover for Yesterday&#39;s News" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-22</td>
       <td>White Flame</td>
@@ -1052,7 +1052,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2008</td>
@@ -1071,7 +1071,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 44</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1131,8 +1131,8 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 24</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 86</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 27</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1200,12 +1200,12 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 21</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2Nm0-Fun99rHqXHgkrPWYf6XS0-CpOEHdnaNhc8AV54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODkx/MDYtMTUwNjQwOTAx/MC05NTc2LmpwZWc.jpeg" alt="Cover for Dave Blair" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1227,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/JRzuPWoGoY-s83rA3HgWiTtbm7J8khtTLr7jNZ6akTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA2/NjgtMTMzODQ4NjEw/Mi05MjAzLmpwZWc.jpeg" alt="Cover for Heliopause Prelude" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54cef4dd6a9d0345aaf967f5ee8f446.png" alt="Cover for Heliopause Prelude" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Resonance Association</td>
@@ -1251,7 +1251,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/Wj7wBzJLUBVuqCWSm3zhut2hIpy2C7M4pCfY2Mg91vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcx/MzI2LTE1MDU2ODcx/NTAtODg1NC5qcGVn.jpeg" alt="Cover for 24 Hours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f53e7e34f83c6bafe8d11516b09fd6e1.png" alt="Cover for 24 Hours" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Whiskey Saints</td>
@@ -1292,7 +1292,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1319,9 +1319,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/w2sPV4lDroaOZXvl2iHVvO-EFbbjLBHCCp0j0QyIU6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTU3/MjUtMTM2MjY2NzY5/OS0zNjcxLmpwZWc.jpeg" alt="Cover for Live On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdc2d852444e4af5a47ad34887510f91.png" alt="Cover for Live On" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-12</td>
       <td>Driller</td>
@@ -1359,9 +1359,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/QlFO3d48KoKRrXwjU5CaSp1Xk89kGQKrVMFhqOJl-vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc3/MzkxLTE1OTIxNzI4/NzUtMzE1MS5qcGVn.jpeg" alt="Cover for Everything Happens For A Reason" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db7e6b9bf8deabd03ea22715b147b3e6.png" alt="Cover for Everything Happens For A Reason" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Carly Jamison</td>
@@ -1386,7 +1386,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/wwCJk--3boRvsFF1qJLWg3FLOLcpJmIUuKN7keEAp4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDk2/NTYtMTM2OTg0NjIz/My0yNjUxLmpwZWc.jpeg" alt="Cover for The Final Deal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53327313701a49b98efbb197d88d999e.png" alt="Cover for The Final Deal" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-22</td>
       <td>Driller</td>
@@ -1445,7 +1445,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 25</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1465,12 +1465,12 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 72</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/qnAT4bCuhbHXscB60OKEW5ytY--YfDmsAin4CLGni_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE2/NTA0LTE1MjY3MTAz/MjctOTE2Ni5qcGVn.jpeg" alt="Cover for Wire EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1490,7 +1490,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af288ef6ae6708886294885cf3ff0993.png" alt="Cover for Mister Asylum" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1532,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/qNxoArThO__5p7nBYVKXuhHhzxB3rfvd0kZKbbe9Ago/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU5/NzM3LTE1MDgxMDEz/NjQtOTQ3NC5qcGVn.jpeg" alt="Cover for I Love You Like A Brother" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/479f4ca42a7ec86488a1611845eb04d4.png" alt="Cover for I Love You Like A Brother" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-06</td>
       <td>Alex Lahey</td>
@@ -1547,12 +1547,13 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 43</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 30</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/6bXYtViyMIC2AfNsWzCc7YPjj9s6eOc_VSHZGH_i1Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NjQ3LTE2NTE1Njgz/MDQtNjc5MC5qcGVn.jpeg" alt="Cover for del boca vista" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1594,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 31</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 30</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 37</li>
         </ul>
       </td>
@@ -1691,15 +1692,15 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 46</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/VwJLaUzXnKaqIk5iBBDlbkvug3wsrrTrYFETaXzvD7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU3/NDEwLTE1NDMyODEw/NTUtNjQzNC5qcGVn.jpeg" alt="Cover for The True Colors Of Mars I" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,6 +1722,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1045a0a1c1af0bbe5b5d722673a274ea.png" alt="Cover for The Audible Dark EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Audible Dark</td>
@@ -1744,13 +1746,14 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 27</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f766553ff2f34105837e06b3019c3934.png" alt="Cover for Origins" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Scales in Antiquity</td>
@@ -1775,7 +1778,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -1798,7 +1801,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
@@ -1823,8 +1826,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b10a6bf4794f24a420a491b3f3e249.png" alt="Cover for WWW. THIS IS TC .NET" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Damian Ryder</td>
@@ -1845,12 +1849,32 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d739abc1d2e456bab3ffdd718452fb5.png" alt="Cover for ORANGE AND MILK" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Atomic stooges</td>
+      <td>ORANGE AND MILK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1867,8 +1891,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac978a190c19281bd05371582a2c4e5d.png" alt="Cover for Triple Troubles" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shawn Pittman with The Moeller Bros</td>
@@ -1887,7 +1912,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1906,8 +1931,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e10cabf7577b4a351d84c4ad27f341.png" alt="Cover for Moral Hazard" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Paul Wyndale</td>
@@ -1926,7 +1952,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1945,7 +1971,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1963,24 +1989,6 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>We Killed Vegas</td>
-      <td>Knock It Off</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
         </ul>
       </td>
       <td>
@@ -2192,6 +2200,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b55bbb1e7904c969381d100e65fd2ce.png" alt="Cover for Rock is Dead" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>blast room</td>
@@ -2224,6 +2233,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/510c93411fb44f278cb6069c6231340c.png" alt="Cover for Instinto Mor - Caçadores De Emoção" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alex Rech</td>
@@ -2256,7 +2266,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -2278,6 +2288,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/283103e7c2ab4af6347fc4728e5a7aaa.png" alt="Cover for Damian Ryder" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Damian Ryder</td>
