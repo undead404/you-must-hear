@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T14:34:45.170Z
+date: 2025-11-25T20:45:53.651Z
 permalink: tags/tech-house
 title: tech house
 ---
 
 ## tech house
 
-Last updated: <time datetime="2025-11-18T14:34:45.170Z">Tue Nov 18 2025 16:34:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T20:45:53.651Z">Tue Nov 25 2025 22:45:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 23</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 98</li>
@@ -95,7 +95,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/JKEsXZ6vFmPKA_8VVFx2tqNe-a1UyBGd1V3uBHKXl3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQz/LTE2NzA0NzA5MjEt/ODE5MS5qcGVn.jpeg" alt="Cover for Jump N Shout" style="max-width:120px; height:auto;" />
       </td>
@@ -219,13 +219,13 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 9</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c8a0520a70ef8b5b45cce9cf29b403.png" alt="Cover for Memento" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/oJThYhr2X3O_hI2lK7LfLiAzUuJslzxCHr1Y1k4Bam4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjA3/Ni0xMjA0NjYwNTY1/LmpwZWc.jpeg" alt="Cover for Sweat (On the Walls)" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/tI30Xikr_HOkEZr0TKaTHUdDo2zB39G1dkHQI_R43sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjY0/Ny0xMTE0MDI5MDMy/LmpwZw.jpeg" alt="Cover for Followed By Angels EP" style="max-width:120px; height:auto;" />
       </td>
@@ -319,7 +319,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2006-01</td>
@@ -333,12 +333,12 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 26</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/swp_tGkD9g7D66xVVdmmFTCaiduTYb50G9LIx4yhoqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTc1/Mi0xMzYxMjY0NDUx/LTYyOTMuanBlZw.jpeg" alt="Cover for Go Upstairs" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dddfc3614af9427c96a333317ce33c76.png" alt="Cover for Nostalgia" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ceb5b35dd6e21958b9ce8d7c98cd00.png" alt="Cover for After Ibiza" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -501,8 +501,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 4</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 19</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
@@ -526,7 +526,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 84</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +623,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/ndlJ26DgLEfcOXLZHLK6-qdbhwB7g9L-mGywtX6tNqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY4/NzItMTU3ODMxNjQy/Ny0xOTI3LnBuZw.jpeg" alt="Cover for Hold My Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +644,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/aTN-DYdg8e1yfFnJsOwvsZhz8sJ8t2dfGjC0QyRJLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQy/NzgtMTIwNTU0MzA5/MC5qcGVn.jpeg" alt="Cover for Hunter" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +681,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/mJPnN-0ki0vFye0OnO76lKiJMz93jtJ-71mbqnJ1epY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA1/MjctMTQxNzAwMjMw/My0zMDQ3LmpwZWc.jpeg" alt="Cover for SATRN &#x2F; COASTED &#x2F; FALL (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +699,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/_23t47SXWvED7m-FLMGhLVIqd03fIkxx3Yzc3Ux09Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM4/NzEtMTM5NjM0Mzcx/My05MzM3LmpwZWc.jpeg" alt="Cover for Alone With You" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +717,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/FloTd66jWsfSEyJFy9VCS6BeF5N45Xe0SfLH7-QwYSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE3/OTktMTIxMDMyMzk0/OC5qcGVn.jpeg" alt="Cover for Billy Says Go" style="max-width:120px; height:auto;" />
       </td>
@@ -734,12 +734,12 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a20d333f91a54ea1a7f9b2897ccc9eb2.png" alt="Cover for Telemiscommunications" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +761,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb93ab1b3934fe8cb01e7747f5d95b2c.png" alt="Cover for No Kinda Man (Body Language Exclusive Track)" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +780,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/C-Hva0WPygerJY0vWjkvGUgg2HChbmtPZjsVpoECBEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgy/MDMtMTIwOTIyMDA4/My5qcGVn.jpeg" alt="Cover for Break New Soil" style="max-width:120px; height:auto;" />
       </td>
@@ -798,7 +798,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/mFdRyihz6OA71w_EFSwPqV1F2jFXXPxQoVoNEgJWGws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIy/MTktMTIyNjc1OTEz/OC5qcGVn.jpeg" alt="Cover for The Black Pearl" style="max-width:120px; height:auto;" />
       </td>
@@ -823,7 +823,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/VPdTUKrKOVjXpXLlJZOpUy_yZ_n7VAj9S551qj1GE08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ1/MTQtMTI2MzY3MTEx/My5qcGVn.jpeg" alt="Cover for Nextra" style="max-width:120px; height:auto;" />
       </td>
@@ -837,6 +837,26 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/157ae56e03124f849cc1980a3145acf8.png" alt="Cover for Take My Breath Away" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-23</td>
+      <td>Gui Boratto</td>
+      <td>Take My Breath Away</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +902,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/yDTHM4lonf9dmjooYPSwA-B7ti20t1q7TujSXYXFd3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkw/MDMtMTYwMjExNTEw/MS0zMDU1LmpwZWc.jpeg" alt="Cover for Lamur" style="max-width:120px; height:auto;" />
       </td>
@@ -897,7 +917,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +936,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +971,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 21</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 73</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 76</li>
         </ul>
@@ -995,7 +1015,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d737e8f1de564b43af98d09ae0f5b0bc.png" alt="Cover for Julio Bashmore EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1036,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/9jtlPYkNZXqckIjuAsQ3XElpuuIG-jdg-zBRnATp7aU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEw/MDAtMTI2MDk2NDI3/NC5qcGVn.jpeg" alt="Cover for The Splendour" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1054,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/WqgbKNk76aE1XfVHd24ydTSCNe7jhRgmXKjN7g5UkB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE2/MjQtMTI4OTU4ODM4/MS5qcGVn.jpeg" alt="Cover for Notations EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1069,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1140,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 19</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 20</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 87</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 96</li>
         </ul>
@@ -1187,9 +1207,9 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/LBvRdCZXHPclNaTnqCBGgYwdjLmJ05shWexLNm1lZOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTI3/NDUtMTI5MjE3NTI2/MS5qcGVn.jpeg" alt="Cover for DJ-KiCKS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1869cf2622749a3ac013fdc619ce62b.png" alt="Cover for DJ-KiCKS" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10</td>
       <td>Apparat</td>
@@ -1226,7 +1246,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b75d97054a904081b5412f4b0ab530af.png" alt="Cover for Delicacies" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,12 +1283,12 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da497f3db6b94168917309e08d8e05f6.png" alt="Cover for Your style" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1349,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/effe1fd9071548b0a4e80a998af9c67d.png" alt="Cover for Stick By This" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,14 +1387,14 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 67</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/InFVS_xmBPN3jig8ofCZmjcS31F4cakoLc5p7QPnnm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/MzgxLTE1NDkwNTAw/MTEtMzk2OS5qcGVn.jpeg" alt="Cover for mau5ville: Level 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1412,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/UzQHjnGtdzjmCWBj-K80OIv96dKaQz5MRarHW5bdlfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTk2/NTMtMTMzMzgzMzk4/MC5qcGVn.jpeg" alt="Cover for Herzensangelegenheit" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,8 +1463,8 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 58</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 59</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1464,14 +1484,15 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 2</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 94</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/tXn_UvyfFbo1RdWxGwjG9nCdpRoOOSKr0wG3suTifYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI1/ODUtMTQ3MTM5NjYx/MS0yMzU2LmpwZWc.jpeg" alt="Cover for International Hustle &#x2F; Explicit" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1550,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2013-07-22</td>
@@ -1544,7 +1565,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 30</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1590,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f45434308048416ab997de08650a2199.png" alt="Cover for Drone Logic" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,9 +1663,9 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 89</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 99</li>
         </ul>
@@ -1668,12 +1689,12 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/J_3decJJ45s3HOjeWwG4Mq1BnXA2WIK1s74EQra6Xto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTU1/ODQtMTQ2MTk1NTgz/Ny05OTY2LmpwZWc.jpeg" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,9 +1732,9 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Ekh0F0X9i65HK0nH5lj7e_ebulkUxBvCxHreTOSUGf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODE3/NzktMTQ4MTM0NTc0/NC03MjQ5LmpwZWc.jpeg" alt="Cover for Sweat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921098e0bd2894a84fc5c0e3c12814e0.png" alt="Cover for Sweat" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-28</td>
       <td>Karma Fields</td>
@@ -1790,7 +1811,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1ff732c46f3dfb1bca2bff9c37b3331.png" alt="Cover for Biomorph" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,12 +1865,12 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/Sh7R79EBRvephSywVREyU9S0iTH3MFHCXao2HUFTo8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/MTMwLTE2MDIyMjE2/ODktNzY1OS53ZWJw.jpeg" alt="Cover for Soon You&#39;ll Be Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1888,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/cHXhYtC6vCZo5a3Ic8NcYYHJ694QABvVh-EvFQyLnXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcw/ODg4LTE1NTY3MjE3/MDktOTQxOS5qcGVn.jpeg" alt="Cover for Wetwired &#x2F; On A Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1926,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2020-03-23</td>
@@ -1938,13 +1959,13 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0553006e2d3794dc725ef91c3eed9a7.png" alt="Cover for +&#x2F;-" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1990,7 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/PO9wO0E54iqvSlRoYtV2Dyafv5YWfJLXtw4HufthtcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/Nzc5LTE2ODIxMjk0/ODctNjIwOS5qcGVn.jpeg" alt="Cover for Sweat" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,24 +2004,6 @@ Tech house is a electronic dance music genre that blends the rhythmic groove of 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5234882235191df89ba750361eb6128f.png" alt="Cover for Cascade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024-09-13</td>
-      <td>Floating Points</td>
-      <td>Cascade</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 37</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T12:10:26.842Z
+date: 2025-11-25T20:42:13.210Z
 permalink: tags/texas
 title: texas
 ---
 
 ## texas
 
-Last updated: <time datetime="2025-11-18T12:10:26.842Z">Tue Nov 18 2025 14:10:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T20:42:13.210Z">Tue Nov 25 2025 22:42:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/tDRnUvZC0dQchI0vVwo--6anBR2xdlm2bQbkJ6hlWWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTQ0/ODYtMTQ2OTc0Mjky/MS05NTIyLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab029f0863ba259008b8a1e123eebb8e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1956-02-04</td>
       <td>Ray Price</td>
@@ -54,7 +54,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/pVshPkWUT8s3iWCT030VRdTbw-hh3pCIaoR2AeAiHbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDIw/NTMtMTY2NTYxOTM3/NS0xMTcwLmpwZWc.jpeg" alt="Cover for Ray Price&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/639d05db35fc4e39ce0e83d24bf81f5a.png" alt="Cover for Ray Price&#39;s Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Ray Price</td>
@@ -77,6 +77,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216bd96e405644b9b3009f41a324f373.png" alt="Cover for American Originals" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Ray Price</td>
@@ -97,9 +98,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/oAuqThatTQ7DMSciPjg3eLV3RhEspM1xNVqcUgjWP1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDIw/OTItMTQzMzExMTQ2/Ny01NDI0LmpwZWc.jpeg" alt="Cover for Burning Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/832a3a3f5c014196a5da324ef740798d.png" alt="Cover for Burning Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Ray Price</td>
@@ -116,13 +117,14 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       <td>
         <ul>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 46</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 81</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c07aa3e36d1289fd5e6639911bbb0f2.png" alt="Cover for Pontiac" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Lyle Lovett</td>
@@ -135,12 +137,12 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 34</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td>1989</td>
@@ -181,6 +183,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e024f1ec5d0c1eb576e21d2822c865eb.png" alt="Cover for Great Gonzos" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Jerry Jeff Walker</td>
@@ -230,11 +233,12 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/QCvqIyzH_GZiWVOjAD1jt6QX8hNM0z84bUA46r15bP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzg1/MS0xNjY1NzUxNTg2/LTg1MzQuanBlZw.jpeg" alt="Cover for Inside Looking Out" style="max-width:120px; height:auto;" />
       </td>
@@ -297,7 +301,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/YhnzLRWWhRilhPabrl1aJAuF2njlhePSiGJ4vf0efIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTUw/Ny0xNDUwMTQ1NDQ5/LTgxMjguanBlZw.jpeg" alt="Cover for Wegonefunkwichamind Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59844e067ec70a19ca222c0f4411448d.png" alt="Cover for Wegonefunkwichamind Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-06-21</td>
       <td>Big Mello</td>
@@ -316,9 +320,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/NT8iCxzwdC4sj2HL3Cn0ODOwANM4iCWndToeSZg5fi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/MDgtMTYyMTI1NTQz/My0zNDAwLmpwZWc.jpeg" alt="Cover for Deadly Groundz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41150c4ccbc941b88930e004e83b2c24.png" alt="Cover for Deadly Groundz" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>5th Ward Juvenilez</td>
@@ -398,26 +402,6 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1996-08-13</td>
-      <td>Big Mello</td>
-      <td>Southside Story</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/texas" | relative_url }}">texas</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 74</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51159257ea60720d80509271fb871735.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
@@ -466,6 +450,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e9b70edb2246d29714ae66a23a1f2f.png" alt="Cover for Super Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Ray Price</td>
@@ -518,13 +503,14 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 64</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b33a2a65760248cfc83d19c67829b727.png" alt="Cover for Born Bad?" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-21</td>
       <td>PSK-13</td>
@@ -579,14 +565,14 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 45</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 57</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998-10-27</td>
@@ -602,13 +588,13 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 1</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 3</li>
             <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fc7cea07b3494fc97b13fbe9107a8b.png" alt="Cover for It Was All a Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -678,7 +664,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/8Z9D7OZLZRWAOyg0zc_wvyKIP5HvVn66WDqT_OjW4-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjIx/NS0xNjM4ODA4OTY3/LTc0OTMuanBlZw.jpeg" alt="Cover for Thicker Than Water" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +682,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3d28876d094fd6f7f1bac3372923548.png" alt="Cover for Edgewater" style="max-width:120px; height:auto;" />
       </td>
@@ -773,14 +759,14 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 52</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 64</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td>2000-09-12</td>
@@ -794,7 +780,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 79</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +863,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>2002</td>
@@ -897,9 +883,8 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/Z8aqxifLrT1a4Ga_s2K-aZx_i4UNof09I6mYSnwyy4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjc5/ODQtMTQ1NDUyMDUx/NS0zODg1LmpwZWc.jpeg" alt="Cover for Bone Hard Zaggin Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Big Mello</td>
@@ -918,7 +903,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2002</td>
@@ -951,7 +936,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 40</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1036,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2005</td>
@@ -1081,15 +1066,15 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 9</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 60</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Szf3HdEknVlj8wPDLzOL8p1sqEUvtmhu9OsSzFAcQSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/MzE4LTE1MTE3OTMx/NTgtNzcyMi5qcGVn.jpeg" alt="Cover for 4&#x2F;20 the Smokers Anthem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f1f249ff3e944b7595493cf6914fd8c.png" alt="Cover for 4&#x2F;20 the Smokers Anthem" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Z-Ro</td>
@@ -1108,7 +1093,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2005</td>
@@ -1150,7 +1135,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/kcG2VrR92nZ36ulMNE7xXQnf4l6rk35_Wx8cIgq_moQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYz/NTItMTY2NjM5OTA2/MS00MTkwLmpwZWc.jpeg" alt="Cover for Gutta Mixx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a9258b79d04b7bbdfcf79dc7f0d0dd.png" alt="Cover for Gutta Mixx" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-11</td>
       <td>Bushwick Bill</td>
@@ -1227,9 +1212,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/sq5uDdGIzcP05giZ4EnwTrZfHcSY0WznaPj59SIwv6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQ2/ODgtMTM1Njc5Mzkz/NS00ODA5LmpwZWc.jpeg" alt="Cover for Gangstafied" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd1130bfcce48abb2afe9286c0ca426.png" alt="Cover for Gangstafied" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-28</td>
       <td>Z-Ro</td>
@@ -1328,9 +1313,9 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/sEWvc38AcwCG78YNNu5T5CbF_h5V076XF4dyhT7OYuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM0/NjY0LTE2MjE2OTM2/MTgtNTQxOC5qcGVn.jpeg" alt="Cover for Get It On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ca2bfa34ed4c038c766b686fd7652f.png" alt="Cover for Get It On" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-07</td>
       <td>Mark McKinney</td>
@@ -1397,6 +1382,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3777ab1581ea4ab3bf0710c55fe0f199.png" alt="Cover for Emeritus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-02</td>
       <td>Scarface</td>
@@ -1412,16 +1398,16 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 39</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 54</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 50</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 53</li>
             <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/1xt4NdYC9h1lBFcigtNe1Ypr2pLC0vU6eyKr-UGEY8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk1/MzEtMTI0MjE5MjY2/Ny5qcGVn.jpeg" alt="Cover for Power of the Damn Mixxxer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d48a5816dce411b894f36a7ebea3f62.png" alt="Cover for Power of the Damn Mixxxer" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-12</td>
       <td>Prong</td>
@@ -1438,7 +1424,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f65ed7ab680390536a672089e5b2b5.png" alt="Cover for Thoughts Like Bombs" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,7 +1490,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7141db660a774417b6437a5191845788.png" alt="Cover for Myth of the Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1537,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/BM0l1lTlOGiMxPgdS4U7ShMhKKpz1OFTIT6WtvRXtl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE5/NjY4LTE1MTAyMTI1/MjctNDg4My5qcGVn.jpeg" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88403600fff84ea2b7f03f7aeea5f4a1.png" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Roger Creager</td>
@@ -1568,7 +1554,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b23f78af719448eabddb4ca532f1119d.png" alt="Cover for Firewater" style="max-width:120px; height:auto;" />
       </td>
@@ -1587,7 +1573,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/5tSST7g4UI3sXBJCNAbxxKlCm2UsM2zVDLrefsG9fzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY4/MDgtMTU2NTU5Nzc5/OC05OTQxLmpwZWc.jpeg" alt="Cover for Greyhound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/721d9d42236b4d1fb0d45a40a6546f48.png" alt="Cover for Greyhound" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-19</td>
       <td>Mike Zito</td>
@@ -1636,7 +1622,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/8wD6jeaZu2S_gFFaszpKl8zTEZ0xDAL7JLYqHZ6tNEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjUz/MzItMTM2NDU0NDIw/MC0zODc2LnBuZw.jpeg" alt="Cover for Demo 2012" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a9ac81c7b5f9da5bab5bacd1cf2eb0.png" alt="Cover for Demo 2012" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-12</td>
       <td>Glue</td>
@@ -1760,13 +1746,14 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 16</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a417af9b0b4876c83c25a0dcb24768.png" alt="Cover for The Lights from the Chemical Plant" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-07</td>
       <td>Robert Ellis</td>
@@ -1788,7 +1775,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb1ad1ab6f6b4bafcbcf97fa9a02090e.png" alt="Cover for &quot;Holy Sh!t&quot; - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,7 +1839,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/X9A8iymqxn5mMbNbIFLIzdo1eJ0T3ADhapMDBAE72_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTQ0/NTg2LTE3MzAyNDMy/MDYtOTcwMS5qcGVn.jpeg" alt="Cover for Let&#39;s Step Outside - Great Country Songs about the Great Outdoors" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d19f1d41b8466d9a9817ac90b47db9.png" alt="Cover for Let&#39;s Step Outside - Great Country Songs about the Great Outdoors" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Various Artists</td>
@@ -1887,7 +1874,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 23</li>
             <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 100</li>
         </ul>
       </td>
@@ -1915,6 +1902,24 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
     </tr>
     <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/218c9fdcfbb6ad17ba7e6dacc66534b2.png" alt="Cover for I&#39;m Gone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-05</td>
+      <td>iann dior</td>
+      <td>I&#39;m Gone</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>58</td>
       <td>
           <img src="https://i.discogs.com/3VqEjxK1_okvMZdb85-qe4tQ0k8kSdk1W6gq6uVL2qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY4/MDgwLTE2MDYyOTUz/NzgtNzIxNS5qcGVn.jpeg" alt="Cover for The Dude" style="max-width:120px; height:auto;" />
@@ -1931,7 +1936,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 32</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 33</li>
             <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 82</li>
         </ul>
       </td>
@@ -1996,7 +2001,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 55</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2019,7 +2024,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 78</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2042,7 +2047,7 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 98</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2106,12 +2111,12 @@ Texas hip-hop blends Southern rap&#39;s chopped and screwed production style wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
