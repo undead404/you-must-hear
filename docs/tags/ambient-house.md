@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T20:12:30.528Z
+date: 2025-11-26T02:44:59.999Z
 permalink: tags/ambient-house
 title: ambient house
 ---
 
 ## ambient house
 
-Last updated: <time datetime="2025-11-16T20:12:30.528Z">Sun Nov 16 2025 22:12:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:44:59.999Z">Wed Nov 26 2025 04:44:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/n8rS3vAZoXF6lmNe9XGScg6PGH1Lr2wMqMU7SC2KhCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/Ny0xMjUzMTg2NjIx/LmpwZWc.jpeg" alt="Cover for Last Train To Trancentral" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc2413c7b367593b87de01e3c44a49a1.png" alt="Cover for Ninety" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90228d3a045498d9966dd3c976b93a1.png" alt="Cover for Chill Out" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00a507750e114496966e40095013cd6e.png" alt="Cover for Microgravity" style="max-width:120px; height:auto;" />
       </td>
@@ -97,7 +97,6 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       <td>Microgravity</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
@@ -106,7 +105,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a3fcf409521194b42d5fbfac7295a50.png" alt="Cover for The White Room" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +124,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7405469e9b34b06cb359c262f889bad.png" alt="Cover for The Orb&#39;s Adventures Beyond the Ultraworld" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +143,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15967cab40014d4d9b8e9f39f28acc57.png" alt="Cover for U.F.Orb" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +160,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
       <td>
       </td>
       <td>1993</td>
@@ -182,7 +181,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3c45482869a823e417071022ebcfd49.png" alt="Cover for So Tough" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +199,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>1993-11-15</td>
@@ -228,7 +227,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da3cebefa09d95e2916b0d5dc0af5133.png" alt="Cover for Seti Project" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +245,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +268,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07509e9ae42051fb6bc60d35d66b3de0.png" alt="Cover for Pomme Fritz" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +286,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b0316c7ccb67ef73f5163e39b25504a.png" alt="Cover for Lifeforms" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +303,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/qnihOG7ojwlumqyXf1ZWfUAn617PniT27dt-rpKsP8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUw/MDU5LTE1Nzg5MTk0/NjUtMTEwMC5qcGVn.jpeg" alt="Cover for Adventures Beyond The Ultraworld" style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +322,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0b586474b261ae74086b2fe7ea1eafa.png" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
       </td>
@@ -337,12 +336,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 75</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/5OUpcCIVucAtBD0BAAXTE7RjdzJFACokTjX30JL9XRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE5/MzU0LTE1ODY5MjYx/NjYtNzg1OS5wbmc.jpeg" alt="Cover for 2001" style="max-width:120px; height:auto;" />
       </td>
@@ -362,7 +361,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/4YeIQGRitDcl5Jl_AkJm2y5GVSpEzlzzSVxM6m0_aZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQt/MTYzNjIxOTU3My01/MDMzLmpwZWc.jpeg" alt="Cover for Appleshine (Film Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -382,9 +381,9 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/F06EEBCgN4BsW0bAv1KHLECEEctFE5xOLCCawANINB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQ1/NjM0LTE2Mzk0OTUx/MzYtNTM0Ny5qcGVn.jpeg" alt="Cover for Orbsessions Volume 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1726019ea4d74cc3ccd395d17694c378.png" alt="Cover for Orbsessions Volume 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>The Orb</td>
@@ -401,7 +400,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>1997</td>
@@ -419,7 +418,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f7f0094ffb34707c76d1362cc9572bc.png" alt="Cover for Orblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +437,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/339483c42e42bfb24152f106ffe53409.png" alt="Cover for 2001 D.D. Since 1969" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +457,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/AWW0kvxbRyFxGxYpWqcwEGczWdDSH55HMssp4b05UtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODcz/OTYtMTMwNTc0NDkz/OC5wbmc.jpeg" alt="Cover for How Long is Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -499,15 +498,15 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 20</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 74</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 76</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 44</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 77</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e998f7ee1e1fbec4f4999ed956d0a15.png" alt="Cover for Program Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +524,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/B_AbqNtzXDhhiX7yjUTJT2JG7uUCff7o5SLCsxe4Sbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYx/OC0xMzI5Njk5NDA4/LmpwZWc.jpeg" alt="Cover for Rushes" style="max-width:120px; height:auto;" />
       </td>
@@ -549,7 +548,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/jltXjjFDbReA_WGtsXeMNQ8U5hfnBKAgq5IJb2QaUE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjYx/LTE2ODc0OTUwNzMt/ODk1Mi5qcGVn.jpeg" alt="Cover for spring to summer" style="max-width:120px; height:auto;" />
       </td>
@@ -567,7 +566,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/VaZ5YKYr4ciBXE7c1FhziMTgdPIybVFF_LFteBHGsjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk0/NC0xNjMyMDA0Njc2/LTMwMzguanBlZw.jpeg" alt="Cover for Fragment Dots" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +588,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/CpZEEJBxdlY0ndgRb9MA3N1G6NaBDrYnMXmjMHixI2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE4/OTYzLTE1NDgzODI3/NTYtMTU1OS5qcGVn.jpeg" alt="Cover for Toluca Stars (Film Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -610,27 +609,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/jR1d0E9HH-jutO03QOp1cFuVu-cTxIVk3CmQNRBKYq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUw/MTctMTY1MzU0MTY3/OS05MTQxLmpwZWc.jpeg" alt="Cover for Brussels" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-09-30</td>
-      <td>Underworld</td>
-      <td>Brussels</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4738e1b6b83485a8236464d78edfaee.png" alt="Cover for The Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -665,12 +644,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 26</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/dLu5B6x0Cn-a8mAxzGplPZIObc7shHU9UXoG0WRXz3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/ODMyLTE1MTQ4MDE3/MjMtNTI4MC5qcGVn.jpeg" alt="Cover for Four stones" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +703,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9vHxNcPt2tc4SR3tIkqW6KnxcUzY39zzBLHE_BBZiUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMz/NjEtMTI3NDk1MjI0/Ny5qcGVn.jpeg" alt="Cover for Substrata 2.1" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +724,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/dLu5B6x0Cn-a8mAxzGplPZIObc7shHU9UXoG0WRXz3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/ODMyLTE1MTQ4MDE3/MjMtNTI4MC5qcGVn.jpeg" alt="Cover for Haarlem Centraal" style="max-width:120px; height:auto;" />
       </td>
@@ -792,8 +771,8 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 67</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 75</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
@@ -803,6 +782,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4bf1a65e75a4bdb99fa46606e45aed6.png" alt="Cover for Perimeters" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-07</td>
       <td>Aes Dana</td>
@@ -819,7 +799,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00ea30ee47c14dc79e38fc7e628f9b5f.png" alt="Cover for Space Is Only Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -833,12 +813,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 50</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f87564f51e402c843e109a7021dc83.png" alt="Cover for Minecraft - Volume Alpha" style="max-width:120px; height:auto;" />
       </td>
@@ -852,14 +832,13 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 25</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 97</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 93</li>
             <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b6f72e313104197bc90c10f809eb869.png" alt="Cover for ƒin" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +855,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89da2d738b7449ccaa33acf208250f7f.png" alt="Cover for Nina Kraviz" style="max-width:120px; height:auto;" />
       </td>
@@ -895,7 +874,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0452cb898cd180fecfad6acb1382a48f.png" alt="Cover for Double Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +896,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/_XUOS4Y0d3tqGT0EW66hvDDecUFi237cAJ6w0cmBOgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/NzExLTE1MzQ0MzY0/MjUtNTQ5Mi5qcGVn.jpeg" alt="Cover for Ever Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -942,7 +921,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td>2012-06-11</td>
@@ -965,7 +944,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a2c9c4965343269a86eeeab4f9a8cf.png" alt="Cover for Seashore" style="max-width:120px; height:auto;" />
       </td>
@@ -984,6 +963,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/996712df758747bac73e8d6e4b3340f1.png" alt="Cover for Pineselect Night EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-19</td>
       <td>Disko-ions</td>
@@ -1007,7 +987,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a62b18bddb5d4c5dcc3388be5d67cc3c.png" alt="Cover for Three Love Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,14 +1000,13 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 92</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 98</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 19</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>2014-03-29</td>
@@ -1073,7 +1052,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3551bc93dd6124595245d7343184780.png" alt="Cover for APXB" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,9 +1073,9 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 8</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 69</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 79</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1119,16 +1098,16 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 98</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/sweuo_6kKJN1_GbwxztM_lSbDVH86C8IJHAiF6u9zjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTAw/ODctMTQ2NTA3MTMx/Ni0xOTU1LmpwZWc.jpeg" alt="Cover for King Bromeliad &#x2F; Montparnasse - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,12 +1126,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 58</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/9rdT1KlByLuBG4ew4aQ4F7YCclFseiFY3J8Y56t1_SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzA3/NTktMTQzOTA2NTI2/Ny00Nzk2LmpwZWc.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1152,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/iZNOBNlxnog1NLzvO9JNCt-EfLvSolJKatFirOWoTXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjMw/NzItMTQzOTgzOTk5/OC00MzU3LmpwZWc.jpeg" alt="Cover for L&#39;étreinte Imaginaire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5662808d8f680d275f98d15dc381fe9.png" alt="Cover for L&#39;étreinte Imaginaire" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-14</td>
       <td>Auscultation</td>
@@ -1189,7 +1168,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 90</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1211,13 +1190,13 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 27</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 26</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/vmz2yC1peF3-yr_Q9t9yl_vRlKAHHDs6T1SqyLFtbsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTgw/NzItMTQ2MjAxNTIx/NS0yOTA1LmpwZWc.jpeg" alt="Cover for Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1214,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/vmz2yC1peF3-yr_Q9t9yl_vRlKAHHDs6T1SqyLFtbsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTgw/NzItMTQ2MjAxNTIx/NS0yOTA1LmpwZWc.jpeg" alt="Cover for Aspen" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1232,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/t3U8wG24bKqkHbnU22-23MPJcQh5Y5elWzdqxWALMfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA5/NjkwLTE1NzM5NTEw/MjQtNDcxNC5qcGVn.jpeg" alt="Cover for Appleshine Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,7 +1253,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/13T8Qiw-ZoE7UmnUn6RaNVmVyiBX270ObYU72jX7HnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU5/MDEtMTQ2NDQ5NDk5/OS0yODI5LmpwZWc.jpeg" alt="Cover for The Orb&#39;s Adventures Beyond The Ultraworld - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1272,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3606bd11ebbc3034132bf795c669c6.png" alt="Cover for Evidence from a good source" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1295,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/Ekh0F0X9i65HK0nH5lj7e_ebulkUxBvCxHreTOSUGf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODE3/NzktMTQ4MTM0NTc0/NC03MjQ5LmpwZWc.jpeg" alt="Cover for .me" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1313,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/k4pn2vwk3dyP25aElfvbwYce8Wf5EUMsBDuZQCqhTbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzA3/OTYtMTQ4MDQ0Njgy/My05MjkzLmpwZWc.jpeg" alt="Cover for PARANOJE" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1354,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/i9dxku4_oqFteHv23EupU4nxNNy4wnlpXvm0ZMuz9uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MTA0LTE0OTczNTQ1/MTMtNTA0Mi5qcGVn.jpeg" alt="Cover for What You Do to Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,7 +1372,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fafa8a0e7e903e35fe4062435e9dd8a3.png" alt="Cover for New Energy" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,14 +1385,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 79</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 97</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/JOz9cZviKrAWnEzBWGfyHJ4RAKz92Y1CmgIsNZR-k1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM5/MzM3LTE1MTYzNjYw/NDYtMzc3Ni5qcGVn.jpeg" alt="Cover for No Captain (feat. POLIÇA) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1408,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/l71C5a4ersYHoN48qLm8KIpXSL9X8NngQgqDzKc0u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ5/MTQwLTE1MjM0NTE2/MjItODA4NS5qcGVn.jpeg" alt="Cover for nothing 2 loose" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,12 +1424,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 28</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/rq4WtJTxfdeWs6pD6KLtZCBnE2LbwDGed_j8EJCz26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NTE5LTE1MjgzMjEw/NDAtMTI1Mi5qcGVn.jpeg" alt="Cover for Skylax House Explosion" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,12 +1463,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 98</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/BMEavbD1aZLm03FnPLVHcqPscXBBUqCAgW9e7-tJk3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/ODQ3LTE1NTI4Njg5/NzYtMTc0MS5qcGVn.jpeg" alt="Cover for Courante" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1486,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/BMEavbD1aZLm03FnPLVHcqPscXBBUqCAgW9e7-tJk3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/ODQ3LTE1NTI4Njg5/NzYtMTc0MS5qcGVn.jpeg" alt="Cover for You (Close)" style="max-width:120px; height:auto;" />
       </td>
@@ -1563,15 +1540,16 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 30</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 36</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/O1w_F-zOQGZST8dBXY2NUDsIoYyVKY7GM1mlbaOSri8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/OTI0LTE1NTEzODky/MDctOTMxOC5qcGVn.jpeg" alt="Cover for Appleshine Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1592,7 +1570,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f47ac429c66cfd2be5fe653dd2e8bb.png" alt="Cover for Ambitions" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,12 +1588,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aae4a40c03e738d00c3e85c4ecc34892.png" alt="Cover for Melancholia" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,6 +1603,25 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c9e7689d40a3260116da484be0ed790.png" alt="Cover for here&#39;s the drop!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-04</td>
+      <td>deadmau5</td>
+      <td>here&#39;s the drop!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1651,15 +1648,15 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 14</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 61</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 12</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/759_Ino-odB7fN1BSNxEpSCkzwiOBSAQrn-WUznt_8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIx/NDM4LTE1ODgzMDM4/MDctMjI4Ny5qcGVn.jpeg" alt="Cover for Whities 029" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d4aabd40a883fb89182170e64440cac.png" alt="Cover for Whities 029" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Lord of the Isles</td>
@@ -1674,13 +1671,13 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 72</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 73</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/5F0-zSpqr9OUOD7aHvs4oeYWKbMC-aMD15h7cBnnhtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/NTQyLTE1OTg3MTIw/NDctNzM4MS5qcGVn.jpeg" alt="Cover for Amber Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1695,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/pC27Jp_K1Dgtw52Aa1BatafgO3d6UnhruDQzTujJElE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc1/NzEwLTE2MDczNjMz/MTUtNjE3OS5qcGVn.jpeg" alt="Cover for Faya &#x2F; The Crack" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,16 +1730,16 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 2</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 99</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 99</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 99</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/hbO4ZNH5odlMG906gTYlkcGSDeNhZbd-rWJDCS1Nb6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcz/NzM4LTE2NjAyNTgz/NDgtNTQzMi5wbmc.jpeg" alt="Cover for it is what it is" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/892bc557d673d83b03d70e9c7b17cb89.png" alt="Cover for it is what it is" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-15</td>
       <td>Naked Flames</td>
@@ -1759,13 +1756,13 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 58</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 59</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/v68X43wjsG5opEG22kfyMJN3qiBglU7eC3y30faEUWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUy/OTg3LTE2NTA1MDc3/NDAtODU3OC5qcGVn.jpeg" alt="Cover for segredinho" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,12 +1778,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 65</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/nMyQd5OLM7J1bDFrd_au8wf9i-Vl5IS0mSMcLm223y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OTcyLTE2MjI4ODEy/MDMtNDY0OC5qcGVn.jpeg" alt="Cover for Uciekając wciąż wracam" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1803,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e6a1aba80aa168d82c5091cea6be72.png" alt="Cover for help us Book 2 remembering this" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1824,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/0OPDC1oWk8DTEzTxgProfwah7sPKsbdoBO6KKRi2Dw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjAy/NTExLTE2NTg1MzU0/NDktNzMwMy5qcGVn.jpeg" alt="Cover for HONESTLY, NEVERMIND" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1842,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/YZwgQO9iCLzFzUjjoDeQk-SurGVVR1lZQhJt2AchTWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE0/MTYyLTE2NDk0NjI1/NjUtNTg4NC5wbmc.jpeg" alt="Cover for Trauma Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,7 +1864,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/iyXvO8d7fIJkgf7eYFM1anottufBRz-ma8uGEIdKJvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjM4/NDM5LTE3MjUzMjEw/NDUtMTA4Ny5qcGVn.jpeg" alt="Cover for From Here to Tranquility, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1881,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89a94a267615f4e834a1441aba58e6cc.png" alt="Cover for 6G DEALERS" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1909,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/NamD9DiWSZfAr5-EsKJYClv5rcdtmQDvmiyjRr8ctpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc5/MzAxLTE2OTg5NTE1/MTAtNzU5MC5qcGVn.jpeg" alt="Cover for Steel Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1927,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/qyLcfUb30pFuL-zNJHM1FwLZcHBEbRbGuJ_27wyhRNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA3/Mjk0LTE2MzcwOTg2/ODgtMjA1Mi5qcGVn.jpeg" alt="Cover for BLUE RAVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1948,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea0d6fbae9e015217b7ccb8d1e73478.png" alt="Cover for Katherine Hepburn" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,12 +1964,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 28</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1984,12 +1981,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 10</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c274ee26ea3080e43068c1869c574d.png" alt="Cover for When Flamingos Fall from the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -2011,7 +2008,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -2036,7 +2033,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -2051,12 +2048,12 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 71</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2077,7 +2074,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2099,7 +2096,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2138,7 +2135,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -2155,7 +2152,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa1842143ea6b99e222a718ec854cd11.png" alt="Cover for Mae, or Stirring Underneath the Syrupy Light" style="max-width:120px; height:auto;" />
       </td>

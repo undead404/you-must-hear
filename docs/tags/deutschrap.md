@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:52:11.252Z
+date: 2025-11-26T02:44:08.059Z
 permalink: tags/deutschrap
 title: deutschrap
 ---
 
 ## deutschrap
 
-Last updated: <time datetime="2025-11-24T12:52:11.252Z">Mon Nov 24 2025 14:52:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:44:08.059Z">Wed Nov 26 2025 04:44:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1983</td>
@@ -212,7 +212,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60259130382a4f46ebdc486b0722d0cd.png" alt="Cover for Para" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-09-14</td>
@@ -481,7 +481,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/llZ8BhuOPYocB5axa569sUMz0B1U5gesKQ0atiwFV98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTIy/MjgtMTQ1MTQ3MjYx/NC04NjgwLmpwZWc.jpeg" alt="Cover for Hin zu Sonne" style="max-width:120px; height:auto;" />
       </td>
@@ -520,7 +520,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc816885d9d4fbfb3430a8665de125c.png" alt="Cover for Hahnenkampf Live" style="max-width:120px; height:auto;" />
       </td>
@@ -630,15 +630,15 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18768bcb3485ae01dd992bc07c271264.png" alt="Cover for Sexismus Gegen Rechts" style="max-width:120px; height:auto;" />
       </td>
-      <td>2009-07-10</td>
-      <td>K.I.Z.</td>
-      <td>Sexismus Gegen Rechts</td>
+      <td>2009-05-08</td>
+      <td>Bass Sultan Hengzt</td>
+      <td>Zahltag</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
@@ -809,7 +809,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4b33b2f4fb8164abfb218e213238da.png" alt="Cover for Legacy - Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2012-10-19</td>
@@ -1099,7 +1099,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/806bf1c5e838cbfce7b5e0d5e24de74c.png" alt="Cover for Triebwerke (Premium Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1873,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb9cea5dd8d8d2fd23b0f9bf4d64c8bb.png" alt="Cover for Colucci" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1895,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ac3fb957e40f75f2ec5051ee195ddd7.png" alt="Cover for Vanilla Sky" style="max-width:120px; height:auto;" />
       </td>

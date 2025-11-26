@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:22:10.950Z
+date: 2025-11-26T02:44:22.649Z
 permalink: tags/dark-electro
 title: dark electro
 ---
 
 ## dark electro
 
-Last updated: <time datetime="2025-11-14T00:22:10.950Z">Fri Nov 14 2025 02:22:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:44:22.649Z">Wed Nov 26 2025 04:44:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
   </thead>
   <tbody>
     <tr>
-      <td>40</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for New World Order" style="max-width:120px; height:auto;" />
       </td>
@@ -51,14 +51,14 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 7</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 8</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 23</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>49</td>
       <td>
       </td>
       <td>1977</td>
@@ -81,7 +81,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>92</td>
       <td>
       </td>
       <td>1984-03-01</td>
@@ -98,15 +98,15 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 88</li>
             <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for United Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/308f593654b61abc955fd827bb27904b.png" alt="Cover for United Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -124,7 +124,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8153fb526984b1583298dd24eec60fb.png" alt="Cover for Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
       </td>
       <td>1997-08-14</td>
@@ -164,7 +164,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>14</td>
       <td>
       </td>
       <td>1998</td>
@@ -181,7 +181,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc598c4b1b564106901464d9f328c8b3.png" alt="Cover for Resolution" style="max-width:120px; height:auto;" />
       </td>
@@ -199,14 +199,14 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/G6CXXDGpuTUJ3BmP0qX-VUWyxrnoA7F3tlGtUjLDxxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjM4/MS0xMTU5NjA4NDg2/LmpwZWc.jpeg" alt="Cover for Eulogy For The Sick Child" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be16f712b3ccc78be86093cf119a9294.png" alt="Cover for Eulogy For The Sick Child" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-02</td>
       <td>Imperative Reaction</td>
@@ -225,8 +225,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9511a210995934e1edab5ac2ba622d7e.png" alt="Cover for Boeses Junges Fleisch" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-05</td>
       <td>:Wumpscut:</td>
@@ -243,9 +244,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/8U5Ce1mYk9aC0Ky62EQBXgtufTpEv9F3y8JmhcUmzC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzIy/LTEyODk1NDQ4MjMu/anBlZw.jpeg" alt="Cover for Wenn Der Letzte Schatten Fällt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f447faf3233f4741c7f40828e808a0de.png" alt="Cover for Wenn Der Letzte Schatten Fällt" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-15</td>
       <td>L&#39;Âme Immortelle</td>
@@ -263,7 +264,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b81d5cd679e09000037cbb2cfe380f4.png" alt="Cover for Sangre Hirviente" style="max-width:120px; height:auto;" />
       </td>
@@ -282,7 +283,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>79</td>
       <td>
       </td>
       <td>1999-11</td>
@@ -303,8 +304,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bba1ba8a5d79dd74dce98896012abbc.png" alt="Cover for Comatose Delusion" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-24</td>
       <td>Suicide Commando</td>
@@ -322,7 +324,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>15</td>
       <td>
       </td>
       <td>2001-09-03</td>
@@ -340,8 +342,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83f11478744a2eacae3c789cf1750f48.png" alt="Cover for Love Breeds Suicide EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-17</td>
       <td>Suicide Commando</td>
@@ -361,7 +364,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>88</td>
       <td>
       </td>
       <td>2001-12-08</td>
@@ -382,30 +385,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/yYAM-SNmpt1BljA4amYBRB9WtoROcfBEU5GdahLDHR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDE5/MTctMTMxMzAwNDkz/Ny5qcGVn.jpeg" alt="Cover for Divine Infekt" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Psyclon Nine</td>
-      <td>Divine Infekt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 42</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/wDXTYwUv2mKbKHsCgPaobhbPihIxt0jP9g6oNzhiww0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkx/ODYtMTI0Njg5NjM0/Mi5qcGVn.jpeg" alt="Cover for Snuff" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +405,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/nKSZHBTXSJqpzFoKm_0eZmjadfa2YLoULnQ0vjINcUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDMz/LTEyNzcxNTA5NjUu/anBlZw.jpeg" alt="Cover for Signos De Aberracion" style="max-width:120px; height:auto;" />
       </td>
@@ -446,7 +426,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/nKSZHBTXSJqpzFoKm_0eZmjadfa2YLoULnQ0vjINcUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDMz/LTEyNzcxNTA5NjUu/anBlZw.jpeg" alt="Cover for Signo de Aberracion" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +447,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>50</td>
       <td>
       </td>
       <td>2002-03-25</td>
@@ -481,14 +461,14 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 10</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/tZWThCwo702HZIPa2wlfC_h1QAE9sZiLMwM2xnosDpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/NzYtMTIyNzkyMTcz/Ni5qcGVn.jpeg" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4054fb878d41f8b0612f9335bbcfe9.png" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-22</td>
       <td>Alec Empire</td>
@@ -509,8 +489,8 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 47</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 61</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 62</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 89</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 93</li>
@@ -519,8 +499,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/834c3b4b97fba3fb68a38bb3c7a76339.png" alt="Cover for Snuff EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-10</td>
       <td>[:SITD:]</td>
@@ -538,7 +519,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c8b408108d64f16b3b7c41d7b2a2038.png" alt="Cover for Dismantled" style="max-width:120px; height:auto;" />
       </td>
@@ -558,8 +539,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/248d118baa633965a265a2f221a4c819.png" alt="Cover for Prescription: Medicide" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Grendel</td>
@@ -579,9 +561,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/9pmWRJXf8sMY0i24tAGvOwSRk4xVj1qwXcqbebqOHqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ2/OS0xMTQzNjI2NzQw/LmpwZWc.jpeg" alt="Cover for Winter, so unsagbar Winter..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fe68efdaf8f69ac8c2b3b5a54c20df5.png" alt="Cover for Winter, so unsagbar Winter..." style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Adversus</td>
@@ -596,9 +578,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/uPXSRVqc7Y0SdHmRr1nYmzOJWUJYgoGaSHUWqp6XMDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDEw/Ni0xNDQwNzc3MDE4/LTg3NjUuanBlZw.jpeg" alt="Cover for Shock Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3200c6bd66042fb1d758928ee749814.png" alt="Cover for Shock Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-29</td>
       <td>Dulce Liquido</td>
@@ -610,13 +592,13 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 65</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 67</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
       </td>
       <td>2003-06-16</td>
@@ -633,7 +615,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5ef013a53a44e28fb4ac6fa11f3163.png" alt="Cover for Axis of Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -651,8 +633,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2de71e87b884900864260994bf24e6d.png" alt="Cover for Melodies for the Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-03</td>
       <td>Amduscia</td>
@@ -670,7 +653,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/mgOMjI_ZJ8WWvSwFAqRBoxm_gjyRak2HXpdBuuc2-Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjQ5/Ni0xMjE5MTA0NTU4/LmpwZWc.jpeg" alt="Cover for Demon Kiss" style="max-width:120px; height:auto;" />
       </td>
@@ -685,11 +668,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>11</td>
       <td>
       </td>
       <td>2004-05-24</td>
@@ -709,7 +693,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>41</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -724,12 +708,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10792ae79a165185814f5c84c726b84.png" alt="Cover for Wrack and Ruin" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +733,26 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eb7a739d5a6422dc294c3bc1bee35f1.png" alt="Cover for Sacred Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03</td>
+      <td>Dawn of Ashes</td>
+      <td>Sacred Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
       </td>
       <td>2005-04-25</td>
@@ -768,8 +771,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ea016f1d3904b4a9ef76210852ac9c0.png" alt="Cover for Soilbleed Redux" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-25</td>
       <td>Grendel</td>
@@ -783,7 +787,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 45</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 73</li>
@@ -791,7 +795,26 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c1ba45b76cda76b75581defb6654a4.png" alt="Cover for INRI" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-26</td>
+      <td>Psyclon Nine</td>
+      <td>INRI</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
       </td>
       <td>2005-06-06</td>
@@ -809,7 +832,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>30</td>
       <td>
       </td>
       <td>2005-08-29</td>
@@ -832,7 +855,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17d11e28538d1992930670beecc7dae.png" alt="Cover for Viscera" style="max-width:120px; height:auto;" />
       </td>
@@ -853,9 +876,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/t70xcTvZ4ne2Z9SWeuNtK2X3t-MpSVXTuDFfSQXC6Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTM0/My0xNTcwMzU1MDk4/LTMwMTQuanBlZw.jpeg" alt="Cover for From Abuse To Apostasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18b859585eed4a82ae176647246d34ce.png" alt="Cover for From Abuse To Apostasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-03</td>
       <td>Amduscia</td>
@@ -875,8 +898,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/605f41d301b13c614a843f6b175823a4.png" alt="Cover for Drawn And Quartered" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-21</td>
       <td>Life Cried</td>
@@ -892,31 +916,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>94</td>
       <td>
-      </td>
-      <td>2006-04-28</td>
-      <td>Tactical Sekt</td>
-      <td>Syncope</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 6</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29e55023e3a5f8c8247f6082f052bb2.png" alt="Cover for Social Phobia" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-28</td>
       <td>Dioxyde</td>
@@ -935,28 +937,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb11d6f517484d088bbbca1e703ac6dd.png" alt="Cover for Back From the Dead" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-05-05</td>
-      <td>Zombie Girl</td>
-      <td>Back From the Dead</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>82</td>
       <td>
       </td>
       <td>2006-06-06</td>
@@ -975,9 +956,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/dVgHqfQPIAfm5lNB5UypcFr0k9o1KXJ9lV8-e7Saggg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTc0/NC0xNTM2MTE5MDQ3/LTY5MTUuanBlZw.jpeg" alt="Cover for To Be Fed Upon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18ba1da36e0439ca0c79fa6435c7e6e.png" alt="Cover for To Be Fed Upon" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-16</td>
       <td>Die Sektor</td>
@@ -993,9 +974,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>90</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4960fa79a5a8ccf8b208635133de342e.png" alt="Cover for In the Acts of Violence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acfed63f6458df2fa30964165cedbaf8.png" alt="Cover for In the Acts of Violence" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-15</td>
       <td>Dawn of Ashes</td>
@@ -1013,24 +994,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td>2006-09-26</td>
-      <td>Velvet Acid Christ</td>
-      <td>Lust For Blood</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
       </td>
       <td>2006-10-13</td>
@@ -1047,18 +1011,15 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7050d9eb21a749a6915d8da780a70d5b.png" alt="Cover for Crwn Thy Frnicatr" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-23</td>
       <td>Psyclon Nine</td>
       <td>Crwn Thy Frnicatr</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
         </ul>
       </td>
       <td>
@@ -1070,7 +1031,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/c_vYhKTN2QNDztgw3juVrJKPqsSawQzPkeHMDNhi1KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjQ5/OS0xMTYyNzYxOTI2/LmpwZWc.jpeg" alt="Cover for Corpus Technological" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,13 +1045,13 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 13</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 14</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e0cccda178f4bf0aa5be4e0f3e6c5b8.png" alt="Cover for Evil Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1108,7 +1069,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b76fc9a5782e4b0482266b55e80f38b7.png" alt="Cover for Kadavergehorsam" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1088,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9083f09edfd4f6db5390e8d29a13425.png" alt="Cover for Urban Audio Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,8 +1107,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b985a585f26e9013307fc74e31eb32ee.png" alt="Cover for Front Line Reports" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Yade</td>
@@ -1163,7 +1125,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>32</td>
       <td>
       </td>
       <td>2007-03-24</td>
@@ -1181,7 +1143,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/1V8wzR-IookKzNTy3cYIzgGor6bO9MReoAv1AEQKCn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzk2/My0xMzAzMzI1Njcx/LmpwZWc.jpeg" alt="Cover for Let&#39;s Go Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,9 +1163,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/3QEzvC0gGc17OgmfYUdgzBcf3s8j-PSuSaVay4ZFQkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMz/NTctMTE4Mjg5NjAx/Ny5qcGVn.jpeg" alt="Cover for Light Extinguished" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cfc9afe78ae65213a65b3470f7f1fc7.png" alt="Cover for Light Extinguished" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-25</td>
       <td>Xentrifuge</td>
@@ -1222,7 +1184,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>27</td>
       <td>
       </td>
       <td>2007-09-14</td>
@@ -1240,7 +1202,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>18</td>
       <td>
       </td>
       <td>2007-09-28</td>
@@ -1260,7 +1222,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007-10-07</td>
@@ -1284,26 +1246,26 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6658821e4aa1c439980b10ac5f896a.png" alt="Cover for The Crypt Injection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a542a5444bba433bae82e7366200f9a0.png" alt="Cover for Leben geben Leben nehmen" style="max-width:120px; height:auto;" />
       </td>
-      <td>2007-10-25</td>
-      <td>Dawn of Ashes</td>
-      <td>The Crypt Injection</td>
+      <td>2007-10-19</td>
+      <td>Heimataerde</td>
+      <td>Leben geben Leben nehmen</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4fbbed930a430cacbb97b266bd37e0.png" alt="Cover for The Grey Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,9 +1283,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/TALlNCZ0o3W3apdRWFqwdmzgVxJI3-QBMFbq51TWgRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE4/MzgtMTQ5MzEyMzk1/NS00NDg4LmpwZWc.jpeg" alt="Cover for Thorns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81ed216a8c79791f5711bc4d1046d190.png" alt="Cover for Thorns" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-25</td>
       <td>Nurzery [Rhymes]</td>
@@ -1340,7 +1302,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>67</td>
       <td>
       </td>
       <td>2008-01-31</td>
@@ -1358,8 +1320,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9025478c5822d8ddd46b0de89ea9fbf4.png" alt="Cover for Memorias Atras" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-29</td>
       <td>Hocico</td>
@@ -1376,7 +1339,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9213952ff5953fb033fd500e30baf81.png" alt="Cover for Memorias atrás" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1358,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>42</td>
       <td>
       </td>
       <td>2008-04-11</td>
@@ -1414,9 +1377,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/MAkhLcC0wsVSgR2KcCNLGMgD4YSuDzGs3B3ABqp93FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA4/MTAtMTU0OTExMDA1/Ni03ODQzLmpwZWc.jpeg" alt="Cover for Vast Abysm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd17e3640749cf84c1df597c0f0af50.png" alt="Cover for Vast Abysm" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-25</td>
       <td>X-Fusion</td>
@@ -1435,8 +1398,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c076c3617a0426b34b7db9ef1d4b28.png" alt="Cover for Katharsis" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-19</td>
       <td>Nachtmahr</td>
@@ -1458,17 +1422,15 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/hmrow2vMYseyiqiumoaDMOLRI8lY93k2SwMVY4sdUvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg2/NDctMTIyMjAxNDQ1/OC5wbmc.jpeg" alt="Cover for A Violent Emotion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3431e066b5ad5f831752c0d48b3973.png" alt="Cover for A Violent Emotion" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Aesthetic Perfection</td>
       <td>A Violent Emotion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
         </ul>
       </td>
       <td>
@@ -1478,7 +1440,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c00757273530e8993b05ef4b83a4b9b.png" alt="Cover for The silence Procession" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1460,31 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a9bc19b409d4d4ba2ff017f179404d6.png" alt="Cover for Terre Humaine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Detroit Diesel</td>
+      <td>Terre Humaine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
       </td>
       <td>2009-01-27</td>
@@ -1515,12 +1501,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
             <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 21</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 38</li>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2c2606b5c9b48b49bb5d1568649a4ce.png" alt="Cover for Atheos" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1533,25 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b01cf0062d83a5b18141cb799ebd6302.png" alt="Cover for Love Is the Devil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-26</td>
+      <td>Third Realm</td>
+      <td>Love Is the Devil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a17f1984c7a4613a69ae2350cfd3b17.png" alt="Cover for Roter Stern" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,8 +1573,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd270af6974841f2bc0b1db3ff0a569a.png" alt="Cover for Die Motherfucker Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-22</td>
       <td>Suicide Commando</td>
@@ -1587,13 +1592,14 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       <td>
         <ul>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 28</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cebd7a02034abfa16efb3f5b91b0d0aa.png" alt="Cover for Noise Diary" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-25</td>
       <td>Rabia Sorda</td>
@@ -1609,31 +1615,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       <td>
         <ul>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 29</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 82</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb2c699d959118dbaacf9eb20b4fa59.png" alt="Cover for Ultima Ratio" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-25</td>
-      <td>X-Fusion</td>
-      <td>Ultima Ratio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc94a6aae7c4403bc0d5531c01bee243.png" alt="Cover for The Art Of Breaking Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1637,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>63</td>
       <td>
       </td>
       <td>2009-11-27</td>
@@ -1669,9 +1656,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/66mxhvDjtR1dpjNFoWmBGaN1vbJzvOug-FH3rMwWNfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM0/NjEtMTI4NjAzMzAx/NS5qcGVn.jpeg" alt="Cover for El Dia De La Ira" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e70333064264865a3ae06b9354cf597.png" alt="Cover for El Dia De La Ira" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Hocico</td>
@@ -1689,8 +1676,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a996c7db04754412953d2f9c8d932677.png" alt="Cover for Eight Thousand Square Feet" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>ESC</td>
@@ -1707,27 +1695,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc8f5a76c2ba8db98edda31dd3694eba.png" alt="Cover for Moving On" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-02-18</td>
-      <td>Unter Null</td>
-      <td>Moving On</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/2PvO4Thq3n1Z4Yd2Nwjjuyv8WnS8PaAOrfx6cUGIXzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzA2/MDUtMTI4MDA4OTU4/NS5qcGVn.jpeg" alt="Cover for Continuum Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,7 +1715,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/66mxhvDjtR1dpjNFoWmBGaN1vbJzvOug-FH3rMwWNfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM0/NjEtMTI4NjAzMzAx/NS5qcGVn.jpeg" alt="Cover for Tiempos de Furia" style="max-width:120px; height:auto;" />
       </td>
@@ -1767,28 +1735,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>26</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0340dd8b88fb4661ad744027cd377e87.png" alt="Cover for Harshlizer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-10-03</td>
-      <td>Alien Vampires</td>
-      <td>Harshlizer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d372cf992fb4a4981e2e5bf2edf2dfd.png" alt="Cover for A Flicker Of Hope" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-26</td>
       <td>Wynardtage</td>
@@ -1805,8 +1754,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e710d17bb740f1a075be140e18125c.png" alt="Cover for Swallowing the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-25</td>
       <td>Distorted Memory</td>
@@ -1825,7 +1775,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>48</td>
       <td>
       </td>
       <td>2011-04-01</td>
@@ -1846,7 +1796,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/RZsaqeNhJ58yox_IE0wmgfCDgoJQhPwl1flxrkgRv2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjUy/NDEtMTM1MDc1NzYy/MC0xNDk1LmpwZWc.jpeg" alt="Cover for Vile Whispers" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1814,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -1880,14 +1830,33 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/Bx3fem5jVSL2kySu7F9unqTLi_uxLJtS1TZ0Esve3XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDUy/MDMtMTM0MTA3NjI5/NS0zNzM1LmpwZWc.jpeg" alt="Cover for Homeland Insecurity" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/DHAnVSP7bKtKG1ezWqGbItyYPBfzvODH2Dk0R_A0gyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/MjktMTIyNDM5Nzgx/OC5qcGVn.jpeg" alt="Cover for Namenlos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>L&#39;Âme Immortelle</td>
+      <td>Namenlos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/714fee1d63d342e8c2d32005a0f1075f.png" alt="Cover for Homeland Insecurity" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-01</td>
       <td>FGFC820</td>
@@ -1905,8 +1874,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d77a8a7fbba4518a2602073cf3a32e2.png" alt="Cover for Maldire" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-11</td>
       <td>Velvet Acid Christ</td>
@@ -1921,12 +1891,35 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a5479bf5834e466cc121bcc5d03fba.png" alt="Cover for Living On Video" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-18</td>
+      <td>Leæther Strip</td>
+      <td>Living On Video</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/hzvEE4JZ3umbig7Hi5KQIqMxBR9rTlcjwavnAcHnFIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzE0/ODQtMTM1OTIxODc0/OS0yNjI1LnBuZw.jpeg" alt="Cover for Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1938,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9Js_gMpC97bagZ3VU1LSM7GfJT9dv0C7giwGKluXEtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM0/NjYtMTM4Njc5MTQz/Ni0zODE1LmpwZWc.jpeg" alt="Cover for See You In Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,7 +1958,7 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2ffc1263d5e994a3e581d4bd2857624.png" alt="Cover for A Collection of Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,12 +1977,12 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Af0c9W0ALPjY1EsVn9hGwCMnBxl0dKwFWOIsMknHpYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTky/MDU1LTE2MDUwMjE1/OTUtNTU4MC5qcGVn.jpeg" alt="Cover for Todo Avaricia" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,9 +2011,35 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/pu2BMbzpciYz7Ob1705hFu036he5lTpNrBvIemEPpQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/OS0xMjM3NTUzODkw/LmpwZWc.jpeg" alt="Cover for Aqui Y Ahora En El Silencio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db57245889a2c8dc50917c08a2b5548d.png" alt="Cover for Icon of the Adversary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-24</td>
+      <td>Psyclon Nine</td>
+      <td>Icon of the Adversary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 70</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9e48ea977a7caf9a31e43d1f83d98f8.png" alt="Cover for Aqui Y Ahora En El Silencio" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-04</td>
       <td>Hocico</td>
@@ -2037,9 +2056,9 @@ Dark electro is an aggressive electronic music genre that emerged from EBM and i
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/4qQXOrWOy6iguW3zp23YpNRYS0SJDonGeINwZQQG8RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcz/NDQ5LTE2MTc2ODgz/MzgtOTE3Mi5qcGVn.jpeg" alt="Cover for Artificial 2.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73bdb7a4a9419bc009c9e15342225fa2.png" alt="Cover for Artificial 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-06</td>
       <td>God Module</td>

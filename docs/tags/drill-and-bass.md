@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:55:32.706Z
+date: 2025-11-26T02:44:13.825Z
 permalink: tags/drill-and-bass
 title: drill and bass
 ---
 
 ## drill and bass
 
-Last updated: <time datetime="2025-11-15T01:55:32.706Z">Sat Nov 15 2025 03:55:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:44:13.825Z">Wed Nov 26 2025 04:44:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/zPWCh1YCecnCwYbq0gaio8CXoh9-9mXjgetYRMB4fco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTM1/MDMtMTU1MjM1NDIy/Ni0yNzMxLmpwZWc.jpeg" alt="Cover for Baslik Orn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2b213679fcbe2dfb0773d769a34e9b.png" alt="Cover for Baslik Orn" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Angel panic</td>
@@ -48,7 +48,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for OXO:001" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a2bf2228898dc2ec08b010157be226b.png" alt="Cover for The Destroyer" style="max-width:120px; height:auto;" />
       </td>
@@ -86,35 +86,16 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 25</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 44</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/cbs5N6kACk1l0Qh_6yYkR9J-1NHPN7W9HP2EALZ5l7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTA4/MTQtMTQwODI0NDEz/Mi03NDYwLmpwZWc.jpeg" alt="Cover for Stereotype E.P." style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-09-00</td>
-      <td>Tom Jenkinson</td>
-      <td>Stereotype E.P.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/T1CeRKJyPOY5-oSU06BJqf8firUU_lLJWFK8jf9Qw4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY2/ODMtMTI2MTM0MDIw/Ny5qcGVn.jpeg" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6aa658906e01e1602d7336265b69d6.png" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eggplant</td>
@@ -161,14 +142,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 29</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 32</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa898dea74448e69336ed3520f551fb.png" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
       </td>
@@ -218,16 +199,17 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/jueANmPiCF9Zf2tSbQEO5wxphwOYP7sddeiy4a8VP6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU3/LTE2Mzk4NzkzNDUt/NDI2NS5qcGVn.jpeg" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88207c0b19d84d77936a25765c75cf9e.png" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-10</td>
       <td>Richard Devine</td>
@@ -275,14 +257,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 42</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 48</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b57592cead7f5d1610b69f12c2cee1d.png" alt="Cover for Feed Me Weird Things" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +274,6 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -301,7 +282,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/789c6bd88087cd48c954f2d213b34a25.png" alt="Cover for Girl&#x2F;Boy EP" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +296,6 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -333,12 +313,12 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 78</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4a2a8aed1b1d994821a758675b0b5f0.png" alt="Cover for Hard Normal Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +335,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1d9efb1afc87919025c8b82e432c2f0.png" alt="Cover for Lunatic Harness" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +353,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0fa6274d724b6993752e98c20a05d3.png" alt="Cover for Big Loada" style="max-width:120px; height:auto;" />
       </td>
@@ -382,19 +362,17 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>Big Loada</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 14</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 28</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78651fa46c964b57d2a572c6452f03fc.png" alt="Cover for Come to Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -409,13 +387,13 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 15</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>1998</td>
@@ -465,16 +443,16 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 77</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 79</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ad617e90a2a5a024737fa436ad6c402.png" alt="Cover for Permutation" style="max-width:120px; height:auto;" />
       </td>
@@ -492,8 +470,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4536b7bc002dea904565e7c437e6153.png" alt="Cover for Trigun: The First Donuts" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-06-24</td>
       <td>今堀恒雄</td>
@@ -513,7 +492,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/49oPrhkmi6HBElguCxU2vgJCGMiIDapUmLy12urZaMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzk2/MDktMTQwNTI0OTU0/MC01OTQ0LmpwZWc.jpeg" alt="Cover for Flyin Lo-Fi" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +510,24 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34fdc7606704185a95f53d3c7cb2e2f0.png" alt="Cover for Samurai Math Beats" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-05-01</td>
+      <td>Bogdan Raczynski</td>
+      <td>Samurai Math Beats</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4d58e1cf4154b61d096c4386c98037.png" alt="Cover for Go Plastic" style="max-width:120px; height:auto;" />
       </td>
@@ -545,15 +541,15 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 80</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 82</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/-16Vk9hcaZ3tyquCvML7VKXTAV7rsgYb-7zdNZGtj1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA1/ODYtMTQyMzI1MTE4/Ny02ODQ2LmpwZWc.jpeg" alt="Cover for 2 Remixes By AFX" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1acb8d5dd64de5e3d5a4cfd6ab00d20c.png" alt="Cover for 2 Remixes By AFX" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-30</td>
       <td>AFX</td>
@@ -575,9 +571,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c5853ff38e027843b907a821257534e.png" alt="Cover for Drukqs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2fe39170f7a98ebcbdb294201149651.png" alt="Cover for Drukqs" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-08</td>
       <td>Aphex Twin</td>
@@ -595,7 +591,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43050192a7c3460e80360728b99e9829.png" alt="Cover for Doll Doll Doll" style="max-width:120px; height:auto;" />
       </td>
@@ -609,14 +605,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 46</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/WyynBzt-GbCRHY5YiXAJu-d9T0DddxP0PklYfoVNqiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgy/MTMtMTMxMTQ3Nzg5/MC5wbmc.jpeg" alt="Cover for Beat Shyfter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/496381177e7516cbf2e9e988444c6509.png" alt="Cover for Beat Shyfter" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-23</td>
       <td>Shyft</td>
@@ -654,9 +650,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/yOcd88CJd3Sis6Hpx69KLon2v5UjQd12Ek5AA5VkzDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/OTktMTMxMTQ3NzAz/Mi5qcGVn.jpeg" alt="Cover for Drudge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/522475a5aaf6556fb7aee76c2129ea1c.png" alt="Cover for Drudge" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-23</td>
       <td>Shyft</td>
@@ -686,7 +682,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f7c823d9144e5274526fcb41a096946.png" alt="Cover for liminal space" style="max-width:120px; height:auto;" />
       </td>
@@ -700,14 +696,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 37</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/xpwXdXX6lCB7aj_Xehur8zHNndFmJ1o6cvK9DpqzpUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgx/MS0xMTY4Mzg0MDM2/LmpwZWc.jpeg" alt="Cover for Xpom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b3d1c22345bde68fc283dd5d85ac0d.png" alt="Cover for Xpom" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-03</td>
       <td>Mendelayev</td>
@@ -725,7 +721,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/emg8JlXDxn9gqygmSUt2xDswF99Ty-3fYvSg1gqn9oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjUz/OS0xMTE2MDE2MjQ1/LmpwZw.jpeg" alt="Cover for every picture tells a lie" style="max-width:120px; height:auto;" />
       </td>
@@ -761,7 +757,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/_mYMN25GuOP-CQTgowIeKg5xpiAKNxjn8NVxIp_BfV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA0/NS0xMzMzNzM1NDMw/LmpwZWc.jpeg" alt="Cover for The Sounds of Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +780,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2004-04-15</td>
@@ -811,7 +807,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/VPr6vlYD__zfL_nMDsw_iqO4pNU0wO9IjLp_hh4i4Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgz/OC0xMDk4MTE3NTE2/LmpwZw.jpeg" alt="Cover for Taking Things Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -831,9 +827,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/1iUybH7v3ZWdAXWTQEE63FMvhq_mzOOB9TZFDtjGzXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODkz/NTMtMTM3MjMyNjE0/OS00MDg4LmpwZWc.jpeg" alt="Cover for 7sevens.med" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312a1b22baa8d4eb752c8b65ac27fdd6.png" alt="Cover for 7sevens.med" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-15</td>
       <td>Venetian Snares</td>
@@ -851,32 +847,13 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/qIxn05WdlPIHE2e76TXsfNitgd6OhRtcdF5aR2tPuvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODAy/NC0xMzE1MzE0Mzc3/LmpwZWc.jpeg" alt="Cover for Rossz Csillag Alatt Szueletet" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-14</td>
       <td>Venetian Snares</td>
       <td>Rossz Csillag Alatt Szueletet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/qIxn05WdlPIHE2e76TXsfNitgd6OhRtcdF5aR2tPuvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODAy/NC0xMzE1MzE0Mzc3/LmpwZWc.jpeg" alt="Cover for Rossz Csillag Allat Született" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-03-14</td>
-      <td>Venetian Snares</td>
-      <td>Rossz Csillag Allat Született</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
@@ -891,11 +868,11 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
     <tr>
       <td>77</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9be95745f84725add703ee64c0c9b7.png" alt="Cover for Rossz csillag alatt született" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/qIxn05WdlPIHE2e76TXsfNitgd6OhRtcdF5aR2tPuvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODAy/NC0xMzE1MzE0Mzc3/LmpwZWc.jpeg" alt="Cover for Rossz Csillag Allat Született" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-14</td>
       <td>Venetian Snares</td>
-      <td>Rossz csillag alatt született</td>
+      <td>Rossz Csillag Allat Született</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
@@ -908,7 +885,44 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9be95745f84725add703ee64c0c9b7.png" alt="Cover for Rossz csillag alatt született" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-14</td>
+      <td>Venetian Snares</td>
+      <td>Rossz csillag alatt született</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd08f38f300c0a979442de44260a11c.png" alt="Cover for Untilted" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-09</td>
+      <td>Autechre</td>
+      <td>Untilted</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td>2005-04-29</td>
@@ -925,7 +939,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/Td9jVHMx2MREhVzvAdksLKJdweam2Gi4poJByadNuZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQx/MzAtMTI2Njk0MDQ3/MS5qcGVn.jpeg" alt="Cover for Winter and spring" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +964,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/CakddizvLHKbbzAmHe7EWOWViJwaTMHoYABEqjzdEmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODgz/OC0xMTE5NjM3NTQ1/LmpwZw.jpeg" alt="Cover for At Home And Unaffected" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +985,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/0mO8c-Tn_9TLi1e5GWFbPGkoCO2_sLRdKb50fOdpMAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njg2/ODktMTQ0MjA5MTg5/MC05NTcyLmpwZWc.jpeg" alt="Cover for Candy Marx" style="max-width:120px; height:auto;" />
       </td>
@@ -997,9 +1011,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/GgpscsxKPNKOvm90qhg_JS2DxRvxHQDsbu6LaUsHIHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/NzQtMTM1OTgyODk0/My0xNzIwLnBuZw.jpeg" alt="Cover for Her Dark Square" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d52fed169d7d4092c05cf48136c85c91.png" alt="Cover for Her Dark Square" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-21</td>
       <td>Shyft</td>
@@ -1020,7 +1034,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/646ee6b1f5a6ff123214ef8e701f3b0f.png" alt="Cover for Hello Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1052,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/sBQtqmLF_n-fAMUfFhY6xb9rYFIwMNoPHueIhOSQ6nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTU1/NC0xMTYzMjc2MTYw/LmpwZWc.jpeg" alt="Cover for Zero Data Index" style="max-width:120px; height:auto;" />
       </td>
@@ -1091,13 +1105,13 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 28</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 29</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee9c759891ec93606f79b6a8056e8f1b.png" alt="Cover for My Downfall (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1111,15 +1125,15 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 11</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 64</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 10</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/ugLKh1UhFaIuZNjk7QXDhuHYrtdAQCPf4hpvnu95iZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/NjAtMTUyMjIzODAx/OS05OTA5LmpwZWc.jpeg" alt="Cover for deadmau5 circa 1998-2002" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32377718eed4418394510c266af47628.png" alt="Cover for deadmau5 circa 1998-2002" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12</td>
       <td>deadmau5</td>
@@ -1143,29 +1157,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/vydh6w1EPRrHc2Pz8Wb8w8qG2Ra5GCWBQ_z_Mi3rAEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjEy/NDI1LTE2MzQ0MDEx/ODMtMjEyMy5qcGVn.jpeg" alt="Cover for Mesh Gear Fox" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Mesh Gear Fox</td>
-      <td>Mesh Gear Fox</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a573c4c0a7eb4563aacfdb2077bcd991.png" alt="Cover for Oh Fuck! (Another Shitty Internet Compilation)" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,9 +1178,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Y05918f1_4Ek4p19O_ko_9U_txkWyl9bMc7li7y3avE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTMx/NTctMTI0MzcwMDM5/OC5qcGVn.jpeg" alt="Cover for Insect Drips" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bf2a6d871cd8d0dc3b030feea5506e0.png" alt="Cover for Insect Drips" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Goatsniffer</td>
@@ -1220,7 +1212,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7820e5c9f184b34c4759132278da6f1.png" alt="Cover for Melodies Fork Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1238,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/O9cr1JzP56m6M4BZqlzexhXjIiAFB8SdxAh-K-yUa7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg3/MDMtMTI1MTczMjIx/MS5qcGVn.jpeg" alt="Cover for CF024 - Veqtor - Retrospective EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,7 +1263,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9771a3a03e6089e131c8f7d3a11f2b78.png" alt="Cover for Les chants de la solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1286,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/31Rkw8XodFef-LXILrltpJzIAwf3sc4zZ01Edg3cUaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTkw/OTAtMTM1MTg2OTY5/NS00MDQ0LmpwZWc.jpeg" alt="Cover for Till Death Do Us Part" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,9 +1305,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/KtJN2b4NYpQJidRdLUmyv0jO_uncoW38E7Fxo28p97g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/MTctMTMxMTQ2ODI0/NS5wbmc.jpeg" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d2c8cec19f24d00cdf1abbb258525f5.png" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Shyft</td>
@@ -1344,7 +1336,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/6D9kgz4VP4dAxGQFUj89LDzvUsS5X4XXg3ogWe8F_aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYy/OTEtMTI3NDUyNzQy/OS5qcGVn.jpeg" alt="Cover for Fragments &#x2F; Nanotechnology" style="max-width:120px; height:auto;" />
       </td>
@@ -1366,7 +1358,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dae69b2814cb4a798fa1232f74756ee2.png" alt="Cover for The Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,8 +1381,8 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 56</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 96</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1416,9 +1408,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/yBE_HC3DTlVLIsIh5zNringyI97vLsOyloCotvZLt-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDg5/MTktMTMzNDg0ODIy/MC5qcGVn.jpeg" alt="Cover for Everyone Can Beat a Deadhorse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5ff7d8ae554dda8ca7e5677968d63a.png" alt="Cover for Everyone Can Beat a Deadhorse" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-21</td>
       <td>Sonic DeadHorse</td>
@@ -1437,7 +1429,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c86fd0c795bc4d3aab0c2f9dab5975b.png" alt="Cover for RANDOM" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1463,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b87a8088d6095ea20046e24f758b0ae.png" alt="Cover for Jonas The Plugexpert Remixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,9 +1492,27 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/Zq0-wXjRi-IcHuCFg4umqkUWe3UHDR7GqXTidF9vprs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ4/MDA1LTE1MTI2ODQ2/MDQtNzQ1NC5wbmc.jpeg" alt="Cover for misdirection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f44aa7cd59a34c70978079ed57e941a5.png" alt="Cover for Ufabulum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-02</td>
+      <td>Squarepusher</td>
+      <td>Ufabulum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bf2802c2a7943162c0113ea7f4f03ef.png" alt="Cover for misdirection" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-01</td>
       <td>goreshit</td>
@@ -1520,7 +1530,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b04f47d0ffd2468ab50a01a3cae2cf4b.png" alt="Cover for Redhead Bastard" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,9 +1553,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/ae9eGd235PbIfwUXHAPbRkD_VHXntF_klCP-qn6TXW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDIw/NzgtMTQwOTU4MDU1/Ny0yMjE4LmpwZWc.jpeg" alt="Cover for fake fur seeds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d44ea3856c784763c70882c6b08a2a37.png" alt="Cover for fake fur seeds" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-13</td>
       <td>umio</td>
@@ -1563,9 +1573,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ba9499ca1506f4e112524e822fa4193.png" alt="Cover for Syro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7376eadf2b24024a5ae54e8134b02a3.png" alt="Cover for Syro" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-19</td>
       <td>Aphex Twin</td>
@@ -1577,7 +1587,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 84</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 85</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 97</li>
         </ul>
       </td>
@@ -1597,7 +1607,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 30</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1623,17 +1633,17 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 24</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/pQyCtZCE5MWCU37V96UaAHq_M7WH61keUnFXSwLs_c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDA0/ODktMTQ2NTcyMjk4/MC04MjU2LmpwZWc.jpeg" alt="Cover for Mechanic Paradox" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/162e4c6321f02c381c7d0979181b1c4c.png" alt="Cover for Mechanic Paradox" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-18</td>
       <td>M.E.R.S</td>
@@ -1670,9 +1680,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/l-9klDvZfi3DDtZrB8SPtZQh_3fCjdjhpaT2aJcWERw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzY2/MTQ4LTE2Mzk2MTE1/NTUtNTExOC5qcGVn.jpeg" alt="Cover for chelm_sfrd;[acid]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c6847a2b2736fc1576932782094316.png" alt="Cover for chelm_sfrd;[acid]" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-05</td>
       <td>Wizard Glue</td>
@@ -1691,7 +1701,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/QNBuHg7nUGBVj8gMKW4BYFxFcmueFz7GZ10ZzSFf7-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDEy/NzMtMTQ3NTQ5MDYw/NC05OTg1LmpwZWc.jpeg" alt="Cover for Ralph" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,9 +1719,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/k_5T-Mk1dv_yy4ksA6RJJy0O2T2eiFZlY_KmHYrHvIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDQ3/NTctMTM3ODQyMzgw/My00MDEyLmpwZWc.jpeg" alt="Cover for Hard Classiks, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/513388bc0bf3d3c205e352d5c7e64c61.png" alt="Cover for Hard Classiks, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-07</td>
       <td>Nmesh</td>
@@ -1726,7 +1736,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/DjxDlJ9YaiAxeBrpyx0EUnJOWBC4G6uiX7s3miuKHxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU5/MTI1LTE0OTQyNTM2/NzItOTE0MC5qcGVn.jpeg" alt="Cover for Drown" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,7 +1759,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/gFKdgmVaaBKPEyxw0V6rrLGqjXjrAoGi-t87NpHw6oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDMy/NDIxLTE0OTczMDky/NDAtNzE0OC5qcGVn.jpeg" alt="Cover for Ambivalence." style="max-width:120px; height:auto;" />
       </td>
@@ -1783,9 +1793,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 15</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 16</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 77</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1807,7 +1817,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/121e055f99ab83f422bb96d9433cc8a3.png" alt="Cover for Collapse EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,14 +1827,13 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 60</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1847,9 +1856,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/lVfVIS8pI7x7Z71saT934hROIF5OlBx5Myt-9_j2JZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUy/NTE4LTE1OTg5ODM1/NDgtNTEyNy5qcGVn.jpeg" alt="Cover for puppeteer my corpse at the renegade please" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68e9aa370af5dd970ac48b54e0181dd.png" alt="Cover for puppeteer my corpse at the renegade please" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>gupi</td>
@@ -1866,7 +1875,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ayIjnFj9qCmTOXGSGb805LqtFwrUgNeaRx3869fhNBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTky/NzQ5LTE1ODUyMzA1/MDYtMjkxMS5qcGVn.jpeg" alt="Cover for God Break Down the Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1900,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5fbscvcMCqV6seLyjsa_5w4rr1hR4ANFNR71kksmiqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAx/ODMyLTE1ODY3MDEz/MzQtNjA3OS5wbmc.jpeg" alt="Cover for Cophee" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1921,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92a5920b70cdb202a78236f158fc11d0.png" alt="Cover for 7G" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,37 +1936,15 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 26</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 36</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/CvPxX8YbgeWMfmVtez-zy4-KN1PzNrN1LKwV6mR1hqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODMx/MTU5LTE2Mjg3Mzg4/ODMtMTk5NS5qcGVn.jpeg" alt="Cover for GCVBNMK&lt;NBHVYGTCHBKN? YHSVVH" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-03-01</td>
-      <td>Girl Animusica</td>
-      <td>GCVBNMK&lt;NBHVYGTCHBKN? YHSVVH</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/WuIOWbXUT7ZMfvgJ-8LUhVEGFboDCsVW4kY9tF60Q0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/MzI3LTE2MjI2NjEz/MzItMzU0My5wbmc.jpeg" alt="Cover for Butterfly Tetrad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7529834d8c17c6016acb614f5ac3ae9.png" alt="Cover for Butterfly Tetrad" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-02</td>
       <td>DOWNHILL2k01</td>
@@ -1972,14 +1959,15 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/J5EO75T98Fd7riodLm6jtJ_H6Rdca0r7nYG64fDrXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTI4/NjAtMTM1NDI0NzA1/Ni00NDUwLmpwZWc.jpeg" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d633f51991e4e57a2195196c2d850a6.png" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Richard Devine</td>
@@ -2027,14 +2015,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 31</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 34</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d43315337307845cd3a4df38cdd678.png" alt="Cover for Feed Me Weird Things (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -2052,7 +2040,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/fjwYq0i7Dt47yzNCXALbwyl4g8m_vjVZgp2gb5JvGHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA2/ODM1LTE3MTMyMDEw/NjItNjI5Ni5qcGVn.jpeg" alt="Cover for Some More Files" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,7 +2060,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fa308f26b74f0db7b90e2b437c1ae3.png" alt="Cover for ㅏㅔㅜ" style="max-width:120px; height:auto;" />
       </td>
@@ -2093,7 +2081,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/590bbf93c9423ac4e44b597919f14d29.png" alt="Cover for paper eater" style="max-width:120px; height:auto;" />
       </td>
@@ -2111,7 +2099,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/xSXYua_4v-Pwq1jzNVQMDT3gxlBUy_zc_kIvRSV1TiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg2/ODg4LTE2NTk1Mjkx/MTQtMTU4Ni5qcGVn.jpeg" alt="Cover for accept the emptiness within yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -2129,7 +2117,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae2fa587d4a28d392cfe9243963a03c.png" alt="Cover for arbol." style="max-width:120px; height:auto;" />
       </td>
@@ -2149,14 +2137,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/dVt-0bSClWqPW4CWGSoMKevsXFXnqLW_-ZfC4AYb8LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYx/NTMyLTE2NjQ0MDc1/NjYtNDE1Ni5qcGVn.jpeg" alt="Cover for Eye Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfe12ebf8be1f4b70f9f0d06eb95abf2.png" alt="Cover for Eye Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>Mild Sorrow Integrated</td>
@@ -2176,9 +2164,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/dVt-0bSClWqPW4CWGSoMKevsXFXnqLW_-ZfC4AYb8LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYx/NTMyLTE2NjQ0MDc1/NjYtNDE1Ni5qcGVn.jpeg" alt="Cover for Eye Kid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff4a61adce9303e6af6e4123611f262c.png" alt="Cover for Eye Kid" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>Mild Sorrow Integrated</td>
@@ -2201,7 +2189,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/3JfysCYLCr1ryDZvQT9CoUjH4RvpIa83GQTFxTRE99Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIx/NTIxLTE2NzMzMzM5/NDctNzA0Ny5qcGVn.jpeg" alt="Cover for 3 3 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5477fc9a6cbbd3bb11b63db38fe044ed.png" alt="Cover for 3 3 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Sigmatus</td>
@@ -2220,9 +2208,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/CrYUxskpcLx1S_LL4ZlhcbIME4XrPC_A_Z2X1xkCpoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTYz/MDE2LTE2ODgzNTA0/MDMtODEwNC5qcGVn.jpeg" alt="Cover for you in amethyst spheres" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c7866e1b5e3a6db0c35c971d89a02d9.png" alt="Cover for you in amethyst spheres" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-02</td>
       <td>apollo bitrate</td>
@@ -2239,7 +2227,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/72897258fdbfcaa4ff5b84ce0d004607.png" alt="Cover for Tidal Memory Exo" style="max-width:120px; height:auto;" />
       </td>
@@ -2249,20 +2237,19 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e08ac0b55dfeabdac807ee14e3c0708d.png" alt="Cover for el ángulo de separación" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pulsos</td>
@@ -2282,13 +2269,14 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 22</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf07d3dc6ce1b313b28ee9a48d4215d1.png" alt="Cover for Smile (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Isoproflex</td>
@@ -2308,7 +2296,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2331,7 +2319,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/826580e817241779dba15de91a805415.png" alt="Cover for Visitors" style="max-width:120px; height:auto;" />
       </td>
@@ -2360,7 +2348,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2377,7 +2365,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -2394,8 +2382,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee0ebe070b96b1b028fa6623c44692e.png" alt="Cover for その話にはまだ続きがあって" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>不覚にもムエタイ</td>

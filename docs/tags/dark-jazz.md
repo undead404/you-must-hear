@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:02:02.061Z
+date: 2025-11-26T02:45:36.181Z
 permalink: tags/dark-jazz
 title: dark jazz
 ---
 
 ## dark jazz
 
-Last updated: <time datetime="2025-10-28T06:02:02.061Z">Tue Oct 28 2025 08:02:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:45:36.181Z">Wed Nov 26 2025 04:45:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,34 +29,32 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
   </thead>
   <tbody>
     <tr>
-      <td>36</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e7847d57d2baeb78b0ab2d053ec0bb.png" alt="Cover for Soundtrack From Twin Peaks" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-08-31</td>
       <td>Angelo Badalamenti</td>
       <td>Soundtrack From Twin Peaks</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/jITTaFefcEE3snZPEuMS3VSgB907M7C9cWcLhNnyCic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjQ3/NDEtMTQ4NzUzNzg2/NS01MTA0LmpwZWc.jpeg" alt="Cover for Twin Peaks: Season Two Music and More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/002e29c3a3a6aa9fd0d85a5fc073b0cd.png" alt="Cover for Twin Peaks: Season Two Music and More" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Angelo Badalamenti</td>
       <td>Twin Peaks: Season Two Music and More</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
         </ul>
       </td>
       <td>
@@ -65,27 +63,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>26</td>
       <td>
-      </td>
-      <td>1992-08-10</td>
-      <td>Angelo Badalamenti</td>
-      <td>Twin Peaks: Fire Walk with Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39607fdb34e24d47cd6d0e4ee524c3cd.png" alt="Cover for Gore Motel" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -102,8 +82,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/137137c2fe3544ca89973261c6257f2f.png" alt="Cover for Midnight Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -133,12 +114,13 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 67</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/iCNA2a2y7qpbUz4HO7K3eIPm7oZOqBgKpLbvNmFiQm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzc0/LTExNjQxOTk3NTMu/anBlZw.jpeg" alt="Cover for Maander" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +157,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05fff0ec0d8786e4269f104abdd58dab.png" alt="Cover for The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -194,26 +176,24 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4896034934247629945a381ee87a02a.png" alt="Cover for Sunset Mission" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-02-25</td>
       <td>Bohren &amp; der Club of Gore</td>
       <td>Sunset Mission</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 9</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/191134283b933058f4b534c542188fc5.png" alt="Cover for The For Carnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-04</td>
       <td>The For Carnation</td>
@@ -226,7 +206,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 13</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +231,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2001-09-11</td>
@@ -269,26 +249,45 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>1</td>
       <td>
+      </td>
+      <td>2002</td>
+      <td>John Surman</td>
+      <td>Apartment # 5c</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc130dfb50c8595fab737d688e582f6.png" alt="Cover for Black Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-28</td>
       <td>Bohren &amp; der Club of Gore</td>
       <td>Black Earth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52277e1459c143e98f2ba44addf50eef.png" alt="Cover for Cicadidae" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-14</td>
       <td>Kammerflimmer Kollektief</td>
@@ -304,8 +303,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d203ed59f0812b19657ad40a8ea1b2f5.png" alt="Cover for Dead Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Microbunny</td>
@@ -342,8 +342,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f957e05c4a34429aeb51f55a564883b.png" alt="Cover for Geisterfaust" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-02</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -378,8 +379,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/607071a149cb4e91bb031d26cb6d669c.png" alt="Cover for The Kilimanjaro Darkjazz Ensemble" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-01</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
@@ -395,7 +397,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/dNheStrM9defAiPNudv5UKCYVmOkqtZR6RwBdWJGfIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk4/NTctMTIxOTY3NzMy/NC5qcGVn.jpeg" alt="Cover for Polish Night Music" style="max-width:120px; height:auto;" />
       </td>
@@ -414,9 +416,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/QPEnbzO1N1ybUVKxjQs8gt-2BTl0trdUIZJKDj58YKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY0/NDMtMTM5NDI5NDg3/Ni03NzEyLmpwZWc.jpeg" alt="Cover for Stories from Midnight Streets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bbf08e2cc0713c85833179e73b39424.png" alt="Cover for Stories from Midnight Streets" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-15</td>
       <td>Somewhere off Jazz Street</td>
@@ -429,14 +431,14 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9ed4be84d7269916834598699fcbe3.png" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-02</td>
       <td>Throbbing Gristle</td>
@@ -451,7 +453,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 82</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 83</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 93</li>
         </ul>
       </td>
@@ -459,7 +461,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/utOJGHH8n-LqGIEVK_6XaQRP2tGz1jbWWVCxKZOu4Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTcx/Ny0xMjQ4OTg2Mjkx/LmpwZWc.jpeg" alt="Cover for Jinx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1c216e627745849376f197951006fb.png" alt="Cover for Jinx" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-18</td>
       <td>Kammerflimmer Kollektief</td>
@@ -475,8 +477,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de95f0db6184d17a0922d391fa539f6.png" alt="Cover for Doomjazz Future Corpses!" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-05</td>
       <td>The Mount Fuji Doomjazz Corporation</td>
@@ -495,7 +498,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/-BRUC9NV9Qld8_8qYRSDNmycI2sb_GuXAtFbOs0HXTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA4/NDAtMTI5NjczNDg4/NC5qcGVn.jpeg" alt="Cover for Somnambulist" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +516,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/-MzCdZxL4E27VQ1fWTaalkRkSmB3FEoP5WscjBbfWUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/OTQtMTIxOTE2NDcz/MS5qcGVn.jpeg" alt="Cover for The End Of The World" style="max-width:120px; height:auto;" />
       </td>
@@ -550,8 +553,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a16f67703f243579cb6943ca42cc606.png" alt="Cover for Tchernovik" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Povarovo</td>
@@ -566,7 +570,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/BSsjrDX9hQsWb-0p6vjrqK9Icrq5Ti_ZoHOK4RnULgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTM2/ODQtMTMwMTMwMDIy/NS5qcGVn.jpeg" alt="Cover for Midnight Radio (CD 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +587,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/_1E5fiU0LcF2vOIanKITAa3dXNIdKxqUmZ4tTYn6oq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY1/NDYtMTM4ODg3MTUw/MS0yMDYxLmpwZWc.jpeg" alt="Cover for Road to Somewhere" style="max-width:120px; height:auto;" />
       </td>
@@ -599,32 +603,29 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22adfa7ecbf84f4b8bff9b37983e4a09.png" alt="Cover for Dolores" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-10</td>
       <td>Bohren &amp; der Club of Gore</td>
       <td>Dolores</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 75.9493670886076 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/hfFfQ6oNRkmxmdkhhbxQKIXCuiC_ICG9Au7IJ9FHJDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/MDYtMTI1NTU5MjYy/MS5qcGVn.jpeg" alt="Cover for Tribute to Moondog" style="max-width:120px; height:auto;" />
       </td>
@@ -643,8 +644,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/795354694fcb4082832cca44e1c0e65d.png" alt="Cover for Mutations EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
@@ -656,7 +658,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +680,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/xaIWjgN1M7QtkPyaQnjNZiWghZmI81-UIqHebNX8dG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTkx/NTctMTMzNzYyMDE4/NS05NjMyLnBuZw.jpeg" alt="Cover for Crypto-Phantom" style="max-width:120px; height:auto;" />
       </td>
@@ -705,8 +707,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53d43b099b1e4ff7bf3d108713b98fe0.png" alt="Cover for Succubus" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06</td>
       <td>The Mount Fuji Doomjazz Corporation</td>
@@ -722,7 +725,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2009-07-27</td>
@@ -740,16 +743,15 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c08d6d4929a4df7a2a5574b309664b3.png" alt="Cover for Here Be Dragons" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-30</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
       <td>Here Be Dragons</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
@@ -758,7 +760,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/yMcMIx-x7J4YPUBU2XIQjeS7UXxkbWKmRPbGFX5UVlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA4/NjEtMTI5NjczNTgz/MS5qcGVn.jpeg" alt="Cover for The Big Sleep" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +778,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2010-02-04</td>
@@ -812,7 +814,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/0MsMd4nKU-eQgSX_cAWVuldkofRcOkDg3E4vsvc4BIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY2/MjMtMTM4ODg3MTI0/My0xMjYwLmpwZWc.jpeg" alt="Cover for Whispers of Empty Spaces II" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +833,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-03-30</td>
@@ -849,8 +851,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb1606d9a4ff4795abbf438d635eae54.png" alt="Cover for From the Stairwell" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-01</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
@@ -866,7 +869,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/gzoxFOpnTVU625Imb2nnqqYDV1Own9tzaofzLQOSlgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTYz/NjMtMTM4ODg2NzI0/Ny02NTcyLmpwZWc.jpeg" alt="Cover for A Quiet Light" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +888,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VKBe1zLs1rEQciauuXu8dam9yjd1N88uXoCqY8DYJf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEw/NTQtMTQwMTAzMjM1/OS01OTg5LmpwZWc.jpeg" alt="Cover for Dale Cooper&#39;s Case" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +906,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/ByyS5qN6LEAsuAv-ecn9UjvDo3dxeDCb7hZx8YXwKF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI4/MDgtMTQxNzUxNDgy/OS05NjE4LmpwZWc.jpeg" alt="Cover for The Last Werewolf" style="max-width:120px; height:auto;" />
       </td>
@@ -918,12 +921,12 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 71</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gsyCtt-LbdxuKYDWknG3Mo10RcNkkoDaR6wW-Vl1L6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ3/OTQtMTQxMDgwNTIy/Ni0zNjQ4LmpwZWc.jpeg" alt="Cover for Pressure" style="max-width:120px; height:auto;" />
       </td>
@@ -943,6 +946,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45a4a673ffca5dcb31ebf8d2c8f9b9f9.png" alt="Cover for I Forsee The Dark Ahead, If I Stay" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-16</td>
       <td>The Kilimanjaro Darkjazz Ensemble</td>
@@ -957,8 +961,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10509c7fce440bc857cd7f994fdcf0e.png" alt="Cover for Hypnobooster" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-17</td>
       <td>Hypnobooster</td>
@@ -975,7 +980,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2012-04-06</td>
@@ -993,7 +998,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2012-05-15</td>
@@ -1013,7 +1018,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/POuBcM9rhF7a8IH8XgN4sJ1vCfwRwOvO8BxwfZoF_lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTI0/NjUtMTM5NTk2MDMz/Mi0xMzgxLmpwZWc.jpeg" alt="Cover for Field Day Rituals" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1037,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/fQHm0ghIYPbeew6Z9r5LYJdh_wNL1YYD2No-EUdQwvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzI4/MTQtMTQyMDA3OTE3/Mi01NDM2LmpwZWc.jpeg" alt="Cover for Dolomiten" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1072,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/pwHi0XPaAiD3qqrxaQmmvm-DN5RckKcu1Nzj1QIrSPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA0/NTYtMTM3MDQ2MzUy/MC01MDkzLmpwZWc.jpeg" alt="Cover for A Fabric Of Beliefs" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,9 +1127,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/ETQzaPobE148ngFODN25CiJHM1UFfTzMU3AJIiCiKmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/ODktMTM4NDQwNDM3/Ny03NTk4LmpwZWc.jpeg" alt="Cover for Night Walk With Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92dc89416cc141ffaee14eec929525fb.png" alt="Cover for Night Walk With Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-10</td>
       <td>Gamardah Fungus</td>
@@ -1141,7 +1146,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2013-09-27</td>
@@ -1158,7 +1163,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/xs4D9xKyblfnkugvjiJvkBCCVdC5Lmn0BHDtPM93OS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDAz/MDYtMTM4MTc3NTU0/OS00NDkzLmpwZWc.jpeg" alt="Cover for Quatorze Pieces De Menace" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,7 +1183,6 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/x6joN8HX03KsH_G75mCd6lDBtCrUyW6It99_CgF0LJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE4/MDctMTM5MzE5MjMx/Ny0yOTc1LmpwZWc.jpeg" alt="Cover for I Am the Last of All the Field That Fell (A Channel)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Current 93</td>
@@ -1195,8 +1199,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/286fc8840b95473cc701d1434b7e7edf.png" alt="Cover for Piano Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-24</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -1209,14 +1214,14 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
-          <img src="https://i.discogs.com/jYR2NnpaMPpvGoeoiMKJjUE6ewRZHsb2nnRngXpMM2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDc2/MTAtMTQwMTU1Mzk2/My02ODc3LmpwZWc.jpeg" alt="Cover for Базирование" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5551b034cad4d7dcdf9db40df30286e.png" alt="Cover for Базирование" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-05</td>
       <td>Триагрутрика</td>
@@ -1233,7 +1238,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/ftrhx2LTaAHfEpNQ8GHPz1RFxXtP4ALZI0IARlHO0G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/OTk2LTE1Nzc1MzM4/NjQtMzYxOC5qcGVn.jpeg" alt="Cover for Metamanoir" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,9 +1256,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/Z0jQ8QrHfVWw6kubnRgR1nMKDqmXS5ebGocB5CrEhw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTU2/ODUtMTQyNTIxNDA0/My00NTY4LmpwZWc.jpeg" alt="Cover for Fogh Depot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7505d70997c945f4c5c1e9be0aceb145.png" alt="Cover for Fogh Depot" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-20</td>
       <td>Fogh Depot</td>
@@ -1271,7 +1276,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/ZYC9nDoDxXpA0kZGCu84tEUZsegr0QdoBCWe9757ywQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTU5/NzUtMTQ0MjY3MzYx/MC02MDg4LmpwZWc.jpeg" alt="Cover for Im Argen" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,9 +1296,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/VrRyBRIU7dfuM9Co4vzVN3Wv9XOEu5EE6KC-UVejY2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDEy/NTQtMTQ1NDAwNzc1/OS0yMDgwLmpwZWc.jpeg" alt="Cover for Adagio for the Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25ad9b19edf97dbe77d6364108d7b31d.png" alt="Cover for Adagio for the Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-09</td>
       <td>Trigg &amp; Gusset</td>
@@ -1310,7 +1315,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/KiDfQxPRp_6DYBC2AWB98OIkVLxm9f9HW_s6u6ocTY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjIz/OTctMTQ2MTMwOTQx/My0zNzY2LnBuZw.jpeg" alt="Cover for Dark side of the valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,9 +1333,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Xw8LNt956JWmMxjMyRenIEXPYi6SruKFtBC2Tj7gFqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTIy/NTUtMTQ1OTkzNjk3/OC05NzQyLmpwZWc.jpeg" alt="Cover for Plays the Music of Twin Peaks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63581b9163fb6e55df3bfffec84120b.png" alt="Cover for Plays the Music of Twin Peaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04</td>
       <td>Xiu Xiu</td>
@@ -1344,14 +1349,14 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/AUwXvlPhSIwaL3Jx84YYzzq_n-ki1jWT7q17Awi2yFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU5/ODgtMTQ2Njc5NTk5/Ny02ODU1LmpwZWc.jpeg" alt="Cover for Neolunar" style="max-width:120px; height:auto;" />
       </td>
@@ -1370,7 +1375,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/0_KrvBPvE9wcNgrvvbdrLSJEnTLMcB02_hSE3sWXceo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/NDkwLTE1ODQxNjQy/MDUtOTY3OC5qcGVn.jpeg" alt="Cover for Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,9 +1395,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/-GiSCnhaJ8ikJg8AwPXJo8nD7wKBHqOpHrOsuodP3As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTY2/OTMtMTUyMzIxNzA3/Ny01MDExLmpwZWc.jpeg" alt="Cover for Turmalinturm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27a7cf485c3f219ff031af5e9fd32749.png" alt="Cover for Turmalinturm" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Fogh Depot</td>
@@ -1412,7 +1417,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Iei5euy9BmWcGI5hrbhl-LdFn8tn_A60nh3GZKO_z5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MDUyLTE0OTQ5NTEz/ODUtMzY5MC5qcGVn.jpeg" alt="Cover for Devour" style="max-width:120px; height:auto;" />
       </td>
@@ -1430,9 +1435,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/vA8tZpaodOD0D2vaVaAHZzVdYsDJNTBCymUJ_VlHu74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUy/OTgwLTE0OTgzMTUx/MjMtOTQ5NC5qcGVn.jpeg" alt="Cover for Astrild Astrild" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/616d94ba4c254715beb9b43fe99f5b30.png" alt="Cover for Astrild Astrild" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06</td>
       <td>Dale Cooper Quartet &amp; The Dictaphones</td>
@@ -1452,7 +1457,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/nxAED-jdGKf5GmVQTWPGQIMI8RDC0uE_R54bvbPVhSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY1/ODU1LTE1MTMwMjUw/ODQtNjMzMS5qcGVn.jpeg" alt="Cover for Heralds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c205ab24c9bf5dba127ef63a47cdeadd.png" alt="Cover for Heralds" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-12</td>
       <td>Wordclock</td>
@@ -1471,7 +1476,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/OgrgH4P4tkKp0tVHaiA21UPlEnJDv4uLYZnFTQQoCaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI0/MzcyLTE1MTYwODkx/NzctMzU4MS5qcGVn.jpeg" alt="Cover for Noirabesque" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1496,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Cx-neLJFmAJU-5UXRZU63ygS4hjdfKtPzjWQFM_NCO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/NjY3LTE1NTI2Njk3/MzEtMzU1OC5qcGVn.jpeg" alt="Cover for Bad Witch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8648dc423724a688bd91568dfaa297.png" alt="Cover for Bad Witch" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-22</td>
       <td>Nine Inch Nails</td>
@@ -1504,13 +1509,13 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 43</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/QDYwW5fhfE3ZOzczOEY2CDNdtyu0cpH9rnazhpskr-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/NDc3LTE1ODQxNjM3/NjItNDg0MC5qcGVn.jpeg" alt="Cover for Brooklyn" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,9 +1536,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/RZKRLweVrci4mxh90mS9cUmk4y9b6q6ar3uhBtfW4cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI5/NjQwLTE1MjY4ODA3/NjgtMzk4NC5qcGVn.jpeg" alt="Cover for Themes For Television" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5cda7f9939c55997429fe5c74762b6f.png" alt="Cover for Themes For Television" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-29</td>
       <td>Johnny Jewel</td>
@@ -1554,9 +1559,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/PdYDP6gboAGXOIW74hhxtUQl_sMnKdCDcVywr1JtMd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUy/NDAwLTE1NTI2MDI1/NzEtNzI2My5qcGVn.jpeg" alt="Cover for Antediluvian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50529c04ce5d3b674237d237517a1dcb.png" alt="Cover for Antediluvian" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-08</td>
       <td>Bong-Ra</td>
@@ -1578,7 +1583,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/ZDtOM76NoU4MumuJGs4EKl1InGFbG1YZqMzS79k-uVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM1/NTA4LTE1NTQxNTQw/MDEtNTQ0NC5qcGVn.jpeg" alt="Cover for Der Endless Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,9 +1603,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/le2j_-F24ud0nm079tF8tFL7dvxd6oXa-5dmge3o5Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NDE2LTE1NjQzNjky/MDUtOTEyMC5qcGVn.jpeg" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ad84397414f9bc2345d3bc284ce4412.png" alt="Cover for Human Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-28</td>
       <td>Jorja Chalmers</td>
@@ -1619,13 +1624,13 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 27</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02de12609aaac6852a169824517f895f.png" alt="Cover for Love Exchange Failure" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,14 +1644,14 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 86</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Vq2p4JgCA3GKmzy8w97uL_A049J3yXv89_G6m-zEhiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/MDg2LTE1ODA2NjE0/MTUtNjE3OS5qcGVn.jpeg" alt="Cover for Patchouli Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67216bf499f518705039ab315a4c45a.png" alt="Cover for Patchouli Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-24</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -1662,7 +1667,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/ayIjnFj9qCmTOXGSGb805LqtFwrUgNeaRx3869fhNBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTky/NzQ5LTE1ODUyMzA1/MDYtMjkxMS5qcGVn.jpeg" alt="Cover for God Break Down the Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,12 +1687,12 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 83</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 94</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/2Tm6H4_PMU0xGHLRQR11uURZxYp6O6IvMn8CC6JI9so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA0/OTUzLTE2NDg4NDA1/OTQtMzE2Ni5qcGVn.jpeg" alt="Cover for Sentenced To Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1711,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/fzVSy5Yzc2s7ZB2VrUNUC3zFmws9fPGhjcmaeY1Smj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI0/NDk1LTE1NDA3NTMw/NTctMzQxNC5qcGVn.jpeg" alt="Cover for Silence, Then Pause" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,9 +1728,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/s5ROKnTA7Ck9-ipeqIgf1oXq9qk3buUfAO7aMbCZtkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjAx/MzgtMTQ4MTA3NzI2/Ny0yNzYxLmpwZWc.jpeg" alt="Cover for Bohren For Beginners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66d3b52230f39a3f7fbbf28724787ddc.png" alt="Cover for Bohren For Beginners" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-10</td>
       <td>Bohren &amp; der Club of Gore</td>
@@ -1739,14 +1744,14 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 44</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/jrAm_3y4E9JOTmYvps17RRD9kESgvcGdAcWk8K2gFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/MDQyLTE2MjIxNzg5/MTctNzk1OS5qcGVn.jpeg" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f79a5949c65444138ece452ee00268ee.png" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Jorja Chalmers</td>
@@ -1767,10 +1772,10 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 30</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1794,9 +1799,8 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/itn-kZZhhT9h3TDOmU21Vh7qaJ4Pq55P2YmnlP1smQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NzA5LTE2NDgxMTIy/NTktNDQzNi5qcGVn.jpeg" alt="Cover for Her True Nature" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>The Nest</td>
@@ -1814,7 +1818,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/FEOKOYAuxZQwPZpN9k-JrtNu8g-400ZT68JFwGJiNgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NjE5LTE2NTAyODc2/MDEtOTU4OC5qcGVn.jpeg" alt="Cover for [self-titled]" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,12 +1836,12 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/0ultD9f8Wy6PC5qT259uF7H-r9XULJQJIPha7bnk9j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIx/NTExLTE2ODE5OTQ4/MjktOTY2NC5wbmc.jpeg" alt="Cover for Decadance" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,7 +1860,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/xNha1stp4Azz9bttSmnteVwpkMhtTxp8Ycl2XxCA-Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDI5/MDY3LTE2NjgxODUy/MzMtOTk0MS5qcGVn.jpeg" alt="Cover for Murken Hollow" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1879,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/HWUxSEgWjWYpqIPdi2r4JUHhx6xsj2MRM0olZGAQefg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU2/NzQ1LTE2NzgzNjYx/NTUtMjc3NS5qcGVn.jpeg" alt="Cover for Black†White" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1897,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/5yC37EOKHAdA71qkwvXWI3SmtK_nN6HXo3MSutZv0gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTMx/NjY2LTE2OTY3NTg0/OTctOTA5NS5qcGVn.jpeg" alt="Cover for The Cold Dark Somewhere" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,6 +1912,28 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fbe05e0694b4777e5004595539c02db.png" alt="Cover for Twin Peaks (Limited Event Series Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Twin Peaks (Limited Event Series Soundtrack)</td>
+      <td>Twin Peaks (Limited Event Series Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1928,26 +1954,6 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Twin Peaks (Limited Event Series Soundtrack)</td>
-      <td>Twin Peaks (Limited Event Series Soundtrack)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1959,7 +1965,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [soundtrack]({{ "/tags/soundtrack" | relative_url }})
 - [jazz fusion]({{ "/tags/jazz-fusion" | relative_url }})
+- [soundtrack]({{ "/tags/soundtrack" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [drone]({{ "/tags/drone" | relative_url }})

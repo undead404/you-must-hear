@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:38:33.731Z
+date: 2025-11-26T03:14:55.713Z
 permalink: tags/acid-techno
 title: acid techno
 ---
 
 ## acid techno
 
-Last updated: <time datetime="2025-11-19T07:38:33.731Z">Wed Nov 19 2025 09:38:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/kNogLXlmE1kLin7gI_SKQkHg5BVGdR7BWWFWtXF2T1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Nzc0/NzQtMTQ1Mjc5Njc0/MS0xNTc2LmpwZWc.jpeg" alt="Cover for Agony Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for 5 Years of Rave" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/XyHKRXpzklK6-iFAxszJRlEwee61jz0GXrNKj4lfddI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDYy/LTExNDk3ODYxNzQu/anBlZw.jpeg" alt="Cover for Hysteria" style="max-width:120px; height:auto;" />
       </td>
@@ -89,7 +89,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/xELEwZm6EIwVyI09514riGbMaXpz4q5hpZC7hJi5VSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA5/OTUtMTMzMDg5NDUx/OC5qcGVn.jpeg" alt="Cover for No Compassion" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/iu8yKvlnApGnTQQ2cTb6Hxs-mY35a_nWp1FYDw2iXoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgt/MTQ3ODQ1MDk0OC04/ODUyLmpwZWc.jpeg" alt="Cover for Give Your Body" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,24 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51cf7436d5df454fc5c7665bd12a9e05.png" alt="Cover for Analogue Bubblebath 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>AFX</td>
+      <td>Analogue Bubblebath 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/lBKgTH-PFD6BNreAvSQAW2pu6WNR470YQIpP4lVwX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDAt/MTEyNTg0NDA3MS5q/cGVn.jpeg" alt="Cover for Joyrex J4 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +187,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/fZNDylQoy00H6JOHLjd68H-9FIY_w2c0lGrU3wTYo7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTQ1/LTEyODk4NjExNDcu/anBlZw.jpeg" alt="Cover for Acid Bites EP" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +207,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/7sTlHAgQkjFKZANDAXbO6fX_eAghkJ8jJiF_Crm993o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjQ5/My0xMzk2Nzk0MjQz/LTY3NjMuanBlZw.jpeg" alt="Cover for Caustic Window Compilation" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +227,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89754669c112a0eed10eaf60300f2c33.png" alt="Cover for The Caliber EP" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +268,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/505434fb947644dbc4c4672d82a2f204.png" alt="Cover for ...I Care Because You Do" style="max-width:120px; height:auto;" />
       </td>
@@ -265,13 +282,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 19</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td>1995</td>
@@ -289,7 +306,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c462b83e18025261d54d75a639d10c0a.png" alt="Cover for Archives" style="max-width:120px; height:auto;" />
       </td>
@@ -324,13 +341,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 24</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bfd752169736d679e62bec859f2648a.png" alt="Cover for LOVE EATING ALIEN" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +372,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>1997-11-10</td>
@@ -376,7 +393,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>1998</td>
@@ -425,17 +442,17 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 77</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 81</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/-j4CHAkyKWZzeoD8r52JgbfNpX6qjLr0_OrdQOMX2JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/LTEzMDczNzkwNzgu/anBlZw.jpeg" alt="Cover for Kolmio EP" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +476,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>54</td>
       <td>
       </td>
       <td>1999</td>
@@ -480,7 +497,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3273cbd6a0ce4ddf84746a416e3ee073.png" alt="Cover for Warp20 (Chosen)" style="max-width:120px; height:auto;" />
       </td>
@@ -501,12 +518,12 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 91</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2000-05-29</td>
@@ -547,7 +564,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/xMX68cspDQnyg1kLb79sXUkARNMLBPfLa9_DCKB2RNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTIw/MS0xMTM2ODE1MjQ5/LmpwZWc.jpeg" alt="Cover for 303 esch guet EP" style="max-width:120px; height:auto;" />
       </td>
@@ -567,25 +584,6 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       <td>
         <ul>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/H72DERY2xV1ZINnET2kLzwL9rgdtKEZuZ2jUvLmGgY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzg3/OS0xMTY5MjkyNzA0/LmpwZWc.jpeg" alt="Cover for Cosmic Microwave Background" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>AnD</td>
-      <td>Cosmic Microwave Background</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -629,7 +627,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/0v2WeSfy3OUE6WzmCnnFvfiGiRNe1UhWvo4ZNLz8Nkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU4/OS0xMTY5NTk4MzE1/LmpwZWc.jpeg" alt="Cover for Spider Report" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +646,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-07-27</td>
@@ -667,7 +665,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f56d9b8d93e5c077e8e1860979aa8e71.png" alt="Cover for Another Silent Way (Film Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +686,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f7de3405b842f2c2bc76ac474a788c.png" alt="Cover for Analord 01" style="max-width:120px; height:auto;" />
       </td>
@@ -703,11 +701,31 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5623cb01461c95b41f5c8dff5be4492f.png" alt="Cover for Chosen Lords" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-10</td>
+      <td>AFX</td>
+      <td>Chosen Lords</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>
       </td>
       <td>2008-07-26</td>
@@ -731,7 +749,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/c-EE9DtJrh8L6rWOV6xkM3kWItJWWse8pbm3TZ4Jnzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjM0/NDItMTI3NTEwMTgz/Ny5qcGVn.jpeg" alt="Cover for Vatos Locos" style="max-width:120px; height:auto;" />
       </td>
@@ -751,9 +769,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/dw9bnwxrZrGKst2W3reTwoxdvq1z2p9Ndg1G_LZfnxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI2/Njc4LTE2MzY3MjAw/NTctNDEzOS5qcGVn.jpeg" alt="Cover for Greed Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3630b4248f690dba7f682b5018bbd0b9.png" alt="Cover for Greed Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-12</td>
       <td>Perc</td>
@@ -772,7 +790,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/ilGaMojkTpF7JsgbgcXfrEPYo_tSKoKycqJ40FJZIhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjcw/MDYtMTMzNzkzODIw/NC04MTgzLmpwZWc.jpeg" alt="Cover for Cluster Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +832,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/549038ae5b3a6758a12ea8b31926b2a3.png" alt="Cover for 90" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +856,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td>2014-04-15</td>
@@ -855,7 +873,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7376eadf2b24024a5ae54e8134b02a3.png" alt="Cover for Syro" style="max-width:120px; height:auto;" />
       </td>
@@ -870,14 +888,14 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       <td>
         <ul>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 85</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 85</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/ZPYOBrTqSgPgDOygYRXm2vFdPrl3JPRChJVuKAAnzA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA1/OTItMTQyMzI1MTI0/MC02MTg4LmpwZWc.jpeg" alt="Cover for Analord 01 EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f22eaa74984b464e827493de57dfd082.png" alt="Cover for Analord 01 EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-00</td>
       <td>AFX</td>
@@ -894,7 +912,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/CRKgTH5LCYFyjYOlkrZ_V2_3YfiAtaz7kOkOMNZidJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA1/NjktMTQyMzI1MDk3/MS0xNjEyLmpwZWc.jpeg" alt="Cover for Analogue Bubblebath Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +930,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/eKFJc1VDuiy1KUOnEfsc85KUg8BQQyDKZS33adk4Sqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODY4/NzItMTQ1ODIzMzkz/OS0yMzEwLmpwZWc.jpeg" alt="Cover for A Tape" style="max-width:120px; height:auto;" />
       </td>
@@ -951,31 +969,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/wDqbKIWaOKhcNW87AesqPK6N0_VO6k4PRt-F9YWLqn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTUw/NjYtMTQ1NTAzOTg2/NC00NTAxLmpwZWc.jpeg" alt="Cover for Dirt" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-12</td>
-      <td>Perc</td>
-      <td>Dirt</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/28H5jOujv4dczTUmGcgUStEnQKVESVx8sAtJOzKH5EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/NTQyLTE1Mjk0MDMw/NjMtNTQxMi5qcGVn.jpeg" alt="Cover for Alien Alien EP" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +988,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/G8HHvttYq2K2nu1Gr0JBx21YNcWu8WQTKUNHLkjBZXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjI1/NTgtMTQ2NzM2NTA5/OS0zMjMwLmpwZWc.jpeg" alt="Cover for 000000002" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1008,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/hlcsEYkSmly82L4SdP-Y8Oa_H1jFT43tFsSUNc0cKT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk0/OTIzLTE1MDI1NTc5/MzctNzU0Ni5qcGVn.jpeg" alt="Cover for Let It Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1036,7 +1030,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/hI2TZHg9TidixPZyPoyMuTwP6YqfRn_1VJ-LKK6V9Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTg0/MzMtMTQ3MTQ1MDU4/NC0yNjY5LmpwZWc.jpeg" alt="Cover for 25 25" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1050,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/8Qbb-m6cDb56j8u4VJBkRangMc8qe9LMymwTUgPsapg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg2/MjctMTQ3NDA0NDU4/Mi0zNDgwLmpwZWc.jpeg" alt="Cover for Illusions Of Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,7 +1071,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/hhZyt-73G0A5kj-8TZRwGD1cr0RLHDyXIv1Is8rFF_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzc4/OTktMTU3MDYxODMz/NC02NzYzLmpwZWc.jpeg" alt="Cover for Leftover Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1115,7 +1109,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 39</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 94</li>
         </ul>
       </td>
@@ -1140,7 +1134,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/0-NWxFCU9BLfFkeCZ9yiu6j7jB9C7y77WtVpb8Bl_tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/NTQyLTE1MDYzNDMy/ODgtODkwNC5wbmc.jpeg" alt="Cover for The Business Of Basslines" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1152,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Hw6ne40LPPsuKz_3RexQ6MvB7GTTbCCNmDRAyOfZ6J4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQw/OTcwLTE1MjM1NDc5/MDItOTA1My5qcGVn.jpeg" alt="Cover for Ammonite EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1177,7 +1171,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/XuR_LvtU5KIc2G86jk-o1aCM0595jBJDs9LGc4Y8UXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NjUzLTE1Njk2MTY2/NjQtNjE2Ny5qcGVn.jpeg" alt="Cover for So It Seems" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1240,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kCevJEcCcn5NrxSYB4zBqb2eTvcOPQo-gF4VziMknoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/NjIyLTE1Mjk0MDMx/NDEtNTQxNS5qcGVn.jpeg" alt="Cover for Paleo, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1293,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 10</li>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 87</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 98</li>
         </ul>
       </td>
@@ -1322,13 +1316,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 32</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 33</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/oSGAzWxfymUUGCyIAKh8LgpMVhKa7g1NO5mS78GGOlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEw/Mjk2LTE1MjY0OTYy/NjEtMzQ1OC5qcGVn.jpeg" alt="Cover for Paleo, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1339,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/tm3c8OTS7PbB0zkrXUyOI2t2YjYDsNH45gVaf7JebOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU5/NTYwLTE1Mjc0ODQ5/NDctODY5NS5qcGVn.jpeg" alt="Cover for Otider" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1357,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/TJhNo7R7qHJqBrj-QVjOenohlczQSQjyJseEo3Zu9_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/ODAyLTE1NTY3MDU0/OTItMTA0NC5qcGVn.jpeg" alt="Cover for Paleo, Pt. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1374,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/121e055f99ab83f422bb96d9433cc8a3.png" alt="Cover for Collapse EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,14 +1384,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 54</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 65</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 94</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1412,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 27</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 28</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 84</li>
         </ul>
       </td>
@@ -1451,7 +1444,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/3L7O0NO7KGvAAcdHXNiOWAgPh_rdmaF-jYk50CXWfss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUy/MTg0LTE3MTE5NzU1/MTEtNjQ0Mi5wbmc.jpeg" alt="Cover for 000000005" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,9 +1463,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/9Jp12A5Ey1wJR9jGv68vfR2uN0dH0DI5GUGzAcQwPpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY1/NzI5LTE1NTY2Mjcy/NzgtOTE1MS5qcGVn.jpeg" alt="Cover for Drenched 1-4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b5a0b6f0db94ea88d97dc42b0c1ae49.png" alt="Cover for Drenched 1-4" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-25</td>
       <td>SSTROM</td>
@@ -1490,9 +1483,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/4TLcdvePXQTOdhX6Lm-g7f-LEIEZL6KiQXpyEebi7y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE3/Njg5LTE2MDMzMjg5/MDktNjAzNS5qcGVn.jpeg" alt="Cover for Am I Who I Am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9779d43275daa0ef253705d2ac41ad4a.png" alt="Cover for Am I Who I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06</td>
       <td>PTU</td>
@@ -1560,7 +1553,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/z_NB-rU7QNHDalTooGGGFJMoAUGP4XOq77QGu_Hgdxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/ODY3LTE1NzM3Njcx/NDktMjc0NC5qcGVn.jpeg" alt="Cover for Suicide Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1605,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/HZA8aCUs1ga1AZ_q9nDjVvzBC-jkdR7UC2ErfdgkDLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/ODM2LTE1OTA4NDU1/ODctMzE4Mi5qcGVn.jpeg" alt="Cover for Nur EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,13 +1644,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 86</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/h0FGW2KEEQ3jygxgA7NrWeyf9u6MUoT9M9QYSD9obq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/NzM2LTE1OTgwODA0/MjEtNTM2OS5qcGVn.jpeg" alt="Cover for Higher EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1699,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/MYj4kqJT4NwuBrwTKpnx-AAtnw6Aaj1YS4X8YFk_4s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTAz/OTA3LTE2NTAxMzE0/NzItMTM4Mi5qcGVn.jpeg" alt="Cover for Queen of the Banshees" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,13 +1716,13 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 68</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 69</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/346d5d8aced241dfc1237ea1ede2cf67.png" alt="Cover for The Silver Cord" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,12 +1735,12 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f55923b6c02f2596ebd83ab5b9d0e8a4.png" alt="Cover for A Low Level Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1783,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/w182GDxyI3JHUELaHOkQBLNchvJbsuxP9aBiTfVM4FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzMz/Nzk4LTE2NDYwNTAw/MjgtNTI2OC5qcGVn.jpeg" alt="Cover for Sucht &amp; Drang" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,34 +1805,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a8716d60d583b217c9d6af9006f70ec.png" alt="Cover for DRIFT Episode 1 &quot;DUST&quot;" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-28</td>
-      <td>Underworld</td>
-      <td>DRIFT Episode 1 &quot;DUST&quot;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 59</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f1c1eb87e53312106175eed1780c5bc.png" alt="Cover for Drift Episode 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1860,11 +1826,39 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a8716d60d583b217c9d6af9006f70ec.png" alt="Cover for DRIFT Episode 1 &quot;DUST&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-28</td>
+      <td>Underworld</td>
+      <td>DRIFT Episode 1 &quot;DUST&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/-F5-Zssug-2hj98kYpKTqrAr0PD93ygzgc3HL16hCpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI1/MTA2LTE2MzcyNDM3/MDAtNjA3MS5qcGVn.jpeg" alt="Cover for Mindset" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1881,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/aMv_uWRDUH2geo_XOjc7vN6ZjiGwUsiUw8mhhCuhCB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/NTI0LTE2Mzk5MTQw/MjEtNTM3MS5qcGVn.jpeg" alt="Cover for ABOUT LAST NIGHT EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1903,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b179bd59d97295c23c4a874bba2259cf.png" alt="Cover for Made In Timeland" style="max-width:120px; height:auto;" />
       </td>
@@ -1926,7 +1920,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/7JkIQUtd6w9UWcrcUFJpEeeRtmUD3C0QEzSBiAJCLrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTEz/OTkxLTE2NDczMDg1/MzYtMTM3NS5qcGVn.jpeg" alt="Cover for Coldware &#x2F; Rolling Thunder" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,7 +1959,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/lVCCx7_FJl7MD22xgkDf7tv3FPdS9aNhwgAiAgocpEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMw/MDc1LTE2NjU4MzA4/MzQtOTM0OS5qcGVn.jpeg" alt="Cover for In My Mind EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1989,7 +1983,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/vQCfpAlvHD2vN1KknwDY-PYYVbHuiECLZeTNASMsuqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/MjM2LTE2Njg3MzI1/OTEtMjEwNC5qcGVn.jpeg" alt="Cover for Fall In Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2010,7 +2004,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/-1QOZdsx6NxAEvPRJmV74SRokdfMsR9DrfPRKP-fGPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ3/ODU4LTE2NzA4ODcz/OTMtOTY3MC5qcGVn.jpeg" alt="Cover for Numbaz EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2033,7 +2027,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/pxTaiRKvsXWUkXNsvgCBlEyBWDywBt4lUyXoD5pQfLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc0/NDE1LTE2ODkzNTM5/NjItNDU1Ny5qcGVn.jpeg" alt="Cover for You Are My Guide" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,12 +2098,12 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 30</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 53</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 74</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 80</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/xGRnsyOss4FuAQk-axft6zw9m0Yf6p5NZwDYYismGHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDIz/OTUxLTE3MDA5OTMy/NDAtMzg1Ny5qcGVn.jpeg" alt="Cover for You and Me" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,7 +2150,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2173,7 +2167,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
