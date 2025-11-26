@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:12:46.968Z
+date: 2025-11-26T04:13:50.053Z
 permalink: tags/electronic
 title: electronic
 ---
 
 ## electronic
 
-Last updated: <time datetime="2025-11-19T20:12:46.968Z">Wed Nov 19 2025 22:12:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T04:13:50.053Z">Wed Nov 26 2025 06:13:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1990-02-05</td>
@@ -61,10 +61,10 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 11</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 31</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 34</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -84,12 +84,12 @@ Electronic music is characterized by sounds generated or manipulated through syn
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 34</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 81</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8792784aab5c4aeab78ad8525c1c2440.png" alt="Cover for Endtroducing....." style="max-width:120px; height:auto;" />
       </td>
@@ -104,9 +104,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 44</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 81</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 90</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
         </ul>
       </td>
@@ -125,15 +125,15 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 35</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 39</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 41</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 73</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/78651fa46c964b57d2a572c6452f03fc.png" alt="Cover for Come to Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -148,13 +148,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 83</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/WWl6u29sPy81B84RsGKiSb1ttvEn8icgt8o6YXECLNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzg3/MDgtMTQ3MTg2MzA5/MS0xMTg5LmpwZWc.jpeg" alt="Cover for I Think You Think Too Much of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -170,8 +170,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -190,13 +190,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 44</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 78</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 45</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/050f910fc44546e5a5dcd3657dc9bef4.png" alt="Cover for Le Tigre" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +213,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 73</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 97</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 99</li>
@@ -237,15 +237,15 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 52</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 53</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 85</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a9f69919be84c8eb9df017f971c762e.png" alt="Cover for Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -278,9 +278,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 53</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 85</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 61</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -300,8 +300,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 88</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -321,9 +321,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 71</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 93</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -342,8 +342,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 10</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 11</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 12</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 52</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 53</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 56</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 60</li>
         </ul>
@@ -384,13 +384,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 51</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 54</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad20b83e1fc417298b199bfc1b573cbb.png" alt="Cover for The Understanding" style="max-width:120px; height:auto;" />
       </td>
@@ -404,13 +404,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 71</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 75</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 72</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84ad30999f37c5799e423a7c24c2c16c.png" alt="Cover for Cansei de Ser Sexy" style="max-width:120px; height:auto;" />
       </td>
@@ -445,13 +445,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 7</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b44f80d43944d9efc7a4496fa8f0d7d.png" alt="Cover for The Warning" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +469,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f673501a07748d391fa5791e25b4504.png" alt="Cover for The Eraser" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +487,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21624b1cb184d8cf634602e160bd53ca.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +523,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 58</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 88</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 96</li>
             <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 100</li>
@@ -545,14 +545,14 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 13</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 19</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 21</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd9da1dd8caf8413c73077605478a57.png" alt="Cover for Justice" style="max-width:120px; height:auto;" />
       </td>
@@ -588,7 +588,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
@@ -652,7 +652,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1c93f40047046c1bce56e8fad76f3e1.png" alt="Cover for The E.N.D. (The Energy Never Dies)" style="max-width:120px; height:auto;" />
       </td>
@@ -668,12 +668,12 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 57</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a4830c2914442f7b69c5b682075afcb.png" alt="Cover for Fever Ray" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +687,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +713,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7166290612437d9ed19efa3590835e.png" alt="Cover for An Introduction to Ellie Goulding EP" style="max-width:120px; height:auto;" />
       </td>
@@ -729,13 +729,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 44</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 47</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce6e2af584a5480b85b79371b219a92e.png" alt="Cover for Plastic Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -750,8 +750,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +770,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 10</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +810,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 55</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 57</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 85</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 100</li>
         </ul>
@@ -831,8 +831,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 61</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 64</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 72</li>
         </ul>
       </td>
@@ -852,10 +852,29 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 31</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 56</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 57</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ee5936b857f66ac31be6082eb66e5a5.png" alt="Cover for Crystal Castles (II)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-21</td>
+      <td>Crystal Castles</td>
+      <td>Crystal Castles (II)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -875,13 +894,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -897,13 +916,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       <td>
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 23</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 48</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 24</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/oDJG4udHEe7dni9eqWvCPIasmrKz0BfMrj5ysYd9-kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgy/NTAtMTQ3ODE3MTQz/NS0yMTQ3LmpwZWc.jpeg" alt="Cover for Live My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +939,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 47</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 48</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 72</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 94</li>
         </ul>
@@ -942,13 +961,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 10</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011-03-15</td>
@@ -983,13 +1002,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 50</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 65</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 51</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eceae582936049c38f1666de3571a2e0.png" alt="Cover for Sorry for Party Rocking" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1027,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36788daaa50544be9392f5fe558e4c9e.png" alt="Cover for We Can Make The World Stop - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,8 +1063,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 2</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 93</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 3</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1082,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 65</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 66</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 88</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 89</li>
         </ul>
@@ -1091,8 +1110,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 99</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 99</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 100</li>
         </ul>
       </td>
@@ -1117,7 +1136,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 92</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
@@ -1144,9 +1163,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 78</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 93</li>
             <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 98</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
         </ul>
@@ -1187,11 +1206,11 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 68</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 83</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 93</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 73</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 89</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1212,13 +1231,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 51</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 54</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 53</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7252eaca994f42beb3c2a4c71fdd8cd2.png" alt="Cover for Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1257,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28583e99d38a4368c3d77e208f66e093.png" alt="Cover for Coexist" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1271,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 35</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1277,7 +1296,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11dd7e48a1f042c688bf54985f01d088.png" alt="Cover for Random Access Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1290,13 +1309,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 36</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 38</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2013-08-16</td>
@@ -1313,7 +1332,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 22</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
             <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
@@ -1336,9 +1355,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 66</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 68</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 68</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1358,14 +1377,15 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 13</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 75</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537a68a2dc6a418fc1acf47f894f8146.png" alt="Cover for Living While Starving" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,14 +1402,14 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 30</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 97</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fdaf6fcfc096936cf783b89e56b3d16.png" alt="Cover for Matangi" style="max-width:120px; height:auto;" />
       </td>
@@ -1409,7 +1429,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2013-12-06</td>
@@ -1425,7 +1445,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 56</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 87</li>
         </ul>
       </td>
@@ -1451,7 +1471,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-05-02</td>
@@ -1468,7 +1488,8 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 8</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 82</li>
         </ul>
       </td>
@@ -1489,13 +1510,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f4c6c4304f14295c2467839f608e6aa.png" alt="Cover for 1000 Forms of Fear" style="max-width:120px; height:auto;" />
       </td>
@@ -1510,12 +1531,12 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 30</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2014-07-08</td>
@@ -1532,7 +1553,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c5f945953e4723c7e022765d1f7a02.png" alt="Cover for LP1" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,9 +1569,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 11</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 80</li>
         </ul>
       </td>
@@ -1604,17 +1625,17 @@ Electronic music is characterized by sounds generated or manipulated through syn
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed23f05a0cd03adece8f20ff689d546d.png" alt="Cover for Faded" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1671,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 73</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 98</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 99</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 100</li>
@@ -1673,10 +1694,10 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 36</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 49</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 62</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 39</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 73</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
@@ -1703,7 +1724,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6b3a85f39a656aaa61d30d1d2ec8d85.png" alt="Cover for Art Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,9 +1741,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 56</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
             <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
         </ul>
@@ -1774,7 +1795,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea85a96f0d208750c58f4d4dcdbab0.png" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,19 +1818,20 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/nthkC-PJDEZZPZHujxk-cwqOjDuQqFv3ZENOhrkR5Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODU5/MzQtMTQ2MjU1Mjcz/OC03MDM1LmpwZWc.jpeg" alt="Cover for 99.9%" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,13 +1865,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 68</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/gSOUfTyLRdEer5rs8IYW9--aU3NzwZnpFLyNq9cFmc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTc3/NjAtMTQ4MjE3ODU0/OS00Mzc1LmpwZWc.jpeg" alt="Cover for 22, A Million" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1884,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 19</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 21</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 100</li>
         </ul>
       </td>
@@ -1888,7 +1910,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.png" alt="Cover for Memories...Do Not Open" style="max-width:120px; height:auto;" />
       </td>
@@ -1906,13 +1928,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 61</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 62</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg" alt="Cover for Girl, so confusing featuring lorde" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,13 +1947,13 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1980,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb406d3509e347c4baf91c24a3a3ecd.png" alt="Cover for Hyperion" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,28 +1996,6 @@ Electronic music is characterized by sounds generated or manipulated through syn
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57cf8cf111b1487922745e91ba0288e6.png" alt="Cover for Drugs" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-04-08</td>
-      <td>Falling in Reverse</td>
-      <td>Drugs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 89</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2041,9 +2041,9 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/rB9Ya530rPdw5wm3NTVVe1Ac2qyNx7WC_u3ahBP5-Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/MTc0LTE1OTA1MDE0/NTktOTkwOC5qcGVn.jpeg" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.png" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Glass Animals</td>
@@ -2057,7 +2057,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 28</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 98</li>
         </ul>
       </td>
@@ -2087,17 +2087,17 @@ Electronic music is characterized by sounds generated or manipulated through syn
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 97</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/XIG4bmT9-dpN5ymKRDe6o3BLWNsdJrFgA9pXZsKv0Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYz/MDQ3LTE2MTk1Mzg3/NTgtNTY1Mi5qcGVn.jpeg" alt="Cover for MAXIDENT" style="max-width:120px; height:auto;" />
       </td>
@@ -2112,7 +2112,7 @@ Electronic music is characterized by sounds generated or manipulated through syn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 29</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T09:35:11.132Z
+date: 2025-11-26T04:31:05.270Z
 permalink: tags/hardcore
 title: hardcore
 ---
 
 ## hardcore
 
-Last updated: <time datetime="2025-11-23T09:35:11.132Z">Sun Nov 23 2025 11:35:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T04:31:05.270Z">Wed Nov 26 2025 06:31:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,46 +29,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
   </thead>
   <tbody>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e1efbe7c5c4d9ba72bed79dcf46036.png" alt="Cover for Damaged" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981-11-16</td>
-      <td>Black Flag</td>
-      <td>Damaged</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1202e2fa577bbd9bdd38bac44b0e344.png" alt="Cover for Slip It In" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984-12</td>
-      <td>Black Flag</td>
-      <td>Slip It In</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/318e54fcc1484d6abab82d24e5476537.png" alt="Cover for Break Down The Walls" style="max-width:120px; height:auto;" />
       </td>
@@ -90,66 +51,6 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
     <tr>
       <td>54</td>
       <td>
-      </td>
-      <td>1989-06-24</td>
-      <td>Gorilla Biscuits</td>
-      <td>Start Today</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 93</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/981ebb76c595a7dea2d7fdc3242aec3a.png" alt="Cover for Urban Discipline" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Biohazard</td>
-      <td>Urban Discipline</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 13</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5793a481f432404bc03ba468ebda0021.png" alt="Cover for Body Count" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Body Count</td>
-      <td>Body Count</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e10e6427d21476fc75612aa549122b6.png" alt="Cover for Songs to Fan the Flames of Discontent" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
@@ -166,7 +67,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/629695e46cdc8d35815254ef402ced66.png" alt="Cover for Get Some" style="max-width:120px; height:auto;" />
       </td>
@@ -182,13 +83,13 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 24</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 27</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08067250d04e46bda798e3273084d5e3.png" alt="Cover for Satisfaction Is the Death of Desire" style="max-width:120px; height:auto;" />
       </td>
@@ -207,28 +108,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td>1998-07-14</td>
-      <td>Agnostic Front</td>
-      <td>Something&#39;s Gotta Give</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 21</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 21</li>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad56c2c42a84df8cd7fd90181c39599.png" alt="Cover for Los Hermanos" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +127,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12987b5a91174da5925eecc98e770e6a.png" alt="Cover for Só No Forevis" style="max-width:120px; height:auto;" />
       </td>
@@ -287,13 +167,38 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
         <ul>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 60</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 73</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 79</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8885f1746ffa6d9881548321abba0211.png" alt="Cover for Todo Mundo Doido" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>O Surto</td>
+      <td>Todo Mundo Doido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2532ec8fa31588f7cff39b63b12c4f6b.png" alt="Cover for A Place Called Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-30</td>
       <td>Ignite</td>
@@ -309,7 +214,24 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2001-05-22</td>
+      <td>Hot Water Music</td>
+      <td>A Flight and a Crash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
       <td>
       </td>
       <td>2001-07-21</td>
@@ -343,15 +265,16 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 35</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 81</li>
             <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dc391946a59a500e50b0807b12d3ef7.png" alt="Cover for Give Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-31</td>
       <td>Bane</td>
@@ -367,27 +290,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff53503a0a4fe859f441207515f6fa9e.png" alt="Cover for Bless the Martyr and Kiss the Child" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-01-01</td>
-      <td>Norma Jean</td>
-      <td>Bless the Martyr and Kiss the Child</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 44</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/294a1bfa2e8060e44794b173e5374e89.png" alt="Cover for Detonautas (Nova Versão)" style="max-width:120px; height:auto;" />
       </td>
@@ -407,8 +310,9 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/864204eb06184e17a03f1182a1572a06.png" alt="Cover for Outlaw Anthems" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-15</td>
       <td>Blood for Blood</td>
@@ -424,7 +328,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08c9efcfc186b626ca86cb4c809cf2ac.png" alt="Cover for Perseverance" style="max-width:120px; height:auto;" />
       </td>
@@ -443,7 +347,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b1ba22f8b0944fa9ecdb649648fcb99.png" alt="Cover for Rise Of Brutality" style="max-width:120px; height:auto;" />
       </td>
@@ -461,8 +365,9 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/265a3565107a4d288697fb4141a0f29a.png" alt="Cover for Turn It Around" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-04</td>
       <td>Comeback Kid</td>
@@ -478,7 +383,42 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc3c2b9fa4fe489ebfed89611cedde78.png" alt="Cover for The Rise Of Brutality" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-11</td>
+      <td>Hatebreed</td>
+      <td>The Rise Of Brutality</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75418990ba4d4fae94bd790ac00d5863.png" alt="Cover for You Come Before You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-01</td>
+      <td>Poison the Well</td>
+      <td>You Come Before You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/8f4XL1a_9kNpeOjYVuqTG2yRSP5kN6Vjix0bRr97CTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDUz/Ni0xNDM1ODYyNDUy/LTg4MzAuanBlZw.jpeg" alt="Cover for The Fiction We Live" style="max-width:120px; height:auto;" />
       </td>
@@ -493,12 +433,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ddf057d1d6492db85bd39749dad643.png" alt="Cover for One With The Underdogs" style="max-width:120px; height:auto;" />
       </td>
@@ -512,13 +452,32 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 16</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>9</td>
       <td>
+      </td>
+      <td>2004-09-07</td>
+      <td>Fear Before The March Of Flames</td>
+      <td>Art Damage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c826e7eeb54201a86d1bd4581d88ec.png" alt="Cover for What Counts" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-15</td>
       <td>Have Heart</td>
@@ -534,7 +493,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44485a5fa1bce4af43110b0a436a0a1c.png" alt="Cover for I Am Hollywood" style="max-width:120px; height:auto;" />
       </td>
@@ -550,14 +509,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 85</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/HAing-Dy45LONHSecMMTaOh_I96W1Hz5_etg18EI4is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYx/ODMyLTE2NTIwNjAw/MTQtNzMxOC5qcGVn.jpeg" alt="Cover for All This Is" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c374deb2afedf570aa1e37cf5fe4af6.png" alt="Cover for All This Is" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Guns Up!</td>
@@ -575,7 +534,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c71ad9aa61c24b69cbfb5c46868e2344.png" alt="Cover for Felicidade Instantânea" style="max-width:120px; height:auto;" />
       </td>
@@ -597,6 +556,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3da75972593952c628030a8236e80037.png" alt="Cover for Wake The Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-28</td>
       <td>Comeback Kid</td>
@@ -608,13 +568,57 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>14</td>
       <td>
+      </td>
+      <td>2005-05-02</td>
+      <td>Amerie</td>
+      <td>1 Thing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/147b09637a59330117516d14d784d491.png" alt="Cover for The Note" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-17</td>
+      <td>Bane</td>
+      <td>The Note</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f3c4094323810b1885993dc79a5f28b.png" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-21</td>
       <td>Modern Life Is War</td>
@@ -630,7 +634,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4451caf5ec2c6a6753450f758449bc98.png" alt="Cover for Gutter Phenomenon" style="max-width:120px; height:auto;" />
       </td>
@@ -645,13 +649,32 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 42</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 44</li>
             <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/442172db40e94a81a3561a681461480b.png" alt="Cover for 2005-10-17: Live at Wireless FM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-17</td>
+      <td>The Used</td>
+      <td>2005-10-17: Live at Wireless FM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19821d6a072776f184cf66315813e788.png" alt="Cover for Enter The Chicken" style="max-width:120px; height:auto;" />
       </td>
@@ -671,7 +694,28 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ac81ea9b5b49a2eaa517f17943a804.png" alt="Cover for For Screening Purposes Only" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-29</td>
+      <td>Test Icicles</td>
+      <td>For Screening Purposes Only</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 60</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c7014ff4dae1de05162732afc168168.png" alt="Cover for The Rose Will Decay" style="max-width:120px; height:auto;" />
       </td>
@@ -690,7 +734,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02eaf41d1d0741e781ebf4d57e9b460b.png" alt="Cover for Define the Great Line" style="max-width:120px; height:auto;" />
       </td>
@@ -707,50 +751,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 53</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 78</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19f6c023ea1b85f42f2bef4679154409.png" alt="Cover for Sound of the Republic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-04-10</td>
-      <td>Raised Fist</td>
-      <td>Sound of the Republic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee08768a1b7479aa1d6671c064ec690.png" alt="Cover for Birthing The Giant" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-06-06</td>
-      <td>Cancer Bats</td>
-      <td>Birthing The Giant</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd7234ca5b4b4af1bb5fc097b68fc16e.png" alt="Cover for Violence Violence" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +776,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e88c0390d11d481094676336ac9468f9.png" alt="Cover for Mutiny!" style="max-width:120px; height:auto;" />
       </td>
@@ -785,6 +793,25 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80610dcfb77fc0ae77e27319463a5fbd.png" alt="Cover for Beauty And The Breakdown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-11</td>
+      <td>Bury Your Dead</td>
+      <td>Beauty And The Breakdown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -807,7 +834,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f1832f615d4b6a9db1c353ca53679b.png" alt="Cover for The Things We Carry" style="max-width:120px; height:auto;" />
       </td>
@@ -825,26 +852,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b7050c0121579c766ea1c8c71cdc9bd.png" alt="Cover for Vices" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-10-31</td>
-      <td>Dead Poetic</td>
-      <td>Vices</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d855190bb2844e48b36994645a8fdfeb.png" alt="Cover for Best Of Atreyu" style="max-width:120px; height:auto;" />
       </td>
@@ -862,9 +870,9 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/dyjo4uPXpDXdzAdmDrCOQCMV7fng3ux3RQZtbcpPiFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzg2/Ni0xMjIyODM3MjM5/LmpwZWc.jpeg" alt="Cover for Broadcasting..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a635d352eb542999c21cfac0a19dc6e.png" alt="Cover for Broadcasting..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-19</td>
       <td>Comeback Kid</td>
@@ -880,7 +888,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85e9f80722d9c6892e19925abb256164.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +906,48 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb83f0e1ee6a4fdc830ea9e5bc04d7f8.png" alt="Cover for The Fiancée" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-03</td>
+      <td>The Chariot</td>
+      <td>The Fiancée</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 34</li>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61121e0c07373fd6c944968a6147020c.png" alt="Cover for The Complete Guide To Needlework" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-04</td>
+      <td>Emmure</td>
+      <td>The Complete Guide To Needlework</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cbcbf6634cd4e7a8c0b1a270bcb9383.png" alt="Cover for I&#39;m Only A Man" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +967,44 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8523cd9e9f232befed07a0bf82ba6a4b.png" alt="Cover for Plagues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Trash Talk</td>
+      <td>Plagues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a5ca894ed6423bb6517012bf563f99.png" alt="Cover for Nothing To Prove" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>H2O</td>
+      <td>Nothing To Prove</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b0e1ec1638240f684baf0f536b43648.png" alt="Cover for Forfeiture" style="max-width:120px; height:auto;" />
       </td>
@@ -938,25 +1024,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/4FvOlqeLB04XMHyQqwyQqRHqOedplbUhwTIsd14KfWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAy/MDAtMTIxNjQ3MDA1/Mi5qcGVn.jpeg" alt="Cover for Nothing To Prove" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>H2O</td>
-      <td>Nothing To Prove</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad21ed6ff3724be7cb9812d4638eec8a.png" alt="Cover for Decode" style="max-width:120px; height:auto;" />
       </td>
@@ -979,49 +1047,9 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb9c2f220fd46e285f5a93b25d33459.png" alt="Cover for Hail Destroyer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-04-21</td>
-      <td>Cancer Bats</td>
-      <td>Hail Destroyer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 68</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e3d0d71ee6f4f0cb0b1cf9cb2c443ed.png" alt="Cover for Comes From The Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-05-13</td>
-      <td>Stick to Your Guns</td>
-      <td>Comes From The Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/P5LJydj5xyz32AjzJf2ET5x8XVJI__vejWd2sZd0BIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY0/NjYtMTIyMDM2Mjg0/OS5qcGVn.jpeg" alt="Cover for Aggression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53986f359c084984b8d64a7fe3669b0e.png" alt="Cover for Aggression" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-10</td>
       <td>Verse</td>
@@ -1037,8 +1065,9 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7894f30a34ba79191b5166112d5a4566.png" alt="Cover for Songs to Scream at the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-08</td>
       <td>Have Heart</td>
@@ -1054,7 +1083,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8db983b898f348c9823c3840faa0f9a0.png" alt="Cover for Brave Enough to Fail" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,44 +1101,27 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84ee8989a3524127c1afa80a02665549.png" alt="Cover for Travels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c68291415334c489bf27ceabf3fe6fc.png" alt="Cover for Appeal to Reason" style="max-width:120px; height:auto;" />
       </td>
-      <td>2008-09-16</td>
-      <td>Defeater</td>
-      <td>Travels</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
+      <td>2008-10-02</td>
+      <td>Rise Against</td>
+      <td>Appeal to Reason</td>
       <td>
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9171a7496acc02cfd069370291684992.png" alt="Cover for Stay True" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-10-04</td>
-      <td>Deez Nuts</td>
-      <td>Stay True</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 40</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee2c1861c992445fa15e43b4af6db55e.png" alt="Cover for Homesick" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,25 +1145,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf82c7743cd4f8aabab540dc418b1e0.png" alt="Cover for Veil of Ignorance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-09-07</td>
-      <td>Raised Fist</td>
-      <td>Veil of Ignorance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaecec7cbd23862266f9f9a44dce641b.png" alt="Cover for Lost Ground" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,27 +1163,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/311f468e9ddc471395734a849c5aa663.png" alt="Cover for The Hope Division" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-06-01</td>
-      <td>Stick to Your Guns</td>
-      <td>The Hope Division</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 29</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b4f8d7b1f59676615200ad8e37c0663.png" alt="Cover for fig.2" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1181,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda1d44aa4d5476eadc3a8dd744a727d.png" alt="Cover for Keepers Of The Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,25 +1199,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e07fd846ab478e913f2ca74532b474.png" alt="Cover for The Kids We Used To Be..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-09-20</td>
-      <td>Your Demise</td>
-      <td>The Kids We Used To Be...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011</td>
@@ -1260,22 +1216,21 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>3</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0867cc8e04ab428dba4ff2b97ab263af.png" alt="Cover for Empty Days &amp; Sleepless Nights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ace434304e34805a20c946e32f00235.png" alt="Cover for Odiosa Natureza Humana" style="max-width:120px; height:auto;" />
       </td>
-      <td>2011-03-08</td>
-      <td>Defeater</td>
-      <td>Empty Days &amp; Sleepless Nights</td>
+      <td>2011-03-05</td>
+      <td>Matanza</td>
+      <td>Odiosa Natureza Humana</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1298,56 +1253,15 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 41</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 56</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 91</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61f4245e88044d01bb5658b23a185fd7.png" alt="Cover for Parting The Sea Between Brightness And Me" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-06-07</td>
-      <td>Touché Amoré</td>
-      <td>Parting The Sea Between Brightness And Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a63d68a0524423dba5e557e32081753.png" alt="Cover for The Current Will Carry Us" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-10-24</td>
-      <td>Counterparts</td>
-      <td>The Current Will Carry Us</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/888d9c6066b08a8a9c716959429b2a38.png" alt="Cover for Pika Girl - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1289,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c706334ccdaf1a42c4029af89fce61d.png" alt="Cover for Anti-Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1393,33 +1307,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 32</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 33</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db9daf733be8e73bf39f558de56c2ff4.png" alt="Cover for Meir" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-03-22</td>
-      <td>Kvelertak</td>
-      <td>Meir</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/DDJLoW-qSUFGJTMifdJm3wehPPPYf0sXeQMt5qfGAqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTEx/NDgtMTM4OTc0MDM0/Mi03NDQxLmpwZWc.jpeg" alt="Cover for Ungrateful (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,13 +1333,13 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 61</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 64</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/350f522e11b14b156c0f07130a00eb12.png" alt="Cover for Miles Away (Acoustic) (feat. Kellin Quinn)" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,15 +1358,15 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 18</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 26</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 73</li>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 77</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbffeaa767f5c0557c4c75ae5bcdbc88.png" alt="Cover for Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1391,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb4264103714209c2f0ea5d39a68a55.png" alt="Cover for Nonstop Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -1505,18 +1400,16 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>Nonstop Feeling</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 86</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad3772c9b3c14bfdcb58d567645a4bbd.png" alt="Cover for Just Like You (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,13 +1426,13 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 5</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39f76ecae8df3ff430565f17b7f448c.png" alt="Cover for Ours Is Chrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1454,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eb891e3dc951e0688883861c9fc05d9.png" alt="Cover for Got Your Six (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1579,7 +1472,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 56</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1608,7 +1501,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6392abe7cbff4ad8d832c395b0fb464.png" alt="Cover for Where Did It Go?" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,13 +1521,13 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 47</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 51</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/tDLArXwGBmCnpW-bbYwSr0ICwhds_vDXxmVWEcU8lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA3/OTUyLTE1MjQ1MTg5/NDUtODgxOC5qcGVn.jpeg" alt="Cover for Letters" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1545,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 52</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1678,16 +1571,16 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 72</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 74</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 91</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da52f37ad41dfe6ba245e1dd3f5d932d.png" alt="Cover for No Absolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,15 +1602,35 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 3</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 32</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 65</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 36</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/SRQuLl2HfeYGg4sAzNrf3NXqCIZnh-ITmVLwnY47fwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkz/MDQ3LTE1MzYzNzA5/NjEtNjg3Mi5qcGVn.jpeg" alt="Cover for Burning Desire to Draw Last Breath" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>gulch</td>
+      <td>Burning Desire to Draw Last Breath</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7624a2c3cc50693efaf035f0080f5371.png" alt="Cover for Shine On" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,18 +1652,19 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 1</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 78</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35b142e3a22504dacbded50c761edc11.png" alt="Cover for Disease &#x2F; Bad Listener" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,15 +1683,15 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 56</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 58</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 62</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/qkX0gRLn9nykTD6-UsenN1K7Le6ku02-X_pRVG_Ru5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg4/MTQwLTE1NDM4ODM2/NzItNzUwMC5qcGVn.jpeg" alt="Cover for In De Hemel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/252397d0dcbb0ead345c8683bddd7950.png" alt="Cover for In De Hemel" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>Sefa</td>
@@ -1812,16 +1726,37 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 8</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 10</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 70</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 76</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 85</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd57fa618deb72e12a4c08a49be58792.png" alt="Cover for 2020" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-13</td>
+      <td>Shin Guard</td>
+      <td>2020</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dae6264739e14f8314e694a39a2f8a6.png" alt="Cover for Ivy (Doomsday)" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,16 +1778,16 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 57</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 88</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6009c09a9e11ac154e3b77d1a1f36eb1.png" alt="Cover for Absolute" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,14 +1805,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 81</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 84</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f21af281f54a92ca8c3cb5ca473969.png" alt="Cover for Best Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,6 +1836,28 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0123bbdab2c6cc252018d66c67da1fe.png" alt="Cover for Amore Hardcore" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-24</td>
+      <td>Brutalismus 3000</td>
+      <td>Amore Hardcore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>96</td>
       <td>
           <img src="https://i.discogs.com/ld3iRAc1Tl27fI5QzH3UJjCg1o2HJeIMMTSxrUnzNzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODEz/ODg0LTE2MzU3ODk4/NjMtNzMyMy5wbmc.jpeg" alt="Cover for Toxic Boogaloo" style="max-width:120px; height:auto;" />
@@ -1920,14 +1877,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 49</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 80</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 86</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 81</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 89</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/4-iEsIsVNgyMi9WpQYafPX1S3N6v39_4Nxao001zbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/Nzg0LTE1MzcwMzcz/MzctMTgzNS5qcGVn.jpeg" alt="Cover for The Price of Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,18 +1906,18 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 18</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 19</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 64</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/ed3fpdcB5pan4HvZTxGy5WFWXMWkd2jD5D7LyvCeBRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODcx/NDg2LTE1NjMwMDAz/NzktMzE5NS5qcGVn.jpeg" alt="Cover for Spaceships Mixtape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82e54bc58f382c97b1dd39b5bd97a3e.png" alt="Cover for Spaceships Mixtape" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-28</td>
       <td>Easy Life</td>
@@ -1977,7 +1934,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a15d36a1fff4fd9a7751fa4623fb55d3.png" alt="Cover for BMW Track &#x2F; So U Kno" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,12 +1955,12 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
         <ul>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 39</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 70</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 90</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
       </td>
@@ -2061,21 +2018,21 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
@@ -2084,7 +2041,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/576960ceb3ae24ef6fdbcb5f923a7e74.png" alt="Cover for Diamond Cut &#x2F; Bby" style="max-width:120px; height:auto;" />
       </td>
@@ -2102,14 +2059,14 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 62</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 88</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/jx3tsY4VgWcevEhTdE1PSxXMSQtEm1FBby9BccPtfUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM0/NTUzLTE2NTQ1ODcx/NjctNzc2OC5qcGVn.jpeg" alt="Cover for No Pressure (LP)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea7118af2f77fe67676af5f75c7325d7.png" alt="Cover for No Pressure (LP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-01</td>
       <td>No Pressure</td>
@@ -2123,13 +2080,63 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 84</li>
             <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e2cff34bffee24536ea16d5f909096.png" alt="Cover for A Foul Form" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-12</td>
+      <td>Thee Oh Sees</td>
+      <td>A Foul Form</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 50</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/EqwmY0S0LJROvFFaw_cdhNjgUnz1v8T2AgCrQv6DEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTc3/MDEtMTM3MDA5MzE1/Mi0xMDQzLmpwZWc.jpeg" alt="Cover for The House Always Wins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-09</td>
+      <td>Stray from the Path</td>
+      <td>The House Always Wins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 52</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 77</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 81</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fce1506498d5c41af8c69138686ac695.png" alt="Cover for TIBET" style="max-width:120px; height:auto;" />
       </td>
@@ -2151,7 +2158,7 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bfb778e3c035d07291e963b6382838c.png" alt="Cover for Drown (Live from Maida Vale)" style="max-width:120px; height:auto;" />
       </td>
@@ -2171,15 +2178,38 @@ Hardcore is a subgenre of punk rock music that emerged in the late 1970s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 71</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 14</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 50</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 72</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd931acd3c6a4c5095e8195b86d80efc.png" alt="Cover for Dying Is Your Latest Fashion" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Escape The Fate</td>
+      <td>Dying Is Your Latest Fashion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 58</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 96</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
       </td>
       <td></td>

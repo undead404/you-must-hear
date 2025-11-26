@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T18:16:43.648Z
+date: 2025-11-26T04:24:08.373Z
 permalink: tags/steampunk
 title: steampunk
 ---
 
 ## steampunk
 
-Last updated: <time datetime="2025-10-25T18:16:43.648Z">Sat Oct 25 2025 21:16:43 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-26T04:24:08.373Z">Wed Nov 26 2025 06:24:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Age of steam 13 (44 songs about the Moon)" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/CbKWcQj1jVbhCv59LstnwbW7nJ5o3XPfgLVpOW5lBgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU1/ODUwLTE1NDEzNDM3/MDYtNTcwNi5wbmc.jpeg" alt="Cover for Sherlock Holmes Meets Dr. Who" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KXSdMpNCOToLOsGMBTu0yacfWWHOuIYgaYcQMQW8ONI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcz/OS0wMDEuanBn.jpeg" alt="Cover for Fantastic Voyage" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/0HYL_GRzLx5LNiL-bu0K30tY56Ijpr9HwQ5digQ4h-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzU2/NjUtMTQ2MTAwMzM5/OS0yOTg5LmpwZWc.jpeg" alt="Cover for Stigmata Martyr" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d7074aedc84ff79fe0db8f68076c27.png" alt="Cover for How We Quit the Forest" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1999</td>
@@ -139,9 +139,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
-          <img src="https://i.discogs.com/OGMHfco-CXdlzfdaylW184K6M2FyrAN1HtjAP5gpUBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDMw/NDMtMTM2NjcyMTQ2/MS04NjAxLmpwZWc.jpeg" alt="Cover for RE:COGNITION" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7d85aed65bbf62bccd73c99402a37f6.png" alt="Cover for RE:COGNITION" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>[ cell 7 ]</td>
@@ -168,7 +168,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
       </td>
       <td>2000</td>
@@ -185,8 +185,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e16ae11bfedf4acddff88e2370f24a81.png" alt="Cover for Chasing the Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-31</td>
       <td>Collide</td>
@@ -199,14 +200,15 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 2</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 34</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 48</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 68</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/Qjxnhx6Ze09BHtoY_CS1R_11pCQVKAkqd_-s2d6APgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDc3/MzQtMTM3MjkxODM3/NS04MjcwLmpwZWc.jpeg" alt="Cover for The Dresden Dolls EP" style="max-width:120px; height:auto;" />
       </td>
@@ -224,7 +226,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2001</td>
@@ -260,8 +262,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0301a692f094cb6e48c83bf0631d8217.png" alt="Cover for Arcanum: Of Steamworks &amp; Magick Obscura" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06</td>
       <td>Ben Houge</td>
@@ -278,7 +281,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ai1YepkKcaJQHrOB8fM4slxqD6gq2v5zZkmhbZZVVRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njg3/OC0xMTU4Njg1Njgw/LmpwZWc.jpeg" alt="Cover for Last Exile" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +299,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/gmy4Eu5SWxKmGqINvqNUvZpc16Pa5YGy7RQ3N7_5nxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjYx/NTMzLTE2NjEwMTgz/ODgtMzM2My5wbmc.jpeg" alt="Cover for American McGee&#39;s Alice OST" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +317,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2058f31893d8978b71d6cf6cb12610b1.png" alt="Cover for A Is for Accident" style="max-width:120px; height:auto;" />
       </td>
@@ -328,14 +331,14 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 96</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/o8-Xx_N8S8DLw-YjkWoCkmWEz6tUnbKIgkbx6-rbpIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzYy/MjMtMTM2ODY1MzY5/MS0yMzI3LmpwZWc.jpeg" alt="Cover for The Dubliners with Luke Kelly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f1d382c7ebb46b9902424f9da8e2655.png" alt="Cover for The Dubliners with Luke Kelly" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-15</td>
       <td>The Dubliners</td>
@@ -354,7 +357,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg" alt="Cover for The Inevitability of Pain (and the stupidity of those who don&#39;t expect it)" style="max-width:120px; height:auto;" />
       </td>
@@ -401,8 +404,8 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 11</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 15</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
@@ -410,7 +413,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Z6Q9agtV_lWAabjMpzhMZXIgJfNfZlGBADFUluIg2bI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkw/NzYtMTIzMTI3MDcx/MS5qcGVn.jpeg" alt="Cover for Catalysts (Covers LP)" style="max-width:120px; height:auto;" />
       </td>
@@ -428,9 +431,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/SIzoFONVpNFujpqn-QtpDqmuNfq7aWGq4NqDLccTPQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDQ2/MjgtMTYwMTY3OTk5/NS03NzcwLmpwZWc.jpeg" alt="Cover for Steamboy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80ea72acf9389b6883aabce2663ca6da.png" alt="Cover for Steamboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-14</td>
       <td>Steve Jablonsky</td>
@@ -446,7 +449,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/-G91SYvC4DC7DcAqzW-IFDdqIg1XK7cNrvqUCr0SkY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE1/MTQtMTQ4ODQwMDEw/NC01NDczLmpwZWc.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -462,12 +465,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 74</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>2005</td>
@@ -484,7 +487,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>97</td>
       <td>
       </td>
       <td>2005</td>
@@ -501,7 +504,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/v74SSviFWmWrw8b8e1D1eI-xTp59qMzS2-MTEk8aWjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkw/Ni0xMTE2NDMyMjc1/LmpwZw.jpeg" alt="Cover for Decadent &amp; Desperate" style="max-width:120px; height:auto;" />
       </td>
@@ -517,12 +520,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 8</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/jLDQobyQ51poPzS80qzNA4EKwBiqL2zX2flCPA8e9Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTEx/NS0xMTY4ODc5MTc0/LmpwZWc.jpeg" alt="Cover for Anleva" style="max-width:120px; height:auto;" />
       </td>
@@ -540,7 +543,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/iNHxJGvIYArqyxq7zbr0gFNYrAwShGHqwgGmOoUQKwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTE2/NC0xMTc3NjMxMDEw/LmpwZWc.jpeg" alt="Cover for A Gilded Age" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +563,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/FX45X80ipkvpr41Js64Sft8kaD99SmwNLlSXHBXSpBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkx/MjctMTIzMTI3MjIw/OS5qcGVn.jpeg" alt="Cover for The Forgotten Age LP" style="max-width:120px; height:auto;" />
       </td>
@@ -578,7 +581,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>2006</td>
@@ -595,7 +598,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006-01-25</td>
@@ -649,13 +652,13 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 51</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
@@ -665,7 +668,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/zj0ng1nlv2Y3DiXGa6B9HoiHteFiSubZWbeD1I8R1TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQx/MC0xMTY5MjAzNTc5/LmpwZWc.jpeg" alt="Cover for Lysselia" style="max-width:120px; height:auto;" />
       </td>
@@ -683,9 +686,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/NdEskpZpDVUojyrb77L9jQPe_dH4A6_LnjFDCtyQ0-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg2/NjgtMTQ1MjI3ODgy/Mi01NDQ3LmpwZWc.jpeg" alt="Cover for &#39;Neath The Pale Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a9743bbc6cf7740be1c12f489cc5fc.png" alt="Cover for &#39;Neath The Pale Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-28</td>
       <td>The Cassettes</td>
@@ -701,7 +704,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
       </td>
       <td>2007</td>
@@ -726,7 +729,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/zgp7QXmTjASGOL1gnE0eIbKQdZmqjSTyixzLZoi2-1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ0/MTktMTI0NTg4OTc4/Ny5qcGVn.jpeg" alt="Cover for I Swear By All The Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +766,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>2007-09-15</td>
@@ -797,7 +800,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/sXOl8uknAQkgqtDv1dJXLJ5CLzPy-gEdmyCZZljb7AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg1/MTMtMTI5MjQ0NDIz/NC5qcGVn.jpeg" alt="Cover for Clockwork Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +836,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2008-04</td>
@@ -852,7 +855,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/NHHZNXd87TWAc7M2nl03OAu9U8m2O3tKiKzLR6ezMAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYy/NzgtMTI3MzM4Njg1/Ny5qcGVn.jpeg" alt="Cover for Edison&#39;s Frankenstein" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +877,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/BAvah5V8lDPZShoq5nh25_1JHzxFNNPBDFy9neTKgJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgy/ODAtMTI1NDM3OTUz/OS5qcGVn.jpeg" alt="Cover for No Hands To Guide Us" style="max-width:120px; height:auto;" />
       </td>
@@ -892,9 +895,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/1rmZk3seMGKkyb1UNswWSDuyw5LzMj77b_akA8uFxe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzA1/NjEtMTQ3MDQ5MDQ3/NC05MjMxLmpwZWc.jpeg" alt="Cover for How The Dead Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1865bd41ac02e2fdc377269ab70a2269.png" alt="Cover for How The Dead Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-03</td>
       <td>Jordan Reyne</td>
@@ -907,12 +910,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 8</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/WL2qmk6w66hcrgyHD2bpSNB9lzcEEh7-k63KsMMxgs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ0/OTgtMTMwNjU1ODQ2/Mi5qcGVn.jpeg" alt="Cover for Dreampunk" style="max-width:120px; height:auto;" />
       </td>
@@ -932,14 +935,14 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 76</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/5cNuO_svXFP6JrZsJwOcI_eOpj6UVuPARGNJTC3-D8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjAtMTMwNjU2MTMw/MC5qcGVn.jpeg" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faf1826017dce7c54b552fb3f0378243.png" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-16</td>
       <td>Skerror</td>
@@ -961,14 +964,43 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
         <ul>
             <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 36</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 71</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/4KhwCZjrP8hst7SoqR5kASC-0jc8ezOsSF0fty6PS4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM5/NTEtMTI1MTM4Mjcy/My5qcGVn.jpeg" alt="Cover for The Magic Lantern" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d5836e1776c719ae2a5fcf01cdfee18.png" alt="Cover for Shee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-23</td>
+      <td>Skerror</td>
+      <td>Shee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 9</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af908c6fbf424651959f42cbd19d84f5.png" alt="Cover for The Magic Lantern" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-09</td>
       <td>KK &amp; The Steampunk Orchestra</td>
@@ -985,7 +1017,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b563316a192a6c97b2b79779121cae83.png" alt="Cover for Album One" style="max-width:120px; height:auto;" />
       </td>
@@ -1001,12 +1033,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 81</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/6iUslB-nHOa5oVLw0gOZnDjKSD9UriGDYUeTW7_6yyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjc5/MDgtMTM5MzEwNDM3/Mi00MjU4LmpwZWc.jpeg" alt="Cover for Dramatis Personae" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1056,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/BlsoC27Eg4q3VkvraiKmLJMq0NDM6hK7EXT3x-JGLMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY2/MzAtMTI2NzA0OTg0/My5qcGVn.jpeg" alt="Cover for Aether Shanties" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,8 +1074,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e649b78e821488e774d86463db187be.png" alt="Cover for Æther Shanties" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-01</td>
       <td>Abney Park</td>
@@ -1059,9 +1092,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/E0pvc8sdwkuUSX3xnlDANKvtu5LkjclBdGkAkWHqUZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDU2/NzQtMTQ1MDAyOTUy/Mi00Mzc1LmpwZWc.jpeg" alt="Cover for Behold the Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5049548838c44f73be77cae1db30de1e.png" alt="Cover for Behold the Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-03</td>
       <td>Vernian Process</td>
@@ -1077,9 +1110,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/V08u6grZrZkz_kFYWsC9adgjEWq3MRRmod8Y7kcyHbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTY2/MTQtMTM5NDk1MDk1/MC01NTU0LmpwZWc.jpeg" alt="Cover for Двери Апреля" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb6b497783074ffd897d5120e6de0411.png" alt="Cover for Двери Апреля" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>F.R.A.M.</td>
@@ -1104,9 +1137,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/8_52MmV5W8kq_pDTRMzeMPqDVbSUkTb7FOzxsKFGjMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDgy/MDUtMTMzMDc4NDI1/Ni5qcGVn.jpeg" alt="Cover for Blau" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad12aba94da94edc964304e57771fec5.png" alt="Cover for Blau" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Drachenflug</td>
@@ -1126,6 +1159,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/121226b3e6e24fecb197b341ed7b4a14.png" alt="Cover for Steam Powered Stories" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-26</td>
       <td>The Cog Is Dead</td>
@@ -1141,8 +1175,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79785515c91a46dfa3a20a6e75798aee.png" alt="Cover for Now That&#39;s What I Call Steampunk! Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-24</td>
       <td>The Men That Will Not Be Blamed For Nothing</td>
@@ -1159,47 +1194,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Dwx1Dy90CTarFh327syQkenqM_38l6FMqyIVUf32lqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQ5/NDEtMTI2Njk2NjIy/NC5qcGVn.jpeg" alt="Cover for Mechanical Serpent" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-06-10</td>
-      <td>The Synthetic Dream Foundation</td>
-      <td>Mechanical Serpent</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 2</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 71</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 78</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/JBzPMWDvBsvxwiaCC8tIxDl6GQaMncBEWsP1TY7erFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/NjQtMTMwNjU2NDMz/Ny5qcGVn.jpeg" alt="Cover for Sing-A-Long Knife Fight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68d57f99319b99480d0d40178552740d.png" alt="Cover for Sing-A-Long Knife Fight" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-21</td>
       <td>Skerror</td>
@@ -1216,9 +1213,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/XvF5ry9_f2gRm-GyXagCBawYt_RTwj2NiZ75vI027tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzc5/NjEtMTQzNjg2OTU4/MC0yODYzLmpwZWc.jpeg" alt="Cover for Sugarskull Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67c40e060aff4d3284b10e759fd1066.png" alt="Cover for Sugarskull Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Lady Laudanum</td>
@@ -1235,8 +1232,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c821ae0bd8248f3bcd6aa0d7571e03e.png" alt="Cover for Odds + Ends" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Lady Laudanum</td>
@@ -1253,8 +1251,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d19beb62ec74240bf53bf81ac44ca94.png" alt="Cover for Ether EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Lady Laudanum</td>
@@ -1271,7 +1270,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/E0pvc8sdwkuUSX3xnlDANKvtu5LkjclBdGkAkWHqUZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDU2/NzQtMTQ1MDAyOTUy/Mi00Mzc1LmpwZWc.jpeg" alt="Cover for Behold the Machine (demos) 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1288,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/E0pvc8sdwkuUSX3xnlDANKvtu5LkjclBdGkAkWHqUZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDU2/NzQtMTQ1MDAyOTUy/Mi00Mzc1LmpwZWc.jpeg" alt="Cover for Behold The Machine LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,6 +1310,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3774e40b4b65d98bc7cbe9e352d24a4.png" alt="Cover for The End of Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-15</td>
       <td>Abney Park</td>
@@ -1326,7 +1326,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-11-20</td>
@@ -1343,7 +1343,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pTQY31AdbmF45MNohaHgNQYZb7ZZIM1ytTpnQL0240I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg0/Mjg5LTE1MzgwODY4/NDgtMjcyMC5qcGVn.jpeg" alt="Cover for The Great Promenade of Fools &amp; Ghosts" style="max-width:120px; height:auto;" />
       </td>
@@ -1363,7 +1363,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/09YjDqPTtFlYXhoWhL3EX5K4bKMmTXLL4ojbTjX8DSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjMw/MjctMTMxNjg2MTg3/OS5qcGVn.jpeg" alt="Cover for Carnival Symposium" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,8 +1381,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e97d76b5c4fc4434ab8e370f733460af.png" alt="Cover for Something Wicked (That Way Went)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-27</td>
       <td>Vernian Process</td>
@@ -1401,7 +1402,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83097c4032d2addfc29f5fc246391278.png" alt="Cover for Live At The Globe of Yesterday&#39;s Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1421,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/BNtsfMDz5pyMBs7FXsucSHwWmp0NdiNYBb_g8BFiKN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE3/NDUtMTQ4ODQwMTc4/OS00MTg4LmpwZWc.jpeg" alt="Cover for Bare Bones Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,14 +1440,14 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 12</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/MyByQcb1vfseBONdhTqfEF0d3NPUbjaJv5FwXkIjuDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzUw/NjQtMTM0MzkyNDE0/NS05MzQ5LmpwZWc.jpeg" alt="Cover for This May Be The Reason Why The Men That Will Not Be Blamed For Nothing Cannot Be Killed By Conventional Weapons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2711507606fa40c980985e274d4845b6.png" alt="Cover for This May Be The Reason Why The Men That Will Not Be Blamed For Nothing Cannot Be Killed By Conventional Weapons" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>The Men That Will Not Be Blamed For Nothing</td>
@@ -1463,7 +1464,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65dcdcde1e843c895742beb5235c98d.png" alt="Cover for The 2¢ Show" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,19 +1473,18 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>The 2¢ Show</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 92</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47af0b3b11395d356eb9091788305cd.png" alt="Cover for Ancient World" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-02</td>
       <td>Abney Park</td>
@@ -1500,9 +1500,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/IUalJT_NUOUXlbtf_slZb53ybZb6PDUVaMEiFUQkbJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE4/NTItMTM0ODk3MjEz/Mi05NTc0LmpwZWc.jpeg" alt="Cover for Illusions Blooming Softly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eea0ee6d82e4093867826bd0b16a2ab.png" alt="Cover for Illusions Blooming Softly" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-10</td>
       <td>Ephemeral Mists</td>
@@ -1519,13 +1519,14 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 5</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 15</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 36</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896b344ccc1b485ba1c2173e8772bab2.png" alt="Cover for Fight Like a Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-24</td>
       <td>Emilie Autumn</td>
@@ -1533,9 +1534,6 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
       <td>
@@ -1544,9 +1542,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/49wupR_FdNYUeX_6jeFQt9vOA3ATHl1hdoWtoTW1K_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjA0/NzItMTQ3Njg5NzE1/NC0yODAxLmpwZWc.jpeg" alt="Cover for Once Upon A Time (In Space)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd951d3de1e840ce86beb768eebedc2a.png" alt="Cover for Once Upon A Time (In Space)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-04</td>
       <td>The Mechanisms</td>
@@ -1561,12 +1559,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 63</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/3u60G1AIJpRQRQGVF5UUi--JTQr_La--L3K4Tz-DF-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQx/NDItMTM1NzQzMjYz/MC0yNTkzLmpwZWc.jpeg" alt="Cover for Silver Smoke, Star of Night (In the Shadow of Christmas)" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1581,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2012-11-09</td>
@@ -1602,8 +1600,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d14a8d818ba5407fa7540af7b88057cc.png" alt="Cover for An Electrical Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>The Veil</td>
@@ -1622,9 +1621,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/aZrM6W3KTsaZ3Hn9WgWZYOt6E6ks4a0BjUEYt8zDbkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTg1/MTktMTM4MDYyMjMx/NS00MzQwLmpwZWc.jpeg" alt="Cover for Ranch Hand Robbie and the Wasteland Wranglers - Off The Grid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f3da40aa1428b215a76a225871735f3.png" alt="Cover for Ranch Hand Robbie and the Wasteland Wranglers - Off The Grid" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Abney Park</td>
@@ -1642,8 +1641,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc2054fb68e94a1a0b456f22ed723da5.png" alt="Cover for Where Drowned Suns Still Glimmer" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-28</td>
       <td>The Synthetic Dream Foundation</td>
@@ -1663,7 +1663,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a621c7098de4170c1b11f7906a2a42a.png" alt="Cover for MK III" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,9 +1683,8 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/n4A01QfkXa34Bs-HkGuAiIxT0_j6-gkpwBsgofMsg9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODc5/NjgtMTU1ODg3OTA2/Ni04MTAxLmpwZWc.jpeg" alt="Cover for The Ironman" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Jordan Reyne</td>
@@ -1703,7 +1702,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d12bde89225691a8b639b52ab2e5327c.png" alt="Cover for Live at Walter Robotics Expo 2013" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1722,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb89a772fe84182c186826e618e6cdf.png" alt="Cover for Hertzmaschine" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1742,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf95b5eff07315e5f4dcada0f122b4f9.png" alt="Cover for The Vice Quadrant, Pt. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,12 +1755,12 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 64</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6664f24c885cb2cd658da0774a6fafb1.png" alt="Cover for Quintessential" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1782,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Uvy3BFdYkvMJZgp_W_nWHlaLqEgL1bs11B-Hg-9o034/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/MTU2LTE1OTA4NDg3/MzctMTMzMy5qcGVn.jpeg" alt="Cover for Viridian" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1804,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wKud_4ZUvU78Ppsu8rN-oXAUyyWMojkUeQB6NqBQ_jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjA2/NTQxLTE2NDEzMzEy/NjItMTc4MC5qcGVn.jpeg" alt="Cover for Savior of the Skies" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,7 +1822,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e44bc6115a2a2b4ccddf9d24b98b920.png" alt="Cover for 1896" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,7 +1840,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/MUhiRUwhmI_phWv-627Zxff0SkJ1dkk2eFtyVx5E20Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA2/MzM2LTE2MDk5NDI1/MzktMzQ1Ni5qcGVn.jpeg" alt="Cover for Esoterica" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1863,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Last Exile OST 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1881,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for Last Exile OST" style="max-width:120px; height:auto;" />
       </td>
@@ -1902,7 +1901,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1925,7 +1924,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -1961,8 +1960,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0128d00bf9225afbbc99433245efe19b.png" alt="Cover for caTra" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -1978,14 +1978,15 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 14</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba761884f8174323b955713df1387b6e.png" alt="Cover for Arcanum Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ben Houge</td>
@@ -2004,7 +2005,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2023,8 +2024,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8175af16323b7d49c314e9a913f1e24c.png" alt="Cover for Ooky Spooky (2021 Stereo Mix)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Aurelio Voltaire</td>
@@ -2042,7 +2044,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -2060,7 +2062,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td></td>
@@ -2077,7 +2079,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
       </td>
       <td></td>
