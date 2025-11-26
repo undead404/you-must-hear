@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T20:15:38.491Z
+date: 2025-11-26T05:12:38.907Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-24T20:15:38.491Z">Mon Nov 24 2025 22:15:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:12:38.907Z">Wed Nov 26 2025 07:12:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -525,7 +525,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 4" style="max-width:120px; height:auto;" />
       </td>
@@ -676,7 +676,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       <td>
         <ul>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 8</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 12</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -934,6 +934,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1d55a8198594090c06da033a05d056a.png" alt="Cover for Dear John: Original Motion Picture Score Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-01</td>
       <td>Deborah Lurie</td>
@@ -1022,7 +1023,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 72</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1223,6 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1396,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 27</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1488,10 +1488,11 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       <td>
       </td>
       <td></td>
-      <td>Larrysmusic</td>
-      <td>Electric Accordion</td>
+      <td>Dzedenz</td>
+      <td>ElectroClassic 1. Midnight of Cinderella - EP</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -1501,7 +1502,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1544,6 +1545,7 @@ Waltz is characterized by its distinctive triple-time signature, creating a flow
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51fb69e5833a40ccc08dae88fa9707e1.png" alt="Cover for 幻想水滸伝ティアクライス オリジナルサウンドトラック disc1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>青木佳乃</td>

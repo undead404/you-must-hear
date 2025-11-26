@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:20:45.837Z
+date: 2025-11-26T05:07:38.455Z
 permalink: tags/instrumental-hip-hop
 title: instrumental hip-hop
 ---
 
 ## instrumental hip-hop
 
-Last updated: <time datetime="2025-11-19T20:20:45.837Z">Wed Nov 19 2025 22:20:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:07:38.455Z">Wed Nov 26 2025 07:07:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/gNOWElMPMfd5rruIktdzIrmiECb1W8uKr7_M4ewQ3wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTkz/MjYtMTQ1NzQyMTY3/NC03MTIxLmpwZWc.jpeg" alt="Cover for ForbiddenImage" style="max-width:120px; height:auto;" />
       </td>
@@ -44,12 +44,12 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/eSnIdEmxC8Dy-dL8T8rcTy87CO05eKfqG3pePZK15DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA5/MS0xMzQ0MTAxMzY1/LTg4NTkuanBlZw.jpeg" alt="Cover for Peanut Butter Breaks" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a8eb3e29e54203950d0176ace39dc8.png" alt="Cover for Substances" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c3eba1adcf485c88c8d8d6daed1c10.png" alt="Cover for Executive Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8792784aab5c4aeab78ad8525c1c2440.png" alt="Cover for Endtroducing....." style="max-width:120px; height:auto;" />
       </td>
@@ -121,15 +121,15 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 81</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 90</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9817b712b243463a9116958c19e94682.png" alt="Cover for Pre-Emptive Strike" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2003</td>
@@ -184,7 +184,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4348636171e0607bf086cab10f31c5d7.png" alt="Cover for and the Big Red Nebula Band" style="max-width:120px; height:auto;" />
       </td>
@@ -198,7 +198,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 63</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/252ed53fadea451ec5b4eabafba9f789.png" alt="Cover for Prefuse 73 Reads The Books" style="max-width:120px; height:auto;" />
       </td>
@@ -247,7 +247,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89748a65c7e1416aa827b2368afbf33b.png" alt="Cover for Prefuse 73 Reads the Books E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a8d1ab6b784853b476f1faeb76a3c7.png" alt="Cover for Amongst Strangers" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +290,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b5ac443c76b4476958d9b24f08e73dd.png" alt="Cover for The Life of Clutchy Hopkins" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +308,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70917bc44df7eb97db37a733653cabbc.png" alt="Cover for Sometimes I Wait for You" style="max-width:120px; height:auto;" />
       </td>
@@ -340,7 +340,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 69</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bab65efa2a114416a521845f861a0771.png" alt="Cover for Paradis Dirtyficiels" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0eb1b72c8b8d55be34419b800798dee.png" alt="Cover for Guts (Le Bienheureux)" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +439,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 57</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +498,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2008-08-15</td>
@@ -515,7 +515,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2111dcef7b5f8de3beab6f4a8251520.png" alt="Cover for Peace Love Weed 3D" style="max-width:120px; height:auto;" />
       </td>
@@ -532,12 +532,12 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 37</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e5d92e951974ef5ce72e8f0a794bd83.png" alt="Cover for Do It &#x2F; Psychedelic Runway" style="max-width:120px; height:auto;" />
       </td>
@@ -552,28 +552,6 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e38dd74df9a4bb4a7d4c0f1d4963772.png" alt="Cover for Drift" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-05-26</td>
-      <td>Nosaj Thing</td>
-      <td>Drift</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 75</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -596,7 +574,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b69bb04dd311caa5b5d7623a664641af.png" alt="Cover for Everlasting Truth" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +594,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee37cda7144714c715980b9809d525.png" alt="Cover for Beat Konducta Vol. 5: Dil Cosby Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -650,7 +628,8 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 10</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 1</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -672,13 +651,13 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 6</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 9</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/D0q9TvHjK38A7Pt7Lr2MlNUyJhXUmi4fRon8CasFLEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk4/MzgtMTMwMjg5NTcx/NS5qcGVn.jpeg" alt="Cover for Weareallgoingtoburninhellmegamixxx3" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +675,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b5cd53561e397a5e2c45ab4070cc9e.png" alt="Cover for Libyus Music Sound History 2004-2010" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +694,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13fa5375e8bc4890c88755dd133a2a0a.png" alt="Cover for Glowing In The Darkest Night" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +712,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0586d78e139c454ec5b9eccf71b82856.png" alt="Cover for Warm Blooded Lizard" style="max-width:120px; height:auto;" />
       </td>
@@ -768,13 +747,13 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 94</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 94</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc7ad4a7a85b4e778186b34ed304bd4f.png" alt="Cover for Peace Of Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -811,9 +790,9 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 8</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 29</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 36</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +814,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/hl2x-dA7jyl3kq5LTVInFqpTOFCH3F8EFLhPE_Y2tUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc1/MzMtMTYxODU4Nzc1/Ni0yODIyLmpwZWc.jpeg" alt="Cover for Deltron 3030" style="max-width:120px; height:auto;" />
       </td>
@@ -889,16 +868,17 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 7</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2011-12-05</td>
@@ -936,7 +916,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c62e91340e4ac898136a2e1ed009cf.png" alt="Cover for Reply from space" style="max-width:120px; height:auto;" />
       </td>
@@ -955,7 +935,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61e699167a4e4eadb934036968d15df5.png" alt="Cover for Alone Together" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +953,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/1Afx11T_uJJ1bQNDYcTMKVNBAV3w8jv6nqlL1NRR0UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzc3/NjctMTM1OTM3NDMy/MS0xMjM4LmpwZWc.jpeg" alt="Cover for Ukulele and Chill" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +973,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2013-04-12</td>
@@ -1010,7 +990,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2013-09-06</td>
@@ -1047,7 +1027,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2013-10-14</td>
@@ -1064,7 +1044,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2014-01-25</td>
@@ -1084,7 +1064,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-04-19</td>
@@ -1139,7 +1119,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/mndrVByQB2ry9rUj83HNieoEnTmWFntNmWLtLcHr5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTc5/NjEtMTQyNDg1Mzk5/OS0xNTk1LmpwZWc.jpeg" alt="Cover for Soulection White Label - Chris McClenney" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1155,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mqm4E_EmgQx-AlBWhaRG8nBU_AZhaihHeiOug6OTkP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ1/NjEtMTQ0MDc4OTE0/MS0xNzE1LmpwZWc.jpeg" alt="Cover for beets 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,12 +1170,12 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/gyWScMUCZPzW3-yIXPOL5p1kgY-Wb3xp6oAnTRhm-Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzk4/MDgtMTY2NDYwNjUw/NC05MDg1LmpwZWc.jpeg" alt="Cover for PRhyme Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -1213,7 +1193,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d6024d1d8e4246c2f926fb758ffbe4.png" alt="Cover for Street Bangerz Volume 6: Playhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,7 +1213,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/8Qngob2Hc640KjWdx-Oc0fBOQ7BCPLqlkP3dUbM17YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYz/NzYtMTcwODg4MjA0/MC0yOTIyLmpwZWc.jpeg" alt="Cover for Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1269,7 +1249,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/986cff489c25c4e52f632a5cc848dd9f.png" alt="Cover for old compilation 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1269,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/QGs8xR7qBTIF80cfiHgdHnMVUpsU3ignlxnR71Pc7Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI3/ODA1LTE2NTAzMDc5/OTgtNTEyMC5qcGVn.jpeg" alt="Cover for Hawaii" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1287,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad9f636bb59740ae531dbfcd9e7a77de.png" alt="Cover for Volta" style="max-width:120px; height:auto;" />
       </td>
@@ -1396,7 +1376,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/CV55mEPDko4eCELflI9nj1nl3shpDLP5H8pFKZNKB8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/MTk3LTE0OTA5ODE2/ODQtMzMxMy5qcGVn.jpeg" alt="Cover for Bad Neighbor Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1394,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b6a43d535fcae88ff926bbbaea5ba7b.png" alt="Cover for Point Pleasant" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1413,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kQEM_MlChrXWLsjgX0h1XdF4t2F5U-tqKxTpFIQLdtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA4/NzU2LTE1MDYzNDc2/NjItNjMyMy5qcGVn.jpeg" alt="Cover for Better Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1431,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0e2356f950671a18c505c24c70681f2.png" alt="Cover for Chinoiseries pt.3" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1450,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/uSgVYvrk4_kHdXkNey0oT5moWEokb2XQjmIQk5BAxOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjM2/MDUtMTQ1ODIzMjQ0/NS0xMjI1LmpwZWc.jpeg" alt="Cover for The Odd Tape" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1529,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e798f886af0c50ea1df67c44b17bf637.png" alt="Cover for Boardwalk Bumps" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1549,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/W5Gyqi478AJVUGgQR5YXm8Bq4o_v3Or1coKztw44I2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ5/Njg0LTE2NjkxNDMz/MDgtNjA1NC5qcGVn.jpeg" alt="Cover for By The Shore" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1603,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/uRd4tyvBQYcK9luImD5zpiclwJ8Jf7rMX6yNdNHutIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ0/OTI1LTE1NDg4NTMz/NjYtNjk2MC5qcGVn.jpeg" alt="Cover for still breathing" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1657,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb2276f0300440bfb0b879cbb0263fad.png" alt="Cover for Repaint Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1678,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e19a9f655ed86f62ba919a4b38156fd8.png" alt="Cover for Instrumental Relics" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1692,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 10</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1715,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66b20d5ff32246aff2da308c23fe2ca7.png" alt="Cover for the engelwood christmas special" style="max-width:120px; height:auto;" />
       </td>
@@ -1755,7 +1735,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d85b39dc44a70f74b90444903859677.png" alt="Cover for Loading..." style="max-width:120px; height:auto;" />
       </td>
@@ -1771,12 +1751,12 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 73</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td></td>
@@ -1796,7 +1776,24 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brenky</td>
+      <td>Daily Route</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1813,7 +1810,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td></td>
@@ -1830,7 +1827,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td></td>

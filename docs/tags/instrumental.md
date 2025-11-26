@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:17:00.404Z
+date: 2025-11-26T05:19:39.075Z
 permalink: tags/instrumental
 title: instrumental
 ---
 
 ## instrumental
 
-Last updated: <time datetime="2025-11-23T10:17:00.404Z">Sun Nov 23 2025 12:17:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:19:39.075Z">Wed Nov 26 2025 07:19:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5679b83f6f6762fe9b13e64299acfda.png" alt="Cover for Happy Moods" style="max-width:120px; height:auto;" />
       </td>
@@ -52,7 +52,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Ghnvien1yHqiDojTcHOnMOSOLzNvMe9rKzZyiDEcCcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/ODYtMTMyMTM3NDcx/Ny5qcGVn.jpeg" alt="Cover for A Virgem de Saint Tropez (Trilha Sonora Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3014bbba0862c41df203917ca81035ee.png" alt="Cover for Blow by Blow" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38e50d460f4c920d29f2fb09e4934213.png" alt="Cover for Wired" style="max-width:120px; height:auto;" />
       </td>
@@ -113,7 +113,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>1976</td>
@@ -131,7 +131,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>
       </td>
       <td>1977</td>
@@ -148,26 +148,38 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f353631c407d4439c47935c1a92c4a40.png" alt="Cover for Themes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11823fac90166b3c8ccef00e23e9c760.png" alt="Cover for H&#39;art Songs" style="max-width:120px; height:auto;" />
       </td>
-      <td>1989-09-01</td>
-      <td>Vangelis</td>
-      <td>Themes</td>
+      <td>1978</td>
+      <td>Moondog</td>
+      <td>H&#39;art Songs</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 65</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad99639b5a1f4dc2a2a5639349221944.png" alt="Cover for Tubular Bells II" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +197,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/015c5fef4db24c4b8545aa3c2ef231d9.png" alt="Cover for Tubular Bells" style="max-width:120px; height:auto;" />
       </td>
@@ -204,8 +216,9 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/112dc702b4c0400ac02e5ac4ec3fefa8.png" alt="Cover for La Valse Des Monstres" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-13</td>
       <td>Yann Tiersen</td>
@@ -237,13 +250,13 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 39</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 46</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d98210998a564b0c8d2e36485719babd.png" alt="Cover for The Space Between Us" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +277,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/27d16304e6e943e88a421a686edaae96.png" alt="Cover for Tubular Bells III" style="max-width:120px; height:auto;" />
       </td>
@@ -283,7 +296,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66e7744db7d98d7e218f0269f7f90b94.png" alt="Cover for Inquisition Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -296,13 +309,13 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 33</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 84</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1799f7f58d17407ba336b2be8ba76cd2.png" alt="Cover for Audio" style="max-width:120px; height:auto;" />
       </td>
@@ -401,7 +414,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50b3dff49be076922e4ee9358b9b0968.png" alt="Cover for Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -414,12 +427,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 71</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/028d47bbfcf045ad850439a540ecfa0a.png" alt="Cover for Everybody Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +451,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/473abf93345f4fd6cfcce906634810da.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -477,7 +490,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/HhMChnQ-RVQ8lQljK7GS0baddIUHQkeJlnF_0WXF05w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODgx/MjYtMTMzNDc3NjI3/OS5qcGVn.jpeg" alt="Cover for Mr. Lucky Goes Latin" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +511,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3410ca3fd9674646a24277a713f610c7.png" alt="Cover for Solace" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +525,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 1</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +547,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2593dda4d5d1403ac0add00f6cb28da3.png" alt="Cover for Legs to Make Us Longer" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +565,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4514649626f4af58eb950ea829e8fb8.png" alt="Cover for Young Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -571,7 +584,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>18</td>
       <td>
       </td>
       <td>2005-02-04</td>
@@ -590,6 +603,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e20ada67959941a5a3db290d68b77255.png" alt="Cover for Les Retrouvailles" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-23</td>
       <td>Yann Tiersen</td>
@@ -602,12 +616,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/445d7b610b21c95b1d6ee4a1c8320494.png" alt="Cover for The Fire in Our Throats Will Beckon the Thaw" style="max-width:120px; height:auto;" />
       </td>
@@ -623,7 +637,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 4</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 5</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 57</li>
         </ul>
       </td>
@@ -643,9 +657,30 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 37</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 45</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f703034a182bbf2d2fb792a6fc48a40.png" alt="Cover for Erotic Cakes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Guthrie Govan</td>
+      <td>Erotic Cakes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 5</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -685,12 +720,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 35</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 73</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ac83bde26548a9b1e0e310860033ef.png" alt="Cover for Magnificent City Instrumentals" style="max-width:120px; height:auto;" />
       </td>
@@ -708,7 +743,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Yijz7w84XjjzsT1ke0qJlQ6Hp7klAwrg_Y8X3hcQyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzkw/OC0xMTYzNTExOTA5/LmpwZWc.jpeg" alt="Cover for Seoul" style="max-width:120px; height:auto;" />
       </td>
@@ -728,7 +763,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4b045a69d54845688622c2fc493d01c.png" alt="Cover for New Sentimentality" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +794,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/O-f0HkCUU0ID9TeGEx2r5f9dJXqpEig32xnk-2wgOJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE5/MS0xMzAzODE1MjUw/LmpwZWc.jpeg" alt="Cover for All of a Sudden I Miss Everyone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20b1fa668a174b0182d2bd495ff0e23d.png" alt="Cover for All of a Sudden I Miss Everyone" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-19</td>
       <td>Explosions in the Sky</td>
@@ -776,7 +811,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b098631edffafae0cb0773f5ddff509.png" alt="Cover for Balmorhea" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +826,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -816,29 +851,6 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5bc07e355524e68999d99bf65700516.png" alt="Cover for Ghosts I-IV" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-03-02</td>
-      <td>Nine Inch Nails</td>
-      <td>Ghosts I-IV</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>79</td>
       <td>
           <img src="https://i.discogs.com/nV3_ywMk2ppT1pcDyDWmJaRvsbvlxTL2AuglnGSGd_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/MTYtMTUzMjc4MTk3/Ni0xMzkxLmpwZWc.jpeg" alt="Cover for Station" style="max-width:120px; height:auto;" />
@@ -856,12 +868,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 9</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 46</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 70</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25b1f400ab3a415c9a72a0ba14c38c53.png" alt="Cover for Wermland" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +891,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
       </td>
       <td>2008-12-08</td>
@@ -896,7 +908,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d20860143509ca9a852057fb8857d66a.png" alt="Cover for Chon" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +930,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for 3 Am. Study Session" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +949,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
       </td>
       <td>2009-04-20</td>
@@ -975,7 +987,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/hiPNq7sih_KrGnpSIpfzhAWsWFBX3hGcqdG0GdWqWRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzI5/Ny0xMDg1MjI0MDI0/LmpwZw.jpeg" alt="Cover for Since We Last Spoke: Deluxe" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +1005,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>
       </td>
       <td>2010</td>
@@ -1010,7 +1022,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c8c5bbfcf814b4282a793a743649ddd.png" alt="Cover for Cosmic Intoxication" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1044,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/806da06445c847e6bf3e08236c79a305.png" alt="Cover for Wut" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1064,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1119d6361809483e87b27e4cbb98c732.png" alt="Cover for Islands - Essential Einaudi" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1088,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4a2e35b5c13445aad5c4251e23a3d15.png" alt="Cover for Creature Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,14 +1106,14 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 10</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 9</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2011-06-10</td>
@@ -1172,7 +1184,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1196,7 +1208,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2014-04-29</td>
@@ -1211,7 +1223,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 66</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 67</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 71</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
         </ul>
@@ -1262,7 +1274,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/250a1460119e4355c3b4aacf5da65e90.png" alt="Cover for Yawn Zen" style="max-width:120px; height:auto;" />
       </td>
@@ -1281,7 +1293,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/029d96369758f1f8efa22d7679f4ab23.png" alt="Cover for ECO" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1317,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10e12eb96654dee198713d2ecc280c5f.png" alt="Cover for Origin" style="max-width:120px; height:auto;" />
       </td>
@@ -1330,7 +1342,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac8a5e157cd3b593fbda7ec19377521d.png" alt="Cover for Sometimes" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,48 +1363,6 @@ Instrumental music is music that is solely or primarily composed of musical inst
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 11</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 57</li>
             <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6034caebe375c59d1e211249ae81b6.png" alt="Cover for Interview 2016" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-06</td>
-      <td>Death Grips</td>
-      <td>Interview 2016</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 22</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c62d97654614468dc6a07a75eaf3d8bf.png" alt="Cover for Fashion Week" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-02-06</td>
-      <td>Death Grips</td>
-      <td>Fashion Week</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1411,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68f348830593c71b202bdc34509f693a.png" alt="Cover for Jackpot" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,16 +1429,16 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 46</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 47</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/cymEMN9O-s-iuyb3gEN1j_yFTJq083W8yg6GiZ1ouB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODA1/MTktMTQ4MTMyMTQ4/MC05MjQ2LmpwZWc.jpeg" alt="Cover for Firewatch (Original Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebcac08c7a95d8154695b39d1a45ea24.png" alt="Cover for Firewatch (Original Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-06</td>
       <td>Chris Remo</td>
@@ -1509,6 +1479,26 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d3d5ca22d4059374b3edcb5f319bd53.png" alt="Cover for Hollow Knight (Original Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Christopher Larkin</td>
+      <td>Hollow Knight (Original Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5acab529b57135ad4e1bbb0a11839b0c.png" alt="Cover for Her (Original Score)" style="max-width:120px; height:auto;" />
@@ -1525,27 +1515,8 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d3d5ca22d4059374b3edcb5f319bd53.png" alt="Cover for Hollow Knight (Original Soundtrack)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Christopher Larkin</td>
-      <td>Hollow Knight (Original Soundtrack)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1562,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/GomE--eTgVKT7TiVdSiZhQXa23jDjzUTfrreTuz9pnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/OTY5LTE1NjAyMjc0/NjUtOTUxOC5qcGVn.jpeg" alt="Cover for Innocence" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,14 +1582,14 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 70</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 74</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 74</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/tAWd-CmRA_04lWxiZLk8py60M7PMF9uXJEZvtNPJp_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk4/MTcwLTE2MTk0NjQz/NjEtMzEzMi5qcGVn.jpeg" alt="Cover for Prehension" style="max-width:120px; height:auto;" />
       </td>
@@ -1683,7 +1654,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9178a987a71b42c7d1d97e71969206.png" alt="Cover for New Levels New Devils" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1675,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/POkZPyzWT2cHto6X6Wb4ggQbDMx-9NQbtsaF4M7UM4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA2/NDM4LTE2NTgwMDE5/MDEtNTkxOS5qcGVn.jpeg" alt="Cover for Land of Calm" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,12 +1690,12 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 40</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac35960dc29e427ce5d3f27c4d9a81c.png" alt="Cover for Resident Evil 2 Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,14 +1714,14 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 37</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 40</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/3ODXoCj3ZRUvAjWck5z2g_3XZG15miKpA30dFie1f7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcw/NDQ4LTE1ODQ0ODgw/ODYtMjY0OC5qcGVn.jpeg" alt="Cover for Drowning In The Sewer" style="max-width:120px; height:auto;" />
       </td>
@@ -1770,7 +1741,28 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/hvydlHHqBqJddUhIcgZliDkZ34PUxzoXZnSlhSZZsuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/NC0xNTE1ODYxNjI5/LTE1NDMuanBlZw.jpeg" alt="Cover for dream&#39;s end come true" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-06</td>
+      <td>World&#39;s End Girlfriend</td>
+      <td>dream&#39;s end come true</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/EhT-EAjyWUnAKkNQwmKTWSMilZlT-PBJR0GheTeJXO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAz/ODI0LTE1ODUzODgz/MTQtNDI0OS5qcGVn.jpeg" alt="Cover for Empty" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1845,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 82</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
@@ -1947,7 +1939,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/3YpAzxO2jMUhZqcOha3nDJJJGOhkn8k7DMLqRpC2kLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzYy/MzQ1LTE2OTAxMzM1/OTQtMjE4OC5qcGVn.jpeg" alt="Cover for Oppenheimer (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/088d4d265311df770214cae6a34f4b25.png" alt="Cover for Oppenheimer (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-21</td>
       <td>Ludwig Göransson</td>
@@ -2031,16 +2023,39 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 90</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 97</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SEGA Sound Team</td>
+      <td>Jet Set Radio Future SEGA Original Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 75</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9e4a5abf33e28cedb3b8eae1df76e2c.png" alt="Cover for Humble Thoughts" style="max-width:120px; height:auto;" />
       </td>
@@ -2055,7 +2070,7 @@ Instrumental music is music that is solely or primarily composed of musical inst
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 13</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 17</li>
         </ul>
       </td>
     </tr>

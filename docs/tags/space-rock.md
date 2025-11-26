@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:17:11.448Z
+date: 2025-11-26T05:20:38.623Z
 permalink: tags/space-rock
 title: space rock
 ---
 
 ## space rock
 
-Last updated: <time datetime="2025-11-23T10:17:11.448Z">Sun Nov 23 2025 12:17:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:20:38.623Z">Wed Nov 26 2025 07:20:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/J_WaWlDRSVJKGri2UGC6WAJR3d5_XI9qjVW1Cd1EyQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE2/MDYtMTQ4ODg5MDc3/NC00NTYwLmpwZWc.jpeg" alt="Cover for Flying - One Hour Space Rock (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1973-05-11</td>
@@ -153,7 +153,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1974</td>
@@ -221,7 +221,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 8</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1977-06-17</td>
@@ -259,7 +259,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1980</td>
@@ -277,7 +277,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1980-10-27</td>
@@ -294,7 +294,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1985-09-21</td>
@@ -333,7 +333,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 68</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 87</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 88</li>
         </ul>
@@ -375,7 +375,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 29</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 62</li>
         </ul>
       </td>
@@ -470,7 +470,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bac628fe97bb47c690cdd78020857312.png" alt="Cover for Lazer Guided Melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +487,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed848724327ff67bd1948e0dfe17c971.png" alt="Cover for Flying Saucer Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +543,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b0642a54e6e383c004434aee706c37e.png" alt="Cover for Magnified" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +621,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd4b79498fb7c3abe7e08714fccc6422.png" alt="Cover for Scenes From the South Island" style="max-width:120px; height:auto;" />
       </td>
@@ -833,9 +833,9 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 16</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 17</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 99</li>
         </ul>
       </td>
@@ -860,7 +860,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2000</td>
@@ -917,7 +917,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87f46385a00b45fda9cc05cd3c8a6a24.png" alt="Cover for Voyage 34: The Complete Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,9 +1030,9 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 61</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1074,7 +1074,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/akKRuZER-ZznFUZqC84NsI8DebepO6g5CzVEfV57WxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTU5/NS0xMTY2NDcxMTQ3/LmdpZg.jpeg" alt="Cover for Gamelan into the Mink Supernatural" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,12 +1149,33 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef28ff2329db4edfcee0566faf3cbd7e.png" alt="Cover for We Don&#39;t Need to Whisper (International Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-23</td>
+      <td>Angels &amp; Airwaves</td>
+      <td>We Don&#39;t Need to Whisper (International Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21277de8187eceedf1ae11949bc281c0.png" alt="Cover for Memo Rex Commander y el Corazón Atómico de la Vía Láctea" style="max-width:120px; height:auto;" />
       </td>
@@ -1167,27 +1188,6 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e04881c3e04e0559471622721d0eb3.png" alt="Cover for Gigahearts" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-12-01</td>
-      <td>Dope Stars Inc.</td>
-      <td>Gigahearts</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007-04</td>
@@ -1281,7 +1281,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 13</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1321,7 +1321,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-04</td>
@@ -1401,7 +1401,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1445,8 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 4</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1465,12 +1466,12 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 61</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011-03-15</td>
@@ -1567,7 +1568,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4be79af140d649e89f5fbf7db0ddce65.png" alt="Cover for Satellites" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1651,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/SZY_qmED8fXpyyaMcWg8Z1mS24lEgyNo4KkJAGUsW3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDA1/OTktMTQxOTI3NjAy/MS05NzgyLmpwZWc.jpeg" alt="Cover for Protos" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1709,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15d4d658981eac5f06f65415b71cbb34.png" alt="Cover for Arbiter" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1870,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/29PNxElHIQ8YLt7grE898Sfm1bajIBSHJO0ATI7vW7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/MDM3LTE2NzgyMjky/NjItMjc2NC5qcGVn.jpeg" alt="Cover for Ummon" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1912,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
             <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 92</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 95</li>
         </ul>
@@ -1938,7 +1939,7 @@ Space rock is a subgenre of rock music that blends elements of psychedelic rock,
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1692393d1550a15c560848d7f140377.png" alt="Cover for Remote Echoes" style="max-width:120px; height:auto;" />
       </td>

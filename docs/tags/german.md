@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:17:39.308Z
+date: 2025-11-26T05:22:38.237Z
 permalink: tags/german
 title: german
 ---
 
 ## german
 
-Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:22:38.237Z">Wed Nov 26 2025 07:22:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,7 +141,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 35</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 15</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 16</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 79</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 98</li>
         </ul>
@@ -185,7 +185,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1999</td>
@@ -202,7 +202,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1999-02-26</td>
@@ -235,7 +235,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -254,7 +254,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 79</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 80</li>
             <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 100</li>
         </ul>
@@ -391,7 +391,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003-09-01</td>
@@ -409,7 +409,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fUxKu5AZDsFvoQrOXavEQq0c2P6siTK39-Iiog7Jq1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIz/MDctMTQ1NzcyNDQ3/My0yNDQyLmpwZWc.jpeg" alt="Cover for old firehand ep" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +449,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4582cefa9b5376cbf156ccb9a44caba7.png" alt="Cover for Es wird Morgen" style="max-width:120px; height:auto;" />
       </td>
@@ -488,7 +488,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2005</td>
@@ -503,7 +503,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 5</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 19</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 20</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 83</li>
         </ul>
       </td>
@@ -548,7 +548,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2005-01-17</td>
@@ -597,6 +597,28 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/146f751a56e04674a19b7e2b7538feac.png" alt="Cover for Kamikazeherz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-22</td>
+      <td>Bosse</td>
+      <td>Kamikazeherz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 98</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +849,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 33</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 36</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 87</li>
         </ul>
       </td>
@@ -870,8 +892,8 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 10</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 22</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +913,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 90</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +937,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac2857ad3cc9eb4fa082974a49ae0f79.png" alt="Cover for Strom Und Drang" style="max-width:120px; height:auto;" />
       </td>
@@ -947,26 +969,6 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fcd0194759346e19b60ba6383f2b102.png" alt="Cover for Sünde" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-08-22</td>
-      <td>Eisbrecher</td>
-      <td>Sünde</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1036,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/807905e9b8414432fadd899f16e9a467.png" alt="Cover for Boheme" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1116,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/442e3c1225f042a7bf26b4be9eec4426.png" alt="Cover for Dis wo ich herkomm" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1177,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2010-02-26</td>
@@ -1193,7 +1195,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda3e418d91d4a3785831644664af49c.png" alt="Cover for Katzengold" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1250,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39615bc32c1f43d1ad4bf5c7ab82aeb5.png" alt="Cover for I Love You, Dude" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1361,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5920e075d3d9427a93595d49d38a8573.png" alt="Cover for Triebwerke" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1418,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc19a9b2016246fec628e87095ad6085.png" alt="Cover for Close To The Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1476,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 17</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
             <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 93</li>
         </ul>
       </td>
@@ -1504,7 +1506,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e1033210c14810c894271aaeabb3c6.png" alt="Cover for Crackstreet Boys II X Version" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1528,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a273543cfd08d8de97a03e04acd7eb2a.png" alt="Cover for Chrome - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1549,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/D99-d21cVT_YCNb2C9tSJR7-qy8k7P0G9GBLNB0Qr5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzg2/NDMtMTQzMjI4MDYw/Ni0zNDY3LmpwZWc.jpeg" alt="Cover for Wieder geil!" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,13 +1611,13 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 16</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d8a452f9706fc7b7418c3b946880f0b.png" alt="Cover for Coma Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1636,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1661,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 3</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 26</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1705,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 10</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1866,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 59</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 76</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
@@ -1889,7 +1891,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16e96b3df1d231d979bde8ec35648394.png" alt="Cover for Das ist alles von der Kunstfreiheit gedeckt" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1909,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2022</td>
@@ -1924,7 +1926,7 @@ Last updated: <time datetime="2025-11-23T10:17:39.308Z">Sun Nov 23 2025 12:17:39
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ygXP2rJ1S0C_dsjR_aWMDJNQgRNj-PeQ2MBe2dlvtlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjc5/NC0xMjA2NDgzNTQ2/LmpwZWc.jpeg" alt="Cover for Ich will nur dass du weißt" style="max-width:120px; height:auto;" />
       </td>

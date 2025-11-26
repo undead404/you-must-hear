@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T20:12:38.035Z
+date: 2025-11-26T05:09:38.240Z
 permalink: tags/southern-rock
 title: southern rock
 ---
 
 ## southern rock
 
-Last updated: <time datetime="2025-11-24T20:12:38.035Z">Mon Nov 24 2025 22:12:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:09:38.240Z">Wed Nov 26 2025 07:09:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 38</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 39</li>
             <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 43</li>
         </ul>
       </td>
@@ -138,6 +138,23 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/beffcdaa1584499e9cc54291d8a8698a.png" alt="Cover for Mardi Gras" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972-04-11</td>
+      <td>Creedence Clearwater Revival</td>
+      <td>Mardi Gras</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -254,12 +271,12 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 19</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2dd191141f9acf19b522292c15ccf59.png" alt="Cover for Nuthin&#39; Fancy" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +294,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6789887dcbfb2a27fc287a27c98bbcad.png" alt="Cover for Chronicle" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +350,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3344dba6babc87cea041dea5cc5ca0.png" alt="Cover for One More From The Road" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +385,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6acd3d55ac149e3be9f08d31f45e75a.png" alt="Cover for Best of The Doobies" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +404,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/667e426c5eb74209c20485ea6f390f35.png" alt="Cover for Carolina Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +458,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf03e1ed5a0c789374a06c5d8640952d.png" alt="Cover for Molly Hatchet" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +495,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b0b4e33f4704522b7f8f0266bc3aac2.png" alt="Cover for Million Mile Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +514,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf4fa8b1c9e40c091772ac94fad4a2e.png" alt="Cover for Strikes" style="max-width:120px; height:auto;" />
       </td>
@@ -515,7 +532,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2a834096b8e488c96060d18f9932cca.png" alt="Cover for Flirtin&#39; With Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +568,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa019592bd675c1d03dab628fd72cdf6.png" alt="Cover for A Decade of Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +583,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 37</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -584,12 +601,12 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 66</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1987</td>
@@ -606,7 +623,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/7_fp8loSKQ4D5UAxlkAF4sU6U6I2iI3aGHK7qxPf-vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQw/NC0xNjA1MDM0NTY1/LTk2ODkuanBlZw.jpeg" alt="Cover for Dangerous Toys" style="max-width:120px; height:auto;" />
       </td>
@@ -626,7 +643,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0129b2709f5b07a66e7bbe4ba02a83c5.png" alt="Cover for Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +701,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c663ceb721043a096c1ea1fc21f268b.png" alt="Cover for A Decade Of Hits 1969-1979" style="max-width:120px; height:auto;" />
       </td>
@@ -697,8 +714,6 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 5</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +736,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0da5541a4bd40c0aed1df83c8999174.png" alt="Cover for A Retrospective" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +773,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2fd1bc092f427c3ef37d396d7a74272.png" alt="Cover for Rattlesnake Rock &#39;n&#39; Roll: The Best of Blackfoot" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +791,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe7087d7e57b49a1ba7d280684c0b933.png" alt="Cover for Pride &amp; Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +846,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1995-08-15</td>
@@ -848,7 +863,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/351782b9e1f098b5e568c8b7522b5a58.png" alt="Cover for Book of Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +881,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f56fe49ac3e482e95c09f595d0e4a85.png" alt="Cover for ...Somewhere More Familiar" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +898,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb52e0f093e74d4cbb31271d3c3a502e.png" alt="Cover for By Your Side" style="max-width:120px; height:auto;" />
       </td>
@@ -920,7 +935,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>1999</td>
@@ -939,7 +954,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a85d644651b35bb9cb363372a3762fd.png" alt="Cover for Edge Of Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +1009,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2000-09-12</td>
@@ -1011,7 +1026,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2000-11-14</td>
@@ -1026,7 +1041,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 33</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1046,12 +1061,12 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 30</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2001-09-25</td>
@@ -1086,7 +1101,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e4285fa2a5a4e37873d90b94d3ddc83.png" alt="Cover for Vicious Cycle" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,7 +1137,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2003-07-23</td>
@@ -1137,7 +1152,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 26</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1156,11 +1171,12 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40861aaf29d0e9ede5f896f1c9801407.png" alt="Cover for 91025" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,13 +1195,13 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 45</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75986e8a4570432e811a70db288269db.png" alt="Cover for Live At Bonnaroo" style="max-width:120px; height:auto;" />
       </td>
@@ -1236,7 +1252,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 44</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1257,12 +1273,12 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c9ac23006494ad5cae836cac1a64f31.png" alt="Cover for Get Right With The Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1296,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52b6a3a7bb51685b5a22d499e74b2461.png" alt="Cover for Nobody&#39;s Darlings" style="max-width:120px; height:auto;" />
       </td>
@@ -1320,7 +1336,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/179401ebf4e04b129ee3b8a7d966651c.png" alt="Cover for Maylene and the Sons of Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1356,7 +1372,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d32550ec3817d7f06c4cdadae46d3d23.png" alt="Cover for A Blessing and a Curse" style="max-width:120px; height:auto;" />
       </td>
@@ -1377,7 +1393,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/922b4ba6ee7e3521781eed72e4fd2520.png" alt="Cover for The Outlaws" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1411,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80a2b27afc6b48c9a744ce6ff5fa2839.png" alt="Cover for Hell And High Water" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1428,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34e7040254184231b2a5b71dd68c6272.png" alt="Cover for Revival" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1447,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3a072536b384f1494eb1e344f5a6dba.png" alt="Cover for Brighter Than Creation&#39;s Dark" style="max-width:120px; height:auto;" />
       </td>
@@ -1469,7 +1485,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/ovsOqnGQs0y_fP4q9dpD4JTU3d9KiMkXCoHIu9wFxDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/NzItMTI2OTk1NzUx/Mi5qcGVn.jpeg" alt="Cover for Wrecking Ball" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1525,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3753a72714df44f9b046032551214628.png" alt="Cover for Use Somebody" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1560,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       <td>
         <ul>
             <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 50</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 54</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1567,27 +1583,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7bd4adc41c34736b86a050af2cc64e9.png" alt="Cover for It Hates You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-06-23</td>
-      <td>He Is Legend</td>
-      <td>It Hates You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6336e29051ab4494a22cc971ffa8e267.png" alt="Cover for God &amp; Guns" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1601,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06a13d798b14bd187e7d1ea79cf4cfe.png" alt="Cover for 1372 Overton Park" style="max-width:120px; height:auto;" />
       </td>
@@ -1646,7 +1642,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/958b5418e0dc4d89a43c93cfd10ec5cb.png" alt="Cover for Folk Songs of the American Longhair" style="max-width:120px; height:auto;" />
       </td>
@@ -1664,7 +1660,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f32bb14ca70941e6a8a3e2d40fe73c32.png" alt="Cover for Horseshoes and Handgrenades" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,12 +1690,11 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70a65513cd3b4bd5b1f32ee39c2c9dcc.png" alt="Cover for Go-Go Boots" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1713,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/TnWyRDn8WhKc1A3Qa7r4RU-1L_DixpornIQUbCp1gcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjAz/NDUtMTMwNzM2Mjk5/OS5qcGVn.jpeg" alt="Cover for Between the Devil &amp; the Deep Blue Sea (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1731,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/mU0LQhZc0Yv3WRoavWMO42PlHGbx5nO0JVtBRVWsVsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjI2/MzEtMTU0Mjg3NTUw/NC03NzcxLmpwZWc.jpeg" alt="Cover for And You Are Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,15 +1768,15 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 18</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 26</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 73</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 77</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb8c5e11fc5db4a3cc4e63143be7ae7e.png" alt="Cover for Rivers in the Wasteland" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1798,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Vadb3HE1hrHBPdswkkMmGb7dU8sDkRzmt6yFz3J6628/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQz/MjMtMTQ3Mzc5MzI0/Ny0zMzQ0LmpwZWc.jpeg" alt="Cover for Okey Dokey" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1816,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2cb74c6f9526201531cc36e8847162d.png" alt="Cover for Lifers" style="max-width:120px; height:auto;" />
       </td>
@@ -1844,7 +1839,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7af2f86cfb1b5be00e3fb74306be5595.png" alt="Cover for Virus" style="max-width:120px; height:auto;" />
       </td>
@@ -1864,7 +1859,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -1885,7 +1880,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53c8f428085a7e552672d72849ebb94.png" alt="Cover for Weathervanes" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1915,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 5</li>
         </ul>
       </td>
     </tr>

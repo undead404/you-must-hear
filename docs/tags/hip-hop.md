@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T18:41:38.134Z
+date: 2025-11-26T04:40:38.640Z
 permalink: tags/hip-hop
 title: hip-hop
 ---
 
 ## hip-hop
 
-Last updated: <time datetime="2025-11-24T18:41:38.134Z">Mon Nov 24 2025 20:41:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T04:40:38.640Z">Wed Nov 26 2025 06:40:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/19ddf1d0392ef60551b836dd5ba3c94e.png" alt="Cover for Licensed to Ill" style="max-width:120px; height:auto;" />
       </td>
@@ -49,7 +49,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dce63c224a643b78b39caeb27aadf8b.png" alt="Cover for Illmatic" style="max-width:120px; height:auto;" />
       </td>
@@ -58,20 +58,19 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>Illmatic</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 43</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 49</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 70</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12a75a3617a38b026f1bdeae48ffe0e8.png" alt="Cover for Ill Communication" style="max-width:120px; height:auto;" />
       </td>
@@ -89,25 +88,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c95372b82e09e3b8f441bc6a89eeb9c1.png" alt="Cover for Enter the Wu-Tang (36 Chambers)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Wu-Tang Clan</td>
-      <td>Enter the Wu-Tang (36 Chambers)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28229f48f77f2c5f648055c3b6273099.png" alt="Cover for Stankonia" style="max-width:120px; height:auto;" />
       </td>
@@ -122,13 +103,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 11</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/J7QeW8EU8uWPoEV7Z-1Dcv7n_x6W2y99o9dW5OUx27k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc0/OTMtMTQzNDg4MzMz/Ni01NDM3LmpwZWc.jpeg" alt="Cover for The Black Album" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +128,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -161,14 +142,15 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 50</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 16</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 51</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ba3f305787248a3c88e96fdfd33892a.png" alt="Cover for Take Me to Your Leader" style="max-width:120px; height:auto;" />
       </td>
@@ -182,13 +164,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 86</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/B8IIFTD3C3wXn11lihvhdVJsnTxbFiGoGuveRvRwCZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI1/MzUtMTMxMzA0Mjc4/Ni5qcGVn.jpeg" alt="Cover for Watch The Throne" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +188,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg" alt="Cover for MM..Food" style="max-width:120px; height:auto;" />
       </td>
@@ -221,17 +203,17 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 1</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 9</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 2</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 11</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 17</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/496f388a6bd2fbe8587915943b4fd0c8.png" alt="Cover for Monkey Business" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +231,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/483ee6586f4704ee5d478071540ec0d7.png" alt="Cover for Shock Value" style="max-width:120px; height:auto;" />
       </td>
@@ -308,7 +290,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ca0fd6e84a14317a7d21eaebc81320a.png" alt="Cover for Man on the Moon: The End of Day" style="max-width:120px; height:auto;" />
       </td>
@@ -322,12 +304,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de6e95ed68fdc34a41312d0d4ef85c68.png" alt="Cover for B.o.B Presents: The Adventures of Bobby Ray" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +328,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf1b960aeb383b55aa6d53b639544c48.png" alt="Cover for Thank Me Later" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +346,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee16dc01c93643b288b60e9806c1e68b.png" alt="Cover for Recovery" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +366,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/710d5f1abe58c7a83492a86d0235d2b9.png" alt="Cover for Man on the Moon II: The Legend of Mr. Rager" style="max-width:120px; height:auto;" />
       </td>
@@ -402,7 +384,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a071c4b073625018de5f0ac58727511.png" alt="Cover for My Beautiful Dark Twisted Fantasy" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +401,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a1143dd7c034e22b5ab5c56fd739a68.png" alt="Cover for Pray For Me (with Kendrick Lamar)" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +423,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/xIBzkDZ6q6ZuLBRqu2b-03z5qZuK9y214tyjTY46tZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE2/NTA3LTE2MzUxMDIz/NjItMTU2NS5qcGVn.jpeg" alt="Cover for DAYWALKER! (feat. CORPSE)" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +442,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 79</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
             <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 98</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 100</li>
@@ -469,7 +451,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/efd81545b2ac4e698fdee7f7550e266e.png" alt="Cover for Massive Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -487,7 +469,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -499,16 +481,16 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 48</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 63</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 86</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7a67c3aee804e53bbe7bc7babe63c49.png" alt="Cover for Good Feeling" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +508,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4dcaa646976b94bee327f17d7b70939.png" alt="Cover for The Papercut Chronicles II" style="max-width:120px; height:auto;" />
       </td>
@@ -545,7 +527,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee716520f1d244d990d5f6c8783375fe.png" alt="Cover for Camp" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +547,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/NHVSZthOAWvmskvUHhPC5T4hLrzrkR3TzzQPNSnUfR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDI1/MTMtMTQ1ODM3OTEx/My02NzI3LmpwZWc.jpeg" alt="Cover for What a Time To Be Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +565,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/WHAIn68EQDD1rB6w8RORX4NiS5yC8-WSLr2blu60wCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU1/NjgtMTMzNDY5NjU4/NS5qcGVn.jpeg" alt="Cover for wE dON&#39;t TruSt YoU" style="max-width:120px; height:auto;" />
       </td>
@@ -598,12 +580,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 63</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58b3f7a642d3939ba25be36220444e1d.png" alt="Cover for 1991 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +628,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/434a922ecca5474f1f9d6bbcc3a1050c.png" alt="Cover for More Life" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +650,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/affa1d5df8b9141db4078541fdb3663f.png" alt="Cover for For All the Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +669,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2013-04-01</td>
@@ -699,8 +681,8 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 45</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 46</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 58</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 58</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
@@ -708,7 +690,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d8c1f84d67e60c5dda039d6fb3653f.png" alt="Cover for Yeezus" style="max-width:120px; height:auto;" />
       </td>
@@ -722,7 +704,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 78</li>
         </ul>
@@ -745,13 +727,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 84</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 84</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/B7IPhn2-Q9lD1f59tpqK4Ik4doiSGtciQCfD8VDZvJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjUz/NTAtMTY1ODUzNTM3/Mi01NDU0LmpwZWc.jpeg" alt="Cover for Nothing Was The Same (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +751,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89117b736cebb7b4c129e37d3e94c340.png" alt="Cover for If You&#39;re Reading This It&#39;s Too Late" style="max-width:120px; height:auto;" />
       </td>
@@ -819,12 +801,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2015-05-26</td>
@@ -861,7 +843,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/37BQKo20YDyaEVIZUOKj9hY7pKYITXIOsYQEc4_uQ2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTU3/NzUtMTQ1NTQ0MjAz/Ni04ODY3LmpwZWc.jpeg" alt="Cover for The Life Of Pablo" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +859,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 5</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 63</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 67</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 93</li>
@@ -904,14 +886,14 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 88</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 100</li>
             <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89203ad04079ba3d404622e37b248ce4.png" alt="Cover for Radical $uicide" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +911,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/78nVRc30OdpufthaN_Gl9IBRMZw4Fk-Tx3UwF_WJpJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODky/OTgtMTU0OTA1MzE4/NS0yNzE0LmpwZWc.jpeg" alt="Cover for Birds In The Trap Sing McKnight" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +929,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01a34a66db612b2a0bf049525c325654.png" alt="Cover for 4 Your Eyez Only" style="max-width:120px; height:auto;" />
       </td>
@@ -968,7 +950,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg" alt="Cover for Castles II" style="max-width:120px; height:auto;" />
       </td>
@@ -986,15 +968,15 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 19</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 39</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a113a5658d6a1e067f99102b1e239648.png" alt="Cover for #SantanaWorld (+)" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,14 +993,14 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 69</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 70</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/W_ZWsaGZRyZT-wA4ryO-QTio8n5jA_CJtZWuuS23GJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/MTYxLTE2NDgxMjQw/NjQtOTQ1NC5qcGVn.jpeg" alt="Cover for 17" style="max-width:120px; height:auto;" />
       </td>
@@ -1045,7 +1027,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/jOmL5ZbX5bWsREp9sSeC1zULBhguuQG1G21viXxGYuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYy/OTUzLTE2NDc4MTgz/NTctNzg2MS5qcGVn.jpeg" alt="Cover for CALL ME IF YOU GET LOST" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1049,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2de29268f9757d801dde7b6b682d15c.png" alt="Cover for KOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1069,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/T8dE6w2LeGCnVAK2_L15VbibaGf9Lkk0OdCbjDKsVss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/NDk5LTE1NDIyNjAx/NDktOTczNi5qcGVn.jpeg" alt="Cover for Euphoria" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,13 +1085,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 72</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 73</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/089cb89043e66eb2e5a68cf53de271fe.png" alt="Cover for rockstar" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,12 +1104,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 38</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/32-NZ75TNqK5sLsGhpt-8kKUFryPRF6r2oJ0mXQBoT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQy/Nzk5LTE1MTk5MjA5/NDYtMTgxOS5qcGVn.jpeg" alt="Cover for Hope World" style="max-width:120px; height:auto;" />
       </td>
@@ -1149,7 +1131,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/-vrxNNl4vQVCsn3cy6zHTouDPde9zbER0mNGTS4j-5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIz/MzM5LTE1ODc0Njgy/MDctNjY5Ny5qcGVn.jpeg" alt="Cover for Beerbongs &amp; Bentleys" style="max-width:120px; height:auto;" />
       </td>
@@ -1164,13 +1146,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 7</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 14</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb8e41ecc96f769575babd440b81e795.png" alt="Cover for Goodbye &amp; Good Riddance" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1166,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 2</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1188,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 45</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 99</li>
         </ul>
       </td>
@@ -1237,7 +1219,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/1R_3HRkzlJf8NPQKdbS6PLKXioZc-PC2_X_KX0e0E3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/NTkxLTE2NjQ5MjMw/MjgtNzk1NS5qcGVn.jpeg" alt="Cover for Life&#39;s a Trip" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,7 +1237,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/8_i__gnMNMp0VWGKQdxUIg5t5Bd-BzIo62w1PGEOyDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/ODg2LTE1Mzk3MDE2/ODYtNjEyNS5qcGVn.jpeg" alt="Cover for Come Over When You&#39;re Sober, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1250,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 91</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 92</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 94</li>
         </ul>
       </td>
@@ -1318,7 +1300,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/9Sgh_dfPJfqUakivNHYsFikmkK1wL5nfL-2JXPU-W9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc5/MTk2LTE1NDM3MDc3/MDktMTQ4MS5qcGVn.jpeg" alt="Cover for Stokeley" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,14 +1319,14 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 53</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 57</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 80</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c26246cad038e2a997c998f75f0abb.png" alt="Cover for KIRK" style="max-width:120px; height:auto;" />
       </td>
@@ -1362,7 +1344,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0bcf147a98ee8609d584be18627fb29.png" alt="Cover for Uh-Oh" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1386,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/fZ5Grth_3wNsLQI8F8lI9qC_WGnTyZWk0I43L_kcOA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE0/NTEyLTE2NjY0NTAz/MDctMjI2NS5qcGVn.jpeg" alt="Cover for ?" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,13 +1404,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 83</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 85</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.png" alt="Cover for Hollywood&#39;s Bleeding" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,7 +1429,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/nexK_JiQEz4itUNpBGqTt7o7mF6RH0tf2dWtWq4qGKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEz/MDU1LTE1ODQ5MTgy/MzYtODk0My5qcGVn.jpeg" alt="Cover for Jesus Is King" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,13 +1446,13 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 99</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 100</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 100</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/nvPrj6zvpe9N0Au32XVqmbzOLfLdkGmSVNLFebLp2Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI4/NzI3LTE2MTIxODE5/NjktOTY0My5qcGVn.jpeg" alt="Cover for Please Excuse Me For Being Antisocial" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1470,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/635bde1130018103457ac12f1fb0ba10.png" alt="Cover for Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1488,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c65212f8bdeea5ce8bac4f9470ae1fc.png" alt="Cover for Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1526,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfb4a4c8ed2c9ae98ed33449a77a97cb.png" alt="Cover for The Party Never Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,15 +1567,15 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 48</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 87</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 88</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 89</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/oeEEdtb2TKwSDKX0aoCmjDnl0j_gs_KQuOYDqS3ZrvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MjQxLTE2MTAzNzI3/OTMtOTU3MC5qcGVn.jpeg" alt="Cover for Man On The Moon III: The Chosen" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,12 +1590,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 43</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/qzgvLVyhZef9vS6JRIpNvpfq0cB5tJRMxG09OdIrxHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg5/NDMzLTE1ODY1OTk3/MzUtODg0NC5qcGVn.jpeg" alt="Cover for Eternal Atake" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,12 +1610,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9196a46c5993ae2bf86ec10487dcdb90.png" alt="Cover for DEMIDEVIL" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1634,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg" alt="Cover for bury a friend" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,23 +1660,23 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 4</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/fbVW8Ub4PxShXHd3G1_iei4WrTgK42MEPFcyVKwpqsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM4/NDA4LTE2MzAyNDMz/MjktMjQxNS5qcGVn.jpeg" alt="Cover for DONDA" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,7 +1698,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef98499114e88d49ee36e8510f564f5c.png" alt="Cover for The Melodic Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1716,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d4c04914fe4eac2ebf5363c7dad0d0c.png" alt="Cover for MONTERO" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1755,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/HZxFCkQ9FkTbM6J8LmbuNW4IXvSi5Cp7YmOOorWwklo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAw/NDY3LTE2NjEzNTIy/NTItMjA0MC5qcGVn.jpeg" alt="Cover for In My Head" style="max-width:120px; height:auto;" />
       </td>
@@ -1791,14 +1773,14 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 70</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 71</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 73</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/SBEyq2QeS8U4U9ooaKrFCtuF4ShAbWOaInF8MjcygyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU4/MjY2LTE2NTEyNjk4/OTktNjIxMy5qcGVn.jpeg" alt="Cover for I Never Liked You" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,12 +1795,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 58</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98050f67524ffee7af6edd314b767ac4.png" alt="Cover for Mr. Morale &amp; the Big Steppers" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1821,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/WIsTMkGd2IXyCoZMitsHpc_DaV8zTuvnbokAcQPEYhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU1/NjY3LTE2NTQyNzc4/MTktNjU3OS5qcGVn.jpeg" alt="Cover for twelve carat toothache" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,7 +1841,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/tVFMZzUqsiMk2AAMhp3WQcsUbSIjaWdDnJL8aT80Dx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY1/OTA0LTE2Nzc5NTI0/MDMtMTg0My5wbmc.jpeg" alt="Cover for MORE" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,12 +1856,12 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/cpYQHt8yHUWk4DQgy0fOtZcKTSjx2hu50V9QLXSrqRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA2/MzI0LTE2Nzc5NTI0/NzMtNTg2MS5wbmc.jpeg" alt="Cover for HOPE ON THE STREET VOL.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1887,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/LWxqUuWg-WwKX23FYCMqeEcwgj7IxI_Ix3y38Vyy3zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NDUxLTE2ODQyNjAw/MzAtMjk1Mi5wbmc.jpeg" alt="Cover for Just Wanna Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1907,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/J35W-7UVJme4k5BiyVni4EWtGeWn7MbOSqxZQj65Tn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY1/MzEzLTE2Njc2NzEx/OTItNjYzMi5qcGVn.jpeg" alt="Cover for The Forever Story (Extended Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,14 +1942,14 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 55</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 56</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 89</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47dbda956c44d06fc1a4f8dbf1c77f00.png" alt="Cover for Scarlet" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,7 +1967,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/C0hc1XCicG5_wbJoNlPbin7ribRpwh2H-f3aXp-aR_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQ5/NzY4LTE2OTY5MTU1/NTMtNTMzNC5qcGVn.jpeg" alt="Cover for on the street (with J. Cole)" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +1989,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82f82111f23c41dc74c3ebc764050825.png" alt="Cover for Right Place, Wrong Person" style="max-width:120px; height:auto;" />
       </td>
@@ -2024,7 +2006,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af739fc6614ecb9a7f00b62039c0586.png" alt="Cover for Her" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,7 +2027,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad40a9d964dbdd90fe805e4280d9bbb0.png" alt="Cover for Reasonable Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -2066,7 +2048,7 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td></td>
@@ -2100,6 +2082,24 @@ Hip-hop is a genre rooted in African American culture featuring rhythmic vocal d
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d9e430d41b448ac9ebb705bae7e62ab.png" alt="Cover for As Cruel as School Children" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Gym Class Heroes</td>
+      <td>As Cruel as School Children</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

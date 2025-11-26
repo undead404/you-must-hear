@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:27:33.868Z
+date: 2025-11-26T04:38:37.984Z
 permalink: tags/progressive-thrash-metal
 title: progressive thrash metal
 ---
 
 ## progressive thrash metal
 
-Last updated: <time datetime="2025-10-20T04:27:33.868Z">Mon Oct 20 2025 07:27:33 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-26T04:38:37.984Z">Wed Nov 26 2025 06:38:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/HyF-G2vQc7Wb3tjAUEvXYGlwFpAj0RakQoIPa-smsK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjcy/MzktMTQ4ODY4Mzgw/MC00NTgzLmpwZWc.jpeg" alt="Cover for Wasteland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d34f2654af9823d48c67910df3696b58.png" alt="Cover for Wasteland" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-10</td>
       <td>Toxik</td>
@@ -47,14 +47,34 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 22</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 47</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 23</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/741c3ef6e77938619c4ecc61806239d1.png" alt="Cover for World Circus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Toxik</td>
+      <td>World Circus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93b5097cb51511398ecc01b139f1a2e9.png" alt="Cover for Mekong Delta" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Mekong Delta</td>
@@ -70,7 +90,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07412d7918ba3e15f2af24dbc3c76608.png" alt="Cover for No More Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -90,8 +110,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d949926576fb143c2c84717ec7bf8416.png" alt="Cover for Killing Technology" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-04-03</td>
       <td>Voivod</td>
@@ -107,9 +128,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/II_uRFwnPMaG91w8ZfNJIKL-VG8kaHht56FQY2NVZe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUz/NDIzLTE2OTI2MDA4/MzMtMTkxNC5qcGVn.jpeg" alt="Cover for ...And Justice for All (Remastered Deluxe Box Set)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1bf00acc9efa02ab0b9ba341aa08013.png" alt="Cover for ...And Justice for All (Remastered Deluxe Box Set)" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-09</td>
       <td>Metallica</td>
@@ -126,9 +147,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/-_tosq4OpHbmkWZwaP_KTBz0JVWKvGyoZdtWX2KgwFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg0/NS0xMjE2MTY0MTU1/LmpwZWc.jpeg" alt="Cover for The Sane Asylum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17e3c35587143363cd899193c5dff3a5.png" alt="Cover for The Sane Asylum" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Blind Illusion</td>
@@ -140,14 +161,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 58</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/jmGLOUJG2pSyMK3SL3f6OuxCqcqwu-qzCpap5D9qgAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzYx/NjQtMTM5NzUxMDQ1/OC05MTA1LmpwZWc.jpeg" alt="Cover for Lifecycle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f54d2e98e3d509c76aaba556d812fb5d.png" alt="Cover for Lifecycle" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Sieges Even</td>
@@ -161,32 +182,31 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 67</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/mLjvbtYAQYFv61Mww3s5iDpeFQC8v8CZYucH4uk9ibw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTY4/MS0xMjg1NzUxNzk4/LmpwZWc.jpeg" alt="Cover for Dimension Hatröss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ddf8a6b9c04bc4f526ce47e72d95f36.png" alt="Cover for Dimension Hatröss" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Voivod</td>
       <td>Dimension Hatröss</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 21</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 26</li>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0fbd5c1f3532682c5f3798cd330c92.png" alt="Cover for ...and Justice for All" style="max-width:120px; height:auto;" />
       </td>
@@ -200,16 +220,15 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 12</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 69</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 100</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 19</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/M_tl7QnX_o0mXf6xk4MpqngYXOcGswqo2QhlyCaoITw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/NzktMTQ2ODA3MzQy/Ny05NDk4LmpwZWc.jpeg" alt="Cover for Control And Resistance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad6d23e9d91461b946ef1a25515714d.png" alt="Cover for Control And Resistance" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Watchtower</td>
@@ -221,14 +240,15 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 52</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 53</li>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e4e3406a5a44ff7cf100e6e41f114cf.png" alt="Cover for The Principle of Doubt" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Mekong Delta</td>
@@ -246,6 +266,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b59b8efcb19228fddca3c28f4db024b.png" alt="Cover for Reflections Of A Dying World" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Cynic</td>
@@ -262,9 +283,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/uLjYCHOMmBwIQg_I0Bwzqq_gKW-mGZD2ozb-6umCHzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MC0xMzI2MjMxODU5/LmpwZWc.jpeg" alt="Cover for No More Color" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d57d931fc77137e22dbaaf9ec1937a9.png" alt="Cover for No More Color" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-09-18</td>
       <td>Coroner</td>
@@ -281,9 +302,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/Bt5JKH1UzMIthJLejYmQ1zC8zKvOHlWTAhniWsgZ4mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE0/ODQtMTM4NzEwNTI4/NC0yNTY4LmpwZWc.jpeg" alt="Cover for 禊" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c920725f6b345f76a1a0b9a09225721a.png" alt="Cover for 禊" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-10-13</td>
       <td>Gargoyle</td>
@@ -304,9 +325,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/WOHZGAkYCJJW6bMz6jfqL9KVre1N0q60apU9X9WzEr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODk5/MS0xNjI5MjM1NjU0/LTY3OTIuanBlZw.jpeg" alt="Cover for Nothingface" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e61fb3b5397324a3741b3601fbd9265.png" alt="Cover for Nothingface" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-10-13</td>
       <td>Voivod</td>
@@ -322,9 +343,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/SHf9Iab9k7NwkDgMLG0-bj_bGaoGCbTj9UMCYoOi6Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA1/MTktMTMwNDE5NTA0/OC5qcGVn.jpeg" alt="Cover for Dances Of Death (And Other Walking Shadows)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4292dafb13660ee7e0725ddedc52c3c0.png" alt="Cover for Dances Of Death (And Other Walking Shadows)" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Mekong Delta</td>
@@ -342,9 +363,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/J1tdDi2AL3ij1scfSqcnFw4P-J3pKXQC3WNS2Sh18TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEz/MDItMTU2MTQwNzQx/My0zNDIwLmpwZWc.jpeg" alt="Cover for Reason" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a561ceaf6cea7f546e37cb410f0a43be.png" alt="Cover for Reason" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-02-16</td>
       <td>Anacrusis</td>
@@ -360,9 +381,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/IqPzg9rCKF7nVJPW6WRoNGKc06KB1vwEc9zH4wE5s2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjE0/NTEtMTMwOTI4OTI0/OS5qcGVn.jpeg" alt="Cover for Drifting In The Sullen Sea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/703ef6e76e8946eb9eecd652d1c7c9c1.png" alt="Cover for Drifting In The Sullen Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Wolf Spider</td>
@@ -376,13 +397,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 33</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5f7513c0a3175e3100b06b4c33c4db.png" alt="Cover for Time Does Not Heal" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-02-19</td>
       <td>Dark Angel</td>
@@ -398,8 +420,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99b4f80061e879fbb3b138680155cc16.png" alt="Cover for Manic Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-05</td>
       <td>Anacrusis</td>
@@ -415,26 +438,25 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdaa86095802689f5906fbd9c0af2247.png" alt="Cover for Mental Vortex" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-08-13</td>
       <td>Coroner</td>
       <td>Mental Vortex</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 97</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51941e8a691d0c45a41d20e1a8b0fba9.png" alt="Cover for Kaleidoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -449,14 +471,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 24</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/6to4lUJuqHEiQq5EM_VA-edNCprxnYV7Kila1iLl6Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA1/MzgtMTI0ODMzNTc4/OC5qcGVn.jpeg" alt="Cover for First Depression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfa73f1f847ca50cbf3b1c769242a4c4.png" alt="Cover for First Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Depressive Age</td>
@@ -472,8 +494,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8500fac40fbf4cc5b1ce3f995c78bca6.png" alt="Cover for Your Last Orison" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>End Amen</td>
@@ -490,9 +513,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/0SRtQdsyXEhZHb_9vn2I8rprBI3geXbhP8b3KA2NS7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI5/NTMtMTU2MTQwNDA4/Ni03ODUxLmpwZWc.jpeg" alt="Cover for Screams and Whispers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b0a01106e4809ee5a6fde092b5d2b49.png" alt="Cover for Screams and Whispers" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-05-11</td>
       <td>Anacrusis</td>
@@ -509,17 +532,15 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/5LwryPK1MprNKYZn6JL4RiT6NTtNQWrWuG49VirQUCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDEw/Mi0xMzI2MjMxNzEx/LmpwZWc.jpeg" alt="Cover for Grin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef8872e8658dd385051ac7d88deeede.png" alt="Cover for Grin" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-05-26</td>
       <td>Coroner</td>
       <td>Grin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -528,7 +549,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93bfc1476b69d4c685c8353683f66705.png" alt="Cover for The Outer Limits" style="max-width:120px; height:auto;" />
       </td>
@@ -546,7 +567,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/DDwzxQj4J_eU5GC-52_IE9mkPc9tBRW7jaT5NMepzoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg2/NTAtMTMxNTY3OTM2/NC5qcGVn.jpeg" alt="Cover for Hunting For The Human" style="max-width:120px; height:auto;" />
       </td>
@@ -564,9 +585,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/cVprUAHPPADuCGBqomQOuv1hKIaaozi1u9pa5cDRG0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM0/MzktMTQwODIxMDc1/MC04ODg2LmpwZWc.jpeg" alt="Cover for Labyrinth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a865df2f79547dd288a38cca8ba1e0a5.png" alt="Cover for Labyrinth" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Equinox</td>
@@ -584,7 +605,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
       </td>
       <td>1995</td>
@@ -601,8 +622,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1fa959863d441b10eba3a00cb4b23a8.png" alt="Cover for Eyes of Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Aftermath</td>
@@ -618,8 +640,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fb29e87fca9cef17cc7eb605c312fc8.png" alt="Cover for Coroner" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-21</td>
       <td>Coroner</td>
@@ -637,26 +660,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/hTfg0uY41TakjMGfWpDvRyQsFJoeYlsxFG5hon5DCQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI4/MDktMTQ5OTMyMTQ5/MS01MjI1LmpwZWc.jpeg" alt="Cover for Negatron" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-08-18</td>
-      <td>Voivod</td>
-      <td>Negatron</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4ac08e1a984ccfb89621d12077fb28.png" alt="Cover for In Memory" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +679,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68fec80d235b411eb0d10d26058b769a.png" alt="Cover for The Politics of Ecstasy" style="max-width:120px; height:auto;" />
       </td>
@@ -695,7 +699,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b86a83c986652cc9f7720d394d9f9779.png" alt="Cover for Ride The Lightning (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -709,12 +713,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 84</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Howjex3g4iMBTQfb6rMVksVD4xlO5GI0j4H43UCwj8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQ0/OTMtMTUzMjYyNjc5/MC02MjM5LmpwZWc.jpeg" alt="Cover for Dejavoodoo" style="max-width:120px; height:auto;" />
       </td>
@@ -729,12 +733,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 37</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
       </td>
       <td>1998</td>
@@ -753,7 +757,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/n61lQF5QNm8gqILQAmspkdquP4TNbTZzEFP_gEox_GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE2/MDAtMTQ2NjYxMTE1/Ny01MzkxLmpwZWc.jpeg" alt="Cover for Fluid Motion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0634cb8d15b4a5bb6385c9815d7b6d1.png" alt="Cover for Fluid Motion" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Alarum</td>
@@ -770,7 +774,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b33190740709dd7421056ea1db7a8a7.png" alt="Cover for Dreaming Neon Black" style="max-width:120px; height:auto;" />
       </td>
@@ -779,8 +783,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       <td>Dreaming Neon Black</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -789,7 +792,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2000</td>
@@ -805,12 +808,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 50</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15d1ea02f7d03a43c0a721c75e219669.png" alt="Cover for Dead Heart in a Dead World" style="max-width:120px; height:auto;" />
       </td>
@@ -819,8 +822,6 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       <td>Dead Heart in a Dead World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -829,8 +830,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdfe4f82ea134c19cc64e7cfc18e9f77.png" alt="Cover for Reverse" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Eldritch</td>
@@ -847,7 +849,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5bc83ca40337f4d34200c83a8cc9f68.png" alt="Cover for Katharsis" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +869,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ADX7z6qHUpjVaf4AbTGHOm6xf8HBzZFfUmSv3kDAOkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/MTItMTYxNTQ5OTMx/MS00MjcxLmpwZWc.jpeg" alt="Cover for Where Moth &amp; Rust Destroy" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +896,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/ArhvRs_enrmx2hmGJD5hZzZqV1RqO2m3QfDoPxIzWJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDcx/My0xNjQyNjQ5MjA1/LTY0ODguanBlZw.jpeg" alt="Cover for Synergy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46edd2c7b946430d84d5d92a6a809e39.png" alt="Cover for Synergy" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-26</td>
       <td>Extol</td>
@@ -910,8 +912,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e8b51240dbe480e9f3303d7d0454169.png" alt="Cover for Enemies of Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-21</td>
       <td>Nevermore</td>
@@ -928,7 +931,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/tC3-X8LhSvKeYI5_cfDk7CDxhZwEZTeJ_3b4TVm-95I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/OC0xNjExNDQ2Njk5/LTg5OTIuanBlZw.jpeg" alt="Cover for Enemies Of Reality (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -946,9 +949,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/TjYlnnOYqAVyfROfoTN7DScX5McaMB2twgItUNdec0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTM3/MDYtMTQ4MzM1Mzkw/Ni0yNDUyLmpwZWc.jpeg" alt="Cover for Nucleus (2002 Remastered Demo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e4937dd0c00e48b6925ecdc637979a0.png" alt="Cover for Nucleus (2002 Remastered Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Vektor</td>
@@ -963,12 +966,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 10</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96ba62d82a174380ac900aabc15c037f.png" alt="Cover for This Godless Endeavor" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +981,6 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -987,9 +989,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/H1p-duREOYYba30gdG9DrlMMFLIB8y_e6ycUY_A3Fo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzcy/MzAtMTUwNTgxOTA3/NS0xNDA5LmpwZWc.jpeg" alt="Cover for Demolition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74d98958e651d161cc3e216505b9e0ee.png" alt="Cover for Demolition" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Vektor</td>
@@ -1007,9 +1009,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/yuZT9zDlZ30tskroeBdMWayM6lnzMQIsBom5SmfIOvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTM5/NTYtMTMzMDk4MDAz/MC5qcGVn.jpeg" alt="Cover for Threshold of Revelation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2bf90648d4148f4a62677e9719d8f3f.png" alt="Cover for Threshold of Revelation" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-21</td>
       <td>Twelfth Gate</td>
@@ -1026,9 +1028,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/o3407HclVGigPceeeNmp57vSGlEYuGDHVvlmoHHDE3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcx/MDYtMTIyNjg0OTQ0/Ny5qcGVn.jpeg" alt="Cover for Scent of Divine Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91805889cec46509c96e54bd2f6d5af.png" alt="Cover for Scent of Divine Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Fearscape</td>
@@ -1049,7 +1051,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/c5eHByb0AbcORQb7KOwsexipALP0z-WR1hfclYtWOMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjE2/NzYtMTU2MTM3NDA4/MS01NzM0LmpwZWc.jpeg" alt="Cover for Manic Impressions (Bonus Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1069,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/jqVlajhGcNBhp8tfc4Pt9Ak5ILLJrah79eTpzDPbysk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTAw/MzgtMTMxOTc2MzU3/OS5qcGVn.jpeg" alt="Cover for Momentum Shift" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,8 +1087,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc919222641d46b0a962488d2e0b60c8.png" alt="Cover for Lurking Fear" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-24</td>
       <td>Mekong Delta</td>
@@ -1103,7 +1106,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e45a57085ef4443c43d39f0e3be251f.png" alt="Cover for Praises To The War Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1147,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/zPBhLLAdoO9xR6v66yZLW2r7keVtg7aEUhyG-NslsxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/OTEtMTI2NTQ0Nzcx/NC5qcGVn.jpeg" alt="Cover for Gabriel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae0128d69324009906e3febe5b38c4f.png" alt="Cover for Gabriel" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-17</td>
       <td>Believer</td>
@@ -1163,6 +1166,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/010a3a7077e248a7be47938a0c70e95c.png" alt="Cover for Lazarus" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-20</td>
       <td>Hacride</td>
@@ -1175,12 +1179,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,16 +1210,16 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 60</li>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 72</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 72</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 67</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b1032a7b1a9f383ce43eb9f00c973e1.png" alt="Cover for Infini" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,9 +1239,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/c9rCY_WQyHcaIuzBrDfSIjX1qVkGoErU4APwWiJXKTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njg2/ODktMTMzNTYzMzA0/Mi5qcGVn.jpeg" alt="Cover for C.I.A." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a90203a6ca454c9d32fca66b109ef5.png" alt="Cover for C.I.A." style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-06</td>
       <td>Pitbull Terrorist</td>
@@ -1260,27 +1264,27 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/852d5ba1cc4154eeecf0cfeceeeaa243.png" alt="Cover for Black Future" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-17</td>
       <td>Vektor</td>
       <td>Black Future</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3a62283fde0d0526b97a2393735f77.png" alt="Cover for Wanderer on the edge of time" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-10</td>
       <td>Mekong Delta</td>
@@ -1296,9 +1300,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/JnP6dw3wwh6hFNZ_tS2pfoH4VYE2ROSKxEuY9PvgisY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg2/MTUwLTE0OTY0OTc1/MzAtMjM1OC5qcGVn.jpeg" alt="Cover for Contradictions Collapse &amp; None" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d18ce8b31a3b4e74a04dbed1ee4f8203.png" alt="Cover for Contradictions Collapse &amp; None" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Meshuggah</td>
@@ -1314,13 +1318,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 85</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b8345daa2c74361bd010ea0187c4ad5.png" alt="Cover for Natural Causes" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Alarum</td>
@@ -1340,9 +1345,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/utbwSXsqiAZ_A2SIGywHom55OqCEE6dvHoa3aOU7Xlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/NzgtMTQ4MTcyMzU0/OC03NTQxLmpwZWc.jpeg" alt="Cover for Transhuman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ccfb1799f974449bbabfcee2324956b.png" alt="Cover for Transhuman" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-12</td>
       <td>Believer</td>
@@ -1358,9 +1363,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/qKNHPsYKxMPovpnY9IH2_ppQ54nlQ6r8aKvEApCQ2Uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTA0/OTItMTMyODU1MDEz/NS5qcGVn.jpeg" alt="Cover for Outer Isolation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7d21e17fc9ecb1f5c4fdd6a50710375.png" alt="Cover for Outer Isolation" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-22</td>
       <td>Vektor</td>
@@ -1378,7 +1383,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/t5WdjlS8NYa5BvTZlqqnbSIygf-qe7q-vlB5ALira7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTAx/MzYtMTQ1MTAzMDg3/OC0xMDkzLmpwZWc.jpeg" alt="Cover for Валькирия Взлетает" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,9 +1404,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/oDZ2ns3c5WRpckbT-yxHPAtR0P0ozzAJUKgYrz8nVJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjky/MzUtMTM1MDc0NzYx/Mi0zODU2LmpwZWc.jpeg" alt="Cover for Intersections" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01d2dea7d077468fb3b6420a0cffa1f4.png" alt="Cover for Intersections" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-20</td>
       <td>Mekong Delta</td>
@@ -1420,8 +1425,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d63aafa2f8d4738c7a8fe5cdf72111c.png" alt="Cover for Chordata I" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-11</td>
       <td>Dynahead</td>
@@ -1436,14 +1442,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/8s3VtrxnRe15x58QnBVuO4ODX1T2TelIz_OGVSs6yrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDA1/ODgtMTQ3OTE1NTQz/Ni03MDA1LmpwZWc.jpeg" alt="Cover for Split 2018" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07086ebcbaffa0c149621926c938ba95.png" alt="Cover for Split 2018" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-25</td>
       <td>Distillator</td>
@@ -1458,12 +1464,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 38</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5c31b2906114844a3c822aceacecf31.png" alt="Cover for Let Us All Unite" style="max-width:120px; height:auto;" />
       </td>
@@ -1484,9 +1490,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/Yq4RYlC4Rr89HRjnxQu7MTTeXEQjMM1stm_0X84aegM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI0/OTE4LTE1MDMxNDQw/NDktODYwNC5qcGVn.jpeg" alt="Cover for Heralds of The Stars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f095935678891382b4250e78aaba656.png" alt="Cover for Heralds of The Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Vexovoid</td>
@@ -1502,9 +1508,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/eJlPdbZoAnfK46GnTZfdH9yC8kH_sRKkF7Al7B144cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODc1/MjAtMTQwNTQ0ODQy/OS0xNDIxLmpwZWc.jpeg" alt="Cover for Chordata II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/073e5d350210412fc19d55e680a35e24.png" alt="Cover for Chordata II" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-01</td>
       <td>Dynahead</td>
@@ -1521,9 +1527,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
-          <img src="https://i.discogs.com/dnYO3msh4KDE9UCWTPSXBKVOhrDD9j_xECC-7nMulls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk3/MjQ2LTE1Nzg4MjAz/MjItNTg5Ny5qcGVn.jpeg" alt="Cover for The Edge of Existence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab084467fc7d4edece7e002d7268af23.png" alt="Cover for The Edge of Existence" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-11</td>
       <td>Paranorm</td>
@@ -1537,14 +1543,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/5Iwzc2tPdCflZ3YgzSqzcrIHBLLNfBhunz116a190kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODQ0/NzMtMTQxNzkxNDIy/Ny05ODE1LmpwZWc.jpeg" alt="Cover for Just The Tip" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa494e3bb5d0e34fe1ecfcd6b5ecb2c.png" alt="Cover for Just The Tip" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-22</td>
       <td>Expain</td>
@@ -1562,14 +1568,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 3</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/DI6gyeGj7rVk_9ArQlGeFeNfcX3n7IqDYb-NQV7--1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjU5/MDgtMTQyNDE4NzIz/NS05ODM0LmpwZWc.jpeg" alt="Cover for Eternal Depression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8245459f24e412ec17d7c7cb6899c9c.png" alt="Cover for Eternal Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-28</td>
       <td>Alitor</td>
@@ -1590,7 +1596,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/1CkSuQE9KTtGQIFOyElFzAqTy6r7zLBs_CxLTQAUZwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQw/MzAtMTY4ODkwNzI5/My02NTEzLmpwZWc.jpeg" alt="Cover for Experiment Of Existence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/614bf96f8884cbc801d4e57a8925e30e.png" alt="Cover for Experiment Of Existence" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02</td>
       <td>Ripper</td>
@@ -1604,14 +1610,32 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 70</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/6525FcTOARvFXRAX_lIAbH7A1TX6JDItbt6vYSBZD7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODI3/OTUtMTQ2MjQ4MTMy/Ni01MzIzLmpwZWc.jpeg" alt="Cover for Transmissions of Chaos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f339546d1daeb6154fbbc3f3bbe83cf4.png" alt="Cover for Terminal Redux" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05</td>
+      <td>Vektor</td>
+      <td>Terminal Redux</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/960742addb21f15a6dcf7afe7ad66569.png" alt="Cover for Transmissions of Chaos" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05</td>
       <td>Vektor</td>
@@ -1626,35 +1650,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 95</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/6525FcTOARvFXRAX_lIAbH7A1TX6JDItbt6vYSBZD7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODI3/OTUtMTQ2MjQ4MTMy/Ni01MzIzLmpwZWc.jpeg" alt="Cover for Terminal Redux" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-05</td>
-      <td>Vektor</td>
-      <td>Terminal Redux</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://i.discogs.com/ewlgkyVXWr7ut7ysjlSq_DqqyYWQThCB_a916M3mRXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzEy/NjYtMTQ3NTMxNDE1/OC04MDEzLmpwZWc.jpeg" alt="Cover for Vorbid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44fa7c56a5b02405c9559cff93163809.png" alt="Cover for Vorbid" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-17</td>
       <td>Vorbid</td>
@@ -1671,9 +1674,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/XKnnRVkSiiujcY7XpyeuRRWe57wYEPlpL17CKlss3Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjIy/MDQtMTU4NTg3OTE5/NC00MDM5LmpwZWc.jpeg" alt="Cover for Concepts Of Math: Book One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e26b03bf8acd6bdd61fed1891a6a916f.png" alt="Cover for Concepts Of Math: Book One" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-07</td>
       <td>Watchtower</td>
@@ -1687,14 +1690,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/h0rfy5Ud9B2TEhjDO4q2w_fVK0BN0YcJwB_d4YoodR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEw/NzcxLTE2MTg1MDk3/NDAtOTQzOC5qcGVn.jpeg" alt="Cover for PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c82a8fb339ad4906f1195fec753cef1f.png" alt="Cover for PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1705,15 +1708,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 24</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 55</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 58</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e7f1988d20ad7eb38a3e7cfc90179d.png" alt="Cover for Terrestrial Mutations" style="max-width:120px; height:auto;" />
       </td>
@@ -1729,14 +1729,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 41</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/95aMuPViPaBwYs5yvdQ9t1Hb7CatHPPcQzObRiOpm8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg0/MTI1LTE1MTM0MTU0/MTQtODAxMS5qcGVn.jpeg" alt="Cover for Call Of The Starforger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504ecd8a9b0fb990c5f43ed8e6e26bf9.png" alt="Cover for Call Of The Starforger" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-11</td>
       <td>Vexovoid</td>
@@ -1748,14 +1748,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 61</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/FRTwlwl65VblWX0ikqKWh-40M9yEJNEhh9TLf-5mzQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/NjQyLTE1MjUzMzAw/MTgtNDgwNC5qcGVn.jpeg" alt="Cover for Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/737619e82c4912e37f20df98414d8e58.png" alt="Cover for Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-13</td>
       <td>Vorbid</td>
@@ -1769,12 +1769,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 48</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/UhN9dcBsChR2NBhpb-0itR8bc0rfOQACS9yeloM56As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc1/MzMzLTE1Mzk4MjU3/NDUtMjYyOC5qcGVn.jpeg" alt="Cover for Gazing At Medusa" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1792,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/bCJ18Io15lhg2kAANksMqfRG3vr2ru11gNDSwgeXHpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcy/NzIxLTE1NDM1OTI4/NzktMTAzOC5qcGVn.jpeg" alt="Cover for Necropolis" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,9 +1810,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/D4RFp7ypIMaEIAlCwO-6_JOis5aOuZRN_kHdfpUv_sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzE1/OTM2LTE2NDU5MDY5/MTYtNDg1My5qcGVn.jpeg" alt="Cover for Cosmic Experiment" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd3e65d82fb0c8046b881006a8d5fff3.png" alt="Cover for Cosmic Experiment" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-04</td>
       <td>Cosmic Abyss</td>
@@ -1831,7 +1831,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/kV3GNEi9LnQgYarvmAqoAJiQuovBKBAr2VJFA3lw4rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjI3/MDc1LTE1ODgzNjM2/NzgtNTQ1NS5qcGVn.jpeg" alt="Cover for Tales of a Future Past" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1850,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/lZmfyEYQ3UM3aV26ggABxDjLdml_7-HFPrnKdiTJY9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDky/MjIxLTE2MTM3NTcw/MjUtNzIyMC5qcGVn.jpeg" alt="Cover for Transmissions of Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,14 +1867,14 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 12</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Ae3_BkfVGeQkWiD87V4JWNNL86ewmznSMUHuucbQhf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEy/OTIzLTE2MTYxNTk3/MTctNDY4MC5qcGVn.jpeg" alt="Cover for Empyrean" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/868f2d4a1937592ed91e60373109630d.png" alt="Cover for Empyrean" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-26</td>
       <td>Paranorm</td>
@@ -1890,9 +1890,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/XrmM4NKR-U_CeCI-pGF65gNuHIAPWtY8uYQrJIdtflY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTcx/MjAwLTE2Njg3MTY0/OTEtOTEzNi5qcGVn.jpeg" alt="Cover for A Swan By The Edge Of Mandala" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa425ce0226c9be8005400d007bfdb8.png" alt="Cover for A Swan By The Edge Of Mandala" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Vorbid</td>
@@ -1912,6 +1912,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40084de9d6469c20a71ead35347a202.png" alt="Cover for Dis Morta" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Toxik</td>
@@ -1924,12 +1925,12 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/4TXoUJhEVJRcKRVsAwin4fkAo2Oh-hVzq5o0-StM6Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ4/NzIxLTE2NjYzNDg1/MzQtOTI4My5qcGVn.jpeg" alt="Cover for To Find Deliverance" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,9 +1948,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/XXeeLtzikvLJB1BRi0sxMtJ10-bI9Siyev8crrC-kcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU1/ODk3LTE3MDIxNDk3/OTAtMzYxNy5qcGVn.jpeg" alt="Cover for The Silent Call - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b9454d8268809e44e35ed84de4474be.png" alt="Cover for The Silent Call - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Cryptosis</td>
@@ -1966,9 +1967,9 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/IW00YoYHre-ulF9lHaBb8RmvHehQhSjTGKAiiNlsLOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/MjM1LTE2Nzg4MjQ1/NjItNjU4MS5qcGVn.jpeg" alt="Cover for No Time To Waste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80d4ff35302dfec82ea30f912ad66b4f.png" alt="Cover for No Time To Waste" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-17</td>
       <td>Aftermath</td>
@@ -1987,7 +1988,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/5pdrh0ZjpPkaprTNs_7-J1namwsa-il7UuD6Lj6hg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEz/MTk1LTE2OTQyNjI1/ODYtMzEzNC5qcGVn.jpeg" alt="Cover for Nube Negra" style="max-width:120px; height:auto;" />
       </td>
@@ -2012,8 +2013,8 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
 - [thrash metal]({{ "/tags/thrash-metal" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [technical thrash metal]({{ "/tags/technical-thrash-metal" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
 - [progressive death metal]({{ "/tags/progressive-death-metal" | relative_url }})
 - [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [technical metal]({{ "/tags/technical-metal" | relative_url }})
