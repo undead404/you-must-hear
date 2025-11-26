@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T03:07:39.596Z
+date: 2025-11-26T02:19:58.757Z
 permalink: tags/tolkien
 title: tolkien
 ---
 
 ## tolkien
 
-Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:19:58.757Z">Wed Nov 26 2025 04:19:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
   </thead>
   <tbody>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
       </td>
       <td>1972</td>
@@ -46,7 +46,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/B3egqYcTjyW1n1tX3kPM3Ly4HRh_nknaeGzkW9zRjJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDYw/NDQtMTQ0MzgyMzU0/NS0yMjAxLmpwZWc.jpeg" alt="Cover for Le Souffle Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -64,7 +64,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td>1981</td>
@@ -81,9 +81,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
-          <img src="https://i.discogs.com/L0aYLamBz9yQZPWCgD4oPx-0ITYfsIBioBg5oQhxa0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM5/NzAtMTQxODQ4MTkz/My0yOTMzLmpwZWc.jpeg" alt="Cover for Sagan Om Ringen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce360501101063a4904091faab1a08c0.png" alt="Cover for Sagan Om Ringen" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Isildurs Bane</td>
@@ -100,8 +100,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97ebac9652764835b6d58054afc64afb.png" alt="Cover for Journey of the Dunadan" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-08-03</td>
       <td>Glass Hammer</td>
@@ -117,7 +118,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
       </td>
       <td>1994</td>
@@ -134,7 +135,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/wCUU5EOErD5_yGFzr6bxvHGVThXLKq_WOwqLBO4CsSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ0/OTQtMTQ1OTAxMjE5/Ny01NzA4LmpwZWc.jpeg" alt="Cover for Frost and Fire &#x2F; King of the Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -154,7 +155,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/657863b81484525b06afafa13e974c78.png" alt="Cover for Lugburz" style="max-width:120px; height:auto;" />
       </td>
@@ -173,7 +174,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/DbUWZl-imwuQrugq5g2vr7nRGMq7oK_bKMIP4oeKAsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYy/NjI5LTE1NjI3OTY2/NTItMzU1NS5qcGVn.jpeg" alt="Cover for The Starlit Jewel" style="max-width:120px; height:auto;" />
       </td>
@@ -225,12 +226,12 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>1998</td>
@@ -246,7 +247,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 48</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 58</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 75</li>
@@ -254,7 +255,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/e8dHQZHDkY0H4gERbgdbvRSJYLCS2Z4MDV3uAcTg-ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk5/NDQtMTQwNTc5OTYx/Mi02NDAxLmpwZWc.jpeg" alt="Cover for Písně Středozemě" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +273,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/yAoNBoIV9zMrXZxtC0m0Xmk0TrKe3yWWUMhlABFvVuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzAy/NzktMTM0NzU0NTc3/NC00MjkwLmpwZWc.jpeg" alt="Cover for Olgerd" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +292,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/PWUNqi1LJT62V4uk6BF-Hd0HCFhesoOzAldVeFV5SU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTMy/NzktMTU0NTA4NDMx/Mi0xMjM1LmpwZWc.jpeg" alt="Cover for Das Silmarillion" style="max-width:120px; height:auto;" />
       </td>
@@ -311,6 +312,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcde39a78f2816bc1697984ab7c23abe.png" alt="Cover for Nightfall in Middle-Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-04-24</td>
       <td>Blind Guardian</td>
@@ -322,12 +324,12 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 90</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/x5TGEyylSSL5R0eIktGhwXYaAIb4Qutq18qMe4e3Ay4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTUx/MTgtMTI3MDMwNDUx/MS5qcGVn.jpeg" alt="Cover for Dagor-Nuin-Giliath" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +348,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/d-1ErBMbqD3uIbVbMKFtTjRlNKEaPvUCuVfxWDbhilM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTk2/ODgtMTQ1NzM3NDYx/My04MTM5LmpwZWc.jpeg" alt="Cover for voci dalla terra di mezzo" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +366,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/I9Au-5MKdnt-TtW3XOZhge8TtBzeitAzlbahellL6Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY1/OS0xMjEzOTA1OTY0/LmpwZWc.jpeg" alt="Cover for Solar NRG" style="max-width:120px; height:auto;" />
       </td>
@@ -417,14 +419,14 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 32</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 32</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 33</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td>2001</td>
@@ -441,7 +443,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg" alt="Cover for Sueños" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +486,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/ity33X9RBaeqdUxsAzX5-jg5Vf0aBDCtdEe0_QM3uf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzQ2/ODItMTYxMTYwNDMz/Mi0yMjU1LmpwZWc.jpeg" alt="Cover for The Middle Earth Album" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +504,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/MZ7UROgJHoGBAetlUfyBK663aT0M8dR7VpRdC8eKKds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk0/Mi0xMTI3MDM2ODcz/LmpwZWc.jpeg" alt="Cover for Let Mortal Heroes Sing Your Fame" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +520,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 16</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 72</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 75</li>
         </ul>
@@ -542,8 +544,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e080cc589e46eeae07418dcd547eb2.png" alt="Cover for The Lord of the Rings: The Fellowship of the Ring" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-19</td>
       <td>Howard Shore</td>
@@ -559,7 +562,25 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b2b5ad28ca6404fb3ecf4649b33f636.png" alt="Cover for The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-11-20</td>
+      <td>Howard Shore</td>
+      <td>The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
       </td>
       <td>2001-12-03</td>
@@ -576,7 +597,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/i47gUliVl8kkyK_KDB3h11uk0fuuke5lvx_EShtxTwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU4/OTczLTE1ODQ3MzY4/OTctNTM5Ny5qcGVn.jpeg" alt="Cover for The Long Journey... Through the Lands and Forests" style="max-width:120px; height:auto;" />
       </td>
@@ -594,7 +615,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/wG01XnYBymtpIklPRTICU3wbkBBXlA6X3AizC7eJuCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/NzAxLTE1MTU4NjAz/MTEtNTcyNS5qcGVn.jpeg" alt="Cover for The Fellowship Of The Ring" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +636,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/iRm_NwXKyhqK2CZnM-tYeq7XI8YlHUhzV43olSWJWd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM1/ODI3LTE1MDUwODA1/ODctMTE0OS5qcGVn.jpeg" alt="Cover for Lord of the Rings: The Two Towers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a9a4aacf9164a58caecb25c863291c6.png" alt="Cover for Lord of the Rings: The Two Towers" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Howard Shore</td>
@@ -632,8 +653,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff612c273c10f5d10ae80a53263a5ee9.png" alt="Cover for The Lord of the Rings: The Two Towers" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-12-02</td>
       <td>Howard Shore</td>
@@ -649,7 +671,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/uWDNdhokHzNhqsUpV9dHTsJUnAZoDvarg19p2gJCETM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMw/NS0xMTU1MjExNjk5/LmpwZWc.jpeg" alt="Cover for The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack) [Bonus Track Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +689,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/8-geLnVsheApvCJBNBFytrLnKJfStvLUfLQgX-dV7QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM5/NTItMTE5MjY5MzA3/MC5qcGVn.jpeg" alt="Cover for The Lord of the Rings - Return of the King" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +703,12 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 22</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/7qp4KWemjU5kABCq-2w-uUNw9N6GOhaLJTYHIqTE3mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU0/NS0xMTA0NDMxMDk3/LmpwZw.jpeg" alt="Cover for Elvenmusic 2 (The Evening of Illuvatar&#39;s Children)" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +727,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Y-B0wa5jYWcCQFUUCSHiskWROVz23fcwAjGNI6mYwI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODYy/MC0xNTEyOTIzNDEx/LTQ3NzkuanBlZw.jpeg" alt="Cover for The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -723,7 +745,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Y-B0wa5jYWcCQFUUCSHiskWROVz23fcwAjGNI6mYwI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODYy/MC0xNTEyOTIzNDEx/LTQ3NzkuanBlZw.jpeg" alt="Cover for The Lord of the Rings: The Return of the King (Soundtrack From the Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +763,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/EqXIDahKR_gbb67X704QQL9v1e2zMCu8VAc7rn0ZeZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI2/MjItMTI5NTUwNTU1/MC5qcGVn.jpeg" alt="Cover for The Lord Of The Rings: The Return Of The King (OST)" style="max-width:120px; height:auto;" />
       </td>
@@ -795,8 +817,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b44ca6b08f36c9344b6b1e868e366e4.png" alt="Cover for Sword&#39;s Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-12</td>
       <td>Battlelore</td>
@@ -809,14 +832,15 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 17</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 45</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 48</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98655df777af4c31b153063250fdfe6b.png" alt="Cover for The Lord of the Rings: The Return of the King" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-24</td>
       <td>Howard Shore</td>
@@ -832,8 +856,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d786a457fb094c6eb6ec43638a392336.png" alt="Cover for The Lord of the Rings: The Return of the King: The Complete Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-24</td>
       <td>Howard Shore</td>
@@ -849,7 +874,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/nqY_0TeQiHG0HAW83ZN_Q6Kbc_qsz6NijZMCG-bvu3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjM4/MzctMTM2NzMyMDE1/NC01ODUxLmpwZWc.jpeg" alt="Cover for Lorien" style="max-width:120px; height:auto;" />
       </td>
@@ -867,7 +892,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/A07o_V4HEQggnVM5mNii0L2ptDnvj2-n0Vf9EYHWTS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY5/MzE3LTE0OTYxMjYz/ODktMzg1MS5qcGVn.jpeg" alt="Cover for Middle Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +911,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
       </td>
       <td>2004-06-07</td>
@@ -925,7 +950,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/KK6HGemX-EfVSYhv1MOLwW0g1C9wShAAvbJ0xUj_JNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE1/My0xMTU3NDg1MDYw/LmpwZWc.jpeg" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -940,12 +965,13 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 6</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/XbCTfd6m64UOG42eApOeMTJw4QcsjLN10j9M0RxprF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkz/MDItMTI1ODAyMjky/NC5qcGVn.jpeg" alt="Cover for The Cello Tree" style="max-width:120px; height:auto;" />
       </td>
@@ -984,7 +1010,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
       </td>
       <td>2006-05-05</td>
@@ -1000,7 +1026,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XK_DQ5kuK7rGQeKv4UgdwX1HFNsjrU5kU4o0C12424E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjIy/NzM1LTE2NzczNDEw/OTQtMzM3OS5qcGVn.jpeg" alt="Cover for The Lord of the Rings: The Battle for Middle-Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1044,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/XGJ3GSbrzqnbJboJBcM4_i9ictI-d1qLIQrBdvMznsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg3/NTctMTIzNTgxNDIw/NC5qcGVn.jpeg" alt="Cover for Where Shadows Lie" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,14 +1059,14 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 49</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/xRP6k5bkSrr4a9ZqBaWIXWZXxt2KrQArfh9G7B9apWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjU3/ODEtMTM5NDA1ODM3/NC01MTU5LmpwZWc.jpeg" alt="Cover for Children Of Hurin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02732f457f0444ca91a3406dfbf3fe2c.png" alt="Cover for Children Of Hurin" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Ainur</td>
@@ -1058,7 +1084,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b11354f66ff272a6bab036dcc4e3fa9b.png" alt="Cover for Witchking" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,9 +1102,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/tZCOnYa7w9PiBsTkTEsFxkwQGI3crhzIdQif44wHu1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDEx/NTktMTUzNzY1NTUw/MS02NzkxLmpwZWc.jpeg" alt="Cover for Tolkien" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15ae8f0e6ce9223d8f6d6d8fd6f2b631.png" alt="Cover for Tolkien" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Thomas Newman</td>
@@ -1094,9 +1120,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/Sx2EdPgHmpY7UdWnNDnGXRSKdmx8dLoTPKJJqkuAQ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/MTEtMTQ4OTYwMTE5/MS04NjA1LmpwZWc.jpeg" alt="Cover for Rebirth of Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af0cb5f7693bb947daf1ec4e422bf140.png" alt="Cover for Rebirth of Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Lind Erebros</td>
@@ -1117,7 +1143,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Sx2EdPgHmpY7UdWnNDnGXRSKdmx8dLoTPKJJqkuAQ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/MTEtMTQ4OTYwMTE5/MS04NjA1LmpwZWc.jpeg" alt="Cover for Elven Oratory: Rebirth of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1136,7 +1162,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/QDS8Tt74CTTZw3Rix8pnuR8wcwUjCIQXStzZDp350hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg5/NjAtMTI5NzcxMzIx/MC5qcGVn.jpeg" alt="Cover for A Journey Through Middle-Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,7 +1198,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/LJrDLHBPLYxrFBsPfWi3VJd_Vr9fI8RnG9hNS6j2MXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcz/MDgtMTI4MjkyNjgx/OC5qcGVn.jpeg" alt="Cover for Songs from Forgotten Lands" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1220,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Z7pzHcFaxdVgLsTjTRm8QQ179j50LM5MXCa3MXTgYyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/MDYyLTE1MjA2MTQ2/NzEtNDkyNy5qcGVn.jpeg" alt="Cover for Last Autumn tears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52821701ec564997a06c4133cb52e281.png" alt="Cover for Last Autumn tears" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-30</td>
       <td>An Danzza</td>
@@ -1207,13 +1233,14 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 54</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19a4e6f8c37457f8e9896f25749af60.png" alt="Cover for The Lord of the Rings: The Rarities Archive" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-05</td>
       <td>Howard Shore</td>
@@ -1231,7 +1258,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/Fq3tYIeROuZdiDSDaIbZFn9VhBDhSz9OzhNa-WCApZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDg5/NTktMTQwOTc1MjMz/OS05ODU2LmpwZWc.jpeg" alt="Cover for Beneath The Lonely Mountain" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1276,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/UEvikzVkkR9HMG2G7DIX_NKhEj60ly3hTeCZ15bmR6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgw/NTQzLTE1NzM3OTM0/MTMtMjE0MS5qcGVn.jpeg" alt="Cover for The Lord of the Rings Online: Mordor (Original Music Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,9 +1294,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/XaIR-MB0EVKqM7wIOWIgbS-S87eCIzO0eeKl9jSmwhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDU2/ODQ5LTE1NzQ4ODg3/MjctMTE0NC5qcGVn.jpeg" alt="Cover for Nirnaeth Arnediad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/139a485d93234e0792e46792fbf1b071.png" alt="Cover for Nirnaeth Arnediad" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Forodwaith</td>
@@ -1287,14 +1314,14 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 68</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/FAjcn5gKmSC5H0mJzmDJqNdyT9szY_y7qf4Qri-H52s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMx/NTE5LTE1ODk4NDg4/NTQtNzU4Ni5qcGVn.jpeg" alt="Cover for Lord Of The Rings Online: Riders of Rohan (Official Video Game Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2414953cdbca4f51a20b0795ed52b418.png" alt="Cover for Lord Of The Rings Online: Riders of Rohan (Official Video Game Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-09</td>
       <td>Chance Thomas</td>
@@ -1312,7 +1339,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/ZtELJ_DMKXmExGe4gzO2p0S4SNPAhvtKUxngU485io0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDYz/MDItMTM1NjgyNzI3/Mi0zMjIzLmpwZWc.jpeg" alt="Cover for The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3f91326fdb44be08024411e59193c61.png" alt="Cover for The Hobbit: An Unexpected Journey - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-11</td>
       <td>Howard Shore</td>
@@ -1329,7 +1356,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/bQl4Ds8nZE11LC5Z_ipCDBk7UeiYSdmEqO5NnGUL3Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU1/ODI4LTE1MTY2Mzk3/MDYtMTg3Mi5qcGVn.jpeg" alt="Cover for Bilbo" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,9 +1374,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/ZtELJ_DMKXmExGe4gzO2p0S4SNPAhvtKUxngU485io0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDYz/MDItMTM1NjgyNzI3/Mi0zMjIzLmpwZWc.jpeg" alt="Cover for The Hobbit: An Unexpected Journey Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f491ba8f16147c09e1335bd60dec106.png" alt="Cover for The Hobbit: An Unexpected Journey Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Howard Shore</td>
@@ -1388,25 +1415,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/WP2xIiUNmYkylNUMotyzQPZ6AIzgUq-qjIB0W-5YVRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk0/NTExLTE2NzcxMTgz/NDQtODE0NS5qcGVn.jpeg" alt="Cover for Middle-Earth: Shadow Of Mordor" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Garry Schyman &amp; Nathan Grigg</td>
-      <td>Middle-Earth: Shadow Of Mordor</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ulsOkc9Mx2-gvlbxnu8W5D8hjClt0lBcxu22v0tJI18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDMz/MDgtMTQxNjMxMDEz/NC02MTk1LmpwZWc.jpeg" alt="Cover for Born by Stars and Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1434,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>2014-01-18</td>
@@ -1442,7 +1451,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/PvT6Cebr8wNAlt9R6FRl_B_tOsECzJkwziWQmluB3II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA1/NDU3LTE1MDQ2MDUw/NzQtMjc5MC5qcGVn.jpeg" alt="Cover for Khamûl" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,8 +1471,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21844685c4c24c79cc66f73fbf0d955b.png" alt="Cover for The Hobbit: The Battle of the Five Armies" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-08</td>
       <td>Howard Shore</td>
@@ -1498,7 +1508,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/2cXSNelXoULMUIAKXY2vnEob3HsVqdU7O-REZTThIAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjg2/NjgtMTQ1NDUyNzk5/NC0yNjAwLmpwZWc.jpeg" alt="Cover for Gathering In Dol Guldur" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1526,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/PszQ2uBI1gcdBhd3XU2ZY0fpCGJLhHPX0Mqj1MtYrHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjU3/OTMtMTQ4NTU1NzM2/MS02MDU0LmpwZWc.jpeg" alt="Cover for Ash Nazg Durbatulûk..." style="max-width:120px; height:auto;" />
       </td>
@@ -1538,9 +1548,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/4X6Phrh_UvXNi-Hzlad2Ot7PFfO1GX6YX9QWL_wohiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzY2/MjUtMTQ3NDM1MzA3/OS0yODM0LmpwZWc.jpeg" alt="Cover for Born of Hope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6ad0249f371465d938d22294a71f544.png" alt="Cover for Born of Hope" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Rob Westwood</td>
@@ -1557,9 +1567,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Y1PK6ZQvqDn2CEO6gOzOXmHBVy_3nLKzHXE-mJJotbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODA2/NDUtMTQ2ODYyNzE5/OS05OTY4LmpwZWc.jpeg" alt="Cover for Age of Legends" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/975ca630f2bf2caafec214c53481ea8c.png" alt="Cover for Age of Legends" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-01</td>
       <td>Galdur</td>
@@ -1575,7 +1585,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/N9PifAMWSe3-ddbeEc9edeyWwdEgXG1_JUMucThHgIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTc3/NDctMTQ4ODE0NDE5/Ny02ODMxLmpwZWc.jpeg" alt="Cover for Quenta Silmarillion" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1639,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/rhZ7-J7HHDd4it_ErNf587qDP0TWE9BTSy4_hmBf0Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzI1LTE1NzY5MzA1/MzUtOTkyMy5qcGVn.jpeg" alt="Cover for Under the Reign of a New Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1662,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/azHGJwkz_Yj5gCGu3Jbv6J4AuvynbGlSdbgb21aAdYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM1/MDg3LTE2NDI4MDQ1/MjUtMTExMy5qcGVn.jpeg" alt="Cover for Silmarillion" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1701,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Zy3ZzPurAztHtvCwfSfqxEj0jBDiJZDCpXBHo6bI530/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYw/MDQ5LTE2MDQ0NTkz/NjAtNjczMC5qcGVn.jpeg" alt="Cover for Shadowed Paths Through Middle-Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1719,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/UvqEmn3gWO0JgKtf5rYrhqEyVg-Os0F_Bo1ycxsoNUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/MDc1LTE2NDE4NjA2/MDMtOTE3My5qcGVn.jpeg" alt="Cover for Amusettes pour hobbits" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1737,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/V2fzlCxsCE6mxgVhSSbbrpxSLIumiP2VPFpVXDnOk2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU1/MTk2LTE2NDc2MTk0/NjctNjgxMC5qcGVn.jpeg" alt="Cover for Memories of Arda" style="max-width:120px; height:auto;" />
       </td>
@@ -1749,9 +1759,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/jYfQxrM7hJ8mc0lvkvLZ6A3UwwFIgMTBL8LTOseZ92Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/NDk3LTE2NDk1OTAw/OTUtOTE4MS5qcGVn.jpeg" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​​-​​Earth and Stranger Places - Vol. III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/999c1960991b5659b7dd8bd09bde5f33.png" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​​-​​Earth and Stranger Places - Vol. III" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-01</td>
       <td>Ithildin</td>
@@ -1771,7 +1781,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/jYfQxrM7hJ8mc0lvkvLZ6A3UwwFIgMTBL8LTOseZ92Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/NDk3LTE2NDk1OTAw/OTUtOTE4MS5qcGVn.jpeg" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​​-​​Earth and Stranger Places - Vol. II" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1803,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/jYfQxrM7hJ8mc0lvkvLZ6A3UwwFIgMTBL8LTOseZ92Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/NDk3LTE2NDk1OTAw/OTUtOTE4MS5qcGVn.jpeg" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​​​​​​​​​​​-​​​​​​​​​​​Earth and Stranger Places - Vol. IV" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,9 +1825,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/jYfQxrM7hJ8mc0lvkvLZ6A3UwwFIgMTBL8LTOseZ92Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMw/NDk3LTE2NDk1OTAw/OTUtOTE4MS5qcGVn.jpeg" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​-​Earth and Stranger Places - Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84b8be9437cdfa2804123986bc8f89e.png" alt="Cover for Arda&#39;s Herbarium: A Musical Guide to the Mystical Garden of Middle​-​Earth and Stranger Places - Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-01</td>
       <td>Ithildin</td>
@@ -1837,7 +1847,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/QvlGOM3NAR5-zUVPdBH-uzJY9Tc_sews709WOK_Kwls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU2/ODQxLTE2Njc2MDY2/MTQtMTUxMy5wbmc.jpeg" alt="Cover for Minas Morgul - The Nazgûl Awaken" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1865,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/dc7y8O-uqIDaeNwqo06Qy8Sc1xBUELmnfiOf_kNKuuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg2/NjE2LTE2NzMwNDM1/ODYtNDQyNC5qcGVn.jpeg" alt="Cover for Under the Reign of a New Power" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1883,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/EJfd9HkDBY3Mk2AKDeLHk23mvUq8uRSYwJlSETJhXCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI2/NDg1LTE2OTQzNzU3/ODctMTM1OC5qcGVn.jpeg" alt="Cover for Mitheithel" style="max-width:120px; height:auto;" />
       </td>
@@ -1893,7 +1903,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/aLtds_AE9Bmah5cxJf_l6bxEqXU-EGawV2I20aH-hfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk5/ODctMTI2NzgwMTg1/Mi5qcGVn.jpeg" alt="Cover for Floatspace Continuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,16 +1955,17 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 46</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/699fe8a2ca7446bea4d9bf28f4c18dc0.png" alt="Cover for ACUSTICA Vol3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Арчер</td>
@@ -2017,8 +2028,8 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
 
 - [dungeon synth]({{ "/tags/dungeon-synth" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
-- [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T07:57:37.995Z
+date: 2025-11-26T02:18:45.556Z
 permalink: tags/no-wave
 title: no wave
 ---
 
 ## no wave
 
-Last updated: <time datetime="2025-11-24T07:57:37.995Z">Mon Nov 24 2025 09:57:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:18:45.556Z">Wed Nov 26 2025 04:18:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
   </thead>
   <tbody>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4679db111fc6408584820879a2c72e9f.png" alt="Cover for No New York" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08cb25f5395a429ac28332dbbc94f341.png" alt="Cover for Off White" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37170c77764b4244ad9fa4b0e3f1e92a.png" alt="Cover for Press Color" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a5b71e814bf84d2724641bce5f3275a.png" alt="Cover for This Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/LTnOQtUGj33xQ_8Yv9aLfQqGBljx3Fr-a14H85rXlKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQz/ODAtMTMzNDg4OTQ5/OC5qcGVn.jpeg" alt="Cover for Y (Remastered &amp; expanded)" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 2</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e88969ecb1344d0db2ee857f619a6a02.png" alt="Cover for Computerstaat" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +288,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td>1981</td>
@@ -305,7 +305,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6036dcacf920bf3d23bca25e4f1a683.png" alt="Cover for Bistriji ili tuplji čovek biva kad..." style="max-width:120px; height:auto;" />
       </td>
@@ -323,7 +323,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/jMxzQ3gIdO4AQMqhgDnwbhERZ4wrn9Y5C0paUKj88wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/Ni0xMTA4MjMyNDc3/LmpwZw.jpeg" alt="Cover for A Taste of DNA" style="max-width:120px; height:auto;" />
       </td>
@@ -341,7 +341,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06707f50cef3731a5328f57add5fd510.png" alt="Cover for Mambo Nassau" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/647b8f61f8824a49a34f66e214ff1f52.png" alt="Cover for 24-24 Music" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +380,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd8cf7e55d7dc2827ff858154d55bcf.png" alt="Cover for Memory Serves" style="max-width:120px; height:auto;" />
       </td>
@@ -399,7 +399,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
       </td>
       <td>1981</td>
@@ -416,7 +416,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f352f984e6444c38869d16fcf3c288a6.png" alt="Cover for Circus Mort" style="max-width:120px; height:auto;" />
       </td>
@@ -453,7 +453,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c6b740797b84f8fb68edaf912c6f303.png" alt="Cover for 8 Eyed Spy" style="max-width:120px; height:auto;" />
       </td>
@@ -473,7 +473,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de68e5b552e00414f5e55a2011123818.png" alt="Cover for Swans" style="max-width:120px; height:auto;" />
       </td>
@@ -492,7 +492,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94c401029d0276d2ecd357a911edd2d.png" alt="Cover for Sonic Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -509,9 +509,9 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/lG22gU2GGI16X7MLm5v-7PTlkKu-KPqYOuzqlcOsr4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/NDUtMTY3NzI1MzAy/NC01NjgxLmpwZWc.jpeg" alt="Cover for Confusion Is Sex &#x2F; Kill Yr. Idols" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a78be44bc040186fbf64d2d05f2982e.png" alt="Cover for Confusion Is Sex &#x2F; Kill Yr. Idols" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Sonic Youth</td>
@@ -523,7 +523,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 43</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +543,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/BtQj4rBlt_i9OLDogWa9L5nYNS49KHqXuX_-bGjuLNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjM5/MDktMTQxNDEzNzA2/My04ODc2LmpwZWc.jpeg" alt="Cover for Filth (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -602,7 +602,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/beb8fcc850a94e7cbbae74c278547655.png" alt="Cover for Zulu Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +620,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c068880707147aa8318ba2f358c25f5.png" alt="Cover for Sleep It Off" style="max-width:120px; height:auto;" />
       </td>
@@ -630,25 +630,6 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ce8f99b0545e4372cac4903f386a66f.png" alt="Cover for Cop" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Swans</td>
-      <td>Cop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
         </ul>
       </td>
       <td>
@@ -672,12 +653,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 57</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f95287a2da4e04ef2a478e9fd236c5b2.png" alt="Cover for Death Valley &#39;69" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +679,25 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc65c795065504c0eab96f5b2885c575.png" alt="Cover for Public Castration Is a Good Idea" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Swans</td>
+      <td>Public Castration Is a Good Idea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/wYzkhKbsc3Vz9ljEEECHRFovOsG23OL2rXn8rS_s2Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzYw/MjQtMTU2MDA5NTgz/My02OTczLmpwZWc.jpeg" alt="Cover for Exterminating Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -716,7 +715,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/_IKO19gWRRSJ_PTncv9oX_1YdwBTQNCmNwJ19A8x2zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTA0/NS0xMTczMDg5MTMx/LmpwZWc.jpeg" alt="Cover for 78+" style="max-width:120px; height:auto;" />
       </td>
@@ -734,25 +733,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>1986</td>
-      <td>Swans</td>
-      <td>Public Castration Is a Good Idea</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b8590f1b1d4467d3583f464fb9525f8.png" alt="Cover for EVOL" style="max-width:120px; height:auto;" />
       </td>
@@ -766,12 +747,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 85</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f2e95762661478e91d260b627f104a7.png" alt="Cover for Honeymoon in Red" style="max-width:120px; height:auto;" />
       </td>
@@ -790,7 +771,26 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a38d9a6e4daed0f1557f10e516abe35.png" alt="Cover for Rosa Yemen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Lizzy Mercier Descloux</td>
+      <td>Rosa Yemen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/GZVrDzE1SJE_88_SrRvRdUHit8AuqrqC5rSNG_pS9Nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTk2/My0xMTcwNTkwODM5/LmpwZWc.jpeg" alt="Cover for In Gut&#39;s House" style="max-width:120px; height:auto;" />
       </td>
@@ -808,9 +808,9 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/MipfskdH5z8oOMzTHRilsuI_C7j2kdf90BRxDXjXKn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/NTYyLTE1OTQ5OTUx/OTItNzc0MS5qcGVn.jpeg" alt="Cover for Why Be Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb3f17b82c7d40f1b4f879f282d2ad9d.png" alt="Cover for Why Be Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-11</td>
       <td>Suicide</td>
@@ -828,7 +828,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/144b360c1fc7714b003be848a6fe8b0b.png" alt="Cover for Hee Haw" style="max-width:120px; height:auto;" />
       </td>
@@ -846,7 +846,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/trZoNGz7yza06Rk4ObQyen7q5fYaBUHkaeNgmEbwrsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU0/MS0xNDU4NzcwOTA1/LTY0MjMuanBlZw.jpeg" alt="Cover for E.V.O.L." style="max-width:120px; height:auto;" />
       </td>
@@ -865,7 +865,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/0rQTC--Qegqalo3Qyj26xjR1JB8cqzQscoQ6M9mVvEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjMx/MS0xNjIxMDA0MjQx/LTM3NjMuanBlZw.jpeg" alt="Cover for Symphony No. 3 (Gloria)" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
       </td>
       <td>1994</td>
@@ -906,7 +906,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e8b9c111aa467f9255c9201c59d45c.png" alt="Cover for Release" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +924,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/YUIEMizq5pQXZs2B6ji8prOXS6AVf2mc79Mn_Q14H30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDUz/NC0xMzI5OTIxMDIw/LmpwZWc.jpeg" alt="Cover for Confusion Is Sex Plus Kill Yr Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -938,12 +938,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 52</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/87740437c951bd9786487cc28d7c74e6.png" alt="Cover for Symphony No. 2 (The Peak of the Sacred)" style="max-width:120px; height:auto;" />
       </td>
@@ -963,7 +963,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/MXNltuAfqNM9p70BSIeFu7emCUjCdDDqIRkg99e8iQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTMy/OS0xNjExNDI4Mzc3/LTg3NjcuanBlZw.jpeg" alt="Cover for Symphony No. 5 (Describing Planes of an Expanding Hypersphere)" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +981,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/aV3WF3WhbWI0vkHJqw6peZIOIvCI94oOFmKnNNh4Mc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk4/NzAtMTQ1NjgzMTY5/OC0xMDk5LmpwZWc.jpeg" alt="Cover for Nuihuli" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,7 +1020,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Y4aRXQSAkQUezqiGpPV0eq0qhGexDodeNzoTkGxo4io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU4/MzEtMTQyMDE1MDQ5/MC0xMDEwLmpwZWc.jpeg" alt="Cover for AMOK" style="max-width:120px; height:auto;" />
       </td>
@@ -1038,7 +1038,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/eCujm2sgKLTiyIcHNSwJgynSpG9jsGbqVJnfHnK0iRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEy/NzctMTU3OTMzNjQw/OC02NjEzLmpwZWc.jpeg" alt="Cover for No New York" style="max-width:120px; height:auto;" />
       </td>
@@ -1056,7 +1056,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2347f9767334cc27578ac4e2e955bb19.png" alt="Cover for Songs &#39;77-&#39;79" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1094,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1997-05-15</td>
@@ -1114,7 +1114,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd62e58aba48f44155f8729181e4ee2.png" alt="Cover for Live 81-82" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1133,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81feaf844018458fc55b31217cfc5580.png" alt="Cover for Confusion is Sex + Kill Yr. Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1152,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd06ac9dfa60157c1e82ef583daf0245.png" alt="Cover for confusion is sex + kill yr. id" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,12 +1166,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 54</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2001</td>
@@ -1194,7 +1194,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2001-08-21</td>
@@ -1211,7 +1211,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cc5dd1e7d549d799dd50ec0fc5ea3c.png" alt="Cover for They Threw Us All In A Trench And Stuck A Monument On Top" style="max-width:120px; height:auto;" />
       </td>
@@ -1227,13 +1227,13 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 42</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 45</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2cc8619d99eae377d053d7048f9717c.png" alt="Cover for Theoretical Record" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1251,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a614da1691f44a78283a064119298d2.png" alt="Cover for American Supreme" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,12 +1271,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 28</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d51a7adac1948cfaa15aa7f506e33e6.png" alt="Cover for Theoretical Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1294,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb5987a408364b65b0dd2358ec3fbdaf.png" alt="Cover for Zoo Psychology" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,7 +1313,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a6515f4c05d4a92b58a272b42d902f4.png" alt="Cover for Kila Kila Kila" style="max-width:120px; height:auto;" />
       </td>
@@ -1332,7 +1332,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2003-09-02</td>
@@ -1349,7 +1349,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/G34GmrKh9CjeLB6Xg2GvWtFZ_Ln3YlZ-kGb09NYN0Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc0/MDItMTIzMzc0MzA0/MS5naWY.jpeg" alt="Cover for Revival Of The Shittest" style="max-width:120px; height:auto;" />
       </td>
@@ -1367,7 +1367,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/UzFuKIZpFKgcbo90eg0wtjaOJnzpqeB92DD7rJCd6UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjk1/NS0xMzA5Mjk3NDUx/LmpwZWc.jpeg" alt="Cover for Queen Hygiene II &#x2F; Rough Day At The Orifice" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1387,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f0ffae42f84483976a4576757be0f8.png" alt="Cover for The Complete Studio Recordings NYC 1977-1978" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1405,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c92aecbb0648bea9df7cb4a8d67bcbdf.png" alt="Cover for Buy the Contortions" style="max-width:120px; height:auto;" />
       </td>
@@ -1423,7 +1423,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/032cfa909e409184a9a711c37bc49b99.png" alt="Cover for DNA on DNA" style="max-width:120px; height:auto;" />
       </td>
@@ -1461,7 +1461,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Yll3__l1oamq1tkWpsPpLloNlRMEYYyFWVVoIOn3c0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NzYtMTI1NDk2MzY1/My5qcGVn.jpeg" alt="Cover for Arrived In Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1482,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6c431bcb4f932e889c02a22bc0d232d.png" alt="Cover for Love in the Fascist Brothel" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1501,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/4j8-eivBAdjj_TuVNk7D93HZFxj0xEKIBBveqAjSEO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk2/MS0xNTczMTIwMjUy/LTg1MTAuanBlZw.jpeg" alt="Cover for Zodiac Zoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1521,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/350eeb0e10f341fe8eb37aa41948ce9a.png" alt="Cover for Best Off" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,7 +1541,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/268XaeqzHHe1dIPy2taYPx2mQ9Q3gUMdx2exBYHyOZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/ODgtMTE5NDg1ODA2/NS5qcGVn.jpeg" alt="Cover for Sangue Puro" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1562,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ZquCtQR7zqQDgEk41CaS72GsyipKhVZzOyd4Jz8G1uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM3/OTAtMTE5MDgyMDQ4/MS5qcGVn.jpeg" alt="Cover for A Journey Through Roman&#39;s Empire" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1581,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -1599,7 +1599,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
       </td>
       <td>2007-10-09</td>
@@ -1617,7 +1617,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c49198f1af6b7baab221627a5976c7bc.png" alt="Cover for Slip In And Out Of Phenomenon" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1636,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2010-02-27</td>
@@ -1653,7 +1653,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/zD6gALdACKH5RNb2aUzdA6rrMoqzILMSwj48Szbrn00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzEz/LTEzMzM4NzE1MDku/anBlZw.jpeg" alt="Cover for Press Color (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1671,7 +1671,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/JMyhRKmQLo-r3mDgUG9cKmthAAPLHay3DxmREx-Tb_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEx/NDItMTQzNTA4Mzcz/OC0zMzg1LmpwZWc.jpeg" alt="Cover for Имя 505" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1690,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/wr09dBGBL6Tw4kBOxVpvy5tfXu16eXx6VvpWWZUVg8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTE0/NTItMTQ0OTI3Mjcx/OC0xNDI5LmpwZWc.jpeg" alt="Cover for Live 1977-1979" style="max-width:120px; height:auto;" />
       </td>
@@ -1708,7 +1708,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15e2aa6fbb9db93a7236039ae64ee1a3.png" alt="Cover for You Won&#39;t Get What You Want" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,19 +1717,17 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       <td>You Won&#39;t Get What You Want</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 50</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91df2f94f7bc339da10027a9cb58e93b.png" alt="Cover for Deaf" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,9 +1745,9 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/T6ub_ELQzKEcTPp_aEkNN8bw-ezniUHcuqoDJPS6HI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTEx/OTYzLTE1OTI3NjMz/ODEtNTA0MC5qcGVn.jpeg" alt="Cover for The Passion Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e893ec4a0bd8170f301bd2527edc358f.png" alt="Cover for The Passion Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Special Interest</td>
@@ -1767,7 +1765,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a4e150445f1caebe10a38d23194157c.png" alt="Cover for Several Others" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,12 +1787,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 1</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/3bnzQb-1BNzecQJUh__fcJuSJxtPI7vpbRgeuJPg7yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjU5/NDQ0LTE2MTkzMDYw/NDAtMjg2Ni5qcGVn.jpeg" alt="Cover for Ultrapop" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,12 +1807,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537a15c77e18305188c58e58b9efd992.png" alt="Cover for Most Normal" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,12 +1825,12 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 25</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c760c7f1de77804575cb7521ce5e85e0.png" alt="Cover for Dogsbody" style="max-width:120px; height:auto;" />
       </td>
@@ -1847,13 +1845,13 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 68</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fee759e8d2adbc4bb38c0e59c961a9d.png" alt="Cover for The Lamb as Effigy" style="max-width:120px; height:auto;" />
       </td>
@@ -1869,7 +1867,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1959,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1981,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2010,7 +2008,7 @@ No wave was an abrasive, experimental music movement that emerged in late 1970s 
       <td>
         <ul>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 61</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 63</li>
         </ul>
       </td>
     </tr>

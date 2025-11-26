@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T08:14:38.054Z
+date: 2025-11-26T02:32:32.676Z
 permalink: tags/cloud-rap
 title: cloud rap
 ---
 
 ## cloud rap
 
-Last updated: <time datetime="2025-11-24T08:14:38.054Z">Mon Nov 24 2025 10:14:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:32:32.676Z">Wed Nov 26 2025 04:32:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 42</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 92</li>
         </ul>
       </td>
@@ -67,7 +67,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af71b4bfdb68bce6fd5a060499f36982.png" alt="Cover for Trap Lord" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -139,12 +139,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 3</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa6404fb8e424e85ce5fbe6c910d075d.png" alt="Cover for Concept Vague" style="max-width:120px; height:auto;" />
       </td>
@@ -172,18 +173,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 96</li>
         </ul>
       </td>
@@ -259,7 +255,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 8</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 75</li>
         </ul>
       </td>
@@ -281,9 +277,9 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 61</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 65</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 87</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
@@ -322,8 +318,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 51</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 67</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 94</li>
         </ul>
       </td>
@@ -362,7 +358,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 74</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +397,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 78</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 80</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 88</li>
         </ul>
       </td>
@@ -422,12 +418,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 2</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a969e831338584600d49f964e9e1b57e.png" alt="Cover for Red Teenage Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -462,14 +458,14 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 6</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 13</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 88</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/FFYjI4qQkhLS67l8FOcwiw6wNkOuqGQBBvw7OIgPZpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg5/MjE0LTE2ODg2NDk3/OTAtMjE2Ny5qcGVn.jpeg" alt="Cover for Freewave" style="max-width:120px; height:auto;" />
       </td>
@@ -486,7 +482,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 86</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
         </ul>
       </td>
@@ -512,10 +508,10 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 68</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 70</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 86</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 90</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 91</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 93</li>
         </ul>
       </td>
@@ -537,7 +533,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 32</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 38</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 96</li>
         </ul>
       </td>
@@ -560,7 +556,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 55</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 87</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -579,12 +575,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 36</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a5b763b18898ff78a68406029de753.png" alt="Cover for Stoney (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -615,14 +611,14 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 14</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f24be6fb8075d54d9f8eaeaba5fa5187.png" alt="Cover for Imperial" style="max-width:120px; height:auto;" />
       </td>
@@ -640,26 +636,6 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c302ad0b500e647f344a76ff1d3ec5c.png" alt="Cover for I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-04-14</td>
-      <td>Erikthemc</td>
-      <td>I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 23</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 53</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef217b8ec30f02e4afc94b693fc75a27.png" alt="Cover for Playboi Carti" style="max-width:120px; height:auto;" />
@@ -673,9 +649,26 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 18</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 29</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 22</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c302ad0b500e647f344a76ff1d3ec5c.png" alt="Cover for I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-14</td>
+      <td>Erikthemc</td>
+      <td>I Spoke to the Devil in Miami, He Said Everything Would Be Fine (Remix)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -693,7 +686,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 79</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 91</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 99</li>
         </ul>
@@ -718,7 +711,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 69</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 70</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 98</li>
         </ul>
       </td>
@@ -751,7 +744,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1415b58d856ffe9884607ca67dabc40a.png" alt="Cover for Innocence v2" style="max-width:120px; height:auto;" />
       </td>
@@ -777,7 +770,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4549775c91db98f79dbfc1e75351333d.png" alt="Cover for Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -795,7 +788,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4da9bf6b37849a675c7e6a18fdeb710.png" alt="Cover for Working on Dying" style="max-width:120px; height:auto;" />
       </td>
@@ -808,12 +801,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/RxHZMYbBucHOGUqnGsj86eXreXNwCJ_0nVe9JESDzWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/MzAwLTE1NTkwODc0/MjEtNDMwMS5qcGVn.jpeg" alt="Cover for Into Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -832,13 +825,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 37</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 66</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/lr9Eq4mNUzeaC7dWtliP9FDjQKNXDJwjAepT8V8JcF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg" alt="Cover for care for me" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +871,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 88</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +890,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 82</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +908,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 40</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 42</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 54</li>
         </ul>
       </td>
@@ -941,8 +934,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 35</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 77</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -965,8 +958,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 77</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 93</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 97</li>
         </ul>
@@ -991,7 +984,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 3</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 96</li>
         </ul>
       </td>
@@ -1017,7 +1010,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
         <ul>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 30</li>
             <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 53</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
         </ul>
       </td>
@@ -1038,12 +1031,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 50</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/kBEqRaF8HVrN8KMkAcrgkKo7bBb7YeC0yufFAaGzoUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/MzE0LTE1NTkwODc4/MzMtNDM2NC5qcGVn.jpeg" alt="Cover for Trash Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1053,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 78</li>
         </ul>
       </td>
@@ -1107,14 +1100,14 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 30</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/rkdV7FX9WFWmP-6YrlNxzWWFVR2J_TjPZ4rIKx7oX-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg2/NjE4LTE1NTkwMTMz/MzktMjU4MS5qcGVn.jpeg" alt="Cover for Apple" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,7 +1125,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 36</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 80</li>
         </ul>
@@ -1181,7 +1174,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 59</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 85</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 95</li>
@@ -1189,7 +1182,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48051b7ece1ddeecfb474340a31603af.png" alt="Cover for Hotel Diablo" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,14 +1208,14 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 58</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1258,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 50</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1325,10 +1318,10 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
         </ul>
       </td>
@@ -1351,9 +1344,9 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 91</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1372,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
@@ -1419,12 +1412,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 51</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e19a9f655ed86f62ba919a4b38156fd8.png" alt="Cover for Instrumental Relics" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,8 +1453,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 94</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 99</li>
         </ul>
       </td>
@@ -1504,7 +1497,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 87</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1535,6 +1528,24 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5070d77d7494b134b6632bf64b31e719.png" alt="Cover for D&amp;G" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-16</td>
+      <td>Bladee</td>
+      <td>D&amp;G</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>76</td>
       <td>
           <img src="https://i.discogs.com/CIBxFWl-qdwWdMvrLtMglnWjdrh85UpNoOLIvgHdKjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDU1/MDY5LTE1NzQ4NjMz/NTgtMTAxOC5wbmc.jpeg" alt="Cover for E" style="max-width:120px; height:auto;" />
@@ -1558,7 +1569,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b5792c3a820cc463b6df25836d2e54.png" alt="Cover for Teen X" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1587,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 27</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 76</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 82</li>
         </ul>
@@ -1600,7 +1611,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 61</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 63</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 87</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 98</li>
         </ul>
@@ -1620,7 +1631,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 78</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 91</li>
         </ul>
       </td>
@@ -1641,7 +1652,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 83</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1660,8 +1671,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 68</li>
         </ul>
       </td>
@@ -1686,7 +1697,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 81</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 98</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
@@ -1729,8 +1740,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 38</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 51</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 39</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1763,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 26</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 99</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 100</li>
@@ -1797,6 +1808,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1828,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 72</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 74</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 87</li>
         </ul>
       </td>
@@ -1842,12 +1854,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 88</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 93</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1867,12 +1879,12 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 68</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4f89413df40e806c722bc0d10384a2.png" alt="Cover for Twelve Carat Toothache (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1901,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1910,13 +1922,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f195c7d71abeedd2ddf1853c840c3e82.png" alt="Cover for XTENDED" style="max-width:120px; height:auto;" />
       </td>
@@ -1932,13 +1944,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 3</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8f26b74802ef095a3bd166778b65e9e.png" alt="Cover for Sexy" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,13 +1966,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba4a8fcff83d851ecc13393ddad3bdf.png" alt="Cover for Trash Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1994,13 +2006,14 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/RmrVvDsrgI8og8MED6cYWECwyG8qad59GeoGguUhWCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MzY0LTE2ODMxNzgw/MzAtNDUxMy5qcGVn.jpeg" alt="Cover for Don&#39;t You Love Me" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,7 +2031,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 86</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2052,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2083,8 +2096,8 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 95</li>
@@ -2094,47 +2107,23 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>2</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d37ebf99e77aeabec42305f4310fe76.png" alt="Cover for A Great Chaos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae289860b6eab2c8bb8b30b635008e5b.png" alt="Cover for A Love Letter To You 2" style="max-width:120px; height:auto;" />
       </td>
-      <td>2023-10-13</td>
-      <td>Ken Carson</td>
-      <td>A Great Chaos</td>
+      <td>2023-08-11</td>
+      <td>Trippie Redd</td>
+      <td>A Love Letter To You 2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 47</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae8849105e2fb70f8bfb04cb5ab26479.png" alt="Cover for Flex Musix" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-12-22</td>
-      <td>OsamaSon</td>
-      <td>Flex Musix</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2156,15 +2145,15 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 39</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 40</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 77</li>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f30fb096421abfa66fcff48730b945b.png" alt="Cover for Almighty So" style="max-width:120px; height:auto;" />
       </td>
@@ -2180,13 +2169,13 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 7</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc3d2ef7335751328020ceb8a3993526.png" alt="Cover for The Marina" style="max-width:120px; height:auto;" />
       </td>
@@ -2203,7 +2192,7 @@ Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 87</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
         </ul>
       </td>
     </tr>
