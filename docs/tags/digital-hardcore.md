@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:39:47.360Z
+date: 2025-11-26T02:11:23.568Z
 permalink: tags/digital-hardcore
 title: digital hardcore
 ---
 
 ## digital hardcore
 
-Last updated: <time datetime="2025-11-23T02:39:47.360Z">Sun Nov 23 2025 04:39:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:11:23.568Z">Wed Nov 26 2025 04:11:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a2bf2228898dc2ec08b010157be226b.png" alt="Cover for The Destroyer" style="max-width:120px; height:auto;" />
       </td>
@@ -96,8 +96,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd446f63ab636b1f1fb5315fd04da2c4.png" alt="Cover for 1995" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-02-27</td>
       <td>Atari Teenage Riot</td>
@@ -131,7 +132,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc36033bd847cf6b24ea9fe9d154543f.png" alt="Cover for Shizuo vs. Shizor" style="max-width:120px; height:auto;" />
       </td>
@@ -150,7 +151,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a781d5b3ad2aeb9d3c4d46c929c1d91f.png" alt="Cover for Delete Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +169,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03516ec3bd60bbd27dcb9b7e710e2b94.png" alt="Cover for Burn, Berlin, Burn!" style="max-width:120px; height:auto;" />
       </td>
@@ -185,8 +186,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/664900a4a6c14d56b00c53b4f0644677.png" alt="Cover for The Future of War" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-03-17</td>
       <td>Atari Teenage Riot</td>
@@ -203,9 +205,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6544038391a14955af0519e4abf354a4.png" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05</td>
       <td>Björk</td>
@@ -217,7 +219,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
@@ -228,7 +230,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/3zdBR3rGHsBVaun022_Uih2uThOL55XH4WL9xv7lYQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjU0/LTEyNjc2OTY2MjIu/anBlZw.jpeg" alt="Cover for Seven Up" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +248,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>61</td>
       <td>
       </td>
       <td>1997-09-26</td>
@@ -264,7 +266,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
@@ -283,13 +285,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 42</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
             <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -333,6 +335,25 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffca6e5e6a1d4e589d5a399e0bf1897f.png" alt="Cover for Frankenstein Girls Will Seem Strangely Sexy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mindless Self Indulgence</td>
+      <td>Frankenstein Girls Will Seem Strangely Sexy</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>14</td>
       <td>
       </td>
@@ -350,7 +371,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/77e8a59744e44915996a34cc537dfdbc.png" alt="Cover for 60 Second Wipe Out" style="max-width:120px; height:auto;" />
       </td>
@@ -365,14 +386,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 30</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/r-942-OUpSatXYSlC9XydlSIsR1vomdV8dqIYE3rQz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA4/Ni0xNTQ2OTgyMTc2/LTI3MTAuanBlZw.jpeg" alt="Cover for Girls Fucking Shit Up" style="max-width:120px; height:auto;" />
       </td>
@@ -434,7 +455,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/-NIhJrgaaNfHkPaYr1P_hQhH8UQd4wQErDPQsaBFgt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/MjQtMTM2NzQ4OTM4/Ny05NDgyLmpwZWc.jpeg" alt="Cover for OSC-DIS" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +516,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Bp-dtA2-YTTc7wFqXjQgbMU7lngfvIaPNPLz6CBbyek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/NzctMTM2NzUzODE4/MC03MDAzLmpwZWc.jpeg" alt="Cover for 010" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +535,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcdab1a7b6a249aa9d8ad1e8264f4f36.png" alt="Cover for Soundtrack for the Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -532,9 +553,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/tZWThCwo702HZIPa2wlfC_h1QAE9sZiLMwM2xnosDpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/NzYtMTIyNzkyMTcz/Ni5qcGVn.jpeg" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4054fb878d41f8b0612f9335bbcfe9.png" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-22</td>
       <td>Alec Empire</td>
@@ -583,9 +604,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/ru15cqKb49OIWX-tvVTjfdinXmLf0IANOtVh1MWeEZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE2/Ny0xNTAxODQ2MTcx/LTc0NTcuanBlZw.jpeg" alt="Cover for Redefine the Enemy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a19057b77dee4ef0b6a068bf9feb7463.png" alt="Cover for Redefine the Enemy" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-18</td>
       <td>Atari Teenage Riot</td>
@@ -622,9 +643,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/ncNlqsQlD7kFPOQsMcNxWPMbZVNuI7juKEcGV_p8T10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA0/Ny0xMTcxMDAwMjgx/LmpwZWc.jpeg" alt="Cover for Rabbit Junk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197ff325126179034754681f8ba7076a.png" alt="Cover for Rabbit Junk" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Rabbit Junk</td>
@@ -676,7 +697,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/H4hwkHmQ6gp6FUAAmCcahwJfUI1bsOqX_iy8hl7BnAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjQy/MDktMTQ2MDE2NDQy/OS02NjUyLmpwZWc.jpeg" alt="Cover for CiSTm K0nFLiqT..." style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +717,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6779b1ec371939622e60e7054395a115.png" alt="Cover for Futurist" style="max-width:120px; height:auto;" />
       </td>
@@ -731,8 +752,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc9aa971d5d44dda6592eb54980975e.png" alt="Cover for Reframe" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Rabbit Junk</td>
@@ -751,7 +773,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>56</td>
       <td>
       </td>
       <td>2006-01-04</td>
@@ -804,7 +826,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/1_ksyM52mvLrN0m83kFu3tIHfSmr5RWj7A50CTZd5bI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUw/OTktMTQwMTk3MzA3/Mi0xNDAxLmpwZWc.jpeg" alt="Cover for The Golden Foretaste of Heaven (official)" style="max-width:120px; height:auto;" />
       </td>
@@ -883,7 +905,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>2009</td>
@@ -906,9 +928,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/lQwEeXEXW1wKYRfuWxI0A9HBIbWlol6W2Bo6jhuX2B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODAw/NzQtMTM0NDEyMTc1/OS0yNjU2LmpwZWc.jpeg" alt="Cover for #1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f75d00eddce95c6c75551b6d6d8d16b.png" alt="Cover for #1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-25</td>
       <td>AA&#x3D;</td>
@@ -929,7 +951,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c383a41acc4931c9025eac691d0856.png" alt="Cover for Project Nonagon" style="max-width:120px; height:auto;" />
       </td>
@@ -965,25 +987,6 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fa577b55cbfe3d2661578c7d97c8810.png" alt="Cover for The Medication Generation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-06-06</td>
-      <td>Cyanotic</td>
-      <td>The Medication Generation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88a149e7bb144d0b87bcfaf1da69fedc.png" alt="Cover for #2" style="max-width:120px; height:auto;" />
@@ -1002,7 +1005,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/QA-ZpFLnARWLqOs_BWE_PaMT8axtPpCSKz30QRBnznw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEw/NTYtMTMwMDczNzQ1/NC5qcGVn.jpeg" alt="Cover for Blood in My Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,8 +1024,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21cf2685520040c9bfceae703b0cc600.png" alt="Cover for Is This Hyperreal?" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-06</td>
       <td>Atari Teenage Riot</td>
@@ -1061,18 +1065,18 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 73</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 96</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 97</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab97706d20fe4b10cb32bfb8b136f795.png" alt="Cover for Jenny Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,15 +1092,15 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 20</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 39</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f055e94920c947f39331d64fcc20228e.png" alt="Cover for Riot in Japan 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-17</td>
       <td>Atari Teenage Riot</td>
@@ -1113,7 +1117,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d173d6a9926477816cea31d409a2d6.png" alt="Cover for WLFGRL" style="max-width:120px; height:auto;" />
       </td>
@@ -1129,15 +1133,16 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 10</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 96</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66710d98ce814392c37c12f109ed796d.png" alt="Cover for Reset" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-26</td>
       <td>Atari Teenage Riot</td>
@@ -1173,7 +1178,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/nPeVmd2EqnGtNtNIJqOrU2lQToDo5GtmIy2Gu5GWebs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc3/MzUtMTQyNjYyMTgz/Ny04NjI3LmpwZWc.jpeg" alt="Cover for Suicidegirls.jp" style="max-width:120px; height:auto;" />
       </td>
@@ -1194,7 +1199,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg" alt="Cover for the powers that b" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,18 +1216,18 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 33</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 57</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 89</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg" alt="Cover for CEASE AND DESIST" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,8 +1246,8 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 59</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
@@ -1250,7 +1255,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35faf2469e2d8d2ffdfc3af113613914.png" alt="Cover for Nothing Above, Nothing Below" style="max-width:120px; height:auto;" />
       </td>
@@ -1263,12 +1268,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4255ae69ea06f4edf88ed00095707e36.png" alt="Cover for Cortex Rampage" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,13 +1296,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
         <ul>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 32</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 48</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52817f5a1bbab6bef03f9845892d362.png" alt="Cover for Bottomless Pit" style="max-width:120px; height:auto;" />
       </td>
@@ -1310,20 +1315,17 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 43</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 89</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/EHok27jskaXD73Vxzjs8ceanHiSPnXLv5Ug_fidobdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQw/MDkyLTE0OTIzMzU1/NDQtNzY5NC5qcGVn.jpeg" alt="Cover for Gate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5de830008727f104c71a3ee79844159.png" alt="Cover for Gate" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-10</td>
       <td>Horskh</td>
@@ -1344,14 +1346,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 28</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6652f330da96e4eae3973646eb89025b.png" alt="Cover for Steroids (Crouching Tiger Hidden Gabber)" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,10 +1366,10 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 100</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 7</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1386,14 +1388,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 86</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 87</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 91</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e717bb0cd7ffaab333ee95c1b16403cc.png" alt="Cover for ...BECAUSE I&#39;M YOUNG ARROGANT AND HATE EVERYTHING YOU STAND FOR" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,7 +1414,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17101ec892cf0dd4d09bef752c3015e1.png" alt="Cover for Year of the Snitch" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,19 +1427,17 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 42</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 66</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 70</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 45</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbde407bcf133c08c8dc55fa1f18b705.png" alt="Cover for The Ugly Art" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,9 +1456,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/OSHjHwkHudoSyP0HSUmz22h2ddTKeI6fQsPLBJ3-jGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAy/OTQ0LTE1Nzc5ODk4/MzgtNTIxNi5qcGVn.jpeg" alt="Cover for I Don&#39;t Know How to Be Happy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb5ffaeb20da37460f88cd8a924cf7d2.png" alt="Cover for I Don&#39;t Know How to Be Happy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-22</td>
       <td>deli girls</td>
@@ -1476,7 +1476,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6a71f95547f0ba6d662f8fd4b9b909.png" alt="Cover for The Shape of a Burning Credit Card" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,15 +1485,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       <td>The Shape of a Burning Credit Card</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1514,7 +1511,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 95</li>
         </ul>
       </td>
@@ -1540,7 +1537,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc96f61fb19302740c1fe79b06e205b.png" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,17 +1551,14 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 60</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 39</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/YHX2t7_BXJQexiV284NXOq89U3mOOkZxUMYu1tkf6j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/MzEzLTE1OTY4MTk4/MjEtNDMzNS5qcGVn.jpeg" alt="Cover for Just Here to Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1584,7 +1578,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07b63a93082398e0bc8ac868e8c2c36.png" alt="Cover for RIDE IT" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,29 +1598,26 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 91</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/psU82ffhWvs4jL5FIU3xg_kElRZvB9q_73YjeF1yiU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEy/MDc0LTE2MTc5MTY5/ODQtMzkzNy5qcGVn.jpeg" alt="Cover for Loss Prevention Reloaded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dda4001c0c3048a618c502ee4e93c914.png" alt="Cover for Loss Prevention Reloaded" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>KFC Murder Chicks</td>
       <td>Loss Prevention Reloaded</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 3</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1645,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/UvYIcHlIcL7phHIbeI4us4g0L-2wGkRpJ13f84FOwxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI0/NTQ1LTE2MTA2Mzgx/MzctODExMi5qcGVn.jpeg" alt="Cover for Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -1678,7 +1669,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 22</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 81</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
@@ -1703,13 +1694,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d64121c1f76c267d15f3c3a64b0fb1a.png" alt="Cover for Tummyache" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1716,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1751,28 +1742,23 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7452f36c612e52968edd7cb17cc64481.png" alt="Cover for AS HARD AS YOU CAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>LustSickPuppy</td>
       <td>AS HARD AS YOU CAN</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 72</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 96</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1801,9 +1787,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/9hUO7UXPiU6cX9-axDhdPOJi1P1fs435bU3w3MXxrOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MjI4LTE2NTYzNTM5/MzMtMTA0Mi5qcGVn.jpeg" alt="Cover for SKIN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c09246f1f19f66bd5aa694c558053b7.png" alt="Cover for SKIN" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>HO99O9</td>
@@ -1817,12 +1803,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 71</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/oIcQysR5jxOcchMOdgIPpNbWjOVXizzCIK071avJcIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU1/ODU3LTE2NTQ5MDQz/MDEtNzIxNS5qcGVn.jpeg" alt="Cover for i&#39;m in your walls" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1828,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
       </td>
       <td>2022-07-11</td>
@@ -1861,9 +1847,9 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 8</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1889,7 +1875,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b521a2bf4fa664fd1f5850249f6e2c4b.png" alt="Cover for DOPAMINE HELLDREAMS." style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1899,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Svb_dcMXvtUdEACh0aBS3vyRMW9cdLrrw9jmxGEoEJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA2/ODU0LTE1OTk5Njk0/NDgtOTk4OC5qcGVn.jpeg" alt="Cover for Neomechanical Joyride" style="max-width:120px; height:auto;" />
       </td>
@@ -1929,12 +1915,12 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/WAZdOOgvMONpPuukIpOHdWpzLmgg-JopcPQIvrFi3rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTIx/MTI0LTE2ODc5ODM1/ODYtNjM5NS5qcGVn.jpeg" alt="Cover for How Are We Feeling Today?" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1966,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/926CdkxcRC1ftdu1M3FAw9j0812AKqC5iOvvy_XS8_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEy/ODcwLTE2ODYxMzgx/NzctNzc5Ny5qcGVn.jpeg" alt="Cover for EARWAX" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,13 +1999,13 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 11</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23334e641fd69ee7d789d71191c35047.png" alt="Cover for Hex Dealer" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,7 +2025,7 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b5a033dba205fde3009e69568531571.png" alt="Cover for MG Ultra" style="max-width:120px; height:auto;" />
       </td>
@@ -2077,30 +2063,27 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345f2ab17c9605d2ba3c9bc4b5c77310.png" alt="Cover for Blood Pact" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Death Tour</td>
       <td>Blood Pact</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 57</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 33</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/948f407c5a2848d090d9562bfa32f493.png" alt="Cover for Venom" style="max-width:120px; height:auto;" />
       </td>
@@ -2123,18 +2106,18 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 2</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 73</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 79</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
             <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/af5e12e96f6f15261328823626e48fa9.png" alt="Cover for EXPLICIT: THE MIXXXTAPE" style="max-width:120px; height:auto;" />
       </td>
@@ -2166,6 +2149,6 @@ Digital hardcore is an aggressive fusion of punk rock&#39;s rebellious energy wi
 - [noise]({{ "/tags/noise" | relative_url }})
 - [industrial]({{ "/tags/industrial" | relative_url }})
 - [hardcore techno]({{ "/tags/hardcore-techno" | relative_url }})
-- [gabber]({{ "/tags/gabber" | relative_url }})
 - [industrial hardcore]({{ "/tags/industrial-hardcore" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})
 - [cyberpunk]({{ "/tags/cyberpunk" | relative_url }})

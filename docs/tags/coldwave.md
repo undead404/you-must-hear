@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:07:01.677Z
+date: 2025-11-26T02:16:57.721Z
 permalink: tags/coldwave
 title: coldwave
 ---
 
 ## coldwave
 
-Last updated: <time datetime="2025-11-15T01:07:01.677Z">Sat Nov 15 2025 03:07:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:16:57.721Z">Wed Nov 26 2025 04:16:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1983</td>
@@ -82,7 +82,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8deab729adee4d79c00ae4d115858b0b.png" alt="Cover for Dreams Of Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9116fda7b15094d5c864ef8b4fb7e75.png" alt="Cover for Passions Divisées" style="max-width:120px; height:auto;" />
       </td>
@@ -115,6 +115,26 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f348c6373564a155b4d448539805cf.png" alt="Cover for Aya RL (Czerwona)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Aya RL</td>
+      <td>Aya RL (Czerwona)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -140,25 +160,6 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f348c6373564a155b4d448539805cf.png" alt="Cover for Aya RL (Czerwona)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>Aya RL</td>
-      <td>Aya RL (Czerwona)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>74</td>
       <td>
           <img src="https://i.discogs.com/yO5FTUAe2iaNAbIMRkJJHqxQ9bbuPU59VrGUBUGGovs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTUy/Mi0xMzk3ODY4NjI3/LTg4MTQuanBlZw.jpeg" alt="Cover for Hot paradox" style="max-width:120px; height:auto;" />
@@ -177,7 +178,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5993235a01589ba0117df6daabf5e72f.png" alt="Cover for Picture One" style="max-width:120px; height:auto;" />
       </td>
@@ -239,7 +240,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c1f43588c91e43c012215c55543d8e.png" alt="Cover for 70 Suns In The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -256,12 +257,12 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 15</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e53f26c2f8844b9ce0d4cfa2eefcd7.png" alt="Cover for Turquoise Fields" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +296,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +315,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 33</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +339,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b9c1c55445d28938d92e5d2a54a3a02.png" alt="Cover for Happy Mystery Child" style="max-width:120px; height:auto;" />
       </td>
@@ -375,26 +376,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/tF9REMQEJCvFL_Xc16ncfCpVcRwjRiciryaq7EwngIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/NTYtMTI4MTQ0MDE4/MS5qcGVn.jpeg" alt="Cover for Transhuman 2.0" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-07-03</td>
-      <td>Cyanotic</td>
-      <td>Transhuman 2.0</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +452,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 5</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 84</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +488,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 67</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +514,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 38</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 39</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 68</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 88</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
@@ -580,10 +562,10 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 12</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 18</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 98</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
         </ul>
@@ -625,13 +607,13 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 3</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 6</li>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f7887567bc27ecc3816f733abe86437.png" alt="Cover for Lows EP" style="max-width:120px; height:auto;" />
       </td>
@@ -668,7 +650,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 68</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +770,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 34</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +792,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 62</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -834,14 +816,14 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 65</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 66</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4feb4d8f06f40b7cf62bbb7097c5f03a.png" alt="Cover for EP #4" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +861,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 82</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 83</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 99</li>
@@ -979,7 +961,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 95</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 98</li>
         </ul>
@@ -1042,6 +1024,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1076,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,10 +1100,10 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
             <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
         </ul>
@@ -1173,9 +1156,9 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 90</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 92</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 95</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1202,11 +1185,11 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 31</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 32</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 93</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
@@ -1247,7 +1230,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 35</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1254,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 48</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 49</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 91</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 94</li>
@@ -1299,7 +1282,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 52</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1303,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1349,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
@@ -1394,8 +1377,8 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 39</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 51</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 53</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 95</li>
@@ -1417,7 +1400,8 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 4</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1443,12 +1427,12 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 71</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3121629152ba2ac12c75c8b1bdc754.png" alt="Cover for Part Time Punks Session" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,7 +1455,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e96790de0e6233d18cd5229eb09f7a9.png" alt="Cover for Sounds of Serfdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1521,7 +1505,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/S7PxqoN20x9Jw5MoAmI-8XRHdlolqxeTPuRtqfiTZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU3/NzY1LTE1NTA4NjQ5/MzItMzc3NS5qcGVn.jpeg" alt="Cover for Now That I&#39;m Real" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1534,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/r0HqS44BfQXJOKa37KHlDnU4A0kYitLtmKbeHYpBkBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcy/NDU1LTE1NTQ4NTI4/MTQtNDM3NC5qcGVn.jpeg" alt="Cover for Trust Ruins" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1572,23 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 82</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2019-06-28</td>
+      <td>Boy Harsher</td>
+      <td>Careful Remixes, etc.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1648,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d58c14b92a501b108e1d95d6bc7ffeb.png" alt="Cover for Ceremony" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,7 +1661,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 84</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 85</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 95</li>
         </ul>
       </td>
@@ -1719,7 +1719,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
@@ -1729,7 +1729,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a4e150445f1caebe10a38d23194157c.png" alt="Cover for Several Others" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,7 +1751,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 36</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1773,13 +1773,13 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 14</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 18</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/cOsoFbbbcmclZ7tgB15ZkvXcqS_AAhcL_JggjPGmzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk2/MjI1LTE2MTI2NzEz/NTMtNjgxMy5tcG8.jpeg" alt="Cover for Courses of Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,7 +1874,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4505325361858edcffb2508ddf2211ca.png" alt="Cover for Lustful Sacraments" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,12 +1921,12 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 86</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 84</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 87</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1954,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 60</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 62</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 73</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 84</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 95</li>
@@ -2017,7 +2017,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c27c6ff9263afba7518887f3d299442.png" alt="Cover for borderline &#x2F; dias perdidos" style="max-width:120px; height:auto;" />
       </td>
@@ -2061,14 +2061,14 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 31</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 33</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 60</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/554f314ff026c375c2b2ee0a182086e3.png" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -2118,8 +2118,8 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 45</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 48</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 46</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 50</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 76</li>
         </ul>
       </td>
@@ -2139,7 +2139,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 63</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2159,7 +2159,7 @@ Coldwave is a dark, minimalist genre that emerged from post-punk in the late 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 96</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 98</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:55:38.353Z
+date: 2025-11-26T02:11:09.798Z
 permalink: tags/australia
 title: australia
 ---
 
 ## australia
 
-Last updated: <time datetime="2025-11-24T06:55:38.353Z">Mon Nov 24 2025 08:55:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:11:09.798Z">Wed Nov 26 2025 04:11:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/25ca0a9cd82b45c6c52abf26ec3a50cd.png" alt="Cover for Nun" style="max-width:120px; height:auto;" />
       </td>
@@ -173,6 +173,29 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe1924e735b5a999b7fa499f25cd4649.png" alt="Cover for SDE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Semantics</td>
+      <td>SDE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09cdc8db484d4e85cece14a119ed77cd.png" alt="Cover for Wa Wa Nee" style="max-width:120px; height:auto;" />
@@ -189,28 +212,6 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe1924e735b5a999b7fa499f25cd4649.png" alt="Cover for SDE" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Semantics</td>
-      <td>SDE</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
         </ul>
       </td>
       <td>
@@ -277,7 +278,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 94</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 97</li>
         </ul>
@@ -302,7 +303,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b47c38499a7d44ab99e97deaa45cfe02.png" alt="Cover for Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -341,12 +342,12 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 60</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd14194af8e4173901b9aadedf247a4.png" alt="Cover for Shine Like It Does: The Anthology (1979-1997)" style="max-width:120px; height:auto;" />
       </td>
@@ -458,7 +459,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 58</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 59</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 88</li>
         </ul>
       </td>
@@ -483,7 +484,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 83</li>
         </ul>
       </td>
@@ -508,7 +509,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td>1998</td>
@@ -526,7 +527,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 32</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 33</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 76</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 88</li>
         </ul>
@@ -554,7 +555,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/DCux1h5gAPgOSB73gg_KmlMvuFQjdHOBHU1JRgbA7H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/MDAtMTMwNzUyNDIz/OC5qcGVn.jpeg" alt="Cover for A Straight Line" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +594,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70a219e8bfb24ba0b43eac15fe64b12d.png" alt="Cover for Breath Of Man" style="max-width:120px; height:auto;" />
       </td>
@@ -617,7 +618,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c124006d3a83adf9d764dad6736b4c6b.png" alt="Cover for White Lilies Island" style="max-width:120px; height:auto;" />
       </td>
@@ -654,7 +655,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/cL0VValTgGL-k0rQg95EI1rYXA76PaD7jHWpCu0eXD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ5/OC0wMDEuanBn.jpeg" alt="Cover for Forgetabout" style="max-width:120px; height:auto;" />
       </td>
@@ -753,7 +754,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6798c3f2cd64428e9870e1370a21369f.png" alt="Cover for Another Time Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -905,14 +906,14 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 82</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 88</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
         </ul>
       </td>
@@ -959,7 +960,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 97</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 98</li>
         </ul>
@@ -1074,14 +1075,14 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
         </ul>
       </td>
@@ -1107,7 +1108,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1131,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/WIQINXdLgTPPaETxEghk07FboohQFeU1MpuWIWfbHYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU5/OC0xMTYxMDgwNjUx/LmpwZWc.jpeg" alt="Cover for Old Grooves for New Streets" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1156,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ef7e82efe04efcbfeeda24bdc6dce4.png" alt="Cover for Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1356,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/970c49852cb7bb959b13873927e3bc23.png" alt="Cover for Black Stones" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,7 +1732,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/f-PLR3FB3UjqGdmgXE5zLFiHJOujqdYiGF2JztPkGE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/OTM0LTE0OTczNzAx/OTktNDE1Ni5qcGVn.jpeg" alt="Cover for Erotic Stories Written In Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1985,6 +1986,25 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c07e8f166109869961050f66256e6d5b.png" alt="Cover for F*CK LOVE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-15</td>
+      <td>The Kid LAROI</td>
+      <td>F*CK LOVE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e884d3a9d9518cb74d9fc654cd4a89.png" alt="Cover for Artificial Intelligence" style="max-width:120px; height:auto;" />
@@ -1995,28 +2015,6 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b2ebbf0db868be22a0f606fd07c6046.png" alt="Cover for Paint Me Blue" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-05-20</td>
-      <td>Semantics</td>
-      <td>Paint Me Blue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
         </ul>
       </td>
       <td>
@@ -2069,7 +2067,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/HEJKaCUCLLnUJgNj-o-kVptgmKgYBSUsuXA1XxYCTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTYwLTE3MTgyNTQ1/NjMtNDIwNC5qcGVn.jpeg" alt="Cover for the tiny album" style="max-width:120px; height:auto;" />
       </td>
@@ -2133,13 +2131,14 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 34</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd4c0781e9ac4b933118d755e5c2bc2.png" alt="Cover for DEMO 2023" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fatlip</td>
