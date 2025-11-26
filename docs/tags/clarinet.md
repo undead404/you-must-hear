@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T08:56:44.626Z
+date: 2025-11-25T17:44:50.664Z
 permalink: tags/clarinet
 title: clarinet
 ---
 
 ## clarinet
 
-Last updated: <time datetime="2025-10-22T08:56:44.626Z">Wed Oct 22 2025 11:56:44 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-25T17:44:50.664Z">Tue Nov 25 2025 19:44:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/8xv3fjhWA1x4x8pzAVbTrj9QFlLkwg38bunSOlj379Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/ODU1LTE0OTEwMDg0/NTctNTIxNC5qcGVn.jpeg" alt="Cover for Buster Bailey&#39;s Seems Like A Month Of Sundays (Since I Saw You Saturday Night)" style="max-width:120px; height:auto;" />
       </td>
@@ -67,26 +67,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Fe0B4hs7RWhBTud8MD1YHdGygp0mYXhqhnynvFBOZxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU4/MjgyLTE1NDMzMDkz/OTctOTM5NC5qcGVn.jpeg" alt="Cover for Benny Goodman : Still Treasures" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1947-08</td>
-      <td>Benny Goodman</td>
-      <td>Benny Goodman : Still Treasures</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/MZVMFu6xKfDNWPsW1Ng0FzL5_M85eD23_pyAat6SJs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzkw/NTI3LTE2MDc1MTM4/NDctNjE5MS5qcGVn.jpeg" alt="Cover for WEBER: Clarinet Concertos Nos. 1 and 2" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +106,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/EjMhCgmn7XpzK4VUf7X5w7eyZxCGPFusjuc3WrxJtZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDYx/MTUtMTYzMDA0MTI4/NS0xNjk3LmpwZWc.jpeg" alt="Cover for Jazz Foundations Vol. 10" style="max-width:120px; height:auto;" />
       </td>
@@ -264,7 +245,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/nyQ8i-YFrGPliENI4NsxZL15uHjvWTnk6xKaghTY4Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzcw/NzUtMTQxODY4MDYy/My01NTU4LmpwZWc.jpeg" alt="Cover for The Best Of Benny Goodman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f8fa09deef42f3a64307ec4f9728fe.png" alt="Cover for The Best Of Benny Goodman" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Benny Goodman</td>
@@ -284,7 +265,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/KgiW5zdFGpq7J7MIR_v4CFCaOR2JlNMnTvtE0UE3FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTE3/NjktMTY4MjM2NDcz/Ny03MTcyLmpwZWc.jpeg" alt="Cover for Jam Session" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +348,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Kings of Clarinet" style="max-width:120px; height:auto;" />
       </td>
@@ -546,9 +527,9 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/4v6Aj0PVqksOn3VOVefJmSvudjkcZv0hl9UnkEbybrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ1/NjgtMTYzMjc2NzEz/MC04NTMzLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cafbaa1f96ef0288eeae9c52510fd0c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Glenn Miller</td>
@@ -568,7 +549,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/C6dct_kMF4jDm9atTDLs_j3Z0ZwTXt2VJT-CXSslMVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTcx/OTQtMTM4OTc1MDg5/NC04NTEzLmpwZWc.jpeg" alt="Cover for Music for Wind Instruments" style="max-width:120px; height:auto;" />
       </td>
@@ -614,6 +595,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ae3d00ef05b4884adbd0a73ad8ac7f6.png" alt="Cover for Private City" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>John Surman</td>
@@ -629,7 +611,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>1989-07-25</td>
@@ -646,7 +628,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>1990-01-15</td>
@@ -704,13 +686,13 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 11</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 14</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/TLQlWXdvQ3gNhnKTiSC7b6N2_qVQqZinqUqCCeRMcD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU0/NzItMTIzOTQwMDU3/NC5qcGVn.jpeg" alt="Cover for 1923-1929" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +768,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/kCiMd9X4Dhe9oD7m93LRtY33yhHDndlOKeaiR8c5L-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU4/MjU5LTE1MDkwNzA5/NTItNzY0MC5qcGVn.jpeg" alt="Cover for 1926 - 1940, Part One CD 2" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +785,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/hLnUETaxcrGEXLjS_8wZ5O7Pdm8MFjCrDRJzShnLzY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk4/NTUtMTQwNzc4MzU3/Ny01NTQwLmpwZWc.jpeg" alt="Cover for Magic of the Klezmer" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +804,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/f4f-IZvsPUnz6fzqkncw6QsI_6qC-dLbk-8n8XnHBNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcx/NzIyLTE1NTI5NDI5/MzUtMzY4MS5qcGVn.jpeg" alt="Cover for CRUSELL: Clarinet Concertos" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +822,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/_TSBVjWPhPw-3gB1nmA-Wvx6Ob55gPqTGmOsooQayfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzY5/NDItMTMxNzQ4NzY4/NC5qcGVn.jpeg" alt="Cover for Guitar &amp; Bass" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +860,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/f4f-IZvsPUnz6fzqkncw6QsI_6qC-dLbk-8n8XnHBNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcx/NzIyLTE1NTI5NDI5/MzUtMzY4MS5qcGVn.jpeg" alt="Cover for Crusell, B.H.: Clarinet Concertos Nos. 1-3" style="max-width:120px; height:auto;" />
       </td>
@@ -930,12 +912,29 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11014bb7bc913c63cd7096de725b2205.png" alt="Cover for How I Quit Smoking" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lambchop</td>
+      <td>How I Quit Smoking</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/6kcnwzVu_2pW7axr3oO704lQEbc9-Q3CW5GkISpyBho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk4/MTYtMTM1OTE2Mjg1/OC05NTQ3LmpwZWc.jpeg" alt="Cover for Apex of New Orleans Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +972,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Owu_cl2-7RgjRLgT5HjU8y1h8Zs4ieVXUGb16SAo6Uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgx/NjY2LTE0OTgzMzg0/MzItMzA1MS5qcGVn.jpeg" alt="Cover for Danza Latina" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +993,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/K8kJ0OOW5I8YhfwhO_vfms0WUOJtFTSpidC4OP8KkpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDA0/NDYtMTQ1NzAyMDky/Mi0zNjU0LmpwZWc.jpeg" alt="Cover for The Complete Recordings 1941-1947" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2be39d0a2f244e55a420b6bceadeea2e.png" alt="Cover for The Complete Recordings 1941-1947" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Peggy Lee &amp; Benny Goodman</td>
@@ -1183,7 +1182,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/gdMgWCZn7V5NOqL4wkt0dni0JzN9v02PAFSkwZJX4B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE0/OTk4LTE2MTExNDQx/MjUtNjQwMy5qcGVn.jpeg" alt="Cover for Boaters, Bowlers and Bowties" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,7 +1217,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004-07</td>
@@ -1280,7 +1279,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 15</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 16</li>
             <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 95</li>
         </ul>
       </td>
@@ -1305,7 +1304,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/6tl9b_h9Wh0jEemccKGZU37NAfe-ht5edep02KJGqOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEy/ODEtMTMyMDY3MjAx/My5qcGVn.jpeg" alt="Cover for Tango Saloon" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1350,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NPGEauMR8C8U_72NCh1E-qtGCHHfJ5tkaXoTPbqWDIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/MzI3LTE2MDUyNTM4/ODctMTA4My5qcGVn.jpeg" alt="Cover for Wholly Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -1412,19 +1411,18 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 18</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 29</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 36</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 52</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/tji7ZncJOPCcHQLGZuwcS6OjVNwP4-QC7DLMCRbOqwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMz/MjM2LTE2MjE5NTcw/NjctNDI1NC5qcGVn.jpeg" alt="Cover for Wolfgang Amadeus Mozart, Clarinet Concerto in A KV 622 &amp; Clarinet Quintet in A KV 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,13 +1463,14 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 90</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e2e5135f9d34a639764a640706e7454.png" alt="Cover for Transylvania" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>The Tango Saloon</td>
@@ -1500,6 +1499,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff137013d8d882650800a034db11efb3.png" alt="Cover for Leatherheads" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-25</td>
       <td>Randy Newman</td>
@@ -1539,7 +1539,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 38</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 39</li>
             <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 51</li>
         </ul>
       </td>
@@ -1602,7 +1602,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/8vc24WVgZH9fnZUzjHXvR3Hdee7skF8r2W84aUZ8Yrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjM2/OTMtMTM0OTk3ODI4/MC00Mjg5LmpwZWc.jpeg" alt="Cover for Molehills out of Mountains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/440f4f3e6a014acebc8c79e9bec0a5a1.png" alt="Cover for Molehills out of Mountains" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Wilful Missing</td>
@@ -1659,12 +1659,12 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 59</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/A8xaZJaoOtHkuaraZpJFBD2wafZaOVIj0osk1XnT8TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjUw/NTg1LTE2OTk0Mzc4/MDUtNzU5MC5qcGVn.jpeg" alt="Cover for Mozart: Serenades, Quintets, etc." style="max-width:120px; height:auto;" />
       </td>
@@ -1681,9 +1681,9 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/HAEvXuC5HpPH2CAF1DfUmvYmKcl7Gqt-JLTcU07fg1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA1/MTU1LTE1NjcwOTA0/MzItNjcwOS5qcGVn.jpeg" alt="Cover for Zand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9c4fb0737d74ca79c6a942d5a12f71c.png" alt="Cover for Zand" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-13</td>
       <td>Hans Mortelmans &amp; Groep</td>
@@ -1721,7 +1721,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/411865e329d0fb5d4c9bc4696073abe7.png" alt="Cover for SPOHR: Clarinet Concertos Nos. 1 and 3 &#x2F; Potpourri, Op. 80" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1782,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/4zafAbKbQm1J6Dj3z7fD9rkGxCVInZaS1v0haljNW8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/NDA5LTE2NjY1NDE5/ODgtOTk0My5qcGVn.jpeg" alt="Cover for Of What We Have" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d9c5090be690e0000b7f343c526b7b0.png" alt="Cover for Of What We Have" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-09</td>
       <td>The Most</td>
@@ -1821,7 +1821,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 68</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 96</li>
             <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 100</li>
         </ul>
@@ -1850,7 +1850,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1867,8 +1867,9 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4156fbd8d5f443b189f5439e12e16252.png" alt="Cover for Taiga" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wouter Bruys</td>
@@ -1903,12 +1904,12 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 83</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
@@ -1926,7 +1927,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2001,8 +2002,9 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f433b200554450c36b4f2c4102e466a.png" alt="Cover for Complete Jazz Series 1934 - 1940" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jimmie Noone</td>
@@ -2019,7 +2021,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2098,7 +2100,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
@@ -2115,7 +2117,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
