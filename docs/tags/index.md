@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-26T11:54:51.985Z
+date: 2025-11-26T13:09:00.504Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-26T11:54:51.985Z">Wed Nov 26 2025 13:54:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T13:09:00.504Z">Wed Nov 26 2025 15:09:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [garage rock revival]({{ "tags/garage-rock-revival" | relative_url }}) | <time datetime="2025-11-26T13:09:00.504Z">Wed Nov 26 2025 15:09:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [power noise]({{ "tags/power-noise" | relative_url }}) | <time datetime="2025-11-26T11:54:51.985Z">Wed Nov 26 2025 13:54:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive breaks]({{ "tags/progressive-breaks" | relative_url }}) | <time datetime="2025-11-26T10:46:15.593Z">Wed Nov 26 2025 12:46:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-11-26T10:07:38.148Z">Wed Nov 26 2025 12:07:38 GMT+0200 (Eastern European Standard Time)</time> |
@@ -242,7 +243,6 @@ Last updated: <time datetime="2025-11-26T11:54:51.985Z">Wed Nov 26 2025 13:54:51
 | [midwest emo]({{ "tags/midwest-emo" | relative_url }}) | <time datetime="2025-11-25T11:47:55.272Z">Tue Nov 25 2025 13:47:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [new york]({{ "tags/new-york" | relative_url }}) | <time datetime="2025-11-25T11:46:53.627Z">Tue Nov 25 2025 13:46:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [blackened crust]({{ "tags/blackened-crust" | relative_url }}) | <time datetime="2025-11-25T11:46:11.973Z">Tue Nov 25 2025 13:46:11 GMT+0200 (Eastern European Standard Time)</time> |
-| [garage rock revival]({{ "tags/garage-rock-revival" | relative_url }}) | <time datetime="2025-11-25T11:44:46.546Z">Tue Nov 25 2025 13:44:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [los angeles]({{ "tags/los-angeles" | relative_url }}) | <time datetime="2025-11-25T09:55:17.810Z">Tue Nov 25 2025 11:55:17 GMT+0200 (Eastern European Standard Time)</time> |
 | [minimalism]({{ "tags/minimalism" | relative_url }}) | <time datetime="2025-11-25T08:33:59.577Z">Tue Nov 25 2025 10:33:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-11-25T07:43:24.129Z">Tue Nov 25 2025 09:43:24 GMT+0200 (Eastern European Standard Time)</time> |
