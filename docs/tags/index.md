@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-25T18:40:24.362Z
+date: 2025-11-25T18:42:51.398Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-25T18:40:24.362Z">Tue Nov 25 2025 20:40:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T18:42:51.398Z">Tue Nov 25 2025 20:42:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [visual kei]({{ "tags/visual-kei" | relative_url }}) | <time datetime="2025-11-25T18:42:51.398Z">Tue Nov 25 2025 20:42:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [synthwave]({{ "tags/synthwave" | relative_url }}) | <time datetime="2025-11-25T18:40:24.362Z">Tue Nov 25 2025 20:40:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [technoid]({{ "tags/technoid" | relative_url }}) | <time datetime="2025-11-25T18:37:48.556Z">Tue Nov 25 2025 20:37:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage]({{ "tags/garage" | relative_url }}) | <time datetime="2025-11-25T18:07:36.110Z">Tue Nov 25 2025 20:07:36 GMT+0200 (Eastern European Standard Time)</time> |
@@ -611,7 +612,6 @@ Last updated: <time datetime="2025-11-25T18:40:24.362Z">Tue Nov 25 2025 20:40:24
 | [berlin school]({{ "tags/berlin-school" | relative_url }}) | <time datetime="2025-11-18T09:38:45.840Z">Tue Nov 18 2025 11:38:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [goa]({{ "tags/goa" | relative_url }}) | <time datetime="2025-11-18T09:35:53.629Z">Tue Nov 18 2025 11:35:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [serbia]({{ "tags/serbia" | relative_url }}) | <time datetime="2025-11-18T09:35:46.830Z">Tue Nov 18 2025 11:35:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [visual kei]({{ "tags/visual-kei" | relative_url }}) | <time datetime="2025-11-18T09:32:20.254Z">Tue Nov 18 2025 11:32:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [pipe organ]({{ "tags/pipe-organ" | relative_url }}) | <time datetime="2025-11-18T09:30:37.136Z">Tue Nov 18 2025 11:30:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [stoner metal]({{ "tags/stoner-metal" | relative_url }}) | <time datetime="2025-11-18T09:28:06.450Z">Tue Nov 18 2025 11:28:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [spiritual]({{ "tags/spiritual" | relative_url }}) | <time datetime="2025-11-18T09:27:33.045Z">Tue Nov 18 2025 11:27:33 GMT+0200 (Eastern European Standard Time)</time> |
