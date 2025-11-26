@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:43:38.333Z
+date: 2025-11-26T04:01:53.381Z
 permalink: tags/european
 title: european
 ---
 
 ## european
 
-Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T04:01:53.381Z">Wed Nov 26 2025 06:01:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,8 +48,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 4</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 19</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 35</li>
         </ul>
@@ -78,17 +78,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 19</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 50</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 51</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 63</li>
             <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce9caee6ed11f519952bf00481d9a84.png" alt="Cover for Loops of Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -102,13 +102,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8453a15bedb259e9c8f337d6df3b3321.png" alt="Cover for Poison" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-02-27</td>
       <td>The Prodigy</td>
@@ -120,9 +121,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 27</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 27</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 65</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 28</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -141,27 +142,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 2</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 88</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb854a9ccf17441f267eb9babc82529f.png" alt="Cover for Absurd" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-05-05</td>
-      <td>Fluke</td>
-      <td>Absurd</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 13</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -186,9 +169,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 34</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 48</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 59</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -212,8 +195,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 82</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 83</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 90</li>
@@ -242,11 +225,11 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 23</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 53</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 19</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 57</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 64</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 82</li>
         </ul>
@@ -272,9 +255,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 4</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 36</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 44</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 8</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 37</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 44</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 56</li>
         </ul>
@@ -299,8 +282,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 1</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 19</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 32</li>
         </ul>
@@ -327,10 +309,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 22</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 53</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 55</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 57</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -371,32 +353,33 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f5d6a04f862e27ab93bbac09254dd49.png" alt="Cover for Primordia" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06</td>
       <td>Deadbeat</td>
@@ -413,7 +396,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 68</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -436,10 +419,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 15</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 47</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 51</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 61</li>
         </ul>
       </td>
@@ -466,7 +449,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 31</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 30</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 31</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 43</li>
         </ul>
@@ -503,17 +486,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
@@ -551,16 +534,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 78</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
@@ -599,20 +583,20 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -628,44 +612,29 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>Under Stars</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 55</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 94</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +659,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 31</li>
         </ul>
@@ -717,14 +686,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 12</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 28</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 27</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 28</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2007-05-21</td>
@@ -742,14 +711,13 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 2</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 2</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47cacd443833ffd5120873805586f4e1.png" alt="Cover for Environments" style="max-width:120px; height:auto;" />
       </td>
@@ -769,12 +737,12 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/oL2gWK7uweLRXgMzngvu83MNI_atdIPFzSkdo02oCmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/MjctMTMzMzE4Njg5/Mi5qcGVn.jpeg" alt="Cover for Deltitnu EP" style="max-width:120px; height:auto;" />
       </td>
@@ -810,16 +778,16 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 39</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
@@ -843,8 +811,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 11</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 28</li>
         </ul>
       </td>
@@ -868,10 +836,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 35</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 40</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 63</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 63</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 64</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 71</li>
         </ul>
       </td>
@@ -897,16 +865,16 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 3</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 35</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 43</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bd366acb42c488c9b7caa4e7fa83fa4.png" alt="Cover for Trenches" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +891,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 67</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 69</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 89</li>
         </ul>
       </td>
@@ -948,8 +917,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 26</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 38</li>
         </ul>
       </td>
@@ -976,7 +945,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 15</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 30</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 29</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 42</li>
         </ul>
@@ -1002,10 +971,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 9</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 41</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 42</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 46</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 46</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 57</li>
         </ul>
       </td>
@@ -1024,8 +993,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 24</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 35</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 34</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 35</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 47</li>
         </ul>
@@ -1052,7 +1021,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 19</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 33</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 32</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 33</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 45</li>
         </ul>
@@ -1061,7 +1030,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/587Pfm5MoZTYsa7-w7jTW7hZDXcn-JVrOYOdO711hB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDgz/NzEtMTQwNjA2MDc5/OC0xMDQ2LmpwZWc.jpeg" alt="Cover for Not About Angels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a19fd8a09123837210fb119211ad861d.png" alt="Cover for Not About Angels" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Birdy</td>
@@ -1098,8 +1067,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 77</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 65</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 78</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 80</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 87</li>
@@ -1125,10 +1094,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 12</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 46</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 59</li>
         </ul>
       </td>
@@ -1152,17 +1121,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 82</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 89</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 89</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/j3LpdcynBBkbjxHnjQAVl_pvqylkncIKWLOOTer0lTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTgx/NTctMTQyMTk2MjM2/OC01NDAyLmpwZWc.jpeg" alt="Cover for Firestone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08a6555ce5aa46bdc6889db73629b5b2.png" alt="Cover for Firestone" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-02</td>
       <td>Kygo</td>
@@ -1182,14 +1151,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 87</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1213,8 +1182,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 23</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 34</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 24</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 33</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 34</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 46</li>
         </ul>
@@ -1244,8 +1213,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 1</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 29</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 39</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 51</li>
         </ul>
@@ -1272,8 +1242,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 29</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 2</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 30</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 52</li>
         </ul>
@@ -1293,19 +1264,19 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 32</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 62</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 63</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 74</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1340,20 +1311,20 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 75</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 86</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
@@ -1362,6 +1333,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a9597b3c58c5d0092a320d02d7b1c4f.png" alt="Cover for Kygo" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Kygo</td>
@@ -1382,12 +1354,13 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 2</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 51</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 55</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1411,10 +1384,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 32</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 56</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 58</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 60</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 66</li>
         </ul>
       </td>
@@ -1439,10 +1412,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 30</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 59</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 35</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 59</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 67</li>
         </ul>
       </td>
@@ -1467,10 +1440,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 91</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 91</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 97</li>
         </ul>
       </td>
@@ -1495,8 +1468,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 27</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 37</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 38</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 50</li>
         </ul>
@@ -1522,10 +1495,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 63</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 42</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 64</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 64</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 65</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 73</li>
         </ul>
       </td>
@@ -1551,7 +1524,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 32</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 31</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 32</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 44</li>
         </ul>
@@ -1577,9 +1550,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 49</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 70</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 53</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 70</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 73</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
         </ul>
@@ -1605,14 +1578,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 13</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 11</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/XR7gKhja_szbWfUE4oPSn7GXY_bu3WtLihljTYhWUXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU5/NzQ1LTE1MTQ5MjMz/NjktMTg3Ny5qcGVn.jpeg" alt="Cover for Facsimile" style="max-width:120px; height:auto;" />
       </td>
@@ -1649,8 +1622,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 56</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 74</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 76</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 83</li>
@@ -1678,10 +1651,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 94</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 95</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 96</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 96</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1705,8 +1678,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 69</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 80</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 81</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 82</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 89</li>
@@ -1734,7 +1707,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 6</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 21</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 23</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 36</li>
         </ul>
@@ -1778,8 +1751,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 61</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 64</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 77</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 77</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 79</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 86</li>
@@ -1787,7 +1760,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/n8qlbo77nZeS2gyjJx-cUMfUlb0CWyM29BliJlflrfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/NjQ1LTE1Mjc4ODgx/NTctMzIxNy5qcGVn.jpeg" alt="Cover for Moments (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,8 +1779,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 5</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 3</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 6</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 23</li>
         </ul>
       </td>
@@ -1831,9 +1804,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 48</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 69</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 52</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 69</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 70</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 72</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 78</li>
         </ul>
@@ -1859,8 +1832,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 18</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 20</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 33</li>
         </ul>
@@ -1886,8 +1858,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 26</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 37</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 27</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 36</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 37</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 49</li>
         </ul>
@@ -1924,18 +1896,18 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
@@ -1965,10 +1937,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 65</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 96</li>
         </ul>
@@ -1993,10 +1965,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 92</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 95</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 95</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2019,10 +1991,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 100</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 100</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 100</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 100</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2046,10 +2018,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 38</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 43</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 65</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 65</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 65</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 66</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 74</li>
         </ul>
       </td>
@@ -2085,17 +2057,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
@@ -2122,10 +2094,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 43</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 47</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 67</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 69</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 67</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 68</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 76</li>
         </ul>
       </td>
@@ -2151,8 +2123,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 26</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 26</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 27</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
         </ul>
       </td>
@@ -2176,17 +2148,17 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 95</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 96</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 97</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 97</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 97</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/F2SmGqVDglxXHr-SmwoeP0vV5kuvMAjQJZ_HDNdOwRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQ2/Mzk3LTE2MDkwNDE1/NzAtNjg3OS5wbmc.jpeg" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819f2320ada234a224044b5d71f20b04.png" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-24</td>
       <td>Askjell</td>
@@ -2203,8 +2175,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 51</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 55</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 72</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 74</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 81</li>
@@ -2233,11 +2205,11 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 66</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
@@ -2265,9 +2237,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 1</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 32</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 41</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 41</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 53</li>
         </ul>
@@ -2296,14 +2268,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 94</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2327,15 +2299,15 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 19</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 18</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/dFPQ8RD4vJSxBaJ6wO-BmZpquzVjRPIif5xX4u6OknI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY0/NzM2LTE2MzQ3MzY3/MzEtNzg3Ni5qcGVn.jpeg" alt="Cover for The Other Side Of Waiting" style="max-width:120px; height:auto;" />
       </td>
@@ -2354,8 +2326,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 13</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 27</li>
         </ul>
       </td>
@@ -2380,10 +2352,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 43</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 48</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 58</li>
         </ul>
       </td>
@@ -2410,8 +2382,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 33</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 38</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 62</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 70</li>
         </ul>
@@ -2437,14 +2409,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Pe2oAbFEYZyiVJH92Utv_jZBUHxbWmQ84NEgI6gzvaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ0/MzY2LTE2MTk4Nzg5/NzEtNTYzNC5qcGVn.jpeg" alt="Cover for SEMPRE &#x2F; JAMAIS" style="max-width:120px; height:auto;" />
       </td>
@@ -2465,10 +2437,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 22</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 31</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 32</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 82</li>
         </ul>
@@ -2494,8 +2466,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 54</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 58</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 73</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 75</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 82</li>
@@ -2522,7 +2494,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 28</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 91</li>
@@ -2557,13 +2529,13 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 64</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 69</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2587,10 +2559,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 45</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 18</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 47</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 50</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 51</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 60</li>
         </ul>
       </td>
@@ -2616,14 +2588,14 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 24</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ZBGeg6-tdio6e0Cea8qtzr0EjlDdkIslud1KLr0MkEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/NTY4LTE2NTE3NTAy/MjctMTI5My5qcGVn.jpeg" alt="Cover for How To Let Go (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2642,8 +2614,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 5</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 25</li>
         </ul>
       </td>
@@ -2668,16 +2640,16 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 32</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 60</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/M0Odk00e_KPuN18NRx5piAo5N-Ar7-AF2-9uPxMPiUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDMy/Mjg5LTE2Njc0Mjgz/NTUtODM4My5wbmc.jpeg" alt="Cover for The Revelations of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2696,8 +2668,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 6</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 6</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 4</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 24</li>
         </ul>
       </td>
@@ -2722,8 +2694,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 36</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 26</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 35</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 36</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 48</li>
         </ul>
@@ -2750,7 +2722,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 29</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 28</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 29</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 41</li>
         </ul>
@@ -2790,6 +2762,24 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Z0Ew4C7o7T4OzeYnLwHEeRzx1aSf92DR0Q1xudJYzzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/MDg2LTE2OTk1ODUz/NTktNTM4My5qcGVn.jpeg" alt="Cover for Movies, Cars &amp; Heartbreak" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-10-20</td>
+      <td>Moyka</td>
+      <td>Movies, Cars &amp; Heartbreak</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>43</td>
       <td>
           <img src="https://i.discogs.com/Z0Ew4C7o7T4OzeYnLwHEeRzx1aSf92DR0Q1xudJYzzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/MDg2LTE2OTk1ODUz/NTktNTM4My5qcGVn.jpeg" alt="Cover for As Long As You’re Here (Young Royals Remix)" style="max-width:120px; height:auto;" />
@@ -2809,9 +2799,9 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 2</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 6</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 41</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 42</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 54</li>
         </ul>
@@ -2839,7 +2829,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 80</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
@@ -2850,7 +2840,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/_1SRMi72EfS8JGJdq903UAQM-EkHV6W1tyXhSb_NaiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQw/NzIxLTE3MDM4NzIx/ODQtNzg4NS5qcGVn.jpeg" alt="Cover for Sprengkulde" style="max-width:120px; height:auto;" />
       </td>
@@ -2869,8 +2859,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 2</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 1</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
         </ul>
       </td>
@@ -2878,7 +2868,7 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/FRas78e9uNsSXXtZpVmVja7SnqjzLVxpdYIPZtp7WPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEz/NjUwLTE3MTc5Mjc1/NjEtMTgxMi5qcGVn.jpeg" alt="Cover for What Happened To The Heart?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da5757d555424d7e1408e4855363da04.png" alt="Cover for What Happened To The Heart?" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-07</td>
       <td>Aurora</td>
@@ -2897,10 +2887,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 58</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 61</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 77</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 84</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 88</li>
@@ -2927,10 +2917,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 41</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 65</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 45</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 66</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 66</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 67</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 75</li>
         </ul>
       </td>
@@ -2954,10 +2944,10 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 46</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 50</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 68</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 70</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 69</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 69</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 77</li>
         </ul>
       </td>
@@ -2968,8 +2958,8 @@ Last updated: <time datetime="2025-11-14T01:43:38.333Z">Fri Nov 14 2025 03:43:38
 ### Related genres
 
 - [europe]({{ "/tags/europe" | relative_url }})
-- [norway]({{ "/tags/norway" | relative_url }})
 - [norwegian]({{ "/tags/norwegian" | relative_url }})
+- [norway]({{ "/tags/norway" | relative_url }})
 - [nordic]({{ "/tags/nordic" | relative_url }})
 - [european pop]({{ "/tags/european-pop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})

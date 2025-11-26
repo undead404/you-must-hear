@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:29:24.918Z
+date: 2025-11-26T04:00:46.261Z
 permalink: tags/experimental-techno
 title: experimental techno
 ---
 
 ## experimental techno
 
-Last updated: <time datetime="2025-11-11T19:29:24.918Z">Tue Nov 11 2025 21:29:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T04:00:46.261Z">Wed Nov 26 2025 06:00:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -103,7 +103,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4245587f183e4da2b45c2c3d3bf1782e.png" alt="Cover for Frequencies" style="max-width:120px; height:auto;" />
       </td>
@@ -113,17 +113,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43d2b05c36504d788580323e8105ba2a.png" alt="Cover for Musik" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +163,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88ea501940e9492b85bfef4e2ce5dbc7.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
@@ -179,12 +177,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 61</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 5</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f946b8fac2391acadff5b1fd49d48857.png" alt="Cover for BCD" style="max-width:120px; height:auto;" />
       </td>
@@ -198,12 +197,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32842dd23334495ae2d481b4ecec4cb.png" alt="Cover for Iaora Tahiti" style="max-width:120px; height:auto;" />
       </td>
@@ -212,21 +211,19 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>Iaora Tahiti</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62c1051bbfa76d491944a8b6a73db0ba.png" alt="Cover for Tri Repetae" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36ee427de4e93e07adde29926d60edfd.png" alt="Cover for Tri Repetae" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-11-06</td>
       <td>Autechre</td>
@@ -238,14 +235,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 43</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/T1CeRKJyPOY5-oSU06BJqf8firUU_lLJWFK8jf9Qw4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY2/ODMtMTI2MTM0MDIw/Ny5qcGVn.jpeg" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6aa658906e01e1602d7336265b69d6.png" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eggplant</td>
@@ -292,16 +290,16 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 25</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 32</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 28</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/l_l2ExSaNb7l13Qn_Rg9z4c5_E3BnatZOsG9detrZcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzA2/MzctMTMzNDA4MDg5/Mi5qcGVn.jpeg" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa898dea74448e69336ed3520f551fb.png" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eggplant</td>
@@ -349,14 +347,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 53</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 60</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
       </td>
       <td>1996</td>
@@ -372,6 +371,24 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d9b0da0e5cbfc0ee8c919c665e0af69.png" alt="Cover for Advance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-01-29</td>
+      <td>LFO</td>
+      <td>Advance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -393,9 +410,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/jueANmPiCF9Zf2tSbQEO5wxphwOYP7sddeiy4a8VP6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU3/LTE2Mzk4NzkzNDUt/NDI2NS5qcGVn.jpeg" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88207c0b19d84d77936a25765c75cf9e.png" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-10</td>
       <td>Richard Devine</td>
@@ -443,8 +460,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 45</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 51</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 53</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
         </ul>
       </td>
@@ -470,7 +487,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/CB6DR_zu2U_kDQTIYFRY_EUBjGGSxoPkYG-0uhr5vsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MC0xNjYxODgxNDQ1/LTU1NzIuanBlZw.jpeg" alt="Cover for Love Under Will" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/662f34700a0c5db9e6b2ee66e0e4443a.png" alt="Cover for Love Under Will" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08</td>
       <td>Christoph De Babalon</td>
@@ -488,9 +505,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/OZLyYcwO6Luo6DBVON8KpLYBTw2zFqzxbmpjYv0kFFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjA0/LTExNTg3OTMwMjYu/anBlZw.jpeg" alt="Cover for Olento" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf931f91db3a415789ac95f8643e6005.png" alt="Cover for Olento" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-01</td>
       <td>Mika Vainio</td>
@@ -506,12 +523,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>83</td>
       <td>
       </td>
       <td>1998</td>
@@ -560,17 +577,17 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 78</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 42</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff5676fb16bb2a6549eba5c29856739a.png" alt="Cover for Analog Worms Attack" style="max-width:120px; height:auto;" />
       </td>
@@ -579,13 +596,11 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>Analog Worms Attack</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 12</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -618,7 +633,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/PTT8BqyT5TID0pDchwH2LW4_Vd-HNz3CX_WL3NfLduQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk2/Mi0xMDc5MTQxOTAx/LmpwZw.jpeg" alt="Cover for spclab9 ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04e093ea7a7a48fa9b4b9a1e9a9d9baf.png" alt="Cover for spclab9 ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Randomajestiq</td>
@@ -661,7 +676,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>74</td>
       <td>
       </td>
       <td>2003</td>
@@ -678,7 +693,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb7e3245220bd03a2034a5a9b70f2ef.png" alt="Cover for Rounds" style="max-width:120px; height:auto;" />
       </td>
@@ -691,8 +706,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 69</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 38</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +737,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/AM61e6Sk9-hABBmvpxPcGoE7nv8sBUBV4_dhvpqMBfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgw/NTM5LTE1MzQwOTUw/NDItNDUwOS5qcGVn.jpeg" alt="Cover for unlistenable music" style="max-width:120px; height:auto;" />
       </td>
@@ -749,9 +764,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
-          <img src="https://i.discogs.com/KeDjzkZ0RXv74pr88jXO73a1nkCJMECHZedGrL6uoTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQx/MS0xMjkzMjE1NzQz/LmpwZWc.jpeg" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e392a0f66b8dc26bea5f28296a5b2d1.png" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-28</td>
       <td>Murcof</td>
@@ -770,12 +785,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 27</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
       </td>
       <td>2004-07-27</td>
@@ -789,14 +804,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 18</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/MgoEvuHgoKRgKPKOyAEHFWyoxpkrLPewdjDUJ-3gIio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDMx/MS0xMzEzNDIxNDg4/LmpwZWc.jpeg" alt="Cover for Umpomat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbff582078e743859d959dac29d8e117.png" alt="Cover for Umpomat" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>8rolek</td>
@@ -814,7 +829,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/388Kyg0FUbfmYN_FXVmyNepg-TDY1mcfA3baqI3LklU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzY4/OC0xMTExMzk3OTU1/LmpwZw.jpeg" alt="Cover for Relics &amp; Artifacts" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +866,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/134c1eb85b054e6faeb1ad13da1fdceb.png" alt="Cover for Thrills" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +887,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/zhe3y9nAbukZ5AErdceVJhF0_9DgO8Qa-8Y3FHzzgBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ0/OTMtMTIyMDIwNDMw/NC5qcGVn.jpeg" alt="Cover for The Final Finalist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ddbd5d270b3e3736f8b8c8b69738615.png" alt="Cover for The Final Finalist" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11</td>
       <td>Xenoglosia</td>
@@ -901,17 +916,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>Orchestra of Bubbles</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-uiXIts37F3rSzh5zO6ylAjO0ztIlmbAj8Njn6aFGjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc3/Ni0xMjM1Mjg5NTc3/LmpwZWc.jpeg" alt="Cover for social engines (cl-001)" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +951,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/R23mmWMA0vjU-h3sptvriGZ9oWOR3SJJzgmCl0cjR78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDk5/Ni0xMTc5Njg3NDYx/LmpwZWc.jpeg" alt="Cover for Chapitre Premier" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/234feb154f504328c3d24ea537d52ce9.png" alt="Cover for Chapitre Premier" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-05</td>
       <td>Nth Synthesis</td>
@@ -1064,7 +1077,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c4d668ed1f6cb6b0d601f3b15763ee9.png" alt="Cover for BCD-2" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,14 +1091,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/PzStTklspGaCUxlfYTreXrrf379xq9lHEg_Qd4j2B1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE4/OTgtMTMxNjMzODQ5/NS5qcGVn.jpeg" alt="Cover for fat no more (ep)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e472503dd320d92a9eb69de4f80f9033.png" alt="Cover for fat no more (ep)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>8rolek</td>
@@ -1104,7 +1117,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>76</td>
       <td>
       </td>
       <td>2009-08-17</td>
@@ -1125,14 +1138,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 62</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/4xvqe1FW0lw0a5C-vKTshw-Qmxeh4OMPtVWxCN7CTXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY3/MzMtMTI2MzY4NTIz/MS5qcGVn.jpeg" alt="Cover for Bambaataa Eats His Breakfast" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1165,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/31dyxEdoDn8RkSNtiXadSwiV1EmH6kDbv9TDvaskwcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU0/NzMtMTUzMTI1OTEy/MS05MzI5LmpwZWc.jpeg" alt="Cover for Night Music - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1183,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45870574d6be4425b020031618799e77.png" alt="Cover for Ay Ay Ay" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,38 +1223,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/edbzJAn0k3TQHgmCWcitqYTMNqTgNR-0sn7Xyghzj24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/MzktMTI2NDQyMzI0/OC5qcGVn.jpeg" alt="Cover for Still Exist" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-01-25</td>
-      <td>Soul Scientist</td>
-      <td>Still Exist</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a81adfb183548d7a7c8d5324573f0fa.png" alt="Cover for Splazsh" style="max-width:120px; height:auto;" />
       </td>
@@ -1255,8 +1237,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 15</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 65</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1260,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/E8YZkmWtd_Hojk7a5J8yphKCJH1BHp6QS_2T6093LlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIz/MjYtMTMxOTQ0MjMz/MS5qcGVn.jpeg" alt="Cover for Arabxilla" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1278,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e62d76f9b284b4dcb91510d20373c97.png" alt="Cover for Eps 1991 - 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1298,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/BJc7F3z-k5AVMMwiXqWsw92YkDYV7kV0MGpoen5mvLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ0/NDgtMTM3NjU5MTQ3/NS03NjIxLmpwZWc.jpeg" alt="Cover for Fantastic &amp; Tangible" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1321,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td>2011-09-26</td>
@@ -1356,13 +1337,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 62</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73d8d04d594a915849420f1b5c1d09c3.png" alt="Cover for Goodbye Swingtime" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,9 +1389,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
-          <img src="https://i.discogs.com/CiNh-Fgl69n-Sv4Hy3zjrVSlXJmLxU9_3ERyjWxR6HY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc2/MzktMTMyOTk5NjMz/MS5qcGVn.jpeg" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a2a8f3d116840248807b5ff43462224.png" alt="Cover for Parastrophics" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-24</td>
       <td>Mouse on Mars</td>
@@ -1430,15 +1411,15 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/GlDP2qEDZ9vVAAUyHaa3GV1pkNL4cNzfryy9ZOhGQHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTM1/MzMtMTM1NzA3MTk3/My00NzAzLmpwZWc.jpeg" alt="Cover for Name Your Tiger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00cd990452a4b6edbb352a1f97eb2162.png" alt="Cover for Name Your Tiger" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-30</td>
       <td>Redgloam</td>
@@ -1457,7 +1438,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/P0tRyPSy7TFekSznbGz4fFebh1pueCf4xHen2zxnVWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg0/MzAtMTM2NjQ3ODMw/My04MDcwLmpwZWc.jpeg" alt="Cover for Nautically Inclined" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1466,6 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
         </ul>
       </td>
       <td>
@@ -1494,7 +1474,25 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e56ed80c298c475b93ff3f6d91e8d5a4.png" alt="Cover for Half Of Where You Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-10</td>
+      <td>Gold Panda</td>
+      <td>Half Of Where You Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ee1348cc31442780e464746f726b39.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1510,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f6fa4c2158440beade1fe91bc2e4aab.png" alt="Cover for Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -1593,7 +1591,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed6e84627d3d46f5c6d9a0e576983ad7.png" alt="Cover for Bécs" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,9 +1605,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 36</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 56</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 96</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1630,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b046c10c98d44ecc414f5f38bedcc47.png" alt="Cover for Human Voice" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,13 +1652,13 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 58</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/G43zFVmN9IHurP85OT86BRcJQ7O2cRhpSr3agOcpkCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjA2/MTUtMTQyNDcxNzcx/NS0yMzA1LmpwZWc.jpeg" alt="Cover for Studie I Närhet, Längtan Och Besvikelse" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1675,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb6034caebe375c59d1e211249ae81b6.png" alt="Cover for Interview 2016" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,22 +1684,19 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>Interview 2016</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 36</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 31</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/14wEUrGgmFDzim1aGXhaTActwcnA8kQ-OnRCCHvqu08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjUz/NTMtMTQ1NjM1NzIy/OC01NTM2LmpwZWc.jpeg" alt="Cover for life&#x2F;less" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1720,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/3M7F5But6ECFXDxPTxhSIVLZZ_Cc6nVaXVfUtqkTtRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU1/NTEtMTQ4MTQwMTQ3/MS0yNDk5LmpwZWc.jpeg" alt="Cover for PLMN001" style="max-width:120px; height:auto;" />
       </td>
@@ -1745,7 +1740,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/00FOCPwxLuMrBnWdRkQhqDjoSHPXFKHl4V74wrGUTlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MC0xMTY0MzkzMDkx/LmpwZWc.jpeg" alt="Cover for Love Under Will EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,9 +1760,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/5-Z8IfhCbWyOWMiaJTT5eGmwbh36GDA7TPG9bbc2F_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MTA5LTE1MDcwMjQ4/OTktOTkzMi5qcGVn.jpeg" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>IAMX</td>
@@ -1789,11 +1784,11 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 44</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
         </ul>
       </td>
@@ -1801,7 +1796,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/AXrJXwt_u9UgSPJgncGPFK8hZyl4yp2ki29yOkvaCd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc2/OTMxLTE1MDc1Mzky/NzgtMTg5Ni5qcGVn.jpeg" alt="Cover for Cryptovirus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97fb90b6e4e562d6c545dcdce07a956.png" alt="Cover for Cryptovirus" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-09</td>
       <td>illocanblo</td>
@@ -1820,7 +1815,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47f8536eae417634a13320f7fed4e2d9.png" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,12 +1829,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 85</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/nd6iHi_QmHlP7Lm7SpyVj7WzIaphQcK9M_cXhTqpR5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU3/MTA5LTE1NjA0NTg0/MTEtNTQyNS5qcGVn.jpeg" alt="Cover for Predawn Qualia EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,9 +1854,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/NYZARLQsrvr1D1qV5pEjTDlEIr7u0VbVd2_7wWWAMcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjM3LTE1Njk2MDgz/NTMtOTAwNi5qcGVn.jpeg" alt="Cover for For You and I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb795ca34dadd4d535aa186a68167e1f.png" alt="Cover for For You and I" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Loraine James</td>
@@ -1876,12 +1871,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 24</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/cuKLvziASNaVnb5e3xVtkeG50yuIg4d4-nH0m2fuod4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY0/NDU1LTE1OTM4NTk5/ODUtNzAzMi5qcGVn.jpeg" alt="Cover for Echoes From Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,7 +1904,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/J5EO75T98Fd7riodLm6jtJ_H6Rdca0r7nYG64fDrXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTI4/NjAtMTM1NDI0NzA1/Ni00NDUwLmpwZWc.jpeg" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d633f51991e4e57a2195196c2d850a6.png" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Richard Devine</td>
@@ -1957,14 +1952,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 28</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 34</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 29</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 30</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c120eafc45a9012bb22dfd5ebee818ce.png" alt="Cover for Love Of Plastic" style="max-width:120px; height:auto;" />
       </td>
@@ -1984,14 +1979,14 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 54</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/fkJxleNJ4vhYdvZwWrTXyFqlOr-OSjRK2ebqg0NDnW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk1/ODAwLTE2NDU3NzY0/NTktNjQ2NS5qcGVn.jpeg" alt="Cover for Plonk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1f578eb421700754a193b1332fcbed.png" alt="Cover for Plonk" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-25</td>
       <td>Huerco S.</td>
@@ -2013,9 +2008,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/xyg8_06cDBqokaHNX1bmH22hyr7Fna23MxvsbBFjtQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU2/NjY2LTE2NTIwMjMw/MTYtOTQyMi5qcGVn.jpeg" alt="Cover for ULTRACHROMA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad5f93405430187d86f12ada61d7f85f.png" alt="Cover for ULTRACHROMA" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-06</td>
       <td>Kangding Ray</td>
@@ -2034,7 +2029,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/7h74KlFN1RfyIjPK4FpeqQEnMQwodJjZwIWioXw__jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzIx/NjM0LTE3MDcyNzkw/NDEtNjIwNi5qcGVn.jpeg" alt="Cover for Helios Rave Draft" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,7 +2044,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2110,7 +2105,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2144,7 +2139,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b9826374b704ed4a5c0725226cfe651.png" alt="Cover for wax" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,7 +2170,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
@@ -2194,31 +2189,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94a7304527baab80ca568303281c65e.png" alt="Cover for Tango N&#39;Vectif" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>µ-Ziq</td>
-      <td>Tango N&#39;Vectif</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 24</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2374,6 +2345,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b354c5a9764053bc4db78404a0abd6.png" alt="Cover for Mindless Intelligence" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mindspin</td>
@@ -2498,7 +2470,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
@@ -2516,7 +2488,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>79</td>
       <td>
       </td>
       <td></td>
@@ -2541,8 +2513,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
 - [techno]({{ "/tags/techno" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [experimental electronic]({{ "/tags/experimental-electronic" | relative_url }})
-- [idm]({{ "/tags/idm" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [industrial]({{ "/tags/industrial" | relative_url }})
 - [minimal techno]({{ "/tags/minimal-techno" | relative_url }})
