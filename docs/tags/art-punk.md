@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T00:41:04.275Z
+date: 2025-11-25T20:32:06.767Z
 permalink: tags/art-punk
 title: art punk
 ---
 
 ## art punk
 
-Last updated: <time datetime="2025-11-23T00:41:04.275Z">Sun Nov 23 2025 02:41:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T20:32:06.767Z">Tue Nov 25 2025 22:32:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 58</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -62,6 +62,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +84,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 26</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +107,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a735db747c4774aafa9fb929dca5f6.png" alt="Cover for 154" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +125,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/LTnOQtUGj33xQ_8Yv9aLfQqGBljx3Fr-a14H85rXlKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQz/ODAtMTMzNDg4OTQ5/OC5qcGVn.jpeg" alt="Cover for Y (Remastered &amp; expanded)" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +186,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/e61xF_KNYbTUk-wmFFaXzBXvIvZlP4QJ1JXIUCx4ftA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODcy/MC0xMTM4NjM5ODQ1/LmpwZWc.jpeg" alt="Cover for Weathered Statues" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +239,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1984-10-08</td>
@@ -255,7 +256,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e0795e1771ee374d09667d34807d024.png" alt="Cover for Boingo Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +306,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/LuFJPRScxCzaViASJt8kqtpcy0kp_lCB2uAA2W50DRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzkz/NC0xNjk0ODE0MDAz/LTEwNDQuanBlZw.jpeg" alt="Cover for LEGENDA" style="max-width:120px; height:auto;" />
       </td>
@@ -319,12 +320,12 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/DK2qfmimZNG-D4Squb-_K-ITGGLR4uBkVIT7rV-6Sig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE2/NjAxLTE2NDk0NDA2/NjEtNjE1OC5qcGVn.jpeg" alt="Cover for How Does It Feel?" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +368,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/adCt68KWQ9N0hyFsQQVKlDlxowvu44PegKx4PvEYgXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc4/NTMtMTIzOTUzOTk1/My5qcGVn.jpeg" alt="Cover for The Brothel To The Cemetery" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +388,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/AmApp3lZtdHvSUUrilgxNM_2Gwih2XQqg2LTdoqAfa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTky/My0xMTc4NjE2ODYx/LmpwZWc.jpeg" alt="Cover for Undergrowth" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +408,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 44</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 49</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -434,7 +435,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2002-04-26</td>
@@ -468,14 +469,14 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 3</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 15</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 2</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 21</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/uWv1jQs-TTz9vUs3DMu9MRszujRGR36mKy4j72WbUiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg0/NjEtMTI0MjEyOTQ5/Ni5qcGVn.jpeg" alt="Cover for Concerto pour détraqués!" style="max-width:120px; height:auto;" />
       </td>
@@ -492,13 +493,13 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 74</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 75</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/248b33e5a260bd5320d8c5b6046d8c1b.png" alt="Cover for Concerto pour détraqués" style="max-width:120px; height:auto;" />
       </td>
@@ -515,13 +516,13 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 78</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 79</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3691aff1eabb2cbe1e9477fff8cc56d3.png" alt="Cover for Crimes" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +566,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/871324a4d3f54cfd9493446ca6630088.png" alt="Cover for Hurrah! Another Year, Surely This One Will Be Better Than the Last; the Inexorable March of Progress Will Lead Us All to Happiness" style="max-width:120px; height:auto;" />
       </td>
@@ -578,12 +579,12 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8603c1b88b1fdbec9187c36e74140d8c.png" alt="Cover for Gems of Masochism" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +638,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b3cb0ff6eb4ad4a23d164148d551c5.png" alt="Cover for Decomposer" style="max-width:120px; height:auto;" />
       </td>
@@ -693,8 +694,9 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 2</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 5</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 7</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +741,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce89a8fda4a049fe88cc4a568db5b8a4.png" alt="Cover for Talking Heads &#39;77" style="max-width:120px; height:auto;" />
       </td>
@@ -753,12 +755,12 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 16</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09b6a174c9104399c33c51feaa22a848.png" alt="Cover for &quot;Cassette&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +782,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d6b7bc29d56565d412f2a3ed76b8960.png" alt="Cover for You&#39;re Nothing (+ 2)" style="max-width:120px; height:auto;" />
       </td>
@@ -840,7 +842,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/vXcSbCMa63ZVfOcEJz6PGRNJ2XWPbQU2ifR9nxbOPe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/MzEtMTQ4NDQxOTk1/My02MTY4LmpwZWc.jpeg" alt="Cover for Crack Cloud" style="max-width:120px; height:auto;" />
       </td>
@@ -856,8 +858,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 46</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 46</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +883,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/G4PpmG3Q7Er-Xt1sB4aMKh0oYoGqnE0Ozw_f5brrKmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/ODM0LTE0OTMzODYy/NDgtNjk3NS5qcGVn.jpeg" alt="Cover for EP II" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +906,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/dJlaMdcsdTMMS9KXaH8Mw3-U5qygYRRSU-T-8lyszFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIy/OTIxLTE2NjEwNTUy/MjEtOTYwNi5qcGVn.jpeg" alt="Cover for LEISURE" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +929,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/671c0cd58785f498b92e325065ad7a4e.png" alt="Cover for Dada" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +950,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c85877ca6ed3092e20c2e6ba5bed23c.png" alt="Cover for Cassette" style="max-width:120px; height:auto;" />
       </td>
@@ -1004,7 +1006,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1049,7 +1051,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29cf1ff651a7c481d991dd54bf18fb3.png" alt="Cover for SORCS 80" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,13 +1071,13 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 71</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 50</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/mukVbO_mawUms_pL2snYFBIYdLnm6Hto4hzre5fSB4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEz/MTAwLTE1MjcyMjA2/MjUtNDIxNy5qcGVn.jpeg" alt="Cover for Mating Surfaces" style="max-width:120px; height:auto;" />
       </td>
@@ -1096,7 +1098,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a8207cc6fb53364f08272c5367617c.png" alt="Cover for Endless Scroll" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1118,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d33b34877998da3ef033b5cb335a634d.png" alt="Cover for Street Worms" style="max-width:120px; height:auto;" />
       </td>
@@ -1130,7 +1132,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1202,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/3MY8NNGQ_bVmEOhGkbdruzIOJsmCVJ75SfRtNRlAljU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY1/MDg1LTE2MTg1MjE3/NTktMTI1OS5qcGVn.jpeg" alt="Cover for West of Eden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d3f492429796fd0a9cff8354c9eac8.png" alt="Cover for West of Eden" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-07</td>
       <td>HMLTD</td>
@@ -1261,7 +1263,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/8oTWuDMoNwlQi9FjUIPqbbg2AanGZMz13DuFOUBeSGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIx/ODkwLTE1ODQxMjgz/ODctNzA0Ni5qcGVn.jpeg" alt="Cover for Container" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1284,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ee64545cf47e4fb549f54e222074682.png" alt="Cover for Zero Dollar Bill" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1344,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 38</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 39</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 75</li>
         </ul>
       </td>
@@ -1368,7 +1370,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 10</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 11</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 61</li>
         </ul>
       </td>
@@ -1393,7 +1395,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 4</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 59</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1414,13 +1416,13 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 48</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 49</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/BxtkjT17bQEK_a7APlqgWuSuafTdwA6ZveZl53s2X7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/NDA0LTE1OTQ5MTYx/NjktNDU1NC5qcGVn.jpeg" alt="Cover for Fad" style="max-width:120px; height:auto;" />
       </td>
@@ -1462,7 +1464,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/n2uqLn3Y8YW3dQXCEjQWGT6G1iRCRhsO1SpPY_17Ik0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY1/MjY5LTE1OTkyMjQ2/MDYtNDk4Ny5qcGVn.jpeg" alt="Cover for Barstool Preaching" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1528,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/1DOJTGOv-hvvRP9Q-rpY-pVSR9fYBeWM8GUcyyhxeEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODA2/NjAzLTE2MTU1NTkx/ODMtMzc0NC5wbmc.jpeg" alt="Cover for Grand National" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,7 +1569,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/LoOMjsDNDhyfn-osdbgv_dGa1-oaPDnpSACn-AIUYj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/NzY0LTE2MTk2MzU1/NTktOTQ3Ni5qcGVn.jpeg" alt="Cover for Modern Yuppies" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1590,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Cpc740wJJaCSnfN8o1IAhUC0AetCJ_lZM4hqU1_oY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAz/MDUyLTE2MjQxMzcy/ODMtNjU5Ni5qcGVn.jpeg" alt="Cover for Awake and Hungry" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,7 +1628,29 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/l6CZhro43MnOUra4gwpp7XmbhYF1S66t1E_CKofb-lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjkx/ODU2LTE2MzQ5Mjk2/MzItODY0OS5qcGVn.jpeg" alt="Cover for TV or Not TV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-22</td>
+      <td>liily</td>
+      <td>TV or Not TV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/6FgPdY-q-5gTs1Oq_6yTsrVIh3apja3qZmbImKjQeMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE0/NjQ4LTE2Mzc5NDY4/NzEtMzEzMy5qcGVn.jpeg" alt="Cover for Grandmas House" style="max-width:120px; height:auto;" />
       </td>
@@ -1668,7 +1692,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/o6wm7slbWC8ruSygghIGz7fep-T2d76pdUv7Je686Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/ODA4LTE2NDc0NDQ3/MzEtMTA1MC5qcGVn.jpeg" alt="Cover for Archive Material" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,7 +1735,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf6cb345f1c3170f134ea08e2e12eaea.png" alt="Cover for Broken Equipment" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,14 +1790,14 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 87</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24874fdc4d4903af6f9138551379f42d.png" alt="Cover for Screensavers Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,8 +1816,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1842,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16950d2743fc366fb4712c9684702e0.png" alt="Cover for Fairy Rust" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,14 +1877,14 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 28</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 29</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 41</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df03f6a70f6c27cfa6f02e1239f4d1fc.png" alt="Cover for Guitar Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1904,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d7ec9804f76d76f661e2c564d9989de.png" alt="Cover for Gulp!" style="max-width:120px; height:auto;" />
       </td>
@@ -1901,7 +1925,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d5a2fe8254fc4858a2b45d5db6f0c67.png" alt="Cover for Die Nerven" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,8 +1979,8 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 39</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 42</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 88</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 98</li>
         </ul>
@@ -2003,7 +2027,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80a6fbacd65c2147679adadc5ed8a262.png" alt="Cover for Knocknarea" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,29 +2042,6 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/Ly_uEMx66_Z_xdAiaN64HuVZ62NrNi-NjVpP2fjZCtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/NzQ4LTE3MDUyNTMy/MTYtODQ2Ni5qcGVn.jpeg" alt="Cover for Zeitgeist" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-05-05</td>
-      <td>Maruja</td>
-      <td>Zeitgeist</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 44</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2081,7 +2082,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/GtWhZ4e3wr4Q-1R6qEj2WLJyNXziclKwSghyKqOdYOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzIx/NDM4LTE2NDg4MTM0/MTEtODEyNi5qcGVn.jpeg" alt="Cover for Fashionista" style="max-width:120px; height:auto;" />
       </td>
@@ -2145,7 +2146,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/420fe2ccb04ea00bad42b65f1ea93d58.png" alt="Cover for Horses (Legacy Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2159,6 +2160,7 @@ Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 19</li>
         </ul>
       </td>
     </tr>

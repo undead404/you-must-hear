@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:35:35.507Z
+date: 2025-11-25T20:33:00.661Z
 permalink: tags/chicago
 title: chicago
 ---
 
 ## chicago
 
-Last updated: <time datetime="2025-10-28T22:35:35.507Z">Wed Oct 29 2025 00:35:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T20:33:00.661Z">Tue Nov 25 2025 22:33:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -43,6 +44,11 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -55,6 +61,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -71,10 +81,16 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4947bfc474ac7ee45c32ebd02ae1b0a1.png" alt="Cover for 25 or 6 to 4" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-06</td>
       <td>Chicago</td>
@@ -83,6 +99,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -102,6 +122,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>6</td>
@@ -115,24 +139,33 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdbaec80d6004866bba739cfb97c57e8.png" alt="Cover for Chicago X" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-06-14</td>
       <td>Chicago</td>
       <td>Chicago X</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7bea4abd1a334b8800440edc05c20d1.png" alt="Cover for Chicago 17" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-05-14</td>
       <td>Chicago</td>
@@ -142,11 +175,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/zRjmAefX0WUtwo26jvQyIWaYwcUtdjz-93loYe3eHDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTc2/Mi0xNDQ1NzQwOTM4/LTc4NDcuanBlZw.jpeg" alt="Cover for All Rise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ad99a1669f44160c1d78479b9b12b7f.png" alt="Cover for All Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Naked Raygun</td>
@@ -158,9 +195,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/uv8qmmRRADjjR6eaeA08a0K1llT_iHXXsE7Ve9Csfx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzcz/ODAtMTQ0OTg2MDU4/My02MzAzLmpwZWc.jpeg" alt="Cover for Live - 25 Or 6 To 4" style="max-width:120px; height:auto;" />
       </td>
@@ -174,9 +215,14 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 64</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/gURB6wFkTRPu4EYJzESXS3JyKCpQhhPPVjjY97SwsSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTU5/MTEtMTM5NTQxODA1/NS04NTcxLmpwZWc.jpeg" alt="Cover for If You Leave Me Now" style="max-width:120px; height:auto;" />
       </td>
@@ -186,6 +232,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -204,6 +254,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -215,6 +269,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -231,6 +289,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -243,6 +305,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -262,11 +328,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/S9N-c9E_tsPpdU328Wdr21izTHYnp_7BgPo1iC1iR2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODM1/OTItMTQwMjU0NjY5/My02OTYxLmpwZWc.jpeg" alt="Cover for Greatest Hits, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50ba58b6de4342b7c2008c218fa59313.png" alt="Cover for Greatest Hits, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-02-25</td>
       <td>Chicago</td>
@@ -275,11 +345,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/5A9U8EMWRvjls_ycjsMM3DH1tHFEe2HAj69ZlT3a36k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTA0/NS0xNTA3Mjk2MDY3/LTUyODguanBlZw.jpeg" alt="Cover for Jimmywine Majestic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0702fdfcfd4150cf535be791c8fbac38.png" alt="Cover for Jimmywine Majestic" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Red Red Meat</td>
@@ -291,10 +365,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38cd3f37211c5882995791e878ff41fa.png" alt="Cover for Earwig" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-24</td>
       <td>Pegboy</td>
@@ -308,9 +387,14 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 57</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1a659bf1426f9bb6ebe4cf93d790374.png" alt="Cover for The Chicago Story" style="max-width:120px; height:auto;" />
       </td>
@@ -320,6 +404,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -339,6 +427,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -351,6 +443,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -366,6 +462,11 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -385,10 +486,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb56488f9e6a4afebe6b0c1df4718fbd.png" alt="Cover for The Heart of Chicago 1967-1997" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-22</td>
       <td>Chicago</td>
@@ -396,6 +502,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -413,6 +523,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -426,9 +540,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/kxuE_NA14xPFseUDXLMx-eV-o5ql7zKN3NG1R3ynvuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU2/NjY1LTE0OTc4MDk2/NzItMzc5OS5qcGVn.jpeg" alt="Cover for Chicago" style="max-width:120px; height:auto;" />
       </td>
@@ -438,6 +556,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -454,9 +576,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/XcCbjRVvbpOFvVhERVP9_hUIT5TwIwmdQxKmJ1I4NII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDEz/MC0xMTYyMTI5MTY2/LmpwZWc.jpeg" alt="Cover for The Spectrum Between" style="max-width:120px; height:auto;" />
       </td>
@@ -468,10 +594,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/155a178c38245e73c969065d91ad428f.png" alt="Cover for Typical Cats" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-06</td>
       <td>Typical Cats</td>
@@ -482,6 +613,12 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 88</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -498,10 +635,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/360c50e1aab38acf76eab9950de06057.png" alt="Cover for Insignificance" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-25</td>
       <td>Jim O&#39;Rourke</td>
@@ -510,6 +652,28 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/dl4G5HiksbAn7vtzkE0bdjcs2LLVul6navWQI97PWAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA5/NjctMTU5OTE3MjAw/OC01NTc0LmpwZWc.jpeg" alt="Cover for Chicago, Il 8.26.00" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Hey Mercedes</td>
+      <td>Chicago, Il 8.26.00</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -527,15 +691,6 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/dl4G5HiksbAn7vtzkE0bdjcs2LLVul6navWQI97PWAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA5/NjctMTU5OTE3MjAw/OC01NTc0LmpwZWc.jpeg" alt="Cover for Chicago, Il 8.26.00" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Hey Mercedes</td>
-      <td>Chicago, Il 8.26.00</td>
       <td>
         <ul>
         </ul>
@@ -555,10 +710,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed88fa6b17794d80ae2c7c24f42698c0.png" alt="Cover for I Bet You Say That To All The Boys" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Scotland Yard Gospel Choir</td>
@@ -567,6 +727,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -583,6 +747,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -597,9 +765,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
       </td>
       <td>2003-01-21</td>
@@ -611,9 +783,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/_gx3m2umOxXdfdvZlO_pVj2DP1cjQ7-AAZyAwSO5NBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY1/NDYwLTE2ODg3NDgz/NTMtMTEyMC5qcGVn.jpeg" alt="Cover for Stay Right Here" style="max-width:120px; height:auto;" />
       </td>
@@ -625,9 +801,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2003-10-25</td>
@@ -639,6 +819,12 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 48</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -654,6 +840,11 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -673,6 +864,33 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/NJV8gR1lULYi7LJFC5-7kUK8BKi7ZZGJaH0PDkGUwtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ1/MDctMTMwNzA2ODgw/Ny5qcGVn.jpeg" alt="Cover for No Well OK Maybe Just a Little" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Coltrane Motion</td>
+      <td>No Well OK Maybe Just a Little</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -681,6 +899,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>2005</td>
       <td>The Living Blue</td>
       <td>Fire, Blood, Water</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -707,6 +929,12 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 42</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -718,6 +946,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -733,6 +965,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -752,10 +988,16 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ddd1959a2bef460a5149b3e0cf5e18a.png" alt="Cover for Graduation" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-05</td>
       <td>Kanye West</td>
@@ -765,9 +1007,16 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 75</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -776,6 +1025,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -793,10 +1046,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27908b6907a44d49bdc0161b7fd2ccef.png" alt="Cover for The Family Afloat" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-09</td>
       <td>Bound Stems</td>
@@ -805,6 +1063,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -841,6 +1103,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 2</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -856,10 +1125,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d59461311ee4584972f7eb8335f1353.png" alt="Cover for Some Sweet Relief" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-17</td>
       <td>Speck Mountain</td>
@@ -868,6 +1142,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -897,6 +1175,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 56</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 87</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -909,6 +1194,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -926,9 +1215,14 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11277941549d488284497514a6c4d4b7.png" alt="Cover for Rain Or Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -939,6 +1233,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -964,10 +1262,18 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 43</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd65716fb34d4e47ce31aa8732db8896.png" alt="Cover for Tarantula" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-08</td>
       <td>Riverdales</td>
@@ -977,6 +1283,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -993,10 +1303,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bd5641e66a2485fa60ad860bdf9c9e3.png" alt="Cover for CSTVT" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-26</td>
       <td>CSTVT</td>
@@ -1008,11 +1323,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/YVzTcYhCcsDMLr00iJPj3_4gyGZOuQYdYCOD9V8-6io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTE2/MjktMTMxMTYyOTg0/OS5wbmc.jpeg" alt="Cover for Blood &amp; Venom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac78925c5e394f8b94c9d35baaec7d94.png" alt="Cover for Blood &amp; Venom" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-20</td>
       <td>White Mystery</td>
@@ -1024,10 +1343,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b89df068dc06bb7533476ac37e4d2b40.png" alt="Cover for I&#39;m Still A Hitta" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-03</td>
       <td>Lil Durk</td>
@@ -1036,6 +1360,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1053,6 +1381,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -1062,6 +1394,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>2012-10-23</td>
       <td>Philip Glass</td>
       <td>Perpetulum: Philip Glass, Gavin Bryars, Third Coast Percussion</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1079,6 +1415,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -1090,6 +1430,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1108,9 +1452,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/yWgZrPS7s1nAgz8MwgbepQxmSkkvrlUb6zSH2ZosqD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjAy/MzgtMTQzMjc2NDQw/MS02MTE4LmpwZWc.jpeg" alt="Cover for Popular Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,9 +1474,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ppIn4l3L6AUPkHi9FvY61PXUVlB3DcoJme4BeU3QIwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTkx/NTQtMTM2NTQ0NDc2/OC00NjgwLmpwZWc.jpeg" alt="Cover for Howl" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,6 +1490,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1153,11 +1509,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/_KhkzL6VtYpwRZrDgiZdnsuoKA-N0p3uaI87wrenJko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjE2/MjAtMTQwMzYyOTcz/MC03NzU4LmpwZWc.jpeg" alt="Cover for Blood from a Stone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43e9b321614e4e41ced08e8624390fbd.png" alt="Cover for Blood from a Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Daddy Long Legs</td>
@@ -1171,6 +1531,12 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 32</li>
+            <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1187,9 +1553,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/EhdT7a492ADM4GGtvFh9TOkn2FpnBV5HA_r3S4cfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/NzI0LTE1NDcwNDE5/MDItMjcxNS5qcGVn.jpeg" alt="Cover for Risen EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,11 +1576,18 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 45</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/IxVm09GX1RhesoGLdn6d8LOTax3hgkw8nTZ2BydYr5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/MTMyLTE1MTIzNjk3/MjktNTQ0Mi5qcGVn.jpeg" alt="Cover for Thanks For Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca6da04b6fd24ecdce97c2ffafd2851d.png" alt="Cover for Thanks For Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-08</td>
       <td>Varsity</td>
@@ -1222,6 +1599,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1240,6 +1621,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -1253,6 +1638,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1269,9 +1658,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/FdZ1SErcVrNIIDD7So-hAWvVglD9NdEwJ4xC1nH8NRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc4/Nzc2LTE2MDE2NjQw/NDEtNDgzMS5qcGVn.jpeg" alt="Cover for No Hooks" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,11 +1676,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/7uUQjxd4ZCcf9QTe1KT2xSu3FmkLZKN3gFZ_adOmMg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDY5/MTgtMTQ3NDg5MjYw/Ny0yOTEyLmpwZWc.jpeg" alt="Cover for Heartbreak Kid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86ed174f5cf4761417025ad58581c64.png" alt="Cover for Heartbreak Kid" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-12</td>
       <td>Famous Dex</td>
@@ -1298,11 +1695,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/UwTtsS73j_MYBRBoDwYRrjJ06iT-WJF1FTM93e6f0YY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDY5/OTMtMTQ4OTAzNDMw/OC0yMTU5LmpwZWc.jpeg" alt="Cover for DEHD" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34b2a80084513d5f4843eaf27ddef600.png" alt="Cover for DEHD" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03</td>
       <td>Dehd</td>
@@ -1313,11 +1714,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
-          <img src="https://i.discogs.com/jPugjL6PaLVEPyjgQhD5csEgainbJzBxNrcx_uFbVNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYz/MDMyLTE1ODQ4MDA4/NDktNzUwNy5qcGVn.jpeg" alt="Cover for Armed and Dangerous - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ec6953fcc1334e095b9cac3b045aa2b.png" alt="Cover for Armed and Dangerous - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Juice WRLD</td>
@@ -1331,9 +1736,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/5iHuaSobjZECXfalcWpaolmAmLPkEbuZ-iHybrSh7VY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAy/NTI0LTE1NDAzNDIy/NjgtNzM0MS5qcGVn.jpeg" alt="Cover for Infinite Source" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,11 +1755,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/892GbqANVMnxzhWZWg1CACNNazIcqT2woEIQYQyJilM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/Mzc4LTE1MjcyNzEx/NDQtNDg5Ny5qcGVn.jpeg" alt="Cover for In Rounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2877c60582c179e6794863c067b9467d.png" alt="Cover for In Rounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-03</td>
       <td>campdogzz</td>
@@ -1362,38 +1775,25 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/bwfU9flVwnqMbsdZfRnaMxN80iza51tXnZid5nalGSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIx/OTkyLTE1OTY1Njk0/NzQtMjkzNC5qcGVn.jpeg" alt="Cover for Flower Of Devotion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/999294992c1a480d3c06724081be187e.png" alt="Cover for Flower Of Devotion" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-17</td>
       <td>Dehd</td>
       <td>Flower Of Devotion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/3NILFitwGmsz-6esj_IqIemOpKPL0i0T_9b-fTyIm6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc4/MDQ5LTE2NjY5ODY5/NzUtNjYxNy5qcGVn.jpeg" alt="Cover for Inner Peace" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-02</td>
-      <td>Juice WRLD</td>
-      <td>Inner Peace</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
         </ul>
       </td>
     </tr>
@@ -1409,6 +1809,57 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d086fd605333cdadc1203b43b1f2e89.png" alt="Cover for Victoria" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Hue Honey</td>
+      <td>Victoria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Atoms on Broadway</td>
+      <td>Gravity EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1430,6 +1881,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -1444,23 +1899,8 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hue Honey</td>
-      <td>Victoria</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
     </tr>
@@ -1482,6 +1922,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -1501,6 +1945,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -1512,6 +1960,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1533,26 +1985,13 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Atoms on Broadway</td>
-      <td>Gravity EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td></td>
@@ -1569,10 +2008,15 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16de9b095820fdca2bf52df18178271.png" alt="Cover for Happy Trap" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kobe Jxrdan</td>
@@ -1581,6 +2025,10 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1595,7 +2043,7 @@ The Chicago music genre represents the diverse sounds emerging from the city&#39
 - [pop]({{ "/tags/pop" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
-- [indie pop]({{ "/tags/indie-pop" | relative_url }})
 - [house]({{ "/tags/house" | relative_url }})
+- [indie pop]({{ "/tags/indie-pop" | relative_url }})
 - [soul]({{ "/tags/soul" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
