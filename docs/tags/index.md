@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-26T03:14:55.713Z
+date: 2025-11-26T03:58:55.473Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T03:58:55.473Z">Wed Nov 26 2025 05:58:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-26T03:58:55.473Z">Wed Nov 26 2025 05:58:55 GMT+0200 (Eastern European Standard Time)</time> |
+| [cyberpunk]({{ "tags/cyberpunk" | relative_url }}) | <time datetime="2025-11-26T03:53:10.226Z">Wed Nov 26 2025 05:53:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid techno]({{ "tags/acid-techno" | relative_url }}) | <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [powerviolence]({{ "tags/powerviolence" | relative_url }}) | <time datetime="2025-11-26T02:46:31.888Z">Wed Nov 26 2025 04:46:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [glam punk]({{ "tags/glam-punk" | relative_url }}) | <time datetime="2025-11-26T02:46:25.608Z">Wed Nov 26 2025 04:46:25 GMT+0200 (Eastern European Standard Time)</time> |
@@ -235,7 +237,6 @@ Last updated: <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55
 | [indie rock]({{ "tags/indie-rock" | relative_url }}) | <time datetime="2025-11-24T14:44:20.129Z">Mon Nov 24 2025 16:44:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [gothic country]({{ "tags/gothic-country" | relative_url }}) | <time datetime="2025-11-24T14:40:51.917Z">Mon Nov 24 2025 16:40:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [bay area]({{ "tags/bay-area" | relative_url }}) | <time datetime="2025-11-24T12:58:09.034Z">Mon Nov 24 2025 14:58:09 GMT+0200 (Eastern European Standard Time)</time> |
-| [cyberpunk]({{ "tags/cyberpunk" | relative_url }}) | <time datetime="2025-11-24T12:57:35.320Z">Mon Nov 24 2025 14:57:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic pop]({{ "tags/electronic-pop" | relative_url }}) | <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [norway]({{ "tags/norway" | relative_url }}) | <time datetime="2025-11-24T12:51:32.165Z">Mon Nov 24 2025 14:51:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [scotland]({{ "tags/scotland" | relative_url }}) | <time datetime="2025-11-24T12:51:24.220Z">Mon Nov 24 2025 14:51:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -450,7 +451,6 @@ Last updated: <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55
 | [outlaw country]({{ "tags/outlaw-country" | relative_url }}) | <time datetime="2025-11-23T08:48:34.535Z">Sun Nov 23 2025 10:48:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [screamo]({{ "tags/screamo" | relative_url }}) | <time datetime="2025-11-23T08:48:28.518Z">Sun Nov 23 2025 10:48:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [future house]({{ "tags/future-house" | relative_url }}) | <time datetime="2025-11-23T08:47:46.374Z">Sun Nov 23 2025 10:47:46 GMT+0200 (Eastern European Standard Time)</time> |
-| [industrial metal]({{ "tags/industrial-metal" | relative_url }}) | <time datetime="2025-11-23T08:45:58.805Z">Sun Nov 23 2025 10:45:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [german metal]({{ "tags/german-metal" | relative_url }}) | <time datetime="2025-11-23T08:45:48.292Z">Sun Nov 23 2025 10:45:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [ireland]({{ "tags/ireland" | relative_url }}) | <time datetime="2025-11-23T08:45:30.135Z">Sun Nov 23 2025 10:45:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [blues]({{ "tags/blues" | relative_url }}) | <time datetime="2025-11-23T08:44:50.088Z">Sun Nov 23 2025 10:44:50 GMT+0200 (Eastern European Standard Time)</time> |
