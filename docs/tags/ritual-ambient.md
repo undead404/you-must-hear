@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:35:44.855Z
+date: 2025-11-26T09:28:38.033Z
 permalink: tags/ritual-ambient
 title: ritual ambient
 ---
 
 ## ritual ambient
 
-Last updated: <time datetime="2025-10-21T03:35:44.855Z">Tue Oct 21 2025 06:35:44 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-26T09:28:38.033Z">Wed Nov 26 2025 11:28:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1977</td>
@@ -48,6 +48,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b12466e87b623e370972eb1b6b69b2e5.png" alt="Cover for Nature Unveiled" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Current 93</td>
@@ -67,6 +68,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82bd9f6d45447cc88eaba047112f0dd.png" alt="Cover for LAShTAL" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-01</td>
       <td>Current 93</td>
@@ -102,7 +104,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/gNeWItx5-T0Y0bkZsRPG5mv0XSPMphgFpuYsAWHwb9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU2/Mi0xNTMyMTc4NDI3/LTQwODQuanBlZw.jpeg" alt="Cover for In Menstrual Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0b8709d31174d239414f9a0c6b6fd04.png" alt="Cover for In Menstrual Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Current 93</td>
@@ -121,6 +123,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2361d310f1be14f3689c82e9bc86fc3a.png" alt="Cover for Thoum Aesh Neith" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>LAShTAL</td>
@@ -138,7 +141,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/iVfkmuODCboOm5gYmNgEzTRR8D0T5Ao4Vp8Z4vAEthk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/My0xNDk1NzM0MTM4/LTYxMTguanBlZw.jpeg" alt="Cover for Ars Regia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da0892c78245f34657983cafe6aef0e.png" alt="Cover for Ars Regia" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ain Soph</td>
@@ -157,7 +160,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/M_ZV3N1lgC2vBPsJuXS3V9F4ph12LABEbii4zzzioWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTUx/LTEyMjgyMDYxODYu/anBlZw.jpeg" alt="Cover for Zamia Lehmanni - Songs of Byzantine Flowers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3bff2c8db66739f2ded484e0c97b7de.png" alt="Cover for Zamia Lehmanni - Songs of Byzantine Flowers" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>SPK</td>
@@ -177,6 +180,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52846e079cf24cbe3d925361eb8928af.png" alt="Cover for Dawn" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Current 93</td>
@@ -196,7 +200,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/uzXnD7sDCgppOZWZ1fRHXC8mBl0bKjJ0DikiTFKN5jM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDU0/OC0xNDIyMzg3OTc5/LTUyMjMuanBlZw.jpeg" alt="Cover for Kshatriya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6312d789454d4b68d6222edf037ac40a.png" alt="Cover for Kshatriya" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Ain Soph</td>
@@ -232,7 +236,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/I_BFmQLMZZWXrRr_6fLmJ3PPAYoTzVqAphx9uMGCgMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MC0xMjU3MDY2NjAz/LmpwZWc.jpeg" alt="Cover for The Moon Lay Hidden Beneath a Cloud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8747bc9d54bb0c8c90f96c7c2ebe1e8.png" alt="Cover for The Moon Lay Hidden Beneath a Cloud" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Moon Lay Hidden Beneath a Cloud</td>
@@ -248,24 +252,6 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 45</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Deutsch Nepal</td>
-      <td>Benevolence</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -290,6 +276,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa7551e294142bfc26eed2d29a4f2e7.png" alt="Cover for H418ov21.C" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Beherit</td>
@@ -326,7 +313,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/vMfk021fQrXGP8FLEPmv6KQqkZyjLlA9cL9VFluGD3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTEz/LTExOTM2ODMwNDUu/anBlZw.jpeg" alt="Cover for In Nomine Dei Nostri Satanas Luciferi Excelsi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7cd7f58fac44c5fcf5cbacba31c30f2.png" alt="Cover for In Nomine Dei Nostri Satanas Luciferi Excelsi" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>MZ.412</td>
@@ -362,6 +349,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc8fae8d829009b236425f30ad7a3c75.png" alt="Cover for A Night in Fear" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Deutsch Nepal &amp; The Moon Lay Hidden Beneath a Cloud</td>
@@ -383,6 +371,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6de4a8844e4949859ec3887801dea6bf.png" alt="Cover for ¡Comprendido!... Time Stop! ...and World Ending" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Deutsch Nepal</td>
@@ -421,7 +410,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/tqPcVjFyAQn0YXYHM-fyYACU1LRzoRLG-ZESiNG6wrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/Ny0xNDI1ODMzOTIy/LTQ0NjAuanBlZw.jpeg" alt="Cover for The Righteous Way To Completion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/651d52cb499c490a888236667e4587e6.png" alt="Cover for The Righteous Way To Completion" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Archon Satani</td>
@@ -459,6 +448,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/860a933581d310ebc2e6a9eecc45b828.png" alt="Cover for Tidvatten" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ulf Söderberg</td>
@@ -498,6 +488,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b778528664544e9fce1be023a92b4078.png" alt="Cover for Derelict" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Asmorod</td>
@@ -517,6 +508,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9778d6a2e570841c3070c604bfd7f2b4.png" alt="Cover for Fascinoma" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Jon Hassell</td>
@@ -535,6 +527,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/489979aadfd447c0a372fa5378894f9f.png" alt="Cover for Flood" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-02</td>
       <td>Jocelyn Pook</td>
@@ -573,6 +566,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a70e73ff50a02164aba637036bce0986.png" alt="Cover for Eta Carinae" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Herbst9</td>
@@ -592,6 +586,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1d1832d83542961c49a8ef284e3899b.png" alt="Cover for :Emptiness:Emptiness:Emptiness:" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>:Of the Wand &amp; the Moon:</td>
@@ -644,14 +639,14 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 74</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/JOtZUoZ_DVa7uGCq5tZ--NtfF8O_iee0HJoMy5DaV2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjU0/OC0xMzk2Mjg1MzI1/LTQ3MTEuanBlZw.jpeg" alt="Cover for The Sabbat Comes Softly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/367360270f985c224d8856a8c9233270.png" alt="Cover for The Sabbat Comes Softly" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04</td>
       <td>Hexentanz</td>
@@ -682,7 +677,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 63</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 68</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 100</li>
         </ul>
       </td>
@@ -724,6 +719,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da9744d990b44e328c642d9e1c67b5cb.png" alt="Cover for Nekrocrafte" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06</td>
       <td>Hexentanz</td>
@@ -788,7 +784,27 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/BcTcoLAKUjiO5NOYfPFM7S3HB77-KHkoihxp7KfO4JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjk3/My0xMTEzMjg0ODI4/LmpwZw.jpeg" alt="Cover for My Little Fire-Filled Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Tara Vanflower</td>
+      <td>My Little Fire-Filled Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -851,7 +867,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/bBBRpK9bms6txyX-uKe1Pf_b4JfI9QwWH5OtSUrrflo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjk3/MC0xMTM1OTU0MDUz/LmpwZWc.jpeg" alt="Cover for Premonitions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32dce9722744083c0fbd6bc8c2e065d.png" alt="Cover for Premonitions" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-01</td>
       <td>Terroritmo</td>
@@ -967,13 +983,14 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 42</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ed2482fa69d4af68fc6ce140c27a656.png" alt="Cover for Through Bleak Landscapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-25</td>
       <td>Herbst9 Vs Z&#39;ev</td>
@@ -992,7 +1009,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/TvHhnLHOtX9UXmMOFxjJMdl8ntvkBVdjf_GUzGPNvdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/NDgtMTIxMzUzMTI0/Ni5qcGVn.jpeg" alt="Cover for Isth Narai Ja" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,7 +1031,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1073,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/BtkA_XSkzM345JnS7qzE1t-UdPcwgdsKklJNR1dSuh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA5/NjQtMTI2NTcxNjg2/OS5qcGVn.jpeg" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0b0838eec7a37ca937ccf65e4d5bf6.png" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Wooden Veil</td>
@@ -1071,7 +1088,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 34</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 93</li>
         </ul>
       </td>
@@ -1097,6 +1114,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d519d9d23b24f72ddde0b4bb49faa6.png" alt="Cover for Daughter of Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-27</td>
       <td>Natural Snow Buildings</td>
@@ -1109,7 +1127,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 16</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 47</li>
         </ul>
       </td>
@@ -1136,7 +1154,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 7</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 57</li>
         </ul>
       </td>
@@ -1175,7 +1193,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 73</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1267,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/gie6Q-v5rXAak0Q6rdiUxY4-mtayl4QkUXiKsLvoXQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQ4/NjQtMTI3MzIxNTAz/OC5qcGVn.jpeg" alt="Cover for ...introductio" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,6 +1288,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d7f44693efa7ab5a32c4172bbe870ff.png" alt="Cover for Trowo phurnag ceremony" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Phurpa</td>
@@ -1285,7 +1304,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-07-24</td>
@@ -1358,6 +1377,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eccbe7f3db224814bab47ffd6905a80b.png" alt="Cover for Amygdala" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-20</td>
       <td>Deutsch Nepal</td>
@@ -1402,6 +1422,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec2fcb14955d488fa2be41f66cac8ca7.png" alt="Cover for Symbiosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-24</td>
       <td>Empusae</td>
@@ -1423,6 +1444,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71ac4a2f016b4c0ba19d30f905d1dcf0.png" alt="Cover for Procession" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-28</td>
       <td>Desiderii Marginis</td>
@@ -1434,7 +1456,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1476,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1513,13 +1535,13 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 75</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/8xEKPRWmqwAiwkn2ZeJcv7pR2IiiZzhgDQAm4kDKNXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDA0/MzQtMTM4NDQ5NDM0/OC00MDQ2LmpwZWc.jpeg" alt="Cover for Ginnungagap" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,6 +1563,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c477f85ee0604ff3cffdad1dafc7411f.png" alt="Cover for Severh Sehenh" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Treha Sektori</td>
@@ -1581,7 +1604,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/ewAl1hwfXK4d495akJaW37TYwxyQZiHPAstv9RhjdOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjE3/NjItMTQ4NzMyNTkx/OC0zMTg5LmpwZWc.jpeg" alt="Cover for Of Matter And Spirit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67b3a851e3869652d21ab0a863c3e67e.png" alt="Cover for Of Matter And Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10</td>
       <td>Aïsha Devi</td>
@@ -1636,9 +1659,9 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 86</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 87</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
@@ -1704,7 +1727,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/0alQhFHeEUtzVSycTUh3IyQJYBBUIUqOV7xt9TcLltE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ3/NDg2LTE1NjY3ODM4/NjEtODgzNi5wbmc.jpeg" alt="Cover for Girl with Basket of Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a465856d6cd41e4745023b55ead5e312.png" alt="Cover for Girl with Basket of Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-30</td>
       <td>Xiu Xiu</td>
@@ -1718,7 +1741,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 97</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 99</li>
         </ul>
@@ -1749,8 +1772,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 82</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 83</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
@@ -1793,8 +1816,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 30</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1840,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1845,10 +1868,10 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 83</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
@@ -1857,7 +1880,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f0e10481fca74737ed7af82fc45f9.png" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>Zanias</td>
@@ -1883,10 +1906,10 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 18</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
         </ul>
@@ -1931,7 +1954,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Dgqnuzgi-WQVCY3C_ZlT-Q0iqN4I4cF6OcvUHHCGUoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM1/MTEwLTE3MTA3OTE0/NDEtMjQ1MS5qcGVn.jpeg" alt="Cover for Necrocosmos" style="max-width:120px; height:auto;" />
       </td>
@@ -1954,6 +1977,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a9571e56d2bd7873abd7625c999450.png" alt="Cover for The Dance of the Moon and the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>NSB Archive</td>
@@ -1970,12 +1994,12 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 12</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>

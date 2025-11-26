@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T08:06:47.333Z
+date: 2025-11-26T09:54:37.988Z
 permalink: tags/crust
 title: crust
 ---
 
 ## crust
 
-Last updated: <time datetime="2025-11-12T08:06:47.333Z">Wed Nov 12 2025 10:06:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T09:54:37.988Z">Wed Nov 26 2025 11:54:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c80672d2a80e76196fef9d5845aaa8.png" alt="Cover for Who&#39;s The Enemy" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-08-29</td>
       <td>Amebix</td>
@@ -48,6 +49,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/528912395c70a6fa2c8c2d4a731ba95f.png" alt="Cover for Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Amebix</td>
@@ -65,7 +67,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Jk6cd2lCNk5syEYrHo1ZyxTg5l9F4PbWsQUYmR744fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/Mi0xMzQyMDY3MjEz/LTM2NDIuanBlZw.jpeg" alt="Cover for No Sanctuary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdcb93de663448019cde20545d411a5c.png" alt="Cover for No Sanctuary" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Amebix</td>
@@ -100,6 +102,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17fed6542ef3ea576eea2ecd8af3ddea.png" alt="Cover for Arise!" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Amebix</td>
@@ -117,7 +120,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ABofbRdmIIgQUPa66avdh3aaciGIPiDgRrFFlP1GVoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU2/ODItMTM2NTc2MDg5/NS0yNjc2LmpwZWc.jpeg" alt="Cover for Arise Plus Two" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +140,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/07vFSSWLUUl95rovNBNlsdRLezPmDEkzgQ8m8KG79DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM1/MC0xMzQyMDY3NjMy/LTg2MjcuanBlZw.jpeg" alt="Cover for Monolith" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3d2913a1ba1055487ce6f9508ba4bcd.png" alt="Cover for Monolith" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Amebix</td>
@@ -154,24 +157,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Electro Hippies</td>
-      <td>The Only Good Punk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3855209d897c681ceb04338341562b8.png" alt="Cover for Rise of the Serpent Men" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +190,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 10</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +208,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 3</li>
+            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -244,9 +230,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/BTXwdrPsL_Uxk8QSDsr3ilzogCBx_sBUBUjdN_uMdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODQ4/MS0xMzc3OTg1MzMw/LTYzMDIuanBlZw.jpeg" alt="Cover for Absolut Country of Sweden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e15b066597660f38e236007273ab73.png" alt="Cover for Absolut Country of Sweden" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Anti Cimex</td>
@@ -264,9 +250,31 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed1c58f551ac7d8cde9ad50c2c7cbb0.png" alt="Cover for 限界は何処だ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-10-05</td>
+      <td>Gauze</td>
+      <td>限界は何処だ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/IHzub4cUEjYF9gd8UmEg4WGWpgNR6hVOADFEymNkzdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkw/NTEtMTM0MTI3Nzk5/MC04MTI0LmpwZWc.jpeg" alt="Cover for Behind The Realms Of Madness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/380b4a26fc3d482fc89f0ae722d500c2.png" alt="Cover for Behind The Realms Of Madness" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-11</td>
       <td>Sacrilege</td>
@@ -276,6 +284,24 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16927a9b8b9ee7e418b6f7a4b30eded9.png" alt="Cover for The Only Good Punk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Electro Hippies</td>
+      <td>The Only Good Punk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
         </ul>
       </td>
       <td>
@@ -303,6 +329,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0b759cc99d718fee888fcc1e2593152.png" alt="Cover for Human &#x3D; Garbage" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Dystopia</td>
@@ -314,7 +341,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 89</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +363,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1995-05</td>
@@ -391,8 +418,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d110fb1244f44bfba90e414c0d4be6a6.png" alt="Cover for A New Dawn Fades" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04</td>
       <td>Wolfpack</td>
@@ -410,6 +438,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a955a1cf036c0b32225a1908584cb8a.png" alt="Cover for Everyday Slaughter" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Disfear</td>
@@ -442,9 +471,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/tfocAGgoLgBB3JffIpmuZZ-mG_JQObbit44hYGoLPd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM4/ODQtMTI4MjI1NzQy/MC5qcGVn.jpeg" alt="Cover for Beginning of the End" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926d63f59af8480fbc3cc67ab31255a6.png" alt="Cover for Beginning of the End" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Amebix</td>
@@ -463,6 +492,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1add7bde07705695bba9da5be4e872ae.png" alt="Cover for The Plot Sickens" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-03</td>
       <td>His Hero Is Gone</td>
@@ -480,7 +510,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/eSZmFo5iqQvcPUc2ZyygzHsRZQTOI9tO4Qf8oOzwAaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/ODEtMTIyMDE5OTAz/My5qcGVn.jpeg" alt="Cover for Grå värld &#x2F; Svarta tankar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f00450752bdfe68a5882d4ec44a2c7a8.png" alt="Cover for Grå värld &#x2F; Svarta tankar" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06</td>
       <td>Skitsystem</td>
@@ -496,25 +526,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/4eEy527TiRTk9LDNB8PJLyez1JlzC5b5lqmwEFOaihU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/NDQtMTI0NTE0MTI5/OS5qcGVn.jpeg" alt="Cover for Allday Hell" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-09-01</td>
-      <td>Wolfpack</td>
-      <td>Allday Hell</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/pcK3p-dz-BrlsKaWVUleKslbkhyJeEoy1PgojThFtG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDg5/NS0xMzIzNTY5NjYx/LmpwZWc.jpeg" alt="Cover for And The Winner Is..." style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +567,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/camoApzzzqzqxyDWFQZKyVyUXdkAL2cGX-WFVlDF9bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAx/OTktMTMxMzIzODQ2/NS5qcGVn.jpeg" alt="Cover for The Final Chapter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4f48487364a2250602af2c3804a2542.png" alt="Cover for The Final Chapter" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Filth of Mankind</td>
@@ -634,8 +646,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9141f01af7c44b678fd6ca82b41e7284.png" alt="Cover for As Cicatrizes Do Paraiso" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Madame Germen</td>
@@ -655,7 +668,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2003</td>
@@ -705,8 +718,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62cbbb59c637ae163e365b9b5120f0b6.png" alt="Cover for In Darkness You Feel No Regrets" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Wolfbrigade</td>
@@ -724,6 +738,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c304932a64c74d56905eeecb0399ab9a.png" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-25</td>
       <td>Cursed</td>
@@ -742,7 +757,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/3DQ1IvzYCy2t7w4lKTcX3JhMQnFgUVt5JxXO1MIMH84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/NDEtMTUwNjk0OTkz/MS0yNzExLmpwZWc.jpeg" alt="Cover for Superstar Destroyer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e8e7eed0001591ddb851173e7ab4fa2.png" alt="Cover for Superstar Destroyer" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-11</td>
       <td>Genocide Superstars</td>
@@ -780,6 +795,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d503516ab122ca91f79b40746d856579.png" alt="Cover for Misanthropic Generation" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-03</td>
       <td>Disfear</td>
@@ -792,14 +808,14 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 95</li>
+            <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/X-ABem8EYY-VIPX7r0D3d-NvSy65gmeBoNU3JecodNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDUy/MC0xMzE4ODQ4OTY0/LmpwZWc.jpeg" alt="Cover for Nightmares" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d5b6455b976fcb7c653d1142e924da5.png" alt="Cover for Nightmares" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-14</td>
       <td>From Ashes Rise</td>
@@ -833,7 +849,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vJuKk4gCv3JPkbAUaB7Iv_O04Y3Epkvmezt5P6hMA6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA5/MS0xMTY5NjI2NDMx/LmpwZWc.jpeg" alt="Cover for Människans ringa värde" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +917,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 3</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 35</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +939,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/3OBD-Ld5pBPz7U9EnxH9z-fC_cSyX2wUmylXZCDJ0lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkw/MzItMTI0NTE3Mzc0/NS5naWY.jpeg" alt="Cover for Blood-Red States" style="max-width:120px; height:auto;" />
       </td>
@@ -999,7 +1015,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/6aDGeG8JLvtE590ZVxNIUjxAoCzPEWFI7V_9DH3D7fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE0/NTgtMTU5NzYyMDky/MC02MTg2LmpwZWc.jpeg" alt="Cover for Elil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3945a59fbc6498aa6bca7b844c4653a8.png" alt="Cover for Elil" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-01</td>
       <td>Fall of Efrafa</td>
@@ -1013,13 +1029,14 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 60</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 74</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6370a9f3abec4976c9d166f9181bda06.png" alt="Cover for Seance Prime" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-30</td>
       <td>Trap Them</td>
@@ -1055,9 +1072,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Tph_BjiICvJH3IRAOzxWtXtQTg7TTwJ1_5DS5SknhCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE2/OTgtMTU3MTM3MDY2/OS01NTY3LmpwZWc.jpeg" alt="Cover for No Sanctuary - The Spiderleg Recordings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5afa29238a87cc7aa801852d479b4db.png" alt="Cover for No Sanctuary - The Spiderleg Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Amebix</td>
@@ -1075,7 +1092,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>2008-05</td>
@@ -1098,6 +1115,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbcf9fa4ac83999c76acbe12f4638422.png" alt="Cover for Variante Alla Morte" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-05</td>
       <td>Cripple Bastards</td>
@@ -1118,6 +1136,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d6724b988c4a213de6f9c5ab46cab1.png" alt="Cover for Comalive" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-01</td>
       <td>Wolfbrigade</td>
@@ -1136,6 +1155,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53ae84597b52426a88c1b232c37a33d6.png" alt="Cover for Vintage Addiction" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-19</td>
       <td>Dishammer</td>
@@ -1172,7 +1192,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/eCSdrJyac4NUEE0oDxCS_6-mvkUbiE6C5RAMocqaewM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE2/NTUtMTQxMzk3MDY3/Ny05MDk4LmpwZWc.jpeg" alt="Cover for Burning Bridges To Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,6 +1230,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d4d86396b9c4549a4abb7cb274cf97d.png" alt="Cover for Spewings From a Selfish Nation" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-11</td>
       <td>Fukpig</td>
@@ -1244,7 +1265,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2010</td>
@@ -1263,7 +1284,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Gli6jS9RnrkMfXtByiYiF3RmGIXo0ZGmcsTMcS_ZNrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg0/NzUtMTI3NjU2MTA3/NS5qcGVn.jpeg" alt="Cover for Heavy Breathing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eacfe010d52741ccc1e1f6bff55f5455.png" alt="Cover for Heavy Breathing" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-30</td>
       <td>Black Breath</td>
@@ -1302,7 +1323,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/wDSLiXgPDdLvj5oyQqvk5L-gqvTMFYpVoGrf6NpcYAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODU0/MDEtMTMwMDkyMjg4/OC5qcGVn.jpeg" alt="Cover for Goner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e67b428e263946eb1a96d674c89faed1.png" alt="Cover for Goner" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-22</td>
       <td>Early Graves</td>
@@ -1375,6 +1396,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00583bfe51594d75a122cf9cf56abeaf.png" alt="Cover for The Descent Of Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-10</td>
       <td>Vestiges</td>
@@ -1397,6 +1419,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdac5c91c1b2a302ea4e63fff7e244b3.png" alt="Cover for Darker Handcraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-01</td>
       <td>Trap Them</td>
@@ -1433,22 +1456,21 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/XufTbX-pwMcfQce5BYrI4TV6ge-PibNL_XVDyoy71c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ2/MDItMTQ3ODExOTY4/Ni02MTg3LmpwZWc.jpeg" alt="Cover for Mælstrøm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46ccf104872ba12c4450a77d436606ba.png" alt="Cover for Mælstrøm" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-05</td>
       <td>Oathbreaker</td>
       <td>Mælstrøm</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 39</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 66</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1476,8 +1498,8 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 49</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 20</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 50</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 68</li>
         </ul>
       </td>
@@ -1485,7 +1507,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/SAPiGRp2SFXKXBF_ySFDZ3h3D6BFIJ4_81aRifnovEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY1/OTYtMTM0NDc4MTc2/Ni01NzkwLmpwZWc.jpeg" alt="Cover for Worms and Dirt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afe8b96f54f74b129b829dba9fe0fa07.png" alt="Cover for Worms and Dirt" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Homewrecker</td>
@@ -1501,13 +1523,13 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 39</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 41</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/zs-jP2NuQQ7PeKNhP6fFODDcNaxRqIjXoXSlX6WI90o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjIx/OTUtMTM0NTc3MzE4/MS03NjAyLmpwZWc.jpeg" alt="Cover for Chaos Reigns" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,6 +1549,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2052a80e77924594a3dfdbed2aeb5d63.png" alt="Cover for Sentenced to Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-27</td>
       <td>Black Breath</td>
@@ -1546,6 +1569,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1742eacd5f948b6b16d6626b09f3eeb.png" alt="Cover for Damned" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-23</td>
       <td>Wolfbrigade</td>
@@ -1581,6 +1605,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/644b353f6d984cb083073254cdae5cc4.png" alt="Cover for Paranoia" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-22</td>
       <td>Martyrdöd</td>
@@ -1601,6 +1626,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a421063106ac43d4c305b3c5b0967251.png" alt="Cover for Obscene Humanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-22</td>
       <td>Nails</td>
@@ -1630,14 +1656,14 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 91</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/BgM_DlX6Xx0d_mfFGtYLkss7g-0Nx8TPS-Q738FBn1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTY2/NDQtMTM2NzEwNTYz/My00ODIzLmpwZWc.jpeg" alt="Cover for Rites of Separation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dfd01e8c180c91fe20d86a75431c52b.png" alt="Cover for Rites of Separation" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-30</td>
       <td>Agrimonia</td>
@@ -1655,6 +1681,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6366abc9f883464085aa8eccf12ded45.png" alt="Cover for Nothing Violates This Nature" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-23</td>
       <td>All Pigs Must Die</td>
@@ -1669,13 +1696,14 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 14</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c813a8939cd427cc25e1504501a7125.png" alt="Cover for Passenger" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-29</td>
       <td>Black Monolith</td>
@@ -1711,8 +1739,9 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb6116a07bef46e7c6d04851ba671890.png" alt="Cover for Elddop" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-22</td>
       <td>Martyrdöd</td>
@@ -1729,7 +1758,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/YOcrcax-IN9ZpCkHEp3aNt1IsDSzI0JYbwUVRtayToU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDkx/MzItMTQ2MTgzNjcy/OC04MjU0LmpwZWc.jpeg" alt="Cover for Moloch" style="max-width:120px; height:auto;" />
       </td>
@@ -1752,7 +1781,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/yAoKLCZ0PEVZ55uBBjt1v9kNjxU-xMGV-2vqrUJg_bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg5/MzktMTYzOTQyOTEw/OC01NTE2LmpwZWc.jpeg" alt="Cover for List" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e245b0acbcae265f80cae9ad48070a1.png" alt="Cover for List" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-25</td>
       <td>Martyrdöd</td>
@@ -1770,7 +1799,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/Tw2c__4pMhi6IaUncm9_gQ3hXxC2Lt-2VccgvzuVCLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY2/Mzk3LTE0OTI3Njk4/MTMtNDQwNC5qcGVn.jpeg" alt="Cover for Run With the Hunted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd959c4bc644e3c51b77d69c5e9506b.png" alt="Cover for Run With the Hunted" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-28</td>
       <td>Wolfbrigade</td>
@@ -1789,7 +1818,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/hNPj6UDDu8WbFXNjwcEVZKZTly9nrm_PzGn2EX5k2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/MDkyLTE1MTcwNTMx/NTktMTc5Ni5qcGVn.jpeg" alt="Cover for Awaken" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27aec7d1fe59c5ab6166327d001ce594.png" alt="Cover for Awaken" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-26</td>
       <td>Agrimonia</td>
@@ -1811,7 +1840,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/98hSEy-KulUW9CG_E1Dmrl47yFoJ1D0k9_aJPoSiMHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg3/NDAzLTE1NDkzOTIx/MTYtMjYxOC5qcGVn.jpeg" alt="Cover for I Live Inside A Burning House" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20f312ea2a3b7be7b5c6e2f23079a460.png" alt="Cover for I Live Inside A Burning House" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-11</td>
       <td>Body Void</td>
@@ -1834,7 +1863,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/SroYleT4VKmRCY10ZUx9B1NxI8Zg3CbB1bS0cttCewc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgw/MzkxLTE1MzkxMTEw/OTctOTc0My5qcGVn.jpeg" alt="Cover for Black Wash" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d492abed7d55ca58cdffe3c3814b3802.png" alt="Cover for Black Wash" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-19</td>
       <td>Pagan</td>
@@ -1851,7 +1880,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Rhp-TnQ4uCDgKYgSDyD-BnYpPXt5FkzSoAsVacGdWFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE5/ODc1LTE1NzIxNjQ5/NTAtOTAzNy5qcGVn.jpeg" alt="Cover for The Enemy: Reality" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,7 +1900,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/R_RdWPyxcrg9FOusQIHaXJOqc44iYGlnELFVlRFJT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk4/NTUzLTE1NTEwNTcz/MDYtNzE2Ni5qcGVn.jpeg" alt="Cover for Lunar Mass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a469c8f2c80c102f69bc69d563374994.png" alt="Cover for Lunar Mass" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Mammoth Grinder</td>
@@ -1907,7 +1936,7 @@ Crust is an aggressive fusion of anarcho-punk and extreme metal that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 38</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 53</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 82</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 94</li>
         </ul>

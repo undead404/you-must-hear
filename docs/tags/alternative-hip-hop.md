@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:02:45.569Z
+date: 2025-11-26T10:00:38.479Z
 permalink: tags/alternative-hip-hop
 title: alternative hip hop
 ---
 
 ## alternative hip hop
 
-Last updated: <time datetime="2025-11-23T12:02:45.569Z">Sun Nov 23 2025 14:02:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T10:00:38.479Z">Wed Nov 26 2025 12:00:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,7 +104,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/rL7dxs1xjqT5K_bBn8gwf6xj76jttbi_2LKDspuRPhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg0/MjUtMTMzMjAyOTg5/OC5wbmc.jpeg" alt="Cover for Sad Clown Bad Summer - Number 9" style="max-width:120px; height:auto;" />
       </td>
@@ -122,7 +122,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13ebf4676b07c751ba2fef75f853df6b.png" alt="Cover for Things Fall Apart" style="max-width:120px; height:auto;" />
       </td>
@@ -136,13 +136,13 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 29</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad5ad249ed1435e85dc04db0ce9ec99.png" alt="Cover for Quality Control" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +160,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2001-02-16</td>
@@ -174,12 +174,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3952361e902c4ead8ca4ff9c718b960f.png" alt="Cover for MAYA (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +200,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a84293f965946eca1b1522549d28c0c.png" alt="Cover for The Art Of Translation" style="max-width:120px; height:auto;" />
       </td>
@@ -214,7 +214,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 100</li>
         </ul>
       </td>
@@ -237,7 +237,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/H1kalgw9KFlTetXfn_cuArld8Xit3Y6gIo8Z5IdxAM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzgz/NC0xMTYzMjY5MTU1/LmpwZWc.jpeg" alt="Cover for The Day Before Halloween" style="max-width:120px; height:auto;" />
       </td>
@@ -256,7 +256,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-06-13</td>
@@ -274,7 +274,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea285151dc183950a24e295aa36e9b1e.png" alt="Cover for No Phun Intended" style="max-width:120px; height:auto;" />
       </td>
@@ -293,7 +293,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2008-09-15</td>
@@ -309,7 +309,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90c2e06b066c214dd63346752e10f8b8.png" alt="Cover for Safe" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 3</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 10</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 69</li>
         </ul>
       </td>
@@ -345,12 +345,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/28udcpxrICP9rhRrJDH1TCoeI5REne7xoYTEleLOUG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQw/NTgtMTU0NjYzMjU4/NC0zMzYxLmpwZWc.jpeg" alt="Cover for B.o.B Presents: The Adventures of Bobby Ray (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2009-12-25</td>
@@ -380,9 +380,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 85</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +401,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 41</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/4ZGdVjeRCszPSzo8BJPG-R3ikOZEf_cCUN9hX_I7Gjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE0/MDUtMTMwMjU1Mzc4/My5qcGVn.jpeg" alt="Cover for Family Sign" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +464,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/360702f555ca4738bb364e6018f78d0a.png" alt="Cover for XXX (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +481,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2013-01</td>
@@ -498,7 +498,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3f98c0a1ac6d504ea3bd656b524ee1f.png" alt="Cover for Hokey Fright [Deluxe Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +516,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ZBvJshXZghiRMYyDZrHPMxpsH1ODpwFPfgY6VqnIFu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTI0/NTUtMTQyMDk1NDY1/MS02NjA0LmpwZWc.jpeg" alt="Cover for Rejovich - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -551,7 +551,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5672e758b864e61cee4ad480889c91f.png" alt="Cover for On the Floor" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +577,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/hP4KZx6d-2273VMPgth_jZDsgX3XpFcgTzWcnkwJ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQy/OTEtMTQ1NTYxNzE4/NS0yOTM0LmpwZWc.jpeg" alt="Cover for Blurryface" style="max-width:120px; height:auto;" />
       </td>
@@ -591,9 +591,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 24</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 92</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 20</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -616,7 +616,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/CYJQBWRJnkjNkQjmTLDNGVrfjtOG3kL2iJOq24wPyWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ0/MDIwLTE1MjMzMzA1/NTMtNTQ3NC5qcGVn.jpeg" alt="Cover for A Wizard Told Me" style="max-width:120px; height:auto;" />
       </td>
@@ -651,7 +651,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/xnPpqfMRhdZvqeLUcTzpkRFMciY-u9-gWe8ZeKZhisw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDcz/NzUtMTQ2Nzg5Nzk5/MC05MDkwLmpwZWc.jpeg" alt="Cover for All Around the World" style="max-width:120px; height:auto;" />
       </td>
@@ -732,7 +732,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4a71bbe0fe8d8fc813329920b452c2.png" alt="Cover for Past Cloaks" style="max-width:120px; height:auto;" />
       </td>
@@ -769,7 +769,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edcb50fc230a24292e0882952ef6ed1f.png" alt="Cover for The Impossible Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +859,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/gDFCOHexXLnPwZoh2Sop-CR4VvAz7FTFPS9SFZSM-E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY4/NjUyLTE1MDIwNDY3/MzYtMzgxMi5qcGVn.jpeg" alt="Cover for Loose Ends" style="max-width:120px; height:auto;" />
       </td>
@@ -881,7 +881,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td>2017-02-13</td>
@@ -895,12 +895,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f109764137838c0544283bd1863548.png" alt="Cover for Speeding" style="max-width:120px; height:auto;" />
       </td>
@@ -917,12 +917,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 91</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/qW7F8MWwIL4_GyXc7xsHxOSv1tJO4anMnhuqfsSGeSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQw/MjUzLTE1MDM0MzA5/NjQtMTA1MS5qcGVn.jpeg" alt="Cover for Crooked Cops (feat. Tish Hyman)" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +940,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15bb2e6f96f7e852f5cf61375e724f7e.png" alt="Cover for SATURATION" style="max-width:120px; height:auto;" />
       </td>
@@ -953,7 +953,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 38</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -974,8 +974,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 26</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
@@ -983,7 +983,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9949fed9b0f1ce71532296bcc88c66df.png" alt="Cover for Loving Is Easy" style="max-width:120px; height:auto;" />
       </td>
@@ -992,15 +992,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       <td>Loving Is Easy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 99</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1018,11 +1015,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 56</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
@@ -1044,7 +1041,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 15</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 17</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 94</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 97</li>
@@ -1070,7 +1067,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg" alt="Cover for Saturation III" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,8 +1082,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 36</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 37</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 38</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 42</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 50</li>
         </ul>
       </td>
@@ -1110,7 +1107,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/rO2rLd8GcLRWgGQmWYWL5nG6boUqHe4bZrUgo4JI0Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk0/Mzc4LTE1MTkwODg2/MDEtNDY2Mi5wbmc.jpeg" alt="Cover for Milk &amp; Honey" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1125,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/rO2rLd8GcLRWgGQmWYWL5nG6boUqHe4bZrUgo4JI0Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk0/Mzc4LTE1MTkwODg2/MDEtNDY2Mi5wbmc.jpeg" alt="Cover for Flexin&#39; (feat. Ebenezer)" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,7 +1143,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/rO2rLd8GcLRWgGQmWYWL5nG6boUqHe4bZrUgo4JI0Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk0/Mzc4LTE1MTkwODg2/MDEtNDY2Mi5wbmc.jpeg" alt="Cover for Blakkst Skn" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1198,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/wS87phKFSB3hQ6jbgibR2n61vsiggk_-gjf24umF44A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/Mjc1LTE1MjU0MjUw/OTYtMjE1My5qcGVn.jpeg" alt="Cover for Virgo (feat. Pell)" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1216,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/wS87phKFSB3hQ6jbgibR2n61vsiggk_-gjf24umF44A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/Mjc1LTE1MjU0MjUw/OTYtMjE1My5qcGVn.jpeg" alt="Cover for Pink Beetle" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1234,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dfce13514d8b43410654a24efd0f767.png" alt="Cover for D.R.U.G.S." style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1286,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 82</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 82</li>
@@ -1299,7 +1296,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7398b011303786537859aa00a10cadb6.png" alt="Cover for iridescence" style="max-width:120px; height:auto;" />
       </td>
@@ -1313,13 +1310,14 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/btVrR0ZNIx1v9CDw-cI73xMv_5Hz8DT2q1-dBS3b6K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NTk4LTE1NDQyNjcz/ODMtNDkzMy5qcGVn.jpeg" alt="Cover for some rap songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1337,7 +1335,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 95</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
@@ -1377,12 +1375,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 49</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 83</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,18 +1401,18 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/CETZzFg0P0BYpeRa_AO400J6YU_KeaDBSwL6MViaWkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzEz/MjQ2LTE2MzkyNDY2/NTQtNDA2OC5qcGVn.jpeg" alt="Cover for 1999 WILDFIRE - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1431,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/CETZzFg0P0BYpeRa_AO400J6YU_KeaDBSwL6MViaWkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzEz/MjQ2LTE2MzkyNDY2/NTQtNDA2OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1450,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/OQI6bSEKuOrZtKpq-TsaVkennST5GZZb9657CYPjhbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ2/OTg5LTE2NTgxNjE5/MjYtNTIwNS5qcGVn.jpeg" alt="Cover for Saturation 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1468,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/OQI6bSEKuOrZtKpq-TsaVkennST5GZZb9657CYPjhbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ2/OTg5LTE2NTgxNjE5/MjYtNTIwNS5qcGVn.jpeg" alt="Cover for Dirt" style="max-width:120px; height:auto;" />
       </td>
@@ -1526,7 +1524,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01d4c9cd7b4aa2e54904b50331f60a44.png" alt="Cover for NO HALO" style="max-width:120px; height:auto;" />
       </td>
@@ -1543,7 +1541,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9ab8455bb36697a4ed81f93dd20819b.png" alt="Cover for IF YOU PRAY RIGHT" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,6 +1626,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1655,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1348121d27f04b267011a376cb4a4952.png" alt="Cover for Fantastista" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,13 +1672,13 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 76</li>
             <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36b3dc13443db6d27e112dc35f00a11.png" alt="Cover for And, Such Is Life." style="max-width:120px; height:auto;" />
       </td>
@@ -1692,16 +1691,16 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 30</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/Bt-AgN4KTpreE_YKhLPt5WujOogB6KnWaJX526mcuXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/NTE1LTE2MDY0NDQ3/NTEtMTQ5My5qcGVn.jpeg" alt="Cover for Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -1719,29 +1718,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3dbc36c619eff33b27186679d4a0fd.png" alt="Cover for THE LIZ 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-09-18</td>
-      <td>Armani Caesar</td>
-      <td>THE LIZ 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/cbljmYGSa3Ixg7UOXBjOJL5Itcv8HO-ckRp5sbHU0vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY4/NzAzLTE2MDg1NDU0/NDgtOTY1Mi5qcGVn.jpeg" alt="Cover for Damselfly" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1740,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg" alt="Cover for bury a friend" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,15 +1766,15 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
@@ -1805,7 +1782,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2021-06-25</td>
@@ -1823,7 +1800,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd0ebfb3d4b1a5ba30bf051caa1b9cb.png" alt="Cover for Thug Tears - A COLORS SHOW" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,11 +1814,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d3867e34ad99d521f6b7d600349b8bf.png" alt="Cover for Scaring the Hoes: DLC Pack" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,7 +1832,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1903,6 +1881,25 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c50b8fb0d6073befc75e62e3aa938cf.png" alt="Cover for SATURATION II" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>BROCKHAMPTON</td>
+      <td>SATURATION II</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7da27cd9c5139371928aefd6cc781d98.png" alt="Cover for Eighty" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
@@ -1921,7 +1918,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1939,7 +1936,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1957,7 +1954,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1975,7 +1972,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
