@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-01-08T10:59:03.938Z
+date: 2025-11-26T14:34:38.465Z
 permalink: tags/power-electronics
 title: power electronics
 ---
 
 ## power electronics
 
-Last updated: <time datetime="2025-01-08T10:59:03.938Z">Wed Jan 08 2025 12:59:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T14:34:38.465Z">Wed Nov 26 2025 16:34:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/L_D2VjkhzF_sdGui1ZQ9Mk_5vgu-kfTVErgUYCWswBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTYy/LTEzOTY1MjIwODYt/OTcxOS5qcGVn.jpeg" alt="Cover for Factory 7&#39;&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -47,8 +47,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8af2f84cdb5e4f6982e8aef16c4b18a5.png" alt="Cover for Birthdeath Experience" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-09</td>
       <td>Whitehouse</td>
@@ -65,7 +66,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>68</td>
       <td>
       </td>
       <td>1980-11</td>
@@ -84,7 +85,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
       </td>
       <td>1982</td>
@@ -101,7 +102,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ow0Xg-xwVIl5jRTqigePSi0lhs9gJ0T7-OcRzmfiA44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzc0/LTE0MDI3NTMxOTMt/OTE1Mi5qcGVn.jpeg" alt="Cover for New Britain" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +121,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/iBGCbarf4u_o1cd6cCkar3Pp43LRLcH7trSsgYcvszM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDEw/LTE1MjM5OTAyNjQt/OTQ0Ni5qcGVn.jpeg" alt="Cover for Psychopathia Sexualis" style="max-width:120px; height:auto;" />
       </td>
@@ -138,8 +139,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ab8fe478003166f99588ac674ae1158.png" alt="Cover for Will" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-05</td>
       <td>Hunting Lodge</td>
@@ -156,7 +158,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/v-bJWn-xES_gD5t5qaNVnZgVPaviVM1j_6dgTuqefzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDIz/MS0xNDk1MDM4MDYz/LTE0MjYuanBlZw.jpeg" alt="Cover for Tesco Disco - Heavy Electronics II" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +177,26 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b268a3b489df4747a615f08e7a9ca083.png" alt="Cover for Great White Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-02</td>
+      <td>Whitehouse</td>
+      <td>Great White Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
       </td>
       <td>1985-02</td>
@@ -193,26 +214,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/eERQZ88cK2mJIFKgN327D6JNIgBDOIIojMNKNaMZu6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzc1/LTE1NTc1ODE0MTQt/MTQwNi5qcGVn.jpeg" alt="Cover for Great White Death" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985-02</td>
-      <td>Whitehouse</td>
-      <td>Great White Death</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/nPIKOlc2E7Glh24KT2o7TthpTIkqUFcqw6B1-QGXNvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM2/OC0xMzA1MzIwMzk3/LmpwZWc.jpeg" alt="Cover for Leichenlinie" style="max-width:120px; height:auto;" />
       </td>
@@ -227,12 +229,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 51</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/KmU1pnt_eE2KlwJ3q3Ame0Hfs_2QuJDB8JOrlhT7BXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM2/OS0xMzA1MzIwMTEz/LmpwZWc.jpeg" alt="Cover for Save Our Slaves" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +252,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/bFKfwn5ktFxDR4GV6PeglOWHSbaQN3ViHzQ4gWSWsu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY4/Ni0xMTcwNTAwOTY4/LmpwZWc.jpeg" alt="Cover for Sex U Mas" style="max-width:120px; height:auto;" />
       </td>
@@ -268,29 +270,30 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>1</td>
       <td>
+          <img src="https://i.discogs.com/mLJXgrT3VVcVrwSFpJju9OSHlsrY-SWIC3aSN4nf1Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDEx/LTExNTY0Mjk4NTMu/anBlZw.jpeg" alt="Cover for Test Tube Fantasy" style="max-width:120px; height:auto;" />
       </td>
-      <td>1994-08</td>
-      <td>Con-Dom</td>
-      <td>Acts of Faith</td>
+      <td>1994</td>
+      <td>C.C.C.C.</td>
+      <td>Test Tube Fantasy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 76</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/56j2xF_CMGvl3A2iijOJgJtODmfrnktjkmzIx3liLnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM1/Ni0wMDEuanBn.jpeg" alt="Cover for Acts of Faith 3&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec67db61e397d9268db6268e29097328.png" alt="Cover for Acts of Faith 3&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-08</td>
       <td>Con-Dom</td>
@@ -309,7 +312,28 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26de2ded68cac01c08d62a9e710fbb2e.png" alt="Cover for Acts of Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-08</td>
+      <td>Con-Dom</td>
+      <td>Acts of Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
       </td>
       <td>1995</td>
@@ -324,12 +348,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 18</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/zmsa9nMvEaYWUGtl72UaHsoUo_gqnFp6Ra9htSd4JS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM2/My0xMjMyNDg5ODQ0/LmpwZWc.jpeg" alt="Cover for Mind Control" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +371,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>47</td>
       <td>
       </td>
       <td>1996</td>
@@ -362,30 +386,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/M-B4FNDYI6cwtbyVuTb_KYrb-wjZyOpnHsvR4LjxYxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/NC0xNDg1ODg0ODk2/LTM2NTAuanBlZw.jpeg" alt="Cover for Powerhungry" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-06</td>
-      <td>Operation Cleansweep</td>
-      <td>Powerhungry</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/M-B4FNDYI6cwtbyVuTb_KYrb-wjZyOpnHsvR4LjxYxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/NC0xNDg1ODg0ODk2/LTM2NTAuanBlZw.jpeg" alt="Cover for Power Hungry" style="max-width:120px; height:auto;" />
       </td>
@@ -403,7 +409,25 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e3a1a84ba57136920186801c2840816.png" alt="Cover for Powerhungry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-06</td>
+      <td>Operation Cleansweep</td>
+      <td>Powerhungry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/55yvTzMbgkl1Iz0D0xG_7ONDFdlspqdTM2d5RyDe7vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjI3/LTE1MTg3MzgxNjAt/NDc1Ny5qcGVn.jpeg" alt="Cover for Innerwar" style="max-width:120px; height:auto;" />
       </td>
@@ -418,12 +442,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/IytLwbmJfMVBhKHYKiEppecRNqOlv1CLp3Dq24TGBHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYw/Ny0xMzgzNDE5Nzc4/LTU2NjYuanBlZw.jpeg" alt="Cover for Killed by Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -442,13 +466,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 17</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 41</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 19</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>18</td>
       <td>
       </td>
       <td>1997-12</td>
@@ -465,7 +490,26 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2856c8f66cb58107c817717c255b4446.png" alt="Cover for Children of God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Haus Arafna</td>
+      <td>Children of God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/vebIeSU_ef7nKc7neVJtBP7JQqzPsxlDLTSHs_VHkcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUz/NzUtMTE5NzQ5NjUw/Mi5qcGVn.jpeg" alt="Cover for May All Be Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -482,31 +526,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 88</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/NZvtsIzoo-vj6-0496WtzyYInT1HQZDxYu1riIWWFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIy/NzYtMTE5ODA5NzY4/NS5qcGVn.jpeg" alt="Cover for Children of God" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Haus Arafna</td>
-      <td>Children of God</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/OLJ2MSzlY5JC9qSNT9Z9fyxKZfVJSDzl0I7rS2F5neo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQx/LTEyMDg4MDMyMDEu/anBlZw.jpeg" alt="Cover for Mummy and Daddy" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +549,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>48</td>
       <td>
       </td>
       <td>1998-09-14</td>
@@ -541,8 +566,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11938b6e5eb9539500d6521798bafd89.png" alt="Cover for From Heaven on Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>November Növelet</td>
@@ -557,12 +583,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>58</td>
       <td>
       </td>
       <td>2000</td>
@@ -581,8 +607,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95a3bb24fb4dd734fa496e18ec27f18f.png" alt="Cover for Oedipus Dethroned" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11</td>
       <td>IRM</td>
@@ -598,32 +625,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/GV1YgtWN8aOtcoZ9PzSpi9XOGiAjphn7vjs_Pfa0mc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/OS0xMjAzOTU4MTA0/LmpwZWc.jpeg" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Propergol</td>
-      <td>Renegade</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 49</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/IegSdh6qQ2SYBrWF_uq_OVw7gN4xEfiwx_1mxTg3OwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzEx/NTEtMTI5NDEyMTM4/MS5qcGVn.jpeg" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db2d147c10359c2392cd007471609d1.png" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Kid Rock</td>
@@ -691,26 +695,26 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       <td>
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 2</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 9</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 29</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 4</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 11</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 21</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 35</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 39</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 39</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 40</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 50</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 57</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 61</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 62</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 81</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 82</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 83</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 87</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 83</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 87</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 87</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 88</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 89</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 93</li>
@@ -718,25 +722,30 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>66</td>
       <td>
-          <img src="https://i.discogs.com/PaUbBx6TX4gAP272lhIqsTsa8GSBgl48pPLtavk2v_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQ1/LTEzOTg2MzEyMzIt/ODU1NS5qcGVn.jpeg" alt="Cover for Cruise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9afad0b14fcc60ba30ae4c0c958a4e29.png" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
-      <td>Whitehouse</td>
-      <td>Cruise</td>
+      <td>Propergol</td>
+      <td>Renegade</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 49</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/tbH8tSFw9SC1nhyipWRRQY688ACOluatjIjjcO47_AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODUt/MTE3NTI1ODQ5MS5q/cGVn.jpeg" alt="Cover for Transmix" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +765,25 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/PaUbBx6TX4gAP272lhIqsTsa8GSBgl48pPLtavk2v_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQ1/LTEzOTg2MzEyMzIt/ODU1NS5qcGVn.jpeg" alt="Cover for Cruise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Whitehouse</td>
+      <td>Cruise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
       </td>
       <td>2001-03-12</td>
@@ -774,7 +801,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
       </td>
       <td>2002-09</td>
@@ -791,7 +818,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/PSFyM0H61rth4c8Z8yU3rr3sLBKjWVOfVS8Ph8t6VG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzkx/NC0xNTI1NDM1MzE4/LTgwMjkuanBlZw.jpeg" alt="Cover for Noehaem" style="max-width:120px; height:auto;" />
       </td>
@@ -808,13 +835,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9cfc709459845e093977e6f81eb497d.png" alt="Cover for Bird Seed" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-13</td>
       <td>Whitehouse</td>
@@ -830,7 +858,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/J-tmi1IM2E5hKp802a3GqWxfDA5vPZADWkWwWDufFNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ3/Ny0xMTkyNjU1NjEy/LmpwZWc.jpeg" alt="Cover for Genocide Organ" style="max-width:120px; height:auto;" />
       </td>
@@ -846,14 +874,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 64</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>28</td>
       <td>
-          <img src="https://i.discogs.com/C3ioFtOglGpAQQlsgu4Y_HzBPJNj7leLZwZkkc0OXF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM4/Mi0xNDk4MzgwMjY2/LTgxMTMuanBlZw.jpeg" alt="Cover for Butterfly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05920902886d4051b62d060951a4ff94.png" alt="Cover for Butterfly" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-01</td>
       <td>Haus Arafna</td>
@@ -869,7 +897,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>92</td>
       <td>
       </td>
       <td>2003-06</td>
@@ -887,17 +915,17 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 80</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 81</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 99</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/hmhwnWaayVHsk0H1eZrEOXcU_ib8BHeFZsCiLwTrshM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTcx/MS0xMTgyMDg3OTI3/LmpwZWc.jpeg" alt="Cover for Disturbance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b520fd50d927b3395becef12297a396a.png" alt="Cover for Disturbance" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-01</td>
       <td>Winterkälte</td>
@@ -913,7 +941,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/FV_R5Lp8lSTnFoyJ2YsQpEGbgsoLSyaSCNh4JZmkxlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU0/MzE4LTE2MDI2NjE5/NjktMTMyNy5qcGVn.jpeg" alt="Cover for : In-Konflikt :" style="max-width:120px; height:auto;" />
       </td>
@@ -932,8 +960,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/916b1256003e0dd9818ba49f461d1131.png" alt="Cover for 15 Seconds" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12-15</td>
       <td>Monolith</td>
@@ -949,7 +978,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005-03</td>
@@ -967,13 +996,13 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 16</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 27</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 17</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/dD_poTuiXOY7IJ5b_Ae-h3aK0e8XNFWWLh7DYqPB3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/NC0xMzMwNTA3ODQ4/LmpwZWc.jpeg" alt="Cover for The Struggle Never Ended" style="max-width:120px; height:auto;" />
       </td>
@@ -990,32 +1019,15 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 60</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>37</td>
       <td>
-      </td>
-      <td>2006</td>
-      <td>Whitehouse</td>
-      <td>Asceticists 2006</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/IjNSKVL8nFFpH-P4uajE_BoMlPYKH2SnxJjxfLOX7Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTgy/My0xMTQwOTcwNTA4/LmpwZWc.jpeg" alt="Cover for Quarantine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/285629b46b8c4507c5bdc64dd21139c4.png" alt="Cover for Quarantine" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Maska Genetik</td>
@@ -1032,7 +1044,24 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Whitehouse</td>
+      <td>Asceticists 2006</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/fvitpSGI0waqrpdMaEMZU3JUwVQaMntym1IHSMTzqzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ2/OC0xMzU3Mzk0NTgz/LTY0MjAuanBlZw.jpeg" alt="Cover for Beats, Noise and Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,8 +1079,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52bfde13c49c469287b22f793de1eefe.png" alt="Cover for Pleasure Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11</td>
       <td>Prurient</td>
@@ -1067,7 +1097,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/3zzPL5s3buTado6jyPONQAUs5ParXONyKYDsphGqEAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk2/MTMtMTE4OTk3NzEz/My5qcGVn.jpeg" alt="Cover for Faces" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,8 +1115,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdba205ae56f3d708df6838fb079b51e.png" alt="Cover for Racket" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-31</td>
       <td>Whitehouse</td>
@@ -1103,7 +1134,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>93</td>
       <td>
       </td>
       <td>2008</td>
@@ -1120,7 +1151,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>14</td>
       <td>
       </td>
       <td>2008-06-13</td>
@@ -1135,12 +1166,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>94</td>
       <td>
       </td>
       <td>2009</td>
@@ -1154,12 +1185,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/G_VbzQfcd6_39ZMxR124TIzgT7QRi4kFsMtdfieuzHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTk1/ODMtMTI0MjEyNDY3/My5qcGVn.jpeg" alt="Cover for Crowd Pleaser" style="max-width:120px; height:auto;" />
       </td>
@@ -1179,7 +1210,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/kwk-K8y-_2WmefQ5oBcLuuHPtU_oTE0wGxfuqt6c7g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc1/OTItMTI0NDkxNTQ4/Mi5qcGVn.jpeg" alt="Cover for Miasma" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,9 +1228,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Ckt4U4eu4WIXArFHkDVa0thd03MzXXges_isWQZQMQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM3/NDktMTM2Njk2ODUw/OC01NjE2LmpwZWc.jpeg" alt="Cover for Cremations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/096107f190d64fae8f6bef4a27451b40.png" alt="Cover for Cremations" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08</td>
       <td>Cold Cave</td>
@@ -1217,14 +1248,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/LXQu9sfofkx0IFasFNkuajq-g19Rc68VyWYNmraou6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg3/NDAtMTY4Mzk5NzYy/Ni0xOTgxLmpwZWc.jpeg" alt="Cover for Mutt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e503ef104a4b5ba22f5d88c3b5c3fd.png" alt="Cover for Mutt" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>Total Abuse</td>
@@ -1242,8 +1273,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c2310376f6df23833d8768aa2567a02.png" alt="Cover for You" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-01</td>
       <td>Haus Arafna</td>
@@ -1260,9 +1292,28 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/e8BtaV3R9ze80C9wIz-mFtP5t_AHcjgmMAyk9PKFjXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTIy/ODAtMTM5NTI3OTQ2/Ni01MDcyLmpwZWc.jpeg" alt="Cover for Funeral Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a099cde235461ba9e8a9f729c1fb81.png" alt="Cover for Strada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Maska Genetik</td>
+      <td>Strada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a6aec6a38ac40bd8335f874ddded77d.png" alt="Cover for Funeral Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Cremation Lily</td>
@@ -1280,27 +1331,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>64</td>
       <td>
-      </td>
-      <td>2011</td>
-      <td>Maska Genetik</td>
-      <td>Strada</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/qsMOt75y0Xy07rrYlz5in1zxb9g7ml7MoNhmPAsO8l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc2/NzktMTQ5ODM4MjE0/Ni0yMzg2LmpwZWc.jpeg" alt="Cover for New York Rhapsody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d3c208b0b043039cf89273a097e0bd.png" alt="Cover for New York Rhapsody" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-01</td>
       <td>Haus Arafna</td>
@@ -1316,8 +1349,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5266c05d0cf1b4e1a797366796300c.png" alt="Cover for Under-Kontrakt" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05</td>
       <td>Genocide Organ</td>
@@ -1333,9 +1367,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/TpzyeaBQAu1uN0eS2K7_K45lNXMMsBIL4C6B7AMMcIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDgx/NTctMTMyMDc1ODMy/NC5qcGVn.jpeg" alt="Cover for Time&#39;s Arrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eeea29861294b82cbec43b4466afff4.png" alt="Cover for Time&#39;s Arrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-25</td>
       <td>Prurient</td>
@@ -1353,9 +1387,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/XvK75yjYn7q2iXUY6TmZaWQofnqYoEIEo6GwaZGeEic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ2/MTUtMTMyMzQ1NzE4/MC5qcGVn.jpeg" alt="Cover for Transport" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14c83284e3c34ceb83af43886aed8287.png" alt="Cover for Transport" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-05</td>
       <td>Om Unit</td>
@@ -1373,8 +1407,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10d2317bdd6a57c6cb20ba301229f69.png" alt="Cover for Pallit ja Sielu" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-29</td>
       <td>Luomuhappo</td>
@@ -1395,28 +1430,26 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575fadd71220ddb393ac65f4798e3cab.png" alt="Cover for My Teenage Dream Ended" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-01</td>
       <td>Farrah Abraham</td>
       <td>My Teenage Dream Ended</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 84</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/U75AWkjZEauLqrWQxLlSfA0bwJXWUU4ie6WEG8k0LVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjAw/MTktMTQxOTc4Njcz/Ni01NTA5LmpwZWc.jpeg" alt="Cover for Ascending a Mountain of Heavy Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,13 +1465,13 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 67</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 71</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>50</td>
       <td>
       </td>
       <td>2014-02-28</td>
@@ -1455,8 +1488,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42fbc364c42db607b44c01507e7c281.png" alt="Cover for I Will Remember It All Differently" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-08</td>
       <td>Alter Der Ruine</td>
@@ -1477,15 +1511,15 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 33</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 46</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 49</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 34</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -1561,66 +1595,67 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 7</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 36</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 47</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 57</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 64</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 64</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 68</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 85</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 91</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/LkgwwyIxCLOypfdqwiSE25HDP81crfCBThQqUczW25g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg1/OTczLTE1Njc1Nzcw/MzktODcwNy5qcGVn.jpeg" alt="Cover for Birdseed" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,32 +1673,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>86</td>
       <td>
-      </td>
-      <td>2014-10-14</td>
-      <td>Pharmakon</td>
-      <td>Bestial Burden</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 5</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/cfqNzWVLe1Vo6ccPCXPpMpepuq8pfuJkiUYx6umkKRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzI4/MTItMTQxNDMzOTk2/Mi00NDg5LmpwZWc.jpeg" alt="Cover for Estuary English" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afe0daefa4c348aec82b88f60e20d259.png" alt="Cover for Estuary English" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-20</td>
       <td>Consumer Electronics</td>
@@ -1679,9 +1691,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/ELZD_IxPBZYRJW4E-ZeybgakHWaH9iucOF4-Og6Lezc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDg0/NzktMTQyOTI4NjM5/Mi04NDE4LmpwZWc.jpeg" alt="Cover for ...Want You Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1ea49a0886f0f1278e179fb721bf792.png" alt="Cover for ...Want You Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-28</td>
       <td>Karjalan Sissit</td>
@@ -1699,14 +1711,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       <td>
         <ul>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 61</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/6UfJnLElmr6KEtQe0fNRe3-_ExLETfkMZN-wuKEUyL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk2/NTYtMTQyNzcxOTcy/OS0zNjY1LmpwZWc.jpeg" alt="Cover for Vegas Fountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fed18ee87361f5236a50e3fa90b0302.png" alt="Cover for Vegas Fountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-30</td>
       <td>Damien Dubrovnik</td>
@@ -1722,14 +1734,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/1rPTqzITefdczu6YvgqnXaBQdGKT-OCvjyKYxZvBPg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjky/NzctMTQ0NTQ5MjI4/OS05MDY5LmpwZWc.jpeg" alt="Cover for The White Horse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67d711f4c7cee66e6582264d165daa6.png" alt="Cover for The White Horse" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-28</td>
       <td>Ansome</td>
@@ -1749,30 +1761,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/qqNQ4mslkzy-avHmEL4zZAGLod5ri7hGK8G2DsszoJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzY2/NDEtMTQ3NDM1NDA2/NS05OTA3LmpwZWc.jpeg" alt="Cover for End Position" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-09-16</td>
-      <td>Street Sects</td>
-      <td>End Position</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 23</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 85</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/DvT8KNIYOgmvQfY5_w5wxgQ3o_-7X787pyYCUBw1RWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NjgwLTE1MDgxNzkx/NTYtNDExNS5qcGVn.jpeg" alt="Cover for In the End I Am a Beast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40539e715ebcecabc14f0c8a82db2cc6.png" alt="Cover for In the End I Am a Beast" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-18</td>
       <td>Lana Del Rabies</td>
@@ -1789,13 +1778,13 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 30</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 31</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/klZNqsOYgdyvmH8EQPB04lM-hYYYu7ZQpLyQf4pIZmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/NDUzLTE0OTk1Mzgw/NDMtMzAwOC5qcGVn.jpeg" alt="Cover for LET THE EVIL OF HIS OWN LIPS COVER HIM" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,13 +1801,13 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 89</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/jJpgQR84zNmPjgmB3dKzdvhfdv2j4hEeMSnIOiM14j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY2/NDkzLTE1MDc4OTM0/MzktOTgxOC5qcGVn.jpeg" alt="Cover for Psychic Drift" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1825,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/n04hWYyfvpUBuf-LAe6YXGhYjoVb41226nnTzcOMDU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM5/NDI3LTE1MDY4NjMy/MjctODI3NC5qcGVn.jpeg" alt="Cover for Kainskult" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,17 +1847,17 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 82</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/XKt8bv1UM2utS75K526XV-9r0NJkzQqSMc0PYn2dPRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/NzIwLTE1ODg5MDY3/NDYtNTMyOC5qcGVn.jpeg" alt="Cover for Shadow World" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,14 +1876,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       <td>
         <ul>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 75</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/ALpBf0FxWorw3Zs7Vu1LIvsfodOTgUgVwTA6jDeEEvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDky/ODEzLTE1Mjg0OTk0/NjctMjQzMS5qcGVn.jpeg" alt="Cover for Mental Wounds Not Healing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97fec92d0b1813135f8c5fda632040bf.png" alt="Cover for Mental Wounds Not Healing" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-08</td>
       <td>Uniform &amp; The Body</td>
@@ -1913,9 +1902,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/HX8bbWmnHr_r1JeEVGpguZ3iBIjDDaeifWSwF3CDtIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIx/MjYzLTE1MzI4ODY5/MzItMjM3MC5qcGVn.jpeg" alt="Cover for The Long Walk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df47902f381f6c1c755a4a3b55fe63cd.png" alt="Cover for The Long Walk" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-17</td>
       <td>Uniform</td>
@@ -1933,14 +1922,14 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 77</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>72</td>
       <td>
-          <img src="https://i.discogs.com/WGDIxbGuGhLJKjYr-TM5kh3uoZOV5jmFlOW5x2EE59g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg0/MzU3LTE1NDU5MDQz/NjAtNzcxNC5qcGVn.jpeg" alt="Cover for 1312" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3bb3496113e258e38359b3a9d5a40e2.png" alt="Cover for 1312" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-21</td>
       <td>The Empire Line</td>
@@ -1958,9 +1947,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/b-kxc9vK0WMLMdK0AlaGvKGuwg8n2dlAZqaYtIxn42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MTg0LTE1NTk0NDM5/MzctMTg1MC5qcGVn.jpeg" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88e4768ee398638aa83b2dc160e366f.png" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-14</td>
       <td>Uboa</td>
@@ -1974,15 +1963,16 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 99</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/5_lbPtMMy6BPLnX_tBnq69TQf6egKG2v3uBI0frW0xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/NzA3LTE1NTExMDEx/ODMtMjI0MC5qcGVn.jpeg" alt="Cover for Welcome To The Pleasure Dome" style="max-width:120px; height:auto;" />
       </td>
@@ -2003,7 +1993,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/zlcSNpFDhQeTXbHFDv4hSgKC2iWuBOQ74HJi_G25cV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/MDQ4LTE1OTM5NjY1/NzktODE5MC5qcGVn.jpeg" alt="Cover for tower block knife crime" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,15 +2011,15 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 36</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 43</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 55</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 37</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 44</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 54</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -2106,76 +2096,77 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 73</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/9KN8nTqv5JDCy_V3dil-HR9y2VBLc3NF_eB2eBQbyKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc1/ODE3LTE1ODkwNDcz/NTctNTg4MS5qcGVn.jpeg" alt="Cover for Hair Birth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64abe63f68b6e169a94fd5c5631cbbe1.png" alt="Cover for Hair Birth" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-10</td>
       <td>Evicshen</td>
@@ -2190,12 +2181,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 30</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/gsHOh-4ozGE2RRkvXqeaTimFdFfvYqusmymSkJ7cvck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ0/NzI2LTE1OTUxMjE1/NDItNDY5Ny5qcGVn.jpeg" alt="Cover for WOUNDFUCKER" style="max-width:120px; height:auto;" />
       </td>
@@ -2212,12 +2203,12 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/UHsWlK4rKRrk7DTq6xFcKO8KZa4t4CoDqHbHk_g3Xwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjUw/Ni0xMzQ3MTE4MzI1/LTE0NTMuanBlZw.jpeg" alt="Cover for In Konflikt" style="max-width:120px; height:auto;" />
       </td>
@@ -2237,9 +2228,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>10</td>
       <td>
-          <img src="https://i.discogs.com/QgssqI1ULjVSiUVcoFZX8nR1vHv7AkSbDKW27A-zbS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjA3/OC0xNDM3NDEyNzQ2/LTI5MDAuanBlZw.jpeg" alt="Cover for Folk Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfdb4bf8f051abefed7f8c81b5aa8005.png" alt="Cover for Folk Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-12</td>
       <td>Grim</td>
@@ -2257,7 +2248,7 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2334,68 +2325,73 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 56</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 9</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 10</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/bL8x7BVczzun9II_wyKJUHNeQXzX-8-2GmXJkb64vho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDAy/NzkwLTE2NjcyMDgy/NzctMTUyMy5qcGVn.jpeg" alt="Cover for Man With The Magic Soap" style="max-width:120px; height:auto;" />
       </td>
@@ -2415,9 +2411,9 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-10</td>
       <td>Sam Hunt</td>
@@ -2494,77 +2490,77 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 39</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 45</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 59</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/7iZA8gPOzVlUIvqxKs-xeCAoKrYnTervWhAtAeNlFOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDcx/MjYwLTE3MTAxOTQ1/ODktNDAzMS5qcGVn.jpeg" alt="Cover for Beautiful Things" style="max-width:120px; height:auto;" />
       </td>
@@ -2595,18 +2591,18 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 100</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 100</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 100</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/QoIez2DQ-5qr4go7OoT2ak-EXQoetnmsBKrvmh8_AOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODg4/MTU5LTE3Mjc4NzEw/MzYtNzkyNS5qcGVn.jpeg" alt="Cover for Maggot Mass" style="max-width:120px; height:auto;" />
       </td>
@@ -2622,7 +2618,27 @@ Power electronics is an extreme form of noise music characterized by harsh, dist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f21acda9b18d4cc708ab7d9c82bf759.png" alt="Cover for SPEED" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Empire Line</td>
+      <td>SPEED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

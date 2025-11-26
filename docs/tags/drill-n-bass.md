@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:16:06.120Z
+date: 2025-11-26T14:26:38.012Z
 permalink: tags/drill-n-bass
 title: drill n bass
 ---
 
 ## drill n bass
 
-Last updated: <time datetime="2025-10-22T06:16:06.120Z">Wed Oct 22 2025 09:16:06 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-26T14:26:38.012Z">Wed Nov 26 2025 16:26:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,7 +93,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/nGYMb36vdvZ0dxbwy1zsjn4ud-8qx9ZPTLHUweA47tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ1/LTExOTM5NDkwNjQu/anBlZw.jpeg" alt="Cover for The Destroyer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a2bf2228898dc2ec08b010157be226b.png" alt="Cover for The Destroyer" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Alec Empire</td>
@@ -106,9 +106,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 11</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 44</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 8</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>1995-08</td>
@@ -173,9 +173,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/tG8VnJ5sYplHG5XYNsoEmUvumo5SdssjD1zVBs9cXIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM4/ODgtMTE5MTM4OTY4/Ny5qcGVn.jpeg" alt="Cover for Cut The Pussies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40ef20d0307b4fdc9bcd3e97d6998655.png" alt="Cover for Cut The Pussies" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Alec Empire</td>
@@ -202,7 +202,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/T1CeRKJyPOY5-oSU06BJqf8firUU_lLJWFK8jf9Qw4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY2/ODMtMTI2MTM0MDIw/Ny5qcGVn.jpeg" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6aa658906e01e1602d7336265b69d6.png" alt="Cover for Anorak Twat" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eggplant</td>
@@ -250,15 +250,15 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 26</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 34</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/l_l2ExSaNb7l13Qn_Rg9z4c5_E3BnatZOsG9detrZcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzA2/MzctMTMzNDA4MDg5/Mi5qcGVn.jpeg" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fa898dea74448e69336ed3520f551fb.png" alt="Cover for Catgirl" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eggplant</td>
@@ -306,16 +306,17 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 53</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 56</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 57</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/jueANmPiCF9Zf2tSbQEO5wxphwOYP7sddeiy4a8VP6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU3/LTE2Mzk4NzkzNDUt/NDI2NS5qcGVn.jpeg" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88207c0b19d84d77936a25765c75cf9e.png" alt="Cover for Polymorphic EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-10</td>
       <td>Richard Devine</td>
@@ -363,16 +364,16 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 45</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 49</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 52</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 51</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/8J4Bh32cL0TIyGqBHQUWaVVg6ek0rmfXZDIBChPIlaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODEt/MTE2NzQ1MjMzNi5q/cGVn.jpeg" alt="Cover for Squeeze the Trigger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dd628a5eaac82502695e794484dcdf9.png" alt="Cover for Squeeze the Trigger" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Alec Empire</td>
@@ -384,15 +385,15 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 28</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 41</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6544038391a14955af0519e4abf354a4.png" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05</td>
       <td>Björk</td>
@@ -404,13 +405,13 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 37</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 95</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -440,8 +441,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31ec1a33625bb13b2293d814de611b34.png" alt="Cover for Do Unto Others" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-09</td>
       <td>Luke Vibert</td>
@@ -480,26 +482,25 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c0fa6274d724b6993752e98c20a05d3.png" alt="Cover for Big Loada" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-07-21</td>
       <td>Squarepusher</td>
       <td>Big Loada</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 88</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
       </td>
       <td>1997-11-10</td>
@@ -520,7 +521,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/59Qb6-VTg1hBMdKYxdQodlISGGTYD5d3I1FbD8PqoPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQy/LTE2MTk0NjE5OTAt/OTAyOC5qcGVn.jpeg" alt="Cover for No Savety Pin Sex E.P." style="max-width:120px; height:auto;" />
       </td>
@@ -540,37 +541,30 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-01</td>
       <td>Björk</td>
       <td>Bachelorette</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 98</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 99</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
@@ -593,12 +587,12 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 12</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>1998</td>
@@ -648,11 +642,11 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 42</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 78</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -679,8 +673,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9cd9b529c4e484a9f8dcd82b307d6d4.png" alt="Cover for Brace Yourself" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-05</td>
       <td>µ-Ziq</td>
@@ -716,7 +711,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/JO8yCNJn-TaDdrFawl0ydOTs-D2CTGceZaRvpDrpwaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDU4/NS0xNDQ2MTEwNzQ0/LTMxMDQuanBlZw.jpeg" alt="Cover for Rotator Kids Vs. Slam" style="max-width:120px; height:auto;" />
       </td>
@@ -797,7 +792,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 5</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +811,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 8</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 91</li>
@@ -840,12 +835,12 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 4</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/h-6OjJSjd0vIe1JTRWYlD0tgDLhUNmiNasgKL5mUfIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjIt/MTE5Mzk1NjgwMC5q/cGVn.jpeg" alt="Cover for Lip Switch Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -938,8 +933,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4d58e1cf4154b61d096c4386c98037.png" alt="Cover for Go Plastic" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-16</td>
       <td>Squarepusher</td>
@@ -951,13 +947,13 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 69</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 77</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2001-11-21</td>
@@ -1000,9 +996,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/4eAERxnqGiSaQzf49mtpurS_6GCoy4iju1-SUfIdFd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI1/MC0xNjMyMzMxNzI3/LTg1NzcuanBlZw.jpeg" alt="Cover for Root" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16aa70dacc0145d585f0d3fa71e5ad83.png" alt="Cover for Root" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Alec Empire</td>
@@ -1040,12 +1036,12 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 30</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
       </td>
       <td>2003</td>
@@ -1060,7 +1056,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 16</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1144,6 +1140,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5533011ec39c4814b65c3a8d16e8fe4d.png" alt="Cover for Ascension Chamber" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02</td>
       <td>Hecate</td>
@@ -1201,18 +1198,19 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 36</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 56</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 57</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13bbfac90dd94872b0c81baa8554221c.png" alt="Cover for Project 56" style="max-width:120px; height:auto;" />
       </td>
-      <td>2005-02-01</td>
-      <td>The Flashbulb</td>
-      <td>Kirlian Selections</td>
+      <td>2005</td>
+      <td>deadmau5</td>
+      <td>Project 56</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
@@ -1224,8 +1222,26 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef2856e421d47b0da0b99ec67fdaf4a.png" alt="Cover for Kirlian Selections" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-01</td>
+      <td>The Flashbulb</td>
+      <td>Kirlian Selections</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b5b1248e0e16437fcb0df35b7dcb890.png" alt="Cover for Winnipeg Is a Frozen Shithole" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-15</td>
       <td>Venetian Snares</td>
@@ -1237,7 +1253,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1270,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 67</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1341,7 +1357,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/oMbQAzAG-zVSixhKoAaClVsUr1--Mlmuj3hd3puOHDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/MzgtMTE4MjkwODg4/NC5qcGVn.jpeg" alt="Cover for Plain Cats" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/672fbd41208232f393b413070fbd76ea.png" alt="Cover for Plain Cats" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-19</td>
       <td>Master Eveleigh</td>
@@ -1386,7 +1402,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1406,13 +1422,14 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 65</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/919e13a20c4e42fca5f658e5b6de10c5.png" alt="Cover for Summer Of Smoke" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Hecate</td>
@@ -1456,7 +1473,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/ugLKh1UhFaIuZNjk7QXDhuHYrtdAQCPf4hpvnu95iZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM2/NjAtMTUyMjIzODAx/OS05OTA5LmpwZWc.jpeg" alt="Cover for deadmau5 circa 1998-2002" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32377718eed4418394510c266af47628.png" alt="Cover for deadmau5 circa 1998-2002" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12</td>
       <td>deadmau5</td>
@@ -1475,14 +1492,14 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/KIy4df_dV5jQ_W_o8WMOQ_ruSOwBB2F3ugVAZ-H8vOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIx/MzYtMTI5MTE1NDgy/MC5qcGVn.jpeg" alt="Cover for ...Finally Released" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35a7bb455f124bee8ce72cb15065b749.png" alt="Cover for ...Finally Released" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12</td>
       <td>Syndrôm</td>
@@ -1540,42 +1557,16 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 20</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 15</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 65</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/AI2_nfQEFT9Wasy4qaA-ftbc-nEU09dLXdPTkwL59jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTky/OTg0LTE1OTY4OTkx/MDUtNjI3OS5qcGVn.jpeg" alt="Cover for Behemoth" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>ManSlaughter.</td>
-      <td>Behemoth</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Y05918f1_4Ek4p19O_ko_9U_txkWyl9bMc7li7y3avE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTMx/NTctMTI0MzcwMDM5/OC5qcGVn.jpeg" alt="Cover for Insect Drips" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bf2a6d871cd8d0dc3b030feea5506e0.png" alt="Cover for Insect Drips" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Goatsniffer</td>
@@ -1601,14 +1592,15 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 34</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 35</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1c51a289f8612de3d9b45ce33fd7c5.png" alt="Cover for Ascension of Gore" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Maggots In The Scarecrow&#39;s Eye</td>
@@ -1679,6 +1671,23 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/485a86976d19ecff8b6311f4b3b6559b.png" alt="Cover for stuff i used to do" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>deadmau5</td>
+      <td>stuff i used to do</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>48</td>
       <td>
           <img src="https://i.discogs.com/JeBlGdJF-U8QPbGaWUyiaKdF-byNXt2oIOIuacQElcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg5/MjMtMTI2NTAxNjE2/NS5qcGVn.jpeg" alt="Cover for Un Ragondin Dans Le Jardin" style="max-width:120px; height:auto;" />
@@ -1719,14 +1728,14 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/KtJN2b4NYpQJidRdLUmyv0jO_uncoW38E7Fxo28p97g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/MTctMTMxMTQ2ODI0/NS5wbmc.jpeg" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d2c8cec19f24d00cdf1abbb258525f5.png" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Shyft</td>
@@ -1757,7 +1766,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/SuBBBckUOv6tUGse8mjYqjv6vyEeKEdVGKVnJsg2XEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg0/NTAtMTI4MTQ3MjI1/MC5qcGVn.jpeg" alt="Cover for Coincidentia Oppositorum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/455f8335ed954cdb9583d104a18c238f.png" alt="Cover for Coincidentia Oppositorum" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-06</td>
       <td>Erothyme</td>
@@ -1794,14 +1803,14 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 16</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/qzFOwDxH9PZjkAWlbjgxbgRUp9PSUV4gKvIgQB9P-4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY0/MTEtMTI2MjYyODU3/OS5qcGVn.jpeg" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2494ab7896927614fc339b3dc492b6d.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-11</td>
       <td>PharmaCore</td>
@@ -1820,7 +1829,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/edbzJAn0k3TQHgmCWcitqYTMNqTgNR-0sn7Xyghzj24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/MzktMTI2NDQyMzI0/OC5qcGVn.jpeg" alt="Cover for Still Exist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84624abf7f9b8d191ad179b2ced19786.png" alt="Cover for Still Exist" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>Soul Scientist</td>
@@ -1844,14 +1853,13 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/j-fNNUdwaLS2jLmOhJ9AOIGrw_n6fJXKTUmQVGxHOgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgy/MTk0LTE1Njc1MDgw/NTItMzQ0My5qcGVn.jpeg" alt="Cover for 36 Feet Under" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9abc0d13797c48ec820605c81b846746.png" alt="Cover for 36 Feet Under" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-08</td>
       <td>Tiruset</td>
@@ -1883,7 +1891,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/_QgrXxz_4QPBN_AK6iAKqAPjcCZ0Oqsx1RTM674dPkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjQtMTI3MDQ5NzQx/OS5qcGVn.jpeg" alt="Cover for Warrior Of Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79c568ea8ef0de39be7938aa54f37d6.png" alt="Cover for Warrior Of Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-11</td>
       <td>Bouwakanja</td>
@@ -1926,9 +1934,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/pXM6WCwm6P7XnPbxchfYiue_ucgTJSKCMWiJbV7iL64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk0/MTYtMTI3MTY4NzI5/OS5qcGVn.jpeg" alt="Cover for The Black Limousine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac2d0561dc6ef049882be623aae0e8b.png" alt="Cover for The Black Limousine" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-01</td>
       <td>Sam Pleater</td>
@@ -1964,13 +1972,14 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 14</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b94b6bee98414f87cd89d9899aa27a.png" alt="Cover for Triton À 5 Pattes" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-15</td>
       <td>Le Perche Oreille</td>
@@ -1990,7 +1999,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/ACggzHnLA_i-XPs2KSWQRvWRPCa1vYUJ8C9XlZiGFLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njg5/NjgtMTM0Nzg0NTIw/OS04MTkwLmpwZWc.jpeg" alt="Cover for Walk Over The Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37a985f631b428db305986476797677.png" alt="Cover for Walk Over The Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-17</td>
       <td>Lantriperc</td>
@@ -2009,7 +2018,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/un6lcmXgRkL_aFB0eyvyz8X3oFBebPRXsX0r2lGDT64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYx/MDYtMTM3ODIwOTc5/OS05MDU3LmpwZWc.jpeg" alt="Cover for Wifof" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2074,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/cQHXRaza9WCgnDe7z-Wzu_B_i0ExWr-c2MlN2nIffyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzMw/MDktMTM2MTk5ODIx/Ni0xNTU0LmpwZWc.jpeg" alt="Cover for Lost And Fuct-Over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4d09d8c1eedd67286adb85f4653b43.png" alt="Cover for Lost And Fuct-Over" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-01</td>
       <td>Laf-O</td>
@@ -2083,9 +2092,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/CPVYex1oXzG7zj0MuhoTSXAV3WatYsEJgyvFFib23Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODU1/MzctMTM2NjIzMjU5/OC02MDU2LmpwZWc.jpeg" alt="Cover for Earthbound EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f55e88f3599348e28146bd32a1403bd7.png" alt="Cover for Earthbound EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-08</td>
       <td>Syndrôm</td>
@@ -2134,15 +2143,15 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 25</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/pk-hXnec-WEUoEjFo0DV_JphxeWHj13zl93NUZeGbcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzk4/MzAtMTQzMDg4OTMz/OS04NjQyLmpwZWc.jpeg" alt="Cover for Grush" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcc9c926d2023d50126783da1f8a6eec.png" alt="Cover for Grush" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>µ-Ziq</td>
@@ -2186,9 +2195,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/S5UaSLOjYPuzZzDcAw3hzPa5gNRJMzD99FlzbBBFMlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQx/OTI0LTE3MTI1OTk4/MzEtMjEyMC5wbmc.jpeg" alt="Cover for Remain The Duration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63b214d8dbf6411cbc4265c508588ea9.png" alt="Cover for Remain The Duration" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Zero Acid</td>
@@ -2209,7 +2218,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/IvwfWa8lhui5_w7ZC2vONKKqBIyE_cbSByntVw-_eEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjUx/MzM1LTE1NTgyOTAz/NDktNDk3MC5qcGVn.jpeg" alt="Cover for ManSlaughter" style="max-width:120px; height:auto;" />
       </td>
@@ -2235,7 +2244,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/WuIOWbXUT7ZMfvgJ-8LUhVEGFboDCsVW4kY9tF60Q0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/MzI3LTE2MjI2NjEz/MzItMzU0My5wbmc.jpeg" alt="Cover for Butterfly Tetrad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7529834d8c17c6016acb614f5ac3ae9.png" alt="Cover for Butterfly Tetrad" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-02</td>
       <td>DOWNHILL2k01</td>
@@ -2250,6 +2259,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 3</li>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 98</li>
         </ul>
       </td>
@@ -2257,7 +2267,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/J5EO75T98Fd7riodLm6jtJ_H6Rdca0r7nYG64fDrXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTI4/NjAtMTM1NDI0NzA1/Ni00NDUwLmpwZWc.jpeg" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d633f51991e4e57a2195196c2d850a6.png" alt="Cover for Richard Devine EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Richard Devine</td>
@@ -2306,15 +2316,15 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 29</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 36</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/hLkf365-6Atu9icxEH0YKwIoDgCCmfQ10hBI1LDxn6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA2/ODIzLTE3MTMyMDEw/NTEtMTc3OC5qcGVn.jpeg" alt="Cover for Etc. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f777441abc2229dd6d4ac91fb702e3.png" alt="Cover for Etc. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-18</td>
       <td>tdstr</td>
@@ -2335,7 +2345,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/7s2ifXes5oWumPD3FfTB4x61Uqyx9mG2MvpmXfOVxOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcx/MzY4LTE2NTI4ODk4/MzEtNzQ4NS5qcGVn.jpeg" alt="Cover for MELTY DEPENDENCY UNLIMITED" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cfb5d6fd9a6ce7e112f509ff299578e.png" alt="Cover for MELTY DEPENDENCY UNLIMITED" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-26</td>
       <td>CHAOS&#x2F;&#x2F;BARISTA</td>
@@ -2385,6 +2395,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf07d3dc6ce1b313b28ee9a48d4215d1.png" alt="Cover for Smile (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Isoproflex</td>
@@ -2399,7 +2410,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 47</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2443,9 +2454,9 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 16</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 66</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 75</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2489,33 +2500,10 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 3</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 34</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 2</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 30</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 81</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Otrembu Eio</td>
-      <td>A Post-High School Compilation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2554,6 +2542,7 @@ Drill n bass is an intense, hyperkinetic style of electronic music that emerged 
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e167f675fd2d4932aadc40b4e2c88147.png" alt="Cover for The Inglorious Geniosity of Super Tanker The Mathematical Intelligence" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Super Tanker</td>
