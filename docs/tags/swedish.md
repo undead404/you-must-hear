@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T01:57:23.328Z
+date: 2025-11-26T07:10:38.069Z
 permalink: tags/swedish
 title: swedish
 ---
 
 ## swedish
 
-Last updated: <time datetime="2025-11-12T01:57:23.328Z">Wed Nov 12 2025 03:57:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T07:10:38.069Z">Wed Nov 26 2025 09:10:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e21ea43a14253e586990a501ecba945f.png" alt="Cover for Ring Ring" style="max-width:120px; height:auto;" />
       </td>
@@ -43,11 +43,12 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/901ab33da45e0f4902ad09ba65554b8c.png" alt="Cover for ABBA Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -61,7 +62,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 11</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -81,7 +82,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 85</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -104,12 +105,13 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 2</li>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d84bfbc85d894d51b4a845d0f5472109.png" alt="Cover for Voulez-Vous" style="max-width:120px; height:auto;" />
       </td>
@@ -123,8 +125,8 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 42</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 40</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +149,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/688df953b5fd406a89d9bc552ddff890.png" alt="Cover for V" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +169,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5be442ecc4e564fc2bf676004f1145b3.png" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +187,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/664b1d8433ef4dcae3f1e46741243b67.png" alt="Cover for One Love (2nd Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +206,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/863deab39bf34063c067b38d46f913fe.png" alt="Cover for Happy Nation (U.S. Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -223,7 +225,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994-10-31</td>
@@ -277,7 +279,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef17b6b3920740f2804b0b776f439a09.png" alt="Cover for Kom" style="max-width:120px; height:auto;" />
       </td>
@@ -317,28 +319,6 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf02a871098c0b3c7322769a97b67b8d.png" alt="Cover for We Are The Ark" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-09-25</td>
-      <td>The Ark</td>
-      <td>We Are The Ark</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4748c559313646d9b47a8c835cbbeb9a.png" alt="Cover for Känn ingen sorg för mig Göteborg" style="max-width:120px; height:auto;" />
@@ -349,7 +329,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 80 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
@@ -358,7 +338,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/rSY_aO2tNvCDZx3cC6KTfZsMepckgEDrLzdCVPnGv2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzMw/NjMtMTI2MjQ1NTg4/MC5qcGVn.jpeg" alt="Cover for Rock&#39;n&#39;Roll Highschool" style="max-width:120px; height:auto;" />
       </td>
@@ -376,7 +356,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9cee824a1f4deb9bbade17fc90bc96.png" alt="Cover for Mondays are like Tuesdays and Tuesdays are like Wednesdays" style="max-width:120px; height:auto;" />
       </td>
@@ -450,7 +430,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c435df6ae44422c968542ef9d267944.png" alt="Cover for Deep Cuts" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +443,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 48</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +465,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2003-05-09</td>
@@ -502,7 +482,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82be607b7ad4ee2ce4790a5cf2eaf32.png" alt="Cover for Howl Howl Gaff Gaff" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +517,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2004-05-26</td>
@@ -574,7 +554,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2005</td>
@@ -626,7 +606,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2005-04-27</td>
@@ -640,25 +620,6 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-          <img src="https://i.discogs.com/yjCk0tVtwgH0Q8aUrx9McHT49zri-5rLu-nSfAXQ7mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjMy/Ny0xMzUzMzQxOTcz/LTYxNjcuanBlZw.jpeg" alt="Cover for Oh You&#39;re So Silent, Jens" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-06-08</td>
-      <td>Jens Lekman</td>
-      <td>Oh You&#39;re So Silent, Jens</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 12</li>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -679,6 +640,26 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/yjCk0tVtwgH0Q8aUrx9McHT49zri-5rLu-nSfAXQ7mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjMy/Ny0xMzUzMzQxOTcz/LTYxNjcuanBlZw.jpeg" alt="Cover for Oh You&#39;re So Silent, Jens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-08</td>
+      <td>Jens Lekman</td>
+      <td>Oh You&#39;re So Silent, Jens</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 35</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +720,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/727f0d71546cd77435dbfdf579276ee6.png" alt="Cover for Knife" style="max-width:120px; height:auto;" />
       </td>
@@ -775,7 +756,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8790fc30991f4bd89e5d39b7d35e6d86.png" alt="Cover for Big Night Out" style="max-width:120px; height:auto;" />
       </td>
@@ -792,7 +773,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 55</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +797,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/XapOAgesdAvKAjHzPNvuQktoYx5UK-47v4dzNkyDOmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDkw/My0xMTkwNjY5NzU1/LmpwZWc.jpeg" alt="Cover for El Perro Del Mar" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +834,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e8a39ec22d04300b292a1aaf8134d78.png" alt="Cover for Let Me Introduce My Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -867,12 +848,12 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 61</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2006-05-10</td>
@@ -907,7 +888,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1e06d057c414655c600ee715ff9f569.png" alt="Cover for Caught The Breeze" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +943,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd99a2e16dc4a699368cb4b1b182312.png" alt="Cover for Never Seen The Light Of Day" style="max-width:120px; height:auto;" />
       </td>
@@ -977,12 +958,12 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 47</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c404dafc6d44a1ba6db2e9a49dbfe2.png" alt="Cover for Migration" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1128,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-05-05</td>
@@ -1164,7 +1145,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2008-05-07</td>
@@ -1181,7 +1162,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/C-jih7NZkDNdzqJ0TMVm7oROsoq2pafIoTwITmAv0B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI4/OTUtMTI0MTk3Mzk2/MS5qcGVn.jpeg" alt="Cover for More Modern Short Stories From Hello Saferide" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,6 +1176,26 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00577c6d1b7425bc26406e0169ed943.png" alt="Cover for Reservoir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-08</td>
+      <td>Fanfarlo</td>
+      <td>Reservoir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1292,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8571171a5f4d4d11bfe6e0361e41d6d1.png" alt="Cover for Happyland" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1328,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54622a3f277d760d3ee53971e68c4ead.png" alt="Cover for Masquerade" style="max-width:120px; height:auto;" />
       </td>
@@ -1364,7 +1365,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/42_OM-hG_9N3R-A0wrcbbxyXyHerd07wtMK2irpdhUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/NDUtMTI0ODE5MDA1/NC5qcGVn.jpeg" alt="Cover for JJ Nº 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,12 +1416,12 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 99</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e30b400ff0746abb8c2abff474c618a.png" alt="Cover for Within My Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,9 +1440,9 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 71</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 86</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 96</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 74</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1465,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/928b91cf44ee45aa9fecb888c93ca8af.png" alt="Cover for The Royal Concept" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1487,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2013-01-01</td>
@@ -1540,7 +1541,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3bbfac2c9c8f1147bb4db8046cdb01.png" alt="Cover for This Is... Icona Pop" style="max-width:120px; height:auto;" />
       </td>
@@ -1558,7 +1559,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2014-01-14</td>
@@ -1576,7 +1577,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2014-04-25</td>
@@ -1593,7 +1594,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0516b84ad44a4eca4fbab4e982b53a.png" alt="Cover for Do It Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,13 +1609,13 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 68</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 80</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 67</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0c80826b36f595c402e3c33a9b59e0c.png" alt="Cover for 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1651,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a71ef5c15cd50d5a58b10eb8e727bc1.png" alt="Cover for Perfectly Damaged" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,9 +1686,9 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/eGrlj016vhPqhChBZJwthI2Bt4HUIqWLL4Hi5MucRl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzIx/NTgtMTQ0NDMwMjg3/Ni01NjQ2LmpwZWc.jpeg" alt="Cover for Fish On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a23e849496d9004507175d1aedab1e72.png" alt="Cover for Fish On" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-09</td>
       <td>Lindemann</td>
@@ -1704,7 +1705,9 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 43</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 16</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1726,13 +1729,14 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6efef9b2a8c5f37b3d48e66ef08317fc.png" alt="Cover for Ingen annan rör mig som du" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,12 +1777,13 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/NGB4qDZuXp4l5aJp6weS1KKdvQBwhP02Ig_YodU8VEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/ODkzLTE1NjkxNzY3/MTUtNTI5My5qcGVn.jpeg" alt="Cover for Söndermarken" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1803,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cffe04435342423dc2e4887302f3f53f.png" alt="Cover for Wounded Rhymes (Bonus Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1825,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb09f762dde4e016e7c277d753606161.png" alt="Cover for OMR" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,11 +1841,12 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7be7fcbcad8a9b907ff64409bdac7cc3.png" alt="Cover for Island of the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,13 +1901,13 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1916,6 +1922,7 @@ Swedish music refers to music originating from or produced in Sweden. Sweden has
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 25</li>
         </ul>
       </td>
     </tr>
