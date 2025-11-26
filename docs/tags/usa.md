@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T20:27:38.064Z
+date: 2025-11-26T05:24:38.087Z
 permalink: tags/usa
 title: usa
 ---
 
 ## usa
 
-Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T05:24:38.087Z">Wed Nov 26 2025 07:24:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 85</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 65</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 66</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 96</li>
         </ul>
       </td>
@@ -243,7 +243,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 18</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 28</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
         </ul>
@@ -385,6 +385,24 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
     </tr>
     <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14715f37ec111e88a20f07042c2ee44f.png" alt="Cover for Parallel Lines (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Blondie</td>
+      <td>Parallel Lines (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a978b3eb5e9d4368a3d6e918561481.png" alt="Cover for Grammy Nominees 2002" style="max-width:120px; height:auto;" />
@@ -503,7 +521,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 67</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -522,7 +540,6 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +624,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 81</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +645,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 71</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +665,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 10</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +707,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 27</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +791,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 5</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 18</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 70</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
@@ -842,7 +859,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/xA52g20EDH2nRJ6srfDur6sbGiEDfOYnlgwf2XHBhKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc5/NTktMTI2MTQyMDgy/NS5qcGVn.jpeg" alt="Cover for Vancouver Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +878,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f63c81a5ebf95d0ce0d8209ff68dd53d.png" alt="Cover for Holy Diver (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -876,28 +893,6 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd7ec1c7cc646cca1ec1e68304ccdda.png" alt="Cover for Ta-Dah" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-09</td>
-      <td>Scissor Sisters</td>
-      <td>Ta-Dah</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 60</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1103,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 8</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 9</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 39</li>
         </ul>
       </td>
@@ -1155,7 +1150,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 77</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 79</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 91</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1211,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       <td>
         <ul>
             <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 67</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 81</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1257,7 +1252,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 75</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 76</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 86</li>
         </ul>
       </td>
@@ -1443,7 +1438,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 99</li>
         </ul>
       </td>
@@ -1577,8 +1572,8 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 30</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 31</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1593,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 25</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1636,6 +1631,8 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 8</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1774,6 +1771,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1848,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 69</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1871,7 +1869,7 @@ Last updated: <time datetime="2025-11-24T20:27:38.064Z">Mon Nov 24 2025 22:27:38
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 21</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 28</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 95</li>
         </ul>
       </td>
