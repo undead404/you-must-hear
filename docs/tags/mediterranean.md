@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T11:57:13.122Z
+date: 2025-11-25T18:54:23.584Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-18T11:57:13.122Z">Tue Nov 18 2025 13:57:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T18:54:23.584Z">Tue Nov 25 2025 20:54:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -678,7 +678,7 @@ Mediterranean music refers to the music styles that originate from the countries
       <td>
         <ul>
             <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 3</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 13</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1354,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 51</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 71</li>
         </ul>
       </td>
@@ -1550,13 +1550,13 @@ Mediterranean music refers to the music styles that originate from the countries
       <td>
       </td>
       <td></td>
-      <td>RedJapanese</td>
-      <td>RedJapanese|יפניאדום| يابانية أحمر|日本赤</td>
+      <td>Grup de Restauració Folklòrica de València i Fermín Pardo</td>
+      <td>Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
       <td>
