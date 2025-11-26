@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-26T13:41:57.308Z
+date: 2025-11-26T13:43:51.975Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [death industrial]({{ "tags/death-industrial" | relative_url }}) | <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-26T13:43:01.746Z">Wed Nov 26 2025 15:43:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-garde black metal]({{ "tags/avant-garde-black-metal" | relative_url }}) | <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [8-bit]({{ "tags/8-bit" | relative_url }}) | <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [abstract hip hop]({{ "tags/abstract-hip-hop" | relative_url }}) | <time datetime="2025-11-26T13:39:30.311Z">Wed Nov 26 2025 15:39:30 GMT+0200 (Eastern European Standard Time)</time> |
@@ -413,7 +415,6 @@ Last updated: <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57
 | [technical death metal]({{ "tags/technical-death-metal" | relative_url }}) | <time datetime="2025-11-23T14:57:37.990Z">Sun Nov 23 2025 16:57:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [alt-country]({{ "tags/alt-country" | relative_url }}) | <time datetime="2025-11-23T14:42:05.749Z">Sun Nov 23 2025 16:42:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [trio]({{ "tags/trio" | relative_url }}) | <time datetime="2025-11-23T14:39:14.532Z">Sun Nov 23 2025 16:39:14 GMT+0200 (Eastern European Standard Time)</time> |
-| [chiptune]({{ "tags/chiptune" | relative_url }}) | <time datetime="2025-11-23T14:37:36.248Z">Sun Nov 23 2025 16:37:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish]({{ "tags/polish" | relative_url }}) | <time datetime="2025-11-23T14:36:47.543Z">Sun Nov 23 2025 16:36:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [turntablism]({{ "tags/turntablism" | relative_url }}) | <time datetime="2025-11-23T14:35:31.203Z">Sun Nov 23 2025 16:35:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk pop]({{ "tags/folk-pop" | relative_url }}) | <time datetime="2025-11-23T14:33:20.091Z">Sun Nov 23 2025 16:33:20 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1253,7 +1254,6 @@ Last updated: <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57
 | [cantautore]({{ "tags/cantautore" | relative_url }}) | <time datetime="2025-10-22T03:51:56.132Z">Wed Oct 22 2025 06:51:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [vibraphone]({{ "tags/vibraphone" | relative_url }}) | <time datetime="2025-10-22T03:05:04.717Z">Wed Oct 22 2025 06:05:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [bhangra]({{ "tags/bhangra" | relative_url }}) | <time datetime="2025-10-22T02:19:20.044Z">Wed Oct 22 2025 05:19:20 GMT+0300 (Eastern European Summer Time)</time> |
-| [death industrial]({{ "tags/death-industrial" | relative_url }}) | <time datetime="2025-10-22T02:17:53.574Z">Wed Oct 22 2025 05:17:53 GMT+0300 (Eastern European Summer Time)</time> |
 | [harsh noise wall]({{ "tags/harsh-noise-wall" | relative_url }}) | <time datetime="2025-10-22T02:17:31.352Z">Wed Oct 22 2025 05:17:31 GMT+0300 (Eastern European Summer Time)</time> |
 | [catalan]({{ "tags/catalan" | relative_url }}) | <time datetime="2025-10-22T02:14:00.371Z">Wed Oct 22 2025 05:14:00 GMT+0300 (Eastern European Summer Time)</time> |
 | [pop francaise]({{ "tags/pop-francaise" | relative_url }}) | <time datetime="2025-10-22T02:13:23.615Z">Wed Oct 22 2025 05:13:23 GMT+0300 (Eastern European Summer Time)</time> |
