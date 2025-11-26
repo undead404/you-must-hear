@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T01:29:34.639Z
+date: 2025-11-25T20:37:54.258Z
 permalink: tags/experimental-metal
 title: experimental metal
 ---
 
 ## experimental metal
 
-Last updated: <time datetime="2025-11-23T01:29:34.639Z">Sun Nov 23 2025 03:29:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T20:37:54.258Z">Tue Nov 25 2025 22:37:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
   </thead>
   <tbody>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e35c0a1c89e15e702e762440da42186b.png" alt="Cover for Regurgitation of Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -56,7 +56,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/yDiwIs6bWq0-ZqdzwTQmiT67TiUUWYNiCCyNnGkG4yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTMy/MjAtMTM1MjM3MDYy/NS04NzMxLmpwZWc.jpeg" alt="Cover for Misery" style="max-width:120px; height:auto;" />
       </td>
@@ -94,7 +94,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de814e1602e7d1a2d3c321525e61fe96.png" alt="Cover for The Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -121,8 +121,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52399f7ee818475dc715d4890442e329.png" alt="Cover for Possession" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04-17</td>
       <td>God</td>
@@ -142,7 +143,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e574666a8d4acb9fed3598423b78f6.png" alt="Cover for ...Somewhere Inside the Bowels of Endlessness..." style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +170,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe3c102ea3641ec89fb7ebfc5907573c.png" alt="Cover for Albino Slug" style="max-width:120px; height:auto;" />
       </td>
@@ -192,7 +193,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b5e05011a94c439e1f2c32af5e4322.png" alt="Cover for Supernova" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +212,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9a2a85cba04c09cc93433f793d1efa.png" alt="Cover for Disco Volante" style="max-width:120px; height:auto;" />
       </td>
@@ -224,12 +225,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1997</td>
@@ -246,7 +247,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dea0b673c5549cab8c226e24d24047b.png" alt="Cover for Hirohito" style="max-width:120px; height:auto;" />
       </td>
@@ -262,12 +263,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 28</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f6d3b4c4d712459a0f6ed04288f26e.png" alt="Cover for Sol Niger Within Version 3.33" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +287,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2000</td>
@@ -316,7 +317,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0fafd5e0594832b000fcbd1ceeaaa1.png" alt="Cover for Great Sage, Equal of Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -329,13 +330,13 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 26</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 28</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/Qw9VEPR8yeE4-BtTbUg4JbWcw1UBOsxeZnJgOyn9iU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE1/NTA2LTE0OTAxODE4/NDctNzkxOS5qcGVn.jpeg" alt="Cover for Melonwhisper" style="max-width:120px; height:auto;" />
       </td>
@@ -358,7 +359,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff192261c3bf34b365aa639a399b760.png" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
       </td>
@@ -391,13 +392,13 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
             <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/3IHmQ346Y-kg4Cov7iYOhYR7ZKv_RF_sBXCArgkltho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg2/MDYzLTE2NzkzMzUz/ODItMzIzMy5qcGVn.jpeg" alt="Cover for Recipe Ferrum" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +419,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e08c85dde84e04866a73559616baa8.png" alt="Cover for The Mother and the Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +438,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2002</td>
@@ -474,12 +475,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 88</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb5b48a7c4cf4161b5fe37b25e247c21.png" alt="Cover for Tous Aux Cèpes" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +500,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4368663e9b016d9d3687c34069db01e.png" alt="Cover for Darth Vegas" style="max-width:120px; height:auto;" />
       </td>
@@ -525,12 +526,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 22</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4773165f41f4f3e95f944f0c51436f5.png" alt="Cover for Nietoleruje-Bije" style="max-width:120px; height:auto;" />
       </td>
@@ -549,11 +550,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a0e06de7d0e80368a83be6aa54b900e.png" alt="Cover for Lost In Reverie" style="max-width:120px; height:auto;" />
       </td>
@@ -567,12 +569,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 75</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-08</td>
@@ -592,7 +594,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e0bf821482411e9741361a93e4063c.png" alt="Cover for Bathos" style="max-width:120px; height:auto;" />
       </td>
@@ -611,7 +613,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/CtjRoNZnaR1BU9vrJnQ4PLLe1bpHh1JU4jwR51OB55I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTU5/MTgtMTQzMzQzNDc1/OS0xMjk2LmpwZWc.jpeg" alt="Cover for Demonstration 2003" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +646,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/aI-k8HPbudU6DabBIbtbIDmqtE-86jco43qlRIgOhhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/MTQyLTE2NTc4OTIx/MTEtOTAxNi5wbmc.jpeg" alt="Cover for 47" style="max-width:120px; height:auto;" />
       </td>
@@ -666,7 +668,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d2073c00244852959b4aac288a79a8.png" alt="Cover for Suspended Animation" style="max-width:120px; height:auto;" />
       </td>
@@ -680,12 +682,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/722c1a50a1e847f7b8114347101662eb.png" alt="Cover for Collection Prestige" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +705,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ec6467090543cdc399ba42ecd0ed72.png" alt="Cover for Complications: Trilogy of Intricacy" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +746,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91df3e10658b4289bc97dbbed39f6e27.png" alt="Cover for Pain Necessary To Know" style="max-width:120px; height:auto;" />
       </td>
@@ -768,7 +770,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35ade6035ebf9b2c015c1ba778f363b4.png" alt="Cover for Grindstone" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +788,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cefa1d579ac4e65b5a991ae01f1c5b4.png" alt="Cover for Behind the Shadows Lie Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +808,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2008</td>
@@ -826,7 +828,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2008-02-19</td>
@@ -892,12 +894,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f4ab4f9d444e58b8c592d5313a7f9b.png" alt="Cover for To Lose A Name" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +921,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6b68e1898c35a4d44f17cced9c8bab.png" alt="Cover for Remixploitation" style="max-width:120px; height:auto;" />
       </td>
@@ -941,7 +943,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e1b8f65d054b3fcb2908f666822fd5.png" alt="Cover for Carboniferous" style="max-width:120px; height:auto;" />
       </td>
@@ -956,14 +958,14 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 38</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 66</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009-05-16</td>
@@ -981,7 +983,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f148223412de4d58a58b3190a008374c.png" alt="Cover for Phhhp! Plus" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1004,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 41</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 43</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 53</li>
             <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 53</li>
         </ul>
@@ -1029,14 +1031,14 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 69</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 77</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78e0f0939e8f767063ef156ac930ba8.png" alt="Cover for 8" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,13 +1053,13 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 45</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 65</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 52</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/FnAXdR4-30xl9gjGxOoZHTg03z6LgPCB0O_7qOWBqFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/MzAtMTI5ODI0MzQ0/NS5qcGVn.jpeg" alt="Cover for 8" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1090,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52f8c2984ab442cc996d59b5a0c9493b.png" alt="Cover for It&#39;s All Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,7 +1116,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f658ddb9b0544ed8064cb70c4421251.png" alt="Cover for Organics - Ashes of Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1137,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad9278362cf94e22913c7b9093727e53.png" alt="Cover for Tahztey Greaggor EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1166,7 +1168,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2010-05-25</td>
@@ -1187,7 +1189,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/799664c5b2b52e5e0f593742bd937401.png" alt="Cover for Diamond Eyes (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1207,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ca061e63007179b373f84652bb78c3.png" alt="Cover for Of Seismic Consequence" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,9 +1226,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/hZpEwD_jfp7dIyTgB9IPD--ex-Y5RzSE5GgdQ4nDfx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg4/NDktMTUyNDc0NjY5/OS05OTg1LmpwZWc.jpeg" alt="Cover for In two minds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7927b1c788434ca9a17c1a7586e32447.png" alt="Cover for In two minds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Katatura</td>
@@ -1251,12 +1253,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 38</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb6138ac3612450db3d40e16a2ebbc7f.png" alt="Cover for Lulu" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1278,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93240543533b4a07ca04d5f46a7a2cb0.png" alt="Cover for Meidän, Minun" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1295,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a88f85a94463404383b652aae685184f.png" alt="Cover for ARKHELISM" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1318,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d62906cc1efb477aab21b0a8db696b37.png" alt="Cover for Drown" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1344,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/F7vz4IBu5H-4YQbRL9T-AURLvRuo_uv_FmuF1jkY-Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NTYtMTMzODQwMDUx/My03NzU2LmpwZWc.jpeg" alt="Cover for 5773" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1371,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/tJ-sIeR5VdaRaYhDdeHoSgDMpq0WMFzkv5CBTU26xzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzEz/MzctMTMzMjQ0NDMz/NC5qcGVn.jpeg" alt="Cover for Mamiffer &#x2F; Pyramids" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,7 +1389,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6872a50bfc7a0421b7cdc6e6a5fabfbd.png" alt="Cover for Mantiis" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,12 +1405,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/J9USuFb5JkA-1FQAHL487lGXphqEw0chxKKBEJab72U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzUz/ODgtMTYxNjkzNTAx/NC03NDA3LmpwZWc.jpeg" alt="Cover for Autonomy" style="max-width:120px; height:auto;" />
       </td>
@@ -1453,7 +1455,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d63aafa2f8d4738c7a8fe5cdf72111c.png" alt="Cover for Chordata I" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1477,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/a3Kuf4Bo7yYezVYh6U7JRlA_2reYxOnCvpnEqnNUi9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzkz/MjQ0LTE1NzM2MTcy/NTgtMzA5MS5qcGVn.jpeg" alt="Cover for SwineSong" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1496,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6992e1c43da2701e88aa276488c6cde8.png" alt="Cover for Slug Cartilage" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1525,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/yHDiqwzNzksGHS0YIyCwPD1ZkKfGia-48ITJkkRtaBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODU1/ODktMTM4OTYwNzQ2/Mi03OTA2LmpwZWc.jpeg" alt="Cover for And the mouth of time is open" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,8 +1550,8 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       <td>
         <ul>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 55</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 63</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 56</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1576,14 +1578,15 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 10</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 14</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 66</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0972d131514035c0dcfcf9e8db2c62.png" alt="Cover for Obzkure Anekdotez For Maniakal Massez" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,15 +1626,15 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 44</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 56</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 80</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 60</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2014-12-10</td>
@@ -1648,7 +1651,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/tE0TMEuWBfb7EpzteJWPmaVYF9GWB20tQygky5XU1BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgx/MTA5LTE1MTg4ODIw/MjYtNzk5Ni5qcGVn.jpeg" alt="Cover for Bloodhoney" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1724,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ac02e39740ad68d38612cf747eb6c45.png" alt="Cover for Metal Heads" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1746,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/mMBnCvvXjDHVYU50g1ZN1Yi5pjxqbTnDZv2Wj17Gs4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDYz/MzktMTQyMDgzMTgz/Ni03ODQ1LmpwZWc.jpeg" alt="Cover for Futurologie" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1764,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/fxPzjIz0sLL1tu7oQDcjulK3uCZOZuthd-OOApbbWfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY5/NjgtMTQ1NzMxNTM4/NC03MjExLmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,12 +1782,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 21</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 35</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5a64a9ee34daae8ab3ea9485a490ed.png" alt="Cover for Firebees" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1812,24 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/826fdf77adb436589583ca7d45e3a7b9.png" alt="Cover for Ufonaut" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-15</td>
+      <td>Entropia</td>
+      <td>Ufonaut</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7912b2b90cf90614dfb84c4fb65820e.png" alt="Cover for primitive powers" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,33 +1855,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/258ac9271baca5f2eed2013265473f11.png" alt="Cover for Over-Throne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-12-09</td>
-      <td>Hacktivist</td>
-      <td>Over-Throne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/C4a7EyIv6iORBeVmB_u5RAcuy_CwOvLIufUxaUymRK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mzk1/OTktMTQ4NTYxODAw/NC02OTIzLmpwZWc.jpeg" alt="Cover for Diabolicus Felinae Pandemonium" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1874,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba9fc72fb7e2caddd03b6cf99b2adcc5.png" alt="Cover for Heptaedium Versus Cartoon Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,15 +1916,15 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 46</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 58</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 81</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/_tF-5jHk0PsvH1Otp1aMfWtoGM1neH23y71OvaAGCko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/NTMxLTE1MDYzNTcw/MDgtMzE1OS5qcGVn.jpeg" alt="Cover for INTERRUPT REQUEST" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1947,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ROoyFO_OjfWCZWmW-qcmWfXp1GbfuC91xH4YTwPpFsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcw/OTUzLTE1MTMzMzg2/MzUtNTk2NC5qcGVn.jpeg" alt="Cover for Retrocausal" style="max-width:120px; height:auto;" />
       </td>
@@ -1976,7 +1970,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/hPQGFCDHTNm2rE7moUGQFLje9SCKR7IHkAjQsBX8ZOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg3/NTU5LTE1NjQ3MTc4/MjAtMzI3MS5qcGVn.jpeg" alt="Cover for Guillotine Furnace" style="max-width:120px; height:auto;" />
       </td>
@@ -1995,7 +1989,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/dv6KJzEl3zJMYb-jcHrI-1raP0TkpqRvi9Y6X4UDtIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg3/MDEwLTE1MjQxNzc2/MjYtMzk4NC5qcGVn.jpeg" alt="Cover for Direct Memory Access" style="max-width:120px; height:auto;" />
       </td>
@@ -2014,9 +2008,9 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/7vdB29ch2Imq7or03kVdFNQgAYosElQjoFxBqlJ6SFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODgy/ODAtMTM3Mzc2NzM0/Ny01NzA0LmpwZWc.jpeg" alt="Cover for The House Primordial" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2043d51afef8aea32256668fec9685b.png" alt="Cover for The House Primordial" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-01</td>
       <td>Thou</td>
@@ -2038,7 +2032,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac82e4308b3dfe757bd4785581e8b5a.png" alt="Cover for 一期一会" style="max-width:120px; height:auto;" />
       </td>
@@ -2089,13 +2083,13 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       <td>
         <ul>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 69</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 77</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f277484eee125e9a18aa4979e01a113.png" alt="Cover for Ѫ" style="max-width:120px; height:auto;" />
       </td>
@@ -2122,7 +2116,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d6edb45dd8018a80ebdb3b1c4a45fd8.png" alt="Cover for Perfect Life &amp; Other Stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -2148,7 +2142,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea0f1d0bd032bcd6bf4e7d64cb063397.png" alt="Cover for Blasphemy" style="max-width:120px; height:auto;" />
       </td>
@@ -2170,7 +2164,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/nnQ2LLFZr_hxKI2gemEMv-P3ztuTmUUZWu0D87_ZJ6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE4/NzUzLTE2MTczNjk0/OTctNDc1MC5qcGVn.jpeg" alt="Cover for SMILE -Live at Wolf Creek-" style="max-width:120px; height:auto;" />
       </td>
@@ -2213,7 +2207,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 14</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2238,7 +2232,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99a162d4292bc14cf636d98f10241eb4.png" alt="Cover for Best of Pagefire, Collection 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2255,7 +2249,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/7BwpDw38G9_jFa735L815QAo8s7k6tNoFidyRLSmCD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE2/NDQ3LTE2NjU0MjM2/ODItODk4My5qcGVn.jpeg" alt="Cover for PERSONAL COMPUTER" style="max-width:120px; height:auto;" />
       </td>
@@ -2274,7 +2268,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Within The Church Of Thee Overlords II" style="max-width:120px; height:auto;" />
       </td>
@@ -2297,7 +2291,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/ZqCYSd26y2tJeom6UKEUK7Nnm9QDscjw44N6CRITpgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ5/MDExLTE2NTc0MjMz/OTYtMjExNS5qcGVn.jpeg" alt="Cover for Data Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -2312,7 +2306,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 49</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2336,7 +2330,7 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/YsFqZCSZTyldZbkxEV5sUSJVTxJW-cPLTaGLBcgidmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTA2LTE3MzEyMzQy/MDUtODEyNS5qcGVn.jpeg" alt="Cover for Golem" style="max-width:120px; height:auto;" />
       </td>
@@ -2353,13 +2347,13 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td></td>
@@ -2371,12 +2365,12 @@ Experimental metal pushes beyond traditional heavy music boundaries by incorpora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f83c608b44894839c88eb7bd72012849.png" alt="Cover for A Quebra Do Aquário" style="max-width:120px; height:auto;" />
       </td>
