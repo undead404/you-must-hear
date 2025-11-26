@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T12:57:39.640Z
+date: 2025-11-26T02:10:29.787Z
 permalink: tags/microhouse
 title: microhouse
 ---
 
 ## microhouse
 
-Last updated: <time datetime="2025-11-16T12:57:39.640Z">Sun Nov 16 2025 14:57:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:10:29.787Z">Wed Nov 26 2025 04:10:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1977</td>
@@ -51,7 +51,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54cb3f613feefc3ba10b02418a7c2897.png" alt="Cover for Klamauk 001" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/Qn929WlVcwLGvYqQb00a9Gt1wNwtEMUY7JqzxwvW6PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkt/MTEyOTI4MTA2My5q/cGVn.jpeg" alt="Cover for Relish" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/RPWGSo9_6nZ-FqClPKb_-IdtFzqbujNE7KMCFl4QD4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDMt/MTQ1MzYzMjE2NC03/OTA0LmpwZWc.jpeg" alt="Cover for Architextures 1-2-3" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/1ntOdvLLks9B1S2W_fCh65mhon9LVkSgy-TC2vRXGww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/Mzc2LTE1OTYwMzMw/MjQtNTUzMS5qcGVn.jpeg" alt="Cover for Isoviha" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f09585018fc90cd48134773302f7f95.png" alt="Cover for Vocalcity" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +143,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54a773f795103312082e904f78628506.png" alt="Cover for Tendency" style="max-width:120px; height:auto;" />
       </td>
@@ -167,12 +167,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/730c05c9605a41f29b5f34fe80b20347.png" alt="Cover for Loop-Finding-Jazz-Records" style="max-width:120px; height:auto;" />
       </td>
@@ -186,8 +186,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 91</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/uHaOWF6J5FSO5RBJWGY3XUOk_wdWq4t5VgNi1LXRp9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjUx/LTEyNjk4OTUzMjQu/anBlZw.jpeg" alt="Cover for The Kids Are Alright" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/uHaOWF6J5FSO5RBJWGY3XUOk_wdWq4t5VgNi1LXRp9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjUx/LTEyNjk4OTUzMjQu/anBlZw.jpeg" alt="Cover for The Kids Are Alright" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f612192ddd334794b4164232c1a57ad7.png" alt="Cover for Parallel" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/455fb59c00954cfb9880297f4b90ff45.png" alt="Cover for Textstar" style="max-width:120px; height:auto;" />
       </td>
@@ -299,12 +299,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 55</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3034ee2c8527c66d28509eaf48e1d161.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +322,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
       </td>
       <td>2002-11-05</td>
@@ -342,7 +342,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for classic accidents vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -361,7 +361,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a7b60862e2b38f8cac6a589b5f8441b.png" alt="Cover for The Present Lover" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +380,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/uuP4XQHYhq5g3j6Ap5srTwzBE-vm74dvJ6Vr9InZZz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc1/NC0xMTc4MjA4MjYz/LmpwZWc.jpeg" alt="Cover for Bodyrock EP" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/mAxcZ-d3WKmDOrzsqHLSrvtgqP8yEc70PR-sOwtXSXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ0/NC0xNDU1MDg0NzQx/LTgwOTAuanBlZw.jpeg" alt="Cover for Hawaiian Wodka Party" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/NXnonSLXsfVGlUT9QcHV4QxnIEWLhGboGyWm6X51wKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzI5/Mi0xNTE5OTMwOTA3/LTU4OTcuanBlZw.jpeg" alt="Cover for Blu Tribunl" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +439,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c355b26a80224b21ba5ab4610a972ab5.png" alt="Cover for Alcachofa" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +479,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>86</td>
       <td>
       </td>
       <td>2005-05-23</td>
@@ -494,11 +494,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>81</td>
       <td>
       </td>
       <td>2006-02-20</td>
@@ -516,12 +517,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 4</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/9lFZdC2WZYKi2qf1OvLhk2m2osBbPHUri9ZMeA6mw4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTY4/OS0xMTYxMjM5MDkz/LmpwZWc.jpeg" alt="Cover for Mixotic 049 - Stimulux - Southern Sounds Vol.2" style="max-width:120px; height:auto;" />
       </td>
@@ -554,7 +555,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69aee5a1b4654511a846872379ad7094.png" alt="Cover for The Last Resort" style="max-width:120px; height:auto;" />
       </td>
@@ -568,12 +569,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 59</li>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 78</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2006-10-30</td>
@@ -591,7 +592,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/u4UlQgfOdpKajBzuvbnxyYQjBZFgmic9NlC6RN2BYAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTUz/MS0xMTYyMjU0MzY2/LmpwZWc.jpeg" alt="Cover for Impossible Objects" style="max-width:120px; height:auto;" />
       </td>
@@ -609,7 +610,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/_COFxndYuG8B-jQFzN7S6W3WWKRY0wc6t8GflhxO-Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTI1/MC0xMTc2MDMzMjg2/LmpwZWc.jpeg" alt="Cover for Mixotic 069 - Tooltech - Aciendo Labelmix" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +643,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/yi2Zhpn2W5mMELDS0j0vkAJxAbzaUQ4lYfu-rqyaIoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQy/NzgtMTIzNzU1NTY4/MC5qcGVn.jpeg" alt="Cover for Vanishing Point" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +661,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ab93db441fa4734c7c5d666acdf81a6.png" alt="Cover for Chromophobia" style="max-width:120px; height:auto;" />
       </td>
@@ -675,12 +676,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac2bb899e728fc873b8aacf4c50ed16b.png" alt="Cover for From Here We Go Sublime" style="max-width:120px; height:auto;" />
       </td>
@@ -694,12 +695,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 59</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/2tFl9xkboNU-rs44ypRAe0Mc3ixGHmhSxCC7A4NmPyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIw/MTkxLTE1NDg0MTY5/MTEtMzM5NC5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +747,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/GCD5yX5Z7Of-NCXxdwQQYMF72JNFylYuNUZi-0WuOX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUz/NjYtMTIxMzQ1MDgx/NC5qcGVn.jpeg" alt="Cover for Why Can&#39;t We Be Like Us" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +767,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/3OLbv-Y_qHb7XXku4Zz_nfQ0S8vTcyya6g5BGp8EtEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY0/MTQ2LTE1Mzc3MDE1/NzctNjAwNi5qcGVn.jpeg" alt="Cover for BLOOD ON MY HANDS" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +786,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>2008-03-31</td>
@@ -802,7 +803,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/RnFZ9GMFSTbs7aAAOLVTTNop1kmBbuhw8ZiKJdFNUXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE5/MzItMTIxMjAwODQ3/NS5qcGVn.jpeg" alt="Cover for From Detroit To Mainz" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +822,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>2008-12-29</td>
@@ -838,7 +839,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ZTFJl1pHarI13daaD-zIsA6eFs5JL2TCP66vm4GPzDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM1/OTItMTI5NjQyMDg3/OC5qcGVn.jpeg" alt="Cover for 2017 EP" style="max-width:120px; height:auto;" />
       </td>
@@ -860,7 +861,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cda5fa39e85dfd9b55a18d9223e0144c.png" alt="Cover for There Is Love in You (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -878,7 +879,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d24c01c90b2438c994b2e204e86e37e.png" alt="Cover for Globus Cassus" style="max-width:120px; height:auto;" />
       </td>
@@ -896,7 +897,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/fa9rr6kWi5_mL6Byb5xdAdVj1v7U5i1Dtdw25NEhneY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI2/OTktMTIzODUwOTc3/Mi5qcGVn.jpeg" alt="Cover for Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -915,9 +916,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/47aUq2Hp2jlVlmY7wfyPcHNLrkokqWlezJ2Yg2x2Jtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM1/NjEtMTI0MjQyOTM2/OC5qcGVn.jpeg" alt="Cover for Birting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46a8249025ab4af194426b275435f938.png" alt="Cover for Birting" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-19</td>
       <td>Traject</td>
@@ -938,9 +939,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/_Gh8WAexJEfD-NaRSIUzOATJ2wBut7bH24kGnsQ3cIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjEy/NjYtMTI2MTY0OTA0/OS5qcGVn.jpeg" alt="Cover for Pathetik Party" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc954a62877d46bc88e964be765248c7.png" alt="Cover for Pathetik Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-10</td>
       <td>Erdbeerschnitzel</td>
@@ -958,7 +959,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ecb11c15a9b1c72082558c4a350a79.png" alt="Cover for Playing Robots Into Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +979,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c47797244f84aacca278309101da2e2.png" alt="Cover for There Is Love in You" style="max-width:120px; height:auto;" />
       </td>
@@ -987,18 +988,17 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>There Is Love in You</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 3</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cb04237d58409883e35c1668470a78.png" alt="Cover for Azzurra" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,8 +1020,8 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 18</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 20</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 30</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 96</li>
         </ul>
       </td>
@@ -1046,7 +1046,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00ea30ee47c14dc79e38fc7e628f9b5f.png" alt="Cover for Space Is Only Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,12 +1060,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62b84f505f3039709017feee4118e4bc.png" alt="Cover for Luna" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,14 +1097,15 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 33</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/JdJs55qewyaXDWOQZQ7cn7OHrUDDsmTH9zuDBfALnP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDg0/NjQtMTM3OTg2ODcy/My02NDQzLmpwZWc.jpeg" alt="Cover for R.I.P" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/936d83f8ddc04db1af82ca2937c2fb57.png" alt="Cover for R.I.P" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04</td>
       <td>Actress</td>
@@ -1141,7 +1142,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 30</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1167,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29a1ae5c57a436a8357da752ee2cc0e.png" alt="Cover for Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -1208,7 +1209,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c23dbf5757005cc235f6e52183830bd.png" alt="Cover for Immunity" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,13 +1223,13 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 12</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 13</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/740201e81c7c45f09b853edc78bd57ef.png" alt="Cover for The Inheritors" style="max-width:120px; height:auto;" />
       </td>
@@ -1247,7 +1248,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2999e1e71ae4ca3cc37e631e07a1820.png" alt="Cover for Psychic" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,17 +1258,15 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/1zcO7hw4HvC0ym34-Q_8zug25oQNoAWEonMzmCumaJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/MDA2LTE0OTQ0MzA5/ODYtNDM1Ni5qcGVn.jpeg" alt="Cover for 100 Lbs - Bonus CD" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1288,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/lhR2O46eeaREy-bfcD_U6Zf8kvdjQYwdbFt9JHXinec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI1/NzgtMTM5NjM1NTY4/MC0yODgwLmpwZWc.jpeg" alt="Cover for STUFF" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,9 +1345,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 76</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 79</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 77</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1371,16 +1370,16 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 92</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 98</li>
             <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/sweuo_6kKJN1_GbwxztM_lSbDVH86C8IJHAiF6u9zjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTAw/ODctMTQ2NTA3MTMx/Ni0xOTU1LmpwZWc.jpeg" alt="Cover for King Bromeliad &#x2F; Montparnasse - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,14 +1398,14 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/CKwI4yjyUGmjwKjHguxsZfqGCLhj0yQafLaks95H70w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDg2/MjYtMTQzMDE3MzIx/Ny03ODE1LmpwZWc.jpeg" alt="Cover for Val Maira" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5cbf27c1dde639857642cfe03d95c6.png" alt="Cover for Val Maira" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-27</td>
       <td>Dave DK</td>
@@ -1425,7 +1424,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/dhUIn5tbdTdY0f3IcRYJNTDwIksOGT9AaHcbeHp9aIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzk4/MDAtMTUyODA5NTQx/NC02MjYzLmpwZWc.jpeg" alt="Cover for Reminder Part Three" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1447,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0b81a10b40539b453bb760b786f4d4f.png" alt="Cover for The Fourth Bully" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1474,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/nFUC76aL7viFeTSdk9TNvqkNJ6MgA6MSdtrHQfLJuIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzIw/NzYtMTQ4MTcxMjc4/MC05NDIwLmpwZWc.jpeg" alt="Cover for The Winter Hymn" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1493,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/cgxiycScd0rzFW0i26Nbqbe-0ulyP4zMbD5v-yG-X3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzMz/NTQtMTQ2NTU3MTM3/NC0zNzQ1LmpwZWc.jpeg" alt="Cover for Weval" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1511,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/4jRNnrTdo8jrRo2u4AXXgeDBRHoX58ax9iyvcjdJXaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTUy/NjgtMTQ3ODQzODQz/NC05NzYwLmpwZWc.jpeg" alt="Cover for Mare" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,14 +1526,14 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 84</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/C8G6l-KyZDHP0Q0wCsbVFCnt16Z2UcYsUD4Ts33I2mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDc5/NjYtMTQ4MDc1OTg5/OC04MzgxLmpwZWc.jpeg" alt="Cover for Remain Calm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d9bb53bd6ca77ecb510fc7828bd6b5.png" alt="Cover for Remain Calm" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-26</td>
       <td>Mica Levi &amp; Oliver Coates</td>
@@ -1554,7 +1553,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/WOmO_Rbroyhf2R2Pd_09dpiCBcGLxwzsnwLgQTIuHJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTE4/MTQtMTQ4OTc5NTk4/My00MDY4LmpwZWc.jpeg" alt="Cover for Deshoda" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1572,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/HPrD5jKx0ZVRg-X_lyfDTQQOtOvoYUtztvUYY_UrnUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQx/OTEyLTE1MDcwODc1/MTEtNjE1MS5qcGVn.jpeg" alt="Cover for Refracted (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1594,7 +1593,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fafa8a0e7e903e35fe4062435e9dd8a3.png" alt="Cover for New Energy" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,25 +1602,18 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>New Energy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 78</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 79</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/NK1eJ8-_acT067WwowOyB5SUoyfg4yAt8uNvo-jAvRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk5/NDI4LTE1MjI1OTI2/OTAtNjE2OC5qcGVn.jpeg" alt="Cover for )✧⃛*" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/522fc02043ebac1820ca83f1bfc042ee.png" alt="Cover for )✧⃛*" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-31</td>
       <td>⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ</td>
@@ -1635,12 +1627,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a1f67ee4d4e5cd15cf26ba3f513f4b.png" alt="Cover for Traversa" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1651,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a181e0bac12b3f98769c6ef93035f252.png" alt="Cover for 2012 - 2017" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,13 +1665,14 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 89</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 78</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/5ml2XvZooIuR5UNYCTZOH0ZhspLdG7ZgwB1JrVTft1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY0/NDg5LTE1NDc0MTEx/NDctMjE2NC5qcGVn.jpeg" alt="Cover for Slow Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1690,27 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/658d3f2aee9fbf5f02e6cf6a6a4266c3.png" alt="Cover for Persona" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-13</td>
+      <td>Rival Consoles</td>
+      <td>Persona</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/YVta5oET3_KDGYMoqdhWZYHzoRmfDhSycOHH6TxqNHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/ODAxLTE1MzMxMzMz/MjctNzcyMi5qcGVn.jpeg" alt="Cover for Black Noise 2084" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,12 +1727,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 17</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/xto7J6hQs7_w3tAQC_BVAmE5vzzhGdWWP3m3Wx2njQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk5/MjA5LTE1NDAyODgx/NzMtOTEwMy5qcGVn.jpeg" alt="Cover for Murmansk​-​60" style="max-width:120px; height:auto;" />
       </td>
@@ -1740,7 +1753,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e39f7517b8cb6f828577ca2ef49e0343.png" alt="Cover for Dream Operator" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1772,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/L3q06eRKR9dE8mE2BYeyu65w2oh0PIMMXE05RWD5bcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/Njc1LTE1NzIzNTA5/NzEtMTIxNC5qcGVn.jpeg" alt="Cover for RUK" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1810,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e95ee67ffd47387b3621b821785471fd.png" alt="Cover for Sixteen Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,22 +1819,15 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       <td>Sixteen Oceans</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 20</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62570b5f7003e4a4d149731f4be91274.png" alt="Cover for 2017 - 2019" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,12 +1841,12 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30ef87d33285e807502a9682e1411cfb.png" alt="Cover for ooo ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ oʅ͡͡͡͡͡͡͡͡͡͡͡( ؞ৢ؞ؙؖ⁽⁾˜ัิีึื์๎้็๋๊⦁0 ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ ఠీੂ೧ູ࿃ूੂ" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,14 +1859,11 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 51</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 69</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/2JXU11asRyQvDJ3LHEIGohzs2_piATBhVMt9gkys_94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzUw/MzY2LTE2MTI5NzEz/MDUtMTUwNi5qcGVn.jpeg" alt="Cover for Virtuos Pie" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,9 +1881,9 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/6vgwfN3aE2RvR2wgFgpYp6Db06YhsmxDJw7VH7v1NHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTMy/ODg0LTE2MjIyOTc4/MjctNTMyMC5qcGVn.jpeg" alt="Cover for I Like You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6bb53c8b139097be502e8a40a3ff90.png" alt="Cover for I Like You" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-29</td>
       <td>Rory Sweeney</td>
@@ -1898,14 +1901,14 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 28</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/7hCZCNmHdleoMeXcMikBUSluwBWp1d7rSWZKLFAlH7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTgw/Njg4LTE2NTg2Mzg1/MTUtMjE1MS5qcGVn.jpeg" alt="Cover for For You Only" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/101708960c29b822b30738d00646ea08.png" alt="Cover for For You Only" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-22</td>
       <td>Isa Gordon</td>
@@ -1923,7 +1926,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td>2023</td>
@@ -1940,7 +1943,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/FPO8zO7lX-2pWmYuKRAUAqQJgFtHWS7yP3Ce-gXv23s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYz/NDE3LTE2ODM5NzE2/MTQtMzI4Mi5qcGVn.jpeg" alt="Cover for Bruo" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1962,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd15b163c6b66b10a62ffbdbc29736ae.png" alt="Cover for Three" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,12 +1976,13 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 11</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5234882235191df89ba750361eb6128f.png" alt="Cover for Cascade" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,13 +1995,11 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2043,7 +2045,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd03acf13de9fcd2db274a907d61b410.png" alt="Cover for Crime of the Century" style="max-width:120px; height:auto;" />
       </td>
@@ -2066,7 +2068,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2105,7 +2107,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 3</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 2</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 75</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 81</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 84</li>
@@ -2137,25 +2139,7 @@ Microhouse is a minimal electronic dance music genre that emerged in the late 19
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Various Artists</td>
-      <td>I Like To Listen [THN050]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5ce28758ab676207236fb3b41a264cc.png" alt="Cover for 2012 - 2017" style="max-width:120px; height:auto;" />
       </td>

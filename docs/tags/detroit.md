@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:16:38.091Z
+date: 2025-11-26T00:41:48.622Z
 permalink: tags/detroit
 title: detroit
 ---
 
 ## detroit
 
-Last updated: <time datetime="2025-11-24T06:16:38.091Z">Mon Nov 24 2025 08:16:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T00:41:48.622Z">Wed Nov 26 2025 02:41:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1977</td>
@@ -43,7 +43,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 72</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Oz9dGc3c8s8xe77dTZLakvQkL8WElJ4rtp-aJ8eKGN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzY0/NDktMTQ0MTQ4MDcw/NS01OTU1LmpwZWc.jpeg" alt="Cover for Hyperspace Sound Lab" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/HwQAxvzYlBIlpSIVlJk17_1io2ptaa-wHkRw8HVHYoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzAw/NzctMTM1NzU3MjMx/Ny0yMjA0LmpwZWc.jpeg" alt="Cover for I Love You In Other Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb878b8c41c24a5c88ce93cf90d198ae.png" alt="Cover for Carnival of Carnage" style="max-width:120px; height:auto;" />
       </td>
@@ -116,7 +116,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 39</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -136,13 +136,13 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 18</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 23</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97617318a8289ce7ce6f9b48f2ad2b5a.png" alt="Cover for Ringmaster" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 2</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -216,12 +216,12 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 76</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b7cb0f86cff6a4b93b31813c9b13b09.png" alt="Cover for Riddle Box" style="max-width:120px; height:auto;" />
       </td>
@@ -237,17 +237,17 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 52</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 38</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 56</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 68</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 69</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 79</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1996</td>
@@ -267,7 +267,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cb3078f621d4248b52c750e5504df42.png" alt="Cover for Early Mornin&#39; Stoned Pimp" style="max-width:120px; height:auto;" />
       </td>
@@ -321,7 +321,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 59</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 93</li>
         </ul>
       </td>
@@ -444,7 +444,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 26</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -463,12 +463,12 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 56</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9359b30ab774d41cd6fc9d110cca24f.png" alt="Cover for Detroit Vs. Everybody" style="max-width:120px; height:auto;" />
       </td>
@@ -505,25 +505,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/047ee4b74794f50dc72f459e643bf450.png" alt="Cover for Ultraglide in Black" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-05-21</td>
-      <td>The Dirtbombs</td>
-      <td>Ultraglide in Black</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a30d8560f347c1e25275156539c7f12e.png" alt="Cover for Devils Night" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +541,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/YbE5CCeekIpKPrgVC_X83xB8ZnKLWQ1pEPVChtSPHxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQ1/MjEtMTUzMjM0NTUw/Ny04NTk0LmpwZWc.jpeg" alt="Cover for The Chaos Theory" style="max-width:120px; height:auto;" />
       </td>
@@ -574,7 +556,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 57</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +576,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 23</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 27</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 84</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 92</li>
         </ul>
@@ -620,7 +602,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2002-04-09</td>
@@ -634,7 +616,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 67</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -656,8 +638,9 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 27</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 1</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 28</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -696,15 +679,16 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 7</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 73</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 10</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 74</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5325e301beef4d1cb8c818eec9ede5f4.png" alt="Cover for Dangerous Magical Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-25</td>
       <td>The Dirtbombs</td>
@@ -735,8 +719,8 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 88</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -758,13 +742,13 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 44</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 48</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b253f559f2e5fae3ab89a8a947cfa6.png" alt="Cover for D12 World" style="max-width:120px; height:auto;" />
       </td>
@@ -779,14 +763,14 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 27</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2004-05-18</td>
@@ -800,7 +784,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 59</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +808,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -838,7 +822,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 69</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -861,13 +845,13 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 29</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 33</li>
             <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/h1Dm8wZXv6k9GtWZ8MbkXm27tcjpH-QN0jmeXDTmZEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEw/MTYtMTUyODY5ODk1/OC0zNjA0LmpwZWc.jpeg" alt="Cover for Colton Grundy" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +866,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 66</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -908,7 +892,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/qV-V8Ds2cXK-gxHtjYPU7PNa9BMYHWXNrOynmohtu4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDgx/NzEtMTUzMjM0NTgy/NC03NTYwLmpwZWc.jpeg" alt="Cover for Master of the Flyng Guillotine" style="max-width:120px; height:auto;" />
       </td>
@@ -923,7 +907,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 62</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -967,7 +951,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7be4dca794c846c19c3dba58946507e7.png" alt="Cover for The Calm" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1068,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/46eF5ancXH2lpFG8liHIvzFD6kkpUrUCfyaEmXnCjxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU4/MjAtMTUzNzkyMzg3/My0xODEzLmpwZWc.jpeg" alt="Cover for Cobain&#39;s Diary" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,7 +1119,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 63</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 64</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 80</li>
         </ul>
       </td>
@@ -1200,7 +1184,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4eb16a614e04393bbdd32cca9ec722d.png" alt="Cover for ShapeShifters" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1203,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>2008-08-30</td>
@@ -1236,7 +1220,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Let &#39;Em Bleed the Mixxtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1235,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 68</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1315,7 +1299,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c9efb6e1bc4245849352b0279be05b.png" alt="Cover for King of Horrorcore, Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,13 +1312,13 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 25</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 26</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/c1Pa8trTj0pq6_Tfgp_NlSwttPRnsV1MNje10zabF3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc2/NzAyLTE1Mzc5MjQw/NTYtNjUzNi5qcGVn.jpeg" alt="Cover for Xerxes the God King" style="max-width:120px; height:auto;" />
       </td>
@@ -1349,12 +1333,12 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 60</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010</td>
@@ -1368,7 +1352,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 65</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1394,7 +1378,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/LbzXXjOqzi7m_Lo0pcVZStiVgG1yyLnzISpM1ZfQXf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk0/OTEtMTQwMTMzNTE2/Ny0zOTMwLmpwZWc.jpeg" alt="Cover for Pony Down (Prelude)" style="max-width:120px; height:auto;" />
       </td>
@@ -1410,8 +1394,27 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 71</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 72</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/y835qGOWpIgU6KQmLTwXlNAD5R-qER35WI52KnrXhZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODIw/MzQtMTI3NDI0NTQ1/Ni5qcGVn.jpeg" alt="Cover for Straight Up Detroit Sh*t Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-26</td>
+      <td>DM Djs</td>
+      <td>Straight Up Detroit Sh*t Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1439,7 +1442,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/DjmgLIxjZ3y_LqpsRlplBPSweS28I1vvxvcG3a6UH_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTIz/OTgtMTQ4NTgwNTA5/Ni05Mzk1LmpwZWc.jpeg" alt="Cover for Young &amp; Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,6 +1482,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed401301f3cc40c2bd0c520aa08ceed6.png" alt="Cover for Party Store" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-31</td>
       <td>The Dirtbombs</td>
@@ -1533,8 +1537,8 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 1</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 64</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 3</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 65</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 75</li>
         </ul>
       </td>
@@ -1580,7 +1584,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/wgVZUW5nC92gHbY5sAnusVlLSr4Wp8BRgPq9ecvvMl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc5/Nzk2LTE2NTk0NjIx/MzItNDMwOS5wbmc.jpeg" alt="Cover for Blood In Blood Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1599,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 74</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1641,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       <td>
         <ul>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 22</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 75</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1769,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/9gpxgFjjjBgSY2rK2ZOmLNho4xibyMutsfHzl00mxgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE5/MDI3LTE1ODAyNTQz/ODEtNDU5NC5qcGVn.jpeg" alt="Cover for Game Related" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1789,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/L8il2TDa4i89ajcIWhnap2NuNzbYTk1c8oypiR8dUcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU2/ODkxLTE2NDkyNjkw/MzEtODUxMi5qcGVn.jpeg" alt="Cover for Wuddaji" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1811,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/xhSsGcA0v-B0J_kDDDIC_JAJLlu1SAF4IaoROhj7lPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU3/NzA3LTE2MjYwMjM4/NjAtNzYxMi5wbmc.jpeg" alt="Cover for Hatchet Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1826,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 70</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1845,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 78</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1868,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 14</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 26</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 86</li>
         </ul>
@@ -1913,7 +1917,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Sympathetic Sounds of Detroit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcb6bc83dffd4bb580f16e45414c390f.png" alt="Cover for Sympathetic Sounds of Detroit" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1927,7 +1931,8 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 87</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 3</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1974,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1988,7 @@ Detroit hip-hop emerged from Michigan&#39;s gritty urban landscape, characterize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 64</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 65</li>
         </ul>
       </td>
     </tr>

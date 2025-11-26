@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:34:57.285Z
+date: 2025-11-26T00:46:56.538Z
 permalink: tags/djent
 title: djent
 ---
 
 ## djent
 
-Last updated: <time datetime="2025-11-23T02:34:57.285Z">Sun Nov 23 2025 04:34:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T00:46:56.538Z">Wed Nov 26 2025 02:46:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 28</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -80,8 +80,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 2</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +103,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -141,8 +142,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 45</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 79</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -160,8 +161,6 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 37</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +179,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 9</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -200,13 +199,13 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 57</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab1931cdd6242478d2c55594df3349c.png" alt="Cover for We Are The Foundation" style="max-width:120px; height:auto;" />
       </td>
@@ -221,7 +220,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 18</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -239,9 +238,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 68</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 75</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 27</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +283,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 31</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -303,12 +301,13 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 60</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 14</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cd3eb10c0b5405684aedfc28e235488.png" alt="Cover for Februus" style="max-width:120px; height:auto;" />
       </td>
@@ -360,10 +359,10 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 74</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 78</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 94</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 93</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +439,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 19</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -459,7 +458,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 27</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +477,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 61</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -516,8 +515,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 16</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +575,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +595,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 86</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -616,7 +614,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 21</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -638,8 +636,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 39</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 41</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -711,8 +709,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 67</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 67</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 73</li>
         </ul>
       </td>
@@ -731,8 +729,6 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 42</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -759,8 +755,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 10</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 66</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 74</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 93</li>
         </ul>
       </td>
@@ -779,7 +776,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -842,9 +839,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 44</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 80</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 60</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 86</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
         </ul>
       </td>
@@ -866,8 +863,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 50</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -907,14 +904,14 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 1</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 31</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 3</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a2feac413115bf2bec184bead8dfe29.png" alt="Cover for Lost Inside" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +949,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 2</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 90</li>
         </ul>
       </td>
@@ -995,7 +992,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1022,8 +1019,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 52</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 71</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 53</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1039,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 51</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1062,8 +1059,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 54</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 85</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1087,7 +1084,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1108,25 +1105,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4027312f64d242cf8cc3c6a02758276.png" alt="Cover for Outside The Box" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-03-04</td>
-      <td>Hacktivist</td>
-      <td>Outside The Box</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1128,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 68</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1171,14 +1150,14 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 64</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Pam-9mWF-kEFFG7HrwbMw6UGiOYkC9HZAkuwwrqZu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg1/ODMtMTQ3NjIzOTU5/Ny05NjgwLmpwZWc.jpeg" alt="Cover for DOOM (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c1b0891d727f3c9070ba22c0bc40398.png" alt="Cover for DOOM (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-29</td>
       <td>Mick Gordon</td>
@@ -1193,9 +1172,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 32</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 16</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 33</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1215,8 +1194,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 37</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 69</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 72</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1241,8 +1221,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 61</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 79</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 81</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 83</li>
         </ul>
       </td>
@@ -1307,9 +1287,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 46</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 81</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
         </ul>
       </td>
@@ -1331,7 +1311,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1350,7 +1330,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 20</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 49</li>
         </ul>
       </td>
@@ -1372,12 +1352,12 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 78</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56cc9d82a89541833b57f809103c274e.png" alt="Cover for Hikari" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1372,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1395,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1415,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1456,7 +1436,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 88</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1513,6 +1493,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1514,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 78</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1557,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 77</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1603,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 89</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 92</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 96</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 100</li>
@@ -1647,7 +1628,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1685,7 +1666,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1690,9 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 93</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 94</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1735,8 +1717,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 57</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 77</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 79</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 81</li>
         </ul>
       </td>
@@ -1858,7 +1840,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 83</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1900,7 +1882,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 85</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1901,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 78</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1934,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/TmXyZc9WhaCU5mY6x8HDG8qQ51e_KDNjEnfiWOu986I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTIy/NjI5LTE2Mzc4Nzgx/ODItMTkxMS5qcGVn.jpeg" alt="Cover for Happier?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab33d49108807e66a5531e921b21f444.png" alt="Cover for Happier?" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>Volumes</td>
@@ -1965,7 +1947,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 21</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1986,7 +1968,24 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 93</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2022-08-12</td>
+      <td>Unprocessed</td>
+      <td>Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2006,7 +2005,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 52</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2032,8 +2031,8 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 50</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2053,7 +2052,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2076,7 +2075,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 64</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2096,7 +2095,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 13</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2116,7 +2115,7 @@ Djent is a progressive metal subgenre characterized by palm-muted, syncopated gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 91</li>
         </ul>
       </td>
     </tr>

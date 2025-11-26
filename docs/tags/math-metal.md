@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:35:21.350Z
+date: 2025-11-26T01:02:09.868Z
 permalink: tags/math-metal
 title: math metal
 ---
 
 ## math metal
 
-Last updated: <time datetime="2025-11-23T02:35:21.350Z">Sun Nov 23 2025 04:35:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T01:02:09.868Z">Wed Nov 26 2025 03:02:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d71fbf3bd8e0edd920981db285bd7f.png" alt="Cover for Burner" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/788419bea2e2f536a1466759b4edfde9.png" alt="Cover for None" style="max-width:120px; height:auto;" />
       </td>
@@ -104,8 +104,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 4</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 77</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -124,10 +123,28 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 36</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 23</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2000-06-13</td>
+      <td>The Dillinger Escape Plan</td>
+      <td>Dillinger Escape Plan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -147,12 +164,13 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 15</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/wHRue6nyVrJcNaXJ_iZewGd0Cr7X-cbigajI5i_42fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njkx/NS0xMTc1MTU3OTYx/LmpwZWc.jpeg" alt="Cover for Nothing [Re-Issue]" style="max-width:120px; height:auto;" />
       </td>
@@ -183,14 +201,14 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 56</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 95</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7910154cbf764be8b180ebfafc4ef402.png" alt="Cover for A Great Artist" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-29</td>
       <td>A Life Once Lost</td>
@@ -210,7 +228,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4773165f41f4f3e95f944f0c51436f5.png" alt="Cover for Nietoleruje-Bije" style="max-width:120px; height:auto;" />
       </td>
@@ -229,12 +247,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 69</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-4THuR8Mz77m7ty2tJEs2CUBUL37kZMrJELWX3OsOZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY2/NzEtMTU2MjUxMTk2/Mi02NzIzLmpwZWc.jpeg" alt="Cover for ...Breathing Is Irrelevant" style="max-width:120px; height:auto;" />
       </td>
@@ -255,7 +273,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e9d6291d74f099f358c68857c18e43.png" alt="Cover for Ink Compatible" style="max-width:120px; height:auto;" />
       </td>
@@ -270,7 +288,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 86</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -289,14 +307,14 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
             <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 57</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 97</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2005</td>
@@ -315,7 +333,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a4ba67fbe54bec92ae34119c742182.png" alt="Cover for Unorthodox Creative Criteria" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +352,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73f538ae645846ced722afbae62d5541.png" alt="Cover for Centralia" style="max-width:120px; height:auto;" />
       </td>
@@ -348,13 +366,13 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 20</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 69</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 24</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aef3d4a8db20ed7aae26e929e247e234.png" alt="Cover for Minus The Herd" style="max-width:120px; height:auto;" />
       </td>
@@ -368,8 +386,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 39</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 64</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 41</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -396,7 +414,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bafdfbc6d3c542dc9551e05cec690018.png" alt="Cover for Cannibalised" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +432,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 85</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -434,15 +452,15 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 13</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 14</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 29</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 60</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d3599fbdaa34d50ad22fc1a769e5585.png" alt="Cover for Silhouettes" style="max-width:120px; height:auto;" />
       </td>
@@ -456,12 +474,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 6</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb7b896240c4faea4ae0996cbd73d11.png" alt="Cover for The Hidden Words" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +498,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2009-04-28</td>
@@ -494,8 +512,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 43</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +537,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78e0f0939e8f767063ef156ac930ba8.png" alt="Cover for 8" style="max-width:120px; height:auto;" />
       </td>
@@ -535,12 +553,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/828840fa4e3f23953ea3083d06a58212.png" alt="Cover for Terminal Code" style="max-width:120px; height:auto;" />
       </td>
@@ -560,7 +578,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ffb23402f79fb592a26ee64a28ad51.png" alt="Cover for Nonsense" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +599,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d76faf629f4fc694eab01b06626979.png" alt="Cover for Periphery" style="max-width:120px; height:auto;" />
       </td>
@@ -595,13 +613,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 11</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58b7b6632d8f4318ad9ac1b4275a3bd1.png" alt="Cover for Ineave" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +637,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc25b47132e4f5fb15403a7d6ff5e37.png" alt="Cover for CRITICAL.ERROR" style="max-width:120px; height:auto;" />
       </td>
@@ -638,7 +655,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac5c3df876504de9b22bb133a1b607a4.png" alt="Cover for The Concept of Dreaming" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +674,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eab1931cdd6242478d2c55594df3349c.png" alt="Cover for We Are The Foundation" style="max-width:120px; height:auto;" />
       </td>
@@ -672,14 +689,14 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 1</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/59Fg_rcPNQNCGQVKT5eDL1iIf5cltET_QuVgdcqy4Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTU5/MjctMTcwMjE0ODcz/NC03MDQxLmpwZWc.jpeg" alt="Cover for Stranded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f6f794c40d4bc2bf46eee08848dfca.png" alt="Cover for Stranded" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Of Legends</td>
@@ -697,7 +714,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537bbe3f789a80bcc4ef90bac2fc238a.png" alt="Cover for Unframed" style="max-width:120px; height:auto;" />
       </td>
@@ -729,14 +746,13 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 68</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 27</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15713948d171475c9fe482e90e6d8385.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
@@ -775,8 +791,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08940969ef7745779d8c0288e4359101.png" alt="Cover for Carnival Is Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-12</td>
       <td>Decapitated</td>
@@ -794,7 +811,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84e3218eca1d48eab9dba7ef69da4b1d.png" alt="Cover for Red Seas Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +830,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0deff0cd9fcf4bdab56e1b8110864bfd.png" alt="Cover for Dualism" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +848,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d81790b1066cc25071788c76a095d9.png" alt="Cover for Cassini" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +868,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c42459d74f84c1ba4e4a6e971baeae8.png" alt="Cover for Via" style="max-width:120px; height:auto;" />
       </td>
@@ -865,11 +882,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 10</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f4863af7924c7b8ea49317e60c621c.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
@@ -883,13 +901,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 18</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0db5b740bd8942dfbe83b8eb4b29c9e6.png" alt="Cover for Ever Forthright" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +924,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8859eb8a6cba4807b02a17b025c1aa7e.png" alt="Cover for Case of Noise" style="max-width:120px; height:auto;" />
       </td>
@@ -924,7 +941,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 75</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -963,9 +980,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 74</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 78</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 94</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +1005,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96efd350b584402d9783c1ae83b23cfa.png" alt="Cover for Grind the Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1023,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b0f4fe4a24b44b3ab9f19f5cb1e0c1e.png" alt="Cover for Perspective" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1042,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bbb49ebc7d446db866ce9b2ec8393ad.png" alt="Cover for Moments" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,12 +1059,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 82</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aebc8c7741d1481e8083f59e668d6361.png" alt="Cover for Gnosis" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,12 +1077,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 53</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08550ff2f35849bf85ddb58e82429060.png" alt="Cover for Invent the Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1102,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/253e1f46ebe747bfc7bfe63793c33d2b.png" alt="Cover for Hacktivist" style="max-width:120px; height:auto;" />
       </td>
@@ -1142,7 +1159,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41088a68f96e4fa891d133d08b9d1609.png" alt="Cover for Exposition" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,12 +1178,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 76</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/431df5550e3895e7a8a159495c265134.png" alt="Cover for Mouth of Swords" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1201,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dded8a31188c4820c877bfb9db0fb182.png" alt="Cover for Travelers" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1220,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e608b2599e404fcecf55993e5d5bc9ef.png" alt="Cover for The Amanuensis" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1233,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 78</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1243,14 +1260,15 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 10</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca4b2de12a742f4c2adc09f9d80d4ee.png" alt="Cover for Lion" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,15 +1309,15 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 44</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 60</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858a7a27bcc5444fc4eab804bae9ef36.png" alt="Cover for Aeons" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,12 +1334,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 83</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/774ea309060341eac17166c9dc3e9a54.png" alt="Cover for Juggernaut: Alpha" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,12 +1400,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 37</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/405b63cc87c229f7b48a9b463b03dc8a.png" alt="Cover for Brute Force" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1443,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/031c2d79bde0af97ee47a21a2d850a52.png" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1463,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/113644af77f06a44b228722966819b61.png" alt="Cover for The Infinite Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1532,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bd80e425953beca54a25a051b16558f.png" alt="Cover for Cassini (5th Anniversary Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1556,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Pam-9mWF-kEFFG7HrwbMw6UGiOYkC9HZAkuwwrqZu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg1/ODMtMTQ3NjIzOTU5/Ny05NjgwLmpwZWc.jpeg" alt="Cover for DOOM (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c1b0891d727f3c9070ba22c0bc40398.png" alt="Cover for DOOM (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-29</td>
       <td>Mick Gordon</td>
@@ -1553,8 +1571,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 15</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 32</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 16</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 33</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 88</li>
         </ul>
       </td>
@@ -1575,39 +1593,14 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 37</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 69</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/258ac9271baca5f2eed2013265473f11.png" alt="Cover for Over-Throne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-12-09</td>
-      <td>Hacktivist</td>
-      <td>Over-Throne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/096beb4e64a81d43320b60ba15358c7e.png" alt="Cover for Blind World" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,12 +1641,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8b1e265381fbf53671724b86922f4d9.png" alt="Cover for Look At Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1669,14 +1662,15 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 42</li>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 67</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 95</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 68</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Av2Ay84y5QJYlvIo9EDPUGdjdNfKcVYEcQJRViM74uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYx/MDUwLTE0OTI2OTE0/NjEtMjc4Ny5qcGVn.jpeg" alt="Cover for Synchromysticism" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,8 +1733,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 46</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
         </ul>
@@ -1876,7 +1870,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 89</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 92</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 96</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
@@ -1911,7 +1905,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b18b3d4aa442a3e17ec5c55036e6c9a.png" alt="Cover for Homebound" style="max-width:120px; height:auto;" />
       </td>
@@ -1948,12 +1942,12 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/451ac43ecc2bdf78d499d8f9a88028f1.png" alt="Cover for Super 90&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1975,7 +1969,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/m4bviPWWMt3hpzzh0NeLyjk5PyeTh_sbOwBUIK3DQq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk1/ODYxLTE1NTcxODAz/OTYtOTIyMC5qcGVn.jpeg" alt="Cover for Familiaris" style="max-width:120px; height:auto;" />
       </td>
@@ -2036,7 +2030,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/FpGyK7ELflHhG3epbBpt1V-QD5NFw6-Q_tkcIZIvplQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc4/NjQwLTE2MTIwMTg3/MTYtNzkyMS5qcGVn.jpeg" alt="Cover for Senpai III" style="max-width:120px; height:auto;" />
       </td>
@@ -2079,7 +2073,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ZqCYSd26y2tJeom6UKEUK7Nnm9QDscjw44N6CRITpgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ5/MDExLTE2NTc0MjMz/OTYtMjExNS5qcGVn.jpeg" alt="Cover for Data Renaissance" style="max-width:120px; height:auto;" />
       </td>
@@ -2094,7 +2088,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 87</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2116,7 +2110,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 89</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 91</li>
         </ul>
       </td>
     </tr>

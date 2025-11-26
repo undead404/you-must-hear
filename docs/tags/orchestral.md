@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T15:36:11.529Z
+date: 2025-11-26T02:00:08.832Z
 permalink: tags/orchestral
 title: orchestral
 ---
 
 ## orchestral
 
-Last updated: <time datetime="2025-11-18T15:36:11.529Z">Tue Nov 18 2025 17:36:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:00:08.832Z">Wed Nov 26 2025 04:00:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
   </thead>
   <tbody>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1957</td>
@@ -52,7 +52,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
         <ul>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 90</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -74,7 +74,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/t8z26ojzTMZrJ43jG-AXU2ggvca1xR8XGQZP6tqGjqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTYx/MjMwLTE2Mjk2ODI3/OTQtMzkwOC5qcGVn.jpeg" alt="Cover for Exotica 1" style="max-width:120px; height:auto;" />
       </td>
@@ -98,7 +98,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
         <ul>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 92</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 56</li>
             <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
@@ -132,7 +132,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/VBv4pOna3AyLCPvJtNs18v7FvayDLLHVbG-Kk3vfiB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcy/MDQzLTE2NjY4Nzkw/NDAtODUzOS5qcGVn.jpeg" alt="Cover for Mahler: Symphony No. 5" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/6fo9aSbYhOIOjHKkdMhLCilQca_jHxbrSCv0rJk2jRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/ODgtMTI3MjYxOTk2/Ny5qcGVn.jpeg" alt="Cover for Obi-Wan Kenobi (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12af9d1edc823f122045aa80e23c809e.png" alt="Cover for Obi-Wan Kenobi (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>John Williams</td>
@@ -374,7 +374,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 51</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 54</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -419,16 +419,16 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 31</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 33</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 91</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/5DDDkD_al4x-NjstHoP9BkbiAaTCpHuXQwDgEOQSDXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDUz/NTY3LTE2OTYwNzAw/OTgtNzA2Mi5qcGVn.jpeg" alt="Cover for A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f2c3661dc4608014eab20c6bd50f51.png" alt="Cover for A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Joe Hisaishi</td>
@@ -442,7 +442,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 59</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 63</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 94</li>
         </ul>
       </td>
@@ -499,7 +499,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 78</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +543,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/CjfIS8WI2oVyh6B2DZf3SXZosZJGyATCn4PgaUjHgL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDYw/NjItMTMwMDYxNTQ2/MS5qcGVn.jpeg" alt="Cover for The Planets, Op. 32" style="max-width:120px; height:auto;" />
       </td>
@@ -583,13 +583,13 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       <td>
         <ul>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 47</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 84</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 86</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/7JWPxRKFGKzSu62HpuFXhovFzltESozGrzIe8kJXkbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzg0/NzctMTQ3NTQzNTM3/MC0xMzM0LmpwZWc.jpeg" alt="Cover for Beethoven: Symphonies Nos. 7 &amp; 8" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +642,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
             <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 99</li>
         </ul>
       </td>
@@ -663,7 +663,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 29</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -683,13 +683,14 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfaaac61d7974f9ebb846f87d5c39a72.png" alt="Cover for Epicon" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-24</td>
       <td>Globus</td>
@@ -756,6 +757,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9300e3c4776dfdabb0c63831dd4f413e.png" alt="Cover for The Simpsons Movie" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>Hans Zimmer</td>
@@ -810,6 +812,24 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f2a198f743d646dc469ee8236e3b0ff.png" alt="Cover for Forrest Gump - Original Motion Picture Score" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Alan Silvestri</td>
+      <td>Forrest Gump - Original Motion Picture Score</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>25</td>
       <td>
       </td>
@@ -830,6 +850,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7b8b3fc3628de899cb65c3400177bc7.png" alt="Cover for Who Framed Roger Rabbit" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -902,7 +923,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 23</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 27</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 99</li>
         </ul>
       </td>
@@ -928,7 +949,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fc21069faa0c630a9f6e9ebe9cca024.png" alt="Cover for Songs From Final Fantasy XV" style="max-width:120px; height:auto;" />
       </td>
@@ -937,22 +958,15 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       <td>Songs From Final Fantasy XV</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 20</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 81</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb1d74a63ce4719c7234ae9da932fdb.png" alt="Cover for The Human Condition" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +989,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Archangel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/570aee495091ffe1cc24e9a8c7bb196a.png" alt="Cover for Archangel" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>Thomas Bergersen</td>
@@ -995,9 +1009,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Classics, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39dce4bfaae5d02ec8961c37cf06dab5.png" alt="Cover for Classics, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-22</td>
       <td>Thomas Bergersen</td>
@@ -1015,7 +1029,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Classics, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/452b6d7e31a642ca95b528527cbec50b.png" alt="Cover for Classics, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-22</td>
       <td>Thomas Bergersen</td>
@@ -1101,14 +1115,14 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 78</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 88</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/BPMI6P1df3IP8t0LQS7ADI7pfrFQTNllQ9xNrhzudKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkz/NDItMTUxMTAyNzIw/OC0yODkzLmpwZWc.jpeg" alt="Cover for The Dark Knight Rises (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96f30e4889624e23992b04760ecdffad.png" alt="Cover for The Dark Knight Rises (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Hans Zimmer</td>
@@ -1150,7 +1164,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 43</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 44</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 92</li>
         </ul>
       </td>
@@ -1176,6 +1190,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5913594051e1f50c26c411c5dd277efe.png" alt="Cover for Miracles" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-02</td>
       <td>Two Steps from Hell</td>
@@ -1231,9 +1246,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 30</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 96</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 98</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 99</li>
         </ul>
@@ -1242,7 +1256,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/-yYfnAzzvkPCDz8k0Xvl1cw7AWVBP09ovoV4a0t2eVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzA3/MDktMTQzNTI5NzQ4/MS0yOTQ2LmpwZWc.jpeg" alt="Cover for Battlecry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/781794382201798151f0cc29aefb6feb.png" alt="Cover for Battlecry" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Two Steps from Hell</td>
@@ -1264,7 +1278,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/73CNr2JgPtmJVEUre7ABgpR2SZfx3WtZHl3hMRuhxzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjAw/MTEtMTQzOTc2MTgy/Mi00OTUwLmpwZWc.jpeg" alt="Cover for ECO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/029d96369758f1f8efa22d7679f4ab23.png" alt="Cover for ECO" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-16</td>
       <td>David Maxim Micic</td>
@@ -1280,7 +1294,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 80</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1322,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/7FLcdXKypetsu2OSoScHDoN2wFERNDD54Au5aAZ7Uhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA5/Nzc5LTE2NDI2NDg1/NjQtNDU1OC5qcGVn.jpeg" alt="Cover for Level 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/327126858ad946d4c6025ce997eb86e8.png" alt="Cover for Level 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Video Games Live</td>
@@ -1346,7 +1361,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/VNIGNStCatg4q_eYAJTH-xEL07PckJ7ifJgQJQGq-z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM0/MDM0LTE1MzkwMTk4/MjctMTM2NC5qcGVn.jpeg" alt="Cover for Tchaikovsky: Swan Lake" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,28 +1433,10 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 32</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 59</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/nc9vkBSL9e0mRxZc8cQaxeZi-6zIgGMSGjQ1JsDK7rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc2/OTg2LTE0OTI5MTYx/NjctMjg3NC5qcGVn.jpeg" alt="Cover for Fight Songs: The Music Of Team Fortress 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-04-21</td>
-      <td>Valve Studio Orchestra</td>
-      <td>Fight Songs: The Music Of Team Fortress 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1463,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/5pbzMj_StrcjvpFTwSMuq_tu-1OzwHCLjfVzzynzY5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAw/NzcyLTE1MTM3MzE3/OTMtMTU5MC5qcGVn.jpeg" alt="Cover for Nier: Glory to Mankind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37f886a71140705295dcf3850691f01a.png" alt="Cover for Nier: Glory to Mankind" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-01</td>
       <td>Rozen</td>
@@ -1526,7 +1523,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/_7PxXeIyAPg47WkgNSEcO5aH7TYLmfWxWZ67nukamPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkw/MzE5LTE2MDE0ODEx/MjAtODUxOS5qcGVn.jpeg" alt="Cover for Guns for Hire (From the series Arcane League of Legends)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad6d3bcc3641a6a435b21e72e6e23f0b.png" alt="Cover for Guns for Hire (From the series Arcane League of Legends)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Woodkid</td>
@@ -1544,7 +1541,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/FBieuoyQjfyzXhSyuMKEYVDhp6ltUNnEhCm-azZcN2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjYw/MTU2LTE1NTg0NjY5/ODMtODQ4Ni5qcGVn.jpeg" alt="Cover for Flying" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1561,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/nU3enXI1TYoB5p5Um012C8b19sjLzKl0i0Ld0lLCusE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgy/Mzg2LTE1MzYxNjQ4/MjktNTY4MS5qcGVn.jpeg" alt="Cover for Formula 1 Theme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68a0022f3f3413647eb8e8af7a30bcf9.png" alt="Cover for Formula 1 Theme" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-17</td>
       <td>Brian Tyler</td>
@@ -1581,7 +1578,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/UNn2n9gEiEmn7lmJLFCshLUhzdIS-9HSap_nhSpVSwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg5/ODgxLTE1Njc2Mzk2/ODctOTM1MS5qcGVn.jpeg" alt="Cover for nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1616,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af84f6743fe4d4dcd3a160df62fca96.png" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-11</td>
       <td>Thomas Bergersen</td>
@@ -1641,7 +1638,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/dTX_Ff_lM8yW7IRp6gbC-RnEAmgJvKl4LLBNix4fAD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY1/OTY0LTE2ODIwMTg0/OTgtMzkxNC5qcGVn.jpeg" alt="Cover for Children of Termina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2960978dc37c0bbcc7b4a91023972f.png" alt="Cover for Children of Termina" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-30</td>
       <td>Rozen</td>
@@ -1677,7 +1674,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 13</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1697,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc22be662cfefed00d423afc69e6c3da.png" alt="Cover for The Drug In Me Is Reimagined" style="max-width:120px; height:auto;" />
       </td>
@@ -1717,12 +1714,12 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 51</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/kwLrtM_CkW8v-ISZ5Qvr92GhcCQvlBow2xwpCXtohM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjU1/NDE2LTE2Mjc0ODE3/MzctOTIyNC5qcGVn.jpeg" alt="Cover for Genshin Impact - City of Winds and Idylls (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1790,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 42</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1815,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/DwNc302AsaORnv2cxzGj4ADh5K9dx2zbE6204SVN_fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEx/NjI4LTE2NTgwNTY4/NzUtNDM3MC5qcGVn.jpeg" alt="Cover for Car Therapy Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1833,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ed17a8c5b6667212a5b8d25f025fef.png" alt="Cover for The Maybe Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1852,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 97</li>
         </ul>
       </td>
@@ -1914,8 +1911,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 4</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 42</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 45</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 76</li>
         </ul>
       </td>
@@ -1923,6 +1920,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c353229078dc42d0a34a1646601b92d6.png" alt="Cover for The Devil Wears Nada" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Two Steps from Hell</td>
@@ -1958,7 +1956,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1975,7 +1973,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td></td>
@@ -1994,7 +1992,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2a29ca5195e747ed429cfdf7049c49f.png" alt="Cover for 平成風俗" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,6 +2036,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74664b1d31aec6200b516ae558926195.png" alt="Cover for Shadow of the Colossus OST" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>大谷幸</td>
@@ -2089,7 +2088,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1f9b31c8d287ca89a82c71bfeb158c.png" alt="Cover for The Elder Scrolls Online: Music of Tamriel, Vol. 1 (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:17:05.150Z
+date: 2025-11-25T23:54:27.546Z
 permalink: tags/british-rock
 title: british rock
 ---
 
 ## british rock
 
-Last updated: <time datetime="2025-11-23T02:17:05.150Z">Sun Nov 23 2025 04:17:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-25T23:54:27.546Z">Wed Nov 26 2025 01:54:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
   </thead>
   <tbody>
     <tr>
-      <td>47</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/625af5eb69744810a7f8c0cf41b8638a.png" alt="Cover for For Your Love" style="max-width:120px; height:auto;" />
       </td>
@@ -43,12 +43,12 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 40</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/950a7486cb01c993b8b8bba63ed87451.png" alt="Cover for The Pretty Things" style="max-width:120px; height:auto;" />
       </td>
@@ -58,7 +58,6 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
       <td>
@@ -104,7 +103,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 26</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 30</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 100</li>
         </ul>
       </td>
@@ -130,7 +129,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8bf8b2f246612b59f0ecc07371c96a0.png" alt="Cover for Terry Reid" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +162,6 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 33</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 92</li>
         </ul>
       </td>
@@ -233,7 +231,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 37</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +282,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/173eb151d98cc147044363822d5c94f5.png" alt="Cover for Argus" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +387,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8a0e99246f211e81eb72359834be8c7.png" alt="Cover for Stalingrad" style="max-width:120px; height:auto;" />
       </td>
@@ -414,7 +412,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/utk5wEeC7yNwLbMbHIXw7k2GMvHpIfsv85Zcmv8kZJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/Mi0xNDY4NTg4Njk0/LTgyNTcuanBlZw.jpeg" alt="Cover for Drop Chocolate Not Bombs" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +454,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ba01a53973b4472c4af390c3897379e.png" alt="Cover for Bent Out of Shape" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +472,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20c6f897ca9176b46fe10cc149f9209.png" alt="Cover for Sound Elixir" style="max-width:120px; height:auto;" />
       </td>
@@ -583,7 +581,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/6547daga3dV474UIP2BJxy_lQq6scwkuF1W5Hb2Ihec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/OTQ5LTE2MDYzMjQx/MTQtNDQ5NS5qcGVn.jpeg" alt="Cover for Blues Jam In Chicago - Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea24eacfc98d41658e38f2f05277b5d2.png" alt="Cover for Blues Jam In Chicago - Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-11-04</td>
       <td>Fleetwood Mac</td>
@@ -607,7 +605,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/n7jMHfrUPsrkg1-7-_xRvceq3F-hptpF4EDwfrtEW7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY5/NjIxLTE2MjMxODk2/NjYtODk4MC5qcGVn.jpeg" alt="Cover for Blues Jam In Chicago - Volume 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b7ff895be6d45189adb1355c5f11c50.png" alt="Cover for Blues Jam In Chicago - Volume 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Fleetwood Mac</td>
@@ -630,7 +628,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07a2821fcae7be4bc27f3a3bcc13d842.png" alt="Cover for And I Turned As I Had Turned As A Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +672,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e124211c9183468f8e381c214f30c3d3.png" alt="Cover for Raging Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +690,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59ecaa8fd6474c48b04cc537a0d9e508.png" alt="Cover for The John Lennon Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -710,7 +708,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2f6e9aa897640949816e9732187062a.png" alt="Cover for At The BBC" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +725,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffbc4f6404a44ee3917e89032d252bcb.png" alt="Cover for Beyond the Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -771,7 +769,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c690c83fc74e1c940df4477834d90d.png" alt="Cover for Coverdale&#x2F;Page" style="max-width:120px; height:auto;" />
       </td>
@@ -867,13 +865,13 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MqJ8XZ7WhMwq58gb-MM_YUl7MtNmJB2fHdBU7jhtPXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk3/MDUzLTE1Nzk4NDU3/NTItOTkwNy5qcGVn.jpeg" alt="Cover for Electroman" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +898,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/99NDMD-Lx3YrJE4aRjROMWOD8SoOFAikei3uYXhERBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA1/MTItMTQwNzcwNjA2/My00ODk1LmpwZWc.jpeg" alt="Cover for Shrine &#39;69" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5db8b5f43d044cb081c421368a3049ae.png" alt="Cover for Shrine &#39;69" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-22</td>
       <td>Fleetwood Mac</td>
@@ -943,7 +941,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/5aBG2S40Fc3T2k_5opqxaDM5oZ7ZcD20mVEhfCPWjAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjk1/MDUtMTQ0OTY3NTg0/OS00MDIwLmpwZWc.jpeg" alt="Cover for Calm" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +989,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/2ojnjIxUbKxZRh9SDADexgjetF0t-HZfuVW3D5RMzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUy/NDQ3LTE2OTA5NzMx/MjAtMTQ2Ny5qcGVn.jpeg" alt="Cover for Well Worth Waiting For" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1008,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/2ojnjIxUbKxZRh9SDADexgjetF0t-HZfuVW3D5RMzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUy/NDQ3LTE2OTA5NzMx/MjAtMTQ2Ny5qcGVn.jpeg" alt="Cover for One in the Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1087,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fcfaf10b2ac43429ed5801ea199848c.png" alt="Cover for Familiar to Millions" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,7 +1118,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 30</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 31</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 87</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 99</li>
         </ul>
@@ -1144,7 +1142,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c648c6a096f4fdd9ae8d719f0aae582.png" alt="Cover for Echoes: The Best of Pink Floyd" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,39 +1152,6 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef90ab68c09fdab0d7ef45ce2ca97d4.png" alt="Cover for The Rainbow Wolves E.P" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Gold Digger</td>
-      <td>The Rainbow Wolves E.P</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
@@ -1217,7 +1182,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec398099756e4879963e4b25e6c1467f.png" alt="Cover for Sharks" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,7 +1216,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd1adc53e889d1d8c89980757e7233c1.png" alt="Cover for Steady the Buffs" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,12 +1233,12 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 42</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/X6od0Fdd3USWyNMrc43Ep-I2RppMdYN3fhwbYAciw6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDc1/MS0xMjkxODk3Mzc1/LmpwZWc.jpeg" alt="Cover for The Chrysalis Years 1973-1977" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1299,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 48</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 60</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1397,6 +1362,23 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51faa1e364ff490ec930189bafc5b3d5.png" alt="Cover for Cuts Across the Land" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08</td>
+      <td>The Duke Spirit</td>
+      <td>Cuts Across the Land</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>100</td>
       <td>
       </td>
@@ -1442,7 +1424,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1476,9 +1458,9 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 3</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 2</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 9</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1537,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/VAfEOexSfGNem7fQVQyPEHPjLSj9minJOV1vOvHpFCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDMw/ODgtMTIzODE3NTU4/MC5wbmc.jpeg" alt="Cover for Trinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,7 +1556,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ZFvlYgrhXAehX8qyJnBbHkBSnS9Pbnwa6wP48fncXbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTEz/NzQtMTQ0NjgwMTk3/OC00MzMzLmpwZWc.jpeg" alt="Cover for The Fall of Mary" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1580,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/885dfc0837ef400dc07cd45d35121e00.png" alt="Cover for Stop the Clocks" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1598,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/PYKspxCYzUkTwjA18a60B_zDTOl8IhTfEhtf4AMyF5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM0/OTgtMTQ0Mzg2MDM5/NS02NDUyLmpwZWc.jpeg" alt="Cover for KAV - Blaggers n&#39; Liars EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1622,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c6cd4ab3d9c4933af4c5e15ea38bede.png" alt="Cover for KAV - BLaggers N&#39; Liars (2012) Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,15 +1672,10 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       <td>The Heavens</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
         </ul>
@@ -1752,7 +1729,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d5b001b36a478d00078fd4f0a3d0e8.png" alt="Cover for Trouble in Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1772,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae2fa14ab73c495f935abe06ecc0147a.png" alt="Cover for B3EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,13 +1823,13 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 6</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 8</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/B0YbW7A9XEcDTw_ZDtlZmm6ak-EJfvGysKkdwI42c-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTk2/MDUtMTM3NTg5Mjc0/OS03Nzk0LmpwZWc.jpeg" alt="Cover for Ici Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1948,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/rE30Cb-WpyNccA7mXnDQGYfb16xPvQlszDNLpPue4Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTIz/MjI3LTE2NDMzNjI4/OTYtNTUyOS5qcGVn.jpeg" alt="Cover for Latest Writs The Best Of… Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1997,7 +1974,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/552e7af2ab1b5cf447550465c5bc46bb.png" alt="Cover for Greek Tragedy - UK Indie" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,7 +2034,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa62f8d72dc2d2b0e38555e4ee810ed.png" alt="Cover for Animal Instinct" style="max-width:120px; height:auto;" />
       </td>
@@ -2076,7 +2053,7 @@ British rock encompasses the diverse guitar-driven sounds emerging from the Unit
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
