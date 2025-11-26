@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:19:45.864Z
+date: 2025-11-26T02:35:37.844Z
 permalink: tags/breaks
 title: breaks
 ---
 
 ## breaks
 
-Last updated: <time datetime="2025-11-15T01:19:45.864Z">Sat Nov 15 2025 03:19:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T02:35:37.844Z">Wed Nov 26 2025 04:35:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,8 +29,9 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/491c8e8d924769a4faf88bc46d5446e4.png" alt="Cover for Clipping Paths" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -50,6 +51,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebaca37c1fa54b7597d9a4e92f6ea9b5.png" alt="Cover for Supermodified" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -100,7 +102,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -140,8 +142,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 6</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 69</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 8</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -164,15 +166,15 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 51</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 73</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 56</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/HS4QpMJalsRNLEIVc23umIp8YKZ2TUFsvXy-nPiKekM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM0/NC0xMDc2Nzg3ODc0/LmpwZw.jpeg" alt="Cover for Love Pussycats &amp; Carwrecks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53e8683eb58b8f41f78a5ca8c595ac3.png" alt="Cover for Love Pussycats &amp; Carwrecks" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06</td>
       <td>Funki Porcini</td>
@@ -186,13 +188,14 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 45</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ed24e6778ec4ce896e933425cd145ec.png" alt="Cover for Flesh Eating Disco Zombies versus The Bionic Hookers From Mars" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-01</td>
       <td>London Funk Allstars</td>
@@ -208,8 +211,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 34</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 67</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 39</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -232,8 +235,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 31</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 11</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +274,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 41</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +298,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/bIN-xGTj_XdvWrgxgjTCXz8yy4AhifjcxPCMr_GkieQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTcx/LTEyMDU2MjUzOTYu/anBlZw.jpeg" alt="Cover for Sleeping Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -377,13 +380,13 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 24</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 36</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2000-11-01</td>
@@ -401,7 +404,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/zkUUZLtK2IfbUMofYdHxOeYvK86U2ppe1sJe4dCEC4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY2/NTgtMTM3MTkxOTU1/Ni0yNzc2LmpwZWc.jpeg" alt="Cover for The Entertainist" style="max-width:120px; height:auto;" />
       </td>
@@ -432,6 +435,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93efbed605d96b9e0b071061a2d90fae.png" alt="Cover for Amateur Girlfriends" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-12</td>
       <td>Xploding Plastix</td>
@@ -450,7 +454,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/-16Vk9hcaZ3tyquCvML7VKXTAV7rsgYb-7zdNZGtj1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA1/ODYtMTQyMzI1MTE4/Ny02ODQ2LmpwZWc.jpeg" alt="Cover for 2 Remixes By AFX" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1acb8d5dd64de5e3d5a4cfd6ab00d20c.png" alt="Cover for 2 Remixes By AFX" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-30</td>
       <td>AFX</td>
@@ -472,7 +476,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9492ac0b3576c47225cff4fabf55df7.png" alt="Cover for Pressure Point" style="max-width:120px; height:auto;" />
       </td>
@@ -487,14 +491,14 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 44</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/oFWGF0oQz1mYscDo5BE8rKTDmaDs3iO_LhFa5COlS6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTM5/LTE2MDM2MDgyOTct/MTQ1Ny5qcGVn.jpeg" alt="Cover for The Great Drive By" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d6c7b5342264f73be364fa346b68452.png" alt="Cover for The Great Drive By" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10</td>
       <td>Funki Porcini</td>
@@ -582,15 +586,15 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 7</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 14</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/SgmdAH8xG2HNbYZQ_b1fs2ns01yLPzywA6QT0JwQJy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQz/NC0xNjI4NDk4MjA1/LTEzNTEuanBlZw.jpeg" alt="Cover for The Big Score" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c22ca247898a3c80087b23a384895c7.png" alt="Cover for The Big Score" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Fort Knox Five</td>
@@ -611,7 +615,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/6-FnBj9eT-SxadV6CiQK1ka6phHGzg6e2tzgTz2FON0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgx/OC0xMTI5MTQ2NzUw/LmpwZWc.jpeg" alt="Cover for The Household EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee68fb3e77048568c1efc10c25227c0.png" alt="Cover for The Household EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-04</td>
       <td>Daedelus</td>
@@ -647,7 +651,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 17</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 19</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 73</li>
         </ul>
       </td>
@@ -672,7 +676,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37d0976f3e8290243f7461e330d88ee4.png" alt="Cover for デビル メイ クライ 3 オリジナル・サウンドトラック" style="max-width:120px; height:auto;" />
       </td>
@@ -693,7 +697,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +717,25 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2004-07-05</td>
+      <td>Hybrid</td>
+      <td>I&#39;m Still Awake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -732,7 +754,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 69</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +828,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 35</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +852,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2005-06-27</td>
@@ -848,7 +870,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/y_OaLGqG8D2YE5z0Xl_gTWVi4JCeyQBRCyOcpw_-2XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQ0/MzI1LTE2MDgzOTk1/NjYtMTEzMC5qcGVn.jpeg" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -870,7 +892,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/B-6sjRrIIO_M-MvTMeGtXURpVOUOGddvSK_QOy2J0qA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODIz/OC0xMTM5Nzc2MTk0/LmpwZWc.jpeg" alt="Cover for Konfusion ZENCD114P" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a3df838a4d148ddb0fcbe17c9bf0c83.png" alt="Cover for Konfusion ZENCD114P" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-30</td>
       <td>Skalpel</td>
@@ -902,7 +924,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 16</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -926,7 +948,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2006</td>
@@ -944,22 +966,22 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
             <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5874dd315f64722a4e768d7bac05df2.png" alt="Cover for The Guards Themselves" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +1001,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/CBx2vDiLvo2h2hAtjUBtEtOneXenAA7bwYrZ39Xvq-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjk1/MS0xMTYyMTAyMjM0/LmpwZWc.jpeg" alt="Cover for B,B,B,B,B,B,B,B,B,B" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1035,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/3OduDmxxdBjbrqSVqPR50GHdRpJ_Cg582o0nEDZysAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTQ2/Ny0xMTYzMDg4MzQ5/LmpwZWc.jpeg" alt="Cover for Space Pong &#x2F; Space Break" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1054,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9de363835d9c4ecba12dc56383833b16.png" alt="Cover for Cool Cats" style="max-width:120px; height:auto;" />
       </td>
@@ -1051,7 +1073,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Br7rrJcb0W2_TQNf37kTYvbFlhDfewFf4dHSpV8Q7XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjcx/MS0xMTkzNTE4OTM1/LmpwZWc.jpeg" alt="Cover for Sabor" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,8 +1089,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 26</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 78</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1115,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/NqC2pV92g54x6Z9p9ZhvqSrUEbQdQJJeq_iO9qiTRdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY0/NTEtMTM3NjA2NTgx/NS00MDQyLmpwZWc.jpeg" alt="Cover for Delicate Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,12 +1187,12 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 58</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/h8rctf_pz8W2IVmvew041tAsS0rMbSc4krF7Ad42CsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/OTktMTE5NTgyMTM5/Ni5qcGVn.jpeg" alt="Cover for Commercial EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1210,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/oRr6-ac7EvYNNGwmx1RqsaE65FSigIfQdXlAjBouXe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU4/MDgtMTIzMTY0Nzc5/Ni5qcGVn.jpeg" alt="Cover for Side Liner - My Guardian Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -1228,15 +1250,16 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 29</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 33</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a44277002634343861540899f455b72.png" alt="Cover for They Live!" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-20</td>
       <td>Evil Nine</td>
@@ -1250,27 +1273,6 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8743091bb32d80836134844a3793435f.png" alt="Cover for Two Fingers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Two Fingers</td>
-      <td>Two Fingers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1313,11 +1315,11 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
         <ul>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
@@ -1344,7 +1346,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 18</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 23</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 42</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 43</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 99</li>
@@ -1372,7 +1374,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009-06-29</td>
@@ -1430,7 +1432,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Ub5Aiw8aTAb9m1cIb464VGuUjHwmOMkJ4IZXs7122vA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzMw/NTAtMTI3MzcwMzEx/OS5qcGVn.jpeg" alt="Cover for Revamped" style="max-width:120px; height:auto;" />
       </td>
@@ -1471,8 +1473,9 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94b28b5f8db7413eb3cea42f04c64434.png" alt="Cover for No Prisoners" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-23</td>
       <td>Gaudi</td>
@@ -1490,7 +1493,6 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/pSurnmzNc-_duGav_HHCmy4KkbXxcSr8j4X1siO_jo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzEx/MzctMTQxNjY2MTAw/Ny01NDMwLmpwZWc.jpeg" alt="Cover for Toolroom Records Miami 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-03</td>
       <td>deadmau5</td>
@@ -1508,7 +1510,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/0fSnI6rHsRQwft9MtBXe39oZRVddArrnfqDG5XZ_Wn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIy/MjEtMTM1MjY0OTY3/My02NTg5LmpwZWc.jpeg" alt="Cover for David (Tim Deluxe Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1546,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       <td>
         <ul>
             <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 27</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1564,8 +1566,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 62</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 67</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 63</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1585,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 7</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1606,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 14</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1666,7 +1668,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/AMm0RqVulGDdndE4WoBFYoU0SVamThqrhR3xXHm7CN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/MjMtMTM0ODAyNzE3/MS03NjY4LmpwZWc.jpeg" alt="Cover for Club Constructions Volume 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1706,7 +1708,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/61M4YJlFPdqrzZ5vDaDxtrZylyJ_H5bmxo-rtdym5f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODE4/MTktMTM5NzE2MzM2/MC05MDU3LmpwZWc.jpeg" alt="Cover for Bronson" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edf787379f27c24c823c3c1437c2c138.png" alt="Cover for Bronson" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01</td>
       <td>Bronson</td>
@@ -1723,7 +1725,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/VWlDBVZSZ_FiWyYe8UDb8p6WrkN4z7oaLthvYRnDgNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODg2/MTctMTY1NzU1NTg0/MS0xNzkyLmpwZWc.jpeg" alt="Cover for Living with Elvis" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,9 +1743,9 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/qzzReUOgTevLsCDop_7URaEcKoKMdi75QkoPVHwYcCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTMw/Mi0xMjUxMzMzNDAz/LmpwZWc.jpeg" alt="Cover for Girls Suck But You Don&#39;t" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf3deba551734b94db02d6ff8d045a47.png" alt="Cover for Girls Suck But You Don&#39;t" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-01</td>
       <td>The Flashbulb</td>
@@ -1794,7 +1796,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 53</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1864,8 +1866,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 34</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 72</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 36</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1889,9 +1891,9 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 36</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 77</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 92</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1914,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 87</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1933,7 +1935,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 46</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1957,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 22</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1985,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/e1KGYBFDLKXCDe7SSTt-TIBAyPe5MBDKMFIvrwbidIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgy/OTQzLTE2Mjg3ODgw/NjctOTQxMi5qcGVn.jpeg" alt="Cover for DVSN003" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a82d6163736a49ea825179079981c373.png" alt="Cover for DVSN003" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-13</td>
       <td>Feed Me</td>
@@ -2001,7 +2003,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/tH9D-nNJJ0JrmDlc37Xg3e0FqU3ApRzcSpfpGCtbW5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTA3/MzA0LTE3MDg3ODQw/NjctMzE4MC5wbmc.jpeg" alt="Cover for Pulling Teeth" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2027,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/hvbh-m-3DMIHhYC-GN_Mf_w6RClFDTeDS05pZt7VI10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjEw/NzkyLTE2NDgwOTA3/ODgtODA0Mi5qcGVn.jpeg" alt="Cover for Friday Night Funkin&#39;, Vol. 2 (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e699d9be2d774c75dbcc0f679dc6050.png" alt="Cover for Friday Night Funkin&#39;, Vol. 2 (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-25</td>
       <td>Kawai Sprite</td>
@@ -2036,14 +2038,14 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 13</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Solid Steel presents Bonobo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d174609e436448192bf9da04687b024.png" alt="Cover for Solid Steel presents Bonobo" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -2065,15 +2067,15 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 18</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 22</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 29</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 29</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 30</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 30</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 71</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 74</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 75</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 81</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2096,13 +2098,14 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 35</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c6be968feac02507b27cae23f3eea95.png" alt="Cover for Genetically Modified" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cabbageboy</td>
