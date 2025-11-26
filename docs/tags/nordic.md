@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:33:00.135Z
+date: 2025-11-26T08:55:08.013Z
 permalink: tags/nordic
 title: nordic
 ---
 
 ## nordic
 
-Last updated: <time datetime="2025-11-23T11:33:00.135Z">Sun Nov 23 2025 13:33:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T08:55:08.013Z">Wed Nov 26 2025 10:55:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Ok3QCRxIKPmNqJlEyjsDLUGL9lpxszOzPQtnYe12ZKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTY3/NjAtMTM2NTI0OTA5/NC0zNDg4LmpwZWc.jpeg" alt="Cover for Hunting High And Low (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 4</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 23</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 35</li>
@@ -166,7 +166,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/qDl_9l9_BY1q5rKthrT6FOWrymzKKvMadJja6QsuYzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjYy/LTExNDE4NDQ2OTEu/anBlZw.jpeg" alt="Cover for The River (Askjell Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -194,7 +194,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td>2000-03-26</td>
@@ -238,28 +238,6 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 95</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 96</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf02a871098c0b3c7322769a97b67b8d.png" alt="Cover for We Are The Ark" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-09-25</td>
-      <td>The Ark</td>
-      <td>We Are The Ark</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 48</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -329,15 +307,15 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 45</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
@@ -346,13 +324,13 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
             <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001-04-23</td>
@@ -398,7 +376,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2fab16476bf6e2b828c52e82a76ee08.png" alt="Cover for Your Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -417,7 +395,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64fef8bb56fea992f421a60346b1e0f5.png" alt="Cover for Exist for Love (Benjamin Mørk Acoustic Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -437,7 +415,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 31</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 32</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 43</li>
@@ -477,13 +455,13 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
@@ -523,18 +501,18 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 1</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 60</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 78</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -573,19 +551,19 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 30</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 89</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -636,17 +614,17 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 94</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b0d098227e78479a486758332d5ff49.png" alt="Cover for Sweet Injections" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +651,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/A06Iq7jge-NMLc5IYz6KiNdAI0qtmsP5d9wGGxODssQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzMw/MS0xNzA5OTE2Mjk5/LTI5ODEuanBlZw.jpeg" alt="Cover for ...That great october sound" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +670,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 13</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 12</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 28</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 40</li>
@@ -726,7 +704,32 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2007-05-21</td>
+      <td>Superfamily</td>
+      <td>Warszawa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>2008-03-10</td>
@@ -748,7 +751,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>2008-05-19</td>
@@ -767,7 +770,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2009-03-16</td>
@@ -819,7 +822,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6847e5dcea7c4bf29fb0b57064a91e0c.png" alt="Cover for Trådnøsting" style="max-width:120px; height:auto;" />
       </td>
@@ -848,32 +851,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td>2010-03-10</td>
-      <td>Salem Al Fakir</td>
-      <td>Ignore This</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 45</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2010-11-22</td>
@@ -891,7 +869,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 10</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 26</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 38</li>
@@ -899,7 +877,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0875f6e9ff6442f2b4eb47481071f9e7.png" alt="Cover for Dominoes" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +897,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 15</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 31</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 42</li>
@@ -927,7 +905,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Tm-OxSoehibs-GchsQ-gDEfJUjz8bVzl32DrfGoUD5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDg0/MDItMTM5OTY1MDg2/My04MDEyLmpwZWc.jpeg" alt="Cover for Älä sammu aurinko" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +953,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/aKitOpQYD5ra8y3jbNTtTEgR0qXipNyXVrfK8xlgFPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTE3/MjUtMTM1MjQ3NDA3/OC01MjA4LmpwZWc.jpeg" alt="Cover for Kors på halsen, ti kniver i hjertet, mor og far i døden" style="max-width:120px; height:auto;" />
       </td>
@@ -996,7 +974,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tU3PtUy9_a2IWxGg9tX-ItAJXKFbpUQdksctwMJeAPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDUz/NjQtMTQxNjk3MDk2/MC0xMzAwLmpwZWc.jpeg" alt="Cover for Wilderness" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +993,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 19</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 33</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 34</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 45</li>
@@ -1060,13 +1038,11 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>Do It Again</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 46</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 47</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 82</li>
         </ul>
       </td>
@@ -1118,7 +1094,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 89</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 88</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 89</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 89</li>
         </ul>
@@ -1148,8 +1124,8 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
@@ -1159,7 +1135,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/nG_JVpPoS8DiZReyeaSvrsmSJY14h01ethPw0eaWZ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTY5/MDQtMTY0MTQxOTc5/Mi00MjU4LmpwZWc.jpeg" alt="Cover for Riv i hjertet" style="max-width:120px; height:auto;" />
       </td>
@@ -1186,7 +1162,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14efdb3dbc7367fa4c228b04b99b5f0a.png" alt="Cover for When I&#39;m Free" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1222,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/3XRVSWMquWd4RnaZjPj-I7ufcc06ffxtErDz393ecsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTg2/OTktMTQ4MDkzODM2/NS00OTc1LmpwZWc.jpeg" alt="Cover for Hei (Fan Spesial)" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,10 +1265,10 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 45</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 62</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 62</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 63</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 74</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
@@ -1336,19 +1312,19 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 86</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 88</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
@@ -1378,7 +1354,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 10</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
@@ -1468,13 +1444,13 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 88</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 90</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
@@ -1503,15 +1479,15 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 91</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 91</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/vIyz5QtV8xg_RGjiPQTn9fwrJTycTsSFOqc6El6klYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTg3/MTQtMTQ4MDkzODY0/MS0zMDI2LmpwZWc.jpeg" alt="Cover for Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1566,7 +1542,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/yUBSi1gh1eOBwVYjD8hnac0XFRldfIa9RV9TCbnD9ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE3/MTY4LTE1MTk0OTQ2/MzUtNDk5OC5wbmc.jpeg" alt="Cover for Heartbreak In The Making" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1561,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 32</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 33</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 44</li>
@@ -1614,14 +1590,14 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 53</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 70</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/FalnN4HaYsw6nTzhS9vjiT-q5BAgp1s4zzQNI3pTgyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU4/NDgxLTE0OTI2MzI2/NjMtNjgwNi5qcGVn.jpeg" alt="Cover for Hajk" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,14 +1653,13 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/KkLk9-7f4kQGAN6Vs3gO1g8_uHW9ieMNHLWrGxxWG8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkw/NzQ5LTE1MTU0NjI4/NjktNjgxNi5qcGVn.jpeg" alt="Cover for Roy Pablo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58669d5e97b3f2b09c36d5671802f89d.png" alt="Cover for Roy Pablo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>boy pablo</td>
       <td>Roy Pablo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
@@ -1694,11 +1669,11 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 87</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 95</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 96</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 96</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1706,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/yUBSi1gh1eOBwVYjD8hnac0XFRldfIa9RV9TCbnD9ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE3/MTY4LTE1MTk0OTQ2/MzUtNDk5OC5wbmc.jpeg" alt="Cover for Same Again (For Love)" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1725,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 6</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 23</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 36</li>
@@ -1786,7 +1761,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/n8qlbo77nZeS2gyjJx-cUMfUlb0CWyM29BliJlflrfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/NjQ1LTE1Mjc4ODgx/NTctMzIxNy5qcGVn.jpeg" alt="Cover for Moments (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,8 +1780,8 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 6</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 23</li>
         </ul>
       </td>
@@ -1857,7 +1832,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/mNuBzhq-rOuuZR7PIN8KhFveDVigUHkfQgLxR2ukHJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEw/Nzg0LTE1NzM5NTcz/NTYtOTgyOS5qcGVn.jpeg" alt="Cover for Ingenting i paradis" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,7 +1851,6 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 1</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 20</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 33</li>
@@ -1884,7 +1858,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/5b1I3Lg-58Mu48SDw3MxRS_XnKXR2yGvcA_8OPwDrFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/ODQ1LTE1Mjc4NDk5/OTEtNjE0My5qcGVn.jpeg" alt="Cover for Tranquille Emile" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,16 +1916,16 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 95</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
@@ -2011,9 +1985,9 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 93</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 95</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2010,8 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 100</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 100</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 100</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 100</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 100</li>
         </ul>
@@ -2104,13 +2078,13 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
         <ul>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
@@ -2148,7 +2122,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/hdfdyNFl2mX8rqOJa5E5HbCApmmNInhDjWrlfiwtuH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA3/NTU1LTE1Njc5NzA2/MjYtNDA0OS5qcGVn.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -2167,7 +2141,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 12</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 26</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 27</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
@@ -2194,16 +2168,16 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 96</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 97</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 97</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 97</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/F2SmGqVDglxXHr-SmwoeP0vV5kuvMAjQJZ_HDNdOwRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQ2/Mzk3LTE2MDkwNDE1/NzAtNjg3OS5wbmc.jpeg" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819f2320ada234a224044b5d71f20b04.png" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-24</td>
       <td>Askjell</td>
@@ -2229,7 +2203,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/366115d6f5782b16520cb21304ad0350.png" alt="Cover for femme florale" style="max-width:120px; height:auto;" />
       </td>
@@ -2284,16 +2258,16 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 97</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Mk0RQ72fEKgbF79tooGeIhIvbwVY0Yd5k5v3JHdx7NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc3/NDQxLTE1OTc2MDU1/MjAtOTkyNy5qcGVn.jpeg" alt="Cover for Let Her Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -2312,7 +2286,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 21</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 34</li>
@@ -2320,7 +2294,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/dFPQ8RD4vJSxBaJ6wO-BmZpquzVjRPIif5xX4u6OknI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY0/NzM2LTE2MzQ3MzY3/MzEtNzg3Ni5qcGVn.jpeg" alt="Cover for The Other Side Of Waiting" style="max-width:120px; height:auto;" />
       </td>
@@ -2339,8 +2313,8 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 12</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 13</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 14</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 27</li>
         </ul>
       </td>
@@ -2374,7 +2348,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Jj7Q_Y7HqjNG9KgY4-bGaOPBlfpYo3dpJRRF6_FWlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY4/OTItMTM0OTgxMTQ2/OC0zOTI3LmpwZWc.jpeg" alt="Cover for Say My Name (feat. Arnór Dan)" style="max-width:120px; height:auto;" />
       </td>
@@ -2401,7 +2375,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/Ugyg2559AP9V_PqXigMl-56cf5feMvGZN6drDu3wz0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQx/OC0xMjUzODA2MzYx/LmpwZWc.jpeg" alt="Cover for KLIPP MEG I TI OG LIM MEG SAMMEN" style="max-width:120px; height:auto;" />
       </td>
@@ -2455,7 +2429,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ZXeEGP5z_WHqUwH_2dRGqsQG_jsSUJ9SWXOkc7Y3yLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY1/Njc4LTE0OTEwMjc4/OTktMjIwNy5qcGVn.jpeg" alt="Cover for saman" style="max-width:120px; height:auto;" />
       </td>
@@ -2508,12 +2482,12 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       <td>
         <ul>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2546,7 +2520,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/-lv405Qs8Q6BRMV4ZZSY0tZRvsLkO8_PGDk4qPEaDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA4/MzE0LTE2NDUxOTg0/ODktNzM1MS5qcGVn.jpeg" alt="Cover for Mother" style="max-width:120px; height:auto;" />
       </td>
@@ -2565,7 +2539,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 24</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 25</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 37</li>
@@ -2573,7 +2547,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/ZBGeg6-tdio6e0Cea8qtzr0EjlDdkIslud1KLr0MkEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/NTY4LTE2NTE3NTAy/MjctMTI5My5qcGVn.jpeg" alt="Cover for How To Let Go (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -2592,8 +2566,8 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 25</li>
         </ul>
       </td>
@@ -2627,7 +2601,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/M0Odk00e_KPuN18NRx5piAo5N-Ar7-AF2-9uPxMPiUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDMy/Mjg5LTE2Njc0Mjgz/NTUtODM4My5wbmc.jpeg" alt="Cover for The Revelations of Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2646,14 +2620,14 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/M0Odk00e_KPuN18NRx5piAo5N-Ar7-AF2-9uPxMPiUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDMy/Mjg5LTE2Njc0Mjgz/NTUtODM4My5wbmc.jpeg" alt="Cover for Circles" style="max-width:120px; height:auto;" />
       </td>
@@ -2680,7 +2654,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/1THiQ_ZlsDVHVVJt_z4GEPKFURCaDEhXfvYtz4eyEWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDU0/MzUxLTE2Njc1OTE1/NTAtNzU3Mi5qcGVn.jpeg" alt="Cover for Crazy Life" style="max-width:120px; height:auto;" />
       </td>
@@ -2699,7 +2673,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 29</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 30</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 41</li>
@@ -2707,7 +2681,27 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Z0Ew4C7o7T4OzeYnLwHEeRzx1aSf92DR0Q1xudJYzzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/MDg2LTE2OTk1ODUz/NTktNTM4My5qcGVn.jpeg" alt="Cover for Movies, Cars &amp; Heartbreak" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-10-20</td>
+      <td>Moyka</td>
+      <td>Movies, Cars &amp; Heartbreak</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 1</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/Z0Ew4C7o7T4OzeYnLwHEeRzx1aSf92DR0Q1xudJYzzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkz/MDg2LTE2OTk1ODUz/NTktNTM4My5qcGVn.jpeg" alt="Cover for As Long As You’re Here (Young Royals Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -2762,7 +2756,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/_1SRMi72EfS8JGJdq903UAQM-EkHV6W1tyXhSb_NaiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQw/NzIxLTE3MDM4NzIx/ODQtNzg4NS5qcGVn.jpeg" alt="Cover for Sprengkulde" style="max-width:120px; height:auto;" />
       </td>
@@ -2781,14 +2775,14 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 4</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a240916f36efd8e7f1f53148ef636f58.png" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
       </td>
@@ -2807,7 +2801,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 86</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2833,7 +2827,7 @@ Nordic music blends Scandinavian folk traditions with contemporary styles rangin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 61</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>

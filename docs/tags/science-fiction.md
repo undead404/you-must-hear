@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T13:17:24.078Z
+date: 2025-11-26T08:50:30.601Z
 permalink: tags/science-fiction
 title: science fiction
 ---
 
 ## science fiction
 
-Last updated: <time datetime="2025-11-15T13:17:24.078Z">Sat Nov 15 2025 15:17:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T08:50:30.601Z">Wed Nov 26 2025 10:50:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 88</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d17d2ecd7f5472186f6fddb29a3c595.png" alt="Cover for The War Of The Worlds (Cd 1): The Coming Of The Martians" style="max-width:120px; height:auto;" />
       </td>
@@ -192,9 +192,8 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/Ef-8LZAP1wqr9zYMJ0_vyTWhHbkd2K5vkAdwixfAv44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc3/NDYtMTQ5MzM4MTYx/NC03NzYyLnBuZw.jpeg" alt="Cover for The War Of The Worlds (Cd 2): The Earth Under The Martians" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Jeff Wayne</td>
@@ -262,6 +261,24 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bb2d12729ca4961083f475dcee980ad.png" alt="Cover for Alien" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Jerry Goldsmith</td>
+      <td>Alien</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c6fb67a38bdc6c41db99cd20aabb9b.png" alt="Cover for Deeper Zone" style="max-width:120px; height:auto;" />
@@ -316,7 +333,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 84</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 85</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 89</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 95</li>
@@ -342,7 +359,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 64</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -365,7 +382,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 81</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +428,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 9</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 31</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 97</li>
         </ul>
       </td>
@@ -481,7 +498,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for Eternal relentless aspiration to light (single)" style="max-width:120px; height:auto;" />
       </td>
@@ -579,6 +596,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd60a6dbbe4544f68883d3f848bc2e31.png" alt="Cover for God Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Boogiemonsters</td>
@@ -604,6 +622,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37789916584467e20e22041f9eabdcdd.png" alt="Cover for Stargate SG-1" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-25</td>
       <td>Joel Goldsmith</td>
@@ -824,7 +843,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/ChaPQQHjGX8lGGCBQ54d0uRjkc3IAKw7OnFQHMxsufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc1/MjAtMTQ0Njc0NTM1/My05NTQxLmpwZWc.jpeg" alt="Cover for Dune Score by Toto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8d2400bc6c24a4db8de2d23c24cf4de.png" alt="Cover for Dune Score by Toto" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Toto</td>
@@ -863,6 +882,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50c9ec5e885148fbbc7bf7df5f8f6a6b.png" alt="Cover for Stargate: Atlantis" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-22</td>
       <td>Joel Goldsmith</td>
@@ -878,7 +898,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/qDRZqIuS2kUl1nwiua6bVcrKj1KSBOYKtCxN0BOA2as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk1/MTcyLTE3MzA3MzAy/OTUtMjUzMy5qcGVn.jpeg" alt="Cover for Secret Diary" style="max-width:120px; height:auto;" />
       </td>
@@ -931,30 +951,8 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 59</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 60</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Astroknotics</td>
-      <td>Reign of Jupiter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1001,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 61</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1051,9 +1049,9 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/qBvvjn93DSYhZrrGrstpV_cVmPiYL_Hcbmy8A8-L3Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/MzMtMTI2OTM4MTk3/OC5qcGVn.jpeg" alt="Cover for After Flood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20971e24d6be497bc9fdc0ade5d0c981.png" alt="Cover for After Flood" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Strömberg&#x2F;Granlund</td>
@@ -1099,7 +1097,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 25</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1196,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 20</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 34</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 33</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 44</li>
         </ul>
@@ -1250,7 +1248,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/itf6xv1UukW2Ga2CFIc0nvZ6ikrlPs7K0U5FZAphfw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTU1/ODgtMTU5OTk5NTI1/My03MjEwLmpwZWc.jpeg" alt="Cover for Hold the Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1286,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/l3GMftqdSkR8o_ttnZPez_v41yx-TcLOqU20nBW13g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODcy/NDAtMTYwOTY5MjA5/Ni0zNzYzLmpwZWc.jpeg" alt="Cover for The Fifth Element" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c22ad9bfd12a4d59bdf1cb0120098b16.png" alt="Cover for The Fifth Element" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Eric Serra</td>
@@ -1455,15 +1453,15 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 25</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 36</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 26</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/FcPm0TfzO6TNMQ4kwUMBnW55ncJI5XLoodCNewI7gWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTg0LTE1MzM2MzUy/ODctNjEzMy5qcGVn.jpeg" alt="Cover for Darkness and Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d5f87469be2082d1447ea853cda4524.png" alt="Cover for Darkness and Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-27</td>
       <td>Keldian</td>
@@ -1478,7 +1476,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1542,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/KqR99Hi88I3yKWCi8n6fSwDiI2miw0EcbvxLICZ2UTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDcy/MTgtMTQzNzA4MDU1/Mi0yNzE1LnBuZw.jpeg" alt="Cover for On the brink of the Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,7 +1571,6 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 1</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 18</li>
         </ul>
       </td>
@@ -1611,7 +1608,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 2</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 19</li>
         </ul>
       </td>
@@ -1647,7 +1644,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 4</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 20</li>
         </ul>
       </td>
@@ -1713,7 +1710,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 6</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 5</li>
             <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 22</li>
         </ul>
       </td>
@@ -1743,7 +1740,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 10</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1795,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 12</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1856,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 26</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 25</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 28</li>
         </ul>
       </td>
@@ -1889,7 +1886,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 28</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 27</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 29</li>
         </ul>
       </td>
@@ -1978,7 +1975,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 1</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 2</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
             <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 38</li>
@@ -1986,7 +1983,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -2017,7 +2014,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2035,7 +2032,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -2052,7 +2049,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2071,7 +2068,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2089,7 +2086,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2109,7 +2106,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2130,7 +2127,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -2148,8 +2145,9 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a197c2d862c549cdbff013439d4f3784.png" alt="Cover for The Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Stefan Dibell</td>
