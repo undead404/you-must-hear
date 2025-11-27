@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T19:46:47.361Z
+date: 2025-11-27T05:28:08.262Z
 permalink: tags/post-punk
 title: post-punk
 ---
 
 ## post-punk
 
-Last updated: <time datetime="2025-11-25T19:46:47.361Z">Tue Nov 25 2025 21:46:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T05:28:08.262Z">Thu Nov 27 2025 07:28:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/740b1a416efe0cce9d9fd899db23fd85.png" alt="Cover for Pink Flag" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d3b9b064d3c41a89696209016db3683.png" alt="Cover for The Raincoats" style="max-width:120px; height:auto;" />
       </td>
@@ -343,7 +343,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27ee78af83c50ce57fb163f49371a7f.png" alt="Cover for Deceit" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +383,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7653da5c1d3d4aebca9a1e1378b90cc0.png" alt="Cover for Juju" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +422,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/peddN661uKu5gzkF_G1a07nRYOEqWg2WTT_LWletQN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDYw/NC0xMzAwMDMxMTQ2/LmpwZWc.jpeg" alt="Cover for Youth of America" style="max-width:120px; height:auto;" />
       </td>
@@ -459,7 +459,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0fb1eb6c766e19cfeb0e88761a6794.png" alt="Cover for The Sky&#39;s Gone Out" style="max-width:120px; height:auto;" />
       </td>
@@ -572,24 +572,6 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee7c0d757d5a54810d703510ac855917.png" alt="Cover for Peel Sessions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Joy Division</td>
-      <td>Peel Sessions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83213c9daa56450ec5f1d1b1006ce0e1.png" alt="Cover for Ocean Rain" style="max-width:120px; height:auto;" />
@@ -608,7 +590,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73f7930803e18c8e0b1fb3ae9c30457.png" alt="Cover for Fear Of Music (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -628,7 +610,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8879f81513ea2f1bc32e2f493f1eaa7f.png" alt="Cover for Double Nickels on the Dime" style="max-width:120px; height:auto;" />
       </td>
@@ -777,8 +759,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 30</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 31</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
@@ -821,12 +803,12 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 36</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfc1b705f7ac672e48564962e9a3964b.png" alt="Cover for Hyaena (Remastered And Expanded)" style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +826,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97f26b33b8ed6632be54860099a82f25.png" alt="Cover for Starfish" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +899,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
@@ -946,7 +928,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1f7cafa97e32a9fc549f5cf13061ae.png" alt="Cover for Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -961,7 +943,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1046,7 +1028,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d122f95ec52c1fb75b843d09e45d28bf.png" alt="Cover for Brotherhood (Collector&#39;s Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1067,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 78</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1086,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1162,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 13</li>
         </ul>
       </td>
@@ -1200,7 +1182,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 55</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1223,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ff5a7ea9cd5487661647c9d5a1453e4.png" alt="Cover for Deathconsciousness" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,7 +1232,6 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       <td>Deathconsciousness</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
       <td>
@@ -1296,7 +1277,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/jNBucANm0XqH_xhXvMDJZ0gCBV4I9DdV4oHkl3puzPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA0/MDEtMTMwNjAwNTYz/OS5qcGVn.jpeg" alt="Cover for Kiss Me, Kiss Me, Kiss Me - Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1297,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d5d4548d5b444ae9a69fa0c977655df.png" alt="Cover for Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1333,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22911e50114d8ac0da3c8e62a5b1b2f5.png" alt="Cover for Signals, Calls and Marches" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1365,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
         <ul>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 47</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 66</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1383,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 36</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1449,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc5fec6138392ef86c950ee5858e708f.png" alt="Cover for Thursday (Original)" style="max-width:120px; height:auto;" />
       </td>
@@ -1506,7 +1487,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a689804e35f64a3ea75c93fc9f4b9661.png" alt="Cover for Silence Yourself" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1562,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ede8b11cefc4537c538a469272c30d4.png" alt="Cover for Poverty" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1580,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a7385ce40c1c651caaebc8c346b3cc.png" alt="Cover for Three Imaginary Boys (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1618,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 8</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 40</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
         </ul>
@@ -1665,7 +1646,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e47b3b2ed4a4bdccb000b42583711e7.png" alt="Cover for Atomic&#x2F;Atomix" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1691,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/LHye-eDj3FGF1TReXq600qPfp3Tyipt1cJo6AHW3-G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ1/MTE3LTE1MzU1NTM3/ODktMTg3OC5qcGVn.jpeg" alt="Cover for Joy as an Act of Resistance." style="max-width:120px; height:auto;" />
       </td>
@@ -1745,13 +1726,13 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 4</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 5</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d33b34877998da3ef033b5cb335a634d.png" alt="Cover for Street Worms" style="max-width:120px; height:auto;" />
       </td>
@@ -1765,7 +1746,27 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 23</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e4705a174dcf7b423e82ed06038263.png" alt="Cover for Dogrel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-12</td>
+      <td>Fontaines D.C.</td>
+      <td>Dogrel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1787,7 +1788,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 93</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 98</li>
             <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
@@ -1809,12 +1810,12 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       <td>
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 94</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 98</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26a07bde7cb26e937acf90255fdf240.png" alt="Cover for A Hero&#39;s Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1852,8 +1853,8 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 38</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 65</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
         </ul>
@@ -1874,9 +1875,9 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       <td>
         <ul>
             <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 51</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 53</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1921,7 +1922,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/ZIiXV-DhNciC64Dl675Q-rdLVH7JWUpoykFAHsKQDAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTg0LTE2Nzk5NDcx/MjItNzgzMy5wbmc.jpeg" alt="Cover for Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)" style="max-width:120px; height:auto;" />
       </td>
@@ -1934,17 +1935,17 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 37</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 82</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1961,7 +1962,7 @@ Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simpl
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>

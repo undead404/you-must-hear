@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T02:37:38.064Z
+date: 2025-11-27T05:26:43.428Z
 permalink: tags/alternative-rnb
 title: alternative rnb
 ---
 
 ## alternative rnb
 
-Last updated: <time datetime="2025-11-24T02:37:38.064Z">Mon Nov 24 2025 04:37:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T05:26:43.428Z">Thu Nov 27 2025 07:26:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/UEzv2ix2KE5PHdvbGz8aiwmhrynsF0cpHP_8k_LYdzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ1/NDgyLTE2NDc3Nzg5/NDctMjQ5OS5qcGVn.jpeg" alt="Cover for MOTOMAMI" style="max-width:120px; height:auto;" />
       </td>
@@ -42,15 +42,15 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 37</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 59</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 38</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 83</li>
             <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/CgNj3JwkcV6u5fTEnh9012T-W0bIQ5Vc3EknJk16ZbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njkw/MzExLTE2MTQ4ODUy/MDktMzk2MS5qcGVn.jpeg" alt="Cover for La vie en rose" style="max-width:120px; height:auto;" />
       </td>
@@ -73,7 +73,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c323335fc070a7cd20669c4167bbed80.png" alt="Cover for QUANTUM BABY" style="max-width:120px; height:auto;" />
       </td>
@@ -88,12 +88,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a854782e9f6aaebbcf92d4d2bf691bc9.png" alt="Cover for nostalgia, ULTRA" style="max-width:120px; height:auto;" />
       </td>
@@ -110,7 +110,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YY0AaAg6_5Eo262xxA3_bP7xJaCYxcFxiHcONO54XoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/NjMyLTE2NDc4MjA4/MjUtNDM2MC5qcGVn.jpeg" alt="Cover for Igor" style="max-width:120px; height:auto;" />
       </td>
@@ -123,8 +123,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 48</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 52</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 74</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 97</li>
         </ul>
@@ -173,7 +173,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9db69181b08d46dda320dff03afe95c1.png" alt="Cover for King Krule" style="max-width:120px; height:auto;" />
       </td>
@@ -191,7 +191,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/553678d27570452839aec0fd0cdadd63.png" alt="Cover for channel ORANGE" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +213,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/420479ebfa2c11e0c9310d2183854446.png" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -231,7 +231,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6498660830a525a64f6a78bf94a2ec58.png" alt="Cover for My Dear Melancholy," style="max-width:120px; height:auto;" />
       </td>
@@ -244,14 +244,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 9</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 51</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/effcb5470433a6b807cb99706fdff8db.png" alt="Cover for Kiss Land (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -272,7 +272,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01ad150445023de653c50dbbc3e10dbc.png" alt="Cover for Kiss Land" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-01-29</td>
@@ -309,7 +309,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96d168c57714450bc515f35d6b1d78ff.png" alt="Cover for Z" style="max-width:120px; height:auto;" />
       </td>
@@ -330,7 +330,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6051263a36ad604cbe0542205aa701ce.png" alt="Cover for ZABA" style="max-width:120px; height:auto;" />
       </td>
@@ -344,12 +344,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/BpMRfF1eRJW1lvtVGwKomLlRgyanv1CPkyqzMKCufws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzg1/NDAtMTY4MTY2MzI2/MS04ODAzLmpwZWc.jpeg" alt="Cover for CTRL" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +370,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c5f945953e4723c7e022765d1f7a02.png" alt="Cover for LP1" style="max-width:120px; height:auto;" />
       </td>
@@ -387,14 +387,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 10</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b755560c8cbb8d80afa16a40f985bae.png" alt="Cover for Leaving" style="max-width:120px; height:auto;" />
       </td>
@@ -415,7 +415,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4b4dadb2e340015a37d84596c19f3b.png" alt="Cover for Aquarius" style="max-width:120px; height:auto;" />
       </td>
@@ -433,7 +433,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
       </td>
@@ -446,17 +446,17 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 81</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/44WWJ1Inw9EIpYFMPmxAykuIj5oE5EGOei_cAHpzHyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg0/MjMtMTQ4ODE1NDU0/NC03MDI3LmpwZWc.jpeg" alt="Cover for deadroses" style="max-width:120px; height:auto;" />
       </td>
@@ -474,13 +474,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 84</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/xPcd24YGbP4N0h8HalqUAYYB-kdMsQllRxMnYgrJ9BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTA3/MTgtMTQ2OTYzMjIy/OS04NTQ5LmpwZWc.jpeg" alt="Cover for Warm On a Cold Night (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -513,7 +514,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c92f044b27db86328ed6be3f8a735a.png" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -552,9 +553,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 100</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 100</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 100</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 100</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 100</li>
         </ul>
       </td>
@@ -578,7 +579,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea85a96f0d208750c58f4d4dcdbab0.png" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -601,11 +602,11 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 2</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 8</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 70</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
@@ -614,7 +615,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de4543b8ef00eda438436c3d8d4d2ccb.png" alt="Cover for H.E.R. Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +635,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/gP8zxIqtWKVVCOc6IQvgKyCbADAyy4I2w8SRKJiHFkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTQ3/MzktMTQ3NTAxODQy/NS02MDIyLmpwZWc.jpeg" alt="Cover for The Altar" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +654,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08e3f15aca0423b084fb49f342756f3b.png" alt="Cover for Starboy" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +675,32 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/434440c5e584dc0a5235fe9a6b494ddb.png" alt="Cover for S.o.S" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Thaiboy Digital</td>
+      <td>S.o.S</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/IorkUTtJ_UgvzRGYuqoxDf-n3vH-zutIy89geiepMXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYw/MzIxLTE1MDAzMjE0/NDQtNTMxNS5qcGVn.jpeg" alt="Cover for MURA MASA" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +744,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06933f2e9e911ae0336838ca578cd357.png" alt="Cover for Into" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +770,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61b45bdb8945fada07d6b7dedcfc49c6.png" alt="Cover for Process" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +789,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/625d8735f4f0bf1cbf3c779fd4746bdc.png" alt="Cover for American Teen" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +811,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ee3215f0c88105467ac710a9842ba0.png" alt="Cover for Caffeine" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +828,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 91</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +851,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9ddd9e9270cd400fcf60ab3d9fb1cc.png" alt="Cover for Lust for Life" style="max-width:120px; height:auto;" />
       </td>
@@ -838,14 +864,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 6</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 9</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/W_ZWsaGZRyZT-wA4ryO-QTio8n5jA_CJtZWuuS23GJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/MTYxLTE2NDgxMjQw/NjQtOTQ1NC5qcGVn.jpeg" alt="Cover for 17" style="max-width:120px; height:auto;" />
       </td>
@@ -862,9 +888,9 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 73</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 82</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 96</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
@@ -872,7 +898,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcc1f99ede88299b3674522c6b2923eb.png" alt="Cover for Freudian" style="max-width:120px; height:auto;" />
       </td>
@@ -890,7 +916,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/84WWO5xwv72szeM9SXrM34NRiUZspKen6aF0TlR-4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU0/NzI0LTE1MDM3MjYx/ODktNDI5OC5qcGVn.jpeg" alt="Cover for Saturation II" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +932,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
@@ -915,7 +941,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1415b58d856ffe9884607ca67dabc40a.png" alt="Cover for Innocence v2" style="max-width:120px; height:auto;" />
       </td>
@@ -933,15 +959,15 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 76</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0998ca2e91d81e0669c76d63a42deb.png" alt="Cover for &amp;" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +988,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -975,12 +1001,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 56</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
@@ -988,7 +1014,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/RxHZMYbBucHOGUqnGsj86eXreXNwCJ_0nVe9JESDzWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/MzAwLTE1NTkwODc0/MjEtNDMwMS5qcGVn.jpeg" alt="Cover for Into Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,14 +1032,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 18</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 66</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0e333c941c1a0147fc5d347d343e6d.png" alt="Cover for Swimming" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,13 +1054,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 70</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 71</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/mkLQk6ZbraQOdPFPm1kL9g5VkLm_ciSPjUdyUEIPEKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUy/MzYyLTE1MjczNDEz/NjMtMzU0Mi5qcGVn.jpeg" alt="Cover for The Color Of You" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1078,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fead178e9a987d1bb3814047344f52d0.png" alt="Cover for TESTING" style="max-width:120px; height:auto;" />
       </td>
@@ -1069,16 +1095,16 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 77</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 78</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 88</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8595d9e5445d021db45bd5912608f9ef.png" alt="Cover for Vibras" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1124,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/9A0vBwhCzd-32aLZfo_vhjF4U-y6_5Kd-JpOwqAF53s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk5/MTczLTE1NDIxNjg1/OTQtOTkwMy5qcGVn.jpeg" alt="Cover for Stereo" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,15 +1144,15 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 81</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 93</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebe10cfb7ab91abe970b26ad0ebf8ffa.png" alt="Cover for I Used To Know Her: The Prelude" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,36 +1172,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93fe3c819e6073e735f7571929ffed8f.png" alt="Cover for diary 001" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-10</td>
-      <td>Clairo</td>
-      <td>diary 001</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 93</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 94</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/ZTPEjjqS6THblO9Vq2JjUGwS_U9XvigBJJVk0gE0LEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/NjYyLTE1MzQ1MDUy/MTUtNjgzOC5qcGVn.jpeg" alt="Cover for no rain, no flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -1192,7 +1189,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/9n0pVvweIQ_2Js0x_pNcb_NYuGl3FIBE4lMY-PgCyr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI5/ODA3LTE2NDY1ODA2/NzAtMTQ3Ni5qcGVn.jpeg" alt="Cover for Last Day Of Summer" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,7 +1213,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/670bc5165036784a548930b5caa4d618.png" alt="Cover for Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,13 +1230,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/8GVRuLavX0eGgS9jgy8G3xx-xO4Wk241xKk4O5_Z_mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/Njg4LTE2NzM2MDQz/MjYtMTU4Ni5qcGVn.jpeg" alt="Cover for El Mal Querer" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1255,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg" alt="Cover for 1998 TRUMAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,18 +1276,18 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/47ad3cda442e51aa32ae73bb03952ef9.png" alt="Cover for my ex&#39;s best friend (with blackbear)" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1309,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38400dfa7dfc156b978678a61d82d809.png" alt="Cover for Outer Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1350,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.png" alt="Cover for Free Spirit" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1368,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/rkdV7FX9WFWmP-6YrlNxzWWFVR2J_TjPZ4rIKx7oX-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg2/NjE4LTE1NTkwMTMz/MzktMjU4MS5qcGVn.jpeg" alt="Cover for Apple" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,14 +1386,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 25</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/pW-64zYgnpoP0lzed9reEtlZldtQi13FTLAyiFnycoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/NDE4LTE1OTQ4Njkz/NDgtOTg5OS5qcGVn.jpeg" alt="Cover for ARIZONA baby" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1413,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b2a146ab433ce9bd53e4d9f7ca4f771.png" alt="Cover for Phases" style="max-width:120px; height:auto;" />
       </td>
@@ -1434,7 +1431,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Iwj9zSOdwc5iF8mKtd22zzxe4IqTYVNnxED9h3n7hTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/OTQ3LTE1NjQxMzQ1/ODUtMjQ4Ny5qcGVn.jpeg" alt="Cover for Vanilla Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1449,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 59</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 85</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 95</li>
@@ -1460,7 +1457,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e2fcb7664c02bdffbe2283535dbcf12.png" alt="Cover for Let Me Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,16 +1477,16 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 47</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 74</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35df25e4fc8394903e600b5c34563c68.png" alt="Cover for K-12" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1510,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fffa0314e96a55271ebe534eaa2b109.png" alt="Cover for line sun goodness" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1531,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/057bf5b8187f434dfd8fbb91d723dff1.png" alt="Cover for A Love Letter To You 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,16 +1550,16 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 77</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/578fcfe4ba4833152e1384e942de4298.png" alt="Cover for FLASH CASANOVA" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1580,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
@@ -1626,7 +1623,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 61</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
@@ -1636,7 +1633,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f7bcb2efe4a67cd8a6f76e8c5e715b.png" alt="Cover for B4 I Breakdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1653,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/494b1281040463f6f3bfc059c2660e12.png" alt="Cover for B4 The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1671,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 70</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1694,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2021-01-22</td>
@@ -1715,8 +1712,8 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 63</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 64</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 81</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 98</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
@@ -1724,7 +1721,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/coTyFmwLlFmSxJRr1hCCNY1iqYh_2fURL0asWvNj4ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY2/Nzg5LTE2NDY3ODE1/MTItNDk1MS5qcGVn.jpeg" alt="Cover for The Highlights" style="max-width:120px; height:auto;" />
       </td>
@@ -1742,7 +1739,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39fe19a30b80d80cb25321b3fe3b951b.png" alt="Cover for BEAUTY IN DEATH (DELUXE EDITION)" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,7 +1777,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f243845b408281d66470ba7bbd9d92f.png" alt="Cover for The Melodic Blue (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,14 +1795,14 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 43</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 44</li>
             <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97af2e81f45de7e76f7187714f26864d.png" alt="Cover for Friends That Break Your Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1822,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/SABF4kYSfEHlH6aYs-dxjbi9kQsy7AZewW4XSC4Q6Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEy/NjM2LTE2MzM2NzQx/MDEtNTc3Mi5wbmc.jpeg" alt="Cover for Life Of A Don" style="max-width:120px; height:auto;" />
       </td>
@@ -1863,7 +1860,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/Ix1_GmUxDVg9ig_9c9vIdRPrKxVxsjPZ1Vc8ccrIM7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzI4/MzgzLTE2NDIxMzU5/MjUtMTI3OS5qcGVn.jpeg" alt="Cover for Caprisongs" style="max-width:120px; height:auto;" />
       </td>
@@ -1879,13 +1876,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 52</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 53</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4667fa11be5079bdf634d489ef34a8c.png" alt="Cover for CALL ME MAYBE" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1904,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e730b8c8d22742ef75f35c996d006da.png" alt="Cover for HOLD ME DOWN LIKE GRAVITY" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,17 +1924,17 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 70</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 88</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 93</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/_w5wT9C4HARkjqF6Hptbq2ICGmeYqZmwvQqV7nJTRWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODY3LTE2OTE2MjY4/NzctODc4My5qcGVn.jpeg" alt="Cover for Nymph" style="max-width:120px; height:auto;" />
       </td>
@@ -1956,7 +1953,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 40</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
@@ -1989,7 +1986,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg" alt="Cover for My 21st Century Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,15 +2001,15 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 67</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 82</li>
             <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/ESrj063IOgE4toz1oPAx3ahnk1_2nztwLsAMVjQowm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDEw/MzU4LTE2ODcwMTU4/NzUtOTI5OS5qcGVn.jpeg" alt="Cover for Fountain Baby" style="max-width:120px; height:auto;" />
       </td>
@@ -2049,18 +2046,18 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae289860b6eab2c8bb8b30b635008e5b.png" alt="Cover for A Love Letter To You 2" style="max-width:120px; height:auto;" />
       </td>
@@ -2076,11 +2073,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44ea435ee3d95f5142a6fbdde6fe6939.png" alt="Cover for Lahai" style="max-width:120px; height:auto;" />
       </td>
@@ -2096,13 +2094,13 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 44</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 45</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ae74decb133ec5b473ccb5466f93d4.png" alt="Cover for NAV" style="max-width:120px; height:auto;" />
       </td>
@@ -2123,7 +2121,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/edd541e416006e87f7a91d3351b227d5.png" alt="Cover for BB&#x2F;ANG3L" style="max-width:120px; height:auto;" />
       </td>
@@ -2142,7 +2140,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15618ed4b85e2c9ba4d89eee1d488405.png" alt="Cover for Bando Stone and The New World" style="max-width:120px; height:auto;" />
       </td>
@@ -2159,12 +2157,12 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 67</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg" alt="Cover for Brat and it’s completely different but also still brat" style="max-width:120px; height:auto;" />
       </td>
@@ -2179,16 +2177,16 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52a7f32bdc99238080b0f17e859b3b4d.png" alt="Cover for Flower Boy" style="max-width:120px; height:auto;" />
       </td>
@@ -2207,7 +2205,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/45286c895828df3dff6cf04775ee2300.png" alt="Cover for Episode1 : Love" style="max-width:120px; height:auto;" />
       </td>
@@ -2228,7 +2226,7 @@ Alternative R&amp;B blends traditional soul and rhythm and blues with experiment
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3440cd027fd93005fef39ee3ab555b0.png" alt="Cover for 333" style="max-width:120px; height:auto;" />
       </td>

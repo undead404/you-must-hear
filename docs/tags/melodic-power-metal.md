@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T02:12:56.308Z
+date: 2025-11-27T05:27:26.574Z
 permalink: tags/melodic-power-metal
 title: melodic power metal
 ---
 
 ## melodic power metal
 
-Last updated: <time datetime="2025-10-28T02:12:56.308Z">Tue Oct 28 2025 04:12:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T05:27:26.574Z">Thu Nov 27 2025 07:27:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/629d37a6b4e48c7f44f1d2bff9a02a6a.png" alt="Cover for Fourth Dimension" style="max-width:120px; height:auto;" />
       </td>
@@ -119,7 +119,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 7</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 49</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
         </ul>
       </td>
@@ -216,21 +216,18 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>Vain Glory Opera</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 27</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/EmgEwPuDYs6VOeVyC-9QLu5cClUuJWacA4OlW55SsHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTA4/MC0xMzcwMTA1MzMw/LTQ2NTcuanBlZw.jpeg" alt="Cover for Ecliptica (2008 Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/493d9f7a8c6c7d2734950eda3e290451.png" alt="Cover for Ecliptica (2008 Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Sonata Arctica</td>
@@ -246,8 +243,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 51</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 89</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +270,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
       </td>
       <td>1999-11-09</td>
@@ -286,14 +283,14 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 48</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/icjxHs792UC3LzmM5tseHT3LN1HO76TxH9iJjjJyEkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE1/My0xNTU0NzY3MTY1/LTE3NzguanBlZw.jpeg" alt="Cover for The Fourth Legacy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a5429debefe99c70e8f97dfb2c8a3a.png" alt="Cover for The Fourth Legacy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-12-22</td>
       <td>Kamelot</td>
@@ -305,15 +302,15 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 16</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/iLL5_lG5UVa8HiMG1Fs8b8Eu-VwXOoOlid3pbJ8sbj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/NDg2LTE1MTg0NzAw/NDAtNjAxNS5qcGVn.jpeg" alt="Cover for Век Мой" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb1842a1690f41c38f97181ff8370ff.png" alt="Cover for Век Мой" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Судный День</td>
@@ -362,7 +359,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>
         <ul>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 1</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 14</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -399,6 +396,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 2</li>
             <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 16</li>
         </ul>
       </td>
@@ -406,6 +404,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6538e926ffd541eeff232aba3f7755d8.png" alt="Cover for Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01</td>
       <td>Sonata Arctica</td>
@@ -417,28 +416,26 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 7</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 83</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 10</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 85</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d3f50026f743f27bfa0383bef9b36fb.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-10</td>
       <td>Kamelot</td>
       <td>Karma</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 20</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +455,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 52</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +473,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 18</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +491,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 42</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +521,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/7OPNMLAyR43vxE1sJ1sheK1JFvP3OE0DCgnvX1rX1MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/OTgtMTI4NDQ4NjYz/MS5qcGVn.jpeg" alt="Cover for Reason and Truth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aac85135dd7765fe381ce394ca6efd1.png" alt="Cover for Reason and Truth" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Concept</td>
@@ -565,6 +562,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f44748e0fc44493bec9ca3b222f3b4b.png" alt="Cover for Epica" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-13</td>
       <td>Kamelot</td>
@@ -576,7 +574,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 81</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -602,6 +600,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b44ca6b08f36c9344b6b1e868e366e4.png" alt="Cover for Sword&#39;s Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-12</td>
       <td>Battlelore</td>
@@ -613,8 +612,8 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 6</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 45</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 5</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 48</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 80</li>
         </ul>
       </td>
@@ -651,9 +650,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 49</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -689,6 +688,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +756,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/SzmZv6bosTd-wOulYz31Ej21a1kN8MOQgTSLCz6mOFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjAx/My0xNTU0NzUxMzQ4/LTQxMDUuanBlZw.jpeg" alt="Cover for The Black Halo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cef178824a4e9bb0bd8b9cb41a7b39.png" alt="Cover for The Black Halo" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-16</td>
       <td>Kamelot</td>
@@ -768,7 +768,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 91</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -791,9 +791,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/KK6HGemX-EfVSYhv1MOLwW0g1C9wShAAvbJ0xUj_JNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE1/My0xMTU3NDg1MDYw/LmpwZWc.jpeg" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c971abd13dc44fdb113c77b595db239.png" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-25</td>
       <td>Battlelore</td>
@@ -805,9 +805,9 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 6</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 50</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +960,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/N7jBl3U6gb3RWAF8gr6EIOnfNqH-THk20cfkzGAHFfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDM2/NC0xMzMwNjA5MjUz/LmpwZWc.jpeg" alt="Cover for Evernight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f55d20b09d09b74eace641a78ce659.png" alt="Cover for Evernight" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-14</td>
       <td>Battlelore</td>
@@ -972,7 +972,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 35</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 38</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 47</li>
         </ul>
       </td>
@@ -1013,7 +1013,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 35</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1034,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 15</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1080,9 +1080,28 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a05a8a3b1697493aa293c6c3fc6396ca.png" alt="Cover for Architect Of Lies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-21</td>
+      <td>Mercenary</td>
+      <td>Architect Of Lies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/Rd4zR-509eOeQT9T_woG6UKfCm6cxNcnPoQ_cxnEIEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQx/MTgzLTE3MTI1OTQy/NTMtMzgyNy5qcGVn.jpeg" alt="Cover for Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4b8da19afc440fc81aeed4517c29bfb.png" alt="Cover for Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-02</td>
       <td>nazz-can</td>
@@ -1102,6 +1121,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0612e4cd4e864d1ea759c9e87d5f2c70.png" alt="Cover for Mirror of Tears" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-03</td>
       <td>Hydria</td>
@@ -1143,6 +1163,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c1eb082884c43ed8b8b6b333613df4e.png" alt="Cover for Songs of Ice and Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-13</td>
       <td>Arkngthand</td>
@@ -1161,7 +1182,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/f4CE7A8w49E9EvNWrz6_BdNvYKrcodM1pbWLo-Pvnk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIz/NDgtMTU0NjE5NzU4/MS00NTAwLmpwZWc.jpeg" alt="Cover for The Crusher - Reissue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da2612d4ad54052ae822d27fad88819.png" alt="Cover for The Crusher - Reissue" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-01</td>
       <td>Amon Amarth</td>
@@ -1177,7 +1198,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-thrash-metal" | relative_url }}">death-thrash metal</a> # 15</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1363,24 +1384,6 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/w2u1Ojnwen0V9758nswyWmmwXuypFhFmF0oByrnKDrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODg3/MjQtMTM1ODAyMzky/MC00NTA1LmpwZWc.jpeg" alt="Cover for The Sign of Six" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Baskerville</td>
-      <td>The Sign of Six</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>47</td>
       <td>
           <img src="https://i.discogs.com/A7LmkyLml0sBVJf0ChFAJUwnxvTauNQqAfgveg3LxDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzEz/ODUtMTQ3MjUwNTg4/MS04NTY0LmpwZWc.jpeg" alt="Cover for Fallen melodies" style="max-width:120px; height:auto;" />
@@ -1422,7 +1425,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       <td>
         <ul>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 41</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 48</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1512,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/Ub7QeN_u4DU91-raIxLdYBbLKo2mqbnN1MPTZfEp8VY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTM3/NDk1LTE2NzE3MTUz/ODYtMzM1Ny5wbmc.jpeg" alt="Cover for Moon Addict" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f4ed642fbe64c6a9c42c9979fbe3497.png" alt="Cover for Moon Addict" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-29</td>
       <td>CROSS VEIN</td>
@@ -1637,7 +1640,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 32</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1685,7 +1688,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/WraC8xjP7xuHVy_loUFbS3MkwuWHOZ-AGD-UbfZjH7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcy/Njc5LTE1NzkzNTgw/NTMtMzkwMC5naWY.jpeg" alt="Cover for le Grimoire De reve" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b607ff724524dc8cd4edb103b12790b.png" alt="Cover for le Grimoire De reve" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-30</td>
       <td>Demetori</td>
@@ -1725,7 +1728,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/dsxx9k_Zb0PR9gqSXIqRIat5vB2fyAAvuJAjcnGcsG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA3/ODQyLTE2MTkwOTQx/MDEtMzE4Ny5qcGVn.jpeg" alt="Cover for Gebet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0b4d0cb42a43ec8b523311ccc962f4.png" alt="Cover for Gebet" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-17</td>
       <td>Resonecia</td>
@@ -1764,6 +1767,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/762fea2621b53d7d65fdf48de4beb83e.png" alt="Cover for The Heart Of The Matter" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-07</td>
       <td>Triosphere</td>
@@ -1781,7 +1785,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/yT60kOLTPIwaX2WEx705S_AD5KLHhw715OqfflSYAh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjkx/OTItMTU3OTU1OTU4/Mi05Mzc0LmpwZWc.jpeg" alt="Cover for Stormcrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1799,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 57</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1880,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/bMo2bcqNg-RIlZV_34y9C2D2r31__Rqubwi-g9nYfOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk2/MTg4LTE1MDc4OTYw/MTMtMjIwNy5qcGVn.jpeg" alt="Cover for A City Once Divine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7313999489fc1ffc439aaff27e4b5e0.png" alt="Cover for A City Once Divine" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-17</td>
       <td>Terra Atlantica</td>
@@ -1914,7 +1918,7 @@ Melodic power metal emphasizes soaring vocal melodies and intricate guitar harmo
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75cae8f29b63477ba2492e6508daae7c.png" alt="Cover for Igra" style="max-width:120px; height:auto;" />
       </td>

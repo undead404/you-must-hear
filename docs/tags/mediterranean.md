@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:54:23.584Z
+date: 2025-11-27T05:26:54.279Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-25T18:54:23.584Z">Tue Nov 25 2025 20:54:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T05:26:54.279Z">Thu Nov 27 2025 07:26:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1976</td>
@@ -75,22 +75,6 @@ Mediterranean music refers to the music styles that originate from the countries
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1976</td>
-      <td>Maryse Nicolai</td>
-      <td>Chansons Corses (Toi, mon Île)</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -140,7 +124,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1981</td>
@@ -1419,6 +1403,24 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Folk Songs Of The Greek Islands Vol. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6540dcb7eac4de0deeaac5540ad96de9.png" alt="Cover for Music Of Spain" style="max-width:120px; height:auto;" />
@@ -1546,17 +1548,17 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
-      <td>Grup de Restauració Folklòrica de València i Fermín Pardo</td>
-      <td>Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià</td>
+      <td>RedJapanese</td>
+      <td>RedJapanese|יפניאדום| يابانية أحمر|日本赤</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
