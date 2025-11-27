@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-26T21:10:13.819Z
+date: 2025-11-26T22:32:58.762Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-26T21:10:13.819Z">Wed Nov 26 2025 23:10:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T22:32:58.762Z">Thu Nov 27 2025 00:32:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-26T22:32:58.762Z">Thu Nov 27 2025 00:32:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch hop]({{ "tags/glitch-hop" | relative_url }}) | <time datetime="2025-11-26T21:10:13.819Z">Wed Nov 26 2025 23:10:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [swedish metal]({{ "tags/swedish-metal" | relative_url }}) | <time datetime="2025-11-26T20:49:38.303Z">Wed Nov 26 2025 22:49:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [norwegian]({{ "tags/norwegian" | relative_url }}) | <time datetime="2025-11-26T20:44:37.980Z">Wed Nov 26 2025 22:44:37 GMT+0200 (Eastern European Standard Time)</time> |
@@ -251,7 +252,6 @@ Last updated: <time datetime="2025-11-26T21:10:13.819Z">Wed Nov 26 2025 23:10:13
 | [trap]({{ "tags/trap" | relative_url }}) | <time datetime="2025-11-25T18:03:18.092Z">Tue Nov 25 2025 20:03:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [ethereal]({{ "tags/ethereal" | relative_url }}) | <time datetime="2025-11-25T18:02:49.427Z">Tue Nov 25 2025 20:02:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [avant-pop]({{ "tags/avant-pop" | relative_url }}) | <time datetime="2025-11-25T18:02:38.603Z">Tue Nov 25 2025 20:02:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-11-25T18:02:15.975Z">Tue Nov 25 2025 20:02:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [french]({{ "tags/french" | relative_url }}) | <time datetime="2025-11-25T18:01:54.138Z">Tue Nov 25 2025 20:01:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-11-25T18:00:48.599Z">Tue Nov 25 2025 20:00:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [clarinet]({{ "tags/clarinet" | relative_url }}) | <time datetime="2025-11-25T17:44:50.664Z">Tue Nov 25 2025 19:44:50 GMT+0200 (Eastern European Standard Time)</time> |
