@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:50:02.198Z
+date: 2025-11-27T05:21:59.927Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-11-25T18:50:02.198Z">Tue Nov 25 2025 20:50:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T05:21:59.927Z">Thu Nov 27 2025 07:21:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -228,6 +228,22 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1963</td>
+      <td>Luigi Alva</td>
+      <td>ROSSINI: Barbiere de Siviglia (Il) (Callas, Gobbi) (1956)</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -640,7 +656,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1985</td>
@@ -848,6 +864,23 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Arturo Toscanini</td>
+      <td>Verdi:Otello</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>6</td>
       <td>
       </td>
@@ -975,7 +1008,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
       </td>
       <td>1995</td>
@@ -1049,7 +1082,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>5</td>
       <td>
       </td>
       <td>1996</td>
@@ -1483,6 +1516,22 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2018</td>
+      <td>Gioachino Rossini</td>
+      <td>Rossini, G.: The Barber of Seville [Opera]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>29</td>
       <td>
           <img src="https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg" alt="Cover for Rossini, G.: Italian Girl in Algiers (The) (L&#39;Italiana in Algeri) [Opera] (Highlights) (Sung in English)" style="max-width:120px; height:auto;" />
@@ -1553,23 +1602,6 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra Camerata Musicale</td>
-      <td>Rossini: La Pietra Del Paragone</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1699,39 +1731,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata</td>
-      <td>Bellini: Bianca &amp; Fernando</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ferdinando Fontana</td>
-      <td>Puccini, G.: Villi (Le) [Opera]</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
