@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T20:30:20.283Z
+date: 2025-11-26T23:42:38.000Z
 permalink: tags/dark-metal
 title: dark metal
 ---
 
 ## dark metal
 
-Last updated: <time datetime="2025-10-28T20:30:20.283Z">Tue Oct 28 2025 22:30:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T23:42:38.000Z">Thu Nov 27 2025 01:42:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Zpg_5TtJZ8vRieqTdgait955gXMJhfEs7bhHekWSvDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgx/NTAtMTcyNjU3MTM2/NC0yMzg2LmpwZWc.jpeg" alt="Cover for Dark Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -68,27 +68,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32be6d9929313f5bfff263477cc7aea2.png" alt="Cover for Ceremony of Opposites" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994-02-28</td>
-      <td>Samael</td>
-      <td>Ceremony of Opposites</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b309548804a84ca49deb63170ecd89f8.png" alt="Cover for Wolfheart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504812f1d022fc63d83ff1fd2fea8111.png" alt="Cover for Wolfheart" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-01</td>
       <td>Moonspell</td>
@@ -101,12 +83,13 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 89</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1996</td>
@@ -124,7 +107,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33af2e5d1dfc41e1bd81a7036010e108.png" alt="Cover for Dictius Te Necare" style="max-width:120px; height:auto;" />
       </td>
@@ -141,14 +124,14 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
         <ul>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 30</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 58</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/iLTliEke6-fi--i_YQhTpVOOTz27FSQfb4pQ9EiOy4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTg1/NTQtMTMyNzI0MDc2/OC5qcGVn.jpeg" alt="Cover for Dreams of the Black Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d029d66921c564c44bd08fa6814fbbd.png" alt="Cover for Dreams of the Black Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Throes of Dawn</td>
@@ -183,7 +166,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/BPbVLY4K7Nv42PwNlxuuBBUdFlE8u8NmYucvyDef5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODQ2/My0xMjkxMDQxNzU1/LmpwZWc.jpeg" alt="Cover for Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -203,8 +186,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63544830a4924f7d9885f72246fb3822.png" alt="Cover for Sleep Of The Angels" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01-04</td>
       <td>Rotting Christ</td>
@@ -224,6 +208,24 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97d144fd369a499893f524073f552e1a.png" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-07-19</td>
+      <td>Samael</td>
+      <td>Eternal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>52</td>
       <td>
       </td>
@@ -238,9 +240,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 1</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 42</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 41</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -261,14 +263,14 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 61</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b791b79c194134d8bc23e4b9e430eb.png" alt="Cover for The Book" style="max-width:120px; height:auto;" />
       </td>
@@ -301,7 +303,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 33</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 39</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 95</li>
         </ul>
       </td>
@@ -326,7 +329,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/okHQ8rZcEPpLRHXkPLCUfFNzTwmr3SMMY15gzc6rJgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDcw/Ni0xNjA0MjIzOTY0/LTM1MjcuanBlZw.jpeg" alt="Cover for Leichenlager" style="max-width:120px; height:auto;" />
       </td>
@@ -363,8 +366,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e5a6486daa14f9fb7cdd539e508ca01.png" alt="Cover for Binding of the Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-22</td>
       <td>Throes of Dawn</td>
@@ -380,7 +384,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/bGozKDszG1BtG1NDohVIXCvKfYkTSfOpZHCS5OKTldk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDY3/MjctMTI5OTE4NjMy/My5qcGVn.jpeg" alt="Cover for Falschheit" style="max-width:120px; height:auto;" />
       </td>
@@ -399,9 +403,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
-          <img src="https://i.discogs.com/O51xX5gqYjYKOuvXp751OqrxC4Y2aZFcjwTm_2cqpUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDI2/NjYtMTQ2MTQwOTQy/Ny05MjQzLmpwZWc.jpeg" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af01fcac45c941f5b0b1450effa422df.png" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Katatonia</td>
@@ -420,13 +424,13 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 85</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2001</td>
@@ -443,7 +447,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/X_tgP4weKePlqSyJy7V0MyziMBOMhkqMEKyTW3VBr2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTMy/NS0xMzM1MTY3NjIx/LmpwZWc.jpeg" alt="Cover for Itse" style="max-width:120px; height:auto;" />
       </td>
@@ -480,7 +484,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
       </td>
       <td>2001-11</td>
@@ -497,7 +501,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/uaBUSc2u6Mj149Op0-rw8YgG4pxFpyCpGlVfBGdeiMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODQy/NjQtMTM5OTg0MDc4/Mi05NTkwLmpwZWc.jpeg" alt="Cover for Schatten Der Vergangenheit" style="max-width:120px; height:auto;" />
       </td>
@@ -517,7 +521,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>34</td>
       <td>
       </td>
       <td>2003</td>
@@ -534,8 +538,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6681a1ea5e0adffbcbc761b51f5aade.png" alt="Cover for Kuolema" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-24</td>
       <td>Ajattara</td>
@@ -570,7 +575,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/pgqVrKDaw4yrnLreXpprQFLSl-nZQw4u8o-CYX1w07U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjA1/Ni0xNTU3MzM0MDgz/LTc5NjIuanBlZw.jpeg" alt="Cover for The Antidote" style="max-width:120px; height:auto;" />
       </td>
@@ -584,12 +589,12 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 25</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/Oux9VTMkGiT1UAnCR0KF7MdhNqyNtDDJ2wjeKIMzPBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg2/NjktMTI1NzY4NjM2/NS5qcGVn.jpeg" alt="Cover for Of Decay And Desire" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +613,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>37</td>
       <td>
       </td>
       <td>2004</td>
@@ -631,7 +636,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/7LulxFxcKMp5eqhEFvd-TlJdF039OqLx7Ngdc2SJP3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODYy/OC0xMTQzOTM0NDE3/LmpwZWc.jpeg" alt="Cover for Atlantic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b549ea2eff30a355739ea9caae0fb92.png" alt="Cover for Atlantic" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>The Wounded</td>
@@ -649,6 +654,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38b5312eee27538c6b9e48ad44cd8526.png" alt="Cover for Quicksilver Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Throes of Dawn</td>
@@ -664,7 +670,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/3dlgIvKX7fba_n0-9B3RE2EFQ856QtyWKFoHIjQ0Bjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE2/NzgtMTMyMTEwNTEw/Ni5qcGVn.jpeg" alt="Cover for Leave (Get Out)" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +694,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-06-01</td>
@@ -706,7 +712,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>42</td>
       <td>
       </td>
       <td>2004-07-12</td>
@@ -724,13 +730,14 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/449482cab6a64b818eaa4486c657d1a5.png" alt="Cover for Traumtrophäen Toter Trauertänzer" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-01</td>
       <td>Eden weint im Grab</td>
@@ -749,7 +756,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
       </td>
       <td>2004-09-27</td>
@@ -784,9 +791,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/gjMmW_KpDMrOhMHrZ39c71ejwQ4yrv0EWUy4LtGa1Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU5/Mi0xMzM1MTczNDM1/LmpwZWc.jpeg" alt="Cover for Tyhjyys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1da3e8696538812d4ae57d3b66c7e2bd.png" alt="Cover for Tyhjyys" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-13</td>
       <td>Ajattara</td>
@@ -803,7 +810,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ae0a807511467eb5ef9cccb21f2de9.png" alt="Cover for Mein Weg" style="max-width:120px; height:auto;" />
       </td>
@@ -824,25 +831,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/h0CdncDv-j2PC1z3P8vuCZGA-NGPfTeYWecOVBjX7vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/NjU4LTE1MDY4NTMw/MTYtNTQzNy5qcGVn.jpeg" alt="Cover for Hegemony" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Samael</td>
-      <td>Hegemony</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>44</td>
       <td>
       </td>
       <td>2005-02-04</td>
@@ -878,14 +867,15 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 3</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/-p6v18eQVO2Asd1OpiiBAkD1JTiEawabPiiuEt7MyQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODgy/MC0xNDA5OTk5Njcz/LTM0NzUuanBlZw.jpeg" alt="Cover for Schlachtwerk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a65e09b745154907b21bea70ed4cb605.png" alt="Cover for Schlachtwerk" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-31</td>
       <td>Eisblut</td>
@@ -903,6 +893,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc1cdf35d7749c99a2da811cf86a981.png" alt="Cover for Hexenhaus" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-28</td>
       <td>Eisregen</td>
@@ -918,9 +909,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/f9UNzQv5t6Pp4LT0pCluLhYs2defI1QODgSDfMP5Rs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDky/OS0xMTgyMDk3NzA2/LmpwZWc.jpeg" alt="Cover for Hexenwind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82bba2f55dbbc18be4fdfc80cf25cdf0.png" alt="Cover for Hexenwind" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-18</td>
       <td>Dornenreich</td>
@@ -937,8 +928,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ccd6b114f23fc7ec80b1ca525c60150.png" alt="Cover for Ever-Arch-I-Tech-Ture" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Axamenta</td>
@@ -959,7 +951,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/qqyZi5dPw0NPkL9SL-HcZODoaigtLKgTVITzQoY9WNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTYy/Ny0xMTM4NjA3NjY5/LmpwZWc.jpeg" alt="Cover for Carpathia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d25f5e8924c24dbaecfd22964e6b3ccb.png" alt="Cover for Carpathia" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>The Vision Bleak</td>
@@ -975,7 +967,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>2006-04-10</td>
@@ -993,7 +985,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/PCZcw28pKxTHI5POUJFbwASq9YNOVTUSsY1o7kTijN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM1/ODgtMTI2ODUxMjg3/NS5qcGVn.jpeg" alt="Cover for The Creatures of Loviatar" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,13 +1018,15 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6799028664d4a49a7671377289833f3.png" alt="Cover for Blutbahnen" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-27</td>
       <td>Eisregen</td>
@@ -1049,8 +1043,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19da75c436ecc5b7bf8b51e74e6e38de.png" alt="Cover for Circadian Rhythm" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-28</td>
       <td>Thurisaz</td>
@@ -1065,12 +1060,12 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/tAnpm_Vplwvt4V5FIW-AxdwASdMWAi6o4C07z1gGrrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYz/NjItMTE4NDQyMDA1/My5qcGVn.jpeg" alt="Cover for Valkyries&#39; New Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,7 +1088,25 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb3a32e0dec458f86f0663ba3dc60e9.png" alt="Cover for Solar Soul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-01</td>
+      <td>Samael</td>
+      <td>Solar Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
       <td>
       </td>
       <td>2007-06-22</td>
@@ -1113,7 +1126,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/5QpRD5DbLsQpRLzOkVY8sDjZQdG2kfrUEh_E-e5dnNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MDctMTE4NTAxNzIx/MS5qcGVn.jpeg" alt="Cover for V: Halmstad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72cb6e13322e499986da75f676d7d9cb.png" alt="Cover for V: Halmstad" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06</td>
       <td>Shining</td>
@@ -1126,13 +1139,14 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 63</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/924a76877465399d06a120b390c5399e.png" alt="Cover for World Expiration" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-19</td>
       <td>Soulfallen</td>
@@ -1148,7 +1162,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       <td>
         <ul>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 80</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1172,8 +1186,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e53f782829a3382c884c5443ab080dd1.png" alt="Cover for Zero Nexus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-12</td>
       <td>Shade Empire</td>
@@ -1192,7 +1207,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/dVKJIizvqvtYLgSr0-9fiF05OYPXeyKu_uxXOGVivHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI2/MjctMTQ5NzI0NzA3/NC03ODg1LmpwZWc.jpeg" alt="Cover for Night Eternal" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1221,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1244,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/S9S3VAQC-MWMDdI3I4ZJAFFgwFw7YJuyrDdlbTmsfW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk5/MDgtMTU0NTQ5MzIx/MS04NjI4LmpwZWc.jpeg" alt="Cover for Halmstad" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1259,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 42</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 87</li>
         </ul>
       </td>
@@ -1252,7 +1267,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/oVEAG9PH8Kjdks94V7F3LENwUQRWbPxYtfgY9rpesKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDY2/NzAtMTI2OTgwNjA3/NS5qcGVn.jpeg" alt="Cover for Judgement Of Tormented Souls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1e39e118a618b5c23baf4d8c054936c.png" alt="Cover for Judgement Of Tormented Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-14</td>
       <td>Dominia</td>
@@ -1268,8 +1283,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b93ef535042b4c3cbd3fb6ec3c25253e.png" alt="Cover for Noitumaa" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-22</td>
       <td>Ajattara</td>
@@ -1285,9 +1301,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Nv4BOIzBYrBnoT_cqD5iIPd_FsV5FNkLEei-em1Fjx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/MjAtMTI5MjQzMjc4/NS5qcGVn.jpeg" alt="Cover for The Great Fleet of Echoes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9753427ccfc4072c0d678a6c108742e.png" alt="Cover for The Great Fleet of Echoes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Throes of Dawn</td>
@@ -1304,8 +1320,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e5816eb05ee63f367f0603aecc52437.png" alt="Cover for Aealo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-15</td>
       <td>Rotting Christ</td>
@@ -1321,9 +1338,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/35UW6RhiKuoWA77MoYbRzXoTBxqEdsEpThtkhdcJrR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTEz/OTAtMTYyMDc2NDg3/Mi01NjIyLmpwZWc.jpeg" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bce3c33008deb63ab511dd7a8ee84d.png" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-10</td>
       <td>Katatonia</td>
@@ -1366,9 +1383,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/kwEkoeOlDi9wIDzJ1cTzDsn88mnwgsVQuO5dKfSzJfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU3/NDYtMTQ3NzUwNzM5/OC0zODU1LmpwZWc.jpeg" alt="Cover for Stönkfitzchen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe01b3f728a647e18a9a419cdadccc02.png" alt="Cover for Stönkfitzchen" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-22</td>
       <td>Bethlehem</td>
@@ -1385,9 +1402,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/6fZHYQSfymDDOCjso9ryO3Z6rNOzffUyuMbwSgtuq7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU4/MjUtMTQ0ODA2MTYy/OC0xMjY0LmpwZWc.jpeg" alt="Cover for Lux Mundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c5e87b46e3342878df5a516df9c61ca.png" alt="Cover for Lux Mundi" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-29</td>
       <td>Samael</td>
@@ -1403,8 +1420,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d14718678d4b4b84a256332430b349bf.png" alt="Cover for Zeichen" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04</td>
       <td>Mantus</td>
@@ -1440,7 +1458,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/je7XScsuEcfsJkE6xkQFl5-YGG-dBHtusQgMN48XZNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODgy/MTAtMTM2MDc3MzI2/NC0yMzU1LmpwZWc.jpeg" alt="Cover for Amok" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1482,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>43</td>
       <td>
       </td>
       <td>2011-12-09</td>
@@ -1481,8 +1499,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b32c17cd67b4af49207f09ebe92308a.png" alt="Cover for Alpha Noir" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>Moonspell</td>
@@ -1498,9 +1517,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/kE3P9r6mXplIpwrHISi2rc3rd4w5hTRnEw0KQNMwiII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzkz/MDYtMTM2NDEzMDIy/Ny05MzA0LmpwZWc.jpeg" alt="Cover for Krebskollektion" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-07</td>
       <td>Eisregen</td>
@@ -1516,8 +1534,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce3701b4ed34d16cd28adbfd017820f.png" alt="Cover for In Brennenden Himmeln" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-26</td>
       <td>Schwarzer Engel</td>
@@ -1538,6 +1557,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Phase</td>
@@ -1576,23 +1596,23 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
             <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 70</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2013-12-06</td>
@@ -1628,7 +1648,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2014-10-03</td>
@@ -1650,7 +1670,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>35</td>
       <td>
       </td>
       <td>2014-10-10</td>
@@ -1710,7 +1730,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/rMffhlNC6WoYxSAGHzSJCUMFKJhy7BKeQytDN1utysU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDkw/NzItMTQyOTI5NjU5/MS02MDUwLmpwZWc.jpeg" alt="Cover for The Children Of The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,12 +1746,12 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/jmLIo-POQhG1AxxKJNUI-kGXfm2VPeTdJL-x8Uqn87E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODUy/MDItMTYxMDg4NzQ3/MS02MDYyLmpwZWc.jpeg" alt="Cover for Hurt Yourself and the Ones You Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,9 +1773,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/ugBjPOzbMaJNQVGzhIeRPsOZth-H5wXkCUNT0PdK9ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA4/ODc0LTE1NTIyMDg3/ODUtOTA1NS5qcGVn.jpeg" alt="Cover for Lucifer Over Athens" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9fcd531815fa041d492a7c5cc6e872f.png" alt="Cover for Lucifer Over Athens" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-21</td>
       <td>Rotting Christ</td>
@@ -1778,7 +1798,25 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/kRfMkjj36UVQoU--xVe-QXEvFBPsp3QD6SLf-OZHrzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzUw/OTItMTYzODQyNTk1/MC01OTc0LmpwZWc.jpeg" alt="Cover for Epsilon Aurigae" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-11</td>
+      <td>Monolithe</td>
+      <td>Epsilon Aurigae</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26ea4b97907a126175b87567b08e21d.png" alt="Cover for Rituals" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1858,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/AVc77aeq6lEwnD7uNUMfv5Jz9Uu2KWHvUPJWew-mS0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTY5/NTktMTQ4NDMxNjgx/OC04NzQ4LmpwZWc.jpeg" alt="Cover for Not For Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bad81b66b9dbc4692ac27e22e0f13edd.png" alt="Cover for Not For Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-20</td>
       <td>Emptiness</td>
@@ -1838,7 +1876,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/FiiOYeWNJi7RVR4JukAvARCKs30GF9rlspimQHQidQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzI0/MTItMTQ4NTUwNjgy/MS00NjIxLmpwZWc.jpeg" alt="Cover for Saatto" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,25 +1894,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/-CdiBBO_bqrlrOzK45BF7NtHRw6iNYfmLJ5e5dRZWzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTg5/OTUtMTQ4ODU0OTkx/My02NTEzLmpwZWc.jpeg" alt="Cover for Tyhjyys" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-03-03</td>
-      <td>Wolfheart</td>
-      <td>Tyhjyys</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79c2f2ac1b51a85a7bd7c5a96102550.png" alt="Cover for Testimonium" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1915,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/f5fSDw6uHAb14wkpyUgtaQUDQdbgOTbCl8Ss6igRnjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMy/NzY1LTE1NTIyNDA3/ODAtOTkwMC5qcGVn.jpeg" alt="Cover for Valo" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1933,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Q8M3OK3tWGrR9CdsCm1Xt5DTCt4qZej_9HD6daGVd2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY3/OTIxLTE2NjE1ODQy/MDktMzcxMS5qcGVn.jpeg" alt="Cover for Lied für die Götter" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1957,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/0Z0FVZ52ooTG4kjxIJx_RJ_VSoyc4p_EYXilZTqwjws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQx/MDY1LTE2MDA1MzEw/NzYtMzUzNS5qcGVn.jpeg" alt="Cover for Re-Incentive" style="max-width:120px; height:auto;" />
       </td>
@@ -1957,7 +1977,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/fosi4xmR9SMLhsPqPrbmO9k_Fs3FbA_RWQbHbTK8sz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgx/Mjg1LTE2NzAyOTAy/OTctMjAwNC5wbmc.jpeg" alt="Cover for PARAÍSO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d0fb2af8f1c509f36424e0328034325.png" alt="Cover for PARAÍSO" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-03</td>
       <td>Mora</td>
@@ -1970,12 +1990,12 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/jUjoRoGLRWOz28Ggjdm7EcwF1THSl9OU1lLUmX2VqJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU3/NTk0LTE3MzAzNzkx/NzQtMzQ0OS5qcGVn.jpeg" alt="Cover for Sub Rosa in Æternum" style="max-width:120px; height:auto;" />
       </td>

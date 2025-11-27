@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:07:36.110Z
+date: 2025-11-27T00:18:08.098Z
 permalink: tags/garage
 title: garage
 ---
 
 ## garage
 
-Last updated: <time datetime="2025-11-25T18:07:36.110Z">Tue Nov 25 2025 20:07:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T00:18:08.098Z">Thu Nov 27 2025 02:18:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/tqezajw-t3iTqGqWILqkFjnRT27Xr7FKs5FqpQwPBdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODQ5/MTktMTU3MjI3NjEy/OS00MTk2LmpwZWc.jpeg" alt="Cover for Turn On" style="max-width:120px; height:auto;" />
       </td>
@@ -74,7 +74,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd5c15a014a4c7cb8e3db5fca73baae.png" alt="Cover for Gloria" style="max-width:120px; height:auto;" />
       </td>
@@ -171,7 +171,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/dDsaMhZvUEiphhEqmUARuft93V38ikeD5JENDXX1CNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzY4/My0xMTcxMDMxMzQ0/LmpwZWc.jpeg" alt="Cover for The Las Vegas Story" style="max-width:120px; height:auto;" />
       </td>
@@ -226,12 +226,12 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 77</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 88</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1989</td>
@@ -346,7 +346,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1993</td>
@@ -418,7 +418,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1995</td>
@@ -456,7 +456,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/VGHP_WaHRxx2g8hpdcLF_6HYJTSGX6I_0EYIzkUWbBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU5/NjgtMTQyNTY2MDkx/NS05NzA3LmpwZWc.jpeg" alt="Cover for Savage" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1996-04-05</td>
@@ -512,7 +512,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/3FEXeCKgwoqx1kLNTfmDHdzsv7YutB1-2c6gu0ew2Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY2/NDUtMTIzNzgxMzY1/NC5qcGVn.jpeg" alt="Cover for Supershitty to the Max" style="max-width:120px; height:auto;" />
       </td>
@@ -550,7 +550,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gP0T5Vgw9PN7mcDZQsjeEKjDy5KK_GEYd1s3dkGSZw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDUx/My0xMTYzNTY1NjA4/LmpwZWc.jpeg" alt="Cover for I Wanna See You Bellydance" style="max-width:120px; height:auto;" />
       </td>
@@ -570,7 +570,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1998-07-28</td>
@@ -589,7 +589,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>1998-09-15</td>
@@ -685,7 +685,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/gQ-4zZFoPUm8TFWgSCqM_3KXjNPoUt1HBtMdIf2YqSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDg2/LTE1MDk1NDU2Mzct/OTU0OC5qcGVn.jpeg" alt="Cover for Garage Classical" style="max-width:120px; height:auto;" />
       </td>
@@ -745,7 +745,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/86LQJAYE3haek2rsXXDXbOKr8WV0exmoXp3A9fNYg5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MjQtMTY3Mzc4OTUw/OS05OTA1LmpwZWc.jpeg" alt="Cover for 14 Frenzied Shakers" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +803,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ea680d43d87cc0b8009d6b23bb32bea.png" alt="Cover for Whip It On" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +824,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/JoDg8fMtA1xLJqSXDS9vUkkCDcjY3W6YDooM_tt5z_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDI0/NzYtMTM0MDI2Mzcw/NC04Mzk5LmpwZWc.jpeg" alt="Cover for Yes. No. Shut It." style="max-width:120px; height:auto;" />
       </td>
@@ -844,7 +844,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2003-09-16</td>
@@ -861,7 +861,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/diy2gb2eUvVRxNPe4rI7N3nH5Z8m1IKlHrgaz9BMRYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc4/NzktMTU4ODAyMTk2/MS00MDI1LmpwZWc.jpeg" alt="Cover for Bomb the Rocks - Early Days Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +876,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 46</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1003,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2005-11-04</td>
@@ -1027,14 +1027,14 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 12</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 13</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 58</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006</td>
@@ -1051,7 +1051,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/DaWNuUcI6YnW79bnrEiZQsSb-CniMB5WaVKLBX6Z2Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM0/OTItMTI3MzQ3Mjk4/MS5qcGVn.jpeg" alt="Cover for Grown-Ups" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,7 +1128,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f960a90d9d38b1062f185dd17b6c2e0e.png" alt="Cover for Busy Body!!! Live In Tacoma 1964" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,7 +1375,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1400,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/ONyYupyCairU4w60ake5bwgi0ByuUBoVGRjgNZsZclU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODE0/NjYtMTMyMzc3OTE4/My5qcGVn.jpeg" alt="Cover for Across the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -1420,7 +1420,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb82a7d16edfbabfa521127b3908f707.png" alt="Cover for Strange Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,12 +1435,12 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 62</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbee8e8efc284e7281b856ceafd5088e.png" alt="Cover for Hypnotic Nights" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,7 +1501,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17300d3185394cb6a8798a6eda206f38.png" alt="Cover for I&#39;m Rich Beyond Your Wildest Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1564,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/o4D5BNVBHCj90wRgrrXPb44o5V4CLjmt-eA-EOUC5qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDc5/MDItMTQ3ODE5MTg5/NC0zNTgwLmpwZWc.jpeg" alt="Cover for Born in Blood &#x2F; Spiders in Her Hair" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1666,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Py5-4b_4u9a1ih5SroLpntyWHncpNvMnPZlS3zfJEJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc4/OTctMTQyODU3MjE3/Mi01MjgzLmpwZWc.jpeg" alt="Cover for Sirens (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1751,28 +1751,6 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/827c07b14dcf653bd27555b9b129411e.png" alt="Cover for mayflower" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-12-10</td>
-      <td>Drunk Uncle</td>
-      <td>mayflower</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 9</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>91</td>
       <td>
       </td>
@@ -1827,7 +1805,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 41</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1857,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 76</li>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 77</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 90</li>
@@ -1972,7 +1950,29 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144ad0f1fadddc418ed7b2c572137ecf.png" alt="Cover for skeletons EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-09</td>
+      <td>Snake Eyes</td>
+      <td>skeletons EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71884a565d7e3836e0ff326ff4942a56.png" alt="Cover for On Air (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2110,7 +2110,7 @@ Garage is a raw, energetic genre rooted in lo-fi rock and punk aesthetics, chara
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e72ea9a95d150107c53a8213490b7d5.png" alt="Cover for Grim - Brain Body" style="max-width:120px; height:auto;" />
       </td>
