@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T13:18:52.460Z
+date: 2025-11-26T18:47:37.991Z
 permalink: tags/epic-trance
 title: epic trance
 ---
 
 ## epic trance
 
-Last updated: <time datetime="2025-11-25T13:18:52.460Z">Tue Nov 25 2025 15:18:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T18:47:37.991Z">Wed Nov 26 2025 20:47:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -180,39 +180,6 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/FxR3ILZLAQWzVFtsiSzUq5D8axK7An4r_WSM0ZruaiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTA1/MzctMTM4MjA0ODE3/Ny00NzMwLmpwZWc.jpeg" alt="Cover for Another Dimension" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-02-02</td>
-      <td>The Specialists</td>
-      <td>Another Dimension</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
       </td>
       <td>
@@ -1176,7 +1143,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/f2k7brxoUyshqUII3RoPhtC3D4q3nM9K4fv3CTe76d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODYtMTYwNzgxMzgz/NC04OTM0LmpwZWc.jpeg" alt="Cover for Cosmic Dance (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1187,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/hRv6ySPpAOonGbCJ54DoBFgLvtHGIR4pgi_K4Ff2-DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/MzEtMTM0MDUzNzIx/My0xMjc5LmpwZWc.jpeg" alt="Cover for Wonderful Moments (Eternal Trance Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,6 +1283,27 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/XPQDVwS2gEO2pd9OJnLWh__-FZApl2i1Nqu-73FMrwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODMy/ODEtMTM5NDUzMzA5/OS03OTkxLmpwZWc.jpeg" alt="Cover for Kukuzenko - Dreamcatcher" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-15</td>
+      <td>Kukuzenko</td>
+      <td>Kukuzenko - Dreamcatcher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>
           <img src="https://i.discogs.com/S7aXnGx7RcGixRXpRox_OE-d11iquJiNPxy0eKE-9fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQz/NjYtMTYwNzgxMjc4/NC00MTQ4LmpwZWc.jpeg" alt="Cover for Pour Denise" style="max-width:120px; height:auto;" />
@@ -1360,7 +1348,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.5" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1698,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 8</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 35</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 36</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 45</li>
         </ul>
       </td>
@@ -1833,7 +1821,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 11</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 43</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 44</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 60</li>
         </ul>
       </td>
