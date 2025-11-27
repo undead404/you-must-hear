@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:01:58.238Z
+date: 2025-11-26T20:19:37.988Z
 permalink: tags/industrial-noise
 title: industrial noise
 ---
 
 ## industrial noise
 
-Last updated: <time datetime="2025-11-11T04:01:58.238Z">Tue Nov 11 2025 06:01:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-26T20:19:37.988Z">Wed Nov 26 2025 22:19:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
   </thead>
   <tbody>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1980-11</td>
@@ -43,18 +43,36 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 35</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/tNcGCPvlzFvoRS6lRSEmftg9HR7M4CZcsdbJ_ZZdGC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDA2/LTE0MTg0ODE4NTIt/ODQwNy5qcGVn.jpeg" alt="Cover for Information Overload Unit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2febb66b2667ec9fe23a575ae8367b29.png" alt="Cover for Information Overload Unit" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>SPK</td>
       <td>Information Overload Unit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c8b6cd1b1404743c7e7daae9799528c.png" alt="Cover for Zeichnungen des Patienten O.T." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-11-21</td>
+      <td>Einstürzende Neubauten</td>
+      <td>Zeichnungen des Patienten O.T.</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
@@ -136,7 +154,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/X-eCBxs0q4PzsN2d32YJazGwJ0lhY7JH_nbjqaLYalc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ4/Ny0xMDkzNzE4MjE1/LmpwZw.jpeg" alt="Cover for Ambiguity" style="max-width:120px; height:auto;" />
       </td>
@@ -182,9 +200,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/L7A9xdDs-ZNbMdmFzcXtpekgyHtU_V8MeWlC5t-DVlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI3/ODIxLTE1OTUzNTgy/MTktNjk0Mi5qcGVn.jpeg" alt="Cover for The Jissom Killers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/650421b3193e43178abd71a0640810a0.png" alt="Cover for The Jissom Killers" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Smell &amp; Quim</td>
@@ -204,7 +222,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xdMM719fiVcQLSmctiRV_X_3fSTcm8SKw6Kc7J12Kws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/NjM5LTE1ODEyNDMw/OTEtODg4OC5qcGVn.jpeg" alt="Cover for Native Concrete Industrial" style="max-width:120px; height:auto;" />
       </td>
@@ -250,6 +268,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d7f8db7c1084d2ebd9c4446ee87e892.png" alt="Cover for Transmissions From Uranus" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-27</td>
       <td>Hanzel und Gretyl</td>
@@ -284,6 +303,28 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/YCOfcS_OTHsdM30lYQPiM0KYn5cLH0Gcju53rF-J6KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTMy/OS0xNTkzNTk1ODAz/LTE1MDQuanBlZw.jpeg" alt="Cover for Cleanshaven" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Propergol</td>
+      <td>Cleanshaven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>88</td>
       <td>
           <img src="https://i.discogs.com/vebIeSU_ef7nKc7neVJtBP7JQqzPsxlDLTSHs_VHkcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUz/NzUtMTE5NzQ5NjUw/Mi5qcGVn.jpeg" alt="Cover for May All Be Dead" style="max-width:120px; height:auto;" />
@@ -300,8 +341,8 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 23</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 79</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -349,27 +390,6 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/YCOfcS_OTHsdM30lYQPiM0KYn5cLH0Gcju53rF-J6KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTMy/OS0xNTkzNTk1ODAz/LTE1MDQuanBlZw.jpeg" alt="Cover for Cleanshaven" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Propergol</td>
-      <td>Cleanshaven</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>64</td>
       <td>
           <img src="https://i.discogs.com/nrHclIbql5ClPEom383cPuRFfkVXrzeD2d66T2jrq5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzQy/LTEyMDA5Nzc4MzQu/anBlZw.jpeg" alt="Cover for White Heat" style="max-width:120px; height:auto;" />
@@ -402,7 +422,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 8</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 77</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 85</li>
             <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 89</li>
@@ -410,7 +430,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2001</td>
@@ -435,6 +455,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75d990237a924b36cb70c55399ccf327.png" alt="Cover for Strategies Against Architecture III" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-08</td>
       <td>Einstürzende Neubauten</td>
@@ -453,7 +474,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/0ZSAiqp7bRXTjRjg-OoUmP2D3bWjlDNZ6zb5jW66L6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTMw/LTExNzg3ODY0MzEu/anBlZw.jpeg" alt="Cover for Automated" style="max-width:120px; height:auto;" />
       </td>
@@ -474,7 +495,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/jLfT9FLIReIrWTWtB_WlwSgQ0BaUQvjoK454rhO56a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMw/MC0xMzM0MjY0MjYw/LmpwZWc.jpeg" alt="Cover for Lies In Your Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +514,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 5</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +548,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       <td>
         <ul>
             <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 16</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 54</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -599,9 +620,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 11</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 80</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 81</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
         </ul>
       </td>
@@ -639,8 +660,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78f8f719e0f60ca697ccbc04cd80d867.png" alt="Cover for Flicknives" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-15</td>
       <td>2nd Gen</td>
@@ -709,8 +731,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b458e98e9023cf24ea6ce8984427ec.png" alt="Cover for Burned Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-28</td>
       <td>Wolf Eyes</td>
@@ -722,7 +745,6 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +792,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2005-05</td>
@@ -863,12 +885,13 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 72</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
         </ul>
       </td>
@@ -891,14 +914,15 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 59</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5942c5cc7a62488aafabbf2eb40b8df2.png" alt="Cover for Night Aquarium" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Chaos Royale</td>
@@ -924,7 +948,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/argJhQwmFjZVysAxlhrIEQHHD68Pu5g3PODSPnnTt6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/Ni0xMjc0OTA5MDY3/LmpwZWc.jpeg" alt="Cover for No Longer Human" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3c06eed3d19871b9ad843176ae9964.png" alt="Cover for No Longer Human" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Dissecting Table</td>
@@ -988,7 +1012,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>2006-03</td>
@@ -1040,7 +1064,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/Md71pThsiIMtBvzzAJdP3OrXUz1rN0xHu6nylaWP7pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ4/NDItMTIwMDA3MTc0/Mi5qcGVn.jpeg" alt="Cover for Inno A Satana &#x2F; Lucifer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a32f88f802394a558eee0e307b3d0c60.png" alt="Cover for Inno A Satana &#x2F; Lucifer" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Teatro Satanico</td>
@@ -1129,28 +1153,6 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/QNUdX-qi-MVgeveZ_kDKsEWcyWweJN2vQfoRN0265E4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA0/MDMtMTE5MjAyOTM3/OC5qcGVn.jpeg" alt="Cover for voltage carnage tour de force E.P. (bpmf21)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-10-08</td>
-      <td>Crepuscular</td>
-      <td>voltage carnage tour de force E.P. (bpmf21)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
           <img src="https://i.discogs.com/f4mIj1Nu0Wrkz6gfQoWxfUOKXSBUHFc2ImyCzCXd7XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzcz/MzYtMTE5NTA1NDM5/Mi5qcGVn.jpeg" alt="Cover for Energetika" style="max-width:120px; height:auto;" />
@@ -1176,6 +1178,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77de2e0b0b334417b8749aff7a58566a.png" alt="Cover for Veterinarian No More" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>___dREàgänN||||||</td>
@@ -1225,7 +1228,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/-gdH9kI1ZuwClITRWLI-9Ral-ZOZCSDx2-vMyL8zLD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ3/NTMtMTY1MTExMjQ4/Mi0xMzkwLmpwZWc.jpeg" alt="Cover for Lay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb9bf11cbc8d4b5a8feec5ac75b44646.png" alt="Cover for Lay" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Aphelion</td>
@@ -1244,6 +1247,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/445ff507534c65833ca735d6adbaa978.png" alt="Cover for Vertebrae" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01</td>
       <td>___dREàgänN||||||</td>
@@ -1262,8 +1266,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b97877a300981781c27f73216df833.png" alt="Cover for spb28686" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03</td>
       <td>___dREàgänN||||||</td>
@@ -1280,7 +1285,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
       </td>
       <td>2008-04-16</td>
@@ -1331,9 +1336,10 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 2</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 62</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 65</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
@@ -1342,9 +1348,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/QRgpsUn0tvOkzVXJn9gCq4QCpSN1hocC0IvxbB6dY2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/MjMtMTIyODc0MjU5/NS5qcGVn.jpeg" alt="Cover for Godzillion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bc8707b11904b11be4ac4d041141e85.png" alt="Cover for Godzillion" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-07</td>
       <td>God Generator</td>
@@ -1371,6 +1377,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d7abffe09ce30e18fcfe7b82325262.png" alt="Cover for The Great White Snail" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-10</td>
       <td>___dREàgänN||||||</td>
@@ -1390,6 +1397,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43c7fffd6a2daeb149bf15e6cf4ac1e3.png" alt="Cover for Tree Splitting Sword" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-06</td>
       <td>___dREàgänN||||||</td>
@@ -1418,7 +1426,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/ihpphhiw1IEu6u_4nb5Oewqh39IerLQ4UsP8x4n_RrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ0/NzUtMTIyNDYzMzU5/Ni5qcGVn.jpeg" alt="Cover for The Poorhouse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f9547f488384faa8534bbf512f4fef5.png" alt="Cover for The Poorhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-21</td>
       <td>DJ Citalopram</td>
@@ -1445,7 +1453,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/fy1Ny2N5d3oy-tM1ITr3FXNcuibE11JwarKDvjNCoNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIy/OTUtMTI2NjI4MzM5/OS5qcGVn.jpeg" alt="Cover for Material For Live Destruction" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c1f28460c94b4ea2c20b994bbf6181.png" alt="Cover for Material For Live Destruction" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-01</td>
       <td>Reaching.</td>
@@ -1490,7 +1498,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Kxh_Qe9QT58U9HeFVem69R9xgJlvnrzmB3mGey8BY_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg3/ODMtMTM0MzE4MTEy/Mi0zNjcyLmpwZWc.jpeg" alt="Cover for interminal bleedings" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,6 +1568,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a87da22d358305511a12a30e95a44820.png" alt="Cover for Always Wrong" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05</td>
       <td>Wolf Eyes</td>
@@ -1599,7 +1608,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/OE7GOtWPjkxDH7zY_ItixlI02Y49_ILu3WEJuV8paxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY0/MDUtMTMwNjE3NTc3/Ni5wbmc.jpeg" alt="Cover for Glimpses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b69d9d444d84591ae005d0cdcc34b45.png" alt="Cover for Glimpses" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-15</td>
       <td>yomby</td>
@@ -1616,7 +1625,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 26</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 27</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 68</li>
         </ul>
       </td>
@@ -1711,6 +1720,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/665f686fb96d4ceb9e39fb279d60393a.png" alt="Cover for Ashes Screaming Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-10</td>
       <td>Dead Girl Radiation</td>
@@ -1728,7 +1738,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2011-12-28</td>
@@ -1749,7 +1759,6 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/-zf9lMZxZnaWa6z0Sk8qEhqraZLv4AHDGKxU7Qw0IbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzE3/MDctMTM1Mjk2Mzky/Ni0xNTk3LmpwZWc.jpeg" alt="Cover for World of Ladders and Mirrors" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Fabrict</td>
@@ -1768,7 +1777,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/-sRqXsvzZs-Um9JDomUVi0ixu3GJT1--xTru4goM1NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDE5/NTYtMTM1OTQ4MDkw/My04ODQ4LmpwZWc.jpeg" alt="Cover for Nightmares &amp; Noizescapes vol: I" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1821,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/0UAGX_oBtFF8xzAsp2F0FTZEPnWeBTr2WZYtl7wqjrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzkx/NDEtMTM0OTg4Nzg1/Ni05NTY2LmpwZWc.jpeg" alt="Cover for crawlspace habituate" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,9 +1843,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/aV1qiRXKBTyG2PjvffwGxyZlyGnVpgSDR6hKRD-IeHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDE2/NjMtMTQzMTQwOTgw/OS0xMTA2LmpwZWc.jpeg" alt="Cover for Red Vase" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c89fcb262f22449fc4deb6a6d0b90ea7.png" alt="Cover for Red Vase" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Alocasia Garden</td>
@@ -1856,7 +1865,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/UtscYN6lCjvi4SP5-GUXVAdh5a4TO_oCwEw7G-7Toq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDkw/NDItMTM5ODkzMDgx/MS0zNjg1LmpwZWc.jpeg" alt="Cover for TYF (1996-1999)" style="max-width:120px; height:auto;" />
       </td>
@@ -1888,9 +1897,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/bkzQ_0U4VR8KOglX4KP3g4zcLMOgMw2R_A7rA1adWpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEw/ODk1LTE0OTE3OTk1/MzktNjM0MC5qcGVn.jpeg" alt="Cover for Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da1c4dc0db33ac596e7939d36f17909d.png" alt="Cover for Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-12</td>
       <td>Sloth</td>
@@ -1915,7 +1924,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/_CbF5FfKFQIVVpBXTu0H-rctWn6KrlyvyVYxXnjiF0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzA5/OTUtMTQzOTA3MjUx/My02NjI2LmpwZWc.jpeg" alt="Cover for XX" style="max-width:120px; height:auto;" />
       </td>
@@ -2000,7 +2009,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/KyGvAefZQsFroCx8L2EzV6aLcsQfht1VYNbN_WaVoEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIw/MjczLTE1ODk2ODg3/NTQtOTc1Ny5qcGVn.jpeg" alt="Cover for Parade Around With Your Face And Your Shirt" style="max-width:120px; height:auto;" />
       </td>
@@ -2024,7 +2033,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/XfvVXF-R3S9s2vcWPXEphcEYr-10Q7DDa1bRkK77ICs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEz/MTA3LTE2MDE4Nzk1/MjItNjc5NC5qcGVn.jpeg" alt="Cover for Reigning Cement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1d2a393f0d656cc418ae5b1930607d.png" alt="Cover for Reigning Cement" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-05</td>
       <td>Jesse Draxler</td>
@@ -2041,13 +2050,13 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 14</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 15</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2151,7 +2160,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
@@ -2170,8 +2179,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ca42404ad16b54469a5e0f60dc5a75.png" alt="Cover for Le Mur De La Mutation Vol.I" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Malthruyst</td>
@@ -2194,6 +2204,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/356933de7fbfb276dca9ca7d88224c32.png" alt="Cover for Everlasting Smugness" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Andor</td>
@@ -2321,6 +2332,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d849a7c51dc4593af48a9107f798aff.png" alt="Cover for To Saruta!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>___dREàgänN||||||</td>
@@ -2340,7 +2352,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
       </td>
       <td></td>
