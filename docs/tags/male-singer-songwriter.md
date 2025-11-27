@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:05:34.432Z
+date: 2025-11-27T08:46:33.551Z
 permalink: tags/male-singer-songwriter
 title: male singer songwriter
 ---
 
 ## male singer songwriter
 
-Last updated: <time datetime="2025-10-28T04:05:34.432Z">Tue Oct 28 2025 06:05:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T08:46:33.551Z">Thu Nov 27 2025 10:46:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,28 +49,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>4</td>
       <td>
-      </td>
-      <td>1965</td>
-      <td>Cornelis Vreeswijk</td>
-      <td>Ballader och grimascher</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80314e7452de4184bbdd6103c577ca41.png" alt="Cover for Branded Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Merle Haggard</td>
@@ -88,7 +69,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/TZneIdUpQh-XZ1VTU2z3D04CXHU1dArF4kK93tVeoR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/NDMtMTE5MTY0NDU2/MC5qcGVn.jpeg" alt="Cover for Long Tall Sally (The Blues Collection Vol.12)" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +88,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>1970</td>
@@ -126,7 +107,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/rufzeslo9KRF7N3Ooa5v8YbUI4o_qse1OW8ztBD89zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NzMtMTQzOTY3Nzk2/Ny0yODA1LmpwZWc.jpeg" alt="Cover for Alarm Clock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90519620f10e722520a89cdebe54d7f1.png" alt="Cover for Alarm Clock" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Richie Havens</td>
@@ -144,7 +125,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/7-rW-2f_2DDj0fzdOuL9lPkPvE9bCYH0y0IhNV84meA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDkw/NzMtMTUwMTQ4ODM4/OC05NTIxLmpwZWc.jpeg" alt="Cover for Santana Brothers" style="max-width:120px; height:auto;" />
       </td>
@@ -161,12 +142,12 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 36</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ZaaSUQMk3KNRTJtdIT4goufHQVCTloGA8Uzwa28THnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc3/MTI0LTE2Nzg0OTc4/OTctMTcyNy5qcGVn.jpeg" alt="Cover for 11-17-70" style="max-width:120px; height:auto;" />
       </td>
@@ -190,6 +171,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/058c26f1ef5d276f3024c9a10be7580f.png" alt="Cover for Sings Heart Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Charley Pride</td>
@@ -224,15 +206,15 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 63</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/fHk3T6QxM2Vft1it_U3ebi4ydQXyvt480lK9DpP-des/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTMw/MS0xMTcwMTk0MDY0/LmpwZWc.jpeg" alt="Cover for Rewind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5623684936fd2562dfdb9dc344a8e388.png" alt="Cover for Rewind" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>J.J. Cale</td>
@@ -253,6 +235,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/661c539245bf494b8ab73efee29f8b78.png" alt="Cover for Border Lord" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Kris Kristofferson</td>
@@ -272,7 +255,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Ygpi5sIrp1zELuEODSCXwhyDdMLLafbJQIPWYjOFx0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI4/ODY0LTE1NzY0MTM4/NTQtMjIxMC5qcGVn.jpeg" alt="Cover for Feliciano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/960bdfa0bfa94180a18a015c90ada89a.png" alt="Cover for Feliciano" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>José Feliciano</td>
@@ -289,7 +272,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>1973</td>
@@ -307,9 +290,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/fS5pIkx4hR9D3WsNd6gfd3kl4b9etMSVoI21p8M9WSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg4/MzQtMTcwMjcyMTcw/Mi03MTQzLmpwZWc.jpeg" alt="Cover for Moonshine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8185ca8afb62727c7395db7b173d1e45.png" alt="Cover for Moonshine" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-02</td>
       <td>Bert Jansch</td>
@@ -327,8 +310,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d91addde4f5d6b9fde43b6ff8a62db2d.png" alt="Cover for Breakaway" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Kris Kristofferson &amp; Rita Coolidge</td>
@@ -347,7 +331,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ZsgFU9RYji8Vrg5i3NMBTADPgp6M5OZ-0ssDnR40cSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NzYzLTE3MDQ3MTg1/NzItNDQ2NC5qcGVn.jpeg" alt="Cover for Something&#x2F;Anything" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +351,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b85f6bddc3497a5cb0c6f01ab5102fe.png" alt="Cover for Qualquer Coisa" style="max-width:120px; height:auto;" />
       </td>
@@ -382,7 +366,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 87</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -406,8 +390,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b1da53fefa948509fede1b3b26a2e7a.png" alt="Cover for Native Sons" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-01</td>
       <td>Loggins &amp; Messina</td>
@@ -425,7 +410,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1977</td>
@@ -446,6 +431,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b8e49fe46148b2df4fd8c47e15944e.png" alt="Cover for Celebrate Me Home" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-04-13</td>
       <td>Kenny Loggins</td>
@@ -462,13 +448,14 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 78</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c885feab8ce49f5b772212d54c77621.png" alt="Cover for &#39;Bout Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-02-16</td>
       <td>Bill Withers</td>
@@ -483,14 +470,14 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 45</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/GYpoCmPqpg3kFpbaHdbehVh0lNZV5D0E8T8HeUgibfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/NzEzLTE0OTgzNjY4/ODAtNDE0OS5qcGVn.jpeg" alt="Cover for The Very Best of Don McLean" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/182522cf87ff4300c33a41fc5837eab7.png" alt="Cover for The Very Best of Don McLean" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Don McLean</td>
@@ -511,7 +498,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/c2s92JTVkhxHqMy_lwzT6VThfCKaFBSFjwYN-hajl0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEx/MjItMTM4NDM1MDI4/NC05ODQ0LmpwZWc.jpeg" alt="Cover for Connections" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea33e47fb3b6c63d6a09f4cdfb3eae1.png" alt="Cover for Connections" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Richie Havens</td>
@@ -569,7 +556,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>1981-12</td>
@@ -606,6 +593,22 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1982-11-01</td>
+      <td>Phil Collins</td>
+      <td>Hello, I Must Be Going!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>87</td>
       <td>
       </td>
@@ -627,7 +630,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d42c338a8dad442ba27b8668641d4e51.png" alt="Cover for Duck Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -645,9 +648,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/tL1sd6iiH2Kukq88QwIDQDQgY72ul8SQeHD9rp2Jy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MDI4LTE1MDMyNDk0/NTUtNjMxNy5qcGVn.jpeg" alt="Cover for Greatest Hits Volume II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cbfff28e5e6ddc39b81fa0d9159e404.png" alt="Cover for Greatest Hits Volume II" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Elton John</td>
@@ -664,7 +667,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/YhI3F7WXLUbpc3rCHM5ocjEm7prNUq_H0vp1-jp68Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/MTE0LTE1NjM0NzM4/NjMtMTMzNy5qcGVn.jpeg" alt="Cover for A Time 2 Love" style="max-width:120px; height:auto;" />
       </td>
@@ -683,9 +686,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/eGHMdTkMo2BCoz3HpVCLqIgs2cRjrpZplxG1vi2LEoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTYw/MjUtMTYyMDA3ODAy/Ni05MDAzLmpwZWc.jpeg" alt="Cover for Den Vassa Eggen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/609eea0d30b04799818afd393350818b.png" alt="Cover for Den Vassa Eggen" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-10-21</td>
       <td>Ulf Lundell</td>
@@ -704,7 +707,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/qXCHxNY2G1BRZh4zdWCbcACNrcwnbmT2i7Ztrz3-8yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzM3/MDMtMTQ0NTkwMjQw/NS05NDI5LmpwZWc.jpeg" alt="Cover for Kysser himlen farvel" style="max-width:120px; height:auto;" />
       </td>
@@ -721,16 +724,16 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 12</li>
             <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 77</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/i2NoEg_40Iv9c3vRqf0rj-OzjDcE7xL_0-NKbaTGFjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgy/MjQtMTUyMjA4OTgw/NS01MzA2LmpwZWc.jpeg" alt="Cover for Classic Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26c47d8b3a6871581a620da71fd5773.png" alt="Cover for Classic Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>James Taylor</td>
@@ -748,7 +751,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1988</td>
@@ -767,9 +770,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/oMoCo9K5QbTTE5RJAh5pc3cRkAkC45XS1Tsxcp_SClQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUx/MDUtMTU1NjQ0NjYx/MS04MjgzLmpwZWc.jpeg" alt="Cover for Just Before The Bullets Fly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/592f7daa6a2e4533c5b505334ccd3a12.png" alt="Cover for Just Before The Bullets Fly" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>The Gregg Allman Band</td>
@@ -787,7 +790,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/WC-u04aqZWb1pUNS3_SezehKAZJzxIbE6Wd6z0fLPoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjMw/MS0xMTYzMzM1ODk2/LmpwZWc.jpeg" alt="Cover for New Power Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -807,7 +810,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>1990</td>
@@ -826,7 +829,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/LK8eOye4fK8Ca6g4JGOz8Cet8OzCp5ouYVdP4DgbOVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjA3/ODAtMTM3MTE0NjE0/MC0xMzAyLmpwZWc.jpeg" alt="Cover for Turistens klagan" style="max-width:120px; height:auto;" />
       </td>
@@ -846,9 +849,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/3kflENlBEb2w8C1kDr2QXVGOT3OFe-xF-hK492WwulY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODkz/NjMtMTM4MTQ5ODg0/Ny04NTM4LmpwZWc.jpeg" alt="Cover for One Night Only: Live Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d57d531176a74c6183ed8528f75cb989.png" alt="Cover for One Night Only: Live Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Elton John</td>
@@ -866,7 +869,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
       </td>
       <td>1990</td>
@@ -889,7 +892,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/BxqiZaxfloOqJagmTWGSuQa4oyyqqjc-04rM4yvmLto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzM0/NTgtMTQ3MTg0MTY1/My00MTE4LnBuZw.jpeg" alt="Cover for Greatest Hits - The Power of Great Music" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +912,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/s_vcCplCr4u6WBMMkHdw10rZTSP0ue-_N7_w4IXc3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcy/MTUtMTMwMjAxNzM2/Mi5qcGVn.jpeg" alt="Cover for Can&#39;t Forget: A Souvenir of the Grand Tour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f37d5fec494adbca753f6f0633d751.png" alt="Cover for Can&#39;t Forget: A Souvenir of the Grand Tour" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leonard Cohen</td>
@@ -927,9 +930,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
-          <img src="https://i.discogs.com/o6U94ul9xUw6RDgYJffZamGm9BDC3K4mu9SkAF9chHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg4/Ny0xNTA3NDgxMDQy/LTY2NTUuanBlZw.jpeg" alt="Cover for LEAP OF FAITH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/108284acc6fc411d8213705ed658656d.png" alt="Cover for LEAP OF FAITH" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-09-10</td>
       <td>Kenny Loggins</td>
@@ -947,8 +950,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8bb5bd6af61108cd5bfb0b869d43619.png" alt="Cover for Mambo Chillun" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>John Lee Hooker</td>
@@ -968,6 +972,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa96e44e308b48d8ae171f79ab24bcf7.png" alt="Cover for Blues Berry" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-03-06</td>
       <td>Chuck Berry</td>
@@ -988,6 +993,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bbe3144299e4093c0c6d38642199c96.png" alt="Cover for World Falling Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-16</td>
       <td>Peter Cetera</td>
@@ -1007,6 +1013,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2acfaa50e2d34fcecfbc7daad6a9f077.png" alt="Cover for Number 10" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-11-10</td>
       <td>J.J. Cale</td>
@@ -1026,7 +1033,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/JWRW1CjLgyBgyU4w_YCsBOWh2mfZNTdgD3TW3X2urbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA2/NzItMTQyMDg1Mjkw/Ni05NzkzLmpwZWc.jpeg" alt="Cover for Everybody&#39;s Rockin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,7 +1072,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1994</td>
@@ -1102,7 +1109,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 58</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
             <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 96</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 97</li>
         </ul>
@@ -1111,7 +1118,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/2SHjAVxt4vjMVHInoyRuZco_MPWf1j7__Xzse-QZvTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzUz/ODMtMTQ0MDYyMjAy/Ny04ODMxLmpwZWc.jpeg" alt="Cover for Fields Of Gold - The Best Of Sting 1984-1994" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7d839e30dc478fc71f0d043e1878f3.png" alt="Cover for Fields Of Gold - The Best Of Sting 1984-1994" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Sting</td>
@@ -1130,7 +1137,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
       </td>
       <td>1995</td>
@@ -1155,6 +1162,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abbcfb2252734122bbb57bdc88b4f65d.png" alt="Cover for The Finer Things" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-21</td>
       <td>Steve Winwood</td>
@@ -1212,9 +1220,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/aki-XFriT70A3aucyzzl7DUtyzFSVaXuMYq9FXD_rXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ4/NzktMTI3NzIyNTM2/NC5qcGVn.jpeg" alt="Cover for London Town" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c14c0adcef8f1588802cbc1b492f1585.png" alt="Cover for London Town" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Paul McCartney</td>
@@ -1251,7 +1259,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1999-05-03</td>
@@ -1310,6 +1318,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fba1ea769d635fd4830b037d0bce5fba.png" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-23</td>
       <td>Hall &amp; Oates</td>
@@ -1327,8 +1336,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f949c91d886ee9bbf9f966e57f840d09.png" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-21</td>
       <td>J.J. Cale</td>
@@ -1346,9 +1356,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/mygcB_QcilgMiomn-Lcxtb6p0Y0KAno3T_Pr6woTIQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ5/NzQtMTQ4Nzg0ODU4/OS00NjU2LmpwZWc.jpeg" alt="Cover for 20th Century Masters: The Millennium Collection: Best Of Gregg Allman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c459bb612474d62e77aa6f4b847feb.png" alt="Cover for 20th Century Masters: The Millennium Collection: Best Of Gregg Allman" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Gregg Allman</td>
@@ -1366,7 +1376,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d958307a5a4403c4f719ff15b35430.png" alt="Cover for Are You Passionate?" style="max-width:120px; height:auto;" />
       </td>
@@ -1387,6 +1397,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e3e44373b1c4912c97b50c649085a5c.png" alt="Cover for The Naked Ride Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-24</td>
       <td>Jackson Browne</td>
@@ -1425,7 +1436,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/d-IdkblbNlt2okcNP4PAUlvz4XxUbflt_M-__vjrLNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/NjItMTU3MTgzODI2/NC0yNTk2LmpwZWc.jpeg" alt="Cover for Bästa" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,8 +1457,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61e4f05850df444fbdc7bd75075dae9a.png" alt="Cover for Det som håller oss vid liv" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11</td>
       <td>Peter LeMarc</td>
@@ -1464,7 +1476,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/idgVSfzJTHILdXfsn0nCbG-3HuwLgx8BTdfhXzkhbjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/MjUyLTE1NTI4NTg4/MDMtMjY4Mi5qcGVn.jpeg" alt="Cover for Greatest H.U.G" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,9 +1500,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/0CR3xobF1QkSt_ph-ytMjeJizOyhSEqAp2vOvzCsTWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ4/NzctMTM0MTA2NTYx/NC0xOTk0LmpwZWc.jpeg" alt="Cover for Peace...Back By Popular Demand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10461dfda7d42fd8b54960de43e1581.png" alt="Cover for Peace...Back By Popular Demand" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Keb&#39; Mo&#39;</td>
@@ -1510,6 +1522,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc5232f404074584c5ad4c25b3923869.png" alt="Cover for Stardust...The Great American Songbook III" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-18</td>
       <td>Rod Stewart</td>
@@ -1526,8 +1539,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d48d745fad841e4094736fbbade931b.png" alt="Cover for Faithfully" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-25</td>
       <td>Peter Cetera</td>
@@ -1545,7 +1559,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2006</td>
@@ -1568,7 +1582,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-03-05</td>
@@ -1591,7 +1605,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.png" alt="Cover for Where The Light Is: John Mayer Live In Los Angeles" style="max-width:120px; height:auto;" />
       </td>
@@ -1605,7 +1619,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 93</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1644,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/kSms_FPMD9cmOZ4TvjqFOVmK9Ak4agCLh_kMx2HdOGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEx/MTItMTMxOTgxNzgz/OS5qcGVn.jpeg" alt="Cover for Covers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5488ed1c888f4732a727b436fa96082c.png" alt="Cover for Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>James Taylor</td>
@@ -1650,6 +1664,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5a5ec53ad664d92a754598ae129cd71.png" alt="Cover for Stand (In the light)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-14</td>
       <td>James Ingram</td>
@@ -1668,8 +1683,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27218c82523344e0a9813a9bb02acd09.png" alt="Cover for Reflections" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-16</td>
       <td>Graham Nash</td>
@@ -1689,7 +1705,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/qGn93-HvGkxtmfrIwbXEEhUiZLoWl9KqRLqGU0kBisk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgx/NzgzLTE1Njc0OTg2/NzEtMjk5OS5qcGVn.jpeg" alt="Cover for Roll On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171f121e631ab153667ce777669f502b.png" alt="Cover for Roll On" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-24</td>
       <td>J.J. Cale</td>
@@ -1709,7 +1725,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2009-03-02</td>
@@ -1728,7 +1744,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2009-11-02</td>
@@ -1751,8 +1767,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d81537ba4695418db6396fc47ec46ba9.png" alt="Cover for The Lost Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Bruno Mars</td>
@@ -1768,7 +1785,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2010-03-08</td>
@@ -1789,7 +1806,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/aMq6QZbTr0Hy0sJFw3SJ7Poa91FngMRArEoTayxRg14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTU1/NC0xNTgyNDU2NjU5/LTU0NDMuanBlZw.jpeg" alt="Cover for Americana" style="max-width:120px; height:auto;" />
       </td>
@@ -1810,6 +1827,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d9899e1b61489c9a4a50f06e137198.png" alt="Cover for How To Become Clairvoyant" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-05</td>
       <td>Robbie Robertson</td>
@@ -1827,6 +1845,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc8753c096247219d6da258657b407d.png" alt="Cover for The Road From Memphis" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-03</td>
       <td>Booker T. Jones</td>
@@ -1849,9 +1868,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
-          <img src="https://i.discogs.com/tdLc5r4cwGR0P0nqf4ZlrCSRc5ykIXeV_uaRama7vFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTA5/NzMtMTM4NDE5Njcz/MC03NTQ2LmpwZWc.jpeg" alt="Cover for I&#39;ll Never Get Out Of This World Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91670f2f2ffd4ce0ac40f77b17c351a6.png" alt="Cover for I&#39;ll Never Get Out Of This World Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-12</td>
       <td>Steve Earle</td>
@@ -1867,7 +1886,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
       </td>
       <td>2011-06-14</td>
@@ -1887,7 +1906,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/2eV3hIn_-0z0105aqUglMcjOJ1Nqbd4X4NUuKW69Hl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU3/ODgtMTY3MTU3MzY3/Ny05Mjg0LmpwZWc.jpeg" alt="Cover for To All The Girls..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c239fad767cb48c2ab5702f84f020fb7.png" alt="Cover for To All The Girls..." style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-11</td>
       <td>Willie Nelson</td>
@@ -1903,8 +1922,9 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f591668a92d643c9c3500e2f5fc42849.png" alt="Cover for Life Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-01</td>
       <td>Leon Russell</td>
@@ -1926,7 +1946,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/05TZvRCL1sBWzkZ1lLNMmwzNcbGlcH_Tev2wdrkLGH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI1/NDItMTI4MDIxMDI0/Ni5qcGVn.jpeg" alt="Cover for All Things Must Pass (30th Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b136192aa35b4bf193eae515fb31c886.png" alt="Cover for All Things Must Pass (30th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-27</td>
       <td>George Harrison</td>
@@ -1944,7 +1964,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/sIi39GKuuXcJHAcSkJT7ToI1kXiDDrJkNn8RNrgLg-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/NjM3LTE2NjYwODYy/ODgtNTYxMy5qcGVn.jpeg" alt="Cover for Road Rock Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1983,7 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5a1ee62ae046a4acd7e8c0280859af.png" alt="Cover for Chariot - Stripped" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,12 +2000,12 @@ Male singer-songwriter describes introspective solo artists who write and perfor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td></td>

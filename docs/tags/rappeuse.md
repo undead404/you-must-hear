@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T20:42:43.169Z
+date: 2025-11-27T09:10:22.161Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T09:10:22.161Z">Thu Nov 27 2025 11:10:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -39,6 +39,34 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg" alt="Cover for Kawaii karma [Explicit]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Cœur</td>
+      <td>Kawaii karma [Explicit]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
         </ul>
       </td>
       <td>
@@ -135,40 +163,13 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Seule (Nouvelle École)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Leys</td>
-      <td>Seule (Nouvelle École)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
-      <td>Seule (Nouvelle École) - Single</td>
+      <td>Tous à Table - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -191,11 +192,11 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
     <tr>
       <td>8</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86c4ae4d63877f0c7983477127495a0c.png" alt="Cover for Tous à Table - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a3b5fa06efe99d3c360762ad96389a.png" alt="Cover for Seule (Nouvelle École) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
-      <td>Tous à Table - Single</td>
+      <td>Seule (Nouvelle École) - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -382,7 +383,7 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/723e7ca5b31e4cd5430f6c7ab655c144.png" alt="Cover for JSPR - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,11 +1476,11 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
     <tr>
       <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>Mission - Single</td>
+      <td>96 - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1502,11 +1503,11 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
     <tr>
       <td>13</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e04b78d62c226f150ac720d51d03dc9.png" alt="Cover for 96 - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1fcd50b7807a2c96aa2c2544ccb1bc7.png" alt="Cover for Mission - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
-      <td>96 - Single</td>
+      <td>Mission - Single</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
@@ -1974,7 +1975,7 @@ Last updated: <time datetime="2025-11-25T20:42:43.169Z">Tue Nov 25 2025 22:42:43
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad92c8f699f032447324d113eb7d53ab.png" alt="Cover for Bébéfleur - Single" style="max-width:120px; height:auto;" />
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T04:15:38.818Z
+date: 2025-11-27T08:52:19.006Z
 permalink: tags/tekno
 title: tekno
 ---
 
 ## tekno
 
-Last updated: <time datetime="2025-11-24T04:15:38.818Z">Mon Nov 24 2025 06:15:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-27T08:52:19.006Z">Thu Nov 27 2025 10:52:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -506,7 +506,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/n5kAHbZLhna58d7y1RK0E65r3HVmc2ON3Gz9v3dYeIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/MjMzLTE1NTQzMjI2/MDEtMTk3NC5qcGVn.jpeg" alt="Cover for Tekno Acid Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8946b6abd8274752bf40d7b5ffdfb85b.png" alt="Cover for Tekno Acid Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-06</td>
       <td>zxz</td>
@@ -517,6 +517,26 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/uGkUqvV93_sU_JFV05ptIfwyDkniU8l4NM-CX9Iwn20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODA4/OTktMTQ1Mjg2NDQ5/OC00NzQ1LmpwZWc.jpeg" alt="Cover for anarchypnotica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-12</td>
+      <td>Relinquished</td>
+      <td>anarchypnotica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
@@ -600,7 +620,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/NHn_ZeWiud-HHGaPlrKqnSs4MlquPZr3D9YUz12shp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDUy/MjItMTQ4NzI2Mjk0/OC0yMTgzLmpwZWc.jpeg" alt="Cover for CC ATOM101" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +739,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/pwzV0yw0CoYTklxqLYnd--vXuqvTfsdedeIPR56Mneo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQw/NjAxLTE1ODE0OTY1/MzUtNjk3Ny5qcGVn.jpeg" alt="Cover for HANGAR 10" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +780,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg" alt="Cover for HANGAR 10" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +825,6 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/WcZso8l3pBztvpfDd04vdBOIbt6cBqAf-Ql-K3D8tLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI1/MTY4LTE1NDk1NTU1/MjAtMzc0MC5wbmc.jpeg" alt="Cover for Atlantik Tribe EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-18</td>
       <td>kk1</td>
@@ -864,7 +883,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/DRk5by2KRbY636yfNifwVlKO8fhixlknht1MmWRbHgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/NTE3LTE2MDU3OTQ5/MjEtNjg3MS5qcGVn.jpeg" alt="Cover for Bathroom Habits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42c250247e95f9a398cfdf9a07a0d447.png" alt="Cover for Bathroom Habits" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-29</td>
       <td>Terror Toddler</td>
@@ -883,7 +902,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2020</td>
@@ -942,7 +961,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/lw2IehzGJQf-PoOShCZ0bJQyxcNOjysqXpQjSaxM1lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/OTYxLTE2MTkxOTU5/MjQtMzc5Mi5qcGVn.jpeg" alt="Cover for 127VA002" style="max-width:120px; height:auto;" />
       </td>
@@ -988,7 +1007,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/0Z6uhjCTqpDyVp25_Nxu9L2AAu0gEA0ipYBw_N4fHXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU5/NDgwLTE2MjgyMjc5/ODAtNzU0MC5wbmc.jpeg" alt="Cover for HEARTBREAKER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edcaa1c5f934008838cc75de6627a6d9.png" alt="Cover for HEARTBREAKER" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-06</td>
       <td>Tom Place</td>
@@ -1028,7 +1047,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/TNy__L1XQc9Tkb3lYerr1o2uTG1GicbZvZK6KkEPl34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAz/OTk5LTE3MDU0MDQ3/MjItNjY2Mi5qcGVn.jpeg" alt="Cover for 127VA003" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1094,6 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/uzngjT3fv_Wi9_0-zVbCU-Oz2R06ZEXEsdzSGYjitDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MTM3LTE2NDczNDgy/ODMtMzE2MC5qcGVn.jpeg" alt="Cover for You Are Already Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-23</td>
       <td>panzerfight</td>
@@ -1095,7 +1113,6 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/HIJnl30cQTp_X4vq3MA9HtK_72VlKLM-ra-G4q-KflU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDYw/MDA0LTE2MTcwMDc3/MTUtMjA1OS5qcGVn.jpeg" alt="Cover for ¥𝔱𝕡" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>YTP</td>
@@ -1461,7 +1478,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 22</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1501,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 24</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1556,31 +1573,12 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Transki x Vergil</td>
-      <td>127VA003</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1622,11 +1620,11 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
-      <td>Krunx x Tadan</td>
+      <td>Indebraendt x Tadan</td>
       <td>127VA002</td>
       <td>
         <ul>
@@ -1668,7 +1666,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       <td>
       </td>
       <td></td>
-      <td>Indebraendt x Tadan</td>
+      <td>Krunx x Tadan</td>
       <td>127VA002</td>
       <td>
         <ul>
@@ -1710,10 +1708,14 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       <td>
       </td>
       <td></td>
-      <td>Trifaze</td>
-      <td>trifaze</td>
+      <td>Candy Panda</td>
+      <td>Andro And Gigolo</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
@@ -1727,14 +1729,10 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       <td>
       </td>
       <td></td>
-      <td>Candy Panda</td>
-      <td>Andro And Gigolo</td>
+      <td>Trifaze</td>
+      <td>trifaze</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
@@ -1765,7 +1763,7 @@ Tekno is a raw, high-energy strain of electronic dance music that emerged from u
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
