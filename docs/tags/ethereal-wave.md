@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:43:38.007Z
+date: 2025-12-01T05:44:14.715Z
 permalink: tags/ethereal-wave
 title: ethereal wave
 ---
 
 ## ethereal wave
 
-Last updated: <time datetime="2025-11-24T06:43:38.007Z">Mon Nov 24 2025 08:43:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-01T05:44:14.715Z">Mon Dec 01 2025 07:44:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/07ff1f190a3da73476ec3ab4a63b58e5.png" alt="Cover for Garlands" style="max-width:120px; height:auto;" />
       </td>
@@ -62,12 +62,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 37</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/h1LJAAudYcsoB80SO3t24z5EsB8M_gogVX0KbbHdBHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODg5/OTktMTI2MzY2NzUx/My5qcGVn.jpeg" alt="Cover for Mayu" style="max-width:120px; height:auto;" />
       </td>
@@ -103,7 +103,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 70</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 95</li>
         </ul>
@@ -141,7 +141,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 77</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 77</li>
         </ul>
       </td>
@@ -165,7 +165,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ce85b96f94d35f3449728faf87b953.png" alt="Cover for Love&#39;s Easy Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +181,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 36</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e457402517391a1ef89497646c66853a.png" alt="Cover for Victorialand" style="max-width:120px; height:auto;" />
       </td>
@@ -257,7 +257,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1989-08</td>
@@ -274,7 +274,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1989-09-12</td>
@@ -287,7 +287,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 40</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 81</li>
         </ul>
       </td>
@@ -309,12 +309,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
         <ul>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 24</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 55</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 79</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b70a4ae01af470ec7c76c2dd6cee304.png" alt="Cover for A Day in the Stark Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -335,7 +335,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace01a0f2ef2fd6afc23cf7d1a80d361.png" alt="Cover for Eating the Sea" style="max-width:120px; height:auto;" />
       </td>
@@ -355,12 +355,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 59</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1994-05-05</td>
@@ -396,13 +396,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/216658296a444a77ca09abb981c8478b.png" alt="Cover for The Burning Circle And Then Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +439,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4baaf96e3ec8669ba0c922f601d7b0f8.png" alt="Cover for Remnants of a Deeper Purity (2014 Remastered Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -462,7 +462,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>1997-05-13</td>
@@ -477,7 +477,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 20</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -498,13 +498,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 27</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1998-09-22</td>
@@ -521,7 +521,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1999-01-19</td>
@@ -557,7 +557,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/ftySMLtGH7s2q7CUJB9GIz_Xjt-dKAF9mP9GTeqKJC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDAx/LTE0NDkzMTQ3NTgt/NTk4MC5qcGVn.jpeg" alt="Cover for Satyriasis - Somewhere Between Equilibrium And Nihilism" style="max-width:120px; height:auto;" />
       </td>
@@ -575,7 +575,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ftySMLtGH7s2q7CUJB9GIz_Xjt-dKAF9mP9GTeqKJC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDAx/LTE0NDkzMTQ3NTgt/NTk4MC5qcGVn.jpeg" alt="Cover for Satyriasis: Somewhere Between Equilibrium And Nihilism" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +593,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/AleX2TN-DaXMh270CfHajKARS1oBTPf9IIfo7D0uQHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODE4/MC0xNDQ1MjA3OTgw/LTQ2ODQuanBlZw.jpeg" alt="Cover for Walk Softy, A Dream Lies Here" style="max-width:120px; height:auto;" />
       </td>
@@ -629,7 +629,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/a9vkN1wtLKbttISxeakkxtdsISfdewkf8YUPdpG6HdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTAy/ODUtMTM3MTA3MjE3/My0yNzkzLmpwZWc.jpeg" alt="Cover for Second" style="max-width:120px; height:auto;" />
       </td>
@@ -662,12 +662,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 62</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a75de058d6d7a4d32d4c96f12721d59.png" alt="Cover for Riverine" style="max-width:120px; height:auto;" />
       </td>
@@ -731,7 +731,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/336a7a1c2d7b1c9103808c9086353c4b.png" alt="Cover for Seul dans l&#39;obsession" style="max-width:120px; height:auto;" />
       </td>
@@ -757,13 +757,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 71</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df119de2c5c648ccb09d1d0d4e6f1834.png" alt="Cover for Idylls [Remastered Reissue]" style="max-width:120px; height:auto;" />
       </td>
@@ -785,7 +785,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf287e1867cc06b2933f896d4f77341.png" alt="Cover for Un automne en solitude" style="max-width:120px; height:auto;" />
       </td>
@@ -812,13 +812,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 35</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 70</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 71</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65bd063176a69db7efa92bf394b6e4b4.png" alt="Cover for Ablaze" style="max-width:120px; height:auto;" />
       </td>
@@ -858,6 +858,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 2</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 84</li>
@@ -866,7 +867,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd63924dced18c7f5ccb7a32ae2da56.png" alt="Cover for Abondance de périls" style="max-width:120px; height:auto;" />
       </td>
@@ -893,13 +894,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 38</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 73</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 74</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e535bf10fdfc4a6fca4eac012e319b84.png" alt="Cover for Fifth Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -917,7 +918,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d629bd01e23143a5c3bd2922efd2cf2e.png" alt="Cover for Amurekimuri" style="max-width:120px; height:auto;" />
       </td>
@@ -937,7 +938,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c37c816af30470b8c8f4f6abb1d9a96.png" alt="Cover for Eifelian" style="max-width:120px; height:auto;" />
       </td>
@@ -956,7 +957,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a3ea22de6c4c6b842c2a149b59e81f.png" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +976,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd7608382544962a3c0b4622dbc8925.png" alt="Cover for Earthbeat" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +995,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c523b91bbb64ea5b2601fdd4aa48e830.png" alt="Cover for Dust" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1032,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8937dd0d2dd4494ac97910d4a4fc9313.png" alt="Cover for Silent Chamber, Noisy Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1066,7 +1067,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb09cd0bb7b5aa5f722a4322a521d583.png" alt="Cover for Echoes From Forgotten Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,13 +1094,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 74</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 75</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/XIYFPvXwxQFDXhGTGW5x2tuqLAxTwRTSaILo3WCHEwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODAx/NzAtMTQyNjQ2MjEw/My00Mzk0LmpwZWc.jpeg" alt="Cover for Possession" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1162,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b6de57c32e141701e186fd29a2981e8.png" alt="Cover for Part Time Punks" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1184,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8acd892fd683a67dbb8a87734c1eb94d.png" alt="Cover for Marked For Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,8 +1271,8 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 32</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
@@ -1281,7 +1282,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/425564d241541bd2ccbb02d019b0a75e.png" alt="Cover for To Deaf and Day" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1310,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0029c9c038dc27509732867caf20a315.png" alt="Cover for Equals" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1335,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37dfce5a72272f70a84f858747859c9e.png" alt="Cover for 7" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,7 +1349,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 24</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 26</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
         </ul>
       </td>
@@ -1379,7 +1380,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee698115c9d3808a2248d4beb72b7043.png" alt="Cover for One self" style="max-width:120px; height:auto;" />
       </td>
@@ -1401,7 +1402,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f73d33e45490651bc1fc0f3751d4dd4.png" alt="Cover for Hard to Please" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1449,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d34de435d58e8beee72356b7a72e143f.png" alt="Cover for Wiseblood (Johnny Jewel Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1475,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8dcb5546c38c821494141c4a39a77b0.png" alt="Cover for Penelope Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1502,7 +1503,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79551e2df9e4370dab838e6d75b7771d.png" alt="Cover for Atoms Aligned, Coming Undone" style="max-width:120px; height:auto;" />
       </td>
@@ -1545,7 +1546,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f0e10481fca74737ed7af82fc45f9.png" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,7 +1584,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/ibCfINjaFLBfPfsB3bQ63T5mzgT7b0gWLTyWZklCxVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDA3/NzgxLTE2MDYzNjQ0/ODEtNTE5Mi5qcGVn.jpeg" alt="Cover for Fossor, in Pieces" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,7 +1622,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 96</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 99</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 99</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1672,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a6bca89201964d53cb70b54966e3fb.png" alt="Cover for Eternal Daughter" style="max-width:120px; height:auto;" />
       </td>
@@ -1698,7 +1699,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5824603897e4fc1a6d27ca4d410f2cf3.png" alt="Cover for Do Not Let Me Off The Cliff" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,7 +1761,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/416dfbc56b7b08804ca03db733200541.png" alt="Cover for Harmaline" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1788,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58d11ac9a1b6b4841a3433331c00944.png" alt="Cover for Ease Me &amp; 4 Interpretations" style="max-width:120px; height:auto;" />
       </td>
@@ -1835,7 +1836,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c5b16e95f768d739b63500d8a692f3d.png" alt="Cover for Call For Help" style="max-width:120px; height:auto;" />
       </td>
@@ -1849,6 +1850,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1877,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 61</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 62</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 82</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 96</li>
@@ -1883,7 +1885,35 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b54abcf16e64960062f9dadbe5a6d1e.png" alt="Cover for You Will Never Find Peace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Deathsomnia</td>
+      <td>You Will Never Find Peace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 4</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f79a5949c65444138ece452ee00268ee.png" alt="Cover for Midnight Train" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,14 +1937,14 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 51</li>
             <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a43dfce41797efd46cfb11e3d126eb8.png" alt="Cover for Penelope Three" style="max-width:120px; height:auto;" />
       </td>
@@ -1973,7 +2003,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/022d1a3924a84c731520bda4e2f6e3d8.png" alt="Cover for Once Twice Melody" style="max-width:120px; height:auto;" />
       </td>
@@ -2013,7 +2043,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/074c925300ee76ac27dd66c1163ca868.png" alt="Cover for Synfuels" style="max-width:120px; height:auto;" />
       </td>
@@ -2026,7 +2056,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 68</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2049,13 +2079,13 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 47</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/dBlX_s81xuqbmIxyUt0afrtlo3JwEHFLzasf4H69GsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY0/MzUxLTE2NzAyOTg0/ODYtNDM0NC5qcGVn.jpeg" alt="Cover for NASA The Mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -2072,28 +2102,6 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       <td>
         <ul>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/552ac38fb6708100c295e1aed7ef5bda.png" alt="Cover for Rotten Bun for an Eggless Century" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-03-03</td>
-      <td>mui zyu</td>
-      <td>Rotten Bun for an Eggless Century</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2115,12 +2123,12 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2146,7 +2154,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad37d2ac14d4033af567174a896db2e.png" alt="Cover for Final Fantasy XIII" style="max-width:120px; height:auto;" />
       </td>
@@ -2178,14 +2186,14 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 7</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2e8a569d7478eaf4b52a73199f6ac52.png" alt="Cover for Kosogor" style="max-width:120px; height:auto;" />
       </td>
@@ -2206,7 +2214,7 @@ Ethereal wave is a atmospheric subgenre of gothic and dream pop that emerged in 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/67c6512fc84a3224ac0983483179562b.png" alt="Cover for 陳婧霏" style="max-width:120px; height:auto;" />
       </td>

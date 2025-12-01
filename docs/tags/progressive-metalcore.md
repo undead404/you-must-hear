@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:10:35.656Z
+date: 2025-12-01T05:52:14.005Z
 permalink: tags/progressive-metalcore
 title: progressive metalcore
 ---
 
 ## progressive metalcore
 
-Last updated: <time datetime="2025-11-26T02:10:35.656Z">Wed Nov 26 2025 04:10:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-01T05:52:14.005Z">Mon Dec 01 2025 07:52:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 76</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 63</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 65</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 100</li>
         </ul>
       </td>
@@ -88,7 +88,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 47</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -129,7 +129,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2678ffcfb2c64720871c0c95bf60ba80.png" alt="Cover for Beheading Of A King" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e50af4125e5d41dda84bc29a5a78fa22.png" alt="Cover for Remembrance" style="max-width:120px; height:auto;" />
       </td>
@@ -414,6 +414,28 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5112569e0c794e74b66fea0a1807be0f.png" alt="Cover for Formless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>The Afterimage</td>
+      <td>Formless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d92d77040e64410a19affc703a1b35e.png" alt="Cover for Λ ♦ Λ ♦ Ø" style="max-width:120px; height:auto;" />
@@ -450,7 +472,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b665c029fbe8489f8e6a45dde56215d4.png" alt="Cover for Sempiternal" style="max-width:120px; height:auto;" />
       </td>
@@ -622,12 +644,12 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a3cbfe68d64466c48b248fe34c6c18.png" alt="Cover for Novelists Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -721,26 +743,6 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c988868f1f544f37cf9f13cc0a79c38c.png" alt="Cover for Dormant Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-01-12</td>
-      <td>Sylosis</td>
-      <td>Dormant Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>51</td>
       <td>
           <img src="https://i.discogs.com/53JtRc34P1q8yawal-lyJLTLlEv6wtYulkL6zulNnt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTMx/MDUtMTQ3MjkyMDA1/Mi05ODk2LmpwZWc.jpeg" alt="Cover for LIFE &#x2F;&#x2F; LOST" style="max-width:120px; height:auto;" />
@@ -799,7 +801,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 29</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -886,12 +888,12 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 13</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2016</td>
@@ -986,7 +988,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 48</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1246,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 30</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1266,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1293,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea6adaa3677f031f5a6fcff2cd539ca4.png" alt="Cover for In Control" style="max-width:120px; height:auto;" />
       </td>
@@ -1422,6 +1424,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 97</li>
         </ul>
       </td>
@@ -1486,7 +1489,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1766,7 +1769,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12b767cc52931735910c246764059836.png" alt="Cover for Mortar Shell" style="max-width:120px; height:auto;" />
       </td>
@@ -1951,7 +1954,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a302683c9773f92f1876796cd4c818c9.png" alt="Cover for Endless Hollow" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1994,7 @@ Progressive metalcore blends the aggressive breakdowns and harsh vocals of metal
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ogd8HMB7-FAYrrL11QYjTiTeKrPPuW15Dtx9OugoMUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ1/MzU4LTE3MTg1Njcw/NDYtMjM1NC5qcGVn.jpeg" alt="Cover for Heavener (Definitive)" style="max-width:120px; height:auto;" />
       </td>

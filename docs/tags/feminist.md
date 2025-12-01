@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:01:58.541Z
+date: 2025-12-01T05:55:13.976Z
 permalink: tags/feminist
 title: feminist
 ---
 
 ## feminist
 
-Last updated: <time datetime="2025-11-15T01:01:58.541Z">Sat Nov 15 2025 03:01:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-01T05:55:13.976Z">Mon Dec 01 2025 07:55:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/BykXvnOczItMS4teF-tM14Kp39bM-UCiv2RUD5yTCzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQx/ODUtMTM4NjUyNTU0/Mi0zOTcwLmpwZWc.jpeg" alt="Cover for Kvinnor Sjung Ut! Två Sidor Av Katas Döttrar" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 58</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 70</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 91</li>
         </ul>
@@ -157,7 +157,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>1991</td>
@@ -215,7 +215,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 56</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 68</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 90</li>
         </ul>
@@ -346,11 +346,11 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 29</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 73</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 99</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 99</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -635,10 +635,10 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 20</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 21</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 54</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 55</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 55</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +763,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 77</li>
         </ul>
       </td>
@@ -846,7 +846,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 73</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 74</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 96</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
@@ -892,7 +892,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 62</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 63</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 92</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 94</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
@@ -920,7 +920,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 67</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 68</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 94</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 95</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
@@ -968,9 +968,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       <td>
         <ul>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 96</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 99</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 100</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 100</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 100</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 100</li>
         </ul>
       </td>
@@ -993,8 +993,8 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 15</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 88</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1018,9 +1018,9 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 41</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 85</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 86</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 94</li>
         </ul>
@@ -1050,7 +1050,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/w6ZUY9dBbznpI9iOsFM1BtPE1PImU7Q3luvzLSo7SK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQy/NDc5LTE1NDEwOTU0/MDItNjg0NS5qcGVn.jpeg" alt="Cover for Learning How To Unlearn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e594274344f90d01a98623b2b3490ac.png" alt="Cover for Learning How To Unlearn" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>Dogtooth &amp; Nail</td>
@@ -1072,7 +1072,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/gN-rIVuDuB1UTvbmyDTSXZqo2OkyQK1lKUuXGVyE47w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM5/MTAzLTE1NDY5NTYw/NzktOTgwMy5qcGVn.jpeg" alt="Cover for Comp x Comp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7649e93592fa1d7868f69c949a1280c2.png" alt="Cover for Comp x Comp" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-07</td>
       <td>Terre Thaemlitz</td>
@@ -1214,7 +1214,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/533ee368dc8b933387c87668cd51cea1.png" alt="Cover for Pas moi - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1242,7 +1242,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db2e96edb76c30fa010dc26972c54026.png" alt="Cover for À deux - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1354,24 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81a9524bef2d79569be981687c247e02.png" alt="Cover for Promises Unfold as Lies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-13</td>
+      <td>Völva</td>
+      <td>Promises Unfold as Lies</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2d01570b96a6b2bfe79d7f364bb2b2a.png" alt="Cover for Rêvalité - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1583,39 +1600,6 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>2</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f4e96d3fc39672b45032ee0ae155cbc.png" alt="Cover for Craquinette (Demo) - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Periods</td>
-      <td>Craquinette (Demo) - Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23881d8e6d1fe2fde065fc6d0081b889.png" alt="Cover for Boobs Trap - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
@@ -1643,7 +1627,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74d98729eb07009b0140498211ee5f0e.png" alt="Cover for Fantasmes - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1660,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1708,7 +1692,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33aa794f654a34d96ee5626837f8a0f2.png" alt="Cover for Bees - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1721,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1755,7 +1739,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92da63383d6f56c0eddb6a0adee2b60b.png" alt="Cover for Ruptures - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1772,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14646a251643ad8d77722263c47bce4a.png" alt="Cover for VOCODER 3000 - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2184,6 +2168,7 @@ Feminist music encompasses works that champion gender equality, challenge patria
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6b265ed8c6459ac5437a9678503af3.png" alt="Cover for F!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Aleksa Lundberg &amp; Nina Ramsby</td>

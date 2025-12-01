@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:11:09.798Z
+date: 2025-12-01T05:56:14.026Z
 permalink: tags/australia
 title: australia
 ---
 
 ## australia
 
-Last updated: <time datetime="2025-11-26T02:11:09.798Z">Wed Nov 26 2025 04:11:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-01T05:56:14.026Z">Mon Dec 01 2025 07:56:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -28,6 +28,25 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec4d3d636df4092bd5f6105f158dcdd.png" alt="Cover for Working Class Dog" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Rick Springfield</td>
+      <td>Working Class Dog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>50</td>
       <td>
@@ -220,7 +239,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9198d7af00f040cc9c6e44de76c0a5bd.png" alt="Cover for Liberty Belle and the Black Diamond Express" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +278,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1989</td>
@@ -285,7 +304,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2327d857c9b36434f7467eb7e8143db.png" alt="Cover for Gold Afternoon Fix" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +441,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/dO6A2cuexE51FPTakalz9rK98GVtsKVazny3CcYJXlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUw/MS0xMzUyNDYwODk0/LTM5NDIuanBlZw.jpeg" alt="Cover for Asphyxia" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +509,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/W5gEVJOPRcnezZrM6OzViIcIvwefQLGGmdFN7k-0qqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDYw/Ny0xNjExOTQ1MDE4/LTY2MDIuanBlZw.jpeg" alt="Cover for The Boatman&#39;s Call" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +528,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1998</td>
@@ -575,7 +594,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/VjzTKx6eMKF0JsNPHPiyf255AjpNJJ6EHFUfcCLO3ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzMy/MTUtMTQ4MjI0NzQ4/Mi02OTE2LmpwZWc.jpeg" alt="Cover for Afterglow" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +637,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c124006d3a83adf9d764dad6736b4c6b.png" alt="Cover for White Lilies Island" style="max-width:120px; height:auto;" />
       </td>
@@ -636,7 +655,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/F_zDYtKbWoYxF96mbUJevaFwDuYN9YUau-7ZLugtwsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE1/MDEtMTI4MjU4MDQ5/My5qcGVn.jpeg" alt="Cover for I Begin to Wonder" style="max-width:120px; height:auto;" />
       </td>
@@ -838,7 +857,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8977a843ca13439ac36c89412db3b435.png" alt="Cover for On A Clear Night [Australian Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +959,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2008-02-12</td>
@@ -967,7 +986,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/699c8686ae164cfa8c047a8d663ae331.png" alt="Cover for Summer At Eureka" style="max-width:120px; height:auto;" />
       </td>
@@ -985,7 +1004,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2008-05-24</td>
@@ -1006,7 +1025,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/0KlLv7GkVRedPfzHaDu9EQSJPJOiIxLDyugm8hvmU0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzA1/ODYyLTE2MjU3NTQy/NDctMjUwMi5qcGVn.jpeg" alt="Cover for Cornerstone" style="max-width:120px; height:auto;" />
       </td>
@@ -1026,7 +1045,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/qIH3a1WTf-mvo-g0Pf8mi1jwQID1C338UgM1oCUcmEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDE0/MDctMTQwNTE2MjIw/Ny01ODI0LmpwZWc.jpeg" alt="Cover for WOW (Radio Edit)" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1063,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2009-01-29</td>
@@ -1174,7 +1193,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a76655bf10ac000c642b607afaca85ae.png" alt="Cover for Original Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -1258,7 +1277,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2011-10-14</td>
@@ -1356,7 +1375,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/970c49852cb7bb959b13873927e3bc23.png" alt="Cover for Black Stones" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1416,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2014-12-05</td>
@@ -1434,7 +1453,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 73</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 74</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 96</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 98</li>
@@ -1443,7 +1462,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb181a068b5bfe7277278ccbccf0c0b3.png" alt="Cover for Pheromones" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,7 +1501,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 62</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 63</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 94</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 95</li>
@@ -1509,7 +1528,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2016</td>
@@ -1548,7 +1567,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 67</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 68</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 95</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 96</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
@@ -1577,7 +1596,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0411acd992f52978cfa377f62c75117a.png" alt="Cover for Wide Asleep" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1620,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/ma6h1dSZVCGr0K99L1S2PAow24CYtHWK2TlQZAoOgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTg5/MDItMTQ3MzAxMTY0/Ni01NjQwLmpwZWc.jpeg" alt="Cover for The Great Divide (Crash Cove Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,13 +1676,13 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 78</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/LUa0DJLS4WmD22c5eA2c889M2jr3ME2D-1SZNWB-Yn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE3/MTYwLTE1ODk4MjU1/ODMtNzkxMy5qcGVn.jpeg" alt="Cover for Mess Her Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1728,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/UKruWrde3iWBeGK838G6ktXRleA4ro--qQ5M5eg7dRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUw/NDg2LTE1OTM0NTUy/MzUtNDU0MS5qcGVn.jpeg" alt="Cover for one foot in the grave" style="max-width:120px; height:auto;" />
       </td>
@@ -1732,7 +1751,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/f-PLR3FB3UjqGdmgXE5zLFiHJOujqdYiGF2JztPkGE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/OTM0LTE0OTczNzAx/OTktNDE1Ni5qcGVn.jpeg" alt="Cover for Erotic Stories Written In Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,7 +1773,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/5u7JQ4L4F6UskqHMuIfiUEBf1cKmt8JT3XXuHvIzi4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY3/NjkyLTE1MDM5NTQy/NTAtNzIzMS5qcGVn.jpeg" alt="Cover for The Deathgate" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1792,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/KIktMPqEamk-SF0PD4OzKExsnFzOoUUjTmQoJLkb2vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY0/NDc5LTE1MzU4MTE5/NzQtNzU2NS5qcGVn.jpeg" alt="Cover for Murder to the Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1792,7 +1811,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 41</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
             <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 93</li>
@@ -1846,7 +1865,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/vIpF1mPcFTOEA2iOM1n6wZAbNpNeXlpIxtsEqQM4zaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUz/Nzc3LTE1Mjk0NTE4/MjYtMjY3MS5qcGVn.jpeg" alt="Cover for Women of the Wand" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,7 +1885,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/s0njdIjdyxkxt5g4p5PKa7qI9UYq8SKgfV78E694xeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjc2/NDAtMTMwMjEyMjI1/Ny5qcGVn.jpeg" alt="Cover for The Beast EP - UK Release" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1922,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/tipj-zZdCeB0j1yYz2vXKI8I3vyECkAtPhTCI8bRnyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI4/NTAxLTE2MTEyMjUw/NDAtOTY4MC5wbmc.jpeg" alt="Cover for So Sick" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1940,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5864d4a6bcfd9c071fe4c501269d30bc.png" alt="Cover for Smooth Big Cat" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,10 +1949,6 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>Smooth Big Cat</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
         </ul>
       </td>
       <td>
@@ -1964,7 +1979,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d2d0faab9b7741c60f59db90ee7e90f.png" alt="Cover for Our Two Skins" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,7 +2038,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f2b4d9fe20a193071bfd16aefa6ad08.png" alt="Cover for In Our Own Sweet Time" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,7 +2056,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/wTZynWfpVfxvHepnZb9LmKI4vGjLHGdMWV2fVp02FaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/NjA0LTE2NTcxMTM0/ODAtMzI0Ni5qcGVn.jpeg" alt="Cover for The Real Work" style="max-width:120px; height:auto;" />
       </td>
@@ -2067,7 +2082,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/HEJKaCUCLLnUJgNj-o-kVptgmKgYBSUsuXA1XxYCTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTYwLTE3MTgyNTQ1/NjMtNDIwNC5qcGVn.jpeg" alt="Cover for the tiny album" style="max-width:120px; height:auto;" />
       </td>
@@ -2113,7 +2128,7 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05238c5f96c7d18b6122c510d680076a.png" alt="Cover for If You&#39;re Not Alright" style="max-width:120px; height:auto;" />
       </td>
@@ -2132,25 +2147,6 @@ Australian music blends folk, indie rock, and pop sensibilities with laid-back c
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd4c0781e9ac4b933118d755e5c2bc2.png" alt="Cover for DEMO 2023" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Fatlip</td>
-      <td>DEMO 2023</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:57:38.065Z
+date: 2025-12-01T05:58:14.049Z
 permalink: tags/indie-folk
 title: indie folk
 ---
 
 ## indie folk
 
-Last updated: <time datetime="2025-11-24T06:57:38.065Z">Mon Nov 24 2025 08:57:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-01T05:58:14.049Z">Mon Dec 01 2025 07:58:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 33</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 71</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
         </ul>
       </td>
@@ -85,7 +85,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 41</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -142,12 +142,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 55</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4884fbb2a3714e42cef5a1782e10c26e.png" alt="Cover for Illinois" style="max-width:120px; height:auto;" />
       </td>
@@ -160,14 +160,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 28</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 77</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 85</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df84d9319664460badb2a2253683daca.png" alt="Cover for Beware of the Maniacs" style="max-width:120px; height:auto;" />
       </td>
@@ -258,7 +257,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 57</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -295,8 +294,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 16</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +314,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 48</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -335,26 +334,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 35</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/963d6c16b93c43488a88cfac09f2692a.png" alt="Cover for First Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-02-09</td>
-      <td>Emmy the Great</td>
-      <td>First Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -376,7 +357,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 33</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 36</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 93</li>
         </ul>
       </td>
@@ -459,9 +440,9 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 13</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
         </ul>
       </td>
@@ -482,11 +463,30 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 8</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 10</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 93</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b5cbb52f6a496fff407dc736a8a6235.png" alt="Cover for RULES" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-01</td>
+      <td>Alex G</td>
+      <td>RULES</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 67</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +505,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 10</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -527,8 +527,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 51</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +582,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 62</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -601,9 +601,9 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 40</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 41</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 69</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -624,8 +624,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 5</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -688,8 +688,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 90</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -766,8 +766,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 16</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 51</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 61</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
         </ul>
       </td>
@@ -821,7 +821,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 46</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 48</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 86</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 99</li>
@@ -870,7 +870,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -937,11 +937,11 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 17</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 18</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 52</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 67</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
         </ul>
@@ -982,8 +982,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 25</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 96</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
         </ul>
@@ -1077,8 +1077,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 87</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 67</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1140,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 28</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 30</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 88</li>
         </ul>
       </td>
@@ -1199,8 +1199,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 83</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 89</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 90</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 100</li>
         </ul>
       </td>
@@ -1327,7 +1327,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 10</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1399,11 +1399,11 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 32</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 44</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 45</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 91</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1424,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 36</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1462,8 +1462,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 52</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1486,7 +1486,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf4a4b21c8ce8ae8619dcd8c9736869e.png" alt="Cover for Crushing" style="max-width:120px; height:auto;" />
       </td>
@@ -1501,12 +1501,12 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 68</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2250559abbd61df35e3ce8314f34c16.png" alt="Cover for M for Empathy" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1519,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 54</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1600,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 73</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 92</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 93</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 93</li>
         </ul>
       </td>
@@ -1664,7 +1664,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 72</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 73</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 98</li>
         </ul>
       </td>
@@ -1759,13 +1759,13 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 86</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 88</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6576b3c968cd6f239a22a26ccc029b9.png" alt="Cover for Bread Song" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1779,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 54</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 89</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1799,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 57</li>
             <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 65</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 90</li>
         </ul>
       </td>
@@ -1822,7 +1822,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1841,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 48</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1862,7 +1862,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 23</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 69</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 75</li>
         </ul>
       </td>
@@ -1882,7 +1882,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1902,7 +1902,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 64</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 67</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 73</li>
         </ul>
       </td>
@@ -1921,7 +1921,7 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 40</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 49</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 87</li>
         </ul>
       </td>
@@ -1942,8 +1942,8 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 57</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 88</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 58</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 89</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 91</li>
         </ul>
       </td>
@@ -1982,9 +1982,9 @@ Indie folk blends acoustic instrumentation with intimate, introspective songwrit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 77</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
