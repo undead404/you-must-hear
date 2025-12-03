@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T22:04:11.424Z
+date: 2025-12-03T10:37:26.287Z
 permalink: tags/puerto-rico
 title: puerto rico
 ---
 
 ## puerto rico
 
-Last updated: <time datetime="2025-11-08T22:04:11.424Z">Sun Nov 09 2025 00:04:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:37:26.287Z">Wed Dec 03 2025 12:37:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 58</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 36</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/koEUELuOgt-I3CAO4LWqC7MJdyWmEw315d9ztd0um-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg5/MTg4LTE2MjI2NjQ1/OTctMTA0Mi5qcGVn.jpeg" alt="Cover for Boricua Roots&#x2F;Raices Boricuas: Sings Puerto Rican Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b2e8c98049540259a041692ba7292a.png" alt="Cover for Boricua Roots&#x2F;Raices Boricuas: Sings Puerto Rican Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Sandra Roldan</td>
@@ -333,7 +333,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 19</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -508,8 +508,8 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 6</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 31</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 68</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 99</li>
         </ul>
       </td>
@@ -590,7 +590,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 45</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -630,7 +630,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -839,6 +839,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d22ddab9a0a0437ba433a8f57926f403.png" alt="Cover for Dávila 666" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Dávila 666</td>
@@ -877,7 +878,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/CSMfbeoGeKrmaPUHevlrl9ns1qsbnmevD4aa6PHlBLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTg0/OTAtMTQwNDU0NTc1/Ni03NzI2LmpwZWc.jpeg" alt="Cover for Creando Nuevos Enemigos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b896ea19b4a775d6857fe41396524f63.png" alt="Cover for Creando Nuevos Enemigos" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>tropiezo</td>
@@ -897,6 +898,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf32dc9b17c517b785f455bf268d080f.png" alt="Cover for iDon" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-28</td>
       <td>Don Omar</td>
@@ -911,8 +913,8 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 54</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1168,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 51</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1202,14 +1204,14 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 62</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/-JoETuqC_30nIaoGZ4LChPtJKtBJ0uzyVGDtz84jgRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI4/MzA2LTE1NzAyODky/ODktNDI3My5qcGVn.jpeg" alt="Cover for El Alma De Puerto Rico: Jíbaro Tradition by Ecos De Borinquen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2242c5496ba6611897a502f2dd570a2d.png" alt="Cover for El Alma De Puerto Rico: Jíbaro Tradition by Ecos De Borinquen" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Ecos de Borinquen</td>
@@ -1406,7 +1408,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/H1eq-_uL6qOCjVaduJbzb3PjF-xWSCCdj_rbYfIPuOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM3/MjE1LTE1ODk5MzM1/NDUtNTkzOS5qcGVn.jpeg" alt="Cover for Street Lord" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1109d2961ab4e06df8f04aa4893d7a9.png" alt="Cover for Street Lord" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>Ñengo Flow</td>
@@ -1534,21 +1536,18 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/ijDwCDASrTIfaF3OnODgX0Digar3eK6CaswDxKHuzHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDAy/NTIyLTE2NzA0ODg5/NzctNzIxOS5qcGVn.jpeg" alt="Cover for Saturno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d2c91cd92d8c2c75a7aa9db6cc6ce43.png" alt="Cover for Saturno" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-11</td>
       <td>Rauw Alejandro</td>
       <td>Saturno</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 79</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1636,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 7</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1667,8 +1666,8 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 33</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 42</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 62</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 67</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 67</li>
         </ul>
       </td>
@@ -1705,11 +1704,11 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 4</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 20</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 21</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 27</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 54</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 74</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 80</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 83</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1736,6 +1735,7 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d35e174e53d4fdebaa00161d54bb524.png" alt="Cover for Explosions Sonores (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Explosions Sonores</td>
@@ -1891,25 +1891,6 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Game Dragon Squad</td>
-      <td>Game Of Death</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>22</td>
       <td>
       </td>
@@ -2012,13 +1993,30 @@ Puerto Rican music blends reggaetón, Latin trap, and salsa with Caribbean and u
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd5a1123d26aa4d88d1e36248b2490c.png" alt="Cover for Game Of Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>The Game Dragon Squad</td>
+      <td>Game Of Death</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 ### Related genres
 
-- [reggaeton]({{ "/tags/reggaeton" | relative_url }})
 - [latin]({{ "/tags/latin" | relative_url }})
+- [reggaeton]({{ "/tags/reggaeton" | relative_url }})
 - [salsa]({{ "/tags/salsa" | relative_url }})
 - [rock en espanol]({{ "/tags/rock-en-espanol" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})

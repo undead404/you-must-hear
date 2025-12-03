@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:12:00.635Z
+date: 2025-12-03T10:20:02.771Z
 permalink: tags/post-bop
 title: post-bop
 ---
 
 ## post-bop
 
-Last updated: <time datetime="2025-11-19T20:12:00.635Z">Wed Nov 19 2025 22:12:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:20:02.771Z">Wed Dec 03 2025 12:20:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,8 +79,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 69</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -99,8 +98,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 10</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -137,7 +136,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -212,8 +211,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 79</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -250,10 +248,10 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 72</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 80</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 41</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -272,8 +270,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 51</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -292,9 +289,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 81</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 83</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +310,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +331,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 44</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +352,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 65</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -377,8 +373,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 2</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 98</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +486,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 32</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -515,9 +511,9 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 76</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 88</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 90</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 13</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +589,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 12</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 15</li>
             <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 36</li>
         </ul>
       </td>
@@ -613,7 +609,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -676,10 +672,10 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 44</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +696,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 37</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +717,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -743,8 +739,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 21</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 69</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +857,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 15</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1015,7 +1011,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1051,6 +1047,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1074,8 +1071,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 1</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 72</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1130,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1151,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 98</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1177,8 +1174,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 83</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 92</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 9</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1398,8 +1395,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 12</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 72</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1420,7 +1417,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 92</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1439,7 +1436,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1519,7 +1516,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1556,9 +1553,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1574,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1600,6 +1596,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1622,10 +1619,10 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 48</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1645,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 73</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1739,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1843,6 +1840,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1904,7 +1902,7 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1946,8 +1944,8 @@ Post-bop emerged in the 1960s as jazz musicians pushed beyond bebop&#39;s constr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 85</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
             <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 97</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T03:59:51.408Z
+date: 2025-12-03T10:36:28.047Z
 permalink: tags/animals
 title: animals
 ---
 
 ## animals
 
-Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T10:36:28.047Z">Wed Dec 03 2025 12:36:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,6 +47,25 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
     </tr>
     <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16e8e75e441a45a99a9747926a33de7d.png" alt="Cover for Best of the Animals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>The Animals</td>
+      <td>Best of the Animals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>44</td>
       <td>
           <img src="https://i.discogs.com/lDiQ2W42Q77c6cG7PJ_Hm98cs6YoILrwKElBf95fXkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzA4/ODMtMTQ0ODQxOTE2/OC0zODgyLmpwZWc.jpeg" alt="Cover for Special FX" style="max-width:120px; height:auto;" />
@@ -57,24 +76,6 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/SHVbe4PbTaPv0QdaSBW2RAre5taoTxHhVnBmcwWr6Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE1/MDUtMTI5NTQ2NTk3/MC5qcGVn.jpeg" alt="Cover for Best of the Animals" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1973</td>
-      <td>The Animals</td>
-      <td>Best of the Animals</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
@@ -213,7 +214,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 90</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +239,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/OwK3v_kC6kFSPPrWLE6MTY4aS5zdBftGnuVlVe6bojU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDk1/NzAtMTQyODUyMjk3/Mi02NjgzLmpwZWc.jpeg" alt="Cover for Burl Ives Sings Little White Duck And Other Children&#39;S Favorites" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2984ca9ef3d9ed4765af5f7bfbb872e.png" alt="Cover for Burl Ives Sings Little White Duck And Other Children&#39;S Favorites" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Burl Ives</td>
@@ -321,7 +322,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 44</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +396,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +594,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/OPH0rOL-YYGQkACpimRvTujFHlBnM6Yq-bcxnJVlFL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU5/NTgzLTE2NzI4MjU2/MDItMjA3MS5qcGVn.jpeg" alt="Cover for Zoological Garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b618ad05a03ee3ac821fa97daa61d619.png" alt="Cover for Zoological Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ophios</td>
@@ -698,14 +699,13 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/JDRDB00aFcbEAlCTf3D3n9iNmaHPRABdeGeEZ5v8NE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjUz/MC0xMTc0OTM1ODEz/LmpwZWc.jpeg" alt="Cover for Hellcat Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c23ad4ebfd254f6dcf6dacc8fd561097.png" alt="Cover for Hellcat Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-25</td>
       <td>MUST DIE!</td>
       <td>Hellcat Remixes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
         </ul>
       </td>
       <td>
@@ -751,6 +751,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31353b8b56916b25a19bf3ac840a8b3b.png" alt="Cover for The Wolf Also Shall Dwell with the Lamb" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Brethren of the Free Spirit</td>
@@ -766,7 +767,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -827,9 +828,9 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 6</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 13</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +858,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/5cNuO_svXFP6JrZsJwOcI_eOpj6UVuPARGNJTC3-D8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjAtMTMwNjU2MTMw/MC5qcGVn.jpeg" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faf1826017dce7c54b552fb3f0378243.png" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-16</td>
       <td>Skerror</td>
@@ -877,9 +878,9 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 4</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 5</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 71</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +979,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/7AVsjQgS2dj_wbhADN9tTXXjT6OccPqfsXStUMQZ_fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU4/MzMtMTM3MjUzNTg4/My04MDU0LmpwZWc.jpeg" alt="Cover for The Paragon Of Animals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4828283346024e828d9f05e9791f2cc3.png" alt="Cover for The Paragon Of Animals" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Four Quartets</td>
@@ -1011,7 +1012,6 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1053,6 +1053,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db6691013d94b7aaa4b9405e036700e.png" alt="Cover for We, Burning Giraffes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-30</td>
       <td>[The] Slowest Runner [in all the world]</td>
@@ -1069,7 +1070,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/GNEs7ARfdHqCydIruPCgpPZv659Zf5_r7eM0sgz-hfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzEx/ODMtMTM4MjYyMTUx/MC00Mjc2LmpwZWc.jpeg" alt="Cover for Diamond Eyed Coyote" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2023719b35ba0a88c8d7067e79ea76.png" alt="Cover for Diamond Eyed Coyote" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-11</td>
       <td>The Tleilaxu Music Machine</td>
@@ -1087,7 +1088,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 67</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1250,8 +1251,8 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 57</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 58</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1322,9 +1323,6 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
         </ul>
       </td>
       <td>
@@ -1371,7 +1369,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/eL-7K619QFmWmV5yZlQs2CCCnZf_DTWe8KgVF0Ogdfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTk5/MDUtMTQ1NDM1OTU3/Mi01NjU3LmpwZWc.jpeg" alt="Cover for The Birds Outside Sang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a08d7b6e863d9606000a580109e2d1.png" alt="Cover for The Birds Outside Sang" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-29</td>
       <td>Florist</td>
@@ -1379,14 +1377,12 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/animals" | relative_url }}">animals</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 27</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 88</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1592,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/CtMgpqHEN4JKVhBVHqmb-22pWMEIX7NUsEuAFiALloU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ3/NTM4LTE2MTQwNjky/NTUtMTgwMi5qcGVn.jpeg" alt="Cover for Go! Go! Year of the Cow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82fe962fa809c9e3b034def363d8f01.png" alt="Cover for Go! Go! Year of the Cow" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-23</td>
       <td>Andor</td>
@@ -1684,7 +1680,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/B7-9W_Nq11mfnxSeGC2c5DdNvAKeGsSwpV-3F5KlUKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTM4/Mi0xMjA4NDk4MTA1/LmpwZWc.jpeg" alt="Cover for Fire Doesn&#39;t Grow on Trees" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/316fb2e72414f82d439499b43f103fb9.png" alt="Cover for Fire Doesn&#39;t Grow on Trees" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-24</td>
       <td>The Brian Jonestown Massacre</td>
@@ -1738,7 +1734,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/vKj2WDH7jPLkRitFKyt4qu3ozzxzvFibV0CKDdqqa3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjMy/MDQ2LTE2OTc2NTM1/NjgtOTg5Ny5qcGVn.jpeg" alt="Cover for The Tale of Jack Natter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/089d943061f63359269632305304f337.png" alt="Cover for The Tale of Jack Natter" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-11</td>
       <td>Feth</td>
@@ -1793,7 +1789,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 22</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1817,6 +1813,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96774818e3c8fa7db30e49ef9d003922.png" alt="Cover for Like Playing To A Cow" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Spiral Cow</td>
@@ -1855,6 +1852,7 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a3ee5bd4ad34295b440994445436171.png" alt="Cover for Electronic Dairy Farmer" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Roan Song</td>
@@ -2020,8 +2018,8 @@ Last updated: <time datetime="2025-10-20T03:59:51.408Z">Mon Oct 20 2025 06:59:51
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
-- [dungeon synth]({{ "/tags/dungeon-synth" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [dungeon synth]({{ "/tags/dungeon-synth" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})

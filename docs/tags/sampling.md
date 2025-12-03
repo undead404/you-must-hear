@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:11:38.464Z
+date: 2025-12-03T10:36:39.106Z
 permalink: tags/sampling
 title: sampling
 ---
 
 ## sampling
 
-Last updated: <time datetime="2025-11-26T04:11:38.464Z">Wed Nov 26 2025 06:11:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:36:39.106Z">Wed Dec 03 2025 12:36:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 68</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -106,6 +106,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -129,8 +130,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 47</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 54</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 60</li>
         </ul>
       </td>
@@ -176,9 +177,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 80</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 80</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -241,9 +242,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -267,8 +268,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 74</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 27</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +292,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 36</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
         </ul>
       </td>
@@ -317,7 +318,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 63</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +361,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 91</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -384,10 +385,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 35</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 41</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -412,9 +412,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 17</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 93</li>
         </ul>
       </td>
@@ -437,8 +437,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 45</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 59</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
         </ul>
       </td>
@@ -465,8 +465,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 26</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 96</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 97</li>
@@ -494,7 +494,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 43</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 75</li>
         </ul>
       </td>
@@ -534,9 +534,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -559,9 +559,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 24</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 32</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -584,8 +584,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 17</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 50</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -689,10 +689,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 96</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +738,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +766,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 26</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -785,8 +785,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 10</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 29</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -809,8 +809,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 100</li>
         </ul>
@@ -836,7 +836,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 6</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 8</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 34</li>
         </ul>
       </td>
@@ -884,8 +884,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 70</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 86</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 91</li>
@@ -912,9 +912,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 48</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 49</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -932,8 +932,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 34</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 67</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 75</li>
         </ul>
       </td>
@@ -959,9 +959,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 91</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
             <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 100</li>
         </ul>
       </td>
@@ -986,7 +986,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 19</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 76</li>
@@ -1034,8 +1034,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 61</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 71</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1058,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 36</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1103,8 +1103,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 9</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 81</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 92</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 98</li>
         </ul>
       </td>
@@ -1133,7 +1133,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 4</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1154,8 +1154,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 56</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 80</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1178,9 +1178,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 1</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 99</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 100</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
             <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 100</li>
         </ul>
       </td>
@@ -1207,12 +1207,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 98</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
         </ul>
       </td>
@@ -1231,9 +1231,6 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 64</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 84</li>
         </ul>
       </td>
@@ -1258,7 +1255,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 29</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 59</li>
         </ul>
@@ -1282,7 +1279,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1305,10 +1302,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 2</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 96</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 97</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 99</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1331,10 +1328,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 1</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 97</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 98</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1352,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1380,8 +1377,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
         </ul>
@@ -1407,7 +1404,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 45</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 80</li>
         </ul>
       </td>
@@ -1432,11 +1429,11 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 28</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 13</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 73</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 79</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1455,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1486,12 +1483,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 73</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 85</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1529,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 48</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 80</li>
         </ul>
@@ -1559,10 +1556,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 55</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1584,8 +1581,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 44</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 48</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1607,8 +1604,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 22</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 73</li>
         </ul>
       </td>
@@ -1655,8 +1652,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 12</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 59</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 11</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1703,10 +1700,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 23</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 77</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1731,11 +1728,11 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
             <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
         </ul>
       </td>
@@ -1762,10 +1759,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 14</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 15</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 86</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1789,9 +1786,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 27</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 32</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 41</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 68</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 93</li>
         </ul>
@@ -1814,8 +1811,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1837,9 +1834,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1855,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1908,8 +1905,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1931,8 +1928,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 87</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1955,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       <td>
         <ul>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 4</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 54</li>
         </ul>
       </td>
@@ -1980,9 +1977,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 79</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 22</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
         </ul>
@@ -2008,8 +2005,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 10</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 61</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 91</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 98</li>
         </ul>
       </td>
@@ -2054,6 +2051,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 23</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 48</li>
         </ul>
@@ -2079,7 +2077,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 12</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 36</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 48</li>
         </ul>
@@ -2108,11 +2106,12 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 25</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2132,7 +2131,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2155,10 +2154,10 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 49</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 77</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2178,7 +2177,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 11</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2242,8 +2241,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 47</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 54</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 74</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 92</li>
         </ul>
@@ -2318,9 +2317,9 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 2</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 55</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 57</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 43</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2343,7 +2342,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 30</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2374,7 +2373,7 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 55</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2395,8 +2394,8 @@ Sampling music refers to the practice of taking a portion or &quot;sample&quot; 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 12</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 88</li>
         </ul>
       </td>
     </tr>

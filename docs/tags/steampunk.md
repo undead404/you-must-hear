@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:24:08.373Z
+date: 2025-12-03T10:53:06.324Z
 permalink: tags/steampunk
 title: steampunk
 ---
 
 ## steampunk
 
-Last updated: <time datetime="2025-11-26T04:24:08.373Z">Wed Nov 26 2025 06:24:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:53:06.324Z">Wed Dec 03 2025 12:53:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -202,7 +202,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 2</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 34</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 49</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
         </ul>
       </td>
@@ -405,10 +405,10 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 11</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 15</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -464,8 +464,8 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 23</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -520,7 +520,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 10</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -850,7 +850,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 17</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 39</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -962,8 +962,8 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 36</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 65</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 72</li>
         </ul>
       </td>
@@ -991,9 +991,9 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 9</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 41</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 70</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1040,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/6iUslB-nHOa5oVLw0gOZnDjKSD9UriGDYUeTW7_6yyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjc5/MDgtMTM5MzEwNDM3/Mi00MjU4LmpwZWc.jpeg" alt="Cover for Dramatis Personae" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70d26c53d82b451898cd11d92d320268.png" alt="Cover for Dramatis Personae" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-01</td>
       <td>The Clockwork Dolls</td>
@@ -1440,7 +1440,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 12</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1519,7 +1519,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 5</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 15</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1919,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 32</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1955,7 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       <td>
         <ul>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 29</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1978,8 +1978,8 @@ Steampunk music blends Victorian-era aesthetics with modern electronic and rock 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 14</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 16</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 86</li>
         </ul>
       </td>
     </tr>

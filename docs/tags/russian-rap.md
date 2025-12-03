@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T16:07:52.164Z
+date: 2025-12-03T10:03:46.631Z
 permalink: tags/russian-rap
 title: russian rap
 ---
 
 ## russian rap
 
-Last updated: <time datetime="2025-11-24T16:07:52.164Z">Mon Nov 24 2025 18:07:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:03:46.631Z">Wed Dec 03 2025 12:03:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1229,7 +1229,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 22</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1446,19 +1446,10 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       <td>Русский подорожник</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 62</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1548,7 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 77</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1580,8 +1571,8 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 93</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 19</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1652,16 +1643,10 @@ Russian rap emerged from post-Soviet urban culture, blending American hip-hop in
       <td>Я Тебя Никогда</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 37</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 67</li>
         </ul>
       </td>
     </tr>
