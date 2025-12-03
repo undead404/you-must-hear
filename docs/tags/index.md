@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-12-01T06:16:55.232Z
+date: 2025-12-03T01:24:10.914Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-01T06:16:55.232Z">Mon Dec 01 2025 08:16:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T01:24:10.914Z">Wed Dec 03 2025 03:24:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [modern metal]({{ "tags/modern-metal" | relative_url }}) | <time datetime="2025-12-03T01:24:10.914Z">Wed Dec 03 2025 03:24:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [fastcore]({{ "tags/fastcore" | relative_url }}) | <time datetime="2025-12-01T06:16:55.232Z">Mon Dec 01 2025 08:16:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie folk]({{ "tags/indie-folk" | relative_url }}) | <time datetime="2025-12-01T05:58:14.049Z">Mon Dec 01 2025 07:58:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [mathgrind]({{ "tags/mathgrind" | relative_url }}) | <time datetime="2025-12-01T05:56:34.266Z">Mon Dec 01 2025 07:56:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -569,7 +570,6 @@ Last updated: <time datetime="2025-12-01T06:16:55.232Z">Mon Dec 01 2025 08:16:55
 | [progressive death metal]({{ "tags/progressive-death-metal" | relative_url }}) | <time datetime="2025-11-23T02:41:47.368Z">Sun Nov 23 2025 04:41:47 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk metal]({{ "tags/folk-metal" | relative_url }}) | <time datetime="2025-11-23T02:41:37.498Z">Sun Nov 23 2025 04:41:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-11-23T02:41:19.506Z">Sun Nov 23 2025 04:41:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [modern metal]({{ "tags/modern-metal" | relative_url }}) | <time datetime="2025-11-23T02:40:04.855Z">Sun Nov 23 2025 04:40:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [ghettotech]({{ "tags/ghettotech" | relative_url }}) | <time datetime="2025-11-23T02:35:14.755Z">Sun Nov 23 2025 04:35:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [nwothm]({{ "tags/nwothm" | relative_url }}) | <time datetime="2025-11-23T02:34:41.720Z">Sun Nov 23 2025 04:34:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [nwobhm]({{ "tags/nwobhm" | relative_url }}) | <time datetime="2025-11-23T02:34:36.280Z">Sun Nov 23 2025 04:34:36 GMT+0200 (Eastern European Standard Time)</time> |
