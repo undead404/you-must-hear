@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T18:01:30.538Z
+date: 2025-12-03T11:31:11.520Z
 permalink: tags/sleaze-rock
 title: sleaze rock
 ---
 
 ## sleaze rock
 
-Last updated: <time datetime="2025-11-04T18:01:30.538Z">Tue Nov 04 2025 20:01:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:31:11.520Z">Wed Dec 03 2025 13:31:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -161,7 +161,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 11</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +180,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 84</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -223,6 +223,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9116e3c8ba614381aac827297cfb378c.png" alt="Cover for A Bit Of What You Fancy" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>The Quireboys</td>
@@ -429,7 +430,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 34</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -452,8 +453,9 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 48</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 89</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +480,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/d9ZE9tO-w4flhVrJlxNZVqr2-pP4EVF7zftnkw3PX2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA3/MC0xNDc2Njk0MTcx/LTM4OTAuanBlZw.jpeg" alt="Cover for Keep Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8948da8564715f7442cd44d83f08594a.png" alt="Cover for Keep Out" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-11</td>
       <td>Danger</td>
@@ -500,6 +502,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/354960557ac540d5a35717426b848de0.png" alt="Cover for First Touch" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-11</td>
       <td>Danger</td>
@@ -634,7 +637,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 64</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +679,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/m1ln3L8wnVI0qOSv2hWUJIjrXH94fzwKm64ixwbmdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTAy/MDMtMTM4ODUzMTUy/OC00OTM0LmpwZWc.jpeg" alt="Cover for broken doll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/743d135831484582bb0232d9f0a6a497.png" alt="Cover for broken doll" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07</td>
       <td>Starlet Suicide</td>
@@ -692,7 +695,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 48</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +719,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/r_F-Isd_VDwNPq0m03OuIdLQVr4UQLgiPj2mpdDIZsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjMw/MzgtMTM4ODUzMTIy/Mi02Mjg4LnBuZw.jpeg" alt="Cover for out of your league" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31f4780d92484a558eab9c66a8d09ad2.png" alt="Cover for out of your league" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Starlet Suicide</td>
@@ -732,7 +735,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -752,7 +755,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 41</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -793,6 +796,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8c20daeffa4990bf76907724118067.png" alt="Cover for Black Anthem" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-15</td>
       <td>Gemini Five</td>
@@ -810,7 +814,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/SGDBDTOLRNtqjrorA5T8J_vyCxdXvSJIlUGkilRQhMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjMw/NTQtMTU3ODY4OTEy/Ny0zMDIxLmpwZWc.jpeg" alt="Cover for MAKIN ALL THE NOIZE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38a3dbd374a432fbd5b85bbff8a2ff2.png" alt="Cover for MAKIN ALL THE NOIZE" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Starlet Suicide</td>
@@ -826,7 +830,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 47</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -849,9 +853,9 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 61</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 9</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 42</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 79</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -869,16 +873,16 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 66</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 8</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 37</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 81</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg" alt="Cover for Blood, Sweat And Towers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d849599e8dc4b339024b33c574fa3b6.png" alt="Cover for Blood, Sweat And Towers" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Towers Of London</td>
@@ -889,9 +893,9 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 70</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 6</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 33</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -985,16 +989,16 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 84</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 2</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 16</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 94</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/bW0ioHIL_tiCslMIsb5UqVAsnRBrWs1i5cDoe6Ibh0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc1/ODEtMTIwMzU1NzMz/OC5qcGVn.jpeg" alt="Cover for The Power And The Glory Hole" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1432043627cd8304777a7cc1c563ce7f.png" alt="Cover for The Power And The Glory Hole" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-13</td>
       <td>Faster Pussycat</td>
@@ -1068,6 +1072,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95d8ac160c01f0da0ef416ad264168e3.png" alt="Cover for Yesterday&#39;s News" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-22</td>
       <td>White Flame</td>
@@ -1105,7 +1110,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 31</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1135,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/W2PIDPXdDQYgp42y8oTdvBsUsW1wdFdIA9CGw3hOCvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY5/MTQ0LTE2MjUzNDgx/MjQtMTAwNS5qcGVn.jpeg" alt="Cover for Taste Of Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83872a199915350d52b4d313435d890c.png" alt="Cover for Taste Of Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Baby Jane</td>
@@ -1202,6 +1207,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb984a13223fd64ce4ca98dd0f5e1638.png" alt="Cover for Fizzy Pop" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-06</td>
       <td>Towers Of London</td>
@@ -1217,7 +1223,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 67</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1241,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 57</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1260,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 9</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1284,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/W81VvSN5tGduZgvqeKgno1x55FwFJ-W7bQmqoLCH5ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjE2/NzItMTYwNDYxNTI1/NS05MTA5LmpwZWc.jpeg" alt="Cover for Young &amp; Reckless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57127b7bfdb155bc243675fc85abe8bb.png" alt="Cover for Young &amp; Reckless" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-09</td>
       <td>Dirty Penny</td>
@@ -1293,7 +1299,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 24</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1340,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 52</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1357,7 +1363,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 70</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1431,7 +1437,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1474,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1567,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 51</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1588,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 62</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1681,7 +1687,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       <td>
         <ul>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 38</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 41</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1713,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Uj52MpsDYZ1zTZm5x_4F1XAP1DnSLbP7FAmWZKYv3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIz/Mzk0LTE2MDQ2MTI5/MTItNjU4MS5qcGVn.jpeg" alt="Cover for In The Spotlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66dc476cdbe44eba8d85d42fb9c78862.png" alt="Cover for In The Spotlight" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-04</td>
       <td>Baby Jane</td>
@@ -1780,7 +1786,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 57</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1803,7 +1809,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 66</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1845,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 72</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1923,7 +1929,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/W2PIDPXdDQYgp42y8oTdvBsUsW1wdFdIA9CGw3hOCvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY5/MTQ0LTE2MjUzNDgx/MjQtMTAwNS5qcGVn.jpeg" alt="Cover for Easy Game" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4343f22ddbe68c2d4bcb7aef5c912a9e.png" alt="Cover for Easy Game" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-20</td>
       <td>Baby Jane</td>
@@ -1960,7 +1966,7 @@ Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from th
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 34</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 43</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 57</li>
         </ul>
       </td>
     </tr>

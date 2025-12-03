@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:44:34.964Z
+date: 2025-12-03T10:53:43.410Z
 permalink: tags/dansk-pop-rock
 title: dansk pop rock
 ---
 
 ## dansk pop rock
 
-Last updated: <time datetime="2025-10-28T06:44:34.964Z">Tue Oct 28 2025 08:44:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T10:53:43.410Z">Wed Dec 03 2025 12:53:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 10</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 84</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 15</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -189,7 +189,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 18</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 21</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -232,8 +232,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 7</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 62</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 39</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +255,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 4</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +275,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 11</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -316,7 +316,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 16</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -336,8 +336,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 3</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 87</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -357,8 +357,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 62</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 88</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 13</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -378,8 +378,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 72</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 91</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 10</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +398,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 13</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -419,8 +419,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 56</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 83</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 18</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +441,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 49</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -485,8 +485,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 12</li>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 19</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 77</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -525,8 +525,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 36</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 73</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 28</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -545,8 +545,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 69</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 91</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 9</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -566,8 +566,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 78</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 95</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 6</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -587,8 +587,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 67</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 89</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 12</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 19</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +629,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 35</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Hmrs2vB4vk6-g4MMiQqJx3jOE6KfWm38gYa1gw6tlc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/MjgtMTIyNDM1MjI4/Ni5qcGVn.jpeg" alt="Cover for Love Is Gonna Call" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0be70e8bdeed40e9b7e80232b88b8b5d.png" alt="Cover for Love Is Gonna Call" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Sanne Salomonsen</td>
@@ -786,7 +786,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 40</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 45</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +826,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 2</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -849,8 +849,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 4</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 59</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 42</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +871,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 20</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -892,7 +892,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 25</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -913,7 +913,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 52</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -933,7 +933,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 54</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -956,9 +956,9 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 58</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 5</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 62</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -979,9 +979,9 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 35</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 57</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 16</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 37</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1001,7 +1001,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 3</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1041,8 +1041,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 44</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 79</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 22</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1063,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 30</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1084,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 39</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1103,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 48</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1123,8 +1123,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 59</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 87</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 14</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1145,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 41</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1185,8 +1185,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 39</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 75</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 26</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1206,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 31</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1246,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 9</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1285,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 47</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1305,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 56</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1325,13 +1325,14 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 43</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2124fdb064124cbfa2cf3bb6f35cf7f6.png" alt="Cover for National" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Love Shop</td>
@@ -1345,7 +1346,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 17</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1405,9 +1406,9 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 8</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 34</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 9</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 29</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1429,8 +1430,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 31</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 71</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 30</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1451,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 58</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1471,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 22</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1490,8 +1491,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 89</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 92</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 9</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1511,7 +1512,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 7</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1533,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 16</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 66</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 35</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1554,9 +1555,9 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 55</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 77</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 7</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 23</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1579,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 32</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1618,7 +1619,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 51</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1638,8 +1639,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 58</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 86</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 15</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1660,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 24</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1679,8 +1680,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 73</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 86</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 14</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1720,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 27</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1739,8 +1740,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 47</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 80</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 21</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1761,9 +1762,9 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 52</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 20</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 30</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1784,8 +1785,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 15</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 65</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 36</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1843,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 37</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1863,14 +1864,14 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 46</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/YTF_-ZLWcM0DV16D3JuQiZqOSw4BkWe4whceQ7oParw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MzItMTM0OTAzMDk1/OS01MTAzLmpwZWc.jpeg" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52869d3ef4945bbb58b416d1b6d8239.png" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Love Shop</td>
@@ -1885,8 +1886,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 5</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 60</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 41</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1906,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 36</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1928,6 +1929,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e923814c823a47e2b0e54033d9f94376.png" alt="Cover for I byen igen" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-29</td>
       <td>Marie Key</td>
@@ -1941,7 +1943,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 93</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1961,8 +1963,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 37</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 74</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 27</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1984,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 90</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2002,8 +2004,8 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 98</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 99</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 2</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2023,7 +2025,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 42</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2063,7 +2065,7 @@ Dansk pop rock represents the Danish-language popular rock tradition that has do
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 23</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
         </ul>
       </td>
     </tr>

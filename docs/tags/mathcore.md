@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:32:12.686Z
+date: 2025-12-03T11:30:40.610Z
 permalink: tags/mathcore
 title: mathcore
 ---
 
 ## mathcore
 
-Last updated: <time datetime="2025-11-26T04:32:12.686Z">Wed Nov 26 2025 06:32:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:30:40.610Z">Wed Dec 03 2025 13:30:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,24 +47,6 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
     </tr>
     <tr>
-      <td>26</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe8b469f25b0e7b512490cc01293426.png" alt="Cover for Functioning on Impatience" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Coalesce</td>
-      <td>Functioning on Impatience</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4daac3533d44c1811ab6d09b0e709b.png" alt="Cover for American Nervoso" style="max-width:120px; height:auto;" />
@@ -90,6 +72,24 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       <td>1998-10-22</td>
       <td>The Dillinger Escape Plan</td>
       <td>Under The Running Board</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe8b469f25b0e7b512490cc01293426.png" alt="Cover for Functioning on Impatience" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-11-18</td>
+      <td>Coalesce</td>
+      <td>Functioning on Impatience</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
@@ -153,9 +153,9 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 81</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 64</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -231,28 +231,27 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 27</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cb8865b3da5935559faeb1284605964.png" alt="Cover for Plague Soundscapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-23</td>
       <td>The Locust</td>
       <td>Plague Soundscapes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 24</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 65</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 74</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -277,11 +276,11 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 2</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 49</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 80</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 92</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 98</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +299,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 61</li>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -657,8 +656,8 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -750,8 +749,8 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 54</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 87</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 13</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -770,6 +769,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +972,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 63</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1069,6 +1069,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 63</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 80</li>
         </ul>
@@ -1090,7 +1091,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 17</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1135,21 +1136,21 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 33</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 2</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 3</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 35</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 53</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 66</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 87</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 100</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1194,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       <td>18</td>
       <td>
       </td>
-      <td>2010-08-01</td>
+      <td>2010-07</td>
       <td>Converge</td>
       <td>On My Shield</td>
       <td>
@@ -1295,7 +1296,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 64</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 37</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 97</li>
         </ul>
       </td>
@@ -1319,8 +1320,8 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 55</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 78</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 87</li>
         </ul>
       </td>
@@ -1414,8 +1415,8 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1514,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 31</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 32</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 33</li>
         </ul>
       </td>
@@ -1677,7 +1678,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 91</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 95</li>
         </ul>
       </td>
@@ -1762,13 +1763,13 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 2</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 13</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 41</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 40</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 71</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 85</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 90</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 94</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1791,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 25</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1909,9 +1910,9 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 52</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 49</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 81</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
             <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 99</li>
         </ul>
       </td>
@@ -1973,7 +1974,7 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 64</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2019,12 +2020,12 @@ Mathcore is a subgenre of metalcore and math rock, characterized by complex and 
 ### Related genres
 
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
-- [grindcore]({{ "/tags/grindcore" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
-- [deathcore]({{ "/tags/deathcore" | relative_url }})
+- [grindcore]({{ "/tags/grindcore" | relative_url }})
 - [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
+- [deathcore]({{ "/tags/deathcore" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
-- [powerviolence]({{ "/tags/powerviolence" | relative_url }})
 - [nu metal]({{ "/tags/nu-metal" | relative_url }})
+- [djent]({{ "/tags/djent" | relative_url }})

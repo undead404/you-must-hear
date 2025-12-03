@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:45:27.574Z
+date: 2025-12-03T11:48:54.831Z
 permalink: tags/requiem
 title: requiem
 ---
 
 ## requiem
 
-Last updated: <time datetime="2025-10-28T06:45:27.574Z">Tue Oct 28 2025 08:45:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:48:54.831Z">Wed Dec 03 2025 13:48:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -596,7 +596,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 16</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -709,8 +709,8 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 80</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 90</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -731,14 +731,14 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 8</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/hFoD6krv0O39dBw7mfKrpJgchcIR-eeJoaolh3Kuf_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjE5/MTctMTQ5MDI2MjYz/Ny0xMDY3LmpwZWc.jpeg" alt="Cover for Fauré: Requiem; Messe des pêcheurs de Villerville" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed8c551fb06bcdc0680027f1d30e376e.png" alt="Cover for Fauré: Requiem; Messe des pêcheurs de Villerville" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Gabriel Fauré</td>
@@ -885,7 +885,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 3</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +943,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 44</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 56</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 98</li>
         </ul>
       </td>
@@ -964,7 +964,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 76</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1019,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 90</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1286,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/A5tuexLZDBi22marhAZZnm-UxsFjtPf0FmSwGcWJa8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDA3/NjctMTM3MDgxMDU4/My01NTQ3LmpwZWc.jpeg" alt="Cover for Halo 4: Original Soundtrack (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a875d22b7389440bbfb7ca679ee6d9eb.png" alt="Cover for Halo 4: Original Soundtrack (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Neil Davidge</td>
@@ -1469,7 +1469,7 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 57</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 44</li>
             <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 65</li>
         </ul>
       </td>
@@ -1604,10 +1604,10 @@ A requiem is a solemn musical composition originally created for Catholic funera
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 5</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 47</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 97</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T20:31:13.645Z
+date: 2025-12-03T11:26:38.186Z
 permalink: tags/crank-wave
 title: crank wave
 ---
 
 ## crank wave
 
-Last updated: <time datetime="2025-11-11T20:31:13.645Z">Tue Nov 11 2025 22:31:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:26:38.186Z">Wed Dec 03 2025 13:26:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/LqPx67ZDIBJRjgl6ub1pLkA3lFXTVcfVL4c1IW324ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTA5/Ni0xMTM4OTk2NjQ5/LmpwZWc.jpeg" alt="Cover for The Cleaner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f60297f7955dc5510ee659bdfd6f8626.png" alt="Cover for The Cleaner" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Squid</td>
@@ -82,7 +82,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 27</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -107,6 +107,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/971ee6564fcb42fac2d5785c5f34104e.png" alt="Cover for Under Color of Official Right" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-08</td>
       <td>Protomartyr</td>
@@ -114,7 +115,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -125,6 +126,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a52372ff991e48b9c86a6fa52a5b8749.png" alt="Cover for Divide And Exit" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-23</td>
       <td>Sleaford Mods</td>
@@ -137,7 +139,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 26</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +183,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/p9GcYQ-iHILg-ZTnFcytmygc3YeGPMxt72nYWSQl2cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA5/MDItMTQzNzY3ODk1/Mi00OTA0LmpwZWc.jpeg" alt="Cover for Key Markets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f132eee42769b1c0ef57f10f50791852.png" alt="Cover for Key Markets" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-24</td>
       <td>Sleaford Mods</td>
@@ -194,7 +196,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -209,18 +211,19 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 2</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/_qQzyNQN0fm9p5HrvyoTb8JOoCagtSlL2un-DKSjH1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjA1/MzktMTQ4MTQ1MzQ4/My01NTU0LmpwZWc.jpeg" alt="Cover for All Of Them Naturals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f00c0a10f8784fa52c3bc7d22e573fe.png" alt="Cover for All Of Them Naturals" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Uranium Club</td>
@@ -247,7 +250,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -266,14 +269,12 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 93</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -294,8 +295,8 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 42</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 44</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 47</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -310,12 +311,11 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 50</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/eXkMj-TClBrx-CZNrB_6psXqyzBA4FPKEHzbEKP5aJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU3/OTk1LTE1MDE4NDMx/ODctODE5Mi5qcGVn.jpeg" alt="Cover for Come Play The Trees" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/868f0110b2d136e8c71ecde853584b82.png" alt="Cover for Come Play The Trees" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-29</td>
       <td>Snapped Ankles</td>
@@ -373,14 +373,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 23</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/eNtQFBV1MlXOWWFUmilEpPId8OjyDAKwd1rxg9Msw1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/MzEzLTE1MDY0Mjg2/NzQtNjQzNi5qcGVn.jpeg" alt="Cover for Relatives In Descent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b8847eb5e8a9098568e697a41f754c.png" alt="Cover for Relatives In Descent" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-29</td>
       <td>Protomartyr</td>
@@ -388,12 +388,13 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 63 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 44</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 50</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -412,8 +413,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 84</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 100</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -447,6 +447,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -457,7 +458,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/MQhJltNemMxX05IG5dssmRXZ3SjnzPSzL7k-ZybhDxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk3/ODUwLTE1NTMxMTU2/ODAtODc1Mi5qcGVn.jpeg" alt="Cover for The Official Body" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8abcc04f2dbd3c0fc69927b84a1dc9e.png" alt="Cover for The Official Body" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-19</td>
       <td>Shopping</td>
@@ -476,7 +477,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/5rqsP8i547NJwKSQJm_OZRozE_8OtSFINKrwprXNbQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM1/MTk4LTE2MDI3Njgw/NTctODY4My5qcGVn.jpeg" alt="Cover for New Material" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb71c4455feec9589029fdb76a3e929f.png" alt="Cover for New Material" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-23</td>
       <td>Preoccupations</td>
@@ -508,14 +509,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 65</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/S0XYxovm7u0xOS2firM_OBM5zjlhvlrl311X87YOISc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/MTY1LTE1MjI5NDM5/NTgtNDYzNS5qcGVn.jpeg" alt="Cover for Endless Scroll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a8207cc6fb53364f08272c5367617c.png" alt="Cover for Endless Scroll" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-01</td>
       <td>Bodega</td>
@@ -523,12 +524,12 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 18</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -549,6 +550,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +591,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 66</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +634,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/iGF_iLUvbJXKI9xiuw4RpruO7aenAiKBYwLVzdrO1f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjc3/MTItMTU4MTMyNzQz/MS01MTQ3LmpwZWc.jpeg" alt="Cover for Consistency of energy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/215b1f26e00df83e87919f6d9b1df577.png" alt="Cover for Consistency of energy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-01</td>
       <td>Viagra Boys</td>
@@ -640,7 +642,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -669,7 +671,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/PSpiqCzzB2jOW5hC27pNnAF34Fm5oDC_uqlqQJR5Qag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc0/NDg5LTE1NjY0MDcw/OTgtODIxMy5qcGVn.jpeg" alt="Cover for Dogrel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e4705a174dcf7b423e82ed06038263.png" alt="Cover for Dogrel" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-12</td>
       <td>Fontaines D.C.</td>
@@ -677,10 +679,12 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -702,10 +706,10 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 37</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 95</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 96</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 8</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 53</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 96</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -724,14 +728,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 52</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/mxmmjwUoM5l95ap_dGYQ77NgnwY_T1_AS-FuiICFRwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk4/OTcxLTE1NjU5NDA5/MjctMjU3Ni5qcGVn.jpeg" alt="Cover for When I Have Fears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/040a5ac17d48211ea4e82cfb60fd8f74.png" alt="Cover for When I Have Fears" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-16</td>
       <td>The Murder Capital</td>
@@ -739,6 +743,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
@@ -749,7 +754,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg" alt="Cover for Sunglasses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0d46999b5806b12ab6091da5fcf6e26.png" alt="Cover for Sunglasses" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-06</td>
       <td>Black Country, New Road</td>
@@ -760,8 +765,8 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 16</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 98</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 2</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +787,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 57</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +813,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/3MY8NNGQ_bVmEOhGkbdruzIOJsmCVJ75SfRtNRlAljU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY1/MDg1LTE2MTg1MjE3/NTktMTI1OS5qcGVn.jpeg" alt="Cover for West of Eden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7d3f492429796fd0a9cff8354c9eac8.png" alt="Cover for West of Eden" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-07</td>
       <td>HMLTD</td>
@@ -823,15 +828,15 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 84</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 96</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 4</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/zw6HBIFG_kbcXeO5x5eY_KiTlRNmCv81_rbNQI5D2IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODky/MzA2LTE2NTE2Mzcz/MjgtMTYzMi5qcGVn.jpeg" alt="Cover for Common Sense" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/194ef9897392b6c4dea54da427c3c817.png" alt="Cover for Common Sense" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-06</td>
       <td>Viagra Boys</td>
@@ -863,14 +868,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 59</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/Ygok5f_z4JEqC-abnYharRfgbadD-YTWa_0xkHVTRIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/ODU1LTE1ODUxNzY5/NjctMjk0MS5qcGVn.jpeg" alt="Cover for Sludge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a111dfa8494fe5fee7b4f466a490c86.png" alt="Cover for Sludge" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-24</td>
       <td>Squid</td>
@@ -906,7 +911,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/7irIvgToH30uykYOAo_1ioDKjkP3Xq2UPAMO3RLao7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg0/MDY4LTE1OTA1ODYx/NjUtODQyMC5qcGVn.jpeg" alt="Cover for Zero Dollar Bill" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ee64545cf47e4fb549f54e222074682.png" alt="Cover for Zero Dollar Bill" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>Do Nothing</td>
@@ -919,7 +924,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 30</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +949,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/WbOPlC-D5kVemtFb39INlc9hipUNgcU4rUHBJKLtn_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUx/Mjg4LTE1OTE3MzYx/NDktNTg5NC5qcGVn.jpeg" alt="Cover for Welcome to Bobby&#39;s Motel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22c8f80d2f6857d965f8d673ad0cc9fe.png" alt="Cover for Welcome to Bobby&#39;s Motel" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-26</td>
       <td>Pottery</td>
@@ -960,15 +965,15 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 55</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 57</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 58</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/srOLL5NgpQqpzfPWsv70NoUn6-ozA69nukxCIZus9pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk3/ODEzLTE1ODkzNjkx/ODYtNzIxMS5qcGVn.jpeg" alt="Cover for PAIN OLYMPICS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2bb67bece689115e77ecec20d9ea439.png" alt="Cover for PAIN OLYMPICS" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-17</td>
       <td>Crack Cloud</td>
@@ -976,21 +981,21 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 44</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 48</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/JF6CUBQ7YmxKeQqx9MyMz4taWUr5kX3bE034cIOOWq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjUy/ODM5LTE1ODg3MDk1/MTctOTc2NS5qcGVn.jpeg" alt="Cover for A Hero&#39;s Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26a07bde7cb26e937acf90255fdf240.png" alt="Cover for A Hero&#39;s Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-31</td>
       <td>Fontaines D.C.</td>
@@ -998,18 +1003,19 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/GXxE1mECku0cfJ2_nDHj9IOIGaWs5UXqF69bE0VDVXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MTcwLTE2MDk3Mjc3/NjMtNDgyOC5qcGVn.jpeg" alt="Cover for Ultimate Success Today" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db26fbdb3f1f8a29cbed36e4d5ed030.png" alt="Cover for Ultimate Success Today" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07</td>
       <td>Protomartyr</td>
@@ -1021,7 +1027,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1048,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 58</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1125,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 86</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1141,7 +1147,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 67</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1159,10 +1165,10 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 45</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 55</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 1</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 37</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 53</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1193,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/98FI4XPEH_FjyjRbS2hnYN-CfMKh50-I2L5yxM9QqV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA3/Nzg1LTE2MTAyMDM1/ODgtNTYyMi5qcGVn.jpeg" alt="Cover for Welfare Jazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86aa732914ad4d2a817fee09021fe1a6.png" alt="Cover for Welfare Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-08</td>
       <td>Viagra Boys</td>
@@ -1220,6 +1226,26 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
     </tr>
     <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcfad6b2b04e15791dbf2351791bf368.png" alt="Cover for Drunk Tank Pink" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-15</td>
+      <td>Shame</td>
+      <td>Drunk Tank Pink</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>37</td>
       <td>
       </td>
@@ -1245,24 +1271,6 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>2021-01-15</td>
       <td>Sleaford Mods</td>
       <td>Spare Ribs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcfad6b2b04e15791dbf2351791bf368.png" alt="Cover for Drunk Tank Pink" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-01-15</td>
-      <td>Shame</td>
-      <td>Drunk Tank Pink</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
@@ -1308,7 +1316,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 78</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1336,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 35</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1377,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 61</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1403,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Qv-U-ge7e6-4EFf4CDN2yz8LOdOWxp_4Ib9_g2Ve6kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTk4/NTMxLTE2MjAyMTU5/ODYtMjUwMS5qcGVn.jpeg" alt="Cover for Bright Green Field" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10665330bf1e97af57e52b98fe27386e.png" alt="Cover for Bright Green Field" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Squid</td>
@@ -1426,11 +1434,12 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 67</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 72</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 87</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 94</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 6</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1480,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 29</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1541,13 +1550,11 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1576,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 60</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1596,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 12</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1611,7 +1618,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 23</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1654,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 52</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1680,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/AClCAsRVd1EVzGNxzCeLVoMQp2e4uEwRlgg1W9OrVaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEw/Njg0LTE2NTcyMDI0/NjgtMjcyOS5qcGVn.jpeg" alt="Cover for Cave World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/200a9c16025ea953cd378aeb44b8d6f8.png" alt="Cover for Cave World" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-08</td>
       <td>Viagra Boys</td>
@@ -1685,7 +1692,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 48</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1732,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 73</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1745,12 +1752,12 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 44</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 78</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 54</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1772,14 +1779,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 61</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/aarl3XjpOuzzEFSMLZavQASmkHGFdX_rGsamMEiwIIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjUx/MTAyLTE2NjA5MzA5/NDktNDYwMy5qcGVn.jpeg" alt="Cover for Fairy Rust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16950d2743fc366fb4712c9684702e0.png" alt="Cover for Fairy Rust" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-19</td>
       <td>Wombo</td>
@@ -1793,14 +1800,14 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 6</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/sXFUyAh1JN_cAAGK5n3jqEfPX_FlMefzXKmZFUki0SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/Mjc1LTE2NjQ4Mjg5/OTAtMzU5My5qcGVn.jpeg" alt="Cover for Arrangements" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bf4086129f18361b2b8deaec5c52e84.png" alt="Cover for Arrangements" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Preoccupations</td>
@@ -1825,13 +1832,13 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       <td>Guitar Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a></li>
+            <li style="font-size: calc(1rem * 82.08955223880598 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 5</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1852,7 +1859,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 33</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1871,7 +1878,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 32</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1899,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 48</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1920,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 6</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1941,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 40</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1974,7 +1981,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 83</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +2001,7 @@ Crank wave is a raw, aggressive style of post-punk that emerged in the 2020s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 62</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 37</li>
         </ul>
       </td>
     </tr>

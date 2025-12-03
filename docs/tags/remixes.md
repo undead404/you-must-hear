@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:44:39.073Z
+date: 2025-12-03T11:10:42.314Z
 permalink: tags/remixes
 title: remixes
 ---
 
 ## remixes
 
-Last updated: <time datetime="2025-10-28T06:44:39.073Z">Tue Oct 28 2025 08:44:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:10:42.314Z">Wed Dec 03 2025 13:10:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/3B_Sx4phwlaO_I7qZQ8sbPKkusmwJduQcMTi_WAj9nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/Ni0xMzk1NDIyMzY1/LTg3NTQuanBlZw.jpeg" alt="Cover for Night Dubbing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba93e2a8b1948ecb9dd36d3607ec3928.png" alt="Cover for Night Dubbing" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-05-06</td>
       <td>Imagination</td>
@@ -87,7 +87,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 67</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 76</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 57</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 54</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +247,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 73</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 75</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 94</li>
         </ul>
       </td>
@@ -285,7 +285,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 81</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -310,6 +310,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb78032be6a9d5c49d54d36e3a93a6f.png" alt="Cover for I&#39;m Every Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-02-15</td>
       <td>Whitney Houston</td>
@@ -331,7 +332,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/YKJG_xByoJ7BMhE44bytSVhR--UqtWQdN3Z-7NaLpho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTg1/NTktMTQzNDEyNjg5/OC02MzU5LmpwZWc.jpeg" alt="Cover for Give Me All Your Luvin&#39; (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2400a60c00fc43a3bd39800a21e6e158.png" alt="Cover for Give Me All Your Luvin&#39; (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Madonna</td>
@@ -375,6 +376,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -413,15 +415,15 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 13</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -502,7 +504,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/BYiSC4dBuQimxjHH1P88DRzOqRxxxAq5G948JcHhdpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDgw/LTEyMjkwOTMyNjQu/anBlZw.jpeg" alt="Cover for Saturday 3am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/838d9106f6b7484186778ff5827ffaf2.png" alt="Cover for Saturday 3am" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Faithless</td>
@@ -557,7 +559,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/9vVzn_Ut3tuKHxMFawGm3cq8ylmKeOz1eXI5qHLu0Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzE5/ODgtMTM3MTc2MDM5/My00NzkyLmpwZWc.jpeg" alt="Cover for Paulina Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68a91368535b23fe16117d2a10637f9f.png" alt="Cover for Paulina Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Paulina Rubio</td>
@@ -577,7 +579,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/j2VVY4eondr_oUbNLEDhJXDVeOLRo3Oh7DL_xpmKcmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTQx/NC0xMjcwNzIwNzYy/LmpwZWc.jpeg" alt="Cover for Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cec16efed524f4fa4f668b06152b513.png" alt="Cover for Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Johnny Cash</td>
@@ -635,24 +637,25 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 54</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99b6245686934ecf8106a582ffccf6f5.png" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-26</td>
       <td>Leftfield</td>
@@ -786,6 +789,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85ea74c5f1b3d15379047128bc0d0eba.png" alt="Cover for (there&#39;s gotta be) More To Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-02</td>
       <td>Stacie Orrico</td>
@@ -898,6 +902,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06c0fdc3bfbc4d008d807e8f2f2f9ca8.png" alt="Cover for Buenos Aires Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-10</td>
       <td>Tanghetto</td>
@@ -912,14 +917,14 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 73</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/RQGq2z4TAvMdBZ_-kO1mPFJhAmmrI08Uyis9506otyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODU1/MC0xMzYwMjc2MDc0/LTIwNjQuanBlZw.jpeg" alt="Cover for Dragonfly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58c57e0cb1a27570916bd5d9729c2b0.png" alt="Cover for Dragonfly" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-18</td>
       <td>Android Lust</td>
@@ -1015,7 +1020,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/FxEMmx1T57ffuuOlqqaIeZBHFl3ZPvl5SIkc9zGG-A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzYx/MjUtMTM2ODg3MTkw/Ni0zMzMwLmpwZWc.jpeg" alt="Cover for I Decided (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4930bc3a306a099dbae58f703e6db2ba.png" alt="Cover for I Decided (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Solange</td>
@@ -1076,21 +1081,22 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2d3e5b8ccd6c97cbfb2a5c101c3adfc.png" alt="Cover for Rainydayz Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02</td>
       <td>Amplive</td>
@@ -1200,14 +1206,14 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 62</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/SHI6RmU7GvQd5HHGUhBxA9uhC9_vTD9I54hM494s4RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIz/MjAtMTQ5MDY2NzI1/MC0zMTA5LmpwZWc.jpeg" alt="Cover for Finally Enough Love: 50 Number Ones" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3714e9479fe6d40d79946d3017231126.png" alt="Cover for Finally Enough Love: 50 Number Ones" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Madonna</td>
@@ -1221,14 +1227,14 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 80</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/2no04JDT_dpflG28vWRIPxuetoEpEODd2qBOTdXxW7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM3/Mi0xMzE1Nzc2NTg5/LmpwZWc.jpeg" alt="Cover for Million Dollar Bill Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a87955b14e5b485f890d86b0829f83a6.png" alt="Cover for Million Dollar Bill Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10</td>
       <td>Whitney Houston</td>
@@ -1341,7 +1347,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/jhAATDuzItyYMiMwO5EU_sds9O5DXU0mAeNoKTS44Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjcy/ODQtMTMwNzgxOTQw/MC5qcGVn.jpeg" alt="Cover for An Alternative Solution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/483d0a0e77db45bfa6295a8d7f095f93.png" alt="Cover for An Alternative Solution" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-20</td>
       <td>Mesh</td>
@@ -1430,7 +1436,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 56</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1498,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 47</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1570,7 +1576,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/U9Sq7K7wvbaB2vR--jNIWFuFOEyNv9dddCxN4JxwLXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQ3/NzctMTM3MzQ4MTE5/NS05MDMzLmpwZWc.jpeg" alt="Cover for Alive (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/170aa58a26cf46c5a0f035b515d95500.png" alt="Cover for Alive (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-04</td>
       <td>Empire of the Sun</td>
@@ -1623,7 +1629,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1688,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/QmDDJrRnSY7MiF1W8nBkiS8EoGfaxXr-EttkRxNtS-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjMw/MjctMTQwOTA2NzEz/NS01MTAwLmpwZWc.jpeg" alt="Cover for If You Wait (Remixes 2)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c983f71993244bfc4ea54b4adea3b39.png" alt="Cover for If You Wait (Remixes 2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>London Grammar</td>
@@ -1700,7 +1706,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 67</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1752,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/-mmHT2lswBFr51u9cSjgh_Hefi1tqW0fyqR7CbP4xho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODk4/OTctMTQzODEwNzg2/Ny0xNjE3LmpwZWc.jpeg" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6792472a50384c19ccef582fbaec1da9.png" alt="Cover for The Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-17</td>
       <td>Britt Nicole</td>
@@ -1779,7 +1785,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 79</li>
+            <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1804,9 +1810,9 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 33</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 35</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 88</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 12</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 47</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1890,14 +1896,14 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 68</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/eaLySEeHb0i9C2nopnP2bxWDe1K3lBsVsQPpi08_6mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE1/NzQ3LTE1NzYxMzU4/NzEtNjYxNy5qcGVn.jpeg" alt="Cover for The Doors Remixed (Unreleased LP)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/901e95a9f9ef4bc783f6e0d7af7ca8a4.png" alt="Cover for The Doors Remixed (Unreleased LP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-09</td>
       <td>Infected Mushroom</td>
@@ -1912,6 +1918,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1944,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/VTY7roJHkTuUMM1OBcG73XwQQCbleAP2nwW5m-KuwtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/OTAtMTUxMDYyNDQy/NC0xMDc2LmpwZWc.jpeg" alt="Cover for Angels Advocate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdb1f0b55ebf74ef95d6a4c700ddfb06.png" alt="Cover for Angels Advocate" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-28</td>
       <td>Mariah Carey</td>
@@ -1975,6 +1982,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53ea113cfc99798873e70bf999df016.png" alt="Cover for Ice On My Teeth (Festa Remixes 2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-10</td>
       <td>ATEEZ</td>
@@ -1994,15 +2002,13 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3616f7800e4dd1ba9c14c67cb3905c9.png" alt="Cover for Ice On My Teeth (Festa Remixes 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-10</td>
       <td>ATEEZ</td>
       <td>Ice On My Teeth (Festa Remixes 1)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a></li>
         </ul>
       </td>
       <td>
@@ -2013,7 +2019,7 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/AIF_Y5jafNQy4SVbNXOIPGnMB6mvB0o0IcGQULyq6HI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE5/MC0xNTc4ODQzODQ2/LTU3OTkuanBlZw.jpeg" alt="Cover for Rio Grande Dub(ya)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/601905de49a6484f932db0d88472e8f6.png" alt="Cover for Rio Grande Dub(ya)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Ministry</td>
@@ -2067,13 +2073,14 @@ A remix reimagines an existing song by altering its arrangement, tempo, or instr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 29</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8103c1db50ac6aa19434138323a86e09.png" alt="Cover for credits song for my death but someone actually dies" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Altronote</td>

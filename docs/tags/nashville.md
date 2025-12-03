@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T17:43:06.997Z
+date: 2025-12-03T11:30:35.333Z
 permalink: tags/nashville
 title: nashville
 ---
 
 ## nashville
 
-Last updated: <time datetime="2025-11-24T17:43:06.997Z">Mon Nov 24 2025 19:43:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:30:35.333Z">Wed Dec 03 2025 13:30:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -427,7 +427,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 58</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 43</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 72</li>
         </ul>
       </td>
@@ -871,7 +871,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 60</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -978,9 +978,9 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 2</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 99</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 100</li>
         </ul>
@@ -1223,7 +1223,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 58</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 43</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 78</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
         </ul>
@@ -1288,7 +1288,7 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/nE8GYBcgBF0Nv2_v0yOeBdb-KyBnvXj_xpa8uAGAJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/NzAxLTE1MzI3OTc0/MzktNjIwOC5qcGVn.jpeg" alt="Cover for Chasing After Shadows... Livin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a55389d31a864deebb3048c74dcf6361.png" alt="Cover for Chasing After Shadows... Livin" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-27</td>
       <td>Hammock</td>
@@ -1478,7 +1478,6 @@ The &quot;nashville&quot; tag represents music connected to Nashville&#39;s dive
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
         </ul>
       </td>
       <td>

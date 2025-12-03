@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:07:16.769Z
+date: 2025-12-03T11:26:31.823Z
 permalink: tags/symphonic-prog
 title: symphonic prog
 ---
 
 ## symphonic prog
 
-Last updated: <time datetime="2025-11-23T10:07:16.769Z">Sun Nov 23 2025 12:07:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:26:31.823Z">Wed Dec 03 2025 13:26:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -59,7 +59,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +297,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -556,8 +556,8 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 26</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 34</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +578,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +700,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 34</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +741,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +797,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 78</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +899,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 31</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 69</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 73</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 85</li>
         </ul>
@@ -968,7 +968,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 43</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1074,7 +1074,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1111,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1185,7 +1185,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1276,7 +1276,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1293,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 29</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1431,11 +1431,11 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 9</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 71</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 16</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1479,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1504,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1567,6 +1567,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1608,7 +1609,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 10</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1686,6 +1687,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1726,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1794,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 64</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1812,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1937,9 +1939,9 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 18</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 23</li>
-            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 70</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 69</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2017,7 +2019,7 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2051,7 +2053,6 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2071,9 +2072,9 @@ Symphonic prog blends progressive rock&#39;s complexity with orchestral grandeur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 29</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 94</li>
         </ul>
       </td>
     </tr>

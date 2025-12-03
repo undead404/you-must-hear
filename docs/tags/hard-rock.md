@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T18:00:53.138Z
+date: 2025-12-03T11:10:47.798Z
 permalink: tags/hard-rock
 title: hard rock
 ---
 
 ## hard rock
 
-Last updated: <time datetime="2025-11-04T18:00:53.138Z">Tue Nov 04 2025 20:00:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:10:47.798Z">Wed Dec 03 2025 13:10:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,6 +42,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -60,7 +61,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 90</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -95,7 +96,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +239,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 40</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -260,8 +261,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +287,6 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
     <tr>
       <td>83</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b785009dbb0e6ce488d0a8f74d313f31.png" alt="Cover for Agents of Fortune" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-05-21</td>
       <td>Blue Öyster Cult</td>
@@ -336,7 +336,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 61</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 100</li>
         </ul>
       </td>
@@ -400,7 +400,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
     <tr>
       <td>73</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abb9d954f36443fac33266710e8b0a07.png" alt="Cover for Dynasty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d159f46996e348cdac97bbaf372c6978.png" alt="Cover for Dynasty" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-05-23</td>
       <td>Kiss</td>
@@ -411,7 +411,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 78</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -467,8 +467,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 68</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 99</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -574,9 +574,9 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 51</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 77</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 23</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +595,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 42</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 32</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -668,7 +668,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 6</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +882,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 60</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -900,7 +900,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 28</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +936,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +990,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 44</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1011,8 +1011,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 72</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 83</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1049,8 +1049,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 19</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 39</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1073,9 +1073,9 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 87</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 12</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 35</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1128,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 48</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1148,7 +1148,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 50</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 57</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1224,15 +1224,17 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 4</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 23</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/-GNm-VqzB3dMXg0EgWZinsUk84pTlpLPDcoJvs-Sxyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE1/ODUtMTU0MTQ1NTg2/MS0zNDM1LnBuZw.jpeg" alt="Cover for Eagles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84908f1af1b03def2b168a4bff54f2c.png" alt="Cover for Eagles" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-15</td>
       <td>Eagles</td>
@@ -1246,7 +1248,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 96</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1284,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 54</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1302,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 35</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1317,8 +1321,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 10</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 58</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 16</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1388,7 +1392,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1426,8 +1430,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 85</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 98</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 82</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1481,7 +1485,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 88</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1516,13 +1520,14 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 54</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d12054d02464be6cb8b7d915ca99180.png" alt="Cover for Physical Graffiti (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-10</td>
       <td>Led Zeppelin</td>
@@ -1588,6 +1593,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 2</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 95</li>
         </ul>
       </td>
@@ -1606,7 +1612,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 66</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1624,7 +1630,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 56</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1716,8 +1722,8 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 77</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1763,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 17</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1783,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 64</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1802,7 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 48</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1816,9 +1822,9 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 57</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 66</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 86</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 43</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 73</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 87</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:31:31.911Z
+date: 2025-12-03T11:26:20.722Z
 permalink: tags/dubstep
 title: dubstep
 ---
 
 ## dubstep
 
-Last updated: <time datetime="2025-11-26T04:31:31.911Z">Wed Nov 26 2025 06:31:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T11:26:20.722Z">Wed Dec 03 2025 13:26:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -117,7 +117,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 57</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -191,9 +191,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 37</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 61</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 83</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +411,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 98</li>
         </ul>
       </td>
@@ -524,7 +524,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 84</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 98</li>
         </ul>
       </td>
@@ -769,7 +769,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 67</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -992,7 +992,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 2</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1032,7 +1032,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 65</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 86</li>
         </ul>
       </td>
@@ -1072,8 +1072,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 32</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 88</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
         </ul>
@@ -1302,9 +1302,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 45</li>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 77</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 99</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 2</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 24</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1400,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 97</li>
         </ul>
@@ -1423,8 +1423,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 1</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1448,8 +1448,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 56</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 45</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 98</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 99</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 100</li>
@@ -1475,9 +1475,9 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
             <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 93</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 99</li>
         </ul>
@@ -1554,8 +1554,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 22</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 38</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 76</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
         </ul>
       </td>
@@ -1578,7 +1578,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 74</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 82</li>
         </ul>
       </td>
@@ -1637,7 +1637,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 27</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 100</li>
         </ul>
       </td>
@@ -1723,7 +1723,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 68</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 33</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 98</li>
         </ul>
       </td>
@@ -1765,7 +1765,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1823,8 +1823,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 71</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 49</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 72</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
         </ul>
       </td>
@@ -1905,8 +1905,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 46</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 54</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 59</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 84</li>
         </ul>
       </td>
@@ -1948,7 +1948,7 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 65</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 36</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 89</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 91</li>
         </ul>
@@ -1973,8 +1973,8 @@ Dubstep is an electronic music genre that originated in the UK in the late 1990s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 67</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 96</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 99</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 100</li>
         </ul>
