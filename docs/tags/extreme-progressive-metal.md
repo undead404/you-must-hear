@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:28:50.987Z
+date: 2025-12-03T03:40:25.346Z
 permalink: tags/extreme-progressive-metal
 title: extreme progressive metal
 ---
 
 ## extreme progressive metal
 
-Last updated: <time datetime="2025-12-03T03:28:50.987Z">Wed Dec 03 2025 05:28:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:40:25.346Z">Wed Dec 03 2025 05:40:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 

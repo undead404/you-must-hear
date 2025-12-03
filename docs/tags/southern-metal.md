@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:54:42.196Z
+date: 2025-12-03T03:36:23.265Z
 permalink: tags/southern-metal
 title: southern metal
 ---
 
 ## southern metal
 
-Last updated: <time datetime="2025-11-23T03:54:42.196Z">Sun Nov 23 2025 05:54:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:23.265Z">Wed Dec 03 2025 05:36:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,6 +84,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 2</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 93</li>
             <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 100</li>
         </ul>
@@ -105,7 +106,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 72</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 73</li>
             <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 96</li>
         </ul>
       </td>
@@ -373,7 +374,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 34</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -485,8 +486,8 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 35</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 68</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +638,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 36</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 37</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 84</li>
         </ul>
       </td>
@@ -699,7 +700,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 34</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +759,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 53</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 55</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 88</li>
             <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 99</li>
         </ul>
@@ -824,7 +825,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/ntUTZ4IRd_xuJQvgzmOfGgM2kIZWy9RVffWwUA7m17Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/OTk0LTE1NjExMTYz/ODktMjE1NC5qcGVn.jpeg" alt="Cover for Act of Goat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccef47f2523c44b891b6cdfb75f0d56e.png" alt="Cover for Act of Goat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Juggernaught</td>
@@ -872,7 +873,6 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       <td>New Junk Aesthetic</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -901,7 +901,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/aAtWHgs4S_0Qr0Zm7d924s9hsJgQ4LLbfqLtQ7tWVas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/MDYtMTQxODA4ODMy/My01MTI5LmpwZWc.jpeg" alt="Cover for Cathedrals &amp; Bleeding Kansas split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/430828dcf34cd47618c71b36f0549449.png" alt="Cover for Cathedrals &amp; Bleeding Kansas split" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-17</td>
       <td>Bleeding Kansas</td>
@@ -1000,13 +1000,14 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 16</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/086ae85651c64179b75af29fa34b6764.png" alt="Cover for Rollin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-06</td>
       <td>Texas Hippie Coalition</td>
@@ -1238,7 +1239,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 51</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1356,7 +1357,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 32</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1382,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/pBJvNaFOASwxzZk1Aa8RCDbexJrpZBdp4voDoDgQfpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQz/MzQtMTM3OTU4NDY4/MS03NDU3LmpwZWc.jpeg" alt="Cover for We Owe You Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9fd197ef5744662a169a1d0deec5a67.png" alt="Cover for We Owe You Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-17</td>
       <td>Disane</td>
@@ -1611,7 +1612,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 20</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1639,7 +1640,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/ZKEAsSWXIZMGcFg4CCfk5zXe2LnPT-hTxlsh_9_6hk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIx/NDY5LTE1MjY3MjE5/MTQtMTcwNS5qcGVn.jpeg" alt="Cover for Смута" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/871cdae39eb393ef8849c33f0c75a27a.png" alt="Cover for Смута" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-04</td>
       <td>Mor</td>
@@ -1697,7 +1698,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 64</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 66</li>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 99</li>
         </ul>
       </td>
@@ -1887,6 +1888,7 @@ Southern metal blends heavy metal&#39;s aggression with the groove and swagger o
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8c7c70dbf5c48eb8ddbf24761bae143.png" alt="Cover for BaPTIZED IN WHISKEY" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hundred Proof</td>

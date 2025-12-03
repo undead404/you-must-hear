@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:23:01.844Z
+date: 2025-12-03T03:39:20.932Z
 permalink: tags/welsh
 title: welsh
 ---
 
 ## welsh
 
-Last updated: <time datetime="2025-11-11T10:23:01.844Z">Tue Nov 11 2025 12:23:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:20.932Z">Wed Dec 03 2025 05:39:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/9AaS2J5tWsiN8ioCSz1aaNTiylo2CjjyKMJGHu8mRms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzMz/MTYtMTM0Mzg0MzI0/NC05NTc4LmpwZWc.jpeg" alt="Cover for Welsh Folk Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a94ccf0e2f4def0fa9af3e6080f81d10.png" alt="Cover for Welsh Folk Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Meredydd Evans</td>
@@ -148,8 +148,8 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 76</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -249,6 +249,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdbb05dc0849aab899272a04bcfbb2d1.png" alt="Cover for Strength" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-10</td>
       <td>The Alarm</td>
@@ -326,7 +327,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/DPBXQx7mDKZ59HjxpfB7inYmI_wnSDQXF5KXmfAQdJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU5/MTctMTMwMjc4MTY2/NS5qcGVn.jpeg" alt="Cover for Change" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1385d39e17b64e6d8f05d550f0c6c9bb.png" alt="Cover for Change" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-09</td>
       <td>The Alarm</td>
@@ -344,7 +345,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/312URbtfEkxWVPe-vgBjNxNphzmz7NaXG9duHWrRj7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzg2/MDUtMTM4NTU0MDE0/My04NTUzLmpwZWc.jpeg" alt="Cover for Blas Y Pridd &#x2F; Golau Tan Gwmwl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cee18888894400ab20561b5f76c2034.png" alt="Cover for Blas Y Pridd &#x2F; Golau Tan Gwmwl" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Plethyn</td>
@@ -375,7 +376,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 80</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +403,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/WimSq8OQxNk8OWE0bITlAlZi0tdrKbNzwajFQvhJCPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEw/NjI5LTE1MTAwODk0/ODUtMzQ4NC5qcGVn.jpeg" alt="Cover for Seidir Ddoe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090bef52ac04485cac32595907780ad0.png" alt="Cover for Seidir Ddoe" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Plethyn</td>
@@ -486,7 +487,6 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       <td>Fuzzy Logic</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
         </ul>
       </td>
       <td>
@@ -505,7 +505,6 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
         </ul>
       </td>
       <td>
@@ -547,7 +546,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 60</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +568,8 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 87</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -686,6 +686,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db7c673022d2a56b6b68f16782dd2191.png" alt="Cover for Mwng" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-15</td>
       <td>Super Furry Animals</td>
@@ -719,7 +720,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/cxmIE6h4Hw43t1l2atN-1vSC01xEPshqsANSBEXG_r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg0/NjItMTI5NjY5MjM1/MC5qcGVn.jpeg" alt="Cover for Songs Of Ignorance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37dc850e3739b3a95caa0f53bd00db8e.png" alt="Cover for Songs Of Ignorance" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-28</td>
       <td>Murry the Hump</td>
@@ -778,7 +779,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/QWy4XMw9aAEFYzZVH7rgTKecsnomrl_guOf_bZycn9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDE0/NC0xMTcyMzA4MjEw/LmpwZWc.jpeg" alt="Cover for Pathway to Deviance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/293fd6dc9a5328334628e55a6f7142d3.png" alt="Cover for Pathway to Deviance" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Desecration</td>
@@ -817,7 +818,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/dl7IQc19nCFVvPjtN8gN85gnFQaJ2FzLdH9S0Bw8JQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODgy/MzAtMTMyNDEwNjMy/Ni5qcGVn.jpeg" alt="Cover for Haiku" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cabe98161ef692d2369ab3239aebe4bf.png" alt="Cover for Haiku" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Songdog</td>
@@ -845,7 +846,6 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       <td>Phantom Power</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
         </ul>
       </td>
       <td>
@@ -883,7 +883,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/anl62hZcUCYWkvg5MnNwws_SB-PV7wRfBLEUlvEgnXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcy/NDA2LTE1MTg3MjU1/MjQtNTk2My5qcGVn.jpeg" alt="Cover for Clychau Dibon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/404132f2c935170030eb794c9855d00b.png" alt="Cover for Clychau Dibon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Catrin Finch</td>
@@ -898,7 +898,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 91</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 93</li>
             <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 98</li>
         </ul>
       </td>
@@ -1032,7 +1032,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/CpOGKhkbnsrRv9lZkRjtlKQHdr5H-qLrpzvljBE34mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTUz/MS0xMTI1ODMyNzIz/LmpwZWc.jpeg" alt="Cover for Love Kraft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37d67b71d97543fe90330fb5ce7f8f31.png" alt="Cover for Love Kraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Super Furry Animals</td>
@@ -1243,7 +1243,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/XX5JHJt-1HwQr5Z8NnqNFYkJ4HMeDQxQtPt5ILgZWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NDktMTE5MzExODU4/Ny5qcGVn.jpeg" alt="Cover for The world keeps spinning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/062065ff3e034a3e8e1ec6da0e93ceb0.png" alt="Cover for The world keeps spinning" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Snowmobile</td>
@@ -1272,7 +1272,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/p4Nvwcb6IW4HzzfVKt1U3fssHcUia09uNS1eC4AFyVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzg2/MDAtMTUyNDkyNjYx/My0xMjI5LmpwZWc.jpeg" alt="Cover for Attack Attack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eed0057f71804eb0b5ead33b30b8ffd8.png" alt="Cover for Attack Attack" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Attack! Attack!</td>
@@ -1434,13 +1434,11 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       <td>A Balloon Called Moaning</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1499,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/EJU0mNs1RAr4fC2vCpS-ZIXNXsW0JNAiewif-pahcnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY2/NDktMTI5MTY1MTgy/Ni5qcGVn.jpeg" alt="Cover for Streets Of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f274d42b03543f38b4f27a5c625fac3.png" alt="Cover for Streets Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-20</td>
       <td>Glass Pear</td>
@@ -1551,7 +1549,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/l7K_mkyfWPvYIEYP6xIYff1UtUvLqLXwBs4JdbshPFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODAy/NjQtMTQ2MDQ4MDI5/Mi04ODgzLmpwZWc.jpeg" alt="Cover for Adlais" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72423d11b100e0ab01cc4832698bf4e7.png" alt="Cover for Adlais" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-05</td>
       <td>Dan Amor</td>
@@ -1637,7 +1635,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/yByZmC3O8rS2e64wfHZobsnQR2f0bt5a46VFzeS2QNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/NjEtMTMyMTM2NTc0/OC5qcGVn.jpeg" alt="Cover for The Broken Vinyl Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/515bf90d5b1f4d0baff8c127f1089d41.png" alt="Cover for The Broken Vinyl Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>The Broken Vinyl Club</td>
@@ -1719,7 +1717,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/D8NLZoU-sBn5b8eBEod3U0uMR4GPbyyxt9fcgqzWhQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTky/MTQtMTM5ODE1NDU1/OC0yNTU3LmpwZWc.jpeg" alt="Cover for Myrrh &amp; Myth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bb18328e0ad45069c25225858fc9a1c.png" alt="Cover for Myrrh &amp; Myth" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-24</td>
       <td>Golau Glau</td>
@@ -1783,7 +1781,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/RN4HxvXheJWKshohVYF7Nue_73HcGobFDsdeV5VtOW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDI3/OTM5LTE3MjMwODU4/MjctNTEwMy5qcGVn.jpeg" alt="Cover for Serol Serol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c64d94f9d5945b3944f9e1d80afd4dfa.png" alt="Cover for Serol Serol" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Serol Serol</td>
@@ -1818,7 +1816,9 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 25</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 16</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1958,6 +1958,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b44f9507a875ffd9d5dc327905ab0d.png" alt="Cover for Space, Time &amp; Plexiglass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>One Inch Man</td>
@@ -1968,10 +1969,10 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 1</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 2</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 76</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1992,7 +1993,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 1</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2058,6 +2059,7 @@ Welsh music encompasses diverse genres from indie rock to pop, unified by artist
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b065c278b6b2f35384356ee43ba6e6b.png" alt="Cover for Dirge" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Naenia</td>

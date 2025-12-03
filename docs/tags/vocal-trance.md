@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T05:05:52.924Z
+date: 2025-12-03T03:39:46.897Z
 permalink: tags/vocal-trance
 title: vocal trance
 ---
 
 ## vocal trance
 
-Last updated: <time datetime="2025-10-30T05:05:52.924Z">Thu Oct 30 2025 07:05:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:46.897Z">Wed Dec 03 2025 05:39:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bca7867fbd6f42a3837f783b27588c51.png" alt="Cover for Anjunabeats Volume Three" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -100,7 +101,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 83</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +127,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/o5T1k9ZuiAbGqRR2k7jsahpCFDx93Mz8FdREaQntoUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzE5/MDAtMTQzMzg1OTcy/Ni03Nzc3LmpwZWc.jpeg" alt="Cover for FMA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38a4502eb7a9ae699c005950f20f1d4e.png" alt="Cover for FMA" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Grace</td>
@@ -184,7 +185,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/_zYVFqhngN5bhgpoWk-VqmS6CVYINkNklGLYvrloz7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMz/Mi0xNTY4MzA2NDU4/LTMxMjIuanBlZw.jpeg" alt="Cover for Karma (Disk 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0517c76bc724a5e918f25751fde9c44.png" alt="Cover for Karma (Disk 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Delerium</td>
@@ -197,7 +198,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -240,6 +241,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1412c4047fd8e626cefa8451ece96c9c.png" alt="Cover for Toca" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-15</td>
       <td>Fragma</td>
@@ -251,7 +253,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 28</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +272,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 55</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 56</li>
             <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 66</li>
         </ul>
       </td>
@@ -290,6 +292,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -326,13 +329,14 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 18</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d884ea3bd55441f593a67cf2fcaaa140.png" alt="Cover for Believe" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-15</td>
       <td>4 Strings</td>
@@ -352,7 +356,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/OwO7KrMoPsfxT60CEY_2NAKZOBPaCNWtyRSGOFX865g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUw/NC0xMTI3MDg5Nzky/LmpwZWc.jpeg" alt="Cover for As The Rush Comes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10a915bf080fa95d990125a41361f181.png" alt="Cover for As The Rush Comes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-30</td>
       <td>Motorcycle</td>
@@ -364,7 +368,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 94</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +386,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 74</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +415,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/SsPiIbAHqrrSTKII1BwWPje6plgewjyRtTY7kHk_NFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzMy/MC0xMDk3NDAzNjM3/LmpwZw.jpeg" alt="Cover for Just Be" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66f8e9123a074d3bad3a887f93dc27d0.png" alt="Cover for Just Be" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Tiësto</td>
@@ -423,14 +427,14 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 92</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/c7haezgV9n_360IZYiLz-F6xuVzc6GLmXcgdUyi__tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzUz/MS0xMjY0MDA3MzQ5/LmpwZWc.jpeg" alt="Cover for No One On Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6336b217d8243bf814b75a28b7767a6.png" alt="Cover for No One On Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Above &amp; Beyond</td>
@@ -442,8 +446,8 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 27</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 29</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -563,6 +567,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffa2a88a33e65c7f91101a39f981b32.png" alt="Cover for Det Gör Ont En Stund På Natten Men Inget På Dan" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-04</td>
       <td>Lena Philipsson</td>
@@ -632,7 +637,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +682,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/JxtRJSVUGwD1MwJfwN5iA_xfh4pexs3IcKAXqxRis5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzEx/OS0xMjQ2NjU3MzEz/LmpwZWc.jpeg" alt="Cover for Can&#39;t Sleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb0b7d282b594eddbd108768a7213580.png" alt="Cover for Can&#39;t Sleep" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Above &amp; Beyond</td>
@@ -696,6 +701,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd3e9b1eb42664642c05c5518ca7f4b.png" alt="Cover for Tri-State" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-06</td>
       <td>Above &amp; Beyond</td>
@@ -708,14 +714,14 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 46</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 66</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/9DCSD-ITqDQYbuctAa1GZGkwdS-2qvf9Yt_cZpnIJ0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY2/NzItMTIwNDM3NjYx/NS5qcGVn.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4021ebe4b5338fa6a02ba9e9e2f5e36c.png" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-20</td>
       <td>Velvet</td>
@@ -735,7 +741,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/wPJvl5gZD4RH--HYWALJBGz1D-tc87OUwHa4CXwqpoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/MDU5LTE2MDExNTEw/ODItNzkzMi5qcGVn.jpeg" alt="Cover for Great Spirit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc61dfc164be05ee5b5480bc846dbc6a.png" alt="Cover for Great Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-13</td>
       <td>Armin van Buuren</td>
@@ -752,7 +758,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 2</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 84</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +822,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/z02ADjMb4beuSjW_aZrFhAtXx2LDVejgIyanms36BXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjA5/Ny0xNTY3MzYzMTMz/LTQzMDQuanBlZw.jpeg" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3be6356e2dd4527c56c2c748172ae62.png" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-05</td>
       <td>Jes</td>
@@ -929,6 +935,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0d2a9123d3a2c4dca4a46415e0a4e11.png" alt="Cover for Imagine" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-18</td>
       <td>Armin van Buuren</td>
@@ -940,7 +947,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 75</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -967,7 +974,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/rKoFXYrP3Iz6euLrZmDxCPX3R2jIkvZLkO9b7ZtpoZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM3/NTMtMTIyNTcwOTcx/NS5qcGVn.jpeg" alt="Cover for Twice In A Blue Moon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9d03b16b1d4aa79cc1a5bfe0352002.png" alt="Cover for Twice In A Blue Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-01</td>
       <td>Ferry Corsten</td>
@@ -998,13 +1005,14 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 5</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3a4ba9717a88206e1a302bfb68c8b31.png" alt="Cover for Vampire" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-07</td>
       <td>Myon &amp; Shane 54 feat. Carrie Skipper</td>
@@ -1043,7 +1051,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/2A32RI8SmOrobfz53t2vBTWQluRwDw3IAOgAmoW1e6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAx/NTAtMTI1NDU5MjE1/MS5qcGVn.jpeg" alt="Cover for Anjunabeats Volume 7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc7d580e2280e44daddbab847dac170e.png" alt="Cover for Anjunabeats Volume 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Above &amp; Beyond</td>
@@ -1065,8 +1073,8 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 58</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 86</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 59</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1102,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/tVK1nyzAcb6v2VBxLHtN1PNdKcd2LS_SDvPWZ8DGq9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk5/MzUtMTE5NDQ1OTAy/NS5qcGVn.jpeg" alt="Cover for The Best of Armin Only" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3962bc397518d8411b310bf6d708de83.png" alt="Cover for The Best of Armin Only" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Armin van Buuren</td>
@@ -1117,6 +1125,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b56208d8321496797d4dd98b45da5b6.png" alt="Cover for Wanderer" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Serge Devant</td>
@@ -1137,15 +1146,13 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/185b939cc9d14a7eca3f2dad2f68b9c9.png" alt="Cover for Future Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-01</td>
       <td>ATB</td>
       <td>Future Memories</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
@@ -1193,7 +1200,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 81</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 82</li>
             <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 94</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 98</li>
         </ul>
@@ -1217,7 +1224,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 82</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 83</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 98</li>
         </ul>
       </td>
@@ -1259,13 +1266,14 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 80</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb19a42aa70424eb6e99f375725c08a.png" alt="Cover for Feeling For Corners" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-14</td>
       <td>Julie Thompson</td>
@@ -1283,17 +1291,13 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28fba5362b147d39aea5cd627372e83.png" alt="Cover for 009 Sound System" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-17</td>
       <td>009 Sound System</td>
       <td>009 Sound System</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
@@ -1305,7 +1309,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/dbTYKTX-4XBClJmDLtBdT1ajrAlmKOS2zKRSynYas4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjcw/MjEtMTI4Mjk5MDc0/NC5qcGVn.jpeg" alt="Cover for Closer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aef55876794403383babc6e4ec33e06.png" alt="Cover for Closer" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-07</td>
       <td>Susana</td>
@@ -1340,6 +1344,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd2fd2fa2df4819811c7aa3d0d46ef1.png" alt="Cover for Northern Lights" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-17</td>
       <td>Gareth Emery</td>
@@ -1397,6 +1402,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4eb389a094ca8a74fb6e296139ff4.png" alt="Cover for Group Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-06</td>
       <td>Above &amp; Beyond</td>
@@ -1408,9 +1414,9 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 5</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 31</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 57</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 66</li>
             <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 69</li>
         </ul>
       </td>
@@ -1418,6 +1424,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04a615473b9548a7b753a6d7f90896cd.png" alt="Cover for Shooting Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-12</td>
       <td>tyDi</td>
@@ -1457,7 +1464,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/aDjlDwpoLXF15pGsSK3yAPad9kIrFskfKSt7RZcGyrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjI4/MzMtMTQwMTIwNjM2/My00NzgzLmpwZWc.jpeg" alt="Cover for WKND" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca5c102ba1447c38a957c74faa86f7e.png" alt="Cover for WKND" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-21</td>
       <td>Ferry Corsten</td>
@@ -1494,7 +1501,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 4</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 62</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1548,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/IxTwWQnbcsMiFZYulWZGeI_BpwYN6TJq8BL9HBDVNbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTk0/MzAtMTM4NjQ1OTMw/NS00Mzc1LmpwZWc.jpeg" alt="Cover for You Once Told Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da62bce317cc4e37a511457cd879e81e.png" alt="Cover for You Once Told Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-24</td>
       <td>Andain</td>
@@ -1581,6 +1588,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bceb7d8a100400cb77468144ee60347.png" alt="Cover for Intense" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Armin van Buuren</td>
@@ -1593,8 +1601,8 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 18</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 43</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 65</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 53</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1623,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 64</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1696,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1696,7 +1703,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 75</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 80</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 85</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 89</li>
@@ -1716,7 +1722,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1724,17 +1729,16 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 79</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 84</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 92</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 92</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/kpbefixnexbt8Jupl2v1252I97a9BbW5RMD91CsRcxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUy/MDEyLTE1OTAxNjg5/NjgtMTM5Ny5qcGVn.jpeg" alt="Cover for Blah Blah Blah" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca8daa243eb993fc8619c897fcb9b89b.png" alt="Cover for Blah Blah Blah" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>Armin van Buuren</td>
@@ -1751,7 +1755,8 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 1</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 97</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 20</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1777,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 74</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 82</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 100</li>
         </ul>
       </td>
@@ -1813,7 +1818,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 84</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 85</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 94</li>
         </ul>
       </td>
@@ -1830,7 +1835,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1838,7 +1842,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 73</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 78</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 87</li>
         </ul>
@@ -1857,7 +1860,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1865,7 +1867,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 66</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 70</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 78</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 80</li>
@@ -1885,7 +1886,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1893,7 +1893,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 81</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 86</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 93</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 95</li>
@@ -1912,7 +1911,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1920,7 +1918,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 67</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 73</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 81</li>
         </ul>
@@ -1938,7 +1935,6 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -1946,7 +1942,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/madison-beer" | relative_url }}">madison beer</a> # 87</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 3</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 94</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 97</li>
         </ul>
@@ -1971,7 +1967,7 @@ Vocal trance is an electronic dance music genre that combines uplifting, melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 43</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 45</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:55:28.838Z
+date: 2025-12-03T03:38:13.842Z
 permalink: tags/american-indie
 title: american indie
 ---
 
 ## american indie
 
-Last updated: <time datetime="2025-10-28T05:55:28.838Z">Tue Oct 28 2025 07:55:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:38:13.842Z">Wed Dec 03 2025 05:38:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,7 +125,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 32</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 50</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 51</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 71</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 83</li>
         </ul>
@@ -153,7 +153,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 13</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 18</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 50</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 70</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 79</li>
@@ -199,7 +199,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 86</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 16</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 94</li>
         </ul>
       </td>
@@ -207,6 +207,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a153ef9eb30f9a1db1d3495551c095.png" alt="Cover for Rilo Kiley" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Rilo Kiley</td>
@@ -243,7 +244,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 20</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 19</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 48</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 62</li>
         </ul>
@@ -271,7 +272,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 67</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 68</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 98</li>
         </ul>
       </td>
@@ -279,6 +280,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd565bded4c42a9addd849b087c0feb.png" alt="Cover for Undone" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-14</td>
       <td>Artemis</td>
@@ -296,7 +298,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 66</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 67</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 91</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 94</li>
         </ul>
@@ -352,6 +354,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/238deaaefa9eeb6004cac8a3644a2945.png" alt="Cover for Goodbye to the Edge City" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-30</td>
       <td>Preston School of Industry</td>
@@ -366,14 +369,14 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 82</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/_CjaaNtI_kYoYpJtdjKjgF6JpAfUezk1CMxMeBu6b9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY1/NzItMTM3Mzg3ODcy/Mi04NzYzLmpwZWc.jpeg" alt="Cover for Blue Tofu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/993bf58b2ebc398a28cbf0bbae24a357.png" alt="Cover for Blue Tofu" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-31</td>
       <td>Blue Tofu</td>
@@ -440,7 +443,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 23</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 52</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 51</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 79</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 85</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 93</li>
@@ -502,7 +505,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/PTCZc5n5nnZb71vnz9vuSeW081QPjHuClSGt9dahXlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjQ2/Ni0xMTU3MjExNTg3/LmpwZWc.jpeg" alt="Cover for Evidence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfcc8e950ef479bbc52f3a0a7be655e7.png" alt="Cover for Evidence" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08</td>
       <td>Karmacoda</td>
@@ -514,7 +517,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 79</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 80</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 99</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 99</li>
         </ul>
@@ -542,7 +545,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a703c810e69508c1f68cc110ac2d1a5d.png" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Keston and Westdal</td>
@@ -562,10 +565,10 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 72</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
         </ul>
       </td>
@@ -611,8 +614,9 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 69</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 62</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 70</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
@@ -640,7 +644,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 54</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 69</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -664,6 +668,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd20388fb624576239c640f2f8b243df.png" alt="Cover for Melbaphonics" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12</td>
       <td>Waterjuice</td>
@@ -682,7 +687,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 60</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 61</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 91</li>
         </ul>
       </td>
@@ -708,7 +713,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 66</li>
         </ul>
       </td>
@@ -743,6 +748,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/629b191316d84a708e716bb05a7c4699.png" alt="Cover for Gravity" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-11</td>
       <td>Artemis</td>
@@ -758,8 +764,8 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 77</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 84</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 78</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 86</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 97</li>
         </ul>
       </td>
@@ -767,7 +773,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/HrEdCI-WDfAbYH64uwaNP6oa6c5NZQ_Z9L1BkUh8hvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTUz/OS0xMjIzMjI0NTAw/LmpwZWc.jpeg" alt="Cover for Free &amp; Easy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3655175f977efcc8138a84ee5e38b0ff.png" alt="Cover for Free &amp; Easy" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-01</td>
       <td>Lovespirals</td>
@@ -943,15 +949,16 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 61</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 81</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 12</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c010f8009380a1c8f4e19b8658d9c491.png" alt="Cover for In the Deep" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-01</td>
       <td>Jette-Ives</td>
@@ -977,7 +984,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 48</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 57</li>
         </ul>
       </td>
@@ -985,6 +992,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b755400de3974963d97a788e8a39afd0.png" alt="Cover for How Things Transpire" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Sutro</td>
@@ -1004,7 +1012,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 52</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 85</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 89</li>
@@ -1014,25 +1022,23 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/GOyb9mESfUNlvPG69R4XtSdt_bMeFhyHi68aeqqQp9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjI5/OC0xNTUyNTAzNDAw/LTcxMzQuanBlZw.jpeg" alt="Cover for The Trials Of Van Occupanther" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb537061481842e488a6425e2940c8a8.png" alt="Cover for The Trials Of Van Occupanther" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Midlake</td>
       <td>The Trials Of Van Occupanther</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 34</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 78</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 11</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 53</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 63</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 100</li>
         </ul>
       </td>
@@ -1146,7 +1152,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 26</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 29</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 75</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 83</li>
         </ul>
@@ -1178,7 +1184,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-13</td>
       <td>Keston and Westdal</td>
@@ -1204,10 +1210,10 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
@@ -1217,7 +1223,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/wA5gnLMCyc45e35ViqsWnTxfdisK5ak6fab55jiLD8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQz/MzMzLTE1MDg3ODg1/MjQtOTIzOS5qcGVn.jpeg" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19aeb6f2d8e84501b249b70b09a5c6e8.png" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03</td>
       <td>Karmacoda</td>
@@ -1235,7 +1241,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 75</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 76</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 96</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 97</li>
         </ul>
@@ -1244,7 +1250,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/_IBHz_3BC0IdN69jRgmxoK9CX0yQi8nkfKHleDEjy80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg3/OTctMTIyMjcyMzI4/My5qcGVn.jpeg" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7af4f0e37f4e0da3246a29e95cab48.png" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-19</td>
       <td>Worldwide Groove Corporation</td>
@@ -1310,8 +1316,8 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 61</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 73</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 62</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 76</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 98</li>
         </ul>
       </td>
@@ -1336,9 +1342,9 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 15</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 69</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 87</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 92</li>
         </ul>
       </td>
@@ -1346,7 +1352,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Ga7u6wByPgF1e3ibhj0mloTAblFePxPWNlEMWfTphdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg0/NDEtMTIwNDM1Mzg2/My5qcGVn.jpeg" alt="Cover for Long Way From Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/954be8724c104ad7a2f87a61f169b79f.png" alt="Cover for Long Way From Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-23</td>
       <td>Lovespirals</td>
@@ -1393,7 +1399,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Keston and Westdal</td>
@@ -1418,10 +1424,10 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 60</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 59</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 76</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
         </ul>
@@ -1430,7 +1436,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/jSPkuLDdyibGlUfpWwSH4zCkxSm2a8DsIuoVkApGrAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzI0/NDQtMTM3MDgwOTYy/Ny0xMzg2LmpwZWc.jpeg" alt="Cover for Liquid Journeys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a82f1a2736544d7cea7ab6787ee10de5.png" alt="Cover for Liquid Journeys" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Waterjuice</td>
@@ -1447,7 +1453,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 61</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 62</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 92</li>
         </ul>
       </td>
@@ -1498,7 +1504,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 17</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 21</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 80</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 86</li>
         </ul>
@@ -1575,7 +1581,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 28</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 43</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 76</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 82</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 89</li>
@@ -1653,13 +1659,14 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 53</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ddc2d5ab604c459ca5cc4e611bf948.png" alt="Cover for More Pleasant Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-07</td>
       <td>Under</td>
@@ -1671,7 +1678,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 8</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 12</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 41</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 63</li>
         </ul>
@@ -1694,7 +1701,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1724,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 7</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 4</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 82</li>
         </ul>
       </td>
@@ -1743,10 +1750,10 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 30</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 31</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 31</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1826,7 +1833,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 11</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 19</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 79</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 85</li>
         </ul>
@@ -1877,8 +1884,8 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 29</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 42</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 44</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 53</li>
         </ul>
       </td>
@@ -2132,7 +2139,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 18</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 21</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 27</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 56</li>
@@ -2189,7 +2196,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 6</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 10</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 60</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 71</li>
         </ul>
@@ -2301,12 +2308,12 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 54</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 87</li>
@@ -2334,7 +2341,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 12</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 11</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 46</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 60</li>
         </ul>
@@ -2370,7 +2377,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/hUOD7eVT-v0lAWeyTJf711LcCi2WrK2KolvSF5Ee4d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE4/ODItMTQ4NzM3NTAz/Ni0zOTM1LmpwZWc.jpeg" alt="Cover for Luminous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a0063c4f944377aaad17ecfba8b432.png" alt="Cover for Luminous" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-14</td>
       <td>Brother Sun Sister Moon</td>
@@ -2400,7 +2407,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/4EHqgKabzrXqIeL-XPPw8t5Ekm0ktinldnGRpnYAMwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTUy/LTE0NzE4NTQwOTkt/NTM5MC5wbmc.jpeg" alt="Cover for Atomic&#x2F;Atomix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e47b3b2ed4a4bdccb000b42583711e7.png" alt="Cover for Atomic&#x2F;Atomix" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-05</td>
       <td>Blondie</td>
@@ -2417,6 +2424,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 22</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 100</li>
         </ul>
       </td>
@@ -2451,7 +2459,7 @@ American indie encompasses the diverse spectrum of independently-minded rock and
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/PxvifV7iIukltdnjn4dXzp5H6Gm6ta--_m1BZgZrk7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODc5/NDE5LTE2NjYyMTc3/ODMtMTMzMy5qcGVn.jpeg" alt="Cover for Dishes Are Never Done but Good Luck" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fd2aa060d8ba9a16fa263a8c3eda9cf.png" alt="Cover for Dishes Are Never Done but Good Luck" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-05</td>
       <td>Helvetia</td>
@@ -2466,13 +2474,14 @@ American indie encompasses the diverse spectrum of independently-minded rock and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 12</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a34c7edad0f7452899cef227135c7e47.png" alt="Cover for Rainy Day Songs" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bridge Underwater</td>

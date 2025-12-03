@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:56:22.509Z
+date: 2025-12-03T03:38:09.476Z
 permalink: tags/london
 title: london
 ---
 
 ## london
 
-Last updated: <time datetime="2025-11-23T03:56:22.509Z">Sun Nov 23 2025 05:56:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:38:09.476Z">Wed Dec 03 2025 05:38:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -126,7 +126,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 33</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 32</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 60</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 94</li>
         </ul>
@@ -407,7 +407,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 8</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 7</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 39</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 88</li>
         </ul>
@@ -473,7 +473,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 94</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 95</li>
             <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 98</li>
         </ul>
       </td>
@@ -502,7 +502,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 11</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 14</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 89</li>
         </ul>
       </td>
@@ -566,7 +566,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 94</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 98</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 99</li>
             <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 100</li>
         </ul>
       </td>
@@ -681,9 +681,9 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 5</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 21</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -742,13 +742,13 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 39</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
@@ -771,7 +771,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 17</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1414,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 89</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1434,7 +1434,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 93</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1521,8 +1521,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 5</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1591,9 +1591,9 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 5</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 42</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 77</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1611,8 +1611,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 54</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1630,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1650,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1690,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 55</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1708,6 +1708,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1735,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       <td>
         <ul>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 57</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 82</li>
         </ul>
       </td>
@@ -1757,7 +1759,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1937,8 +1939,8 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 30</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 23</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
         </ul>
       </td>
@@ -2053,7 +2055,7 @@ London is a diverse contemporary music genre emerging from the UK capital that b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 43</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 46</li>
         </ul>
       </td>
     </tr>

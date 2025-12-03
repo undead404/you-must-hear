@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:54:05.643Z
+date: 2025-12-03T03:34:22.591Z
 permalink: tags/nu-metalcore
 title: nu metalcore
 ---
 
 ## nu metalcore
 
-Last updated: <time datetime="2025-11-23T03:54:05.643Z">Sun Nov 23 2025 05:54:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:34:22.591Z">Wed Dec 03 2025 05:34:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -86,7 +86,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 50</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +253,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 24</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +350,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -392,7 +392,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -487,9 +487,10 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 28</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 42</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 96</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 5</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 6</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 29</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +528,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 10</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -714,8 +715,8 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 4</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 8</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -832,25 +833,6 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
     </tr>
     <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92327e63c8f2611696ccb05be68ec6b7.png" alt="Cover for A Quiet Place To Die" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>Alpha Wolf</td>
-      <td>A Quiet Place To Die</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>62</td>
       <td>
           <img src="https://i.discogs.com/H5zeyE36R50TBDwMJid0vviq2wynvgOklLnLJoSSzAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjMx/MjQ3LTE2MzQ1NDQ0/NzktNjU4NC5qcGVn.jpeg" alt="Cover for Art of Being Human" style="max-width:120px; height:auto;" />
@@ -865,6 +847,24 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92327e63c8f2611696ccb05be68ec6b7.png" alt="Cover for A Quiet Place To Die" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Alpha Wolf</td>
+      <td>A Quiet Place To Die</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
@@ -905,7 +905,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 56</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1080,7 +1080,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 41</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1175,10 +1175,10 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 20</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 21</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 50</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 54</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1200,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1295,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 38</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1337,8 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 11</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1381,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 83</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 90</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1403,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1462,6 +1463,24 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
     </tr>
     <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4162988f8299d2bd7314ac97bc8fabb4.png" alt="Cover for The Sky, the Earth &amp; All Between" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Architects</td>
+      <td>The Sky, the Earth &amp; All Between</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52c5690a943934f3ad3b342de7f281b8.png" alt="Cover for What Do You Count To Fall Asleep?" style="max-width:120px; height:auto;" />
@@ -1498,7 +1517,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 79</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1537,7 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 92</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1937,23 +1956,6 @@ Nu metalcore blends the groove-oriented, hip-hop-influenced heaviness of early 2
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4162988f8299d2bd7314ac97bc8fabb4.png" alt="Cover for The Sky, the Earth &amp; All Between" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Architects</td>
-      <td>The Sky, the Earth &amp; All Between</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>

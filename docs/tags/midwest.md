@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T08:15:38.215Z
+date: 2025-12-03T03:32:43.520Z
 permalink: tags/midwest
 title: midwest
 ---
 
 ## midwest
 
-Last updated: <time datetime="2025-11-24T08:15:38.215Z">Mon Nov 24 2025 10:15:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:32:43.520Z">Wed Dec 03 2025 05:32:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -115,7 +115,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 68</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 57</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -334,6 +334,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 2</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
         </ul>
       </td>
@@ -481,7 +482,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 88</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 90</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +504,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 5</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -549,6 +550,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/313cdfd9f73e4655c671a34f3454eba9.png" alt="Cover for The Moan" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-12-09</td>
       <td>The Black Keys</td>
@@ -648,7 +650,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 48</li>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 78</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +702,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 39</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
@@ -805,7 +807,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 2</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 5</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 52</li>
         </ul>
       </td>
@@ -1047,7 +1049,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 45</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 46</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 67</li>
         </ul>
       </td>
@@ -1103,8 +1105,8 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 77</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
@@ -1207,7 +1209,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
         <ul>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 69</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 86</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 92</li>
         </ul>
       </td>
@@ -1232,7 +1234,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 6</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 54</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1315,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 59</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
@@ -1410,7 +1412,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 9</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 37</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 53</li>
         </ul>
@@ -1436,7 +1438,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 17</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 18</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 58</li>
         </ul>
       </td>
@@ -1482,7 +1484,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 31</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
@@ -1794,7 +1796,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 25</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 82</li>
         </ul>
@@ -1833,14 +1835,14 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 51</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/PfLTqUASNbMgHqlm5pSV1Ze8sdSwnZ-lo0rm3LFPzJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUw/MzE5LTE1NTQ0NTEw/NjAtMTYwNy5qcGVn.jpeg" alt="Cover for Dead Reckoning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1ff279d175bd1b5f898ce3ad9a41e0.png" alt="Cover for Dead Reckoning" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-07</td>
       <td>The Pier</td>
@@ -1880,7 +1882,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/1Uvu_ztFvtiy0hhwPfZq6ozn65fZzytgXEEMomLjyS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDc2LTE2NzcyNTc3/ODEtMjgzMy5qcGVn.jpeg" alt="Cover for BBP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96caf5951a9011a4b0e129ca4d7c6bbb.png" alt="Cover for BBP" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-24</td>
       <td>Bovinophobic Bile Puddle</td>
@@ -2160,6 +2162,7 @@ The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, ch
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4b1dea545b8053c00303dfa67b8ff9.png" alt="Cover for деймос и фобос" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>МЫСБИВАЕМСПУТНИКИ!</td>

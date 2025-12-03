@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T08:43:39.176Z
+date: 2025-12-03T03:40:05.069Z
 permalink: tags/composer
 title: composer
 ---
 
 ## composer
 
-Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:40:05.069Z">Wed Dec 03 2025 05:40:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -39,6 +40,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 90</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -50,6 +56,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>Xenakis, I.: Orchestral Works, Vol. 2 - Jonchaies &#x2F; Shaar &#x2F; Lichens &#x2F; Antikhthon</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -67,6 +78,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 18</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -78,6 +94,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>Wagner, R.: Orchestral Music From Operas</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -94,6 +115,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -114,6 +140,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 84</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>6</td>
@@ -130,6 +162,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -155,6 +191,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -172,14 +213,24 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 39</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f97201158a64b5886b88979cf68fa67.png" alt="Cover for Fans" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Malcolm McLaren</td>
       <td>Fans</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -198,6 +249,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -211,6 +267,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -236,11 +296,18 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 30</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 58</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/MbyLxcAvSYiBB69rUhPwMtWJs2PeFjMH1t6M4369Lt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ5/NzItMTQyNDAxMjI4/NS01NjEwLmpwZWc.jpeg" alt="Cover for Can&#39;t Look Away" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11bd3405957f4384c36572cc51541afb.png" alt="Cover for Can&#39;t Look Away" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Trevor Rabin</td>
@@ -249,6 +316,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -267,10 +338,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d380d4aa905cdc3533d3d1ee9e099e15.png" alt="Cover for 900" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Paolo Conte</td>
@@ -282,6 +358,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -296,6 +376,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -314,6 +398,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -328,11 +416,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/71jiE2ryhqjguRbkpNKTvjhudHFmxStwm3vT0pPUm-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzYy/MzUtMTU5MDIzODY1/OC03NDAwLmpwZWc.jpeg" alt="Cover for The Village Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a080fd9d750d4ca49c2b84ededc5a10b.png" alt="Cover for The Village Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>James Newton Howard</td>
@@ -343,11 +435,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/fnZMhyRhvh871rUcIeb1WQ8TFguiA7i702Y9ksbqR-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjk0/NjgtMTQ2NjQ5NjEy/Ny0zMTU4LmpwZWc.jpeg" alt="Cover for Angels and Demons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/855595b5d8774026aae728fc6494ca4d.png" alt="Cover for Angels and Demons" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Hans Zimmer</td>
@@ -360,10 +456,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88a84851fc01490eae1ca8d8ce98df98.png" alt="Cover for The Don Killuminati: The 7 Day Theory" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-05</td>
       <td>Makaveli</td>
@@ -372,6 +473,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -388,11 +494,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/lUn2HmJDhZ-swCR-8A2-LSC8RKFufxE9XHn2zVSI_kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTEw/NS0xMTU0ODg4Nzk3/LmpwZWc.jpeg" alt="Cover for C&#39;était ici" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a6534cbfe9a62c481401367d431bc0.png" alt="Cover for C&#39;était ici" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Dominique A</td>
@@ -410,10 +520,17 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 70</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/569e0eaae6cd43d5be559da20572dfeb.png" alt="Cover for Plaisirs d&#39;Amour" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-09</td>
       <td>René Aubry</td>
@@ -422,6 +539,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -440,10 +561,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10616ebd4241431cb409aa5a5d77b235.png" alt="Cover for ウラBTTB" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-26</td>
       <td>坂本龍一</td>
@@ -458,6 +584,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -477,11 +607,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 31</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/xCUh2DaqyzboctOjlThqMTDTpT8-z_OmcfpF0HQh1uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzQ5/LTExNTcwODgwODYu/anBlZw.jpeg" alt="Cover for Rise of the Phoenix King" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1474b01baada95169cbe3a08be0466af.png" alt="Cover for Rise of the Phoenix King" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>CJ Music</td>
@@ -490,6 +625,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -515,6 +654,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 2</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -535,10 +680,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 52</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-26</td>
       <td>Emilie Autumn</td>
@@ -546,6 +697,20 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 71</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -564,6 +729,14 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 57.14285714285714 / 100)"> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 1</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 98</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -578,6 +751,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -597,6 +774,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 44</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12</td>
@@ -611,6 +794,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -623,6 +810,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -641,6 +832,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -654,6 +849,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -670,10 +869,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fbea250416e4e1298f4d28c8d5049f5.png" alt="Cover for まどろみの輪廻" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-07</td>
       <td>河井英里</td>
@@ -687,6 +891,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -713,11 +921,18 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 59</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/pftQAScCXOG9Mq56HTBQgDFQxRYg4TC7gEtGbMCl6Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/MDYtMTMwMzA1NTE3/MC5qcGVn.jpeg" alt="Cover for Ekvílibríum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/726ecb3951c5db3206a940cb92d72ca1.png" alt="Cover for Ekvílibríum" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-27</td>
       <td>Valgeir Sigurðsson</td>
@@ -730,6 +945,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 50</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -774,6 +995,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 17</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 34</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 65</li>
+            <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -805,6 +1036,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 20</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -822,10 +1063,17 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 65</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b465ae356014d70b2667a01fbb44800.png" alt="Cover for Found Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-19</td>
       <td>Ólafur Arnalds</td>
@@ -835,6 +1083,14 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 5</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 87</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 95</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -860,6 +1116,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -873,6 +1135,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 12</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 93</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -891,11 +1162,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/sIG6oHuvaL8bhmsWeKsgNkp7EsTFVGsjaqDA1BWkPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc2/OTAtMTI4ODM2MTg3/NC5qcGVn.jpeg" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70ac3e4e4bb946e7b818aa8eaac33180.png" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Clem Leek</td>
@@ -909,6 +1184,18 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -927,11 +1214,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Archangel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/570aee495091ffe1cc24e9a8c7bb196a.png" alt="Cover for Archangel" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>Thomas Bergersen</td>
@@ -942,6 +1233,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -964,10 +1260,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c96aae94899748088d590c56a4b243f4.png" alt="Cover for Green And Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-22</td>
       <td>Julia Kent</td>
@@ -981,11 +1283,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Classics, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39dce4bfaae5d02ec8961c37cf06dab5.png" alt="Cover for Classics, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-22</td>
       <td>Thomas Bergersen</td>
@@ -994,11 +1300,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 34</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Classics, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/452b6d7e31a642ca95b528527cbec50b.png" alt="Cover for Classics, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-22</td>
       <td>Thomas Bergersen</td>
@@ -1007,11 +1318,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 53</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/k4w7-LDjNugbwDmKBZqro-sebsN9ONYY_ItVdbxXVGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjM5/OTgtMTMyOTg0OTU1/MS5qcGVn.jpeg" alt="Cover for W.E. - Music From The Motion Picture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b7c010886f440128d0485f69fc75ad3.png" alt="Cover for W.E. - Music From The Motion Picture" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02</td>
       <td>Abel Korzeniowski</td>
@@ -1021,11 +1337,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/LXnOZljwHrCFCMoL2e7yF36yltkNFA-SAxi9XDfmaf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjMy/NDI3LTE2NjA3NzI4/ODMtMzM0NC5wbmc.jpeg" alt="Cover for Westworld: Season 3 (Music From The HBO Series)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e47891c194b47bd2cffe0206b43ee48.png" alt="Cover for Westworld: Season 3 (Music From The HBO Series)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-04</td>
       <td>Ramin Djawadi</td>
@@ -1036,6 +1356,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1056,11 +1380,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/49QQgTcROgGE2QoTLG-9k66HlH8Mm19zhQyZO7zulHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA1/NzktMTQzNjcwMTc5/My05MTQxLmpwZWc.jpeg" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d4da889c3223f0dd96d08c72427193.png" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Egor Grushin</td>
@@ -1086,6 +1415,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 62</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -1100,6 +1438,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1117,11 +1459,17 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 11</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Endless Melancholy</td>
@@ -1154,6 +1502,19 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 58</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 71</li>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2</td>
@@ -1173,11 +1534,16 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 46</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/75TUtpkCT3Sm3zd4hVkrMf-Q64DiGnQ30KoYrGN1sxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/OTI1LTE2MjU4MjAx/OTUtNDY1Mi5qcGVn.jpeg" alt="Cover for Star Wars: Das Imperium Schlägt Zurück (Original Film-Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20878786196387c7e2bf729cc029168.png" alt="Cover for Star Wars: Das Imperium Schlägt Zurück (Original Film-Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>John Williams</td>
@@ -1190,11 +1556,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/75TUtpkCT3Sm3zd4hVkrMf-Q64DiGnQ30KoYrGN1sxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/OTI1LTE2MjU4MjAx/OTUtNDY1Mi5qcGVn.jpeg" alt="Cover for Star Wars: Eine Neue Hoffnung (Original Film-Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21ffa3c7003f2770cd5913c829ea0b4d.png" alt="Cover for Star Wars: Eine Neue Hoffnung (Original Film-Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>John Williams</td>
@@ -1206,6 +1576,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1223,6 +1597,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1245,6 +1623,14 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 24</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 60</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 71</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -1262,11 +1648,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/YDMI3fKKuv8ohiD0TF3ypPJM10tQ_-MNZ3-xGWX_zNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTMy/NDEtMTQ0MTc5Nzc1/MS03MTc1LmpwZWc.jpeg" alt="Cover for Sleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a2885c01065c6918c3f071ae0a221e.png" alt="Cover for Sleep" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-06</td>
       <td>Max Richter</td>
@@ -1276,6 +1666,13 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1290,6 +1687,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1309,6 +1710,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -1321,6 +1726,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1340,6 +1749,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -1353,6 +1766,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1373,6 +1791,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>46</td>
@@ -1390,11 +1812,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/uCnewTkAZcD4iQj-AnpVhVXXLmPzHXIGuTQdrSBQVcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY3/OTM0LTE1NDE1NjA5/NzUtNDI5Mi5qcGVn.jpeg" alt="Cover for The Music of Harry Potter and the Cursed Child - In Four Contemporary Suites" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/caecc250a06c8ffcd5e19df852e96071.png" alt="Cover for The Music of Harry Potter and the Cursed Child - In Four Contemporary Suites" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Imogen Heap</td>
@@ -1407,11 +1833,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/sx4UWfOLh4d2KOsJ80ZfXCrEC_AER3guJGipbSqetDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODM3/ODA1LTE2NDI4MjQy/MzMtNjUwOC5qcGVn.jpeg" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af84f6743fe4d4dcd3a160df62fca96.png" alt="Cover for Invincible" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-11</td>
       <td>Thomas Bergersen</td>
@@ -1422,6 +1852,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1443,6 +1878,13 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 71</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 99</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -1455,10 +1897,13 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1478,6 +1923,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -1492,6 +1941,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1511,6 +1964,11 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1533,6 +1991,13 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 23</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -1550,6 +2015,12 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 1</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1571,11 +2042,17 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 45</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/XT_-c5cl7NwZ_d5N1PGvCrv5ZAfp2gMPZARo7qZPaNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjI3/MjAxLTE2MjcyNzgy/MjUtNjk5NC5qcGVn.jpeg" alt="Cover for Loki: Vol. 2 (Episodes 4-6) [Original Soundtrack]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c30d7b5f23f0b2225165674c4ceceb4.png" alt="Cover for Loki: Vol. 2 (Episodes 4-6) [Original Soundtrack]" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-23</td>
       <td>Natalie Holt</td>
@@ -1584,6 +2061,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1605,11 +2086,18 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 19</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/wC6dpzI-gIkxHBMPNK0Navvc43iy0c5R4vdVo6fZqLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk2/NDI4LTE2NDUyNjE0/NTctMzI3MS5wbmc.jpeg" alt="Cover for The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fa69eb0f5614c67bc6dd2204d8e5036.png" alt="Cover for The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Joseph Shirley</td>
@@ -1618,6 +2106,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1638,6 +2130,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -1653,6 +2149,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1675,10 +2175,66 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 45</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 52</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19549fa6f0a74175b6dc1a99f2df4889.png" alt="Cover for Hero - Music from the Original Soundtrack" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>譚盾</td>
+      <td>Hero - Music from the Original Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d322ed2cc642ea4642653a2c01a6b5a.png" alt="Cover for Navidad" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Orchestra de Blonde</td>
+      <td>Navidad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 87.75510204081633 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 71.42857142857143 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 61.224489795918366 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 57.14285714285714 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 72</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f00a57a67c1c07ceca75171b1b315a74.png" alt="Cover for Mono No Aware" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Multi-interprètes</td>
@@ -1693,22 +2249,8 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>譚盾</td>
-      <td>Hero - Music from the Original Soundtrack</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
     </tr>
@@ -1727,27 +2269,15 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra de Blonde</td>
-      <td>Navidad</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 87.75510204081633 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 71.42857142857143 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 61.224489795918366 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 57.14285714285714 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61611b9907be47ae4f64acca769ed35d.png" alt="Cover for Squid Game (Original Soundtrack from The Netflix Series)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jung JaeIl</td>
@@ -1760,6 +2290,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1768,6 +2302,10 @@ Last updated: <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39
       <td></td>
       <td>Keiichi Okabe, Kakeru Ishihama, Keigo Hoashi, Takafumi Nishimura</td>
       <td>NieR Gestalt &amp; Replicant Original Soundtrack</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>

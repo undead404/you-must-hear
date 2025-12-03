@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-01-05T00:32:44.763Z
+date: 2025-12-03T03:36:18.707Z
 permalink: tags/minimal-piano
 title: minimal piano
 ---
 
 ## minimal piano
 
-Last updated: <time datetime="2025-01-05T00:32:44.763Z">Sun Jan 05 2025 02:32:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:18.707Z">Wed Dec 03 2025 05:36:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cf3b61b988f7cc99594e7322669c3ef.png" alt="Cover for The Pavilion Of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Harold Budd</td>
@@ -44,21 +45,23 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 14</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 22</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 24</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 35</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 85</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed3add189a58cb3efde7171dd7190c4.png" alt="Cover for Abandoned Cities" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Harold Budd</td>
@@ -82,57 +85,49 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 14</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 22</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 41</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 46</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a663a855da588ccfb313b38dc5f1ad9a.png" alt="Cover for Lovely Thunder" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-10</td>
       <td>Harold Budd</td>
       <td>Lovely Thunder</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 8</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 8</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 30</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 36</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 65</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/E_1c4nk_txcxXVUX9eWiM1Lk_d_GGL6JamUMFj5W9B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEw/LTE1MDE0OTU4MTIt/ODEwMy5qcGVn.jpeg" alt="Cover for The White Arcades" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fb60aa0c7fdc5fe7cffb9bbe4c019c6.png" alt="Cover for The White Arcades" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Harold Budd</td>
       <td>The White Arcades</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 72</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 68</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 74</li>
         </ul>
       </td>
@@ -140,6 +135,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3e23ffec33926d4a9cda495ac3cdc8.png" alt="Cover for The Serpent (In Quicksilver)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Harold Budd</td>
@@ -163,8 +159,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 26</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 31</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 39</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 57</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -195,12 +191,14 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 71</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f636f6942073f6a82bf2dd1d95cc6377.png" alt="Cover for By The Dawn&#39;s Early Light" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-08</td>
       <td>Harold Budd</td>
@@ -224,8 +222,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 41</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 60</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -247,18 +245,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 44</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 53</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/2pwCbVyhDGR7g8b6dNgxcpV6ZwsQHPPQdcFAuiRLXaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTc4/OC0xMTYzNjIwNDc4/LmpwZWc.jpeg" alt="Cover for Glyph" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/347f522e273e5b5db1579e286dbb799d.png" alt="Cover for Glyph" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Harold Budd</td>
@@ -288,6 +286,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b548a2a0b37ea131aac0b138b73db28.png" alt="Cover for Luxa" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-24</td>
       <td>Harold Budd</td>
@@ -301,17 +300,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 8</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 64</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 71</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/aJD-6nIVH-Ja1U6tKWKQvnmR9ZFCQVOJNXWdJnSsacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgy/OS0xNTk4MzQwODE2/LTg0MTEuanBlZw.jpeg" alt="Cover for The Pearl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb422369393966638df66475e7f2dada.png" alt="Cover for The Pearl" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Harold Budd</td>
@@ -333,15 +332,15 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 35</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 75</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 44</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 78</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -367,20 +366,19 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9030dfe14fae58ae5370392ddb211c9d.png" alt="Cover for The Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-15</td>
       <td>Harold Budd</td>
       <td>The Room</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 43</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 63</li>
         </ul>
       </td>
@@ -400,10 +398,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 9</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 9</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 63</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 70</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -453,6 +451,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae3c53424a7e24fca7bfae34aba0fe8.png" alt="Cover for La Bella Vista" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-07</td>
       <td>Harold Budd</td>
@@ -468,10 +467,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 38</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 50</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -492,21 +491,22 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 21</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 29</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 29</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 34</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 36</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 83</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/HE_Lc4S8JKLsXkfgFd7lNzpk-qwJk4LUhbe_NgIwXFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc4/Ni0xMjAzNDE5NTQ4/LmpwZWc.jpeg" alt="Cover for Des plumes dans la tête" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15dc85b0ef624c5cbe23b2b3cc88f3c7.png" alt="Cover for Des plumes dans la tête" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-15</td>
       <td>Sylvain Chauveau</td>
@@ -521,12 +521,12 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 41</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 62</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 63</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -547,17 +547,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 10</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 95</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 97</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 22</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 96</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 98</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 99</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd3359c24164e63a0bda4f58334bdb4.png" alt="Cover for Piano Solos" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-13</td>
       <td>Dustin O&#39;Halloran</td>
@@ -571,12 +572,12 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 17</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 36</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 56</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 35</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 50</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 65</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 67</li>
         </ul>
@@ -585,6 +586,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f3964b6aa19a230033066cc1bf75ec.png" alt="Cover for Avalon Sutra" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-05</td>
       <td>Harold Budd</td>
@@ -598,17 +600,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 14</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 19</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 44</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f2ea59f4d50f3b11eb6bc737b59d912.png" alt="Cover for Corduroy Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-21</td>
       <td>Goldmund</td>
@@ -621,17 +624,19 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 23</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 34</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 67</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ec32f3e29b034d9517df0bd39e6bc4a.png" alt="Cover for Alone in the Bright Lights of a Shattered Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-29</td>
       <td>Library Tapes</td>
@@ -643,10 +648,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 34</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 43</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 69</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -670,10 +675,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 6</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 90</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 99</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -694,15 +699,15 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 31</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 48</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 36</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 60</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 63</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 65</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -724,11 +729,11 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 13</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 21</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 38</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 45</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 66</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 17</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 49</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -753,18 +758,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 35</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 43</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 49</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/r8SGTDE9vtmtNLEOQCuW74bg9jZXufykXmz3X43MqIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjQ1/OS0xMTc3MjQyOTE0/LmpwZWc.jpeg" alt="Cover for Piano Solos Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/127bad9092e14fa99f17ebbcbd2d40d8.png" alt="Cover for Piano Solos Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-10</td>
       <td>Dustin O&#39;Halloran</td>
@@ -778,21 +783,22 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 34</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 54</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 60</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 40</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 61</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 62</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/284f4830b553fd11ce436cbaf6c065e7.png" alt="Cover for Feelings for Something Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-16</td>
       <td>Library Tapes</td>
@@ -807,17 +813,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 7</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 16</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 57</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52722a07d859449d8c041c87187ec35f.png" alt="Cover for IBM 1401, A User&#39;s Manual" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Jóhann Jóhannsson</td>
@@ -828,17 +835,19 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 39</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77aefd349989b79cf1edaf1ec7b50b19.png" alt="Cover for Slumber Tides" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-27</td>
       <td>Greg Haines</td>
@@ -850,16 +859,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 60</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 68</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 94</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/111b26f3c2b388f0ca7645c8e3721beb.png" alt="Cover for Perhaps" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-09</td>
       <td>Harold Budd</td>
@@ -881,8 +891,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 57</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 60</li>
         </ul>
       </td>
@@ -890,6 +900,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d25a6bea58f4b18b57022255507280d.png" alt="Cover for Daydreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-12</td>
       <td>Rafael Anton Irisarri</td>
@@ -903,12 +914,13 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 4</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 25</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 32</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 40</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 32</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 66</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 95</li>
         </ul>
       </td>
@@ -930,8 +942,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 75</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 75</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 84</li>
         </ul>
       </td>
@@ -939,7 +951,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/Bbk-Z52CSw3jV0ZKfcu_3aBypPnnvEr4OWUG6cyz_R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQx/MjAtMTU3ODEwMTE1/Mi00NzQ2LmpwZWc.jpeg" alt="Cover for Piano Textures 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd96a5ff2150d2e6d898a0cdb0582bc0.png" alt="Cover for Piano Textures 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05</td>
       <td>Bruno Sanfilippo</td>
@@ -961,10 +973,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 45</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 65</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -985,11 +997,12 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 5</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 36</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 53</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 77</li>
         </ul>
       </td>
@@ -1016,6 +1029,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/272c3df1935a4ee681e3b5ca36a7190c.png" alt="Cover for Nuage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-23</td>
       <td>Sylvain Chauveau</td>
@@ -1030,20 +1044,20 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 25</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 47</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ALjZNkyZKJOrFGt8wuDGguerWvUdIsxoXJtHDZncvr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA0/MTUtMTQ5MTc5MTgx/OS05NDY0LmpwZWc.jpeg" alt="Cover for Fordlândia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1870989f906b478e8fe5f1194b200ce6.png" alt="Cover for Fordlândia" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jóhann Jóhannsson</td>
@@ -1057,10 +1071,12 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 7</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 19</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 72</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 73</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1090,16 +1106,18 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/239c329229a146299eb595734a5378b3.png" alt="Cover for Float" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-12</td>
       <td>Peter Broderick</td>
@@ -1113,9 +1131,11 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 11</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 16</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 42</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 58</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 100</li>
         </ul>
       </td>
@@ -1123,6 +1143,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e137b08844efa4d6006ecc9d872a63d.png" alt="Cover for Variations of Static" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-19</td>
       <td>Ólafur Arnalds</td>
@@ -1137,10 +1158,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 14</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 47</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 86</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 87</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 96</li>
         </ul>
       </td>
@@ -1148,6 +1169,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5d289c16f7397e3e9935088ad4d088.png" alt="Cover for Fragment" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-02</td>
       <td>Library Tapes</td>
@@ -1162,51 +1184,42 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 12</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 35</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 53</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 53</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bfc3d6d2a3b404f1709a4e4399212b8.png" alt="Cover for The Malady Of Elegance" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-28</td>
       <td>Goldmund</td>
       <td>The Malady Of Elegance</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 11</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 12</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 16</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 52</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 63</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 76</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 90</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/J-VmLVW1nTzjMZthsjvmcRVMg8fUico1iWdFBQ5Oj4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUx/MjEtMTI3MDEwNDIx/OS5qcGVn.jpeg" alt="Cover for Hopes and Past Desires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb78272b90a04c74a8544300e4b2c014.png" alt="Cover for Hopes and Past Desires" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-13</td>
       <td>Rafael Anton Irisarri</td>
@@ -1228,19 +1241,20 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 44</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 69</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 23</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 49</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb35403c42864a2190663bb72406b869.png" alt="Cover for Out Of Noise" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-04</td>
       <td>坂本龍一</td>
@@ -1260,7 +1274,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Vkmp3pdesvKfMmLv6cGIo0T5bWAjFUhmex-S33w7oOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODgw/NTMtMTI2ODc1NzUx/Ni5qcGVn.jpeg" alt="Cover for An American Affair" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c4aabfd8266fc92f2e4c9e2f046c6d3.png" alt="Cover for An American Affair" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-05</td>
       <td>Dustin O&#39;Halloran</td>
@@ -1280,6 +1294,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b61dc7a0d14eff5b8c5b19312ba3a37c.png" alt="Cover for The Bells" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-12</td>
       <td>Nils Frahm</td>
@@ -1293,13 +1308,14 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 20</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 6</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 38</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 50</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 64</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 55</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 88</li>
         </ul>
       </td>
@@ -1337,6 +1353,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/985a3c1262f291b7a19ad32e8f4ae6af.png" alt="Cover for Wintermusik" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-07</td>
       <td>Nils Frahm</td>
@@ -1350,21 +1367,22 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 12</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 27</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 73</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 95</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 97</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 100</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 97</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff5d14b862e414094ee1b43c129656b.png" alt="Cover for Dyad 1909" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-07</td>
       <td>Ólafur Arnalds</td>
@@ -1378,19 +1396,20 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 58</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 59</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1edef48bd6e14f73ab848d2bdd5c9aec.png" alt="Cover for until the point of hushed support" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Greg Haines</td>
@@ -1408,8 +1427,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 46</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 48</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 50</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 61</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 69</li>
         </ul>
@@ -1418,7 +1437,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/i58HJ7LnAdhjo1k0p0GOfGZ4sav2Fjqj2qu-_fP3DzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE0/NTAtMTI2OTY1OTYx/MC5qcGVn.jpeg" alt="Cover for Singular Forms (Sometimes Repeated)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34a53e65bab742fe883f911f1e57432b.png" alt="Cover for Singular Forms (Sometimes Repeated)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Sylvain Chauveau</td>
@@ -1443,8 +1462,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 27</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 33</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 54</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 55</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 75</li>
         </ul>
       </td>
@@ -1452,6 +1471,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d9c102d69964e09ceed6393c559edd7.png" alt="Cover for Vorleben" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-16</td>
       <td>Dustin O&#39;Halloran</td>
@@ -1465,10 +1485,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 38</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 60</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 97</li>
         </ul>
       </td>
@@ -1476,7 +1496,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/puD38XpUCHF5QFIbCCGNtMBUgzbdZndnhMrNCkyubNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg5/NjItMTI4NjIyNzY3/Ny5qcGVn.jpeg" alt="Cover for Reverie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64fdfd7f96164b07a3221f1796340374.png" alt="Cover for Reverie" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-20</td>
       <td>Rafael Anton Irisarri</td>
@@ -1500,15 +1520,16 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 15</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 16</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 39</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 78</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 19</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff62bc3712af4caeccc7ad6d8f511511.png" alt="Cover for Unter | Über" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-20</td>
       <td>Nils Frahm</td>
@@ -1532,16 +1553,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 9</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 15</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 59</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 86</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 21</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14eca841d8966a68a97e0af8d92a56ee.png" alt="Cover for The North Bend" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Rafael Anton Irisarri</td>
@@ -1557,10 +1579,11 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 34</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 43</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 44</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1596,6 +1619,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15fd561f4c1b402ab53ae15175f40725.png" alt="Cover for Salon des Amateurs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-12</td>
       <td>Hauschka</td>
@@ -1619,17 +1643,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 8</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 12</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 17</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 60</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 11</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/1korFxFg4OVUJvGzstQ1WS6GyrQ4gueqZThXHd4YX64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE4/MjMtMTM0ODM3MTU2/My01ODk2LmpwZWc.jpeg" alt="Cover for Virthulegu Forsetar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3e0be9c716f450fa75f6f6cb860e31e.png" alt="Cover for Virthulegu Forsetar" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02</td>
       <td>Jóhann Jóhannsson</td>
@@ -1642,7 +1666,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 45</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 90</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 98</li>
         </ul>
@@ -1651,7 +1675,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/ONFwLy-N470VhEf-5m2MAzq5YXWFCmZqWLprdzOqiwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA2/MjMtMTMwNjM1NjY5/MC5qcGVn.jpeg" alt="Cover for The Miners&#39; Hymns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0068e22e6494401c5840017f11172a9.png" alt="Cover for The Miners&#39; Hymns" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-29</td>
       <td>Jóhann Jóhannsson</td>
@@ -1667,10 +1691,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 41</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 48</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 65</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1705,6 +1729,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a10638c3d264ec4abf2a1c9e5092bb1.png" alt="Cover for In The Mist" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-27</td>
       <td>Harold Budd</td>
@@ -1726,18 +1751,19 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 19</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 11</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 21</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 46</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0633fa5c7af3ecbdbae37f3e5e881822.png" alt="Cover for Felt" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-07</td>
       <td>Nils Frahm</td>
@@ -1752,19 +1778,20 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 30</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 34</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 46</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 50</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 74</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4692d3c6b2464680bd51f3352edc63.png" alt="Cover for Like Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-21</td>
       <td>Dustin O&#39;Halloran</td>
@@ -1787,10 +1814,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 19</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 32</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1819,44 +1846,42 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 25</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 30</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 48</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 38</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93ebeca3d67b45e7b691e0753b3c352b.png" alt="Cover for Living Room Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-02</td>
       <td>Ólafur Arnalds</td>
       <td>Living Room Songs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 2</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 10</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 20</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 30</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 38</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 65</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 97</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 98</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3585e82e7a474f08a2b2e59016e4729e.png" alt="Cover for Wonders" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-09</td>
       <td>Oliveray</td>
@@ -1876,6 +1901,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca948569ac6240da83051c1723d19a8c.png" alt="Cover for Autumn Stories" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>Fabrizio Paterlini</td>
@@ -1889,38 +1915,31 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 17</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 54</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a92df515391c6865c41f46bb875c072a.png" alt="Cover for Digressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Greg Haines</td>
       <td>Digressions</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 2</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 16</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 40</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 46</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1947,6 +1966,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2108900487dc418fbdc7e4bf476bb119.png" alt="Cover for Free the Mind (Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-09</td>
       <td>Jóhann Jóhannsson</td>
@@ -1970,13 +1990,14 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 70</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/r8NunHWXhGvtTaSwt0quJybc1bwy-4wBPMDYYCCdZwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU5/MDEtMTQ1NzY2Njcw/OC00OTI5LmpwZWc.jpeg" alt="Cover for Free the Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e41eaa266264d7b83d191e7a64e0e0a.png" alt="Cover for Free the Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-09</td>
       <td>Jóhann Jóhannsson</td>
@@ -2006,6 +2027,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02440cf86757144f6d77c564bb3e3b42.png" alt="Cover for Recomposed by Max Richter: Vivaldi, The Four Seasons" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-31</td>
       <td>Max Richter</td>
@@ -2016,49 +2038,43 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 39</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 41</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 50</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 67</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/PClDlrbQA6VhUzN_2uW-I6PwpW6ll1v-knKQS1H0GyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY0/MjEtMTM0OTgwMjc0/Ny02NTEzLmpwZWc.jpeg" alt="Cover for Screws" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14729fe808404f8a8131e98e027db9a5.png" alt="Cover for Screws" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-20</td>
       <td>Nils Frahm</td>
       <td>Screws</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 8</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 6</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 31</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 85</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/PmQs3dM2pfuWdA2wfutGfbVzz__Q27_tH6J4qR2iKkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTcw/NjktMTM0OTEzNTQ0/MS0zMDY3LmpwZWc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57e9acd17a9f44378ccca9800589f09f.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10</td>
       <td>Olan Mill</td>
@@ -2080,10 +2096,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 35</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 53</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2113,19 +2129,20 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 2</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 24</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 83</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b221165cca24ee7ce2cc18c6a4ab54d.png" alt="Cover for Where We Were" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Greg Haines</td>
@@ -2139,8 +2156,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 31</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 49</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 55</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2178,6 +2195,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19cccd53dbf4166985044fb4bcfa92e.png" alt="Cover for Disconnect" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-09</td>
       <td>Max Richter</td>
@@ -2191,15 +2209,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 65</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae30fa34ed7a4f91cf29416435bc5549.png" alt="Cover for Broadchurch" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-12</td>
       <td>Ólafur Arnalds</td>
@@ -2212,7 +2232,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 30</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 53</li>
         </ul>
       </td>
@@ -2273,9 +2293,9 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 35</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 80</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
         </ul>
       </td>
@@ -2283,6 +2303,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e9dab4011094bbbacfc961212f4d99e.png" alt="Cover for Prisoners" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-17</td>
       <td>Jóhann Jóhannsson</td>
@@ -2313,6 +2334,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/262c85cfea174a3cca83e591d5c8296c.png" alt="Cover for Breathe In" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-24</td>
       <td>Dustin O&#39;Halloran</td>
@@ -2341,6 +2363,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5727023cb2b289fbec5d822b65058b01.png" alt="Cover for Kogetsudai" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-14</td>
       <td>Sylvain Chauveau</td>
@@ -2370,6 +2393,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d496db9b0d64a7aca6233a16f6acb49.png" alt="Cover for The Unintentional Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-12</td>
       <td>Rafael Anton Irisarri</td>
@@ -2391,41 +2415,33 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 15</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 20</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 20</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 36</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfe356cf08c94219b6bdfa9167701ab4.png" alt="Cover for Spaces" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-18</td>
       <td>Nils Frahm</td>
       <td>Spaces</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 4</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 31</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 71</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 82</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 96</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 96</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2447,11 +2463,11 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 29</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 32</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 54</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 91</li>
         </ul>
       </td>
@@ -2483,9 +2499,9 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 17</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 24</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 36</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 20</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2520,6 +2536,7 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9891a393fb2047f7c7a0d55177bbdae0.png" alt="Cover for Jane 12-21" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09</td>
       <td>Harold Budd</td>
@@ -2543,8 +2560,8 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 24</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 27</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 45</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2572,17 +2589,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 57</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 65</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/jzLOvTL7A_3KSpBGUugoFudhPP8fSzksP3poA5ybqJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTA5/NjAtMTQxODA2NzU2/OC00NzY0LmpwZWc.jpeg" alt="Cover for Feathers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7940b4b4a3834785c7c7ff951c81bc85.png" alt="Cover for Feathers" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-14</td>
       <td>Poppy Ackroyd</td>
@@ -2597,10 +2614,10 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 49</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 57</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 76</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2629,17 +2646,17 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 46</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 54</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/NTUmWqdHBqzX_DqjAjv8_lV3fbjSIVcY-3Qz_cqc52E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzM1/MDItMTQyNzU4NDIx/OS04MzU4LmpwZWc.jpeg" alt="Cover for solo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a638e1812909699f64f4ba1846f9a3d9.png" alt="Cover for solo" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-29</td>
       <td>Nils Frahm</td>
@@ -2655,19 +2672,19 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 10</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 11</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 14</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 51</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 63</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 76</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 55</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 61</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 81</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/7aaquEjKE8yZuLVB6jLunMhSCXg8EPXKtVm5tsNohEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA1/MTAtMTQzMzkzOTg3/Mi00NTEyLmpwZWc.jpeg" alt="Cover for Music for the Motion Picture Victoria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde5f0fba9815b550299f2ac810d0e88.png" alt="Cover for Music for the Motion Picture Victoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-12</td>
       <td>Nils Frahm</td>
@@ -2690,12 +2707,12 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 7</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 13</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 39</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 67</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 94</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 44</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2748,12 +2765,13 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 42</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 60</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 78</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2763,9 +2781,9 @@ Minimal piano is a contemporary classical genre featuring sparse, repetitive mel
 ### Related genres
 
 - [ambient]({{ "/tags/ambient" | relative_url }})
-- [contemporary piano]({{ "/tags/contemporary-piano" | relative_url }})
 - [piano]({{ "/tags/piano" | relative_url }})
 - [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
+- [contemporary piano]({{ "/tags/contemporary-piano" | relative_url }})
 - [neoclassical]({{ "/tags/neoclassical" | relative_url }})
 - [minimalism]({{ "/tags/minimalism" | relative_url }})
 - [piano ambient]({{ "/tags/piano-ambient" | relative_url }})

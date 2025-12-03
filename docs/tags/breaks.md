@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:35:37.844Z
+date: 2025-12-03T03:36:48.907Z
 permalink: tags/breaks
 title: breaks
 ---
 
 ## breaks
 
-Last updated: <time datetime="2025-11-26T02:35:37.844Z">Wed Nov 26 2025 04:35:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:48.907Z">Wed Dec 03 2025 05:36:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -142,7 +142,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 8</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 70</li>
         </ul>
       </td>
@@ -235,8 +235,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 11</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 32</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 12</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -426,8 +426,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 31</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 68</li>
         </ul>
       </td>
@@ -471,7 +471,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 90</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +586,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 15</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 32</li>
         </ul>
       </td>
@@ -651,7 +651,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 19</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 20</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 73</li>
         </ul>
       </td>
@@ -697,7 +697,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +969,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
             <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
@@ -1252,7 +1252,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
         <ul>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 7</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 29</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 34</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1313,16 +1313,16 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 51</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
             <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
@@ -1348,7 +1348,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
         <ul>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 23</li>
             <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 42</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 43</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 44</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 99</li>
         </ul>
       </td>
@@ -1545,8 +1545,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 29</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1566,8 +1566,8 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 63</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 33</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1606,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 21</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1891,7 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 41</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 42</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 77</li>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 93</li>
         </ul>
@@ -2067,15 +2067,15 @@ Breaks is an electronic dance music genre built around syncopated breakbeats—c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 18</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 29</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 30</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 30</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 30</li>
             <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 71</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 74</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 75</li>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 81</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 93</li>
         </ul>
       </td>
     </tr>

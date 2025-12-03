@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T08:36:38.122Z
+date: 2025-12-03T03:36:53.404Z
 permalink: tags/america
 title: america
 ---
 
 ## america
 
-Last updated: <time datetime="2025-11-24T08:36:38.122Z">Mon Nov 24 2025 10:36:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:53.404Z">Wed Dec 03 2025 05:36:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 59</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 63</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 94</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 97</li>
@@ -436,7 +436,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 51</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 50</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 63</li>
         </ul>
       </td>
@@ -547,7 +547,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 7</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 5</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 76</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 88</li>
         </ul>
@@ -572,6 +572,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 1</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 75</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 98</li>
         </ul>
@@ -663,13 +664,13 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 7</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
             <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +715,6 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/vVxlhQmiiLJb9IJ7shkNF-QvG0wo2VTB9M1N_nabPd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU3/MTEzLTE1OTkwNjkx/OTgtNTM4Mi5qcGVn.jpeg" alt="Cover for Beautiful Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-25</td>
       <td>Hyde</td>
@@ -803,8 +803,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 37</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 84</li>
         </ul>
       </td>
@@ -832,7 +832,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 83</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 18</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 90</li>
         </ul>
       </td>
@@ -877,8 +877,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 35</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 38</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -905,10 +905,10 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 74</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
         </ul>
       </td>
@@ -1185,10 +1185,10 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 83</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
@@ -1215,9 +1215,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 13</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 69</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 88</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 92</li>
         </ul>
       </td>
@@ -1272,7 +1272,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 76</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 93</li>
         </ul>
       </td>
@@ -1305,10 +1305,10 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 59</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 78</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
         </ul>
@@ -1346,14 +1346,14 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 88</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
         </ul>
       </td>
@@ -1430,7 +1430,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 67</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 68</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 97</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 98</li>
@@ -1536,7 +1536,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
@@ -1630,11 +1630,11 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
@@ -1687,7 +1687,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 75</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1749,8 +1749,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 32</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 69</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 88</li>
         </ul>
       </td>
@@ -1775,7 +1775,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 87</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 14</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 97</li>
         </ul>
       </td>
@@ -1806,8 +1806,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 46</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
         </ul>
       </td>
@@ -1834,9 +1834,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 31</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 31</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1866,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 13</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 15</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 52</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 84</li>
         </ul>
       </td>
@@ -1886,7 +1886,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 90</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 11</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 97</li>
         </ul>
       </td>
@@ -1916,8 +1916,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 8</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 60</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1946,8 +1946,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 72</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 88</li>
         </ul>
       </td>
@@ -1975,9 +1975,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 29</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 85</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 93</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 94</li>
         </ul>
       </td>
@@ -2005,9 +2005,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 33</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2036,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 38</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 54</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2116,10 +2116,10 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 9</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 64</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
@@ -2174,10 +2174,10 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 32</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 77</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2203,7 +2203,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 31</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 75</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 83</li>
         </ul>
@@ -2232,7 +2232,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 67</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 85</li>
         </ul>
       </td>
@@ -2261,7 +2261,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/966d071fd45145b09087d8c36d6ce6a0.png" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-20</td>
       <td>Riding Alone for Thousands of Miles</td>
@@ -2283,9 +2283,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 7</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 94</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 97</li>
         </ul>
       </td>
@@ -2321,8 +2321,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 48</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
         </ul>
       </td>
@@ -2379,8 +2379,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 30</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 46</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 31</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2402,7 +2402,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 85</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 16</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 89</li>
         </ul>
       </td>
@@ -2434,9 +2434,9 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 43</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 64</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 37</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 69</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 82</li>
         </ul>
       </td>
@@ -2470,8 +2470,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 30</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 39</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 47</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2498,7 +2498,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 52</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 54</li>
         </ul>
       </td>
@@ -2536,8 +2536,8 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
         </ul>
@@ -2582,7 +2582,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 88</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 97</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 98</li>
         </ul>
@@ -2660,11 +2660,11 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
@@ -2744,7 +2744,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 3</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 6</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 29</li>
         </ul>
       </td>
@@ -2769,7 +2769,7 @@ The &quot;america&quot; tag encompasses music created by artists from or strongl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 82</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 19</li>
         </ul>
       </td>
     </tr>

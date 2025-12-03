@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:00:37.975Z
+date: 2025-12-03T03:32:48.229Z
 permalink: tags/girl-band
 title: girl band
 ---
 
 ## girl band
 
-Last updated: <time datetime="2025-10-28T05:00:37.975Z">Tue Oct 28 2025 07:00:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:32:48.229Z">Wed Dec 03 2025 05:32:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 25</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -167,6 +167,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/799789a76cc14488c4c1184182c048da.png" alt="Cover for Sacred Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-08-29</td>
       <td>Shakespear&#39;s Sister</td>
@@ -261,7 +262,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/up8u8S2VfIcx7K4m-hKMUg3N-Epd_CaY2EpgLazm8dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgw/NjgtMTI3ODY0MTAy/NS5qcGVn.jpeg" alt="Cover for 不自然なガール&#x2F;ナチュラルに恋して" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fbe7ed297fe3818e7e4ee27eb273b66.png" alt="Cover for 不自然なガール&#x2F;ナチュラルに恋して" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Perfume</td>
@@ -310,6 +311,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f512bb1454bbcca205e312c2d15a3dbb.png" alt="Cover for Saints &amp; Sinners" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-16</td>
       <td>All Saints</td>
@@ -343,10 +345,10 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 65</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 66</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 91</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 91</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 66</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 92</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +370,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 81</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -398,6 +400,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93ca14f635ed6bb0c3aef61d10f244a8.png" alt="Cover for Sound of the Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-12-16</td>
       <td>Girls Aloud</td>
@@ -409,15 +412,16 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 62</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 68</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 63</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b4c8065b4a73f84782534b5a965c21b.png" alt="Cover for モノクロームエフェクト" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03-17</td>
       <td>Perfume</td>
@@ -444,6 +448,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4862af9ab9f4c2437e93dd84b0335e44.png" alt="Cover for ビタミンドロップ" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-08</td>
       <td>Perfume</td>
@@ -469,6 +474,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad9d2644cc64245c2f72e16cd869c11.png" alt="Cover for Dreamland" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-08</td>
       <td>BENNIE K</td>
@@ -494,7 +500,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/ZJ6xR0dPp_T9N-P1f5qtAdYgM0Z7aM-wSDIEG5mHMys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDQy/MS0xMTYwNDk4OTUw/LmpwZWc.jpeg" alt="Cover for Chemistry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbda4166d90f914972193a6092c2b188.png" alt="Cover for Chemistry" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-05</td>
       <td>Girls Aloud</td>
@@ -506,8 +512,9 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 19</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 56</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -555,6 +562,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e52fe9a0926161c1191582992aa20a5c.png" alt="Cover for シャングリラ" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-15</td>
       <td>チャットモンチー</td>
@@ -578,7 +586,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/Tt86IyhYgYxh0h7w-GR3pKc81zb9UmKdv6pK_T0Z3Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzMy/NTEtMTI4OTE2NjM2/NS5qcGVn.jpeg" alt="Cover for Look" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91eb27e11e7492eacf4c7cfba64622a.png" alt="Cover for Look" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-13</td>
       <td>HALCALI</td>
@@ -596,7 +604,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 54</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -628,6 +636,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b100eb317e66f73f31e505dbb37743b7.png" alt="Cover for ワンルーム・ディスコ" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-25</td>
       <td>Perfume</td>
@@ -647,8 +656,8 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 28</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 28</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 95</li>
         </ul>
       </td>
@@ -674,7 +683,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/ihe_ZIcoybXJWrshXVyC7Qj2NhG5wua61XBJgjuHTcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE4/NDUtMTQ0NTEyMjkz/MC02MTEyLmpwZWc.jpeg" alt="Cover for ring your bell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ec6af11781739b52f4e62103f3e4b0.png" alt="Cover for ring your bell" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-28</td>
       <td>Kalafina</td>
@@ -696,7 +705,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/zRKahYmAypM1Wl2HNy5o0jTbhDebeyXsE8PzIF1XSfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/OTM5LTE1NzU4NDgw/OTMtNjA5OS5qcGVn.jpeg" alt="Cover for SHERO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b01f3ab78b64621ab51b54f6b90d5d1.png" alt="Cover for SHERO" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>S.H.E</td>
@@ -741,6 +750,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6eb87aeec04c96a19302d750f32f9c.png" alt="Cover for 行くぜっ!怪盗少女" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-05</td>
       <td>ももいろクローバー</td>
@@ -766,7 +776,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/g_ecRUAsn_FQiggzJvshgrD0kIm5ehaFKdPWxWnXH4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE5/MDMtMTQ0NTEyNDQ0/Ni0yMzgxLmpwZWc.jpeg" alt="Cover for 輝く空の静寂には" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1393412c4d0474380818e57d35272c9.png" alt="Cover for 輝く空の静寂には" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-15</td>
       <td>Kalafina</td>
@@ -789,6 +799,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0c1c1f690d143b08209346bddf05bc5.png" alt="Cover for irony" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-20</td>
       <td>ClariS</td>
@@ -806,6 +817,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c2ded66f9db4c281aba61e09b424d2d.png" alt="Cover for ねぇ" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-10</td>
       <td>Perfume</td>
@@ -825,8 +837,9 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 50</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 51</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 11</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 54</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 56</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
         </ul>
       </td>
@@ -834,6 +847,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/879a0645a8674c8ea2d9865c525e392a.png" alt="Cover for SHINING☆STAR" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-09</td>
       <td>9nine</td>
@@ -859,7 +873,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/EIqvMFr82A-_fnP0DFxNtvbX7DpdmKVB7hBiGJdmCQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkw/MjEwLTE1MjQyMTAy/MTctNzExMi5qcGVn.jpeg" alt="Cover for You May Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3e7d7e30f874b169a6c5d21264aa8d3.png" alt="Cover for You May Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-13</td>
       <td>LISP</td>
@@ -882,7 +896,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/649vJd-x5s5cl2bwC99UoiXZD6lm1jGICNjXUkPlO04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTMz/NjUtMTM1ODcwNzQw/MS00Mjk3LmpwZWc.jpeg" alt="Cover for stone cold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7f786f8fc740eaab450028eef4f21f.png" alt="Cover for stone cold" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-03</td>
       <td>FictionJunction</td>
@@ -905,7 +919,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3587f461f39b426ba14c863a35215a6c.png" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-17</td>
       <td>Tomato n&#39; Pine</td>
@@ -927,7 +941,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       <td>
         <ul>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 35</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 50</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -956,6 +970,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900f0614d6424351a2d06f0e4c5b5cf6.png" alt="Cover for オキドキ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-09</td>
       <td>SKE48</td>
@@ -1003,6 +1018,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8cb90ed5a45f9a600359f6c72abdea0.png" alt="Cover for 上からマリコ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-07</td>
       <td>AKB48</td>
@@ -1048,6 +1064,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f41cdc591d32054fb501d2154e5aa60.png" alt="Cover for ナイショの話" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>ClariS</td>
@@ -1092,6 +1109,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a827e61f14740e39c914b1c42ff69a7.png" alt="Cover for Harukaze" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-22</td>
       <td>Scandal</td>
@@ -1134,6 +1152,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 3</li>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 93</li>
         </ul>
       </td>
@@ -1141,6 +1160,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921a1479363384dd10a81dc3e337c7e8.png" alt="Cover for to the beginning" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Kalafina</td>
@@ -1156,14 +1176,14 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 24</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/AENdaLG-dRVAz1p4-EzHI1XgmBEZRvenln_rBn_LatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM4/NzctMTM1MTk2MDM2/MC0yMTcxLmpwZWc.jpeg" alt="Cover for MIRACLE RUSH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7620e807bdf94d38b9d250e084700732.png" alt="Cover for MIRACLE RUSH" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-16</td>
       <td>StylipS</td>
@@ -1185,18 +1205,13 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5385b83bcbba4784b8387913aa6eda9b.png" alt="Cover for Z女戦争" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-27</td>
       <td>ももいろクローバーZ</td>
       <td>Z女戦争</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
       <td>
@@ -1208,6 +1223,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2f643dbe9007975dbea03768df46ca2.png" alt="Cover for ニッポン笑顔百景" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-01</td>
       <td>桃黒亭一門</td>
@@ -1231,6 +1247,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937c6d701490c59e534183428d90850c.png" alt="Cover for ひかりふる" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-24</td>
       <td>Kalafina</td>
@@ -1274,6 +1291,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5371f500592546f8a352b89dd607370e.png" alt="Cover for RIVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>JKT48</td>
@@ -1297,6 +1315,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/596a04f39ea546e481f6f1629f943ed9.png" alt="Cover for Second Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-26</td>
       <td>ClariS</td>
@@ -1362,6 +1381,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1004152375fa44f8c4eebc62bfdeadcf.png" alt="Cover for カラフル" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-25</td>
       <td>ClariS</td>
@@ -1406,6 +1426,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c5042e64a524adeca6c9ef4cea632e2.png" alt="Cover for CLICK" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-29</td>
       <td>ClariS</td>
@@ -1535,7 +1556,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/vHpzMxjoN5vhISedHA7LzCA57IQRz6ITXarZyePyie4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjY3/NzMtMTQ1NDUwNDA1/Mi0xOTQxLmpwZWc.jpeg" alt="Cover for PoW! &#x2F; L.C.S." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bbe6481c370817fd07f90f26835c28e.png" alt="Cover for PoW! &#x2F; L.C.S." style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-03</td>
       <td>FEMM</td>
@@ -1558,7 +1579,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/fhv769wjmIPXCzQqI14W9JqZqu9oNn41U93SxZwgUu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MTc5LTE1NDE2MjEy/MTMtNDU2Ny5qcGVn.jpeg" alt="Cover for SHISHAMO 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9eb178fcfdf533aeef2e68513b940b.png" alt="Cover for SHISHAMO 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-02</td>
       <td>SHISHAMO</td>
@@ -1575,10 +1596,10 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 30</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 26</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 34</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1630,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/NnctrizOfKvCxJZYnyGeD769Jd7KSBTKai0UltOuDok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM3/NDQtMTQ2NDExNjA1/NC05OTE3LmpwZWc.jpeg" alt="Cover for Candy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0465184c456171d63764bea0faa66c07.png" alt="Cover for Candy" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-24</td>
       <td>FAKY</td>
@@ -1631,7 +1652,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/cce76wsK9uDpOeF9Opihw8Km2AabBMaWWdu3hvuojjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk1/ODI5LTE2MDMzNTYx/ODItNjYzMy5qcGVn.jpeg" alt="Cover for Neon Twilight &#x2F; Countdown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/293aad431153f5835fa7fcc60bf4b739.png" alt="Cover for Neon Twilight &#x2F; Countdown" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>FEMM</td>
@@ -1678,7 +1699,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/LQ15nCFqAB6KVXB5HA7ZhQtaShjMq3HK43LnK2Cp3AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEw/MTItMTM5MTcxOTY5/NC0yMzA2LmpwZWc.jpeg" alt="Cover for Between Us (The Mixers Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d037e8e33c21a8ef9c4af12f71aab54.png" alt="Cover for Between Us (The Mixers Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Little Mix</td>
@@ -1696,6 +1717,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 17</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 72</li>
         </ul>
       </td>
@@ -1735,10 +1757,6 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -1750,7 +1768,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/psHYz7WYO2_Ebwk5kblCoW2W-GTQcBlafZSn5C_Tzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTk3/MDctMTQ5MTg1NjI2/OC0zNDQ3LmpwZWc.jpeg" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd6e694d77e204de5c9d1a4332ade973.png" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-17</td>
       <td>BAND-MAID</td>
@@ -1767,7 +1785,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 28</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 33</li>
             <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 97</li>
         </ul>
       </td>
@@ -1775,7 +1793,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/ezoyJtECRFMn9Eeq2XRurjfOdNTDd3R24WdeHhE_wa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg3/NzUtMTQ4ODE2NDA0/MS0zMDQ3LmpwZWc.jpeg" alt="Cover for DEATHLESS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfcc20d48b5d6161eba6454c0295d2aa.png" alt="Cover for DEATHLESS" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-22</td>
       <td>NECRONOMIDOL</td>
@@ -1815,7 +1833,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 25</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1882,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae3dada3e97482153ffc32f4f5076a6.png" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-17</td>
       <td>tricot</td>
@@ -1883,7 +1901,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg" alt="Cover for E" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7b8b74037994ec3cedd0a2c8ce12e7f.png" alt="Cover for E" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-17</td>
       <td>tricot</td>
@@ -1905,7 +1923,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/hVQgDwJyn2QuLIhqczSHJOgbuw1USPeNKndj_8ozxnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/NjcyLTE2MTk5MzI1/MjUtNDgyNi5qcGVn.jpeg" alt="Cover for Time Lapse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3738b8c338e539dffeb7d099ee925da.png" alt="Cover for Time Lapse" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-20</td>
       <td>Poppin&#39;Party</td>
@@ -1951,7 +1969,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/ysPQFGXA-E35iqesXrySwrh-cgwRUgBBupV2I-oBo0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA0/NDAxLTE1NDYyNzUz/MDktNjgyOC5qcGVn.jpeg" alt="Cover for Kalafina All Time Best 2008-2018" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9a96194f410d7ae09cc52a592ba9dcb.png" alt="Cover for Kalafina All Time Best 2008-2018" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Kalafina</td>
@@ -1991,10 +2009,10 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 30</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 77</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 37</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 77</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2063,8 +2081,8 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 30</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 35</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2132,7 +2150,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/h6sTo4LwmqHI9BO9BBlh0lmV0QBOUj3NqxURcXqfXHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU5/MDgwLTE1NjcwMjk4/NTYtOTI3Mi5qcGVn.jpeg" alt="Cover for Fishing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd56709e8516444aa092551ba355580.png" alt="Cover for Fishing" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-21</td>
       <td>chelmico</td>
@@ -2178,7 +2196,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/MmcCv5jbENcAPrtpMwad-HU0RD2vbgtTozCYbs3Wrbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/NTgtMTQ4MTQwMDky/MC04MTg3LmpwZWc.jpeg" alt="Cover for YOLO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a54dbc171fff91ed86f346d9b28c23bf.png" alt="Cover for YOLO" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-27</td>
       <td>BAND-MAID</td>
@@ -2250,6 +2268,7 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfa6b21c81584fd7ac1d0fb97a9c62e8.png" alt="Cover for ミライボウル" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ももいろクローバー</td>
@@ -2290,12 +2309,14 @@ Girl band refers to pop music groups composed entirely or predominantly of femal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e89df326d55e3a9c1903ccafe9cac71.png" alt="Cover for One In A Billion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wake Up, May&#39;n!</td>

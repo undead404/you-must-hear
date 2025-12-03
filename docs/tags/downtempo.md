@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:55:48.608Z
+date: 2025-12-03T03:37:35.549Z
 permalink: tags/downtempo
 title: downtempo
 ---
 
 ## downtempo
 
-Last updated: <time datetime="2025-11-23T03:55:48.608Z">Sun Nov 23 2025 05:55:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:37:35.549Z">Wed Dec 03 2025 05:37:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,7 +60,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 90</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 49</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 88</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -232,7 +232,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -274,8 +274,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 18</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 73</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -332,8 +332,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 54</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 81</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 20</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 56</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 93</li>
         </ul>
       </td>
@@ -354,7 +354,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 21</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -392,7 +392,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 42</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -434,7 +434,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 79</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 8</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 84</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 99</li>
         </ul>
       </td>
@@ -549,8 +550,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 4</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 94</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -623,8 +624,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 35</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 38</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -668,6 +669,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72e8fd753e04693afd11197b35a2ede.png" alt="Cover for Breathe Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-01</td>
       <td>Sia</td>
@@ -680,6 +682,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -698,7 +701,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 30</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +738,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 36</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +774,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 70</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -832,7 +835,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
         <ul>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 39</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 58</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -853,8 +856,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 5</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 88</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -874,8 +877,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 32</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 79</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 68</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 98</li>
         </ul>
       </td>
@@ -934,7 +937,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 45</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +976,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 94</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -993,7 +996,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 73</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1049,8 +1052,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 63</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 81</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 20</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1071,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 84</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1184,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1278,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 14</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 81</li>
         </ul>
       </td>
@@ -1296,7 +1299,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 81</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1319,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 7</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1339,9 +1342,9 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 10</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 40</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 45</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 85</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1362,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
         </ul>
@@ -1400,8 +1403,9 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
             <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 71</li>
@@ -1427,7 +1431,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 92</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 100</li>
         </ul>
       </td>
@@ -1478,15 +1482,12 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       <td>Woman</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 95</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1529,7 +1530,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1593,8 +1594,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 19</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 58</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 59</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
@@ -1676,8 +1677,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1716,8 +1717,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 43</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1758,7 +1759,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 92</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1779,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 69</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1826,10 +1827,10 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 11</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1852,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 81</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1892,8 +1893,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       <td>
         <ul>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 34</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 57</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 79</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 59</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1915,7 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 86</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1935,10 +1936,10 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 99</li>
         </ul>
       </td>
@@ -1994,8 +1995,8 @@ Downtempo music is a genre of electronic music that is characterized by its rela
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 15</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 76</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 21</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 77</li>
         </ul>
       </td>
     </tr>

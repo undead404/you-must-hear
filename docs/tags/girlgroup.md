@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:56:32.013Z
+date: 2025-12-03T03:38:18.111Z
 permalink: tags/girlgroup
 title: girlgroup
 ---
 
 ## girlgroup
 
-Last updated: <time datetime="2025-11-23T03:56:32.013Z">Sun Nov 23 2025 05:56:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:38:18.111Z">Wed Dec 03 2025 05:38:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -164,7 +164,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 44</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 45</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 50</li>
         </ul>
       </td>
@@ -304,7 +304,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
         <ul>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 63</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 83</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 52</li>
+            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -473,8 +473,9 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 19</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1273,7 @@ Girlgroup is a pop genre centered on all-female vocal ensembles performing synch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 61</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 62</li>
         </ul>
       </td>
     </tr>

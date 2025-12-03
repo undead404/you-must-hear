@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:56:10.247Z
+date: 2025-12-03T03:39:12.332Z
 permalink: tags/jam
 title: jam
 ---
 
 ## jam
 
-Last updated: <time datetime="2025-10-28T05:56:10.247Z">Tue Oct 28 2025 07:56:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:12.332Z">Wed Dec 03 2025 05:39:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,7 +89,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 38</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 28</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 45</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 23</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -215,14 +215,14 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 27</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/HiBKHe8f3wg_f9YpMYjP2WDiEMDrqDXpRp3Kq9uTqMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMx/Ni0xNjQyMTczMjQ3/LTU3MTAuanBlZw.jpeg" alt="Cover for Zenhouse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6712256b8d04479892b0c34afdac160.png" alt="Cover for Zenhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Jonas Hellborg</td>
@@ -246,7 +246,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 55</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 56</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 57</li>
         </ul>
       </td>
@@ -254,7 +254,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/6547daga3dV474UIP2BJxy_lQq6scwkuF1W5Hb2Ihec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/OTQ5LTE2MDYzMjQx/MTQtNDQ5NS5qcGVn.jpeg" alt="Cover for Blues Jam In Chicago - Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea24eacfc98d41658e38f2f05277b5d2.png" alt="Cover for Blues Jam In Chicago - Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-11-04</td>
       <td>Fleetwood Mac</td>
@@ -271,14 +271,14 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 90</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/n7jMHfrUPsrkg1-7-_xRvceq3F-hptpF4EDwfrtEW7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY5/NjIxLTE2MjMxODk2/NjYtODk4MC5qcGVn.jpeg" alt="Cover for Blues Jam In Chicago - Volume 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b7ff895be6d45189adb1355c5f11c50.png" alt="Cover for Blues Jam In Chicago - Volume 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Fleetwood Mac</td>
@@ -396,6 +396,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b16fd0de57caf1a1c6714706933f01d9.png" alt="Cover for Cruel Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Rusted Root</td>
@@ -417,6 +418,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/626fc2993463ad6e0575d8593d9beb65.png" alt="Cover for A Picture of Nectar" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-02-18</td>
       <td>Phish</td>
@@ -429,7 +431,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 41</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +452,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 90</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +478,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/8M8_3km0Zlw5pH-uEi0jqqIgCuTl8NAbKof-SDSH4bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTQ3/NTgtMTQ3MzI4ODEx/NS05MDcxLmpwZWc.jpeg" alt="Cover for Crown of Thorns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/641fec793867ec5ce05ad676b68e4b56.png" alt="Cover for Crown of Thorns" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Pearl Jam</td>
@@ -554,6 +556,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3e1f74ee29842ddb0e137364b999d02.png" alt="Cover for Albumen" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>The Egg</td>
@@ -590,7 +593,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/V9OJDtYkBr1YJIrvzOkAvC-bo_rDj3cjR-F2ErBlM7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUx/NjgtMTM1OTMwNjAy/OC05MzMzLmpwZWc.jpeg" alt="Cover for Coolin&#39; Off" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34b5f6c90130eb7ef82dedc5acd9f18e.png" alt="Cover for Coolin&#39; Off" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-07-30</td>
       <td>Galactic</td>
@@ -621,7 +624,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 96</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +682,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 10</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -936,8 +939,8 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 10</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 97</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 4</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +961,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 70</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1018,6 +1021,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30c065e50e933b482138859d049bc534.png" alt="Cover for Germination" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-13</td>
       <td>Lotus</td>
@@ -1051,14 +1055,14 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 30</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/G_-Yi2xa2JDhQ1kNXOnOBUmLhtG1SCOb_LrwC603IWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjM4/NjktMTM3MzQ1OTkx/OS0zNTM1LmpwZWc.jpeg" alt="Cover for Blues Jam In Chicago" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f5e08ce4698448892cfaa98950a84ef.png" alt="Cover for Blues Jam In Chicago" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Fleetwood Mac</td>
@@ -1129,7 +1133,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 85</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1168,13 +1172,14 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 56</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acec810f53454c83a139c316c17eaa6e.png" alt="Cover for Hill Country Revue: Live At Bonnaroo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-12</td>
       <td>North Mississippi Allstars</td>
@@ -1227,8 +1232,8 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 63</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 81</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 97</li>
         </ul>
       </td>
@@ -1270,7 +1275,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/9smeI7gOuEq7NDS6rUojy5DgZ-XxEoJ1bt1JfvIRRuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI3/NTgtMTQyNzU3Mjg4/NS03NTE5LmpwZWc.jpeg" alt="Cover for Under The Microscope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a8a6ae1f8f567ec3352ead872c7c790.png" alt="Cover for Under The Microscope" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-20</td>
       <td>Ripplegroove</td>
@@ -1310,7 +1315,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/shNlCncGxmaRvgynY0P3bmEFpq94MviQ39ea6v_F6CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjEy/NDgtMTM3MTQxMTUx/OC04MjAzLmpwZWc.jpeg" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bd68790de54bd8b0c60dd27054ce60.png" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-22</td>
       <td>SPECIAL OTHERS</td>
@@ -1326,8 +1331,8 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 56</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1370,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 80</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 82</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 90</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 92</li>
         </ul>
@@ -1413,6 +1418,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065022797ec743edc31cc4bea0a16181.png" alt="Cover for The Horseshoe Curve" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>Trey Anastasio</td>
@@ -1429,7 +1435,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 47</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 99</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 100</li>
         </ul>
@@ -1460,6 +1466,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10e755634c84bdfcba8927a71db782b.png" alt="Cover for Miss Understood" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-05</td>
       <td>Carolyn Wonderland</td>
@@ -1477,7 +1484,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 63</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 65</li>
             <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 94</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 96</li>
         </ul>
@@ -1539,10 +1546,10 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 20</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 54</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 55</li>
             <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 56</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 82</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 80</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1593,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 45</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1613,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 26</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1633,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 63</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1650,8 +1657,8 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 44</li>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 81</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 18</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1717,6 +1724,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cacad63e7a5946e4bab8a2a6466387ce.png" alt="Cover for Hissteria" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-28</td>
       <td>Purling Hiss</td>
@@ -1738,6 +1746,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/def36f5c12b349a9b2a72dda4805a9c9.png" alt="Cover for Hook, Line &amp; Sinker" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-18</td>
       <td>Roomful Of Blues</td>
@@ -1785,14 +1794,14 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 46</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/YNhXQvj2nx7eugkF63rmFYFdFlSusy7Q1y_69_oZaqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/OTEtMTQ2MTg4NjI2/NC02ODMzLmpwZWc.jpeg" alt="Cover for Dead Set" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f202a1c08105a002dfe59f5434ada6.png" alt="Cover for Dead Set" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Grateful Dead</td>
@@ -1841,7 +1850,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 64</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1868,7 +1877,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/tCh8wpPefxbUqMFLGfkfN4jjTqEYs5HDQ8GuwLTGqP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTA1/ODYtMTQyMTc5MTAw/MC0xMjc3LmpwZWc.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9b0d5dd1cf40a8b4ec01fdbc0bce4c.png" alt="Cover for Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-17</td>
       <td>Guster</td>
@@ -1882,7 +1891,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 89</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1901,8 +1910,8 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 44</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 56</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1975,7 +1984,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 47</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2023,6 +2032,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c153fa07a4500003ca0dbc333b68c0d.png" alt="Cover for The Delta Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Delta Rasa</td>
@@ -2086,12 +2096,12 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 9</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 12</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 47</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 58</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 58</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 49</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
         </ul>
       </td>
@@ -2144,13 +2154,15 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 62</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 12</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/360179f0302b1536961800601aa9a485.png" alt="Cover for The Universe Inside" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>STS9</td>
@@ -2165,7 +2177,7 @@ Jam is a rock-oriented genre emphasizing extended improvisational passages and l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 65</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 33</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T08:21:38.531Z
+date: 2025-12-03T03:33:35.165Z
 permalink: tags/michigan
 title: michigan
 ---
 
 ## michigan
 
-Last updated: <time datetime="2025-11-24T08:21:38.531Z">Mon Nov 24 2025 10:21:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:33:35.165Z">Wed Dec 03 2025 05:33:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 29</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -145,13 +145,13 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 15</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 16</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 32</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 32</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 52</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 55</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 68</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 69</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 56</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 87</li>
         </ul>
       </td>
@@ -182,8 +182,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 11</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 41</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 60</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -303,8 +303,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 48</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 47</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 52</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 55</li>
         </ul>
       </td>
@@ -423,7 +423,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 56</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +484,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 5</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +504,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 23</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 27</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 92</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 93</li>
         </ul>
@@ -525,7 +525,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 20</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +547,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 2</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 40</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 96</li>
         </ul>
       </td>
@@ -681,7 +682,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 7</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 10</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 79</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 84</li>
         </ul>
@@ -705,7 +706,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 44</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 48</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 77</li>
         </ul>
       </td>
@@ -763,7 +764,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 6</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +783,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 24</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +806,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 29</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 33</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 61</li>
         </ul>
       </td>
@@ -903,7 +904,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 17</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -947,8 +948,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 47</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 52</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +969,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 10</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1046,8 +1047,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 19</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 26</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 73</li>
         </ul>
       </td>
@@ -1113,8 +1114,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 21</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 67</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1235,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 6</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1353,9 +1354,9 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 24</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 63</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 63</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1384,8 +1385,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 37</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 44</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 53</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 22</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1527,8 +1528,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 37</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 58</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1567,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 8</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 9</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 55</li>
         </ul>
       </td>
@@ -1587,7 +1588,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 7</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1607,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 16</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1650,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       <td>
         <ul>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 95</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 96</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1671,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 27</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 28</li>
             <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 83</li>
         </ul>
       </td>
@@ -1796,9 +1797,9 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 53</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 64</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 37</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 69</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 82</li>
         </ul>
       </td>
@@ -1840,7 +1841,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 33</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1880,8 +1881,8 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 22</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 35</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1944,7 +1945,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 26</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2042,7 @@ Michigan hip-hop emerged from Detroit&#39;s gritty urban landscape, blending agg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 14</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 15</li>
         </ul>
       </td>
     </tr>

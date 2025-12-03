@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T22:18:20.921Z
+date: 2025-12-03T03:41:15.488Z
 permalink: tags/atmospheric-drum-and-bass
 title: atmospheric drum and bass
 ---
 
 ## atmospheric drum and bass
 
-Last updated: <time datetime="2025-11-18T22:18:20.921Z">Wed Nov 19 2025 00:18:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:41:15.488Z">Wed Dec 03 2025 05:41:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -127,6 +127,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b8a470ac27110004ff0f9efd5828df6.png" alt="Cover for Logical Progression" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-08</td>
       <td>LTJ Bukem</td>
@@ -234,7 +235,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 75</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +256,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 27</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 75</li>
         </ul>
       </td>
@@ -296,8 +297,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -311,16 +312,15 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       <td>Temperamental</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 91.07142857142857 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 27</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 46</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -371,10 +371,6 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       <td>Producer 02</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
       <td>
@@ -507,7 +503,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 71</li>
         </ul>
       </td>
@@ -632,7 +628,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 64</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +788,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 91</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 93</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 98</li>
         </ul>
       </td>
@@ -904,7 +900,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 19</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 67</li>
         </ul>
       </td>
@@ -949,9 +945,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 49</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 77</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1012,8 +1008,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 10</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 14</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1073,7 +1069,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 39</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1096,10 +1092,10 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 2</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 96</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 97</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 98</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1122,10 +1118,10 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 1</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 97</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 98</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 99</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1147,6 +1143,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1170,18 +1167,18 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 13</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 68</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/J8rrSwhG5eDpX9GztTiZFMfpKslbf6n0HKH46zErnlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjE1/MTI0LTE1OTQxMTE1/NTctNjA5OS5qcGVn.jpeg" alt="Cover for Edge Of Innocence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e964b6554e4cd6b6d99b7f8a4517f168.png" alt="Cover for Edge Of Innocence" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>D. Tiffany</td>
@@ -1213,7 +1210,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 87</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1240,29 +1237,20 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bc96f61fb19302740c1fe79b06e205b.png" alt="Cover for AMERICAN WASTELAND" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>nascar aloe</td>
       <td>AMERICAN WASTELAND</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 39</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 59</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 40</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
         </ul>
       </td>
@@ -1283,9 +1271,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 7</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 16</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 90</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 13</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 19</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1327,8 +1315,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 5</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 38</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 11</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1354,10 +1342,10 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 5</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 37</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 68</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 88</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 95</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 69</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1382,9 +1370,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 63</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 81</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
             <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
@@ -1446,7 +1434,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 72</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1469,9 +1457,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 81</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
         </ul>
@@ -1492,7 +1480,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 67</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 91</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1516,9 +1504,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 34</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 46</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 72</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 27</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 41</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 93</li>
         </ul>
@@ -1561,7 +1549,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 51</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1619,8 +1607,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 6</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 95</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1665,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 27</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1698,8 +1686,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 57</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 79</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 20</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1707,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 86</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1739,7 +1727,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 90</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1760,8 +1748,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 2</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 94</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1799,8 +1787,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 13</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 32</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 19</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 35</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 82</li>
         </ul>
       </td>
@@ -1808,7 +1796,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/hr7rIq9hGZ6QfFORJ0Mc1-cHvzNvPDp5RYrr9hVe1tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM1/MTQ1LTE2NTU3MTk4/OTktNDUwMi5wbmc.jpeg" alt="Cover for Neon White Soundtrack, Pt. 1 (the Wicked Heart)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f011f2eb055643a7d07b48f4c230a10.png" alt="Cover for Neon White Soundtrack, Pt. 1 (the Wicked Heart)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-16</td>
       <td>Machine Girl</td>
@@ -1838,7 +1826,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 11</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1926,8 +1914,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 59</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 80</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 19</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1945,9 +1934,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 49</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 82</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 93</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1970,9 +1959,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 71</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 89</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 98</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 3</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2022,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/A_te3tQeDoVMFo47U37WPpcqGL9JZmY_qGaDis2JUYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUw/Nzc0LTE3MTYzODg4/NTgtNTk5Mi5qcGVn.jpeg" alt="Cover for The After Taste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0930d69e3171c1b2b1edb7253517dea9.png" alt="Cover for The After Taste" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05</td>
       <td>Kenya Grace</td>
@@ -2047,7 +2036,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 90</li>
         </ul>
       </td>
@@ -2075,8 +2064,8 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 51</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 57</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 89</li>
         </ul>
       </td>
@@ -2111,7 +2100,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/bbPFZLeoLgkIu2rQqNlEYyGiwhcne3fqh7DZtAqPjGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk2/MDM0LTE2ODI1Njcx/MDYtMjIyMy5qcGVn.jpeg" alt="Cover for fromjoy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3b1669dbd166e072b77d22688ab2bb.png" alt="Cover for fromjoy" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-08</td>
       <td>fromjoy</td>
@@ -2126,6 +2115,7 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2146,8 +2136,9 @@ Atmospheric drum and bass blends rapid breakbeats and deep basslines with ethere
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 36</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 55</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 39</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 45</li>
         </ul>
       </td>
     </tr>

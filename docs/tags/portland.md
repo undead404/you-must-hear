@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:30:10.436Z
+date: 2025-12-03T03:36:44.140Z
 permalink: tags/portland
 title: portland
 ---
 
 ## portland
 
-Last updated: <time datetime="2025-11-08T14:30:10.436Z">Sat Nov 08 2025 16:30:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:44.140Z">Wed Dec 03 2025 05:36:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -208,6 +208,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d06019def684412aaca0b55236d178df.png" alt="Cover for Enjoy The Art Of Lying Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-06</td>
       <td>Plastiq Phantom</td>
@@ -245,6 +246,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b896286f9f7d88150a04d1769008ac97.png" alt="Cover for Emotion Cycles" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-16</td>
       <td>Dahlia</td>
@@ -304,6 +306,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21401b08b30a848a135b00473ac0b93f.png" alt="Cover for The Size of Planets" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Haley Bonar</td>
@@ -364,7 +367,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/T4RPpSWwIOILM4wof8ZwME7V46ZjxhluUx56p54prEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTYy/MTMtMTM1MjQzNTI0/Ni00OTYyLmpwZWc.jpeg" alt="Cover for The Verdant Mile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fa166e705c54f88991a62b1bcf4c444.png" alt="Cover for The Verdant Mile" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Tracy Grammer</td>
@@ -403,7 +406,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/e4qcdNlQAq2ys1ruyuf08Ulz7DkR2nUHtMeqBPS4J7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI4/NS0xMDk1NDM4MzE4/LmdpZg.jpeg" alt="Cover for Flight From Echo Falls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f69cfca5d0f74f0bcfa7de60f9bd58fe.png" alt="Cover for Flight From Echo Falls" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-07</td>
       <td>Vells</td>
@@ -443,7 +446,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/W05Br0UdZnEnCtWG51NXP4cTJrgqxh_TQV0xzxsu-GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/NC0xMTQyMzA3ODkz/LmpwZWc.jpeg" alt="Cover for Plastiq Phantom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde6e89880c2426fb1924572db63cca2.png" alt="Cover for Plastiq Phantom" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>Plastiq Phantom</td>
@@ -464,7 +467,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/WS2CKuhHtpZLdGyQp6nMe2O7-0ycJiIPAdZUQznOKqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUz/OS0xMTA3MDQ5NzU0/LmpwZw.jpeg" alt="Cover for Psychic Emperor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0a8877dae624813b90541270fb78a37.png" alt="Cover for Psychic Emperor" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12-17</td>
       <td>Psychic Emperor</td>
@@ -503,6 +506,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17f38e0901944304ac8cabe1757d5df2.png" alt="Cover for Flower of Avalon" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Tracy Grammer</td>
@@ -541,7 +545,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/DS6krh0_sLPIhl2QcxwxyExJFCznjfqcYfLzVQBEF8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTU5/Ni0xMzg2NjQzNTcz/LTY4NTkuanBlZw.jpeg" alt="Cover for Present &#39;Picaresque&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc460dc41e1c468197b543bed1b2201f.png" alt="Cover for Present &#39;Picaresque&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09</td>
       <td>The Decemberists</td>
@@ -578,7 +582,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 73</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +627,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/a7BOOyF0hfmbzYAlUk8lXm6GAQ-qm1tu0e1uMMRp6kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzYx/OTYtMTIzMzY2ODcw/NS5qcGVn.jpeg" alt="Cover for Live at the Doug Fir Lounge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e482a1a9a1988e67d8f6b6a81efa69.png" alt="Cover for Live at the Doug Fir Lounge" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Richmond Fontaine</td>
@@ -778,6 +782,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0972e79af46d4bb2cb2e40ebda8cd456.png" alt="Cover for The Reckoning" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-11</td>
       <td>Kasey Anderson</td>
@@ -799,7 +804,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/0N4_sq14NPZoD-Q-8gq1-UdH8fA2V66070sZ8WWNIWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTc1/NzgtMTM4ODkwMjQ5/OC00NDEzLnBuZw.jpeg" alt="Cover for Integretron" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ac23632136a4f05b415854ffd76770e.png" alt="Cover for Integretron" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Vells</td>
@@ -820,7 +825,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/4V48iSzT_mCn75Kr11CAxUs-7KILLAQfO7Xgjjbb1To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/MTAxLTE1OTQ5Njcw/MjctMjE2OC5qcGVn.jpeg" alt="Cover for The Drunken Dance of Modern Man in Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5830a8a830bd762320c4bb498d8fa28.png" alt="Cover for The Drunken Dance of Modern Man in Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-07</td>
       <td>Chris Robley</td>
@@ -900,7 +905,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 80</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -933,7 +938,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/LqBPYjqajbPhDb4oTo3b4WiB1WRfGOfLMRWhhPpfjB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzM2/NjUtMTQ1OTU1OTAz/MC00MjgyLmpwZWc.jpeg" alt="Cover for Napalm &amp; Nitrogen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f4fe8f596b14a12b9473f0869d238a1.png" alt="Cover for Napalm &amp; Nitrogen" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Attica! Attica!</td>
@@ -954,7 +959,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/hv1C421sWSVCOzZRODMF9UxnYbEu1dvcpSl7qZCfgHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc1/MjAtMTI0MzMxNDM3/Ni5qcGVn.jpeg" alt="Cover for Breaks In The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/770c141decee4605ae7b1a692e7e1b5c.png" alt="Cover for Breaks In The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-21</td>
       <td>Weinland</td>
@@ -992,7 +997,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/a6cIql8lI4CpMkxxO4zM2NHFznVz9BJV5g20ZKxb-fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NzktMTUxOTQ3NjY3/MS0xOTg5LmpwZWc.jpeg" alt="Cover for Salvation Is A Deep Dark Well" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5bec3f661114f0492b85b615a28ec20.png" alt="Cover for Salvation Is A Deep Dark Well" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-16</td>
       <td>The Builders and the Butchers</td>
@@ -1015,6 +1020,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7858791139f142618c8067a807f129d9.png" alt="Cover for A Cave, A Canoo" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-13</td>
       <td>Shelley Short</td>
@@ -1031,7 +1037,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/2yjd64hlu5GL7MAJblyWXogUEFCWpfx5gGIhVg6JxK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjEx/NTgtMTI1OTE4MTEx/My5qcGVn.jpeg" alt="Cover for Bridge Carols" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a5e70c16f4e437eb38e9e67ac0a2c3f.png" alt="Cover for Bridge Carols" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-21</td>
       <td>Laura Gibson &amp; Ethan Rose</td>
@@ -1073,9 +1079,9 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 37</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 55</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 23</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
         </ul>
       </td>
@@ -1104,9 +1110,9 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 54</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1137,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/7AVsjQgS2dj_wbhADN9tTXXjT6OccPqfsXStUMQZ_fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU4/MzMtMTM3MjUzNTg4/My04MDU0LmpwZWc.jpeg" alt="Cover for Four Quartets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28ba30415bfed7d5d215c7503c3ca7d.png" alt="Cover for Four Quartets" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Four Quartets</td>
@@ -1154,6 +1160,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de94c1691db7418fa51650ac70cd7d10.png" alt="Cover for Postcard from Portland: Live at Dante&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Richmond Fontaine</td>
@@ -1172,7 +1179,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/VA8hblMRVwWFJ7bPhBzfti9jpRY41dduG05UzzRNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYz/OTctMTY4NDE4MzA1/Ni01MTA1LmpwZWc.jpeg" alt="Cover for Nowhere Nights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d868a49af0564d51b35d632dc3ee6546.png" alt="Cover for Nowhere Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Kasey Anderson</td>
@@ -1289,10 +1296,10 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 11</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 26</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 56</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 72</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1327,6 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/IGY53m6z9IhGUwUWO57rR3idPxBE5tnkuYi7OE9N1yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjQ4/MDYtMTQwMDk2MjEy/MC02NjA2LmpwZWc.jpeg" alt="Cover for Heart of a Dog" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kasey Anderson and the Honkies</td>
@@ -1382,7 +1388,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/kygW2xXMn6j5s5MYbgDjsIVUtE3Z1hbokYHv0bJBcWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzkw/MzAtMTUzNDYxMjM4/MC00ODAxLmpwZWc.jpeg" alt="Cover for Alright You Restless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ef87b9bf35476f8d79275fd38b529f.png" alt="Cover for Alright You Restless" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>AgesandAges</td>
@@ -1423,6 +1429,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/971c905ca89640d0a5f0b2afbf35ec8b.png" alt="Cover for Negative Emotions" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-24</td>
       <td>Monomate</td>
@@ -1446,13 +1453,15 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/155054a9b0be4b4da3801fd9bc940e82.png" alt="Cover for Agnostic Hymns &amp; Stoner Fables" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-06</td>
       <td>Todd Snider</td>
@@ -1487,7 +1496,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 63</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1542,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/MgykvHeSu2bcmsf-NoIOa0kkNXOVzoFpSkxYFygvo9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcw/NTQ4LTE2MTU5MTEy/MzEtNjI3NS5qcGVn.jpeg" alt="Cover for Home, Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56a7e7bbc3594ecc9a87b18c4bfdcf24.png" alt="Cover for Home, Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-05</td>
       <td>Coastlands</td>
@@ -1569,6 +1578,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/121a991177884241b445cbe031a213f1.png" alt="Cover for The Weight Of Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-02</td>
       <td>Agalloch</td>
@@ -1604,7 +1614,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 40</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1724,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/ROPqlGR0iQgIvoNPwNgNlpHq03IG1rC3fZo7v4a6IGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAx/MTE4LTE1NTgwMzE5/MDItNjQ1My5qcGVn.jpeg" alt="Cover for Replay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6421620273597e9e6e27bdad78c70f7.png" alt="Cover for Replay" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-14</td>
       <td>Bed.</td>
@@ -1752,7 +1762,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 19</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 100</li>
         </ul>
       </td>
@@ -1774,14 +1784,14 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 80</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/VUw2cs95qi_st-Tq30R6sXS2YLniVaWEMM99RRW-5qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgy/MTM2LTE2MjAxMDYz/NDEtMjgzNy5qcGVn.jpeg" alt="Cover for rainmaking" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34b0044b5c7b791280234994bc65f3b9.png" alt="Cover for rainmaking" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-12</td>
       <td>Rainmaking</td>
@@ -1796,7 +1806,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 29</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1834,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/kvqmyfA6pcb9lLTCwFO1Wj_gfa16gAqI-CPKiOMcGmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA2/NjEtMTU3OTc0MzUx/OS01MzQ2LmpwZWc.jpeg" alt="Cover for Todd Snider Live-The Storyteller" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c46fc7688d344a9582b071b59d5d758c.png" alt="Cover for Todd Snider Live-The Storyteller" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>Todd Snider</td>
@@ -1861,7 +1871,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62be0a2cbea64a90a487318014ea45c2.png" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-24</td>
       <td>Jetlagged</td>
@@ -1873,7 +1883,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       <td>
         <ul>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 25</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
             <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
@@ -1927,10 +1937,10 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 5</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 9</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 22</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 25</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 62</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1988,14 +1998,15 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 33</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 69</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 38</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a4a5f8dbb34f4ebd6d1ef06909471e.png" alt="Cover for Circumpolar westerlies" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Swim Swam Swum</td>
@@ -2075,6 +2086,7 @@ The Portland tag captures the eclectic indie spirit of the Pacific Northwest cit
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68e3abdc98c549e3b9c7b696512e86f4.png" alt="Cover for An Open Mouth Hears No Words" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>How to Build a Fire</td>

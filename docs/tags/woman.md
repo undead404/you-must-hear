@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:29:28.225Z
+date: 2025-12-03T03:35:41.529Z
 permalink: tags/woman
 title: woman
 ---
 
 ## woman
 
-Last updated: <time datetime="2025-11-08T14:29:28.225Z">Sat Nov 08 2025 16:29:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:35:41.529Z">Wed Dec 03 2025 05:35:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -95,6 +95,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2cf667aacc8e8b64e0de3ba5dd42dac.png" alt="Cover for Souviens-toi de m&#39;oublier" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Catherine Deneuve</td>
@@ -118,7 +119,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 46</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -167,7 +168,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/8XlEHF4F0HaCMSGEZ4C8nHicyBqoCrjOmIACY0hGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE0/NjktMTM4NDc5OTU4/Ny0zOTI4LmpwZWc.jpeg" alt="Cover for A Circle is Cast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e56df643a8188cf2118e11de046111f.png" alt="Cover for A Circle is Cast" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Libana</td>
@@ -183,7 +184,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 56</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 58</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 85</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 91</li>
         </ul>
@@ -272,7 +273,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 44</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +326,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 31</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +352,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/GoCoUROtHUe4HCbgQTEcXludPuGf9RFjjV3a7nykIbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcz/MjUtMTYxNzYyMTg0/NC03MDI3LmpwZWc.jpeg" alt="Cover for Mother Wisdom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd907c819c6b872efe1dff00a1ff6368.png" alt="Cover for Mother Wisdom" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Kiva</td>
@@ -367,7 +368,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 55</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 84</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 90</li>
         </ul>
@@ -388,7 +389,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 58</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +439,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 33</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +492,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 36</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -515,13 +516,14 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>
         <ul>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 50</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 68</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f912c8a6ec7bf975d6ef5aaaf647f27e.png" alt="Cover for The Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Julie London</td>
@@ -546,10 +548,9 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>Ivete Sangalo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 95.3125 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -660,6 +661,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8be55d20a62a4555a5c53ddfef91cb60.png" alt="Cover for Night Passage: Invocations for the Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-31</td>
       <td>Libana</td>
@@ -676,7 +678,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>
         <ul>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 66</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 71</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -770,10 +772,12 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 10</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 37</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 68</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 45</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +823,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 84</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -841,9 +845,9 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 11</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 12</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 75</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 76</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +943,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 14</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -960,8 +964,8 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 11</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 35</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 10</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -989,6 +993,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5f94c27754f48e09d771cce7c4c0ff7.png" alt="Cover for Herzlichst, Mireille" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-15</td>
       <td>Mireille Mathieu</td>
@@ -1033,14 +1038,16 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 43</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 3</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 5</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d3a7a63767da7799d7a36caf1e390a0.png" alt="Cover for The Will Of A Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Shania Twain</td>
@@ -1049,6 +1056,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
         </ul>
       </td>
       <td>
@@ -1080,6 +1088,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20c6336284aaf1ea6b127a457896f14f.png" alt="Cover for Return of the Goddess" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-21</td>
       <td>Lindie Lila</td>
@@ -1095,7 +1104,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 66</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 67</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 87</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 93</li>
         </ul>
@@ -1104,7 +1113,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/lAajpn0bOLmBDitKHh42zKlraYaA7qOA8yptPugQj9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzYw/NjAtMTM5MTg1ODY4/Ny04MTE3LmpwZWc.jpeg" alt="Cover for Voyeur" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9edda62bdd484b549ab9ff6ce4a8cc52.png" alt="Cover for Voyeur" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-01</td>
       <td>Keeley Hazell</td>
@@ -1175,14 +1184,14 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 6</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/cJ4oVUn7ZxYUqrqcu4i4Zl4GU9aHZVwb_TU2XVAHg0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjYtMTMwNjU2MTkz/NS5qcGVn.jpeg" alt="Cover for Shee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d5836e1776c719ae2a5fcf01cdfee18.png" alt="Cover for Shee" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-23</td>
       <td>Skerror</td>
@@ -1202,8 +1211,9 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 40</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 69</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1270,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 28</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1411,6 +1421,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/371cfdf9a986410d82b75f3e8e5cff05.png" alt="Cover for sandman" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-09</td>
       <td>zip tone</td>
@@ -1454,26 +1465,16 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>Forever EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 34</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 59</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 1</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1503,7 +1504,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 29</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1525,8 +1526,8 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 3</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 89</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1565,15 +1566,15 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 82</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/ih1I0VS-LFM9jbSBrGRhHCCO_pnNClsECnMyP87gJ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA0/ODk0LTE3MTMxODgx/NDEtODU1Ni5qcGVn.jpeg" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f8a1f29f716e9a1b449bad2d4b4ee9.png" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Marjan Farsad</td>
@@ -1866,8 +1867,8 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 1</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 53</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 2</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1888,14 +1889,14 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 64</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/EGYb3lAPH9gXw0Z2c2S7HGp8d-r9oebEUCInf6se0zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTcw/ODAzLTE2ODMxOTQz/MjctMzEyMi5qcGVn.jpeg" alt="Cover for One More Red Light - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/096cf62904954a3056b1bf7fe1c534b0.png" alt="Cover for One More Red Light - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-10</td>
       <td>Cassadee Pope</td>
@@ -2042,7 +2043,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 13</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2064,13 +2065,14 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 15</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bbfb9876604e24ce6b20bff68d0993.png" alt="Cover for This too, In time, Shall pass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lindy LaFontaine</td>
@@ -2082,13 +2084,14 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>
         <ul>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 24</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 46</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38c50e6764324632a307cc86e4935523.png" alt="Cover for Revel Moon" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Revel Moon</td>
@@ -2105,15 +2108,16 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 10</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 11</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 73</li>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 75</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0c165e67d6b4cd0cc4534d1fccbebc8.png" alt="Cover for Lindy LaFontaine" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lindy LaFontaine</td>
@@ -2141,7 +2145,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>
         <ul>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 38</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 52</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2165,7 +2169,7 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 13</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 43</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 61</li>
         </ul>
@@ -2318,15 +2322,13 @@ The &quot;woman&quot; tag encompasses vocal music featuring female artists acros
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd17b352da78cd35f57e1cba440ba47a.png" alt="Cover for theyesandeye" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lou Rhodes</td>
       <td>theyesandeye</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
       <td>

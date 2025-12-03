@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:36:14.740Z
+date: 2025-12-03T03:37:30.897Z
 permalink: tags/dark-cabaret
 title: dark cabaret
 ---
 
 ## dark cabaret
 
-Last updated: <time datetime="2025-11-26T02:36:14.740Z">Wed Nov 26 2025 04:36:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:37:30.897Z">Wed Dec 03 2025 05:37:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -520,7 +520,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 4</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -706,16 +706,14 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 32</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 33</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 49</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 87</li>
             <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 89</li>
         </ul>
       </td>
@@ -736,7 +734,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 43</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 44</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 46</li>
         </ul>
       </td>
@@ -775,10 +773,10 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 26</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 35</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 38</li>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -948,9 +946,9 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 10</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 51</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 54</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +967,8 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1021,6 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1242,7 +1240,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 22</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 23</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
         </ul>
       </td>
@@ -1377,7 +1375,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 18</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1435,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 12</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 48</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1559,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1612,7 +1610,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 69</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
@@ -1695,7 +1693,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1804,7 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 37</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 97</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
         </ul>
@@ -1871,12 +1869,12 @@ Dark cabaret is a theatrical music genre that blends the dramatic flair of Weima
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 11</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 90</li>
         </ul>
       </td>
     </tr>

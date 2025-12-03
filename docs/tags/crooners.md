@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:58:07.860Z
+date: 2025-12-03T03:39:25.589Z
 permalink: tags/crooners
 title: crooners
 ---
 
 ## crooners
 
-Last updated: <time datetime="2025-11-23T03:58:07.860Z">Sun Nov 23 2025 05:58:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:25.589Z">Wed Dec 03 2025 05:39:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,6 +87,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0117de2638690883285d502c2632800.png" alt="Cover for It&#39;s a Blue World" style="max-width:120px; height:auto;" />
       </td>
       <td>1955</td>
       <td>Mel Tormé</td>
@@ -107,7 +108,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/LxGcZfGOBKJt9h1COYWfGdDHXEfsxMCi0QHh-gspacQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg5/MDEtMTM3NDU0NjA2/OS04MDkyLmpwZWc.jpeg" alt="Cover for Songs from the Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab60883e60bd506f2c960e9917627799.png" alt="Cover for Songs from the Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1956</td>
       <td>Johnny Hartman</td>
@@ -239,7 +240,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/x0x5Xvydy4X-SZq6mQgKq3IBGtNU779MV_l5QKrY6eU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDM5/OTMtMTM3NDExMTYw/NC04ODI3LmpwZWc.jpeg" alt="Cover for To You Sweetheart, Aloha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a5717bc08ed58274bfa4c5c85e7981c.png" alt="Cover for To You Sweetheart, Aloha" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>Andy Williams</td>
@@ -256,6 +257,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a76764d07330426594a4d26e545c3a1d.png" alt="Cover for Swingin&#39; On The Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>1960</td>
       <td>Mel Tormé</td>
@@ -311,7 +313,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/BVpOk2hX3AD0Du6oEo-HJudnAMo4DOKUWtvNVIqkh0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzM3/MzAtMTY3OTYwNzI3/Ni02MTI0LmpwZWc.jpeg" alt="Cover for Happy Birthday Sweet Sixteen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/548c72571d434f9e82e77ccf504d4103.png" alt="Cover for Happy Birthday Sweet Sixteen" style="max-width:120px; height:auto;" />
       </td>
       <td>1961</td>
       <td>Neil Sedaka</td>
@@ -334,7 +336,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/7Cv85snhFzvui0RJ2Q0-QLxuDRws6ZqVQ4invNACXUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDM5/NjAtMTQyOTg3NTA1/Ni0yNzgwLmpwZWc.jpeg" alt="Cover for Hell Bent For Leather" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f171073c1f4cf48e4f4505ed3d83e2.png" alt="Cover for Hell Bent For Leather" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Frankie Laine</td>
@@ -356,7 +358,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/RgHvL0gwZ9H5lO4jnUiZNFqlrw53Dcno8Ct5oWZ9QcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTkw/MTUtMTQxNTg4NTUx/OS0yMzQ5LmpwZWc.jpeg" alt="Cover for Some Enchanted Evening" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31df843e106e4afc898a7a51c5428faf.png" alt="Cover for Some Enchanted Evening" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Dean Martin</td>
@@ -438,6 +440,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06ff9a7878e30cc92f34e41190cd7bb4.png" alt="Cover for The Andy Williams Christmas Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1963-10-14</td>
       <td>Andy Williams</td>
@@ -493,7 +496,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/_0dvbyvJUxuh1xaAvi9HqacqPoZL9iGWVGTnBab0VYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDg2/MjItMTQxODQ5Njkw/MS03NDcyLmpwZWc.jpeg" alt="Cover for Best Of The EMI Years (1961-1972)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f811bd8c9818ad77dc6bafc58e2bf670.png" alt="Cover for Best Of The EMI Years (1961-1972)" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>P.J. Proby</td>
@@ -554,7 +557,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/dNpNLX73ASuN4tLhfCcj8u1p8XkOhiYlmBLOLxZSIuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODc0/OTYtMTU1NTUyMTAz/OS02NTc5LmpwZWc.jpeg" alt="Cover for The Essential John Gary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b855ebf56eae41f5c1599614df38e4d3.png" alt="Cover for The Essential John Gary" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>John Gary</td>
@@ -677,7 +680,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/xmW4CJNP48M917HGA-rfs8J4YTG-cq-kmrtUY3LwPNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODA0/NjgtMTQ3OTU2MzU2/My00NDI3LmpwZWc.jpeg" alt="Cover for Matt Monro - The Singer&#39;s Singer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0eb41c3991a6ddd099f47371a69553f.png" alt="Cover for Matt Monro - The Singer&#39;s Singer" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-03</td>
       <td>Matt Monro</td>
@@ -826,7 +829,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 9</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 10</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 62</li>
         </ul>
       </td>
@@ -871,7 +874,6 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/L0fmj_Zer9SgOsIUrYb4xG8f-yedB0cCh2YNFJFAswQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzUx/MzEtMTU3MTAwOTE4/NC0xMDU1LmpwZWc.jpeg" alt="Cover for Hollands Glorie Levensliedjes &amp; Smartlappen Top 100" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Ben Cramer</td>
@@ -960,6 +962,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1015,14 +1018,14 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 83</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/r1WToFvlMrUAoh7ZkFCba9bpxomw3iwdhTLmnGt42_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjc5/NTItMTU5NjU5ODAy/MC04NTUxLmpwZWc.jpeg" alt="Cover for My Greatest Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2641eb044ef4fca60171b46d2e29a9a8.png" alt="Cover for My Greatest Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Perry Como</td>
@@ -1187,7 +1190,6 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/7HdY-b_a38LXQrdb7VDYv3A8BnWXBGdlNrsy_R6_2cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMz/OTY0LTE1MDMzMTU1/ODItMTUwNC5qcGVn.jpeg" alt="Cover for 100 Hits Of The &#39;70s" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01-01</td>
       <td>Elvis Presley</td>
@@ -1629,6 +1631,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/785b36ee39aa40e1c0ecf9c95788d631.png" alt="Cover for Romance" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-26</td>
       <td>Frank Sinatra</td>
@@ -1667,7 +1670,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/sMsMwO-GN-O5AggKyWjV5sasSzhLmwIvOOep5oPUmtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjYy/NjQtMTQyOTY1NTI2/Ny01NDU5LmpwZWc.jpeg" alt="Cover for Very Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b605e2d30ea54e43939fcca88adf134a.png" alt="Cover for Very Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Bobby Darin</td>
@@ -1724,13 +1727,14 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/445394e7459547a09451c50ea2022698.png" alt="Cover for The Very Best of Perry Como" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Perry Como</td>
@@ -1748,7 +1752,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/ns0Y5BIJoPcT3Z2QLZb4SyyEmpo9JXlrhYaapxKSRqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA2/MzMwLTE1MTgzMDA4/MjItMzY0OS5qcGVn.jpeg" alt="Cover for DINO - The Essential Dean Martin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbb48b104a8940fe9efbb48b84219ceb.png" alt="Cover for DINO - The Essential Dean Martin" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Dean Martin</td>
@@ -1781,7 +1785,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 15</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 16</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 64</li>
         </ul>
       </td>
@@ -1839,7 +1843,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 46</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 97</li>
         </ul>
       </td>
@@ -1847,6 +1851,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dbe180af11e40e7943f1cad59268109.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-18</td>
       <td>Frankie Laine</td>
@@ -1879,7 +1884,7 @@ Crooners are smooth-voiced male vocalists who rose to prominence from the 1930s-
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 37</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 92</li>
         </ul>
       </td>
     </tr>

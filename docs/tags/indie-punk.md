@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T23:57:57.024Z
+date: 2025-12-03T03:39:29.826Z
 permalink: tags/indie-punk
 title: indie punk
 ---
 
 ## indie punk
 
-Last updated: <time datetime="2025-11-13T23:57:57.024Z">Fri Nov 14 2025 01:57:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:29.826Z">Wed Dec 03 2025 05:39:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 39</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -111,7 +111,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 73</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -136,8 +136,8 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 9</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 64</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -235,8 +235,8 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 20</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 80</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +261,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 47</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 15</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 49</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -444,7 +444,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 46</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +484,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 55</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +528,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 42</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 44</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 14</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 84</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 19</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +633,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 41</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -809,13 +809,14 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/_xUcfOoR_bduK8GNFz1UslCSTuchQBPXc2UZiuzvYuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ4/NzktMTQ1MTk1MjA3/Ni05Mjc2LmpwZWc.jpeg" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/877b6a11524f4017a7653b6344ac6a06.png" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-30</td>
       <td>American Standards</td>
@@ -1021,7 +1022,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 28</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1063,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 65</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1109,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 50</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1149,6 +1150,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1219,10 +1221,10 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 59</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 81</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1243,7 +1245,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 50</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1267,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 64</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1289,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 76</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1370,14 +1372,14 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 60</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/nXnS8bsXZK-E0U0sf5E7ChAm7Av02uZTuMgdvU2X9m8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk4/Mzk5LTE1NDAyNjQ2/ODAtNjIxNi5qcGVn.jpeg" alt="Cover for Marely Barch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf688f2669be3b3ae33b52cee5bd999.png" alt="Cover for Marely Barch" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10</td>
       <td>Barely March</td>
@@ -1573,14 +1575,14 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 73</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/5J6E33itQd8SUARF9cj-afOpBjSlyKRWi41yhJEOGp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njk3/NDI5LTE2MjA4MzU3/NTktNTUyMC5qcGVn.jpeg" alt="Cover for Duel of the Deer (Matt the Band)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad28d329fcd5a12b2333552b66935e58.png" alt="Cover for Duel of the Deer (Matt the Band)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-06</td>
       <td>Math the Band</td>
@@ -1670,7 +1672,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 48</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1728,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 3</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 4</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 63</li>
         </ul>
       </td>
@@ -1900,7 +1902,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 56</li>
             <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 89</li>
         </ul>
       </td>
@@ -1969,7 +1971,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 40</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1999,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 7</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 12</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 95</li>
         </ul>
       </td>
@@ -2028,9 +2030,9 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 64</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 42</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 63</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 69</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 98</li>
         </ul>
       </td>
@@ -2045,16 +2047,10 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       <td>What&#39;s On TV?</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2081,9 +2077,9 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 46</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 48</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 51</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 55</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2130,6 +2126,31 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1eabcc263f4066c03abbfe3eaa0261.png" alt="Cover for Reconciliation" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>(Person) (Noun)</td>
+      <td>Reconciliation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2197,30 +2218,6 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e1eabcc263f4066c03abbfe3eaa0261.png" alt="Cover for Reconciliation" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>(Person) (Noun)</td>
-      <td>Reconciliation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2232,7 +2229,7 @@ Indie punk merges the raw energy and DIY ethos of punk rock with the melodic sen
 - [indietronica]({{ "/tags/indietronica" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [pop punk]({{ "/tags/pop-punk" | relative_url }})
-- [ska]({{ "/tags/ska" | relative_url }})
 - [ska punk]({{ "/tags/ska-punk" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [ska]({{ "/tags/ska" | relative_url }})
 - [emo]({{ "/tags/emo" | relative_url }})

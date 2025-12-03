@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:33:41.490Z
+date: 2025-12-03T03:33:43.806Z
 permalink: tags/new-jersey
 title: new jersey
 ---
 
 ## new jersey
 
-Last updated: <time datetime="2025-11-26T02:33:41.490Z">Wed Nov 26 2025 04:33:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:33:43.806Z">Wed Dec 03 2025 05:33:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,8 +81,8 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 67</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 68</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 4</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +579,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 95</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +952,7 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/966d071fd45145b09087d8c36d6ce6a0.png" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-20</td>
       <td>Riding Alone for Thousands of Miles</td>
@@ -974,8 +974,8 @@ The &quot;new jersey&quot; tag represents the diverse musical output from the Ga
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 84</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 97</li>
         </ul>

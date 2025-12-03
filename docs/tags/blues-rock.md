@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:37:28.746Z
+date: 2025-12-03T03:38:52.819Z
 permalink: tags/blues-rock
 title: blues rock
 ---
 
 ## blues rock
 
-Last updated: <time datetime="2025-11-26T02:37:28.746Z">Wed Nov 26 2025 04:37:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:38:52.819Z">Wed Dec 03 2025 05:38:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -698,7 +698,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 30</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 30</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -720,8 +720,8 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 31</li>
             <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 32</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +952,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 97</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 4</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 99</li>
         </ul>
       </td>
@@ -1110,7 +1110,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 19</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 25</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1131,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 43</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 44</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 64</li>
         </ul>
       </td>
@@ -1850,7 +1850,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 27</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1898,8 +1898,8 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 21</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 38</li>
             <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 55</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 56</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 66</li>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 94</li>
         </ul>
@@ -1921,7 +1921,7 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 37</li>
         </ul>
       </td>
     </tr>

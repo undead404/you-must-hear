@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:56:14.650Z
+date: 2025-12-03T03:39:16.717Z
 permalink: tags/vancouver
 title: vancouver
 ---
 
 ## vancouver
 
-Last updated: <time datetime="2025-10-28T05:56:14.650Z">Tue Oct 28 2025 07:56:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:39:16.717Z">Wed Dec 03 2025 05:39:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,14 +51,14 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 8</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/MaGUaklP89faaklm9kjnwJIT-tgB39d2SoO_Mkt1Og0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTYz/NDEtMTQ0MzkwNDMy/NS05ODkxLmpwZWc.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8987acade726276799ee4ceb9cb97353.png" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Sunshine</td>
@@ -156,7 +156,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/kp4sSjDagDqtIiDYV1auzAlG5UCcy7Y95fwEQZStlWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjAz/OC0xMzAwODY3NzY3/LmpwZWc.jpeg" alt="Cover for 0+2&#x3D;1½" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/617d6997a4a847e9948ad18a904b421c.png" alt="Cover for 0+2&#x3D;1½" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>NoMeansNo</td>
@@ -258,7 +258,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/lZJrCTulNyLyoM7fM1NBBoua-eVtwqrEZ9oTL0_TMVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTQ2/ODMtMTQ0NjUyNjE0/OS00MDE0LmpwZWc.jpeg" alt="Cover for Horny Astronaut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f7b5f64776a3e5f757d32cce2c9e107.png" alt="Cover for Horny Astronaut" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Zolty</td>
@@ -297,6 +297,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d9290fba06440cc118d60c7f118590.png" alt="Cover for Contradictions" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-01</td>
       <td>Kim Kuzma</td>
@@ -335,7 +336,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/yUwc4DCmxoXIsKJLklE6a05l71V4rUci31eLLreQPQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzAz/MjEtMTMyNjA0NjE1/OC5qcGVn.jpeg" alt="Cover for Noise Therapy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e8b22ee8aab439f832dbbcfa8e6d92e.png" alt="Cover for Noise Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Noise Therapy</td>
@@ -354,7 +355,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/Aix2sf3wUOd1CM3WLMv-vfQWkSEc6aXik6I_cimMdSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ1/MTctMTQ0MjY0Mjg0/Mi02NzQzLmpwZWc.jpeg" alt="Cover for Organ Favorites" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65e44bc307d8b78b80bd4e2a90d755cf.png" alt="Cover for Organ Favorites" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-17</td>
       <td>Mr. Fist</td>
@@ -414,7 +415,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 29</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +440,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/kqvJeyBrrZMhYXalOx0XSJXpMUSlrrYZb7t8hP9kM_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA5/ODgtMTIyOTk3MDY4/MC5qcGVn.jpeg" alt="Cover for In the Meantime and in Between Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b14eadbfc3564531c55fe69e1a3ca53e.png" alt="Cover for In the Meantime and in Between Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-19</td>
       <td>SNFU</td>
@@ -458,7 +459,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/NhoVkP0UCWWP17SZHDojj5Ssh_tjVTMR0cdULFqX8KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/NjE3LTE1MTUyNTMz/NzQtMTMzNS5qcGVn.jpeg" alt="Cover for Influence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/355b040c1e2421a596d6c1acde59656b.png" alt="Cover for Influence" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Megan Fanning</td>
@@ -498,7 +499,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/whCUc_2JI29cX45zAWQ9cxjfoKYm424Z_5vx9ObbAhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTM3/MjUtMTQxMTY3MjIy/OC02MDA5LmpwZWc.jpeg" alt="Cover for The Early Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2b2617ead1741d194d93ea8c37cfa6c.png" alt="Cover for The Early Years" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-24</td>
       <td>Sparrow</td>
@@ -518,7 +519,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/w3Dwu43ugBSMGW--3q9TV6Z3wAYKqeahubTK2Lep96I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzkx/NC0xMDk4Mjk2MDQ5/LmpwZw.jpeg" alt="Cover for Deep State" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22c89ca5c287b246553cf83e1244e996.png" alt="Cover for Deep State" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Vessel</td>
@@ -606,7 +607,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/noEmI1q8GnOcrvbB_bZcz0QcMwZ-6YtAAd61XvL_K9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc2/MzItMTIwOTk2Nzk4/NS5qcGVn.jpeg" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b297f5aa4dbf441a842b605f7cfa23d1.png" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-19</td>
       <td>Flowers From the Man Who Shot Your Cousin</td>
@@ -627,9 +628,9 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 44</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 70</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 46</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 72</li>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 79</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 89</li>
         </ul>
@@ -638,7 +639,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/gt2cP1FO5JvGVmwd-P2B7lgi7WLQ00kGiB3hvHzRiLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/MzAtMTQ4OTA3NjI0/My0xMzcxLmpwZWc.jpeg" alt="Cover for This Is An Ad For Cigarettes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3282a04b2772ffa54cc19015bce1f2a9.png" alt="Cover for This Is An Ad For Cigarettes" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Winning</td>
@@ -678,7 +679,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/_AIyIS-bAUu5rzd5cGCUCWt0T7uytCRQsvL7guakyv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjEx/NjItMTQ0MzIwMDUx/NS0zOTQzLmpwZWc.jpeg" alt="Cover for Empty Returns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89888d7c7708ed45eb644b14337b304b.png" alt="Cover for Empty Returns" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Mr. Fist</td>
@@ -779,7 +780,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/2ueOc8Eb2dYkzhm25eUl_YHi6wS09GQE0GixoiZ7oPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM1/NjM4LTE1ODg0Njg5/ODktMzQwOC5qcGVn.jpeg" alt="Cover for doubleplusungood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f0bdbd9186ecb338059de0eecc09067.png" alt="Cover for doubleplusungood" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-01</td>
       <td>Rat Silo</td>
@@ -839,7 +840,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/rt4s2Swq081cP9RyQOy6DIKsAgvQjiCzdxO_AbwAJd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTcx/MTgtMTQ0MzExMzk2/Ny0xNjAzLmpwZWc.jpeg" alt="Cover for Shitacular Crapaganza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d122cac17a39796de276a0e4ddbca79.png" alt="Cover for Shitacular Crapaganza" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-15</td>
       <td>Mr. Fist</td>
@@ -863,7 +864,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/EmqNzxXEsynmah3ZzQZuq_eADjvx0EwdmomanWZ8_ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjE1/NTktMTI4NTM1OTI1/Ny5qcGVn.jpeg" alt="Cover for Riser" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa67d1f17a84e6da7f7ffb67a3c7bc4.png" alt="Cover for Riser" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-12</td>
       <td>Fieldhead</td>
@@ -886,7 +887,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/U80tQV2tmS69DNlEZEFrAwIGoO8JR7SMdZ_dCuWoo3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTcw/MjktMTQ0MzExMjc4/Ni02MDMwLmpwZWc.jpeg" alt="Cover for Pig" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/278d10b5cee5b1ef440bbfdf110a6c73.png" alt="Cover for Pig" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-29</td>
       <td>Mr. Fist</td>
@@ -934,7 +935,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/SUoH_6IBDovvlB1C6Ula9PDkBHJuy1wRJi5tWJf9j1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDcz/MTYtMTQ0MjkwNTA2/My0zMzc5LmpwZWc.jpeg" alt="Cover for Grey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d27a945d452269c86afa2f527d8cfbb.png" alt="Cover for Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-10</td>
       <td>Mr. Fist</td>
@@ -960,7 +961,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/jdkpD1VvOQ1PR7Irf5MLEiS17waM_NT1LgZsfERXxQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDY2/ODAtMTQ0Mjg4NDg2/MC0yODM3LmpwZWc.jpeg" alt="Cover for The Brain Machine Emporium of Professor Fist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e9725124a4c03453043882934865acf.png" alt="Cover for The Brain Machine Emporium of Professor Fist" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-10</td>
       <td>Mr. Fist</td>
@@ -985,7 +986,6 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/Rr8Cg09pEeNhe-z8sVD9IZchQlqz9YdQmPBtq9CQE5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjA2/NzgtMTQzOTc4NDIx/NC02NDM1LmpwZWc.jpeg" alt="Cover for 20 Something (The Beats)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Chapter Thrive &amp; Ryan Stinson</td>
@@ -1094,13 +1094,14 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 80</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5d96bd8d2fd4d67b6240db9464454bb.png" alt="Cover for The World Is Too Much With Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-16</td>
       <td>Peace</td>
@@ -1120,7 +1121,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/28-DhnWFnlgYSQTGO3Y6So7ZQd8XpNIjc2SsolTAwWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzYx/MDgtMTU2MzYwNDA5/Ny0zMjI2LmpwZWc.jpeg" alt="Cover for CHESTER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9615071f2fd4b60a49ba40a35f1af32.png" alt="Cover for CHESTER" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-04</td>
       <td>Those Boys Cassidy</td>
@@ -1163,7 +1164,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/jrTuhEPmxiZO-R60IXf3CaGhEfFnc8qaAjHj4CKHCC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzQz/ODUtMTU5MjgzODIz/Ny0yMDgzLmpwZWc.jpeg" alt="Cover for Welcome to Chinatown: D.O.A. Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d453a14f6044e2c4a5223956a1516d.png" alt="Cover for Welcome to Chinatown: D.O.A. Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-27</td>
       <td>D.O.A.</td>
@@ -1226,7 +1227,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/kruNswncgG1_CHHSDgjvkebGNoutfKgpdKq1QlFcZow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTQx/MjYtMTQxODYwNTc1/MS04MTQxLmpwZWc.jpeg" alt="Cover for The Killing Scene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/975f18445fa047e3c7abb649158d63bf.png" alt="Cover for The Killing Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-01</td>
       <td>Animal Bodies</td>
@@ -1268,7 +1269,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/gnjRpPhKhaXGw3KxhkzxPhIAT_2JoPBg1AiZ54GxYdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mzk2/MzEtMTQ0MzU2ODA1/MC05MDQ4LmpwZWc.jpeg" alt="Cover for Grandma Beatrice Survives the 80&#39;s" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49e4da4b4e4681f1ad5d9a256efc144.png" alt="Cover for Grandma Beatrice Survives the 80&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-09</td>
       <td>Stephen Ugo Rosin</td>
@@ -1311,7 +1312,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/MW20VS8JbvZrMv9j8J1jM4e2onxJofZsM9Jj4DKQrwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDQ3/NzQtMTQ0Mjg1NTc1/OC01NDUwLmpwZWc.jpeg" alt="Cover for Hobo Erotic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab011cbe959db3a83a3a6567f3c88b04.png" alt="Cover for Hobo Erotic" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-28</td>
       <td>Mr. Fist</td>
@@ -1333,7 +1334,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/RRKPdoTbrEzJ6k4kTTKTBKUts9_kIPBT5xEZ3Ea3cMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDYz/MzItMTQ2Mjk4NjA1/NS05OTY3LmpwZWc.jpeg" alt="Cover for The Endless Bummer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87264c50666b9cce9eb9871325f3ab42.png" alt="Cover for The Endless Bummer" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-18</td>
       <td>Might As Well</td>
@@ -1353,7 +1354,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/YUQt4AlTuv1DlXQ2WiBjKN9pEYnQ8iSXAUahj6Cgt5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ1/NTMtMTQ0MjY0Mzk2/OS00NzM1LmpwZWc.jpeg" alt="Cover for Nazi Date Rape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/904f37b45b9b34799c84fb26a4a6a9bd.png" alt="Cover for Nazi Date Rape" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-01</td>
       <td>Mr. Fist</td>
@@ -1377,7 +1378,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/WKiHgQZlxyotMBrixmmihfP6TN_rtt3B0yRxnPQI688/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDU1/ODgtMTQ0Mjg2NjYy/OC02MzYzLmpwZWc.jpeg" alt="Cover for X-Mess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4f036195a82505044eb0589bc1601a5.png" alt="Cover for X-Mess" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-28</td>
       <td>Mr. Fist</td>
@@ -1423,7 +1424,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/ue5cUIsymtjXS-GZIURtyoIzS1h9Y5fFKRwB0A07USc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAz/NjMxLTE1MzA0MTU2/NzUtMTM3Ny5qcGVn.jpeg" alt="Cover for ZONGS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc0ca9c98650f2016bed6bd5baae7f0.png" alt="Cover for ZONGS" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-20</td>
       <td>Francesca Belcourt</td>
@@ -1446,7 +1447,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/ycqfurXEeXSGxSSr48CGp3zlsU6O1bH9AbyFWgu2cLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjY1/NjktMTQ3NzY1MzMy/My00NTUxLmpwZWc.jpeg" alt="Cover for Lineage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00540cb7b1d51d9f7c59e5002f192afb.png" alt="Cover for Lineage" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-04</td>
       <td>Scythia</td>
@@ -1486,7 +1487,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/yLBB3u8-Itu3gnNlaicYGBSHYkQ01ILW5spjXhhDqc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/OTQyLTE1NDY1NDYy/NTUtOTU3Mi5qcGVn.jpeg" alt="Cover for Hush Hush" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c7b180e6bcc6c6e0de99f4958a5baba.png" alt="Cover for Hush Hush" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-30</td>
       <td>Francesca Belcourt</td>
@@ -1562,7 +1563,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
         <ul>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 42</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 62</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1624,7 +1625,36 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 27</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c5bc39243b4d3ca0a61d668dfe89e8.png" alt="Cover for MY S.W.A.G.G." style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Leeah D</td>
+      <td>MY S.W.A.G.G.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1657,6 +1687,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94706e691d6c0fd2b616d55cfc59efc4.png" alt="Cover for Divine Judgement" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Decree meets Cannibal Process</td>
@@ -1714,6 +1745,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/031ba881a4d74868814afd0b2e6e3bf2.png" alt="Cover for A Tomboy&#39;s Tales" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Char Hunter</td>
@@ -1814,6 +1846,7 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8902a38018ad79f2b10424722acf86c1.png" alt="Cover for Indigenized: Hitting the Trail" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Enter-Tribal</td>
@@ -1943,34 +1976,6 @@ The Vancouver tag encompasses the diverse independent music scene emerging from 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c5bc39243b4d3ca0a61d668dfe89e8.png" alt="Cover for MY S.W.A.G.G." style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Leeah D</td>
-      <td>MY S.W.A.G.G.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
         </ul>
       </td>
       <td>

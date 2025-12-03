@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:35:12.494Z
+date: 2025-12-03T03:40:26.445Z
 permalink: tags/street-punk
 title: street punk
 ---
 
 ## street punk
 
-Last updated: <time datetime="2025-11-15T01:35:12.494Z">Sat Nov 15 2025 03:35:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:40:26.445Z">Wed Dec 03 2025 05:40:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -154,7 +154,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 71</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -294,7 +294,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 14</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +497,27 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 68</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8876dca5ce3149cbcdf6526421b979cb.png" alt="Cover for For the Punx" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>The Casualties</td>
+      <td>For the Punx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -532,25 +552,6 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8876dca5ce3149cbcdf6526421b979cb.png" alt="Cover for For the Punx" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>The Casualties</td>
-      <td>For the Punx</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a></li>
         </ul>
       </td>
       <td>
@@ -683,7 +684,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 70</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1125,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1145,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 67</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1257,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1397,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/qmiK4zD6fFVtSqqfjfea4Dpeq9rMNa6XgxoyDnmqshk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjMtMTMyMjg1Mzk3/OC5qcGVn.jpeg" alt="Cover for The Battle&#39;s Almost Over..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/414795f76d15e6b1b1e17c042ea2d68e.png" alt="Cover for The Battle&#39;s Almost Over..." style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>The Rabble</td>
@@ -1605,7 +1606,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 74</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1631,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/2gWuXvsCIGUMdpfIbxSGQobqCyEI9iV2PRTTWjsON6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjA4/ODItMTQyOTU0NDAw/OS04NTc0LmpwZWc.jpeg" alt="Cover for Поравнялись навсегда" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/856e5ab1d2e745e79f766b25e0815ef5.png" alt="Cover for Поравнялись навсегда" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-12</td>
       <td>The Alcobastards</td>
@@ -1851,7 +1852,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 45</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 56</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 86</li>
         </ul>
       </td>

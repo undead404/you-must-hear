@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T10:14:31.174Z
+date: 2025-12-03T03:37:19.504Z
 permalink: tags/chillstep
 title: chillstep
 ---
 
 ## chillstep
 
-Last updated: <time datetime="2025-10-18T10:14:31.174Z">Sat Oct 18 2025 13:14:31 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:37:19.504Z">Wed Dec 03 2025 05:37:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -71,7 +71,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/O8HHvMGYxJ4kCkwH9SGaKtCfiWW5KerSCe2Hz-L_OjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA5/ODcxLTE1Mzg1MTY4/MDgtOTQ5MC5qcGVn.jpeg" alt="Cover for dEd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4aed0cf93df1cda12d96b72754b6fbc.png" alt="Cover for dEd" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Lights</td>
@@ -94,7 +94,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/dKFrV06DyfwHViED42gUpeOhD3nRqibQkZBhHj1HJoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDAx/MjMtMTQ2OTAyOTA2/Ni0zNTU0LmpwZWc.jpeg" alt="Cover for Cigarettes and Silhouettes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b7f576fed04cc4cc40db10b733ec32.png" alt="Cover for Cigarettes and Silhouettes" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Fort Road</td>
@@ -226,7 +226,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/lxPAtfFHyq2GC011b73Tvs3pmt2CILaBRzCTz7Em2AE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA4/MTM5LTE1ODU0MzEz/MzctMzAwOC5qcGVn.jpeg" alt="Cover for Crystal Flash" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e117641ec38542bdb655ba95d790c249.png" alt="Cover for Crystal Flash" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-07</td>
       <td>Theophany</td>
@@ -343,6 +343,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dae74e4d23c4579b90d8af1c5097e1b.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-18</td>
       <td>Ephera</td>
@@ -380,13 +381,14 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 47</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ca27f5e7e64d77a6e36dea858db4c6.png" alt="Cover for The Chill Out Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-22</td>
       <td>Bring Me the Horizon</td>
@@ -429,7 +431,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 67</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +539,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/xdkc5puTjxKzj8CnZXC-Jdn04NGGGHDaVttKFrPyvk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/NTkyLTE2MDk2MjYy/ODktOTYwOC5qcGVn.jpeg" alt="Cover for Spring EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fda3eb333429490685a2cdba0944a7f7.png" alt="Cover for Spring EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-01</td>
       <td>Killigrew</td>
@@ -576,7 +578,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/KOlHsSFYEjozA_ASyEiGq8WTwce3pq-oDfZsGcGMzGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjY2/NTUtMTM3MTU4NzQx/My0zMTAzLmpwZWc.jpeg" alt="Cover for Detz - Seasons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f9ae3c3b98c4320c3b0d9d2b328a6d2.png" alt="Cover for Detz - Seasons" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-29</td>
       <td>Detz</td>
@@ -596,7 +598,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/WQaeD6HrNcyObf9M9ECnj4KmeCZ0bJAYF8W5eGtTotg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjM2/MzgtMTM3MDI2ODM4/OS01MTM0LmpwZWc.jpeg" alt="Cover for Illusions Of Separation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0b2eceddbcf403f952a323640b6c3b1.png" alt="Cover for Illusions Of Separation" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>The Lime Room</td>
@@ -619,7 +621,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/3dWNSkf2H9zwV6p_7L-lTeQoL2WyFZkF1A2PhPQzjEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzYy/MjEtMTM4NjU5NDk0/MS01NTE3LmpwZWc.jpeg" alt="Cover for Redemption" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9e5e12eab144c5cb6b34fbbcbec2430.png" alt="Cover for Redemption" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-11</td>
       <td>Aaron Static</td>
@@ -633,7 +635,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 100</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -663,6 +665,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaf1616f0dce4ee8ce2e28fba31e8ea8.png" alt="Cover for Feeel" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-18</td>
       <td>Torus</td>
@@ -676,7 +679,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 67</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -701,6 +704,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a25652532648bec89462145841d717.png" alt="Cover for Sonder" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-17</td>
       <td>Draper</td>
@@ -721,7 +725,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/IQnY_8vsgiLDGRncT6m-8-zbDZG2poFN0VrnHKPEw5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDMx/OTQtMTM5MzQ5MTk5/NS00NzY1LmpwZWc.jpeg" alt="Cover for For Seven Nights This Island Is Ours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41190982b8fa4f9ecfee3df9df9373bb.png" alt="Cover for For Seven Nights This Island Is Ours" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-19</td>
       <td>Ana Caprix</td>
@@ -803,7 +807,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/aTfRLVsNxYqOqKECPnUUr5boAmMkJx1fkJdXnkFQ6Z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY5/Mzc2LTE0OTYxMjgz/MDMtMTUzNy5qcGVn.jpeg" alt="Cover for The Sea of Luminescence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1277309efc946f1c695ffc674272011.png" alt="Cover for The Sea of Luminescence" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-18</td>
       <td>Systek</td>
@@ -843,7 +847,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/BN1Ows2vm267P4sD7lH7vxZ18SiCLG5gvx75OtKZYgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTYw/MTItMTQzNDA1NzEx/Ni05NjAwLmpwZWc.jpeg" alt="Cover for Fastfall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12f2d16ebc3f41ce8cb1c1134549ed29.png" alt="Cover for Fastfall" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-24</td>
       <td>Lifeformed</td>
@@ -863,7 +867,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/kecIFgVvfuO6cb4VKyPch_Vh5-IlJaYQb4v2k2zJEE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODM3/NzctMTQ1Njc2MjQy/NS01MTg0LmpwZWc.jpeg" alt="Cover for Dance (Kasbo Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a617b9e1624d94921f744c228a1d7b.png" alt="Cover for Dance (Kasbo Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-25</td>
       <td>Lorentzo Jönsson</td>
@@ -909,7 +913,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/QYfUoEIiE-7RHyWmLSJikDJpLUivQUOqlAflkz4ylQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTc0/NzUtMTQ1NjIxMTYy/Ni0zNzM5LnBuZw.jpeg" alt="Cover for M6 Ultra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/113c4594b9ea07e6aa1cff412bafd7ee.png" alt="Cover for M6 Ultra" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-18</td>
       <td>Ana Caprix</td>
@@ -972,7 +976,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/LezVGrpdFyn0WbfItddJnPJTXvZ4dx7LPC4FKJVuee8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTU2/NjMtMTU4Mzg3OTcz/My03NTkxLmpwZWc.jpeg" alt="Cover for See Birds - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a513d5091c9c95ce7dbc14d0c6596a5b.png" alt="Cover for See Birds - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-10</td>
       <td>Balam Acab</td>
@@ -994,7 +998,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/7EBWMQ9Ofa3HOgL572QWLEU-9OOKTvUhZOYCb80BHYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODIy/MzItMTU4NTUxNjM2/NC0xMzMyLmpwZWc.jpeg" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee592b524202c55d031b5d99c04e41.png" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Jean du Voyage</td>
@@ -1012,7 +1016,8 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 41</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 17</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 99</li>
         </ul>
       </td>
@@ -1060,7 +1065,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WVGKCWY5Lh7q1pixY2v9PU0Cap-asHwGbweGEJB00h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAw/NjYxLTE1MDYyMDIw/NTgtNzM2MS5qcGVn.jpeg" alt="Cover for All Becomes Okay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3445e674d81a5ba2a46ea9170ddb07b7.png" alt="Cover for All Becomes Okay" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Shallou</td>
@@ -1074,7 +1079,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 85</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1133,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/_XUOS4Y0d3tqGT0EW66hvDDecUFi237cAJ6w0cmBOgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/NzExLTE1MzQ0MzY0/MjUtNTQ5Mi5qcGVn.jpeg" alt="Cover for Truth and Justification" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a0eb65039e4ffc625b696babcaa789.png" alt="Cover for Truth and Justification" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-17</td>
       <td>Nihilore</td>
@@ -1167,7 +1172,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 93</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 95</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1191,32 +1196,26 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
             <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 26</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/E1bfoVbhFgzIJOzq42wEdaVUdIEwqWeVgQB3iIf84yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/MjUzLTE1MTkwMjQ1/NDgtODAyOC5wbmc.jpeg" alt="Cover for Celeste (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c0f5431ffe21f44a1cf3e9f10b7390.png" alt="Cover for Celeste (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-25</td>
       <td>Lena Raine</td>
       <td>Celeste (Original Soundtrack)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 45</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1237,14 +1236,14 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 73</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Uflv6ooZWaZqoTTOn38tM3hMEew78nGhWZe9CBTxuTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM4/MDU2LTE1MjUwOTUz/NDItOTk3NC5qcGVn.jpeg" alt="Cover for 0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e535097a91ffcb19f5b38dd9838cdb83.png" alt="Cover for 0" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-01</td>
       <td>GROUNDBREAKING</td>
@@ -1265,7 +1264,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/JpcSrFM3EOVDLg6aESthO_yMVxQcmnqENkC1MCPCrh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM0/NDgzLTE1NzAzOTkw/MjMtOTA0OS5qcGVn.jpeg" alt="Cover for Completion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2f01cbb54df9b6a17d0af2568ab177e.png" alt="Cover for Completion" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-03</td>
       <td>Pensees</td>
@@ -1280,7 +1279,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 66</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1318,14 +1317,14 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 59</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/YiSKi0N8jAKQ1OVwXVV5iIlK2VzUfHkwktfo74oGI1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE3/ODk3LTE1NTAxNTEw/MzQtNjMxMy5qcGVn.jpeg" alt="Cover for Deep in a Dream of You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b76bfe9b722a7c2ddc42d95d0fde774.png" alt="Cover for Deep in a Dream of You" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-06</td>
       <td>Joey Pecoraro</td>
@@ -1341,14 +1340,14 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 83</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/c1MCFoHwr26S69SdahGEtDXgCMp7S0PppKc_N-FLdqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY5/ODk1LTE2MjY4NTY5/MTQtMzI5Ni5qcGVn.jpeg" alt="Cover for Relonika" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a46f26a5f3dae4eca800720f3861b10.png" alt="Cover for Relonika" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-11</td>
       <td>Vaeros</td>
@@ -1369,7 +1368,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/c1MCFoHwr26S69SdahGEtDXgCMp7S0PppKc_N-FLdqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY5/ODk1LTE2MjY4NTY5/MTQtMzI5Ni5qcGVn.jpeg" alt="Cover for Your Sphere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54a1b29baadf1f3c72ee9fbffebb9427.png" alt="Cover for Your Sphere" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-11</td>
       <td>Vaeros</td>
@@ -1390,7 +1389,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/6n33aV51qwJG5j83vXzU1cKKMSDR4YCqSagW3wQTc6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTAw/NTAzLTE2NDQ0OTMx/MDgtNzM4OS5qcGVn.jpeg" alt="Cover for Drop of a Dream (Catherine Duc Dream Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/171ceb5087bd61da6a63c4851f982eb3.png" alt="Cover for Drop of a Dream (Catherine Duc Dream Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-14</td>
       <td>Z8phyr</td>
@@ -1409,7 +1408,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/HR6s2iHUnw6CTEtXDvuUJNIhrfAelOQ5Wit_olodFrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAy/MDM0LTE2NjY0OTg2/MzktNjE2MS5qcGVn.jpeg" alt="Cover for The Making of a Paracosm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c4ec3e3ed49183ba679a49e81a4f0ac.png" alt="Cover for The Making of a Paracosm" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>Kasbo</td>
@@ -1426,7 +1425,8 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 41</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 7</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1577,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/v8gd0JCOGSA4hmKR80GmYsq0NVFXkFlptTaLsyt4SYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE2/Nzk3LTE1NTc2MDI5/NjctNzMzNC5qcGVn.jpeg" alt="Cover for Flower in Winter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/578d49084d91ea30884c8cf2ec7e3c36.png" alt="Cover for Flower in Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Aether</td>
@@ -1597,7 +1597,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/kIKsPBchuZvaKK-NubNuqGdwNtxhdOiFf4V411UDlbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg3/OTMtMTI4NTE5NjY0/Ny5qcGVn.jpeg" alt="Cover for A New Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ceb7e1b5506ea91344a8e6337fd670d.png" alt="Cover for A New Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-27</td>
       <td>Phaeleh</td>
@@ -1616,7 +1616,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/k8AVvPvDFlRBxxwaSZR2BkHsYz7sqxPp2sN4Jvh4mjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzk5/Mzg0LTE2ODY5MTk2/ODEtNDU1OS5qcGVn.jpeg" alt="Cover for 92" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12057c0871862e26e1bdcef1df730473.png" alt="Cover for 92" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-15</td>
       <td>Srno</td>
@@ -1635,6 +1635,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/957d7d2e8ac5407c9bc9f540075ba485.png" alt="Cover for In All Directions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Parusha Continuum</td>
@@ -1660,6 +1661,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85729fcad5f14d6987b68949008e040c.png" alt="Cover for Neuratik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Neuratik</td>
@@ -1682,6 +1684,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffcde2dcbe049bececd6ab1ec8ae3e21.png" alt="Cover for Waterflow" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>tieff</td>
@@ -1701,14 +1704,15 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 44</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
+            <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 50</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec82386bc477fae22e35e115e06cbe56.png" alt="Cover for Escape From Virtuality" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ElectroVio</td>
@@ -1874,6 +1878,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e485640e39c64e80ced6bd4dcd86a587.png" alt="Cover for IMmortal" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>BlackGryph0n &amp; BAASIK</td>
@@ -1933,6 +1938,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22e0031ffb154eaeac07d4c9a76262f9.png" alt="Cover for Drive Friendly" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wikus.</td>
@@ -1955,6 +1961,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d652c2a2633bbd6167c0f657abcea62.png" alt="Cover for Honesty" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Oh please</td>
@@ -2053,6 +2060,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6455c8c033cc4082a3e1897012489129.png" alt="Cover for Kyleana" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>#Raccune</td>
@@ -2072,6 +2080,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a49f4ee22ecae4aff16f91a5af8a970.png" alt="Cover for You Sound Asleep" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>EinarIndra</td>
@@ -2092,6 +2101,7 @@ Chillstep blends the wobbling basslines and rhythmic structure of dubstep with d
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45360b76192a47029f0da3a6de222601.png" alt="Cover for cloudstep" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>#Raccune</td>

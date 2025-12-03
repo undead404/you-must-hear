@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T10:07:37.988Z
+date: 2025-12-03T03:41:10.809Z
 permalink: tags/classic-country
 title: classic country
 ---
 
 ## classic country
 
-Last updated: <time datetime="2025-11-24T10:07:37.988Z">Mon Nov 24 2025 12:07:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:41:10.809Z">Wed Dec 03 2025 05:41:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,8 +81,8 @@ Classic country is a traditional American music style from the 1950s-1980s featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 86</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 100</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 1</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ Classic country is a traditional American music style from the 1950s-1980s featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 75</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +579,7 @@ Classic country is a traditional American music style from the 1950s-1980s featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 6</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1201,7 @@ Classic country is a traditional American music style from the 1950s-1980s featu
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/WWSrJueodtCz3pVWvzADgIJ_1gQBKseK_byV9QfJ66Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDI0/OTEtMTQ2MDkxMTU2/Ny02OTUzLmpwZWc.jpeg" alt="Cover for The Ultimate Collection: Tumbling Tumbleweeds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60f989361053e49170fcd3e3bf26cad8.png" alt="Cover for The Ultimate Collection: Tumbling Tumbleweeds" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Gene Autry</td>
@@ -1302,8 +1302,9 @@ Classic country is a traditional American music style from the 1950s-1980s featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 21</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 53</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 23</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 55</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1473,6 +1474,7 @@ Classic country is a traditional American music style from the 1950s-1980s featu
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/432e9fa3711f4fdfcfb93c0cc670e917.png" alt="Cover for The Essential Gene Autry" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-11</td>
       <td>Gene Autry</td>
@@ -1485,7 +1487,7 @@ Classic country is a traditional American music style from the 1950s-1980s featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 67</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 32</li>
         </ul>
       </td>
     </tr>

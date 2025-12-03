@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:31:14.131Z
+date: 2025-12-03T03:38:05.225Z
 permalink: tags/ccm
 title: ccm
 ---
 
 ## ccm
 
-Last updated: <time datetime="2025-11-08T14:31:14.131Z">Sat Nov 08 2025 16:31:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:38:05.225Z">Wed Dec 03 2025 05:38:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,6 +68,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5d6407662464e409f54916a8da09995.png" alt="Cover for Wichita Lineman" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-11</td>
       <td>Glen Campbell</td>
@@ -83,7 +84,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +110,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/QkZ1K4TT1QtjQ1b1hAAjTLKcpUrf0VbEH0DCUcioJng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTU5/OTktMTM0MDcxOTUx/Ni01MTU1LmpwZWc.jpeg" alt="Cover for Witchita Lineman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddfe93f6e3cc402a6cf1615141330de1.png" alt="Cover for Witchita Lineman" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-01-00</td>
       <td>Glen Campbell</td>
@@ -125,7 +126,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -150,6 +151,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c784ca0e0c14982f13991b08dc5562ac.png" alt="Cover for God Bless America" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -168,7 +170,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 42</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 59</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 99</li>
         </ul>
       </td>
@@ -214,6 +216,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d809fa4c1d1ba20199800abf0d26f99.png" alt="Cover for Southern Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-02</td>
       <td>Glen Campbell</td>
@@ -222,17 +225,17 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 10</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 64</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 95</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 29</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 86</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +335,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 44</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -378,7 +381,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/HBvZGN3tOHMMzuIlHgEZ8Ex0ePCnXjXI_rThCAfMZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkz/NTMtMTYyNjcyOTk1/MC02MzM5LmpwZWc.jpeg" alt="Cover for SPEED ON" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcb77bd6825ac5453bb72641f79dd53.png" alt="Cover for SPEED ON" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Speed</td>
@@ -396,7 +399,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 42</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +460,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 77</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -688,6 +691,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8cabb8e47504d0da8546672f1334e3c.png" alt="Cover for Smothered and Covered" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07</td>
       <td>The Handsome Family</td>
@@ -705,8 +709,8 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 36</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 27</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -733,15 +737,16 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 21</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 20</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 33</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 43</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a969658d962859da308ff28608754359.png" alt="Cover for It&#39;s The Attitude, Stupid!" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Johnny Rebel</td>
@@ -752,7 +757,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 21</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -777,7 +782,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/aJ70Qd5rvhAmOlyDbVOplZO9kJAeaxwzI-PG0hdJoT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzM2/MC0xMjI0OTM4NzUw/LmpwZWc.jpeg" alt="Cover for Looking Through" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d82cadf3a68d77f630d40dadaba7b59.png" alt="Cover for Looking Through" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-21</td>
       <td>Professional Murder Music</td>
@@ -1031,16 +1036,17 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 26</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 53</li>
             <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 69</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 71</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71195841fd8e15741778f3445b0aaae9.png" alt="Cover for Meet Glen Campbell" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-19</td>
       <td>Glen Campbell</td>
@@ -1054,7 +1060,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1081,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 6</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1100,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1136,10 +1142,10 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 13</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 70</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 75</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 79</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 26</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 72</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1169,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 25</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 26</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 38</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 45</li>
         </ul>
@@ -1204,7 +1210,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 69</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1226,7 +1232,8 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 74</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 27</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 80</li>
         </ul>
       </td>
@@ -1274,7 +1281,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/_hGOd-LRFjoO91e5gidLXeQaKBVoypHI-_10rPG85PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTI3/NjMyLTE2NDc0MTU3/NTEtMzIwNi5qcGVn.jpeg" alt="Cover for Hair &amp; Soul - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/521debcec5cf4c60cc7b4c748522b882.png" alt="Cover for Hair &amp; Soul - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Wanessa</td>
@@ -1288,14 +1295,14 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 82</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/aJvzs80MPqT5fpGjhBBiiH6JDZ83W1Fu0_ds0VUfmF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjY0/OTEtMTQ3ODYzNTQ2/MS01OTU0LmpwZWc.jpeg" alt="Cover for Resuscitate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/395e14fb4ee44eae8c1b26496856cc4e.png" alt="Cover for Resuscitate" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Remedy Drive</td>
@@ -1355,6 +1362,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41b413d1e61b421897cb6f56fa88789c.png" alt="Cover for Unknown Rooms: A Collection of Acoustic Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-16</td>
       <td>Chelsea Wolfe</td>
@@ -1362,7 +1370,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 78.04878048780488 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
         </ul>
       </td>
       <td>
@@ -1395,12 +1403,13 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5bbbc7f15b9236995e59908e3656613.png" alt="Cover for Superior Speed" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-15</td>
       <td>Speed</td>
-      <td>Blow SPEED</td>
+      <td>Superior Speed</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1414,16 +1423,18 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7db0ba252ca4a259e225111cdf228e3.png" alt="Cover for Blow SPEED" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-15</td>
       <td>Speed</td>
-      <td>Superior Speed</td>
+      <td>Blow SPEED</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
@@ -1460,6 +1471,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4694dec21a92aed50daaac3a0a609b3d.png" alt="Cover for Wilderness" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-14</td>
       <td>The Handsome Family</td>
@@ -1664,7 +1676,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/b-YE_3uFWSWRCUzYS4VXZWus-CtQE2PJcU9M1ldX9so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA3/Mjk3LTE2MDM1NTAw/MTQtNTAzNS5qcGVn.jpeg" alt="Cover for Look At Me Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/201f2f62ba8f49acc9280e162a69bc46.png" alt="Cover for Look At Me Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-18</td>
       <td>Speed</td>
@@ -1682,14 +1694,14 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 29</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ad21623c9aa4440c42c51f93a67ad1d.png" alt="Cover for Borderland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/725f22ca9c261c3f42708561b805b1b0.png" alt="Cover for Borderland" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-04</td>
       <td>John Mark McMillan</td>
@@ -1745,6 +1757,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/622935b290ee4217c20a70a8843b36e2.png" alt="Cover for The Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-14</td>
       <td>Sanctus Real</td>
@@ -1781,11 +1794,11 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 74</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 98</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 98</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1862,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 79</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 22</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 82</li>
         </ul>
       </td>
@@ -1874,9 +1887,9 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 63</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 92</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 95</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 96</li>
         </ul>
@@ -1902,9 +1915,9 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 68</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 94</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 96</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 97</li>
         </ul>
@@ -1989,11 +2002,11 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 96</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 100</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 100</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 100</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 99</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 100</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2032,7 +2045,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 69</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2056,9 +2069,9 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 41</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 42</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 93</li>
             <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 94</li>
         </ul>
@@ -2081,7 +2094,7 @@ CCM (Contemporary Christian Music) is a broad genre that blends modern pop, rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 33</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 68</li>
         </ul>
       </td>
     </tr>

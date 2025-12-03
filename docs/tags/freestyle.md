@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T10:06:37.993Z
+date: 2025-12-03T03:40:39.735Z
 permalink: tags/freestyle
 title: freestyle
 ---
 
 ## freestyle
 
-Last updated: <time datetime="2025-11-24T10:06:37.993Z">Mon Nov 24 2025 12:06:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:40:39.735Z">Wed Dec 03 2025 05:40:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1416,7 +1416,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/WuPb4kjCaLAVeLEEnxtreFKDkSkK88ltnpaTKnhj6uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk4/Njk5LTE2MzI4MzQz/NDAtNjc4MC5qcGVn.jpeg" alt="Cover for Tonight (I&#39;m F**kin&#39; You)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3d4c9bdf9bf4e83bd9d842e15cfcf92.png" alt="Cover for Tonight (I&#39;m F**kin&#39; You)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Enrique Iglesias</td>
@@ -1663,7 +1663,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 67</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 69</li>
         </ul>
       </td>
@@ -1713,11 +1713,11 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
         </ul>
       </td>
@@ -1748,8 +1748,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 20</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 87</li>
@@ -1802,8 +1802,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       <td>
         <ul>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 3</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 52</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 63</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 48</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 64</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
       </td>
@@ -1848,7 +1848,7 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
         <ul>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1888,8 +1888,8 @@ Freestyle is an electronic dance music genre that emerged from Latin communities
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 19</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
         </ul>
       </td>

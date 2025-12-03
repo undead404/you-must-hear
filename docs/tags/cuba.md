@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T10:13:55.977Z
+date: 2025-12-03T03:36:58.395Z
 permalink: tags/cuba
 title: cuba
 ---
 
 ## cuba
 
-Last updated: <time datetime="2025-10-18T10:13:55.977Z">Sat Oct 18 2025 13:13:55 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:58.395Z">Wed Dec 03 2025 05:36:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,7 +104,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 36</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 36</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 86</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 40</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 68</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 72</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +638,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/8Mg56_t8jnOpuGHePez__3qv4Wn5qEY5qEJ5iZn2xS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg1/NjktMTIzODk2NTgy/OS5qcGVn.jpeg" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/111112540d6e4455a1e377534087e8da.png" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cachao</td>
@@ -656,7 +656,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 46</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 47</li>
             <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 94</li>
         </ul>
       </td>
@@ -676,7 +676,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 61</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -826,9 +826,10 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 31</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 78</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 22</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
         </ul>
       </td>
@@ -900,7 +901,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 37</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1070,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 33</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1235,10 +1236,10 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 55</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 56</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 66</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 78</li>
         </ul>
       </td>
@@ -1260,13 +1261,14 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 38</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de5545af233a4d66b9e999cf4d7a1af8.png" alt="Cover for Emigrante" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Orishas</td>
@@ -1456,10 +1458,10 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 65</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 77</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 78</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
         </ul>
       </td>
@@ -1467,6 +1469,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42bca8ee290c41fbbe7502263187b1d7.png" alt="Cover for Island Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Yerba Buena</td>
@@ -1490,7 +1493,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/2DcAt6ZjYLxzntr5KZHqdNoN_Q3x-ksHFtSAAaKH8i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUz/NDQ4LTE1OTQ0MDgw/MDQtMTk5Mi5wbmc.jpeg" alt="Cover for Momentos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6a16b1ac4a454baff5bd263881c875.png" alt="Cover for Momentos" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Rubén González</td>
@@ -1655,7 +1658,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 58</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 59</li>
             <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 98</li>
         </ul>
       </td>
@@ -1676,7 +1679,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 47</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 48</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 86</li>
         </ul>
       </td>
@@ -1741,6 +1744,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e87ec4ad8eb4110c159f9af49349cd5.png" alt="Cover for Afrocubism" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-02</td>
       <td>Afrocubism</td>
@@ -1779,7 +1783,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/UKdSYKyMlnT0bdc_KgwXs2ksQXQqSjtyVXXeA1nr2jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjk3/NDctMTUxMjQ2Nzcz/OS04ODk0LmpwZWc.jpeg" alt="Cover for Buena Vista Social Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d8332b1c7ae48918b9f3a2688646038.png" alt="Cover for Buena Vista Social Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-21</td>
       <td>Ry Cooder</td>
@@ -1841,7 +1845,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/6BoypK0VeY4uPabdrpj_YD7ZNy7vhL5lo3bTSavS5hE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/NTk5LTE1MTc2NDEz/NDEtNzYwMi5qcGVn.jpeg" alt="Cover for Camila" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbf7ef5245ed3a19598eac508ba0690d.png" alt="Cover for Camila" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-12</td>
       <td>Camila Cabello</td>
@@ -1853,8 +1857,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 20</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 68</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1930,7 @@ Cuban music blends African rhythms with Spanish melodies, creating infectious so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 11</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 12</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 97</li>
         </ul>
       </td>

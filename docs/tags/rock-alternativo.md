@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T20:01:42.250Z
+date: 2025-12-03T03:34:18.317Z
 permalink: tags/rock-alternativo
 title: rock alternativo
 ---
 
 ## rock alternativo
 
-Last updated: <time datetime="2025-11-13T20:01:42.250Z">Thu Nov 13 2025 22:01:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:34:18.317Z">Wed Dec 03 2025 05:34:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -91,8 +91,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 49</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 63</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 73</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 67</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 74</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 91</li>
         </ul>
       </td>
@@ -142,9 +142,9 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 68</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 80</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 85</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 69</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 83</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 86</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 97</li>
         </ul>
       </td>
@@ -167,8 +167,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 86</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 7</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -280,7 +280,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/v5zVYQQ8MlyKq5bzFJXlD8BEekxiEFUl0oVoXn4Lvy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk4/NzYtMTYxNTk1MDY2/NC04NzEzLnBuZw.jpeg" alt="Cover for Ultimo Bondi a Finisterre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02072bcceb7b843e8a2d6d3254fd170f.png" alt="Cover for Ultimo Bondi a Finisterre" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Patricio Rey y sus Redonditos de Ricota</td>
@@ -338,8 +338,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 42</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 2</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 43</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 77</li>
         </ul>
       </td>
@@ -362,7 +362,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 68</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -390,10 +390,10 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 9</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 29</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 67</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 59</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 69</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 37</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 70</li>
         </ul>
       </td>
@@ -488,8 +488,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 41</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 64</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 45</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +512,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 24</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 26</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 42</li>
         </ul>
       </td>
@@ -539,14 +539,13 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02e23f1648e8426307203772e84986b5.png" alt="Cover for Momo Sampler" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Patricio Rey y sus Redonditos de Ricota</td>
       <td>Momo Sampler</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
         </ul>
       </td>
       <td>
@@ -572,7 +571,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 27</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 29</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 44</li>
         </ul>
       </td>
@@ -591,7 +590,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -635,7 +634,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 86</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -659,10 +658,10 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 38</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 54</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 42</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 55</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 88</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +702,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 42</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 52</li>
         </ul>
       </td>
@@ -735,7 +734,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       <td>
         <ul>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 13</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 25</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 26</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 59</li>
         </ul>
       </td>
@@ -774,8 +773,8 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 54</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 81</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 56</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -860,7 +859,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 7</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 8</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 35</li>
         </ul>
       </td>
@@ -885,7 +884,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 16</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 17</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 48</li>
         </ul>
       </td>
@@ -893,7 +892,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/rxSQk85SwGZr1zu7KEduMukQFKMH4rxq4COfzYLi-W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY0/NDgtMTMwNDM1ODUx/MS5qcGVn.jpeg" alt="Cover for In America" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a48acbdeb8054f969806502d882f9b72.png" alt="Cover for In America" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Foo Fighters</td>
@@ -933,7 +932,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 18</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 19</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 50</li>
         </ul>
       </td>
@@ -1009,7 +1008,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 93</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1046,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 22</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1067,15 +1066,15 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 59</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 88</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 65</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/MFM44LQmVo1OXCKKEfMvtwfsPGOF_jj4zXdp59N0lS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjU0/MjMtMTU1OTIyNDQ3/NS03MTU2LmpwZWc.jpeg" alt="Cover for Hare Krishna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91791293704d4546801e065768b4aa0d.png" alt="Cover for Hare Krishna" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04</td>
       <td>Unicornibot</td>
@@ -1150,7 +1149,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 83</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1190,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 22</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 23</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 54</li>
         </ul>
       </td>
@@ -1470,7 +1469,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/rvyqOCvvjyO_sT_AKnMZdRuCCW7ZCk-68zB2HHVbQ78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg1/OTg1LTE1MjgwMTUw/MTAtNzk2OC5qcGVn.jpeg" alt="Cover for Pigmento" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b781a67549b328c534fdb6aaa93720.png" alt="Cover for Pigmento" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-09</td>
       <td>Organa</td>
@@ -1529,7 +1528,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/gwP4VqZjbk9QnjZPvyf9aCgqGDg6XDhK8qRFLXUgnsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA2/MjY4LTE1MTM4NTky/NDUtOTkwMS5qcGVn.jpeg" alt="Cover for You´re a Liar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2f1155175d2ecab198a95d64622ee49.png" alt="Cover for You´re a Liar" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-29</td>
       <td>Décum</td>
@@ -1549,7 +1548,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/WcP5Pej0OanXCEO45s5DhrvJIusfalbrCHw1iyM7axY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEy/MjAzLTE2OTU4MDc5/MzEtNTcxMS5qcGVn.jpeg" alt="Cover for Mujer Eléctrica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0df324888185d6d4ca755fde50913baf.png" alt="Cover for Mujer Eléctrica" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Simon Grossmann</td>
@@ -1583,7 +1582,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       <td>
         <ul>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 43</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 44</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1682,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/8wKyI3N1sFBnT2H5HHIPCYXNiKWS-fCnoQiBkpGBjXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjUy/Ny0xMjQzNzk1MzMw/LmpwZWc.jpeg" alt="Cover for GREATEST HITS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ff9459fd5754d679c9cbeb75ebbdc51.png" alt="Cover for GREATEST HITS" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-10</td>
       <td>Pearl Jam</td>
@@ -1700,7 +1699,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 46</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1722,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 88</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 89</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 92</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 98</li>
         </ul>
@@ -1787,7 +1786,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 48</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1810,7 @@ Rock alternativo represents the Spanish and Portuguese-language adaptation of al
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 70</li>
         </ul>
       </td>
     </tr>

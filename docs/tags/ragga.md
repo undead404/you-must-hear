@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:32:59.330Z
+date: 2025-12-03T03:33:04.079Z
 permalink: tags/ragga
 title: ragga
 ---
 
 ## ragga
 
-Last updated: <time datetime="2025-11-26T02:32:59.330Z">Wed Nov 26 2025 04:32:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:33:04.079Z">Wed Dec 03 2025 05:33:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for The Electric Boogie Ep" style="max-width:120px; height:auto;" />
       </td>
@@ -47,24 +47,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Ragga Ragga Ragga 2010</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>1977</td>
@@ -81,27 +64,24 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 500% Dynamite" style="max-width:120px; height:auto;" />
       </td>
-      <td>1987</td>
+      <td>1977</td>
       <td>Various Artists</td>
-      <td>500% Dynamite</td>
+      <td>Ragga Ragga Ragga 2010</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Reduced Phat 2%" style="max-width:120px; height:auto;" />
       </td>
@@ -124,13 +104,33 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 25</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 28</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 500% Dynamite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>500% Dynamite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/3lRMtDNbTuLEJshDf5IQd35hqHzWxg4Gt8M4XdYfmbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDMx/MS0xMTI1NTk4Mjg0/LmpwZWc.jpeg" alt="Cover for Never Give In" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Sampler, Vol. 18" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +166,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/992509c6b71e41c7970a24b7efe48d72.png" alt="Cover for Pure Poverty" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +185,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/K4zhDER-VRXuE-Ecti0lvHFrz2xnt_4EEcwu0iQLhgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAy/LTEzNTYwNzMyMDEt/NzYyMS5qcGVn.jpeg" alt="Cover for Shine Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -208,7 +208,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
       </td>
       <td>1992-12-04</td>
@@ -227,7 +227,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tSpvhV1OxQeiLUaQiSplgW86nuMzGJ-V6nQ4JGNlPxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDc5/NjktMTMwMTk0NTY2/MS5qcGVn.jpeg" alt="Cover for Welcome To Jamrock Bw Hey Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -248,7 +248,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/7P4BA5Do52o_ICXG7dPI_5h6n_riFY7QCxTF0hwe0_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzUw/MTAtMTM4ODQyMzkw/OC0xMDY1LmpwZWc.jpeg" alt="Cover for Nah No Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -265,7 +265,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1efb95cb066bef656e97cdc033b2828.png" alt="Cover for Cosmic Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +287,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1994</td>
@@ -304,7 +304,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/EGPxS3VxWG8WiyerlFzO_sre7DVc_Nb_LU3k5E_4QrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjM1/NjA0LTE3MDI4OTg2/ODMtOTI2My5qcGVn.jpeg" alt="Cover for Dancehall Draft Picks 2007" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +325,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc374ab41baefb68deb301862a2b28f6.png" alt="Cover for Hold On To Your Culture" style="max-width:120px; height:auto;" />
       </td>
@@ -346,7 +346,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/_dUcsU_1Q5Tt9nq7t95jz4vW-_vhM60GuwFlJWxwMqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/OTMtMTU0MDk3NzIy/MS01NzQ2LmpwZWc.jpeg" alt="Cover for Blessed" style="max-width:120px; height:auto;" />
       </td>
@@ -363,7 +363,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/493ee5b2ddbe1bb421c63db47389333a.png" alt="Cover for Facts and Fictions" style="max-width:120px; height:auto;" />
       </td>
@@ -381,27 +381,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Anthony B</td>
-      <td>So Many Things...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/SRjhPaP21ImllTSjjA1VybUvCuVPaL84Ui1TsDHv6js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg5/NDgtMTIxMTM2NzA3/Mi5qcGVn.jpeg" alt="Cover for Oh No ... It&#39;s Red Rat" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +399,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/RSTHzSu9NbaDYD3Jfcz9Gssv593jb7FT9S9fDxP0WnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM4/MjQtMTM4NjUxODU1/MC05MTA0LmpwZWc.jpeg" alt="Cover for Raw The Best Of Lady Saw" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +419,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1998</td>
@@ -457,7 +437,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ec191195f4e4f56a482beacc0b9cbf4.png" alt="Cover for Raw: The Best Of Lady Saw" style="max-width:120px; height:auto;" />
       </td>
@@ -484,7 +464,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/138a951939f642c4976fe0bf865c0fa8.png" alt="Cover for 99 Ways" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +487,28 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/kWdoxttLAY5_399Fm8l9sBFuPCyHkE2rxZUufc5xAX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQ5/MS0xMTI4ODQ3NTE3/LmpwZWc.jpeg" alt="Cover for Heads High" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mr. Vegas</td>
+      <td>Heads High</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/hcp8szaDptYwH3CN7X7QKRKPjO4bZWCd4M2BTEP7sxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDg1/NTIzLTE2NTQ1MjI3/NDktNDYwMi5qcGVn.jpeg" alt="Cover for Yellow Christmas" style="max-width:120px; height:auto;" />
       </td>
@@ -530,28 +531,24 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/kWdoxttLAY5_399Fm8l9sBFuPCyHkE2rxZUufc5xAX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQ5/MS0xMTI4ODQ3NTE3/LmpwZWc.jpeg" alt="Cover for Heads High" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
-      <td>Mr. Vegas</td>
-      <td>Heads High</td>
+      <td>Sizzla</td>
+      <td>Good Ways</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/ZD2MVxgzPMPot-yhZ1Hpab_y4S15f-if8k1vKoUo6VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzU5/MzktMTQwNzg0ODg5/Ny00MTUzLmpwZWc.jpeg" alt="Cover for The biggest ragga dancehall anthems 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -570,24 +567,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>Sizzla</td>
-      <td>Good Ways</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/NM4ogtHGIr4eMJ0LxBktrommKktTahKqKCUVVookdbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTc5/MS0xMTEyMjk0NjA3/LmpwZw.jpeg" alt="Cover for Trodin&#39; On" style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +584,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>1999-06-18</td>
@@ -620,7 +600,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/gTO4FwijYNTj37YbRg_W9pNzecUCYCqeosTDi4usH0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTk4/Ni0xNDYzNzUzMzYw/LTE5NzMuanBlZw.jpeg" alt="Cover for More Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -640,7 +620,25 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Percubaba</td>
+      <td>Percubaba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/R_sxYDuZQYhE0R0BWxG2aFMjN5Th31HJQhUmihD_y7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM5/OTAtMTMyOTQ4NDU0/OS5qcGVn.jpeg" alt="Cover for Lundi Je M&#39;y Mets" style="max-width:120px; height:auto;" />
       </td>
@@ -660,25 +658,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-      </td>
-      <td>2000</td>
-      <td>Percubaba</td>
-      <td>Percubaba</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f270b42197d84e188c0d3d35d8e40fdb.png" alt="Cover for Stage One" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +676,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/sw0dv10-5JzXffxxlZqL5ib-8ZY6mUvr9paCkArBltg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU0/My0xNTgxODUyMDYw/LTM5MDcuanBlZw.jpeg" alt="Cover for Art And Life" style="max-width:120px; height:auto;" />
       </td>
@@ -714,49 +694,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/CrcGJcswGnTJ8MsViJeWBcJ_FfRlty0r8w4QP_D2Fh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTYz/ODctMTM4MzMxNTM2/Mi0yMDE1LmpwZWc.jpeg" alt="Cover for Reggae Gold 2002" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Tanto Metro &amp; Devonte</td>
-      <td>Reggae Gold 2002</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Yellowman</td>
-      <td>Look How Me Sexy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 50</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/5YyTEt0dOh32ahCy-TqD6wu09iko_BjomGc5lMIw4j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDU3/NjQtMTYyMTI4NTYw/NS02ODg5LmpwZWc.jpeg" alt="Cover for The biggest ragga dancehall anthems 2002" style="max-width:120px; height:auto;" />
       </td>
@@ -778,7 +716,49 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Yellowman</td>
+      <td>Look How Me Sexy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/CrcGJcswGnTJ8MsViJeWBcJ_FfRlty0r8w4QP_D2Fh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTYz/ODctMTM4MzMxNTM2/Mi0yMDE1LmpwZWc.jpeg" alt="Cover for Reggae Gold 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Tanto Metro &amp; Devonte</td>
+      <td>Reggae Gold 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/E6R4qbTCoGAU_uyQHc3SRYbRSMwqDRRPNNNqHR7Q19Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODI2/OC0xNDE3Mzc2Mjgx/LTMxMjkuanBlZw.jpeg" alt="Cover for Soul Shakedown" style="max-width:120px; height:auto;" />
       </td>
@@ -796,7 +776,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2001-07-03</td>
@@ -816,7 +796,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2001-09-14</td>
@@ -833,7 +813,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2001-10-30</td>
@@ -849,7 +829,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2002</td>
@@ -870,7 +850,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb4d408aa0124a80bfabd954cbc78e20.png" alt="Cover for Masquerade" style="max-width:120px; height:auto;" />
       </td>
@@ -888,7 +868,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2002-08-19</td>
@@ -908,7 +888,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c6dd2e82c8a4613bc08d2eae74f7f9f.png" alt="Cover for Dutty Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +907,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2002-11-19</td>
@@ -947,7 +927,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca369be8885b4951bc900cd685361817.png" alt="Cover for Da Real Thing" style="max-width:120px; height:auto;" />
       </td>
@@ -965,26 +945,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Sizzla</td>
-      <td>Ever So Nice</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/gNvkisezNy_wNwbG48rDzGe7vQZE324ZwHxVScqNrKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODA2/MTItMTUxOTkzMDQ5/My01NjgxLnBuZw.jpeg" alt="Cover for Ovaload" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +966,26 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Sizzla</td>
+      <td>Ever So Nice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
       <td>
       </td>
       <td>2003-09-30</td>
@@ -1027,7 +1007,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-12-03</td>
@@ -1050,10 +1030,29 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       <td>
       </td>
       <td>2004</td>
-      <td>Masala</td>
-      <td>Long Play</td>
+      <td>Bob Marley</td>
+      <td>Keep On Skanking</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/nqYuMK5ELTZ7zoxHRUjreIElX7d_w4sRgKLJYnBAN70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU3/NzA5LTE1ODYxOTAz/MjctNjg4MC5qcGVn.jpeg" alt="Cover for el mensaje" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Jahsta</td>
+      <td>el mensaje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
         </ul>
@@ -1064,7 +1063,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/RZN9lCXxht9sRa1RwboQ0cbYaQttWNrGDtyNBdV2pOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk0/OTQtMTI0MzQzNDYz/NC5qcGVn.jpeg" alt="Cover for Mówisz I Masz" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,16 +1084,14 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/nqYuMK5ELTZ7zoxHRUjreIElX7d_w4sRgKLJYnBAN70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU3/NzA5LTE1ODYxOTAz/MjctNjg4MC5qcGVn.jpeg" alt="Cover for el mensaje" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Jahsta</td>
-      <td>el mensaje</td>
+      <td>Masala</td>
+      <td>Long Play</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
         </ul>
@@ -1105,15 +1102,15 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9ea452735b4475abef732acef374213.png" alt="Cover for The Long Distance Runner" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>Bob Marley</td>
-      <td>Keep On Skanking</td>
+      <td>2004-03-22</td>
+      <td>Promoe</td>
+      <td>The Long Distance Runner</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
         </ul>
       </td>
       <td>
@@ -1122,7 +1119,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2004-08-30</td>
@@ -1139,7 +1136,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/4WeYYM1v9MFkjbzbuolCvXBg_wciqH5z38DC4oVe8J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTEx/OS0xNTc3OTg1NzYx/LTYyMzguanBlZw.jpeg" alt="Cover for Masterpiece Riddim-Promo" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1155,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>2005-04-06</td>
@@ -1177,7 +1174,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2005-06-18</td>
@@ -1198,7 +1195,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Rt-0B67_uMpaxVrAs0cpKGHC6BX8qPuZGOgDwtUgGvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/MzQtMTIzMjc0MzMx/My5qcGVn.jpeg" alt="Cover for Unknown Language" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1217,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8304d21a03b44ba82ad258f3d85a3bf.png" alt="Cover for Welcome to Jamrock" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1238,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
       </td>
       <td>2005-09-12</td>
@@ -1259,7 +1256,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f44e34eaa88dbc4dc1d1117c400a408.png" alt="Cover for The Trinity" style="max-width:120px; height:auto;" />
       </td>
@@ -1280,7 +1277,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/xaA-cBlvwUbVoy5F3QPI9OKjyddDV9aQYNpxhw0JVjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/MzYtMTQzNzk1Mjk5/NS05NzA0LmpwZWc.jpeg" alt="Cover for Ciężkie Czasy LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,42 +1297,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/xaA-cBlvwUbVoy5F3QPI9OKjyddDV9aQYNpxhw0JVjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/MzYtMTQzNzk1Mjk5/NS05NzA0LmpwZWc.jpeg" alt="Cover for Ciężkie Czasy [kk10]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Eastwest Rockers</td>
-      <td>Ciężkie Czasy [kk10]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Sizzla</td>
-      <td>Ain&#39;t Gonna See Us Fall</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xaA-cBlvwUbVoy5F3QPI9OKjyddDV9aQYNpxhw0JVjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/MzYtMTQzNzk1Mjk5/NS05NzA0LmpwZWc.jpeg" alt="Cover for Ciezkie czasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1316,42 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Sizzla</td>
+      <td>Ain&#39;t Gonna See Us Fall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/xaA-cBlvwUbVoy5F3QPI9OKjyddDV9aQYNpxhw0JVjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA0/MzYtMTQzNzk1Mjk5/NS05NzA0LmpwZWc.jpeg" alt="Cover for Ciężkie Czasy [kk10]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Eastwest Rockers</td>
+      <td>Ciężkie Czasy [kk10]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
       </td>
       <td>2006-07-25</td>
@@ -1373,28 +1370,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/ESA2l1DkNoMtOuTnMlvfveBchuGvfvLYngmH6qqL-Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc5/OTktMTI5MDk2NTM2/Ni5qcGVn.jpeg" alt="Cover for Rude Bwoy Stand" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Bezegol</td>
-      <td>Rude Bwoy Stand</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/j6jtoNSZaMrMY3Gd7uOEP0xRW4zNrLT9K3JR93sJKSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDUz/NzQtMTQ3MzExODg2/Mi0zMzE0LmpwZWc.jpeg" alt="Cover for When The North &amp; South Collide Unloaded - Screwed" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,6 +1394,27 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
     <tr>
       <td>92</td>
       <td>
+          <img src="https://i.discogs.com/ESA2l1DkNoMtOuTnMlvfveBchuGvfvLYngmH6qqL-Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc5/OTktMTI5MDk2NTM2/Ni5qcGVn.jpeg" alt="Cover for Rude Bwoy Stand" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Bezegol</td>
+      <td>Rude Bwoy Stand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
       </td>
       <td>2007-02-20</td>
       <td>Anthony B</td>
@@ -1436,7 +1433,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed87aa5bf68737bfa7b24dbc720d5ff.png" alt="Cover for Another Intensity" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1451,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/61Kaw6bR96XZzZK_y_wMgW1tPWEP3mLlVH1WHhBZpos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODc2/MjAtMTMxMDU2MzUw/MC5qcGVn.jpeg" alt="Cover for Muzyka Moja Broń" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1470,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2008-03-04</td>
@@ -1492,7 +1489,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/npBTDUEQ4AnoCLDzIgECsscusWactfK-2WtXmPfRYwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg2/NzYtMTMwMDYzNTUy/NC5qcGVn.jpeg" alt="Cover for Lyrical Faya" style="max-width:120px; height:auto;" />
       </td>
@@ -1515,7 +1512,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4102f60eb5644cb9d6890d125f71463.png" alt="Cover for Ragga Twins Step Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1536,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/w9RAL-YTP4qXdKcghVJcerHccqCvOrLxicM7XPYt2YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/ODktMTMyNzU2ODg5/MC5qcGVn.jpeg" alt="Cover for London Zoo" style="max-width:120px; height:auto;" />
       </td>
@@ -1553,12 +1550,12 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 16</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2008-09-22</td>
@@ -1575,7 +1572,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008-11-17</td>
@@ -1595,7 +1592,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
       </td>
       <td>2009</td>
@@ -1619,25 +1616,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/10Eaqv8-E00in1As5xngSH5rtjR7drzXdSdLVpomH9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg4/MzUtMTMwMDYzOTU5/My5qcGVn.jpeg" alt="Cover for On The Rock" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Collie Buddz</td>
-      <td>On The Rock</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>2009</td>
@@ -1655,7 +1634,25 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/10Eaqv8-E00in1As5xngSH5rtjR7drzXdSdLVpomH9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzg4/MzUtMTMwMDYzOTU5/My5qcGVn.jpeg" alt="Cover for On The Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Collie Buddz</td>
+      <td>On The Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kpsmhGFqZjmek5RTFRCP1so7RHg5B79EuUIv7nq8c04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzcy/NTEtMTQxMDQ2MTE5/Ny01NjE1LmpwZWc.jpeg" alt="Cover for Das Beste (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1673,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/sFWWy8JIpM90RRmGPkZHxm5GnsNthohL6BRkIgq7REw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU0/MzYtMTQ3MDUyMDgy/Mi04NTI3LmpwZWc.jpeg" alt="Cover for uo matko!" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,7 +1692,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2010-08-13</td>
@@ -1718,7 +1715,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f7a25da9eb4080a933b9bd344c36e5.png" alt="Cover for Mouvement Mondial" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,7 +1736,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/031a6b2e71df46c1c6f616814d2674cc.png" alt="Cover for Coś więcej Niż Muzyka(Noc)" style="max-width:120px; height:auto;" />
       </td>
@@ -1759,7 +1756,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2011-11-25</td>
@@ -1780,7 +1777,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/vdCMdI91EtfAd3CXqZWLDjNpdvUtkqIZ00uOW3fWGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQy/Njg0LTE1NTgxMjI5/NjEtOTY5OC5qcGVn.jpeg" alt="Cover for Prosto z serca" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1797,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
       </td>
       <td>2012-03-19</td>
@@ -1818,7 +1815,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/eFGu1O4NPepvwtEJWFIaWd6GeR_UL9aP6RgvAoJJ9Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY1/OC0xMTcxNDc1NTYw/LmpwZWc.jpeg" alt="Cover for Contemporary Roots Reggae Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1834,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db21b4c6f02b487999575c1f7746827d.png" alt="Cover for Allez!" style="max-width:120px; height:auto;" />
       </td>
@@ -1862,7 +1859,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/gTmWTiyIXUCD0usUGaUqfVre84wdkBM7HIPtg_s5i-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI2/NDI5LTE1OTQwMzk0/NjgtMTc1Mi5qcGVn.jpeg" alt="Cover for Kaleidoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,7 +1877,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d7c0be1bdf42d2acb9ba3803f2fbd0.png" alt="Cover for К истокам" style="max-width:120px; height:auto;" />
       </td>
@@ -1907,7 +1904,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/aAZXM_t6VFbGZM1ij4FOvF6mAvUMMFQXyYe8XLPD1Hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mjc4/MDUtMTU2NTcwMzEy/OS02Mzg2LmpwZWc.jpeg" alt="Cover for Love Sen-C Music Prezentuje Megamix By JR Stress-Witamy W Polsce (Mixtape)-(Bootleg)" style="max-width:120px; height:auto;" />
       </td>
@@ -1927,7 +1924,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85d1065f468a5a15e65dccf23304d83d.png" alt="Cover for Vekanandra" style="max-width:120px; height:auto;" />
       </td>
@@ -1949,7 +1946,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/V4iLkUW9l5rxR_XWqNQoXlbupcmszsEI1XFbI5CIc5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzY5/Mzg5LTE2OTAyMDQ2/ODUtMjQwMi5qcGVn.jpeg" alt="Cover for What a Bam Bam" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1964,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Riddim Driven Tabla" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1985,7 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td></td>
@@ -2022,5 +2019,5 @@ Ragga, short for raggamuffin, is a subgenre of dancehall that emerged from Jamai
 - [rap]({{ "/tags/rap" | relative_url }})
 - [roots]({{ "/tags/roots" | relative_url }})
 - [ragga-reggae]({{ "/tags/ragga-reggae" | relative_url }})
-- [roots reggae]({{ "/tags/roots-reggae" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [roots reggae]({{ "/tags/roots-reggae" | relative_url }})

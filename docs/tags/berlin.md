@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:20:15.330Z
+date: 2025-12-03T03:36:27.918Z
 permalink: tags/berlin
 title: berlin
 ---
 
 ## berlin
 
-Last updated: <time datetime="2025-11-11T10:20:15.330Z">Tue Nov 11 2025 12:20:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:36:27.918Z">Wed Dec 03 2025 05:36:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/lh3rPGBsq9WNINw58esjqd4A7Edl0vXc8cHE2_5_QJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjUy/NjE4LTE1NTgzMTE4/NDItMTU5Ny5qcGVn.jpeg" alt="Cover for Great Danes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9234ecb1b41547c074f812cd9c84b766.png" alt="Cover for Great Danes" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Great Danes</td>
@@ -66,7 +66,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 28</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 31</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 70</li>
         </ul>
       </td>
@@ -101,13 +101,11 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       <td>Berlin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -154,6 +152,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66672a548c2341f880d8a25556a6d01d.png" alt="Cover for Cabaret" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -207,7 +206,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 72</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -290,6 +289,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd954c627d6485d9c226dfd39f87d17.png" alt="Cover for Monotonie" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Ideal</td>
@@ -361,7 +361,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/qgt24x35fKWayWK4QW8jcmVqx9OqpQwi0epR2S-yGn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA2/NS0xMDc0NzY4NDk1/LmpwZw.jpeg" alt="Cover for Compiled" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/268a44443d442bd63b72e84f6696f656.png" alt="Cover for Compiled" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10</td>
       <td>Malaria!</td>
@@ -420,9 +420,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 9</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 10</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 31</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 68</li>
         </ul>
       </td>
@@ -588,6 +588,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/062d526ac95d43b3b0d74592c4b366d5.png" alt="Cover for Die Wohnzimmer EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-12-21</td>
       <td>Beatsteaks</td>
@@ -642,7 +643,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 33</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
@@ -690,7 +691,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 36</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
@@ -775,9 +776,9 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 2</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 5</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 19</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 11</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -815,8 +816,8 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 11</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 13</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 20</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +859,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 25</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -906,7 +907,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/pGJZ0g4HN8oMRR4QUTH26yh6P0v96uKfo-8navM1sHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzEx/MC0xMTUzMTQ0ODIy/LmpwZWc.jpeg" alt="Cover for Berlin, Montreal, Tel Aviv" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c014b1a3e5064c58b361fb2394a0e513.png" alt="Cover for Berlin, Montreal, Tel Aviv" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-10</td>
       <td>Apparat</td>
@@ -917,7 +918,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 90</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -944,6 +945,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fa094eb2e3833eca927e901db6fe38.png" alt="Cover for The Grass Is Always Greener" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-24</td>
       <td>Barbara Morgenstern</td>
@@ -976,7 +978,8 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1014,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 11</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1075,8 +1078,8 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 43</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 75</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 56</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1201,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 47</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 56</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 96</li>
         </ul>
       </td>
@@ -1329,7 +1332,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/zdaRN5UL8kC-mXFCmaBfng0rxTVmi7vZT9UzCuDq7GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc1/NjQtMTQ1Mjg3MzI0/MS0yNzY3LmpwZWc.jpeg" alt="Cover for Bis auf den Grund" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace530d47e33402f9d6bf95a87241faf.png" alt="Cover for Bis auf den Grund" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-01</td>
       <td>Dota und die Stadtpiraten</td>
@@ -1391,7 +1394,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       <td>
         <ul>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 73</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
@@ -1439,7 +1442,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 76</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1536,9 +1539,10 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 3</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 82</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
@@ -1607,6 +1611,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d6eedbb00294bd3b952a65acf694961.png" alt="Cover for Closure Axioms" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-27</td>
       <td>Aidan Baker</td>
@@ -1724,6 +1729,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0764f3927d3403eb141ed537f541a6d.png" alt="Cover for Heliosphere" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-22</td>
       <td>Benjamin Damage</td>
@@ -1791,15 +1797,15 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 78</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
         </ul>
       </td>
@@ -1847,7 +1853,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 31</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 79</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
@@ -1969,8 +1975,8 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 16</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 94</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 24</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2015,7 +2021,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/9hSIoD-tRHy_LWAHWuMRkODw9HE7A83KJ1stMkox9Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk1/ODk4LTE2NDQ0NTIx/MDctNjE3NC5qcGVn.jpeg" alt="Cover for Timeless Hours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fa9eae4aadc3fe516bd16e4c62d3aa.png" alt="Cover for Timeless Hours" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-27</td>
       <td>Foreign Guest</td>
@@ -2112,7 +2118,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 67</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2152,7 +2158,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 58</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2190,7 +2196,7 @@ Berlin is an eclectic music scene characterized by electronic experimentation, p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 14</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 23</li>
         </ul>
       </td>
     </tr>
