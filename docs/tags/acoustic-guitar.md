@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T08:29:19.223Z
+date: 2025-12-03T06:35:49.842Z
 permalink: tags/acoustic-guitar
 title: acoustic guitar
 ---
 
 ## acoustic guitar
 
-Last updated: <time datetime="2025-11-19T08:29:19.223Z">Wed Nov 19 2025 10:29:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:35:49.842Z">Wed Dec 03 2025 08:35:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -137,8 +137,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 81</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +296,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/hxuDfBcwZFmFHhN6CXZPUZ0UVrZoGW2HV9h0uYI6N-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI2/ODQtMTM5Njk4Mzg5/NS03NTkxLmpwZWc.jpeg" alt="Cover for Alone And Acoustic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f85217b1c14243c7c3d8714af24f4134.png" alt="Cover for Alone And Acoustic" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Buddy Guy &amp; Junior Wells</td>
@@ -315,6 +314,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/667136d6e5b6475082164eb87b797132.png" alt="Cover for Alone &amp; Acoustic" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-11-06</td>
       <td>Buddy Guy &amp; Junior Wells</td>
@@ -441,7 +441,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 88</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +871,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 48</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 53</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 97</li>
         </ul>
       </td>
@@ -904,8 +904,8 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 54</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +925,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 45</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1110,8 +1110,8 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 78</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
             <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
         </ul>
@@ -1343,7 +1343,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1411,9 +1411,9 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 53</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 69</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 55</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1519,9 +1519,9 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 5</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 86</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1559,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 86</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1602,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 46</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 55</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 68</li>
         </ul>
       </td>
@@ -1670,11 +1670,11 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 73</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
         </ul>
@@ -1757,8 +1757,8 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 70</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 73</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 71</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1815,8 +1815,9 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 38</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 57</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1916,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 67</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +2001,7 @@ Acoustic guitar music showcases the natural, unamplified sound of steel or nylon
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 10</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 91</li>
         </ul>
       </td>
     </tr>

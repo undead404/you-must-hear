@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T10:17:05.001Z
+date: 2025-12-03T06:42:22.434Z
 permalink: tags/sjw
 title: sjw
 ---
 
 ## sjw
 
-Last updated: <time datetime="2025-10-23T10:17:05.001Z">Thu Oct 23 2025 13:17:05 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:42:22.434Z">Wed Dec 03 2025 08:42:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,11 +49,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 14</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 22</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 43</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 56</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 45</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -78,11 +78,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 5</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 11</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 52</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 53</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -107,10 +107,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 43</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 44</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 57</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -135,10 +135,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 7</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 55</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -163,11 +163,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 11</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 19</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 46</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 47</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 55</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -191,10 +191,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 41</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 42</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 59</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -219,17 +219,18 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 19</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 27</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 40</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 42</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 61</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2040785e7c70f6515b660e3a3b5bf1.png" alt="Cover for Let&#39;s Start a Riot" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-16</td>
       <td>Blood on the Dance Floor</td>
@@ -241,13 +242,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 24</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 61</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 40</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 84</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 85</li>
         </ul>
@@ -268,13 +269,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 13</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 42</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 14</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 58</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 76</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 82</li>
         </ul>
@@ -283,7 +284,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/UteYP0Y8iQnC8gTjNnwXmPn8vGpzvmT9zIV04e319_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk4/NzUtMTQ1ODM4MDYy/Mi04OTU4LmpwZWc.jpeg" alt="Cover for It&#39;s Hard To Be A Diamond In A Rhine Stone World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82f38e4150668e3197f979b05166c8b.png" alt="Cover for It&#39;s Hard To Be A Diamond In A Rhine Stone World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-12</td>
       <td>Blood on the Dance Floor</td>
@@ -296,16 +297,16 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 4</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 47</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 19</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 53</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 57</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 80</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 84</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -331,13 +332,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 22</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 39</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 60</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 41</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -362,11 +363,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 16</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 42</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 44</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 59</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -391,11 +392,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 17</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 25</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 41</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 58</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 43</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -421,11 +422,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 84</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
         </ul>
       </td>
@@ -452,9 +453,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 18</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 19</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 51</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 62</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 82</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
         </ul>
       </td>
@@ -481,13 +482,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 25</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 62</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -514,11 +515,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 52</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 12</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 28</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 54</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 89</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
         </ul>
       </td>
@@ -546,11 +547,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 7</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 21</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 62</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 94</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
         </ul>
       </td>
@@ -577,11 +578,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 21</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 36</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 62</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 80</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
         </ul>
       </td>
@@ -609,11 +610,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 9</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 23</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 61</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 92</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
         </ul>
       </td>
@@ -640,11 +641,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 20</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 35</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 63</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 81</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
         </ul>
       </td>
@@ -671,13 +672,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 37</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 64</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -703,8 +704,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 40</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 40</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 60</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -730,9 +731,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 23</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 44</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 24</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 77</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 57</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
         </ul>
       </td>
@@ -760,11 +761,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 46</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 22</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 37</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 55</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 79</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
         </ul>
       </td>
@@ -792,11 +793,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 57</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 13</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 44</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 88</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
         </ul>
       </td>
@@ -823,11 +824,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 39</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 59</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 76</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
         </ul>
       </td>
@@ -853,9 +854,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 13</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 56</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 14</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 45</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 87</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
         </ul>
       </td>
@@ -882,11 +883,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 45</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 60</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 78</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 56</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
         </ul>
       </td>
@@ -905,12 +906,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 8</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 17</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 9</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 61</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 74</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 80</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 82</li>
@@ -939,11 +939,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 41</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 26</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 40</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 41</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 75</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 60</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
         </ul>
       </td>
@@ -965,10 +965,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 25</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 49</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 50</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -995,11 +995,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 37</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 28</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 55</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 73</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
         </ul>
       </td>
@@ -1020,32 +1020,34 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 40</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/242fc565375748c48c10ca9122ce6160.png" alt="Cover for Dustin Lynch" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-21</td>
       <td>Dustin Lynch</td>
       <td>Dustin Lynch</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 23</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 30</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 45</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 71</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 78</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1070,13 +1072,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 8</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 48</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 52</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 68</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1100,11 +1102,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 32</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 67</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1131,11 +1133,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 36</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 72</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 65</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
         </ul>
       </td>
@@ -1163,11 +1165,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 61</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 10</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 25</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 40</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 91</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
         </ul>
       </td>
@@ -1188,7 +1190,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 1</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1227,10 +1229,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 21</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 21</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 44</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 46</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1247,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -1257,11 +1258,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 3</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 4</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 24</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 52</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 86</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 91</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 97</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
         </ul>
       </td>
@@ -1282,8 +1282,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 6</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 47</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 7</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1308,8 +1308,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 7</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 21</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 8</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 79</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 86</li>
         </ul>
       </td>
@@ -1335,8 +1335,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 10</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 22</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 11</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 78</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 85</li>
         </ul>
       </td>
@@ -1357,7 +1357,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 28</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1383,11 +1383,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 5</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 20</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 6</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 39</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 61</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1410,8 +1410,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 1</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 27</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 2</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1432,10 +1432,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 23</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 70</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 79</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 88</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 11</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 22</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 73</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1496,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/4_fqPoqIBXrK0y9iNwHxuOCUDLwOdunEi3-TVtuA_pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTY2/OTYtMTQ0ODEzNTky/OC00NTE5LmpwZWc.jpeg" alt="Cover for Tender Resignation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a639108a3fa16853e73b3e55084e01f3.png" alt="Cover for Tender Resignation" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11</td>
       <td>Dyke Drama</td>
@@ -1508,7 +1508,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 15</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1531,8 +1531,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 19</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 37</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 20</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1559,13 +1559,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 10</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 23</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 24</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 47</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 53</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1585,13 +1585,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 82</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 86</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 89</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 1</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 10</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 15</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1611,8 +1611,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 12</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 51</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 13</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1634,8 +1634,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 55</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 72</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1660,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/z9THmoM5KAEYY8xT0Po0MU5K5vAGTqUWMAQz5OzbFkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDM1/MzctMTQ3Mzc4Mzk0/Mi0xOTM0LmpwZWc.jpeg" alt="Cover for Up Against The Bricks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/518ecd59f1ed5b17c13317674ab546f6.png" alt="Cover for Up Against The Bricks" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09</td>
       <td>Dyke Drama</td>
@@ -1672,7 +1672,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 19</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1699,13 +1699,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 2</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 46</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 17</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 54</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1724,13 +1724,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 6</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 20</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 50</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1753,8 +1753,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 15</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 35</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1781,13 +1781,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 28</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 65</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1808,8 +1808,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 39</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 23</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1830,8 +1830,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 25</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 42</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 26</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1859,11 +1859,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 51</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 18</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 50</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 83</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
         </ul>
       </td>
@@ -1884,10 +1884,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 33</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 51</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 68</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1908,7 +1908,7 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 7</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1928,8 +1928,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 9</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 10</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1957,11 +1957,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 35</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 45</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 53</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 70</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 66</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
         </ul>
       </td>
@@ -1990,11 +1990,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 59</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 11</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 27</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 42</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 55</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 90</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
         </ul>
       </td>
@@ -2022,11 +2022,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 64</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 6</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 16</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 95</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
         </ul>
       </td>
@@ -2048,9 +2048,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 15</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 16</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 18</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 83</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 85</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 86</li>
         </ul>
       </td>
@@ -2077,13 +2077,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 30</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 33</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 35</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 66</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2111,11 +2111,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 32</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 69</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
         </ul>
       </td>
@@ -2166,7 +2166,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2178,11 +2177,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 7</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 37</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 37</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 90</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 93</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
         </ul>
       </td>
@@ -2211,13 +2209,13 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 45</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 82</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 85</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 2</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 13</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 19</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 58</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 70</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2243,10 +2241,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 4</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 75</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 5</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 26</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 85</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
         </ul>
       </td>
@@ -2274,12 +2272,12 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 14</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 44</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 15</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 56</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2307,11 +2305,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 32</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 33</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 68</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 69</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
         </ul>
       </td>
@@ -2340,11 +2338,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 27</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 38</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 42</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 74</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
         </ul>
       </td>
@@ -2373,11 +2371,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 15</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 86</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
         </ul>
       </td>
@@ -2394,7 +2392,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2402,9 +2399,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 4</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 18</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 86</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 5</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2420,7 +2416,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2428,11 +2423,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 7</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 11</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 71</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 89</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 90</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 93</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 94</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2448,7 +2442,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2456,11 +2449,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 5</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 7</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 77</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 94</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 94</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 95</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2476,7 +2468,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2484,11 +2475,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 6</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 74</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 92</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 93</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 94</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2505,7 +2495,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2513,10 +2502,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 15</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 24</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 34</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 88</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2532,7 +2520,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2540,18 +2527,17 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 8</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 13</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 70</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 86</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 88</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 91</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 93</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg" alt="Cover for ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f7d00a7ea352b6c4e3bf2209db476d.png" alt="Cover for ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-24</td>
       <td>100 gecs</td>
@@ -2562,10 +2548,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 1</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 2</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 95</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 99</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 100</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 100</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 100</li>
         </ul>
       </td>
@@ -2582,7 +2567,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2590,18 +2574,17 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 4</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 6</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 78</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 95</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 95</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 96</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/3HsrXWtEE6G41Iw0dg2V6-7oILqek0V9b31VCI3Ejl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MzI5LTE1OTQ0MDUx/OTYtODY3NC5wbmc.jpeg" alt="Cover for hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae4f995cdb4e043eb72b0b85d79c8c04.png" alt="Cover for hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-10</td>
       <td>100 gecs</td>
@@ -2612,10 +2595,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 3</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 5</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 81</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 96</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 97</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 98</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 98</li>
         </ul>
       </td>
@@ -2632,7 +2614,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2640,11 +2621,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 12</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 17</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 58</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 72</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 84</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 87</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 92</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2660,7 +2640,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
@@ -2668,10 +2647,9 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 2</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 4</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 82</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 97</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 98</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 99</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 99</li>
         </ul>
       </td>
@@ -2692,10 +2670,10 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 40</li>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 61</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 76</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2714,11 +2692,11 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 36</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 38</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
-            <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2735,7 +2713,6 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
@@ -2744,9 +2721,8 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 11</li>
-            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 23</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 87</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 12</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2764,4 +2740,4 @@ The &quot;sjw&quot; tag appears to be an ironic or critical label applied to pop
 - [genderqueer]({{ "/tags/genderqueer" | relative_url }})
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
 - [nsbm]({{ "/tags/nsbm" | relative_url }})
-- [neoliberal]({{ "/tags/neoliberal" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})

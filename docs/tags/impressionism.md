@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:34:58.059Z
+date: 2025-12-03T06:43:30.951Z
 permalink: tags/impressionism
 title: impressionism
 ---
 
 ## impressionism
 
-Last updated: <time datetime="2025-10-28T06:34:58.059Z">Tue Oct 28 2025 08:34:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:43:30.951Z">Wed Dec 03 2025 08:43:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -304,6 +304,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28db9f3fb04b92a6982eedb7f0df7733.png" alt="Cover for REALITY IN LOVE" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Toshifumi Hinata</td>
@@ -419,7 +420,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/rwZX9QSIYODEonnsRKalEzspKkYo7hNvy_k1SKAj9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgy/ODQ4LTE2NjExOTc0/NTItNzEwOC5qcGVn.jpeg" alt="Cover for BAX: Symphonic Poems" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3204a354417a6b862c40881f7c07cce1.png" alt="Cover for BAX: Symphonic Poems" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Arnold Bax</td>
@@ -689,6 +690,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47cc962d9f424a96b79212005d099c44.png" alt="Cover for Piano Collections: Final Fantasy VIII" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-21</td>
       <td>植松伸夫</td>
@@ -760,7 +762,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 7</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -969,10 +971,10 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 19</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 79</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 81</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
         </ul>
@@ -981,6 +983,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1268c86a0c32407b884340be30a51160.png" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-23</td>
       <td>Frozen Silence</td>
@@ -1002,8 +1005,8 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 4</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 90</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 9</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1063,13 +1066,14 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/QXWvjjejF_OlqD_UiTmPTpB2p17ZLqQqwP3jc7hjEtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTM5/MDYtMTI5MDE3Mjky/NC5qcGVn.jpeg" alt="Cover for Стаккато" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63c0d75c59f0913fa459f850affb4158.png" alt="Cover for Стаккато" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-19</td>
       <td>Herr Twiggs</td>
@@ -1097,7 +1101,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/QXWvjjejF_OlqD_UiTmPTpB2p17ZLqQqwP3jc7hjEtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTM5/MDYtMTI5MDE3Mjky/NC5qcGVn.jpeg" alt="Cover for Lost (Demo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/949716c2aa2446b7b063d1ba94e090b8.png" alt="Cover for Lost (Demo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-19</td>
       <td>Herr Twiggs</td>
@@ -1130,7 +1134,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/HTRYCT3O73zafJmdkrQpaHmvG0Oa-w9OIZnYA4A_HLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/NjAtMTI5NjU2Njg0/MC5qcGVn.jpeg" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1331a3e17ce948502daab84b37f05b.png" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-24</td>
       <td>Herr Twiggs</td>
@@ -1156,6 +1160,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f87564f51e402c843e109a7021dc83.png" alt="Cover for Minecraft - Volume Alpha" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-04</td>
       <td>C418</td>
@@ -1167,9 +1172,8 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 43</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 96</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1534,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 38</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1858,6 +1862,7 @@ Impressionism in music emphasizes atmosphere, color, and mood over traditional s
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad9410c64356efc108cea0e1a92f4a61.png" alt="Cover for Afterlight" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Broken Ideology</td>

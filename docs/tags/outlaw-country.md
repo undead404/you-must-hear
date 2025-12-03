@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:48:34.535Z
+date: 2025-12-03T06:54:50.545Z
 permalink: tags/outlaw-country
 title: outlaw country
 ---
 
 ## outlaw country
 
-Last updated: <time datetime="2025-11-23T08:48:34.535Z">Sun Nov 23 2025 10:48:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:54:50.545Z">Wed Dec 03 2025 08:54:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,6 +120,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +178,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 14</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +308,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 46</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +349,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 79</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -539,8 +540,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 93</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 93</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +599,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +691,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 14</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1064,11 +1065,11 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
         </ul>
       </td>
@@ -1113,7 +1114,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 24</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 92</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 100</li>
         </ul>
@@ -1207,7 +1208,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1271,9 +1272,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
@@ -1369,7 +1370,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1391,9 +1392,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 76</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 94</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1423,11 +1424,11 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
@@ -1503,7 +1504,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 3</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1546,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 44</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 62</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1566,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 18</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1607,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 82</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 84</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 96</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1649,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 41</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 1</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1709,8 +1712,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 22</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 63</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1732,6 +1735,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1754,9 +1758,9 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 12</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 9</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 16</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 88</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1781,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 8</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1840,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1932,7 +1936,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 10</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1955,8 +1959,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 72</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 87</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 14</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1984,8 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 71</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 92</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 9</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2026,6 +2030,7 @@ Outlaw country emerged in the 1970s as a raw, rebellious response to Nashville&#
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12787a57361c4692c67af67685070fcb.png" alt="Cover for Cherlene (Songs from the Series Archer)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cherlene</td>

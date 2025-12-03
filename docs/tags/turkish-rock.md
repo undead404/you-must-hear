@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T13:55:23.516Z
+date: 2025-12-03T06:52:07.679Z
 permalink: tags/turkish-rock
 title: turkish rock
 ---
 
 ## turkish rock
 
-Last updated: <time datetime="2025-10-25T13:55:23.516Z">Sat Oct 25 2025 16:55:23 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:52:07.679Z">Wed Dec 03 2025 08:52:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 47</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +63,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 68</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -127,7 +127,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/8OylIHj7tA1BrxNgTRW1aOd9TPZayy9BXunuIhCNo3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE1/MjUzLTE1MjExNDMw/MzItNDc0Ny5qcGVn.jpeg" alt="Cover for Kapılar Ardında" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41c73b99e13041d9c1e8d0edd80b2705.png" alt="Cover for Kapılar Ardında" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Mask</td>
@@ -280,7 +280,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/dv0vDOmq__bbK3JQ1pezf-ey0bceUSjuB8X0M3rYKcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU4/Mjk4LTE1MjU0NzMw/OTEtNjc3My5qcGVn.jpeg" alt="Cover for Yasadikca" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55f413dc71f633c5183ec1fbee6a1675.png" alt="Cover for Yasadikca" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Düş Sokağı Sakinleri</td>
@@ -402,7 +402,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>
         <ul>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 12</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 44</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -440,14 +440,14 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 50</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/flm0n_-S8nryOfjzwm36nzKUJ1AF2ufGRFJs4vQN2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTcy/MTUtMTI1ODc5Mzgz/MS5qcGVn.jpeg" alt="Cover for Dus Sokagi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc3a4263718ba6f5e4e1ff227be019a0.png" alt="Cover for Dus Sokagi" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Düş Sokağı Sakinleri</td>
@@ -589,7 +589,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>
         <ul>
             <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 20</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 79</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 20</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +754,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 86</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +774,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 1</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +853,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 26</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +872,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 15</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -954,14 +954,14 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>
         <ul>
             <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 5</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 26</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/DbY8yJmaR_FxEQTM4pZumMSr4Kvv1X4IUiqneUWoVBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA4/OTMzLTE1MDk5OTg2/MzgtNTQyNi5qcGVn.jpeg" alt="Cover for Yarına Sakla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8ef8fdf466398a6d825d6ca96f18880.png" alt="Cover for Yarına Sakla" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Bodes</td>
@@ -996,7 +996,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 46</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1014,14 +1014,14 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 7</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/VDDuS7H9dgIT0gq1usL4u6iL3PmB1nycW0tIZjv2lpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/MDgtMTY4NzI4NTIz/OS05NTQyLmpwZWc.jpeg" alt="Cover for 10 Mart 2007 İstanbul Konseri" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/727f757bfde14554a6e5b4b556a78ae6.png" alt="Cover for 10 Mart 2007 İstanbul Konseri" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-06</td>
       <td>Şebnem Ferah</td>
@@ -1066,10 +1066,6 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>Hayat</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
@@ -1228,7 +1224,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 82</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1267,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/9xCCYcq9_asBurUbyr52ONuqwXdKae15N-YndmHzpJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDky/NTQwLTE1ODY1OTMz/MDctNDQ1NC5qcGVn.jpeg" alt="Cover for Sehr-i Huzun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/550e7a8c9ff74d21a8457edfab6f1eb2.png" alt="Cover for Sehr-i Huzun" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-30</td>
       <td>Manga</td>
@@ -1309,6 +1305,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8318e41675246f19d96a3ae4b0bad9e.png" alt="Cover for Aşkın Izdırabını" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Hayko Cepkin</td>
@@ -1335,10 +1332,6 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>Güneşi Beklerken</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
@@ -1369,7 +1362,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/WnlSq5I8l4vcneuUSwzwCjYiYjrOb79BvXDqlvHYm44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjU0/MDgtMTQzODk0NDA4/My01ODkxLmpwZWc.jpeg" alt="Cover for Evdekilere Selam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2cb5fa107cd480ab69d3fea4d8a821e.png" alt="Cover for Evdekilere Selam" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Yüzyüzeyken Konuşuruz</td>
@@ -1392,6 +1385,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc7db4f2214d046edaabce389ac3076f.png" alt="Cover for Full Faça" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01</td>
       <td>Büyük Ev Ablukada</td>
@@ -1433,6 +1427,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9714b83e85c345b4a4dfaccc1c403e44.png" alt="Cover for Tüm Bu Başlangıçlar" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-07</td>
       <td>Kung Fu</td>
@@ -1471,7 +1466,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/LqzYIBCpbtgbu50_i34HbtQbveHCNVbl0ApfMOr1Mlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA3/MzEtMTQ0MTE4MjE0/NS0xODYxLmdpZg.jpeg" alt="Cover for Otoban Sıcağı" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daaf448dce754c78ccff221b12b6bbc9.png" alt="Cover for Otoban Sıcağı" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Yüzyüzeyken Konuşuruz</td>
@@ -1513,27 +1508,17 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/k5e9iHIboQKu42RVhg4R66bE3o5WtoZAtyTge_HkarU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA2/ODQtMTQ0MTE4MTE1/OC0zNzQ4LmpwZWc.jpeg" alt="Cover for Eski Dostum Tankla Gelmiş" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62add568218a4c0fccc362ec82c68dcf.png" alt="Cover for Eski Dostum Tankla Gelmiş" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-08</td>
       <td>Adamlar</td>
       <td>Eski Dostum Tankla Gelmiş</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 89</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 96</li>
         </ul>
       </td>
@@ -1560,6 +1545,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c0da1c320987e77a3ccced4550f7c05.png" alt="Cover for Kırınardı" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-17</td>
       <td>Gevende</td>
@@ -1579,25 +1565,41 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/81I-3AMORBFUZzF-pg7_zix8lu-3LR_Dpdy6bXXLy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/MjMxLTE1Mjg5MDk4/MjUtNzQyNC5qcGVn.jpeg" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e700832b6e8c58a6cbabb30da07a03f.png" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>Büyük Ev Ablukada</td>
       <td>Fırtınayt</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 13</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/EhODXmQyikJ4k7bC0orN4Zsr5eJnLAhvc3t6PuMj6k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI2/MDU3LTE1NTAyOTk0/MjgtNjA5Mi5qcGVn.jpeg" alt="Cover for Yarın Yokmuş Gibi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Batu Akdeniz</td>
+      <td>Yarın Yokmuş Gibi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 97</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1614,27 +1616,6 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/EhODXmQyikJ4k7bC0orN4Zsr5eJnLAhvc3t6PuMj6k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI2/MDU3LTE1NTAyOTk0/MjgtNjA5Mi5qcGVn.jpeg" alt="Cover for Yarın Yokmuş Gibi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Batu Akdeniz</td>
-      <td>Yarın Yokmuş Gibi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
@@ -1674,10 +1655,6 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       <td>Dünya Günlükleri</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
@@ -1688,7 +1665,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/klQksUpS0YvqZR2L_W4iBbwLV7_3cze0UY_cLvgbGNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODYz/NTIxLTE2MjE4Njg5/MDQtMjIxNi5qcGVn.jpeg" alt="Cover for Geyik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b035f42a720468482fd422d4e0fdd30.png" alt="Cover for Geyik" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>1-C</td>
@@ -1711,6 +1688,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee59dc9b3ac8789da80808ce75e65a23.png" alt="Cover for Sonsuz Bir Leke" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-08</td>
       <td>Baba Figürü</td>
@@ -1730,29 +1708,24 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/tpMSSF20r9QQgr_g2qT0E34oFPvTMwebg_0dG8NMJ2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjE2/MDAtMTM2MDM0OTky/Ni01NjE2LmpwZWc.jpeg" alt="Cover for Defansif Dizayn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b228133fb61c5bbb4988d89cb0f00d.png" alt="Cover for Defansif Dizayn" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-08-10</td>
       <td>Büyük Ev Ablukada</td>
       <td>Defansif Dizayn</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b06d8afa195259a679b9beb12b9fe7ce.png" alt="Cover for Platonik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Keskin Viraj</td>
@@ -1769,13 +1742,14 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 73</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9144f50e3524543f7ae30cf55c4816a.png" alt="Cover for Düşler" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rehber</td>
@@ -1790,7 +1764,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1924,6 +1898,7 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9b340a5e0eec10b4918b26c8ca4028.png" alt="Cover for Toz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>deniz sungur</td>
@@ -1988,8 +1963,8 @@ Turkish rock blends Western rock instrumentation with distinctively Turkish melo
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
-- [art rock]({{ "/tags/art-rock" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
-- [turkish pop]({{ "/tags/turkish-pop" | relative_url }})
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
+- [art rock]({{ "/tags/art-rock" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})
+- [indie folk]({{ "/tags/indie-folk" | relative_url }})

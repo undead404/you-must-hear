@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T03:41:50.979Z
+date: 2025-12-03T06:53:24.721Z
 permalink: tags/austrian
 title: austrian
 ---
 
 ## austrian
 
-Last updated: <time datetime="2025-11-03T03:41:50.979Z">Mon Nov 03 2025 05:41:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:53:24.721Z">Wed Dec 03 2025 08:53:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -167,7 +167,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/nzPIdUiOlDH7XZyETlw3p5TgdItwGXDZh38wJNqRvm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzgy/MS0xMTcxMTY1MTA5/LmpwZWc.jpeg" alt="Cover for Einzelhaft 25th Anniversary Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bde53df337014e06927e7f7659f8f31c.png" alt="Cover for Einzelhaft 25th Anniversary Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Falco</td>
@@ -188,6 +188,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b16d97d31682896f56b042ec91b702b.png" alt="Cover for Einzelhaft" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Falco</td>
@@ -219,7 +220,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 77</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +303,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Ez968HvokGUqG6pxKs5cNqBcRjuoyiYAZu3zF7sxRbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzg1/MDUtMTQ2MDQ1Mjc2/Ni04MDgzLmpwZWc.jpeg" alt="Cover for Rock Me Amadeus 30th Anniversary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9840f5e6222674941baeeee169f96fb2.png" alt="Cover for Rock Me Amadeus 30th Anniversary" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Falco</td>
@@ -323,7 +324,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/FY26iYuWhHyOUG_nHGWld9FTjwPnaYUFK-9Q5U80dU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcy/NjAtMTMxMDY2MDQy/NC5qcGVn.jpeg" alt="Cover for Falco 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03c35a214ae64c299e2c36b51a102cc0.png" alt="Cover for Falco 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-09-11</td>
       <td>Falco</td>
@@ -344,7 +345,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/AL9d7p5x5TGrigVPLEDUNKLsw9ZlHjgQ1GagP_o6XYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzQ4/Ny0xNTAxMjYzODkx/LTU2NTEuanBlZw.jpeg" alt="Cover for Exquisite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e01826addea1133ed718f78fb1e53ad7.png" alt="Cover for Exquisite" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Falco</td>
@@ -386,7 +387,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/HgQpsxgu4eM2PTWouHzCt1e3dPFbFNIsKw0Edyal998/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjUy/MS0xNTg3Mjg4NDQy/LTk5NjguanBlZw.jpeg" alt="Cover for Emotional" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad6a4acfee21daf7b8d3c4bd3ec1519.png" alt="Cover for Emotional" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-10</td>
       <td>Falco</td>
@@ -540,7 +541,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/X2LgkJrsaLU7aN_-BuE1x82RzF46ZVgc8yT2we50nPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk1/NS0xMjgwMzk5MzEx/LmpwZWc.jpeg" alt="Cover for Von Zeit zu Zeit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2576646353a0f6b7886853d39db7f0.png" alt="Cover for Von Zeit zu Zeit" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-10-09</td>
       <td>Rainhard Fendrich</td>
@@ -561,7 +562,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/OkI-I4bI2OEPVrd77oiIcrLuvEIu3mUbm03yVXIloQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTI3/MC0xNDQyNjczNDIw/LTQ5NTMuanBlZw.jpeg" alt="Cover for Data de Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b36d5e35068af646b4c5e794eb97445.png" alt="Cover for Data de Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Falco</td>
@@ -642,6 +643,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdb6a7ed65f1f27d5310eda94abb27ef.png" alt="Cover for Nachtflug" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-09-24</td>
       <td>Falco</td>
@@ -678,7 +680,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/mYbuDlg1kQ1rXvu9vJuaVKeBo2dMJLH5IyXuWqe8yv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM2/Ny0xNTg4MTYyNzky/LTU2MzYuanBlZw.jpeg" alt="Cover for Luft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83a2da8411e49e0b89102e484ad8e77.png" alt="Cover for Luft" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Attwenger</td>
@@ -735,8 +737,8 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 86</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 100</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 1</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -817,6 +819,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31d6f91c557962d6cc4696d5ac085149.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Falco</td>
@@ -913,7 +916,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/MuT3tB1I9MIQztL2HJEuT1zuddN4n912g6_3FdKf01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NTMtMTQyMzI0NTY3/NS03MDU2LmpwZWc.jpeg" alt="Cover for The Very Best - Tribute &#39;98" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca97ccd6b7c4774ac793ab83224104a.png" alt="Cover for The Very Best - Tribute &#39;98" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Falco</td>
@@ -993,7 +996,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/r4LFa9UJeiXo-3qxe9YQjkUZXE5kuS4RKlDSJAJgmkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUy/OTAtMTIyODA2NDA5/OC5qcGVn.jpeg" alt="Cover for Out of the Dark (Into the Light) [2012 - Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b5b4fe0acb445683d20a78a3e3d490.png" alt="Cover for Out of the Dark (Into the Light) [2012 - Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Falco</td>
@@ -1032,7 +1035,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Jq68O26qLUOI424xn7f337m59OZ0yOQ4rRM0eI6wJc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzU0/MDQtMTI0NjY5ODQw/Ny5qcGVn.jpeg" alt="Cover for Out Of The Dark (Into The Light) [2012 Remaster]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcca02a1e9e275991789dd07fd38c83d.png" alt="Cover for Out Of The Dark (Into The Light) [2012 Remaster]" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Falco</td>
@@ -1183,13 +1186,14 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 83</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b029efc401af42beb3ee47014894ff6d.png" alt="Cover for Fön" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-06</td>
       <td>Hubert Von Goisern</td>
@@ -1262,6 +1266,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d99301f8e7944721ac86c04fb01cbc0d.png" alt="Cover for Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Attwenger</td>
@@ -1334,7 +1339,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/ySVIatrJo7KVt7VvjwxfyD5VLAwmvirQELOi-OK07fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk0/NS0xMzY3NTkxNDE0/LTExNDkuanBlZw.jpeg" alt="Cover for Falco 60" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6620f083657a1d4d229abd16bb9850e0.png" alt="Cover for Falco 60" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Falco</td>
@@ -1434,14 +1439,14 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/eKA6f8GKPFajWgGhKVLiS8eVm4RatdL0R3qYNkFg3Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/ODQtMTE5NzQ3Njky/NC5qcGVn.jpeg" alt="Cover for paroli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6aee71743ed47c081f70eca8e601b59.png" alt="Cover for paroli" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Texta</td>
@@ -1553,7 +1558,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/tpdFolbpbyx7DjbOj7R6VonzYxi8tHS5tn8y7IbgPA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTAx/MzQtMTI2NjYxODcx/My5qcGVn.jpeg" alt="Cover for Lovetune for Vacuum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4f8afda82c4b81cb9f6e5ce4f122ec.png" alt="Cover for Lovetune for Vacuum" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-13</td>
       <td>Soap&amp;Skin</td>
@@ -1565,8 +1570,8 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 14</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 87</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 20</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1633,6 +1638,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6211eb929ffc4a759a52620a30cccaae.png" alt="Cover for Herzwerk" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>Andreas Gabalier</td>
@@ -1669,6 +1675,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/230b487c4a1f4a179d882ada0977acfa.png" alt="Cover for Energia!" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-31</td>
       <td>Russkaja</td>
@@ -1684,8 +1691,8 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 26</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 50</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 29</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1735,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/_b3DzADA-CPSCqS_CjE0_YmPNg2nMgDVfWNn0PWEXaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg0/OTEtMTUzNDI1MzY0/Ni02MjM4LmpwZWc.jpeg" alt="Cover for Old Routes - New Waters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7e363ac033da57c030d8477e10e3930.png" alt="Cover for Old Routes - New Waters" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-22</td>
       <td>Visions of Atlantis</td>
@@ -1853,7 +1860,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/F4CR1f5NceUp9qadK5mN_KP1z3Rn2Rm4wP6-SeypQvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjQ3/MS0xMzYzNTU2MDIw/LTM3MzYuanBlZw.jpeg" alt="Cover for JNG RMR 2 (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8746211002acb0a0d1a1a19e622f2b3.png" alt="Cover for JNG RMR 2 (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-15</td>
       <td>Falco</td>
@@ -1874,7 +1881,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/D9i5aBbzVBt2sSc-kGfwMLzrkmdirsq8i_bTKjodu_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM2/NDU3LTE1ODg0OTAw/NzMtMTY3MC5qcGVn.jpeg" alt="Cover for In meiner Zone 2.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ee5dbb2d7caa4becfcfd33e8e93baf.png" alt="Cover for In meiner Zone 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-31</td>
       <td>RAF Camora</td>
@@ -1890,7 +1897,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 20</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 85</li>
         </ul>
       </td>
@@ -1936,7 +1943,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/lwh3HdEf6o70QBI4tBXJbXgTxv9sYOePreHTpwOYyww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/MjMtMTI4OTU1NjI3/Mi5qcGVn.jpeg" alt="Cover for Falco 3 25th Anniversary Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5613224cbcc09267ea2028f9fe9354a.png" alt="Cover for Falco 3 25th Anniversary Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Falco</td>
@@ -1957,7 +1964,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/IjElwy0zWAgt9WgXy6gGV82bd-5akkw5C59SF_zQn68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAw/NDI5LTE2NTc5NjE1/MTktNzI2Ny5qcGVn.jpeg" alt="Cover for My world, My love, Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1851491ad313f132e7969e91701c8159.png" alt="Cover for My world, My love, Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-15</td>
       <td>Oska</td>
@@ -2003,8 +2010,8 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
 - [austria]({{ "/tags/austria" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [blues]({{ "/tags/blues" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
 - [classical]({{ "/tags/classical" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})

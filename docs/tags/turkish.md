@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T02:37:22.793Z
+date: 2025-12-03T06:50:19.625Z
 permalink: tags/turkish
 title: turkish
 ---
 
 ## turkish
 
-Last updated: <time datetime="2025-11-17T02:37:22.793Z">Mon Nov 17 2025 04:37:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:50:19.625Z">Wed Dec 03 2025 08:50:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -281,7 +281,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 81</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 20</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 100</li>
         </ul>
       </td>
@@ -527,7 +527,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 45</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 44</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 73</li>
         </ul>
       </td>
@@ -773,7 +773,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 32</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1069,6 +1069,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10454e32c1846978ef9edd884f90117.png" alt="Cover for Breath" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04</td>
       <td>Mercan Dede</td>
@@ -1124,7 +1125,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 28</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 27</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 48</li>
         </ul>
       </td>
@@ -1712,7 +1713,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 60</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1780,6 +1781,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1893,7 +1895,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 30</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1912,7 +1914,7 @@ Turkish pop blends traditional Middle Eastern melodies and instrumentation with 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 66</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 65</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 90</li>
         </ul>
       </td>

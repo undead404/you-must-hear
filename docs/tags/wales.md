@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:36:17.597Z
+date: 2025-12-03T06:52:31.378Z
 permalink: tags/wales
 title: wales
 ---
 
 ## wales
 
-Last updated: <time datetime="2025-10-28T06:36:17.597Z">Tue Oct 28 2025 08:36:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:52:31.378Z">Wed Dec 03 2025 08:52:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -58,12 +58,10 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       <td>Vintage Violence</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -85,14 +83,14 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 25</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Blodeugerdd: Song of the Flowers - An Anthology of Welsh Music and Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31892d2468482eff8a8258df63bcace3.png" alt="Cover for Blodeugerdd: Song of the Flowers - An Anthology of Welsh Music and Song" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Various Artists</td>
@@ -146,7 +144,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 10</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +206,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/awzjhx7qf2fkzbsrZj--1OkWQP8q552vlV2Y0l7LjX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA5/MTYtMTMyMjMwNzg0/Mi5qcGVn.jpeg" alt="Cover for Wyau" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/775e2ec73171912a1960dfa2f4a60796.png" alt="Cover for Wyau" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Datblygu</td>
@@ -422,6 +420,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5131af6c281bdf0006da3feb2b066027.png" alt="Cover for Hub" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-05</td>
       <td>Hub</td>
@@ -519,10 +518,10 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 24</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 34</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 50</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 67</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 68</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 76</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 78</li>
         </ul>
       </td>
@@ -609,7 +608,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/anl62hZcUCYWkvg5MnNwws_SB-PV7wRfBLEUlvEgnXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcy/NDA2LTE1MTg3MjU1/MjQtNTk2My5qcGVn.jpeg" alt="Cover for Clychau Dibon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/404132f2c935170030eb794c9855d00b.png" alt="Cover for Clychau Dibon" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Catrin Finch</td>
@@ -624,8 +623,8 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 82</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 91</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 7</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +646,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 71</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +666,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 32</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +693,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 55</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 45</li>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 62</li>
         </ul>
       </td>
@@ -702,6 +701,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cdb9db0cdaa4c94b115a0705eaeaed8.png" alt="Cover for Sex War" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Picture Frame Seduction</td>
@@ -737,7 +737,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 36</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -767,7 +767,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 44</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +790,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 58</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -833,14 +833,14 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 78</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/XX5JHJt-1HwQr5Z8NnqNFYkJ4HMeDQxQtPt5ILgZWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NDktMTE5MzExODU4/Ny5qcGVn.jpeg" alt="Cover for The world keeps spinning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/062065ff3e034a3e8e1ec6da0e93ceb0.png" alt="Cover for The world keeps spinning" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Snowmobile</td>
@@ -860,8 +860,8 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 64</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 75</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 26</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 36</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 96</li>
         </ul>
       </td>
@@ -869,7 +869,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/p4Nvwcb6IW4HzzfVKt1U3fssHcUia09uNS1eC4AFyVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzg2/MDAtMTUyNDkyNjYx/My0xMjI5LmpwZWc.jpeg" alt="Cover for Attack Attack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eed0057f71804eb0b5ead33b30b8ffd8.png" alt="Cover for Attack Attack" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Attack! Attack!</td>
@@ -885,7 +885,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 71</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -930,7 +930,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/0722BuGM2nesbZSms8ZqSEhpGK4bukX1kLLmSJt7g1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg0/ODUtMTMxNDY5MzIz/MC5qcGVn.jpeg" alt="Cover for Pixiegraf" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da8bee288edbb41bc207453528c16aa6.png" alt="Cover for Pixiegraf" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-01</td>
       <td>Cwtch</td>
@@ -957,7 +957,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/VZy8eMp6jcQ1tjTeFo7SpdqrDwgXoaAGfY8WLuHz99s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjcy/ODUtMTQ1ODMwMjkx/Mi0yMDE5LnBuZw.jpeg" alt="Cover for Ingrate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9899da451cf4848beb3c2780e880e7f.png" alt="Cover for Ingrate" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Anatomist</td>
@@ -974,7 +974,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 2</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1004,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 35</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1029,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/3KgBM3k2m8uwwBTLt0o6v_MA7kKLDrs-klxlF0EJ-qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg0/ODktMTMxNDY5MzE1/Mi5wbmc.jpeg" alt="Cover for Cwtch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc8ca818a1d490e9cbf1b430d950803.png" alt="Cover for Cwtch" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-01</td>
       <td>Cwtch</td>
@@ -1051,7 +1051,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/EJU0mNs1RAr4fC2vCpS-ZIXNXsW0JNAiewif-pahcnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY2/NDktMTI5MTY1MTgy/Ni5qcGVn.jpeg" alt="Cover for Streets Of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f274d42b03543f38b4f27a5c625fac3.png" alt="Cover for Streets Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-20</td>
       <td>Glass Pear</td>
@@ -1075,14 +1075,14 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 80</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/YD5k2PmGN2pyZNaRAShoJ0sFnNYNsQWjeBTlqNOd3Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE1/MjgtMTI4Njk1MDY2/OS5qcGVn.jpeg" alt="Cover for Plus Or Minus Zero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1191d930773c428ab8f5c3933e802bf2.png" alt="Cover for Plus Or Minus Zero" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Shakespeare and the Bible</td>
@@ -1142,7 +1142,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/3KgBM3k2m8uwwBTLt0o6v_MA7kKLDrs-klxlF0EJ-qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg0/ODktMTMxNDY5MzE1/Mi5wbmc.jpeg" alt="Cover for be.ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f9433ff71f6c87e816e383b5ca1bb71.png" alt="Cover for be.ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-30</td>
       <td>Cwtch</td>
@@ -1174,7 +1174,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 25</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1205,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 54</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/pWwgbl7Z2amGSsbafX_4PNRZiNIq7oj95ecq6hzCzMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzYw/NTEtMTMyMzUzMTIy/MS5qcGVn.jpeg" alt="Cover for This Is Civilisation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccc8eba8674330b0ae727dc0857f6ceb.png" alt="Cover for This Is Civilisation" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Dementio13</td>
@@ -1256,7 +1256,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/pWwgbl7Z2amGSsbafX_4PNRZiNIq7oj95ecq6hzCzMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzYw/NTEtMTMyMzUzMTIy/MS5qcGVn.jpeg" alt="Cover for Vkhutemas Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/705669491dddd2afbfa9c01f240928b2.png" alt="Cover for Vkhutemas Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Dementio13</td>
@@ -1279,6 +1279,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/650be4b4dcf649b68669176808dff78b.png" alt="Cover for Audio-rape" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Pin-Up Godiva</td>
@@ -1298,7 +1299,6 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/pWwgbl7Z2amGSsbafX_4PNRZiNIq7oj95ecq6hzCzMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzYw/NTEtMTMyMzUzMTIy/MS5qcGVn.jpeg" alt="Cover for The Hobbyist" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-15</td>
       <td>Dementio13</td>
@@ -1320,7 +1320,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/J_HBPvonnEV8wnahmRoDaGWARJ_y8EmwPSwBt9Nmp9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg0/ODItMTMxNDY5MzQy/MC5qcGVn.jpeg" alt="Cover for Beyond Transgression" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/290997770b56b7c26e3e725f6b7061bc.png" alt="Cover for Beyond Transgression" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-28</td>
       <td>Cwtch</td>
@@ -1338,7 +1338,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/RtYNwhbHHn1u93r06i-UAqs5Uzp4hEHgZ0X9uV-bnhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDA3/MS0xNjY1NDk5OTA5/LTg5NTUuanBlZw.jpeg" alt="Cover for Together Stronger (C&#39;mon Wales)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07b7d2cb0c44b40f9cce6eb2081e41d4.png" alt="Cover for Together Stronger (C&#39;mon Wales)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Manic Street Preachers</td>
@@ -1359,7 +1359,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/6_NfK-DWqxELP3gMBZP1ogy41X2j06njYJbba2buDZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDY5/NDgtMTQ4MjQ4MDU2/MS00NzExLmpwZWc.jpeg" alt="Cover for El Lissitzky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67b770818f3b4a8395c4bf7397ec05f3.png" alt="Cover for El Lissitzky" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-18</td>
       <td>Dementio13</td>
@@ -1493,7 +1493,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/j4FnEFYLW7IpNcqbF4YFzbSQT4U42TfrVsPNBHB3InM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjU5/NTgtMTM3NjY5NjQ4/NS00MzcwLmpwZWc.jpeg" alt="Cover for Three" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f2a337745a04984b8a4dc8e62195a65.png" alt="Cover for Three" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-19</td>
       <td>Charlotte Church</td>
@@ -1533,7 +1533,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/BvcEtXyUsSJABBS3wrYpch6ysYuphFJ7J_gaAGmswOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njcw/MjMtMTQ2MjE3OTI5/Mi04OTIzLmpwZWc.jpeg" alt="Cover for 2002 - 2007 : Oddities" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8011659a6405c4ea8cb14541ccb1139b.png" alt="Cover for 2002 - 2007 : Oddities" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-10</td>
       <td>Dementio13</td>
@@ -1551,7 +1551,6 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/6_NfK-DWqxELP3gMBZP1ogy41X2j06njYJbba2buDZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDY5/NDgtMTQ4MjQ4MDU2/MS00NzExLmpwZWc.jpeg" alt="Cover for Short Circus" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-12</td>
       <td>Dementio13</td>
@@ -1595,7 +1594,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/YE4qneD7Ln5Fx9gB-momjaa___fTEZagOxsXh8kqkdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/MTEyLTE1MDkwMzMy/NzYtNzAyMC5qcGVn.jpeg" alt="Cover for To New York (Acoustic)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d7b63e57ca24d2faa3ff567ca651ca.png" alt="Cover for To New York (Acoustic)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-13</td>
       <td>Lloyd Jerwood</td>
@@ -1610,7 +1609,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 12</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1655,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/MyzPh18vbqRFUwPXf31Cf_ZToSZrgkLemnPVjaNC3jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE5/NTk3LTE2NjIzNzA1/NTQtNDMxNC5qcGVn.jpeg" alt="Cover for debut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41b74603ccf0e29e8188381a06a3f38.png" alt="Cover for debut" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-04</td>
       <td>quantum computer</td>
@@ -1705,7 +1704,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/xEIQGN9fKUMhgkpoXsFgMYma2TaoI1gk-uYGbet-JYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI0/OTg1LTE1Njg4MjUx/MjQtMjg1Mi5qcGVn.jpeg" alt="Cover for Pang!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00ccc0f44c697bf247394713bdec1e52.png" alt="Cover for Pang!" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-13</td>
       <td>Gruff Rhys</td>
@@ -1724,7 +1723,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/WC_Y1iWDVUGAKmNbxwsZLylOUxZAAorAlMmB_HgYln4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA0/OTQ0LTE1Nzk5OTQw/NjYtOTkwMC5qcGVn.jpeg" alt="Cover for Second Hand Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5d8418ecf9ee57aee4b657eb5bb6f8.png" alt="Cover for Second Hand Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Bandicoot</td>
@@ -1785,14 +1784,14 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       <td>
         <ul>
             <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 13</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 22</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/OJ_IRBSgvQ2O6Ylq1bEOpRsNRJFp7A_Getubt8VQasc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODYz/ODI5LTE2NzQ1MDM5/NTMtNTk2Ni5qcGVn.jpeg" alt="Cover for BLOOD, SWEAT &amp; FEARS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0b45b4b31d23e483b726cae28aa45d.png" alt="Cover for BLOOD, SWEAT &amp; FEARS" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-13</td>
       <td>L E M F R E C K</td>
@@ -1803,7 +1802,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1882,6 +1881,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3754f9ac647ae99bb2de276670f7c345.png" alt="Cover for Ancient Dreams in a Modern Land" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>MARINA (w&#x2F;o the Diamonds)</td>
@@ -1927,6 +1927,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/235ceda97eaad02a0f3eb969b88e7efc.png" alt="Cover for Language Barrier" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Phase4our</td>
@@ -1949,6 +1950,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce2fa5db28374ab98d0e76db5b859f0b.png" alt="Cover for Waiting For Rain EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Magpie Instinct</td>
@@ -2000,6 +2002,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9524e3c38c511958d64acc5793ad23.png" alt="Cover for Moll" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Bright-Eyed Sky</td>
@@ -2018,6 +2021,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac85b98956c472299c61f78d3e49d36.png" alt="Cover for Hidden Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shake The Ultimate Zebra</td>
@@ -2062,6 +2066,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb28b139bd7b436e8e353c2ab29d6847.png" alt="Cover for After pride comes a fall" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Duncan James Smith</td>
@@ -2109,6 +2114,7 @@ Music from Wales encompasses diverse sounds rooted in the country&#39;s rich Cel
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0900dd55e7434eb0900daf5d1cbf850d.png" alt="Cover for Overtones of Despair" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Storm the Walls</td>

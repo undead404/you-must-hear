@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T02:02:36.878Z
+date: 2025-12-03T06:41:49.605Z
 permalink: tags/celtic-rock
 title: celtic rock
 ---
 
 ## celtic rock
 
-Last updated: <time datetime="2025-10-29T02:02:36.878Z">Wed Oct 29 2025 04:02:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:41:49.605Z">Wed Dec 03 2025 08:41:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -38,9 +38,6 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       <td>Dancehall Sweethearts (Bonus Tracks Version)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
@@ -70,7 +67,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/oFwHiJLrQJnfJohuVEpQKSyrkzIVTuqE_KaZUxjLs4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODI5/MS0xNDgzMjY2OTA1/LTQ5ODEuanBlZw.jpeg" alt="Cover for Rum Sodomy &amp; The Lash (Expanded)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13eab11b66fb4846b710333e7df4ddcc.png" alt="Cover for Rum Sodomy &amp; The Lash (Expanded)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Pogues</td>
@@ -109,19 +106,19 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da37fc3c0024459cc5e7be788f2f256f.png" alt="Cover for If I Should Fall From Grace With God" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-01-01</td>
       <td>The Pogues</td>
       <td>If I Should Fall From Grace With God</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 2</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 13</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 88</li>
             <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 91</li>
         </ul>
       </td>
@@ -147,6 +144,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46e1ade1800bda342b1ddceb62bb637.png" alt="Cover for Salida de Emergencia" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Celtas Cortos</td>
@@ -220,8 +218,8 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 43</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 60</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +359,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 60</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +549,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>5</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aa3bc742c694ad49f076de9121a946b.png" alt="Cover for Quand les vents tournent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a792a7ed4ffd424cb1e013911e29c51c.png" alt="Cover for Quand les vents tournent" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Vae Victis</td>
@@ -670,7 +668,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/x5fLuuxFHtjpERFQvWSE4zewbS4Dn6lFkr1EREMuT00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg0/OTMtMTMxMTI4ODQ4/My5qcGVn.jpeg" alt="Cover for A Legacy of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50a4a2d6191648dd800b8099824628eb.png" alt="Cover for A Legacy of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-27</td>
       <td>Antichrisis</td>
@@ -691,7 +689,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/wFzkWKVEu7HI2atkvLU0q2scT3OPaAH7Pfc-fRtKPXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ1/NDkzLTE2MDk2MDQw/MDEtMzk5MS5qcGVn.jpeg" alt="Cover for Touche Pas À la Blanche Hermine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15ec2d56592282879c34e46f9feccd57.png" alt="Cover for Touche Pas À la Blanche Hermine" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09</td>
       <td>Gilles Servat</td>
@@ -709,7 +707,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 46</li>
             <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 81</li>
         </ul>
       </td>
@@ -717,7 +715,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/SpL4Nx4yrKl06jgroVkvyqNQAdWsTswZCCeVknAGeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODQ1/NzktMTQ1OTI2ODk4/Mi00NDMxLmpwZWc.jpeg" alt="Cover for For All We Shared" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af837d70f711faa7582c33e1bee9cf14.png" alt="Cover for For All We Shared" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Mostly Autumn</td>
@@ -786,7 +784,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 49</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -841,7 +839,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 62</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +921,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/hcUHECfvTT6MFrzH3pdr2kG83oOldyrOXrH-gmD5XdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/OTktMTYyMTc4Njgy/NC02MzE0LmpwZWc.jpeg" alt="Cover for Perfume" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3f0c7bc94d4cffcc1ae4563ce184d0.png" alt="Cover for Perfume" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-10</td>
       <td>Antichrisis</td>
@@ -1023,6 +1021,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f77e8aecc81a4c699a85e07d39f27d63.png" alt="Cover for Drunken Lullabies" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-19</td>
       <td>Flogging Molly</td>
@@ -1034,7 +1033,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 46</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 47</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 96</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 98</li>
         </ul>
@@ -1056,7 +1055,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 35</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 42</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1176,6 +1175,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c4c16d9ca20985a1ec1f0a9faef206e.png" alt="Cover for Something Beautiful" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-24</td>
       <td>Great Big Sea</td>
@@ -1205,7 +1205,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 51</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1225,8 +1225,8 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 64</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 66</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 68</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1390,14 +1390,14 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 25</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/Tw6mmhAfqa9WTxDyH48w-NNRFpfB_Z6hiZBr_yKd65c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAx/MTU0LTE1NzM3NzE4/MjItNTAyMS5qcGVn.jpeg" alt="Cover for One Step Ahead of Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb8d13db22b3b28e18df7c8a7606344.png" alt="Cover for One Step Ahead of Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-22</td>
       <td>The Killigans</td>
@@ -1476,7 +1476,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/MEYIMy9eZnlp3wzPKQUp9EXewPzdz4qTP2d3pN9dqIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODk2/NTAtMTU1Njg1MDMw/Mi04MjU2LmpwZWc.jpeg" alt="Cover for Happy to Meet, Sorry to Part (Bonus Tracks Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd20d787a76ba74d2d249efe91e68dd9.png" alt="Cover for Happy to Meet, Sorry to Part (Bonus Tracks Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-30</td>
       <td>Horslips</td>
@@ -1530,6 +1530,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/121f515333932536ba817d5369248832.png" alt="Cover for After Work" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tir Nan Og</td>
@@ -1545,7 +1546,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 20</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1600,13 +1601,14 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 64</li>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 86</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e36dc11c02423ac2f736ff67ee9568.png" alt="Cover for Celkilt" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03</td>
       <td>Celkilt</td>
@@ -1627,9 +1629,9 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 6</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 23</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1679,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/a-M0tP4K5dtFQY7P616c5BR_Mrx6bDhxi7LkXi9uA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTYy/NDUtMTQ3OTE1OTQw/Ni0yMjEwLmpwZWc.jpeg" alt="Cover for Celtic Guitar: Dance with the Strings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c2ca2ce2f1794c89bcb9b062062d320.png" alt="Cover for Celtic Guitar: Dance with the Strings" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Adrian Von Ziegler</td>
@@ -1720,6 +1722,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9a12a00db3646dbc6f559b310cc4dd8.png" alt="Cover for Hey What&#39;s Under Your Kilt?" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03</td>
       <td>Celkilt</td>
@@ -1740,15 +1743,16 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 22</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 32</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f958eb179e67754f5ec2747b0f510ea.png" alt="Cover for Static On The Airwaves" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-22</td>
       <td>Levellers</td>
@@ -1766,7 +1770,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Vbd01QNwCf_j4l8Ms-9Dx9saBVBoi86b1gE0RYAin8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDI0/MjEtMTQ1OTcyMDE0/MS00Nzg5LmpwZWc.jpeg" alt="Cover for Under the Ancient Oak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c8f4375e9dedf6ddc91c8bbdbfe7b9c.png" alt="Cover for Under the Ancient Oak" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>Moonroot</td>
@@ -1801,7 +1805,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 45</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 46</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 57</li>
         </ul>
       </td>
@@ -1809,7 +1813,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/8Rbvp11Tsa-zrjp_Uct7hphBuQOB03932iRt551fa7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDY3/MDctMTQ1MjIwMTEy/My0yMTYxLmpwZWc.jpeg" alt="Cover for On The Table" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7290c6073b0f4ccdccbc00e97632fbe4.png" alt="Cover for On The Table" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Celkilt</td>
@@ -1830,9 +1834,9 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 8</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 24</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 37</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1861,7 @@ Celtic rock fuses traditional Irish and Scottish folk music with the energy and 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/d9c5M1EonK0PpdrZ7wCZvzZ30mA3A9758ST6wv8loCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjEy/ODMtMTQzNDE5NjY4/MC04MjQxLmpwZWc.jpeg" alt="Cover for Feed the Flames" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69efe7f583eda69a89424b2c25194106.png" alt="Cover for Feed the Flames" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-29</td>
       <td>Greenrose Faire</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:41:30.654Z
+date: 2025-12-03T06:51:27.911Z
 permalink: tags/female-rapper
 title: female rapper
 ---
 
 ## female rapper
 
-Last updated: <time datetime="2025-11-14T01:41:30.654Z">Fri Nov 14 2025 03:41:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:51:27.911Z">Wed Dec 03 2025 08:51:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -708,7 +708,7 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 40</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1420,7 +1420,7 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/seJBFxdWUWBequCaYirDSp4zXl-5gAzWt00iL5s1zdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAz/NTYwLTE2ODEwNTYw/NzAtODg2Ny5qcGVn.jpeg" alt="Cover for Am2021" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90c24d4ed3cbc403c3a1a854d639a2b8.png" alt="Cover for Am2021" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Arleta</td>
@@ -1497,34 +1497,7 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb45dbc0a21a7ecd8881acf3e550ef4.png" alt="Cover for Algorhythm" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Baegod</td>
-      <td>Algorhythm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1792,19 +1765,14 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
       <td>All I Really Want</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
@@ -1942,6 +1910,25 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb45dbc0a21a7ecd8881acf3e550ef4.png" alt="Cover for Algorhythm" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Baegod</td>
+      <td>Algorhythm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
         </ul>
       </td>
       <td>
@@ -2119,10 +2106,10 @@ This tag encompasses hip-hop and rap music performed by female MCs, showcasing d
 - [rap]({{ "/tags/rap" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
-- [french rap]({{ "/tags/french-rap" | relative_url }})
 - [rap francais]({{ "/tags/rap-francais" | relative_url }})
-- [france]({{ "/tags/france" | relative_url }})
 - [french indie]({{ "/tags/french-indie" | relative_url }})
+- [french rap]({{ "/tags/french-rap" | relative_url }})
 - [french]({{ "/tags/french" | relative_url }})
+- [france]({{ "/tags/france" | relative_url }})
 - [rappeuse]({{ "/tags/rappeuse" | relative_url }})
 - [urbain]({{ "/tags/urbain" | relative_url }})

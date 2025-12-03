@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T03:17:21.980Z
+date: 2025-12-03T06:55:00.265Z
 permalink: tags/country-blues
 title: country blues
 ---
 
 ## country blues
 
-Last updated: <time datetime="2025-11-15T03:17:21.980Z">Sat Nov 15 2025 05:17:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:55:00.265Z">Wed Dec 03 2025 08:55:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/kkq5mR99eY60FWSlG3-UfXbRv_qQwcUOSmYIx-NB6-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzM3/ODgtMTQ0MjE5MTIx/Mi01MzA0LmpwZWc.jpeg" alt="Cover for Harmonica Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5971c97e4f9f08cac974d6eb0d38e833.png" alt="Cover for Harmonica Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1930-12-19</td>
       <td>Chuck Darling</td>
@@ -61,14 +61,14 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 81</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/zLnkbfnfm99OtxUgOyIINQ95aif8pRn87C0Iltc0N2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE2/MTUtMTI2NTczOTMz/OS5qcGVn.jpeg" alt="Cover for Avalon Blues 1963" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab6e0420b4163411328d8641d5cac3bf.png" alt="Cover for Avalon Blues 1963" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Mississippi John Hurt</td>
@@ -87,6 +87,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6808fcdc03e763c1cc9aec34194e459a.png" alt="Cover for Burning Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>John Lee Hooker</td>
@@ -154,7 +155,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 26</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -174,13 +175,14 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/SuG2YSQ_5FZIoiIxnSeUAKKIs6SKjU91-WNICnw5I6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTY3/OTUtMTYxODE4MjI0/NC05NTMzLmpwZWc.jpeg" alt="Cover for Delta Blues and Spirituals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869b35d2f1a0c97464eaf6ccd33935b9.png" alt="Cover for Delta Blues and Spirituals" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Son House</td>
@@ -193,14 +195,14 @@ Country blues emerged from rural African American communities in the early 20th 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 24</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 77</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/jLsc8fNOIaop5ZQSXNjsgB5iQxMetDSeYIefxP58Gvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ5/MzctMTMwMzkyOTUy/NS5qcGVn.jpeg" alt="Cover for Blues Magician" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1b78b313ee8ffc0022e35e6176f9b8e.png" alt="Cover for Blues Magician" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Furry Lewis</td>
@@ -214,7 +216,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 10</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -378,6 +380,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82cfb1dde7c84f5f8c8789a533dab52c.png" alt="Cover for And The RCO All-Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Levon Helm</td>
@@ -397,7 +400,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/UJ5y6E-ZG5QPV58h2h3H3UCIu4rG4EhK3zdBkp3U_Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkw/OTgtMTI5MjkzMjk2/MS5qcGVn.jpeg" alt="Cover for Levon Helm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/128d95f83f64068a2169cd3e5fe0f000.png" alt="Cover for Levon Helm" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Levon Helm</td>
@@ -453,7 +456,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/NMeK6vhIdjO16FwzBIzTgG6xsyqLKsUilJ34fseWnXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzU0/MjQtMTQ0OTU4MTcz/OS0yNjUwLmpwZWc.jpeg" alt="Cover for The Original Rolling Stone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f17d55f1d64a3989c3a05befe4486c.png" alt="Cover for The Original Rolling Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Robert Wilkins</td>
@@ -490,7 +493,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/1tDsUl9enmVUgq_vGDiFaDaGw4IR6iHRaSFdD_sd0JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDEz/MjEtMTI4NzQ1NjU2/NC5qcGVn.jpeg" alt="Cover for The Original Singles Collection... Plus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27119e0507fa2e67752911c6849f1055.png" alt="Cover for The Original Singles Collection... Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Hank Williams</td>
@@ -505,7 +508,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 28</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +589,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/XAyEzrgJn_zywNUjC8PrT1I0b0MmfwjXhRW3Xnubp7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYx/NzgtMTQ1Njg0MTA1/OC04MTgyLmpwZWc.jpeg" alt="Cover for Oh Yes I Can" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0349864ab6bf177ec54ef44705e52513.png" alt="Cover for Oh Yes I Can" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>David Crosby</td>
@@ -615,7 +618,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/ZbsdCB2fAhKd95xwxXxSsCM-tqf_XFgQOyhEvH0DKcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc0/NDItMTQxMDYwMDU2/NC0zNTc2LmpwZWc.jpeg" alt="Cover for Live At Sugar Hill, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab970ee43da34d0589150aba5c6a66b3.png" alt="Cover for Live At Sugar Hill, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Lee Hooker</td>
@@ -626,14 +629,15 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 13</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 18</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 14</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1857fe4e0eab951686fe3798c4cbf3.png" alt="Cover for Good Time Tonight" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Big Bill Broonzy</td>
@@ -646,7 +650,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 82</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +676,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/IY7GPgi4PR7Q3Evj9Xm8m0sWJfxrD14A1BwiXasky6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMw/MjAtMTMwMjg0MTAz/Mi5qcGVn.jpeg" alt="Cover for The Complete Prestige &#x2F; Bluesville Recordings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49fd85d3ff7f526838b829c039ae850.png" alt="Cover for The Complete Prestige &#x2F; Bluesville Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Lightnin&#39; Hopkins</td>
@@ -691,6 +695,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db516aa14406e9e28d859737cb609d81.png" alt="Cover for The Complete Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-08-20</td>
       <td>Robert Johnson</td>
@@ -786,11 +791,11 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 10</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 22</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +838,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/Yovduu9X9a7fFZ5aIlYhRg8V05-AFf0p3hSyDdx2kjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE1/OTItMTI2Nzg4Mjg0/Mi5qcGVn.jpeg" alt="Cover for Negro Blues and Hollers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41987157810c2b0ac92d06e1f9bdf6d5.png" alt="Cover for Negro Blues and Hollers" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Son House</td>
@@ -876,7 +881,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/cshp0UN-m2pbEC7u9XeBaXWbf3XFiPx8nlfPMbwALGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDgx/NTItMTM5NjgyMzg4/Ny00MDc5LmpwZWc.jpeg" alt="Cover for King Biscuit Flower Hour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5eef5c116b16eb8544179890350e046.png" alt="Cover for King Biscuit Flower Hour" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>David Crosby</td>
@@ -913,8 +918,27 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
     </tr>
     <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81282f69b3574255c2f726cc183b398a.png" alt="Cover for Death Chants, Breakdowns &amp; Military Waltzes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>John Fahey</td>
+      <td>Death Chants, Breakdowns &amp; Military Waltzes</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535b232c59ea4456b6007caf79676fdb.png" alt="Cover for St. Louis Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Big Bill Broonzy</td>
@@ -927,8 +951,8 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 36</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 71</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 37</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -951,25 +975,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81282f69b3574255c2f726cc183b398a.png" alt="Cover for Death Chants, Breakdowns &amp; Military Waltzes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>John Fahey</td>
-      <td>Death Chants, Breakdowns &amp; Military Waltzes</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35782664974955f997e519942b2a53d0.png" alt="Cover for Recommended for Airplay" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>David Allan Coe</td>
@@ -983,14 +991,14 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 43</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/rNZRPLrrZqeveB0Bc4QvyYv_n3dF7FaCgEgYi73dwyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIy/MDYtMTQyNzkwNjQ2/MC03OTgxLmpwZWc.jpeg" alt="Cover for In Europe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fe2906bf2b8c8603bd1d92d0b0ae290.png" alt="Cover for In Europe" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Sleepy John Estes</td>
@@ -1042,15 +1050,15 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 6</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 22</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 5</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/LAlM5ZCAcz-9vpfgCrIZ8CAvjTPBllfqG-vxFa0u_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM4/ODYtMTQ0ODI4Njcz/MS01NzQ4LmpwZWc.jpeg" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10aae37010b39c61d6d102fedfbd8722.png" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Bob Dylan</td>
@@ -1058,14 +1066,11 @@ Country blues emerged from rural African American communities in the early 20th 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 28</li>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 57</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 62</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 94</li>
         </ul>
       </td>
@@ -1113,6 +1118,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1175,9 +1181,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 27</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 27</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 40</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 41</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1207,6 +1213,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/035099ad98004776c73cadbc03b63869.png" alt="Cover for Martin Scorsese Presents The Blues: Son House" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-09</td>
       <td>Son House</td>
@@ -1221,8 +1228,8 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 90</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 95</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 91</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1293,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 45</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1399,9 +1406,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 38</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 40</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 48</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1427,9 +1434,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 40</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 50</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 42</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 52</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1461,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/EiGXzoCalV5FkQnLMupFCTlx1jNGrllSzD6_i6yKnmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODU4/ODgtMTM4Njg2NTky/OS02NTIwLmpwZWc.jpeg" alt="Cover for Bluesman, Guitar Evangelist, Folksinger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cfee3c6d5746014a1d8a334e194fff1.png" alt="Cover for Bluesman, Guitar Evangelist, Folksinger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Josh White</td>
@@ -1533,8 +1540,8 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 3</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 6</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 7</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1606,12 +1613,12 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 68</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1742,9 +1749,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 8</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 94</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 100</li>
         </ul>
@@ -1753,7 +1760,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/3aGTDtZ39tbY33yzKZR6yrBoAwSBUB6vQp18CpebMOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjAy/MTgtMTM5MjkwOTM5/OS0yOTU5LmpwZWc.jpeg" alt="Cover for The Ties That Bind: The Best of Levon Helm 1975-1996" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ed5f36c5e749eea758fe0120afdf6b8.png" alt="Cover for The Ties That Bind: The Best of Levon Helm 1975-1996" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Levon Helm</td>
@@ -1792,9 +1799,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 36</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 39</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 47</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 40</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 49</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1838,8 +1845,8 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 2</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 79</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 81</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 99</li>
         </ul>
       </td>
@@ -1864,9 +1871,9 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 2</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 5</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 17</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 1</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1899,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 2</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1936,19 +1943,20 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3aebdd3b74e8881a78cb9777f5d82.png" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Bombino</td>
@@ -1967,7 +1975,7 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 87</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
             <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 99</li>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 99</li>
@@ -2001,12 +2009,12 @@ Country blues emerged from rural African American communities in the early 20th 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 46</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 73</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2034,6 +2042,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43586192af2af524d4389fbc472da18a.png" alt="Cover for Classic Piedmont Blues from Smithsonian Folkways" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -2052,6 +2061,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53339c46be74426c85f35ecc29e6fe0e.png" alt="Cover for The Beginning" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jodi Ann</td>
@@ -2070,6 +2080,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/816298242c27a84f8deb9807c18e5bcb.png" alt="Cover for 47 Minutes Away" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Andy Branton</td>
@@ -2125,6 +2136,7 @@ Country blues emerged from rural African American communities in the early 20th 
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59d7f50295974e4dcf833437d3bc33c2.png" alt="Cover for Harmonica Blues" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Various Artists - Shanachie Records</td>

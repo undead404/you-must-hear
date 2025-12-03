@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:45:30.135Z
+date: 2025-12-03T06:50:34.446Z
 permalink: tags/ireland
 title: ireland
 ---
 
 ## ireland
 
-Last updated: <time datetime="2025-11-23T08:45:30.135Z">Sun Nov 23 2025 10:45:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:50:34.446Z">Wed Dec 03 2025 08:50:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -106,7 +106,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -428,8 +428,8 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 26</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 32</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +623,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/SFZYSSifOlC2GaDVS_EWhQya2weI89GfLrlTwXsD-2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODc0/NjYtMTUwNTkxMjky/OS01MTcyLmpwZWc.jpeg" alt="Cover for Lost Songs 95-98" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69f8933b72bd4450a6be1c2db2c20f1a.png" alt="Cover for Lost Songs 95-98" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-12</td>
       <td>David Gray</td>
@@ -631,7 +631,6 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
       <td>
@@ -977,7 +976,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1291,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Nbl6thafwaatOLiiP48agK5UELGKYdeTihBVtzI-E-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk1/ODYtMTU5OTA2Mjk2/OS03MTY1LmpwZWc.jpeg" alt="Cover for V" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8397e171d80b41719474f1ca9e340cb4.png" alt="Cover for V" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Simon Bird</td>
@@ -1699,7 +1698,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/3LiDUflckEuRz-zQI_2oQ5nkfs5kTch9EcxAp-enmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/MTA3LTE1NTQyNDE0/MjQtMTMzOS5qcGVn.jpeg" alt="Cover for Veneration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7e64a21c864eccaee4369230d71d647.png" alt="Cover for Veneration" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-26</td>
       <td>Fomorian Vein</td>
@@ -1724,7 +1723,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/iPue0xaSwHCJ7zTpcKZjKxxAQ8TNQ_XWLiqM-hHnQz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MzkxLTE1NTgwMDc0/NjAtMjI2Ny5qcGVn.jpeg" alt="Cover for This Is the Part I Feared Would Occur" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba82a4ab459a7afd17ccb09a69001c46.png" alt="Cover for This Is the Part I Feared Would Occur" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-03</td>
       <td>Fomorian Vein</td>
@@ -1825,7 +1824,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 3</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1900,7 @@ Music from Ireland encompasses a diverse range of styles united by the island&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 68</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 69</li>
         </ul>
       </td>
     </tr>

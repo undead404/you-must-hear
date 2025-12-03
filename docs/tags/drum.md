@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T11:19:52.600Z
+date: 2025-12-03T06:52:41.314Z
 permalink: tags/drum
 title: drum
 ---
 
 ## drum
 
-Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:52:41.314Z">Wed Dec 03 2025 08:52:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 75</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +109,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/mxy6MI-YpWDU2IgBEbcLevJOflsUTWAHBvSX9ZtJVnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODM5/OC0xMjcwNjY4NjA4/LmpwZWc.jpeg" alt="Cover for Louie Vega - Choice , A Collection Of Classics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35707287b8dfc798b23a96b363ebcf1.png" alt="Cover for Louie Vega - Choice , A Collection Of Classics" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Idris Muhammad</td>
@@ -205,7 +205,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/_yA8lAv2-paY5lcOxfx9hUfapjx6PLzV2VWoVf_4kIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEx/MS0xMzUyNzI5MDk5/LTIwMzUuanBlZw.jpeg" alt="Cover for Drum&amp;BassArena Anthology 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0064d6a0fbd7e42e92148faf3670a09d.png" alt="Cover for Drum&amp;BassArena Anthology 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Pendulum</td>
@@ -284,7 +284,6 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/RP4IINMBxabaFHTubF_fw6zEGiH_pSSgq3N0gDNi7gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ4/OC0xMjI3NDkwMjkz/LmpwZWc.jpeg" alt="Cover for Download" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Pendulum</td>
@@ -330,6 +329,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
         <ul>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 74</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 81</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -437,11 +437,11 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 4</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 33</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 83</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -485,11 +485,11 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 5</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 36</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 84</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -515,6 +515,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c63b88dceb847bf8768200be6f73ef1.png" alt="Cover for 3.5" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-20</td>
       <td>Safri Duo</td>
@@ -578,7 +579,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
@@ -630,6 +631,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf1aa1db1df54dfe850ef2656857e941.png" alt="Cover for die art sich zu täuschen" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-27</td>
       <td>Mitsnakker</td>
@@ -720,6 +722,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af03bd2d3674536a37a83eff330b837.png" alt="Cover for Crowd Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-29</td>
       <td>Mitsnakker</td>
@@ -748,7 +751,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/RfMgNpzl6CyKEqHWuTbWZrclvXo21ltDuJkGASmbWNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/MzEzLTE1MTI5OTgy/NTItNjAxNS5qcGVn.jpeg" alt="Cover for The Legacy Continues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff51e0e6ebc61945289209bb4292c1da.png" alt="Cover for The Legacy Continues" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-26</td>
       <td>The Drifters</td>
@@ -794,6 +797,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4a422b2d954717a50e89a503a79368.png" alt="Cover for B.A.R.T." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-30</td>
       <td>Mitsnakker</td>
@@ -864,14 +868,14 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 37</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/WaKDu2bNh8_9h3MaU-mSRfQLFhAgZU7wm9Ga9Y-paAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg5/ODUtMTM0ODUzNTYy/Ny04OTM5LmpwZWc.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16873058307f88362cf8bb0ec4aa94e7.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jami Sieber</td>
@@ -929,6 +933,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-21</td>
       <td>Juli Holz</td>
@@ -977,7 +982,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 40</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 61</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 64</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 85</li>
@@ -1010,6 +1015,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1063,13 +1069,13 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1096,6 +1102,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a1b26a24d0692b89cc1dcf21a5f.png" alt="Cover for Broken Toys" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-10</td>
       <td>NEIZAN</td>
@@ -1151,7 +1158,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
         <ul>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 14</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 21</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1220,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 41</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 80</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 95</li>
         </ul>
@@ -1241,7 +1248,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/JUoaI--XZWRsdNL6p0tFy3dAWVq3VM1BYI83XcoWvg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODE1/MjEtMTQ0ODkxMTU1/Ni04MTcwLmpwZWc.jpeg" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc31b47af54d480e857fd86375726652.png" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>NIHAO?</td>
@@ -1330,18 +1337,17 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 19</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 73</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 80</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/99OeS10N0heLg-E7wmeQ_dBFlBCfVCEefCSRpP-7MJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTIy/NDUtMTMzMzM4MTM0/Mi5qcGVn.jpeg" alt="Cover for Essential R&amp;B - Spring 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-24</td>
       <td>Labrinth</td>
@@ -1367,7 +1373,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/qzIOQHFxnydz4x3wQoWbUOK7LXKKYGPy3ToXveaiEWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzgy/MTMtMTM4NTUyMTIz/Ny02MTU2LmpwZWc.jpeg" alt="Cover for Distance EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96cf96ed5d0c410d8a242346b108bb69.png" alt="Cover for Distance EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-19</td>
       <td>Aparde</td>
@@ -1441,6 +1447,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1be6514606a4b1a965575db430b6145.png" alt="Cover for Wie Indianer leben" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>SchmmOOs</td>
@@ -1560,8 +1567,8 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 8</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 78</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1586,10 +1593,11 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 3</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 82</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
         </ul>
@@ -1618,9 +1626,9 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 35</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 38</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 34</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 73</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 99</li>
         </ul>
       </td>
@@ -1628,6 +1636,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd928f732bb4e80b3bc438bc2ccfc44.png" alt="Cover for Pläne Für Gestern" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-22</td>
       <td>Minitimer Katzenposter</td>
@@ -1652,17 +1661,17 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 15</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 27</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 28</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 79</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 82</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/OC7A8b_5WmUxEUzY32hg7b0HUs6Ix1mgQxOAI2GyRS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI1/MjYtMTMxMTY4MjQw/Ni5qcGVn.jpeg" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa66eae8a32e4032a3f9ac09c1ef2bd8.png" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-22</td>
       <td>Laserkraft 3D</td>
@@ -1710,8 +1719,8 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 66</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
@@ -1721,7 +1730,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/V0M_34Gmqnxm39c6H01XhBrhBRmIjavqaMH1um1hYIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDY5/MTctMTQxNzAxNjQ2/NC00MzAzLmpwZWc.jpeg" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9811403c5937490badb0a90df4f33b84.png" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-11</td>
       <td>Tristan</td>
@@ -1788,7 +1797,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 14</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 15</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 67</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 77</li>
         </ul>
@@ -1797,7 +1806,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/uKrAQlziZQUexLqnJpe159s2-1MAgfE6hM6oJPaxsw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk1/NTAtMTMzNzg3NTQ2/MC0zMjgzLmpwZWc.jpeg" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea09923971fb4882baf019fe064b63f3.png" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Shaban &amp; Käptn Peng</td>
@@ -1846,7 +1855,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/8-jifC9vOJIVYhGYqKkwphguQQuVNPb-yfwA7VhCw5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA3/ODI1LTE1MTE4Nzk2/MTQtMzI3MC5qcGVn.jpeg" alt="Cover for Bunny XII" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8742593beee2427ab652d446b752c850.png" alt="Cover for Bunny XII" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Environmental Encroachment</td>
@@ -1910,14 +1919,14 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 17</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/op4N67_c1LFPd6BqQpsE35MqGzwgRAOiIjO2XJo_dmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk1/Mzc4LTE1MDQ1MDcz/MTEtMTcwMy5qcGVn.jpeg" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea0f60b54d64fc4ae9f251fdc03da7a.png" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Les Bummms Boys</td>
@@ -1982,6 +1991,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/751fc61d9566405f82843c647f1fea39.png" alt="Cover for Meine Soldaten" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Maxim</td>
@@ -2030,16 +2040,16 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 35</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2068,6 +2078,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f004505a26042099d483ecb3f529af4.png" alt="Cover for Saftladen" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-22</td>
       <td>Les Bummms Boys</td>
@@ -2200,7 +2211,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/ihWOgtj3BFvQEDxwxgT6ZBseSFFD2z-SjYoQvQak6nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ0/NzYzLTE1OTAwNjMy/NzctODY0My5qcGVn.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87c931a8d787b070cc64dff0ceb2a897.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-26</td>
       <td>Ulrich Schnauss</td>
@@ -2243,7 +2254,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/6e6emYXLjEfUvTHQKnHHgif9Gt0tZainWJzVYNNfyVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/NTk4LTE1OTYzNTM0/ODMtMzMwOS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc8d76cfb2f4bf184cb3efa10d18583.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-24</td>
       <td>Les Bummms Boys</td>
@@ -2316,7 +2327,6 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 5</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 69</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 87</li>
         </ul>
@@ -2325,7 +2335,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/XFTY0URMaYTHze1JnRCU4cN6tiURgwzZgXmyAERUhGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/NjkwLTE2Mzc2NzA0/MjgtMTE3Ny5qcGVn.jpeg" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a616392f9832cf1abd073484127025fd.png" alt="Cover for FOX HOUND PROJECT VOL.I" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-23</td>
       <td>FOX PROJECT</td>
@@ -2359,15 +2369,15 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 28</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 68</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 29</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/YGhtNl-02ZXQ85o1CN4oIfY-FkJfx5DxTce8qr_DYgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA5/NDA1LTE2OTQ5NzA0/ODktODI5MS5qcGVn.jpeg" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e8fce36c7745ed8a58d56b6fe510a8.png" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>NORA&amp;LEO</td>
@@ -2467,7 +2477,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 20</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2541,7 +2551,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 4</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2634,6 +2644,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad5706118834424abd7845fc606ad86.png" alt="Cover for Kaffee, Bier und Schokoküsse" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Xarecrows</td>
@@ -2729,6 +2740,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85729fcad5f14d6987b68949008e040c.png" alt="Cover for Neuratik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Neuratik</td>
@@ -2744,7 +2756,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 62</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2824,7 +2836,7 @@ Last updated: <time datetime="2025-11-04T11:19:52.600Z">Tue Nov 04 2025 13:19:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 13</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 88</li>
         </ul>
       </td>
     </tr>

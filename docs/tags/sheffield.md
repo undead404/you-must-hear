@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-19T02:04:10.887Z
+date: 2025-12-03T06:52:20.609Z
 permalink: tags/sheffield
 title: sheffield
 ---
 
 ## sheffield
 
-Last updated: <time datetime="2025-10-19T02:04:10.887Z">Sun Oct 19 2025 05:04:10 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:52:20.609Z">Wed Dec 03 2025 08:52:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,6 +52,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da78fb33f069f85618b132a045576781.png" alt="Cover for Travelogue" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-05-23</td>
       <td>The Human League</td>
@@ -70,28 +71,24 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/QrV5icme0aEO5QLGcr2w9DJCUpGBnod6kXfqr4uRHUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk3/LTEyMTIyMjc4NDEu/anBlZw.jpeg" alt="Cover for Penthouse And Pavement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e397731b8b54cb0b8b14a71a5bfca18.png" alt="Cover for Penthouse And Pavement" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Heaven 17</td>
       <td>Penthouse And Pavement</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/iGM35DBLvOlYIZmP1rhuN3o0zxCU9kdT1GZTkThx2C0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQ2/My0xMzM0OTI0NjAy/LmpwZWc.jpeg" alt="Cover for Secrets Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/159f76dd1d1842cfb376e60a6c83a6d5.png" alt="Cover for Secrets Out" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>The Box</td>
@@ -110,7 +107,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/i7mdvdJNYKIsH0yWprfm1uXbe4RYTeoOZoxFbLDC-y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzQ2/Ni0xMTU1MzI4MTQ2/LmpwZWc.jpeg" alt="Cover for Poppycock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d4bbc717e3f4debb50b44ce6a2a00b9.png" alt="Cover for Poppycock" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Blurt</td>
@@ -129,6 +126,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a32cc7ee2b245b086aced18961c2276.png" alt="Cover for Let It Go" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Clair Marlo</td>
@@ -223,8 +221,8 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -297,6 +295,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d89916e5698d4fa98c375fdd9e7b2c13.png" alt="Cover for Bigger Than America" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-20</td>
       <td>Heaven 17</td>
@@ -365,7 +364,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 47</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +389,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 38</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -434,7 +433,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/ghpk6iEcLyKAWJZYCALzWq0Yz67-OOtAXwhiIUaxuFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODY5/NS0xNTkyMTQyODIy/LTU0NzIuanBlZw.jpeg" alt="Cover for Hellfires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/697752ea51574a2ab9b372149a2b9f9c.png" alt="Cover for Hellfires" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09</td>
       <td>Matt Howden</td>
@@ -452,7 +451,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/Djg5VuibTG7KLtTA6E25w1s9A0xCepcTAKT5Aa22Mw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/Mjk4LTE1MDUwMzgz/MTktNzc0NS5tcG8.jpeg" alt="Cover for Mint Condition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a638bd48559944eea64ea109af928caf.png" alt="Cover for Mint Condition" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Wooderson</td>
@@ -502,6 +501,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -525,7 +525,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 50</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +551,6 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/mY4x_gOPu_47Au8YBL7jucZ6HDvxWCO_rShd-vqbQrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTU1/LTExODcwMjIxMjEu/anBlZw.jpeg" alt="Cover for The Best of the Human League [EMI]" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Human League</td>
@@ -825,7 +824,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 47</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +870,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/vYacYmMUqBch4QO23YLXOdRDkLX2NKJOhEJucTTB_9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUw/MTkxLTE1MTQ3MzM5/NzAtNzU5My5qcGVn.jpeg" alt="Cover for Industrial Revolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/469b939a6d2d6a7be6e75869ac8adc09.png" alt="Cover for Industrial Revolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>GloryStrokes</td>
@@ -972,7 +971,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/eVApCZkF_5Msrp-8yDHyuXjRh93OWNdilamsbjHxD64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTk0/MC0xMTc0MjUzODk0/LmpwZWc.jpeg" alt="Cover for On Bricks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4300f7c4a51311ec27d6de95fa80867.png" alt="Cover for On Bricks" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Adrian Carter</td>
@@ -1098,7 +1097,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/kGsRHhwpj_RTbh61c_tfb27pSeOh8dBAS7-ckolKNOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk5/NDE0LTE1NDYxODU3/MzAtMTA4OS5qcGVn.jpeg" alt="Cover for Demo 2011" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51ec9782939742c1a842e05040f56272.png" alt="Cover for Demo 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Wooderson</td>
@@ -1143,7 +1142,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 54</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 47</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 68</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 77</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 84</li>
@@ -1171,7 +1170,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 14</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1194,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 22</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1328,6 +1327,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1a8903f8f304e0abffd651543b26d44.png" alt="Cover for Tell Me A Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-10</td>
       <td>Grace Petrie</td>
@@ -1367,7 +1367,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/sJsM--aP-iYRm-efz80YbH2L4KCZKuTU7C6-QST7q8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjc0/NTQtMTQzNTcwMjMy/NS05OTI1LmpwZWc.jpeg" alt="Cover for The EP of Fear and Failure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69714718a0df48529da407a990c1ae10.png" alt="Cover for The EP of Fear and Failure" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05</td>
       <td>Low Duo</td>
@@ -1448,7 +1448,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 14</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 12</li>
             <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 67</li>
         </ul>
       </td>
@@ -1475,7 +1475,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/upbg9za1LBeBRkjO75G5gC8AnN6q5fe0XQGkpcb7Vtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzUx/NTItMTMyNzk5NjU2/OS5qcGVn.jpeg" alt="Cover for Soft Wounds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00c898b591a94f0780b505191aec46cb.png" alt="Cover for Soft Wounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-12</td>
       <td>Songs of Green Pheasant</td>
@@ -1494,6 +1494,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f973fba8c4c443f580f1729d16ad1aa0.png" alt="Cover for Jack&#39;s Rake" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-17</td>
       <td>Jack&#39;s Rake</td>
@@ -1527,7 +1528,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 57</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1639,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/z6wJiX7j_fuZg3eG-P3tHYc6NfTLmITVt_WkQsZpbtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTU5/MDYtMTM4MjIwMTc4/Ny05NDY5LmpwZWc.jpeg" alt="Cover for why is no one here i can make you alt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22d2844ffb1d44fdc42b11779cf478a9.png" alt="Cover for why is no one here i can make you alt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-04</td>
       <td>pjaro</td>
@@ -1661,6 +1662,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01dcf45f47724894bdb81f188c0573e6.png" alt="Cover for Summer Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Electric Starlight</td>
@@ -1718,14 +1720,13 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/gj_cw1Of0-vvNgVo3IRF4cSzEsyoeL4qT_RQ8hP4i2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg5/NzQ0LTE2MDE2MzE2/OTktNjc2My5qcGVn.jpeg" alt="Cover for First Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-30</td>
       <td>Potpourri</td>
@@ -1745,7 +1746,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Pioneers of the Hypnotic Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0087a2bc98c4c91f780ae983804b95d6.png" alt="Cover for Pioneers of the Hypnotic Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1839,7 +1840,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 18</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 17</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 21</li>
         </ul>
       </td>
@@ -1864,7 +1865,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 34</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1893,7 +1894,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2024,6 +2025,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c76d1837fb514c12cc926678530dc480.png" alt="Cover for Inevitable Inertia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Destruction Junkie</td>
@@ -2083,6 +2085,7 @@ Sheffield refers to the distinctive electronic and post-punk sound that emerged 
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/472fd27678eb4086c07cf1b190875314.png" alt="Cover for Erratic Behaviour" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Irrational Act</td>

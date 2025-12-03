@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T04:58:31.236Z
+date: 2025-12-03T06:51:39.202Z
 permalink: tags/disco-house
 title: disco house
 ---
 
 ## disco house
 
-Last updated: <time datetime="2025-11-17T04:58:31.236Z">Mon Nov 17 2025 06:58:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:51:39.202Z">Wed Dec 03 2025 08:51:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,6 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +135,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 30</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 31</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 53</li>
         </ul>
       </td>
@@ -209,9 +208,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 17</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 46</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 74</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +250,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 83</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -378,10 +377,10 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 5</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 41</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -424,11 +423,12 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 61</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 11</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 85</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +670,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 51</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 50</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 79</li>
             <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 94</li>
         </ul>
@@ -731,7 +731,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 17</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 7</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1063,9 +1063,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 31</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 32</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 46</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 41</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1528,8 +1528,8 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 71</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 97</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 3</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1570,8 +1570,8 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 2</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 49</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 18</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1613,10 +1613,10 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 45</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 48</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
@@ -1660,7 +1660,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 32</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1695,9 +1695,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 73</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 91</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1748,11 +1748,11 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1793,16 +1793,17 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1837,9 +1838,9 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 32</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 47</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1918,10 +1919,10 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 22</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 44</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1962,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 33</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1986,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 50</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 49</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 51</li>
         </ul>
       </td>
@@ -1993,7 +1994,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg" alt="Cover for Got 2 Be There" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c39a09d002045afc32a6ffd49407de55.png" alt="Cover for Got 2 Be There" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-06</td>
       <td>Midnight City</td>
@@ -2010,7 +2011,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 47</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 65</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2042,7 +2043,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/Qshec94UUtGbaZVDpKcESTiWOB1X5nJny1OemdGIm8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/MzI1LTE1OTAzNDA4/MTMtMjQ2Ny5qcGVn.jpeg" alt="Cover for Get It Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f89956a680ab900785aa9db921a6646.png" alt="Cover for Get It Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-22</td>
       <td>Midnight City</td>
@@ -2059,14 +2060,14 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 33</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 45</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/N8iRMHQyajYAJjlddu64G4j3W_6qEt2p-GQ24tdtkd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MjczLTE1OTIwMDUw/NDItNTY0MS5qcGVn.jpeg" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0885d6c042542b4180c10712d9bc100e.png" alt="Cover for It&#39;s Gonna Be, What I Feel" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-12</td>
       <td>Midnight City</td>
@@ -2078,7 +2079,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 14</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 30</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2103,7 +2104,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/zYcVv4O5EymDHUwRqDXYHDoGwBfQD7lJSS9aCRWbMXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/OTA5LTE1NjQwOTk2/MzktNzY4MS5qcGVn.jpeg" alt="Cover for The Guestlist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17ef775139883aeb13b04002d39439c.png" alt="Cover for The Guestlist" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-18</td>
       <td>Midnight City</td>
@@ -2120,7 +2121,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 35</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 48</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2147,7 +2148,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/oOb4fxFmP1FlGJt4N4S34bWApn0iKNeyCuhQcZvOjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA4/MDA4LTE2NTk3MDA5/OTAtMzgzNS5qcGVn.jpeg" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f6c6e374e8f9967e22eb89fb9eebef9.png" alt="Cover for Good Feelings EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-05</td>
       <td>Midnight City</td>
@@ -2164,7 +2165,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 27</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 38</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2196,7 +2197,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2237,15 +2238,15 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 43</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 57</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10dbbc02b46a618eeb77e019d8a35041.png" alt="Cover for A Love That You Can Keep" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-28</td>
       <td>Midnight City</td>
@@ -2262,7 +2263,31 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 41</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 57</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b8ac313b7344ec26ac3dc27e723c3a.png" alt="Cover for Free Falling" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>DXWAVE</td>
+      <td>Free Falling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2288,7 +2313,6 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 21</li>
         </ul>
       </td>
@@ -2340,7 +2364,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 33</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 34</li>
             <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 58</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 67</li>
         </ul>
@@ -2375,29 +2399,6 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b8ac313b7344ec26ac3dc27e723c3a.png" alt="Cover for Free Falling" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>DXWAVE</td>
-      <td>Free Falling</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>16</td>
       <td>
       </td>
@@ -2418,6 +2419,7 @@ Disco house fuses the four-on-the-floor beats and synthesizers of house music wi
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96526fd6085c810eaf204610fe750efe.png" alt="Cover for Paramedicore vestax 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The-Hantrax</td>

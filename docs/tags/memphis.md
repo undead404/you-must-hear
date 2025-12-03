@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:47:26.868Z
+date: 2025-12-03T06:54:04.030Z
 permalink: tags/memphis
 title: memphis
 ---
 
 ## memphis
 
-Last updated: <time datetime="2025-11-24T14:47:26.868Z">Mon Nov 24 2025 16:47:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:54:04.030Z">Wed Dec 03 2025 08:54:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -116,8 +116,8 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 67</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 73</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 44</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 49</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +438,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -661,8 +661,8 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 50</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 51</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -848,7 +848,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/zoTEEtPsaE829pn89xjboIGNw-Tpc8i9L6BtMTldXmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjI1/MTQtMTYwMTE0Njcz/MS00NjI5LmpwZWc.jpeg" alt="Cover for The Faithless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb8af040d9fb4a2e59d1c1f1d3bb6e0.png" alt="Cover for The Faithless" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-13</td>
       <td>Nights Like These</td>
@@ -931,7 +931,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 5</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1301,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 51</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1495,8 +1495,8 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 25</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 59</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 26</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1541,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 16</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1790,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 29</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1939,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 20</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2005,13 +2005,13 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 12</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2032,7 +2032,7 @@ Memphis music represents the distinctive sound emerging from Tennessee&#39;s lar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 28</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 29</li>
         </ul>
       </td>
     </tr>

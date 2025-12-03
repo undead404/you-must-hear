@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:41:07.357Z
+date: 2025-12-03T06:50:44.052Z
 permalink: tags/nu-bluz
 title: nu-bluz
 ---
 
 ## nu-bluz
 
-Last updated: <time datetime="2025-11-14T01:41:07.357Z">Fri Nov 14 2025 03:41:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:50:44.052Z">Wed Dec 03 2025 08:50:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -55,7 +55,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 9</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -138,9 +138,9 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 46</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 74</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -363,16 +363,16 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 45</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 55</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/FLSw5WZ2q4ChnNnZKeSn6hgWSUyMtF6_zDf_HHQ2f-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY3/NjMtMTQzNDkyODg5/OS01NTY3LmpwZWc.jpeg" alt="Cover for What Is That Sound?: Lamb Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48244d595b8842ecb7f42695e9efa2f9.png" alt="Cover for What Is That Sound?: Lamb Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Lamb</td>
@@ -452,9 +452,9 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 5</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 20</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 2</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
         </ul>
       </td>
@@ -498,11 +498,12 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 61</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 85</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 86</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -614,6 +615,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04014deccd5848b688cf92f8565acce9.png" alt="Cover for fyah ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Graph Nobel</td>
@@ -982,6 +984,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a83c17b4acee7b378df5b0055c6c60b4.png" alt="Cover for The Craft" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-27</td>
       <td>Blackalicious</td>
@@ -1015,7 +1018,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/OSdHyLf2D1WtF_JO9midn0AAex36gnp8tmDd2e9q-AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDky/NC0xMTY4Njc4MDE1/LmpwZWc.jpeg" alt="Cover for DFEP07 - Round Table Knights - Belly Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/541fe9c4692bc3bd827374bbfeb1e60e.png" alt="Cover for DFEP07 - Round Table Knights - Belly Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Round Table Knights</td>
@@ -1036,7 +1039,6 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/K8NvP7SpJKKbghyOZfshQK4BQTwQw9hVAyZ9e9Xrpxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAt/MTE3Mzg4NTg2MC5q/cGVn.jpeg" alt="Cover for City Lounge 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Troublemakers</td>
@@ -1104,6 +1106,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1582f0e00a39405eb725168c44b33264.png" alt="Cover for Listen Hear" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Dumpstaphunk</td>
@@ -1122,6 +1125,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69d55c1b0e2b1f0eaab441cc17cb268a.png" alt="Cover for Animas" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Locura</td>
@@ -1155,7 +1159,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 45</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1239,7 +1243,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/D6z0Ld5_KVPIFLiCiFaoomgnFvDTQ-KF9wM0VKpLUM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjI1/NDMtMTM5ODI0Nzc4/Ny05MzY3LmpwZWc.jpeg" alt="Cover for Sangria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd015c7765ac0b505052af6fc87b8a6c.png" alt="Cover for Sangria" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Mariah Parker</td>
@@ -1259,7 +1263,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/gqKhJSyCB49mFV5EiSIbPd6MaITCvNEPx88AZ2169UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/NjUtMTM4MTAwMDMy/Ny01MTQyLmpwZWc.jpeg" alt="Cover for Beat Street" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1efbc29ce64f4381b6930109dc814c94.png" alt="Cover for Beat Street" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-27</td>
       <td>Emil Lanne</td>
@@ -1324,7 +1328,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 26</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 74</li>
         </ul>
       </td>
@@ -1531,7 +1535,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 38</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 70</li>
         </ul>
       </td>
@@ -1647,9 +1651,10 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 24</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 22</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1710,6 +1715,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1746,8 +1752,8 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 31</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 39</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 32</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 36</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 54</li>
         </ul>
       </td>
@@ -1809,7 +1815,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/GF7WjJiMltPNAkr2nY6ZJtUU5zX0nKym9ua73GcBNto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM3/MjctMTI4ODEyNzEw/Mi5qcGVn.jpeg" alt="Cover for DFEP11 - Tom Flynn - Magia E.p." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b024deb920bd49822eda1653023e8ea.png" alt="Cover for DFEP11 - Tom Flynn - Magia E.p." style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-20</td>
       <td>Tom Flynn</td>
@@ -1911,7 +1917,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/zm_fOWj988JtTJDHMaDKz2PEaVXwoZiyC2rUJs7mtVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcz/MjctMTM1MzE1OTY2/OS0xMDYzLmpwZWc.jpeg" alt="Cover for Scion A&#x2F;V Presents: Sound Pellegrino - Straight From The Spring" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7bb9d08f5c44cc990e2be8c2385b25.png" alt="Cover for Scion A&#x2F;V Presents: Sound Pellegrino - Straight From The Spring" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-19</td>
       <td>Gucci Vump</td>
@@ -1957,8 +1963,8 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 33</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 49</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1997,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 40</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 71</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
         </ul>
@@ -2016,8 +2022,8 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 84</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 8</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2105,7 +2111,6 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2195,8 +2200,8 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 75</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 88</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 25</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 89</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 97</li>
         </ul>
       </td>
@@ -2273,9 +2278,9 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 20</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 2</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 18</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2317,10 +2322,10 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 45</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 48</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
@@ -2408,7 +2413,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 73</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 91</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 92</li>
         </ul>
@@ -2444,11 +2449,11 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2489,15 +2494,16 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 5</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
         </ul>
       </td>
@@ -2533,9 +2539,9 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 47</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 56</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2606,12 +2612,12 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 5</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 22</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 30</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2648,8 +2654,8 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 40</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 73</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
         </ul>
@@ -2778,7 +2784,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2890,7 +2896,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 7</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2931,7 +2937,7 @@ Nu-bluz represents a modern reimagining of blues sensibilities through electroni
       <td>
         <ul>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 43</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 40</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 57</li>
         </ul>
       </td>

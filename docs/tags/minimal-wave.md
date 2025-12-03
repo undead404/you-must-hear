@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:41:59.702Z
+date: 2025-12-03T06:52:14.888Z
 permalink: tags/minimal-wave
 title: minimal wave
 ---
 
 ## minimal wave
 
-Last updated: <time datetime="2025-11-14T01:41:59.702Z">Fri Nov 14 2025 03:41:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:52:14.888Z">Wed Dec 03 2025 08:52:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 37</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 63</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 70</li>
         </ul>
       </td>
@@ -66,14 +66,14 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 15</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/Z-Nff4w4613Ufkt1HReKYO7wAxLLlN4dAkbsDf89uhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzQy/MC0xNTM4NTM3NjQ1/LTU3NTguanBlZw.jpeg" alt="Cover for Anonym" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ec178cae040bb9ecc955170e7a80fd1.png" alt="Cover for Anonym" style="max-width:120px; height:auto;" />
       </td>
       <td>1979-10</td>
       <td>Tolerance</td>
@@ -109,7 +109,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 79</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -129,7 +129,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 93</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -208,6 +208,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +253,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 9</li>
             <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 95</li>
         </ul>
       </td>
@@ -274,7 +275,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -393,9 +394,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 18</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 37</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 97</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 33</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -433,7 +434,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 11</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +493,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 17</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -514,14 +515,14 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 52</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 54</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 60</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 90</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 63</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -540,7 +541,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 85</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +675,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 68</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -689,17 +690,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -745,6 +742,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83993c3057e36ee688675ae4faf61695.png" alt="Cover for Heart Of Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-23</td>
       <td>November Növelet</td>
@@ -815,8 +813,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 85</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 16</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -860,10 +858,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 35</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 68</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 88</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 12</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 40</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
         </ul>
@@ -905,7 +903,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -928,9 +926,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 14</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 56</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 15</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 19</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -955,12 +953,12 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1011,9 +1009,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 21</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 57</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 31</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1058,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 44</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 56</li>
             <li> <a href="{{ "/tags/chicano-rap" | relative_url }}">chicano rap</a> # 95</li>
         </ul>
       </td>
@@ -1068,7 +1066,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/NYQ7nnXTdui9fEiM4UcUrNRP5SUMk3KvgEANopejXbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc3/MzQxLTE0OTEyMTQ0/OTctNzk3My5qcGVn.jpeg" alt="Cover for Movements II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d361a4c3dff584e460691b7e0a2aa526.png" alt="Cover for Movements II" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-24</td>
       <td>Xeno &amp; Oaklander</td>
@@ -1142,10 +1140,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 80</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 94</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 3</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 7</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 83</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1193,10 +1191,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 5</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 9</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 74</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 92</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 95</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1220,8 +1218,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 59</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1268,8 +1266,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 41</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 63</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 37</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1291,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1320,11 +1318,11 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 27</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 13</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
@@ -1400,10 +1398,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 45</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 82</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 91</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 9</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1425,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 66</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 34</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 77</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 97</li>
         </ul>
@@ -1457,10 +1455,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 57</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 26</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1485,11 +1483,11 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 39</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 49</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 83</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 8</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 53</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 53</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1545,9 +1543,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 31</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1580,10 +1578,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 18</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
         </ul>
@@ -1606,7 +1604,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 11</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1628,7 +1626,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1655,9 +1653,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 27</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 47</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 53</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 71</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1679,8 +1677,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 65</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1707,9 +1705,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 39</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 66</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 34</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1733,8 +1731,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 46</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 30</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1784,8 +1782,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 37</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 59</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 41</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 100</li>
         </ul>
@@ -1814,8 +1812,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 4</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1844,12 +1842,12 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 50</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 84</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1911,8 +1909,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 10</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1939,10 +1937,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 19</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 49</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1973,10 +1971,11 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2004,10 +2003,10 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 65</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 28</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
@@ -2035,8 +2034,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 7</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2063,10 +2062,11 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 31</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 70</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 87</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 89</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2089,8 +2089,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 76</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 24</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2120,13 +2120,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 86</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 5</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 14</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 17</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 20</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2146,7 +2146,7 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 94</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2173,15 +2173,15 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 9</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 48</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/6Ku435Vb1uL8FZOKw40fKYg-gGUgI3Wym9WHEcn_w-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MDYyLTE1MjI2Njcw/MjEtNTczOS5qcGVn.jpeg" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f9e05cf4b99d8a1f0355125ff8dbf04.png" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-21</td>
       <td>Deca</td>
@@ -2190,15 +2190,13 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 71</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2250,11 +2248,11 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 26</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 85</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2281,8 +2279,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 55</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 88</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
         </ul>
@@ -2309,8 +2307,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 18</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 28</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2335,9 +2333,9 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 28</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 48</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 52</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 67</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2358,8 +2356,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 35</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2414,8 +2412,8 @@ Minimal wave is a stark, lo-fi electronic genre that emerged from the late 1970s
 - [darkwave]({{ "/tags/darkwave" | relative_url }})
 - [synthpop]({{ "/tags/synthpop" | relative_url }})
 - [coldwave]({{ "/tags/coldwave" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [ebm]({{ "/tags/ebm" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [new wave]({{ "/tags/new-wave" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
 - [synthwave]({{ "/tags/synthwave" | relative_url }})

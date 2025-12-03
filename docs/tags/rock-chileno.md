@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:41:38.464Z
+date: 2025-12-03T06:34:12.158Z
 permalink: tags/rock-chileno
 title: rock chileno
 ---
 
 ## rock chileno
 
-Last updated: <time datetime="2025-11-19T07:41:38.464Z">Wed Nov 19 2025 09:41:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:34:12.158Z">Wed Dec 03 2025 08:34:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 59</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -149,9 +149,9 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 13</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 49</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 64</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 87</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 67</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 91</li>
         </ul>
       </td>
@@ -180,9 +180,9 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 68</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 81</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 90</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 10</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 69</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 83</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 97</li>
         </ul>
       </td>
@@ -241,7 +241,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 53</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 48</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 53</li>
         </ul>
       </td>
@@ -265,10 +265,10 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 9</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 42</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 50</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 53</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 89</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 25</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 26</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 61</li>
         </ul>
       </td>
@@ -328,9 +328,9 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 7</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 56</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 72</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 94</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 75</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 94</li>
         </ul>
       </td>
@@ -446,7 +446,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 47</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -507,8 +507,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 61</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 2</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 39</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 77</li>
         </ul>
       </td>
@@ -528,7 +528,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 5</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -558,7 +558,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 59</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 42</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 70</li>
         </ul>
       </td>
@@ -578,7 +578,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 68</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -621,8 +621,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 42</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 81</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 19</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +642,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 75</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 31</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -750,7 +750,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 79</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       <td>
         <ul>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 13</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 46</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 55</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 59</li>
         </ul>
       </td>
@@ -942,7 +942,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 26</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1015,7 +1015,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 4</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1059,6 +1059,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5bdf4cf21322335e6cf9f0f7de92ad2.png" alt="Cover for Historias E Histeria" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-30</td>
       <td>La Ley</td>
@@ -1077,7 +1078,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 64</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 78</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 81</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 96</li>
         </ul>
       </td>
@@ -1106,8 +1107,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 22</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 35</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1131,8 +1132,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 35</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1227,8 +1228,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 37</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 50</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1290,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 25</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 33</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1310,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 17</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1444,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 28</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 34</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1500,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 1</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1522,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 65</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1559,7 +1560,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 9</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1581,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 63</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1644,8 +1645,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 46</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 54</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1687,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 56</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1730,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 83</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1829,7 +1830,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 74</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1850,8 +1851,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 27</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 43</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1891,8 +1892,8 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 3</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 20</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1981,9 +1982,9 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 2</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 3</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 3</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 35</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 65</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
         </ul>
       </td>
@@ -2037,6 +2038,7 @@ Rock chileno is Chilean rock music that emerged in the 1980s, blending Anglo-Ame
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f68fb564f36b4f3089c10c2c0236eea8.png" alt="Cover for Desde Valdivia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>La Rata Blusera</td>

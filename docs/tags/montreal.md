@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T14:54:33.264Z
+date: 2025-12-03T06:35:24.084Z
 permalink: tags/montreal
 title: montreal
 ---
 
 ## montreal
 
-Last updated: <time datetime="2025-11-11T14:54:33.264Z">Tue Nov 11 2025 16:54:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:35:24.084Z">Wed Dec 03 2025 08:35:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/zMWS_HgefPA2FwdT21_fpbX8Co4oB-yusyTQUcEtVTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTYx/MzYtMTMzMjY5NDE5/Ni5qcGVn.jpeg" alt="Cover for Méfiez-Vous Du Grand Amour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cb59c7c604120a2357d17fd283b3a76.png" alt="Cover for Méfiez-Vous Du Grand Amour" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Michel Rivard</td>
@@ -101,7 +101,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 35</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -167,7 +167,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/9CE2ea6E5Zkz-SgDQEw8X6GV6cWWytmubB4CCndh5Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjE0/Mi0xNjQ5NjA1NTky/LTUyNzcuanBlZw.jpeg" alt="Cover for New Era Building" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37f72e19f48ce8744dea7165f68cb88c.png" alt="Cover for New Era Building" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-30</td>
       <td>Sofa</td>
@@ -187,7 +187,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/tY6PJcVg4Z5Ro-CF5nBKnVtgeaeLjOlVCfeHA-EYutM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTIx/NjctMTM1NTYzMzQ4/OC00ODEwLmpwZWc.jpeg" alt="Cover for No Worries &#x2F; No Limits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29d5339a5a84b3584810a945388cff1.png" alt="Cover for No Worries &#x2F; No Limits" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Reset</td>
@@ -203,7 +203,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 39</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -223,8 +223,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 59</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 77</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 24</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 87</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 36</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -375,6 +375,25 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
     </tr>
     <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Xavier Caféïne</td>
+      <td>Gisèle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>59</td>
       <td>
           <img src="https://i.discogs.com/0JC5U8HSg7EFOCbwc-sSUwdaAPrlJWEyW7d46zuTChA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjYz/NDgtMTQ3MjYwNDE4/MS04NDI0LmpwZWc.jpeg" alt="Cover for Western Shanghai" style="max-width:120px; height:auto;" />
@@ -390,33 +409,13 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 34</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Xavier Caféïne</td>
-      <td>Gisèle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/pGJZ0g4HN8oMRR4QUTH26yh6P0v96uKfo-8navM1sHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzEx/MC0xMTUzMTQ0ODIy/LmpwZWc.jpeg" alt="Cover for Berlin, Montreal, Tel Aviv" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c014b1a3e5064c58b361fb2394a0e513.png" alt="Cover for Berlin, Montreal, Tel Aviv" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-10</td>
       <td>Apparat</td>
@@ -427,7 +426,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 75</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -560,14 +559,14 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 7</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/Ehn_KAjC4fxiT66Q8-gomwzmIpkocSyoVbX05rK416o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDI2/OS0xMTY1NDI4NzMx/LmpwZWc.jpeg" alt="Cover for Murmure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b924ddbb1a3e4963c90b5022958a7661.png" alt="Cover for Murmure" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12</td>
       <td>Murmure</td>
@@ -629,6 +628,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/336a7a1c2d7b1c9103808c9086353c4b.png" alt="Cover for Seul dans l&#39;obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-14</td>
       <td>Vision Éternel</td>
@@ -651,8 +651,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 70</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 26</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 82</li>
         </ul>
       </td>
@@ -673,14 +673,14 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 48</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/PN6hx4nRSSqqVKagvqo5hniXfzxgWszZCjI6osXgyQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDUw/MjYtMTQxMjE4ODc4/Mi04NjY1LmpwZWc.jpeg" alt="Cover for No Intensity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e95a1f4725b9848cd7cfc47533d264a.png" alt="Cover for No Intensity" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Reset</td>
@@ -697,7 +697,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 50</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 51</li>
             <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 93</li>
         </ul>
       </td>
@@ -770,6 +770,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf287e1867cc06b2933f896d4f77341.png" alt="Cover for Un automne en solitude" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-14</td>
       <td>Vision Éternel</td>
@@ -793,8 +794,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 18</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 69</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 21</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 71</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 80</li>
         </ul>
       </td>
@@ -901,6 +902,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ff8169318255cfe41c09c40aeb482a.png" alt="Cover for An Anthology Of Past Misfortunes" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-14</td>
       <td>Vision Éternel</td>
@@ -924,8 +926,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 54</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 55</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +953,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 56</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +973,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 64</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1033,7 +1035,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 8</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1104,9 +1106,9 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 70</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 74</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 90</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 11</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 71</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1153,6 +1155,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd63924dced18c7f5ccb7a32ae2da56.png" alt="Cover for Abondance de périls" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-09</td>
       <td>Vision Éternel</td>
@@ -1176,8 +1179,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 25</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 74</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 84</li>
         </ul>
       </td>
@@ -1348,8 +1351,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 23</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 45</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 28</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1396,10 +1399,10 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 27</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 80</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 5</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
         </ul>
@@ -1408,7 +1411,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/0sw8_kNy9xUztiq4Bspl28QOZzrFFCAYzueTqRyoMBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAw/MDA3LTE2MTg0NDA0/ODQtNTM5My5qcGVn.jpeg" alt="Cover for Thomas Hellman chante Roland Giguère" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e527d0fd79f4a1a9fb3a052b1c078ff.png" alt="Cover for Thomas Hellman chante Roland Giguère" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Thomas Hellman</td>
@@ -1471,7 +1474,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 61</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 63</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 70</li>
         </ul>
       </td>
@@ -1489,7 +1492,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 18</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1514,7 +1517,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/nvdiGzqRM1cwy_ASQG4_MKbH4_zRweBnlz0wsdeQmI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDcz/MzUtMTQ3OTAxNDc0/OC04MDEzLmpwZWc.jpeg" alt="Cover for Progression through ignorance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b02d0973dc946218cc3160ce0864868.png" alt="Cover for Progression through ignorance" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-20</td>
       <td>Plus Minus</td>
@@ -1533,6 +1536,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb60b4d0d3b41c4bbf3036d7b933984.png" alt="Cover for Alone Architect" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-23</td>
       <td>Alone Architect</td>
@@ -1597,6 +1601,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cc4478b27a4df3cde6efba4c2023fa.png" alt="Cover for Ev" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>VioleTT Pi</td>
@@ -1612,7 +1617,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       <td>
         <ul>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 22</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 41</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1777,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 45</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 56</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 76</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 77</li>
         </ul>
@@ -1805,8 +1810,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 73</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 32</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 75</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 85</li>
         </ul>
       </td>
@@ -1852,7 +1857,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/TU6hA_2WNFz_APXE8hXDgr8RvlODA4EoCDA2qd1NT9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE3/NjE4LTE1MjI4OTcy/MTctODc1MS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ecf1419b8ec415b377be2a80ee3c3f4.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Lydia Képinski</td>
@@ -1867,14 +1872,14 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 26</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/1kn8hWGd6TE5C9N7cCigYQMhkwtAXitOwGBOcSWq6vE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/MzUtMTQ3NjE0Nzgz/Ny0xODk2LmpwZWc.jpeg" alt="Cover for Headspace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/564585937e47b1d793e5af93149c38ed.png" alt="Cover for Headspace" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Double Date With Death</td>
@@ -1913,7 +1918,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 38</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1940,7 +1945,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/WSf72MFNOW1P-vUElX9XFR5qrCoT4iyDwvKRgiuvOgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NzI1LTE0OTUzMjU2/MTktOTUyMy5qcGVn.jpeg" alt="Cover for Paon perdu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eacf40abdd303e6fb0639d6aa696681.png" alt="Cover for Paon perdu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Le fruit vert</td>
@@ -2001,8 +2006,8 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 66</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 75</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 34</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2049,7 +2054,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/2j-tuDsfmm_qPT0KwFv4DuZ3voGVvNx8l_KLjpqeFDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM4/NjA5LTE1Nzg2ODM3/MTctNTc3MS5qcGVn.jpeg" alt="Cover for L&#39;Au-Delà" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a6977398f09dde0941139b172ff5306.png" alt="Cover for L&#39;Au-Delà" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Double Date With Death</td>
@@ -2091,7 +2096,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 13</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2114,7 +2119,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 9</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2135,7 +2140,7 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 7</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2166,13 +2171,14 @@ The &quot;montreal&quot; tag represents the diverse indie music scene emerging f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 25</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/176b08489d57a0cfd3704d0b7e1aad7a.png" alt="Cover for Songs About Ugly Girls" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mathias Mental</td>

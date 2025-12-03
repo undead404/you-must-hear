@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T09:17:47.382Z
+date: 2025-12-03T06:41:38.558Z
 permalink: tags/balearic
 title: balearic
 ---
 
 ## balearic
 
-Last updated: <time datetime="2025-11-19T09:17:47.382Z">Wed Nov 19 2025 11:17:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:41:38.558Z">Wed Dec 03 2025 08:41:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -882,7 +882,7 @@ Balearic refers to a sun-drenched, atmospheric style of music inspired by the la
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Balearic refers to a sun-drenched, atmospheric style of music inspired by the la
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 74</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 77</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 99</li>
         </ul>
       </td>
@@ -1546,7 +1546,7 @@ Balearic refers to a sun-drenched, atmospheric style of music inspired by the la
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 69</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1565,8 @@ Balearic refers to a sun-drenched, atmospheric style of music inspired by the la
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 70</li>
         </ul>
       </td>
     </tr>

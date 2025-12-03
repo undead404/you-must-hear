@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:02:29.850Z
+date: 2025-12-03T06:55:49.509Z
 permalink: tags/polski-hip-hop
 title: polski hip hop
 ---
 
 ## polski hip hop
 
-Last updated: <time datetime="2025-11-26T04:02:29.850Z">Wed Nov 26 2025 06:02:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:55:49.509Z">Wed Dec 03 2025 08:55:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -129,7 +129,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 43</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 44</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 44</li>
         </ul>
       </td>
@@ -170,7 +170,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 27</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 62</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -345,9 +345,9 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 23</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 51</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 53</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 54</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 51</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 55</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -566,7 +566,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 44</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +653,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 57</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 59</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -904,8 +904,8 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 45</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 46</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 56</li>
         </ul>
       </td>
@@ -1124,7 +1124,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 4</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 16</li>
         </ul>
       </td>
@@ -1415,7 +1415,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 16</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 17</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 22</li>
         </ul>
       </td>
@@ -1435,7 +1435,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 5</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 6</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 17</li>
         </ul>
       </td>
@@ -1491,7 +1491,8 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 39</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 40</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 85</li>
         </ul>
       </td>
@@ -1511,7 +1512,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 10</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 11</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 19</li>
         </ul>
       </td>
@@ -1568,7 +1569,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 50</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1668,7 +1669,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 1</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 2</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 13</li>
         </ul>
       </td>
@@ -1689,7 +1690,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 61</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1752,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 56</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1773,8 +1774,8 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 48</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 49</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1797,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 49</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 50</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 50</li>
         </ul>
       </td>
@@ -1840,7 +1841,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 52</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 54</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1878,6 +1879,7 @@ Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blendin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 1</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 12</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-19T00:44:22.271Z
+date: 2025-12-03T06:41:55.207Z
 permalink: tags/a-capella
 title: a capella
 ---
 
 ## a capella
 
-Last updated: <time datetime="2025-10-19T00:44:22.271Z">Sun Oct 19 2025 03:44:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:41:55.207Z">Wed Dec 03 2025 08:41:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -130,7 +130,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/9zS568zv0VdZzOUe9nAsnHnJ-BPk2VVXz6RSr-aetfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzI2/MjA4LTE2NDU5ODk3/NzktNTgwMy5qcGVn.jpeg" alt="Cover for False Friends EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78e0720a67a9bcba58719d28eca5a11.png" alt="Cover for False Friends EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Pete Davis</td>
@@ -301,7 +301,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/u29g2PVxTatqnCC5rcst_QF2A_XcSOfTS6NMUoPcdpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjEx/MS0xMzUwOTg0NjU4/LTQ4OTIuanBlZw.jpeg" alt="Cover for Simple Pleasures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a1594c4310565d96fb9483f70beb94.png" alt="Cover for Simple Pleasures" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-08-22</td>
       <td>Bobby McFerrin</td>
@@ -309,12 +309,12 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 89 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 47</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +415,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 11</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 89</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 93</li>
         </ul>
       </td>
@@ -443,7 +443,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/y3SKTlTzoitGp1mVwSvZqwhZcTSZzGzeyzzy-TqZ2uM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjUz/OC0xNTI1MzgxMTgw/LTE3OTAuanBlZw.jpeg" alt="Cover for Alles nur geklaut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6a8e6cf1093694a5abab232fa37da35.png" alt="Cover for Alles nur geklaut" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-11-12</td>
       <td>Die Prinzen</td>
@@ -672,6 +672,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6666b77d68303f5f655c908927f9f.png" alt="Cover for Nectar" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Kitka</td>
@@ -692,7 +693,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 22</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 24</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 48</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 52</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 83</li>
@@ -1002,6 +1003,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12badc176d9ecbd84cafb5552a8301e4.png" alt="Cover for Medúlla" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-25</td>
       <td>Björk</td>
@@ -1014,7 +1016,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 80</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1073,8 +1075,8 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 77</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 84</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 23</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1154,15 +1156,14 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/dP8bH3sABMeddU4Hfhg4YeEBELIQYAd6DBBB3XBo4nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzEt/MTE4OTI0NjA0NS5q/cGVn.jpeg" alt="Cover for Medulla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6fc742a0f8f4faf9e17c69df4f0c5bb.png" alt="Cover for Medulla" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Björk</td>
       <td>Medulla</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -1227,6 +1228,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8addadfe422f91e277b0ca1c38dc3e57.png" alt="Cover for Jack&#39;s Broth" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Tinyfolk</td>
@@ -1245,6 +1247,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7dac540c5a424d96a0acc90f8e655d.png" alt="Cover for Music Hole" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-07</td>
       <td>Camille</td>
@@ -1257,7 +1260,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1336,7 +1339,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/_-9Xg6xYJXUJMNfzx-9cibTE-E8Uz8b_wq1AaE9LiWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE0/NTUxLTE2MDM2NTgy/MjctNDY3My5qcGVn.jpeg" alt="Cover for A Chanticleer Christmas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7ba0c3fba394e2099f9250ad2bed25f.png" alt="Cover for A Chanticleer Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-14</td>
       <td>Chanticleer</td>
@@ -1378,7 +1381,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/P5HvBYI_BVV27GTMPwGJb3je7TlZ1z8gNo89sXcz36U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM4/MTc2LTE1ODU5Mjgx/MjMtMjc3MC5qcGVn.jpeg" alt="Cover for Kraken Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef8d6be2aabdcc1ad5f33f0fe9d6ccab.png" alt="Cover for Kraken Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Bounding Main</td>
@@ -1471,7 +1474,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/u1C0vrYiIOamjz2Xd8bk1r2b5-dziVE_FaQedrarNi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/OTcwLTE1NzMwNzQ3/MzMtNzI3OC5qcGVn.jpeg" alt="Cover for L&#39;embelinaire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77583dcf20ec0663fb7b5a9ee418d66.png" alt="Cover for L&#39;embelinaire" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>La mal coiffée</td>
@@ -1534,10 +1537,10 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 59</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 60</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1584,7 +1587,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/qMUjxVhVqQ85bzlws7-vuhPx9E7NpST4juTTr7-kQUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDA3/NDgtMTQ3ODg5NzU1/Mi05NzUzLmpwZWc.jpeg" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1ea8da12e414e62bbe44bbfa2b429d2.png" alt="Cover for Good Vibrations" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>The King&#39;s Singers</td>
@@ -1620,7 +1623,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/_1922Xayp7hAWhJwASJVeXidnUSieyA6WEhpj7bR_Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzI4/MTQtMTU4Mzc1Njc1/NC05NzE3LmpwZWc.jpeg" alt="Cover for Chanson D&#39;Amour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a68d36e96cc4118a76c40cc9988d17f.png" alt="Cover for Chanson D&#39;Amour" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-18</td>
       <td>The King&#39;s Singers</td>
@@ -1651,7 +1654,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 14</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1717,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 21</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 79</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 95</li>
         </ul>
       </td>
@@ -1734,7 +1737,7 @@ A capella refers to vocal music performed without instrumental accompaniment, wh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 61</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 38</li>
         </ul>
       </td>
     </tr>

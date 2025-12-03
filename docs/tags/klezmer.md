@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-19T02:20:07.170Z
+date: 2025-12-03T06:53:13.570Z
 permalink: tags/klezmer
 title: klezmer
 ---
 
 ## klezmer
 
-Last updated: <time datetime="2025-10-19T02:20:07.170Z">Sun Oct 19 2025 05:20:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:53:13.570Z">Wed Dec 03 2025 08:53:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 94</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +63,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 3</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 55</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +119,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 22</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +161,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/dRNukwCvhdRog2yoRNV6Zkoin52tfGLKXhKLZFA2kqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIw/MjMtMTYxNTk4MDE5/MC05NTAwLmpwZWc.jpeg" alt="Cover for Yiddish-American Klezmer Music - 1925-1956" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1ff82fe2bd0966f6c91a9daf1d777bd.png" alt="Cover for Yiddish-American Klezmer Music - 1925-1956" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Dave Tarras</td>
@@ -208,7 +208,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 40</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -227,14 +227,14 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 31</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/XkUIUaGJh9dddGTRZGD7sqPUBGFZrAR9nE_hb670_dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY3/NjMtMTE5MDMyMTMw/Mi5qcGVn.jpeg" alt="Cover for The Flying Bulgar Klezmer Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/889e64366d6f6d0e179bda4b68364f09.png" alt="Cover for The Flying Bulgar Klezmer Band" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Flying Bulgar Klezmer Band</td>
@@ -265,7 +265,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 88</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +337,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 61</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -433,6 +433,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19e27404eafd497c80ee44921417c06f.png" alt="Cover for A band of gypsies" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-11-19</td>
       <td>Les Yeux Noirs</td>
@@ -660,7 +661,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 16</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 92</li>
             <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 97</li>
         </ul>
@@ -792,7 +793,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 50</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -976,8 +977,8 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 10</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 30</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 90</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 95</li>
             <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 97</li>
         </ul>
@@ -986,6 +987,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9a0be85b9144964c9bc2dab796fb3da.png" alt="Cover for Ifni" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-26</td>
       <td>17 Hippies</td>
@@ -1005,7 +1007,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Joi0QZCLtPkZov1NdgZVuX2xDLRSxWWmefd_GzrNPJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/Mi0xMzM0NzY4Nzkw/LmpwZWc.jpeg" alt="Cover for Ver Tanzt?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59548fb64f860c2693adece866b8c7d.png" alt="Cover for Ver Tanzt?" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-26</td>
       <td>Black Ox Orkestar</td>
@@ -1023,6 +1025,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28e30ebdc2374c1b948bb689276d29de.png" alt="Cover for Tub Gurnard Goodness" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-10</td>
       <td>DAAU</td>
@@ -1054,14 +1057,14 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 54</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Ffqv8qPTxWF-SOhDABIPa-r3XA5mAfwiXhkcfg9c22Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/MTEtMTM0NTgyNzIw/My03NDY0LmpwZWc.jpeg" alt="Cover for Foua" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d79a4a936fe43c6b8e1a44d256d8649.png" alt="Cover for Foua" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Municipale Balcanica</td>
@@ -1153,6 +1156,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508f287308d44485a6fb34e88399d406.png" alt="Cover for Kinaporin kalifaatti" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03</td>
       <td>Tuomari Nurmio &amp; Alamaailman Vasarat</td>
@@ -1261,8 +1265,8 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 5</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 51</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 98</li>
             <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 100</li>
         </ul>
@@ -1271,6 +1275,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d82cbf8d404547b448deb79b2d59566.png" alt="Cover for Poison Sweet Madeira" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03</td>
       <td>Sophie Solomon</td>
@@ -1288,6 +1293,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8fcaa259833fbe7582610f44a72c4ea.png" alt="Cover for Nisht Azoy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-03</td>
       <td>Black Ox Orkestar</td>
@@ -1350,7 +1356,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 73</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1397,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/nLTmF_6KQ9YQY9-B7-3otTnidE9Jvhr1oPI3_m4ntk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/NDAtMTI0NTE1OTU0/Mi5qcGVn.jpeg" alt="Cover for Morgenlandfahrt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c2dbd6a6f349f1ae2948c03094d0c1.png" alt="Cover for Morgenlandfahrt" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>[dunkelbunt]</td>
@@ -1481,7 +1487,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 63</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 37</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 72</li>
         </ul>
       </td>
@@ -1560,6 +1566,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e02f1de34671486a8c58125bc86bd4e5.png" alt="Cover for El Dorado" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-30</td>
       <td>17 Hippies</td>
@@ -1594,7 +1601,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 77</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1613,13 +1620,14 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 19</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db51086f769377052dd7b0e103e1ed82.png" alt="Cover for Radio Babel" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02</td>
       <td>Watcha Clan</td>
@@ -1632,7 +1640,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 28</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1652,7 +1660,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 57</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1708,13 +1716,14 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 97</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d525254e4d0e435bab10086d0173949b.png" alt="Cover for Noise in Sepher" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Anakronic Electro Orkestra</td>
@@ -1762,9 +1771,9 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 44</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 54</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 1</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 53</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 70</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
         </ul>
       </td>
@@ -1772,7 +1781,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/4N83ueaTK-qMdzPb40DV4IJOl8DnCN_JqVdFUx4BLSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA0/NTY4LTE2NzMzNzIw/ODYtNDEzNi5qcGVn.jpeg" alt="Cover for Everything Returns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2aac7a4328db5a6426a33a82979c9e3.png" alt="Cover for Everything Returns" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-02</td>
       <td>Black Ox Orkestar</td>
@@ -1805,7 +1814,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 32</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1833,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 66</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1853,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 78</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 23</li>
             <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 96</li>
         </ul>
       </td>
@@ -1852,6 +1861,7 @@ Klezmer is a traditional Eastern European Jewish music genre characterized by ex
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc4250de2dfa43aca046272e655e96e8.png" alt="Cover for Concert Live at the K-fêt (INSA-Lyon, avril 2006)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Korvapuusti</td>

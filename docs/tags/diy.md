@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:48:14.262Z
+date: 2025-12-03T06:54:56.248Z
 permalink: tags/diy
 title: diy
 ---
 
 ## diy
 
-Last updated: <time datetime="2025-11-24T14:48:14.262Z">Mon Nov 24 2025 16:48:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:54:56.248Z">Wed Dec 03 2025 08:54:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,25 +68,6 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
     </tr>
     <tr>
-      <td>99</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/833d406faa1d6abdee4bfad05e74e3eb.png" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Various Artists</td>
-      <td>MSG, Vol. 1</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 50</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>65</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Through the Soil" style="max-width:120px; height:auto;" />
@@ -103,6 +84,23 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/833d406faa1d6abdee4bfad05e74e3eb.png" alt="Cover for MSG, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>MSG, Vol. 1</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -129,7 +127,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 68</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -245,8 +243,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 34</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 64</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 63</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +287,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 6</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +307,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 7</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +352,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 64</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -392,7 +390,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 29</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +504,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 54</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 61</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -556,18 +554,18 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +585,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 3</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -684,10 +682,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 43</li>
             <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 49</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 78</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +757,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 55</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -949,9 +947,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 5</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 30</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 52</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -995,12 +993,11 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 1</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1033,8 +1030,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 55</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
@@ -1064,7 +1061,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 38</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 67</li>
         </ul>
       </td>
@@ -1128,7 +1125,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 43</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1189,10 +1186,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 9</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 60</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 64</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
@@ -1228,10 +1225,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 53</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 54</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1260,9 +1257,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1316,8 +1313,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 60</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 68</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 73</li>
         </ul>
       </td>
@@ -1367,9 +1364,9 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 74</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 59</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
         </ul>
       </td>
@@ -1488,7 +1485,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 48</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1568,10 +1565,10 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 15</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 59</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 60</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1619,8 +1616,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 27</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1690,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 13</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1890,11 +1887,11 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 85</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 94</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
@@ -1939,7 +1936,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 72</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1961,8 +1958,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 74</li>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 83</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 17</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2021,7 +2018,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 49</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2036,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2099,7 +2096,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
         <ul>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 38</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 62</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 75</li>
         </ul>
       </td>
@@ -2131,8 +2128,8 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 4</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 63</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 38</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2159,7 +2156,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 68</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2186,7 +2183,7 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 72</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2265,12 +2262,12 @@ DIY represents a rebellious, self-sufficient approach to music-making that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:41:25.169Z
+date: 2025-12-03T06:35:02.488Z
 permalink: tags/detroit-rap
 title: detroit rap
 ---
 
 ## detroit rap
 
-Last updated: <time datetime="2025-11-08T19:41:25.169Z">Sat Nov 08 2025 21:41:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:35:02.488Z">Wed Dec 03 2025 08:35:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 23</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 37</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -107,8 +107,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 15</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 41</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 23</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 48</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 46</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 48</li>
             <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 50</li>
         </ul>
       </td>
@@ -233,14 +233,14 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 16</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 30</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 32</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 32</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 33</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 55</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 63</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 67</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 69</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 79</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 85</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 56</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -259,7 +259,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 91</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -279,8 +279,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 63</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 42</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -323,8 +323,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 37</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 40</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +421,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 28</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +441,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 36</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -461,8 +461,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 21</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 84</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 17</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 27</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 93</li>
         </ul>
       </td>
@@ -520,9 +520,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 6</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 73</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 78</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 10</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 27</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +541,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -622,8 +622,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 32</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 34</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 36</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +644,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 22</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -670,6 +670,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3821625ad60ac5d2cf726509216730b.png" alt="Cover for Family Feud" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-12</td>
       <td>The Dayton Family</td>
@@ -684,7 +685,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 51</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +704,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 73</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +725,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 18</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -743,8 +744,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 42</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 32</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +766,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 77</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -803,8 +804,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 63</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 68</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 37</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -829,9 +830,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 30</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 62</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 77</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 24</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 63</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -859,9 +860,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 51</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 57</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 44</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 53</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +883,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 53</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -900,8 +901,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 5</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 25</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 9</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -922,8 +923,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 24</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 71</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 28</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +999,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 41</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1172,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 42</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1385,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 20</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 69</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1446,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 9</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 8</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 97</li>
         </ul>
       </td>
@@ -1656,7 +1657,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 29</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1828,9 +1829,9 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 11</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 24</li>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 38</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 41</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1850,8 +1851,8 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 65</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 88</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 13</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1889,7 +1890,7 @@ Detroit rap represents the raw, gritty hip-hop sound emerging from Motor City&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 44</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 46</li>
         </ul>
       </td>
     </tr>

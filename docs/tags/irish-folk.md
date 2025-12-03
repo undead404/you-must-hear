@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-19T02:36:38.447Z
+date: 2025-12-03T06:53:33.891Z
 permalink: tags/irish-folk
 title: irish folk
 ---
 
 ## irish folk
 
-Last updated: <time datetime="2025-10-19T02:36:38.447Z">Sun Oct 19 2025 05:36:38 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:53:33.891Z">Wed Dec 03 2025 08:53:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/SlaSvDqFmZrBccMB29pTMZu7Er1zciU2S2_rGqMxpfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjEz/NjQtMTQ4NzUzNDAy/NS02NjYzLmpwZWc.jpeg" alt="Cover for Spirit of the Irish" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84c6934674c41228c2c52c80c32e9f3.png" alt="Cover for Spirit of the Irish" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>The Dubliners</td>
@@ -85,16 +85,16 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 46</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 69</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 71</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 52</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/QSHoU-nQvEB9W0HEVNsPnQibxIOeplmc0NtCgjnHob0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTE0/MDMtMTUwMzkzOTA4/NS0zMDAwLmpwZWc.jpeg" alt="Cover for The Anthology Of Irish Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a54b5d43175d49c6a61daaa9e3ea7917.png" alt="Cover for The Anthology Of Irish Song" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>The Wolfe Tones</td>
@@ -115,6 +115,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebbba3d643ec7fc18cd755c1002d3e84.png" alt="Cover for The Chieftains 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>The Chieftains</td>
@@ -152,7 +153,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/DrDYZ8E_AycadTyUZ13Fa8ojCoJqAuFds69gePvS0fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA5/NjUtMTM3MDA5MzEx/NS01NTg3LmpwZWc.jpeg" alt="Cover for Let The People Sing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423be0882cb84fbea517bd8de3b97d4e.png" alt="Cover for Let The People Sing" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>The Wolfe Tones</td>
@@ -164,14 +165,14 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 49</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/qmJZ-ozlO3WFq-XgzknR2uYIOYCtXiO5LcUfrZTJ7_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjU1/NzEtMTQyODI4MTE3/NC0zNTk1LmpwZWc.jpeg" alt="Cover for IRISH DRINKING SONGS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88d207c7822b458493cbfea2d813241a.png" alt="Cover for IRISH DRINKING SONGS" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>The Dubliners</td>
@@ -212,7 +213,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/WbzBHJUCRXUFOYnTPlGRZPjul2uSKGN4IjhKw36LCuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI3/NTAtMTM0NjMwMTc5/Ni00MTk3LmpwZWc.jpeg" alt="Cover for The High Part Of The Road" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a46bd40f6d17d7968a22b834f920526.png" alt="Cover for The High Part Of The Road" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Tommy Peoples</td>
@@ -249,7 +250,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/WwKn44nTwzSCA_LkHHKB78z1r4o-maDYCl8ZN1IWmxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA0/MDAtMTI4ODYzNDgz/OS5qcGVn.jpeg" alt="Cover for Old Hag You Have Killed Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aab37ef0c6c402da151076981a13a70.png" alt="Cover for Old Hag You Have Killed Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>The Bothy Band</td>
@@ -286,7 +287,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/ZFpWCw1MDMRTrbfJbOxzQfX4BfWJ1R4suWqVLwolGMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk1/OTUtMTY2MDk5MTUz/Ni05NTg5LmpwZWc.jpeg" alt="Cover for Ride On" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b8d4485443044bea50511138931c964.png" alt="Cover for Ride On" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Christy Moore</td>
@@ -298,7 +299,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 36</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -323,6 +324,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce047bddd6dfb1c1f1c5be39fa9a144b.png" alt="Cover for Rum Sodomy &amp; the Lash" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Pogues</td>
@@ -335,7 +337,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 44</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -381,20 +383,20 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da37fc3c0024459cc5e7be788f2f256f.png" alt="Cover for If I Should Fall From Grace With God" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-01-01</td>
       <td>The Pogues</td>
       <td>If I Should Fall From Grace With God</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 2</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 13</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 21</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -476,6 +478,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0befb01fd56f3f68fa83ee76d79a945.png" alt="Cover for The Best of The Pogues" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>The Pogues</td>
@@ -490,7 +493,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 34</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -518,6 +521,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c56beb3af96a651d5526d11e59ba293.png" alt="Cover for Irish Guitar Encores" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>El McMeen</td>
@@ -585,7 +589,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 6</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +632,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/8U2nnQp07X7wrMN56U3L0_uPJBJyniTrz8cMRhaFK7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTk0/MTktMTQ4ODU4MTQ4/My02ODcwLmpwZWc.jpeg" alt="Cover for Tony McManus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80853e534dc74dfc87a0492a976045e8.png" alt="Cover for Tony McManus" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Tony McManus</td>
@@ -690,7 +694,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/07k9EzWq1doLF4yXo_0W9iVQZ7lnMEzcmhsj_Dcv9Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDE2/NDUtMTYzOTM0OTQ2/MC0yNTI0LmpwZWc.jpeg" alt="Cover for King Shepherd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c7d8a8560dcbc95d96c57906ba1070.png" alt="Cover for King Shepherd" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-03</td>
       <td>Fiddler&#39;s Green</td>
@@ -730,7 +734,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Mwn85xgRyv-17ZAkhc3F2cfau_2K-XQsb1B8v-JtnKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg4/NjEtMTM0NzgyODk4/NC0yMTIzLmpwZWc.jpeg" alt="Cover for Sweeney&#39;s Men &amp; the Tracks of Sweeny" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2acbea1b948048629d6fd23421f232d9.png" alt="Cover for Sweeney&#39;s Men &amp; the Tracks of Sweeny" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Sweeney&#39;s Men</td>
@@ -751,6 +755,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23594c511600f5f8f4f4446a16f618e2.png" alt="Cover for When Juniper Sleeps" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Seamus Egan</td>
@@ -859,6 +864,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d53b1d4fa5c958de79c0ec0ae1bb3b3.png" alt="Cover for On And On" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-01-01</td>
       <td>Fiddler&#39;s Green</td>
@@ -914,7 +920,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/FDMtN9DMFZEXLJ7GHHfzdllJWvmdDp7_UvGUPiIfznc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDYz/MDEtMTM5ODk3MDQ2/Ny0xNTY3LmpwZWc.jpeg" alt="Cover for The Dubliners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10ab118d7b64485b91dfa34df81ffb7c.png" alt="Cover for The Dubliners" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Dubliners</td>
@@ -926,7 +932,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 54</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -951,6 +957,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d69e98956f1b3384d7240e805c681652.png" alt="Cover for The Gift" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Jerry O&#39;Sullivan</td>
@@ -969,6 +976,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7490c5f74e60250971f5776f61f931d9.png" alt="Cover for The Words That Remain" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-15</td>
       <td>Solas</td>
@@ -1004,7 +1012,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 76</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1032,8 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 33</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 3</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1049,7 +1058,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/BJ-xxTH6uF2JCW3F3OFd1UGTqxp6vq13codS1sOMSKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEw/NzItMTUyNDIzNjM1/OC03MTIyLmpwZWc.jpeg" alt="Cover for St. Patrick&#39;s Day Celebration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d1a69439120c7c9df5263ac35e159c.png" alt="Cover for St. Patrick&#39;s Day Celebration" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Dubliners</td>
@@ -1105,7 +1114,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 63</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1147,7 +1156,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Tw4JHMqDuYM0KxYR6AO1yAzVOZnI19s7btBP8wnXetI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg4/NDc0LTE1MzAwNzUz/NDktMjA4MC5qcGVn.jpeg" alt="Cover for J&#39;ai enterré ma femme et j&#39;ai dansé sur sa tombe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e402b67acbb492f88f2767d9840ee9e.png" alt="Cover for J&#39;ai enterré ma femme et j&#39;ai dansé sur sa tombe" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Blackwater</td>
@@ -1162,7 +1171,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 60</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1190,7 +1199,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/mY0uqVrup0ksnKy6solr3xzBwQwjuX-eG2bdpxnBWsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUx/NTEtMTM5MjMwMTE2/Ny0xODgxLmpwZWc.jpeg" alt="Cover for The Winds Begin to Sing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca17c385e62554908ff3cb98f782b0a2.png" alt="Cover for The Winds Begin to Sing" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-13</td>
       <td>Karan Casey</td>
@@ -1260,13 +1269,14 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 40</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38e04cc76a7499c9ceceec2fb47ffdd.png" alt="Cover for Another Round" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Irish Rovers</td>
@@ -1281,8 +1291,8 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 6</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 77</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 14</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1320,6 +1330,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 4</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 82</li>
         </ul>
       </td>
@@ -1347,7 +1358,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/am8s3vEDOzmTUwscalOaMoz2o-r72TleFzMoVsEX_Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/OTk3LTE1MzE2ODU1/MzEtMzQ4Ny5qcGVn.jpeg" alt="Cover for Waiting for a Call" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7a6147810a90aa9c91b56365171f1fd.png" alt="Cover for Waiting for a Call" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tommy Peoples</td>
@@ -1409,7 +1420,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/jShZgyW0viGHmy9IndzVtiABjSRNErfk4DLmxhQYpac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk2/MTU4LTE1NzU3MzE1/NzAtNzAzMy5qcGVn.jpeg" alt="Cover for The Very Best Of The Dubliners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8323738537714d87530fb4b76185a0ea.png" alt="Cover for The Very Best Of The Dubliners" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>The Dubliners</td>
@@ -1467,6 +1478,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7321d229e114087bfd3f5b4d3acfb42.png" alt="Cover for Burning Times" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Christy Moore</td>
@@ -1561,7 +1573,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/dxr-3ot-zxrwBBJBI_mGxqaaiM604A3XaoucEhdZrDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTU1/NDMtMTQxNjI2ODQz/My05NTM5LmpwZWc.jpeg" alt="Cover for Whenever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79f4fb6355cb2384c5a9e74ffed9561.png" alt="Cover for Whenever" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-12</td>
       <td>David Munnelly&#x2F;Helen Flaherty&#x2F;Philip Masure</td>
@@ -1577,7 +1589,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 70</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1632,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/LlLNk1zEe-jFVVoDXMYpUJaXEEfktcZ064sQgXTPDZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAy/MTAtMTIxMDE4NDYw/Ni5qcGVn.jpeg" alt="Cover for The Best Of The Dubliners" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c852da2fba94eedbc1b2377fedd5de9.png" alt="Cover for The Best Of The Dubliners" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-15</td>
       <td>The Dubliners</td>
@@ -1632,14 +1644,14 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 60</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Tw6mmhAfqa9WTxDyH48w-NNRFpfB_Z6hiZBr_yKd65c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAx/MTU0LTE1NzM3NzE4/MjItNTAyMS5qcGVn.jpeg" alt="Cover for One Step Ahead of Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb8d13db22b3b28e18df7c8a7606344.png" alt="Cover for One Step Ahead of Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-22</td>
       <td>The Killigans</td>
@@ -1653,7 +1665,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 91</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1714,6 +1726,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/729e4a5e25884d39b804b72b2f1990f9.png" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-11</td>
       <td>The Dubliners</td>
@@ -1751,7 +1764,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/jBwovW4_WFc1g1f9sD0Y_75myOYUjqrjkZaiw8ddt1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTkw/NjQtMTQ2OTAwOTkz/MC03NjI1LmpwZWc.jpeg" alt="Cover for A Moment of Madness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/753ebb51ee354fc6b36b8bdba8cd5ed1.png" alt="Cover for A Moment of Madness" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Brendan Begley &amp; Caoimhín Ó Raghallaigh</td>
@@ -1791,7 +1804,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/BFtcIpb-8AA_Ymnf1SHfi6I2qE_A7z2qawD6n24L1_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTM1/ODU3LTE2NTk5NTc2/NjUtMzA0Ny5qcGVn.jpeg" alt="Cover for Deadly Buzz | Aoibhinn Crónán" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc6904e57c34b928babfc15459ed293.png" alt="Cover for Deadly Buzz | Aoibhinn Crónán" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Mick O&#39;Brien &amp; Caoimhín Ó Raghallaigh</td>
@@ -1805,14 +1818,14 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 63</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/VtwJTRdw3NxNSUtZDtwhELirx7WklNdL_Kvub6qsXbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODUx/NC0xNDA4MzYwMDAw/LTExOTMuanBlZw.jpeg" alt="Cover for The Dublin Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b249f35f36ba4a124300930d2a2ca184.png" alt="Cover for The Dublin Session" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Rome</td>
@@ -1829,8 +1842,8 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 26</li>
             <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 47</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 74</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 85</li>
         </ul>
       </td>
@@ -1838,6 +1851,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72aef42d6172d585e771bf56f4000a15.png" alt="Cover for Drunken Sailor" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>The Irish Rovers</td>
@@ -1851,8 +1865,8 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 66</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 68</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 70</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1893,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/8hAVgIC760rNupd4RWcGHuKIgCB1r_OXifTJS_QTEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUy/NDE0LTE1Nzg5NDUw/NzAtMTIzNy5qcGVn.jpeg" alt="Cover for Mountain Rose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e59fd516fb851c1a088e3adf0fc2abd5.png" alt="Cover for Mountain Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Gothard Sisters</td>
@@ -1894,14 +1908,14 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/Z2pRDPt4wBKlNt9qeFP-yzbJi1Gqy7UOEgXwoUzVzWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzk2/MjE0LTE2Mzk4Mzgw/ODMtNjgxNC5qcGVn.jpeg" alt="Cover for Laurels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fb48ab04db6e7098fd5bf19d566bada.png" alt="Cover for Laurels" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-18</td>
       <td>Sophie Janna</td>
@@ -1921,7 +1935,7 @@ Irish folk is a traditional music genre rooted in Ireland&#39;s rural heritage, 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/l-mcLZMHl-QYuggcXHHiyAJ2bMJHvDsV4huZxmDwEtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMx/ODYzLTE2NjU4NDI3/ODItNjIzNC5qcGVn.jpeg" alt="Cover for The Great Irish Famine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e3a1d2f015f93c30ea2ace6b3169adb.png" alt="Cover for The Great Irish Famine" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-02</td>
       <td>Junior Brother</td>

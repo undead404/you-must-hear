@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:37:04.135Z
+date: 2025-12-03T06:54:13.766Z
 permalink: tags/merengue
 title: merengue
 ---
 
 ## merengue
 
-Last updated: <time datetime="2025-10-28T06:37:04.135Z">Tue Oct 28 2025 08:37:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:54:13.766Z">Wed Dec 03 2025 08:54:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 66</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 38</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +255,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 85</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -508,7 +508,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/9L8LWfR-VgrPvPa7xSrkL4oPt7rOZkUwiReDEP23aqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDkz/MzIyLTE1OTI0NTI0/ODYtMzI2Ni5qcGVn.jpeg" alt="Cover for Exitos y Mas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cc765b841234246892daaa5754a8561.png" alt="Cover for Exitos y Mas" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Olga Tañón</td>
@@ -714,9 +714,9 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 71</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 88</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 88</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 11</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 30</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +827,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 57</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +895,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 37</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 17</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1283,8 +1283,8 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 34</li>
             <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 35</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1375,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 58</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1419,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/UW5FFYUkYPr0nRrTgQvlkvIQTEhEePCnOtvhAhIxZrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkw/MzA2LTE1MDI0Njky/NDAtNzk0MS5qcGVn.jpeg" alt="Cover for Una Nueva Mujer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c298e5f38c9749fac90d7e47045d21a3.png" alt="Cover for Una Nueva Mujer" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Olga Tañón</td>
@@ -1500,6 +1500,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c969076e5d09ab3b2c4bf29da91d39ed.png" alt="Cover for Pelo Brasil" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09</td>
       <td>Banda Calypso</td>
@@ -1530,7 +1531,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 22</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1593,7 +1594,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 19</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1649,15 +1650,15 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 22</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 52</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 49</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/dTiBs13zeK77ZR8cuxgH4hFJerLW4uiLOhaOd5ff1rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM5/MTYtMTMwNTA2NzQ1/NC5qcGVn.jpeg" alt="Cover for Sale el Sol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9672f9478c2642a4a83f68713691f3a4.png" alt="Cover for Sale el Sol" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-14</td>
       <td>Shakira</td>
@@ -1670,8 +1671,8 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 21</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 87</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1713,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 44</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1806,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 84</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1860,11 +1861,11 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 4</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 20</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 27</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 54</li>
             <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 67</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 74</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 83</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1885,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 39</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1904,7 +1905,7 @@ Merengue is a lively, fast-paced dance music genre originating from the Dominica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 49</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 52</li>
         </ul>
       </td>
     </tr>

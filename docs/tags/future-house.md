@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:47:46.374Z
+date: 2025-12-03T06:53:30.399Z
 permalink: tags/future-house
 title: future house
 ---
 
 ## future house
 
-Last updated: <time datetime="2025-11-23T08:47:46.374Z">Sun Nov 23 2025 10:47:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:53:30.399Z">Wed Dec 03 2025 08:53:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -299,7 +299,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 76</li>
         </ul>
       </td>
@@ -437,7 +437,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 33</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -584,6 +584,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da66665b3e1dbc5c3c1117bdd6bca9e0.png" alt="Cover for Blood, Sweat &amp; 3 Years" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-24</td>
       <td>Cash Cash</td>
@@ -594,7 +595,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 51</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +775,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cad7c53a050aae78c9f18495e8da334.png" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>AudioTrackerz</td>
@@ -1113,14 +1114,14 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 47</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 90</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1199,9 +1200,9 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 46</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 17</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1244,8 +1245,8 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 43</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 45</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1259,21 +1260,14 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       <td>Walker Racing League</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 41</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 42</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 45</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1333,8 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 22</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
         </ul>
       </td>
@@ -1384,9 +1379,9 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 30</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 67</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 32</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1418,12 +1413,6 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       <td>Red</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:00:46.261Z
+date: 2025-12-03T06:54:00.280Z
 permalink: tags/experimental-techno
 title: experimental techno
 ---
 
 ## experimental techno
 
-Last updated: <time datetime="2025-11-26T04:00:46.261Z">Wed Nov 26 2025 06:00:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:54:00.280Z">Wed Dec 03 2025 08:54:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -177,8 +177,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 5</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 66</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 7</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +235,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 32</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
         </ul>
       </td>
@@ -290,9 +290,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 26</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 28</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 39</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -347,10 +347,10 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 41</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 60</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       <td>
         <ul>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 48</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
         </ul>
       </td>
@@ -577,12 +577,12 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 42</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +600,6 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +705,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 38</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 53</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 76</li>
         </ul>
       </td>
@@ -785,7 +784,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 26</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +803,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 16</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1137,9 +1136,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 27</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
         </ul>
       </td>
@@ -1337,8 +1336,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 12</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1605,7 +1604,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 36</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 39</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 56</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 97</li>
         </ul>
@@ -1652,8 +1651,8 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 14</li>
             <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 58</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1689,9 +1688,6 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 24</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 31</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1784,11 +1780,11 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
         </ul>
       </td>
@@ -1829,7 +1825,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 87</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1845,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1952,9 +1948,9 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 29</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 30</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1975,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 55</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +2020,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2044,7 +2040,7 @@ Experimental techno pushes electronic dance music beyond the club, deconstructin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 48</li>
         </ul>
       </td>
     </tr>

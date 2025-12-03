@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:35:03.916Z
+date: 2025-12-03T06:43:37.513Z
 permalink: tags/neurofunk
 title: neurofunk
 ---
 
 ## neurofunk
 
-Last updated: <time datetime="2025-10-28T06:35:03.916Z">Tue Oct 28 2025 08:35:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:43:37.513Z">Wed Dec 03 2025 08:43:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,13 +61,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 31</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a7f4bc399f241bda09a7c635ec2a0a4.png" alt="Cover for Screamer EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-16</td>
       <td>Ram Trilogy</td>
@@ -97,7 +98,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 37</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 44</li>
             <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 62</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 84</li>
         </ul>
@@ -177,7 +178,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/QE6N3qs5bQ456ppXg_fIBFZVeFQPVeW31CtpmA9U5Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODE5/MS0xMTc1MDAyMTcz/LmpwZWc.jpeg" alt="Cover for Take Control" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f418303ffb48618946c3972bc3005d.png" alt="Cover for Take Control" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-06</td>
       <td>State Of Mind</td>
@@ -189,7 +190,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 50</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +251,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/BEj8uphNptfiLmN15hbIsKSc_ihKYLF3fttLcy5ZHMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODU2/MC0xNjU2Mjc3Nzgz/LTM2MDAuanBlZw.jpeg" alt="Cover for Supernova EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36e8fb90304342d49a6a6d85fbd65b9c.png" alt="Cover for Supernova EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-27</td>
       <td>Spor</td>
@@ -374,13 +375,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 5</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81d7365ab74a46379e77c294e0707253.png" alt="Cover for VOID" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-23</td>
       <td>Gridlok</td>
@@ -398,6 +400,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87aba48763b94dc6b5763e9f1750ac02.png" alt="Cover for Split the Atom" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-30</td>
       <td>Noisia</td>
@@ -410,14 +413,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/avxbn62WHaW5MYm4MLlnahA74y5emQCqGXsxkse3tsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI2/NDAtMTY1OTQ3NDk4/My05NzUwLmpwZWc.jpeg" alt="Cover for Vision (VSN001)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ccf258dc38f43feba2fab1741db39aa.png" alt="Cover for Vision (VSN001)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-25</td>
       <td>Noisia</td>
@@ -474,6 +477,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3203214ce37f469b9c805278486a2830.png" alt="Cover for Under the Ice" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-25</td>
       <td>Icicle</td>
@@ -493,6 +497,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e08b273b4658dd4351ad412d9e9536.png" alt="Cover for Cross the Line" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Camo &amp; Krooked</td>
@@ -507,9 +512,9 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 18</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 39</li>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 77</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 24</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 25</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +667,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/aTS2DF2iDy0cosMvQgGAGNDwRpNHuIY9ZScB0XYVkfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODM3/MjAtMTYxNzQwNTY4/MC0yODUyLmpwZWc.jpeg" alt="Cover for Prophication (remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57836ffd42d917c8bdc8afe1bb767195.png" alt="Cover for Prophication (remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-24</td>
       <td>Le Castle Vania</td>
@@ -716,7 +721,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/-GW0Cl4RAR9-hY7eEQKTB9WXk-UOxqTwRz-WGQCEIV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzAw/NDItMTUxMDgyMzgw/MS03MzAxLmpwZWc.jpeg" alt="Cover for В душе драм, в сердце светлая русь!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1320c782ebb4c92cc6c3e45585a4317.png" alt="Cover for В душе драм, в сердце светлая русь!" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-13</td>
       <td>Нейромонах Феофан</td>
@@ -727,14 +732,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 14</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/wYWcpN_EHZzfCXa9k-3ve_qaHC2N9IpsvyJzTnP919Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjE5/MTYtMTQ2Mjc5NjM5/MS02MDczLmpwZWc.jpeg" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0506949a18ab1ac8ec263a66b6deb1e.png" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-19</td>
       <td>Enter Shikari</td>
@@ -755,9 +760,9 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 62</li>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 65</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 90</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 11</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 36</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -795,14 +800,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 40</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/uBDBovxFQ8AQqg1a8ik_cJedBTHNlJAj7iwVlfKJxJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI0/NzQ2LTE0OTAzMjY3/NzktNTMwMi5qcGVn.jpeg" alt="Cover for PLANET&#x2F;&#x2F;SHAPER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cd2e27dfebcc51d15cf1ea46ad0488f.png" alt="Cover for PLANET&#x2F;&#x2F;SHAPER" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-15</td>
       <td>Camellia</td>
@@ -885,7 +890,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/t6RY8r1HRX9AG0JxwaHbx2dmdXNkwQyRNTZdzQd0cso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzgw/ODYtMTQ2MTYwNTYw/NS03ODEyLmpwZWc.jpeg" alt="Cover for Here&#39;s to Them" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18256a499bf4990825b8d09e1fbc5eeb.png" alt="Cover for Here&#39;s to Them" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-20</td>
       <td>Rawtekk</td>
@@ -923,7 +928,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/uULiNuSnx0Nj2zSpJR9VPPEx7W5wktEQgm7fFpPzNnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTA0/NTctMTQ3MDA3NTg3/OS02MDgzLmpwZWc.jpeg" alt="Cover for Outer Edges" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa98445cea631acb65c989db0cf4f227.png" alt="Cover for Outer Edges" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-01</td>
       <td>Noisia</td>
@@ -935,6 +940,8 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 36</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +980,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 86</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1033,7 +1040,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 90</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 91</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 95</li>
         </ul>
       </td>
@@ -1118,9 +1125,9 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 26</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 79</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 21</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1355,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 50</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1494,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/78mQZ5gUvkPQsrzllysZuIrfGjeluPImDrzMpLJlwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/ODcyLTE1MzQ0Mzky/OTgtMTE0MS5qcGVn.jpeg" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2aac5dfba418928e7b63a7722e96426.png" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-12</td>
       <td>Barely Alive</td>
@@ -1509,7 +1516,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
         <ul>
             <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 69</li>
             <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 88</li>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 89</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1544,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/xtRLLMQQaayBIGFVLfJRhb7YbmkbDDrIkMcx-NMMZkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI0/NTM2LTE1NDI2NTgx/NDgtMTg1My5qcGVn.jpeg" alt="Cover for Not All The Beautiful Things (Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab67ae6f7c8c0f9ce5baf8ea2d7537b2.png" alt="Cover for Not All The Beautiful Things (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-16</td>
       <td>What So Not</td>
@@ -1672,32 +1679,28 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/J5_3QhqL_QrNw_Gf2n2CV1VVxRJDXkl0DdyMIsJpiFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NTQ2LTE1OTE4MTA5/OTUtNTIxNS5wbmc.jpeg" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e648b76bb3023495223a8ce1395485c.png" alt="Cover for Floral Strobe" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-10</td>
       <td>False Noise</td>
       <td>Floral Strobe</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 56</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 44</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/HkVqRQEs3cTulj9ytuEjov_fW07wiWETh4htxTLCuB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/MDI5LTE2NDM5ODY0/NTgtNDkyNy5qcGVn.jpeg" alt="Cover for Love In Fragments" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d75c2080965f1a77c51319a2690d2a.png" alt="Cover for Love In Fragments" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Nfract</td>
@@ -1712,8 +1715,8 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 51</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1756,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 48</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 49</li>
             <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 90</li>
         </ul>
       </td>
@@ -1794,7 +1797,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 78</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1891,14 +1894,14 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 72</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/EtETozskYd7XQVrYUkKdx2w6OGrYG5ahp1BMEvLHRJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzY1/NjI5LTE2MzU0NTQ3/ODYtNDA1MS5qcGVn.jpeg" alt="Cover for Where&#39;s My Money" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5283256ade3c26827f561c469207b1d.png" alt="Cover for Where&#39;s My Money" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-11</td>
       <td>TC</td>
@@ -1931,7 +1934,7 @@ Neurofunk is a dark, technically complex subgenre of drum and bass that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 85</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
         </ul>
       </td>
     </tr>

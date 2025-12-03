@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T09:34:43.502Z
+date: 2025-12-03T06:43:16.045Z
 permalink: tags/soul-jazz
 title: soul jazz
 ---
 
 ## soul jazz
 
-Last updated: <time datetime="2025-11-19T09:34:43.502Z">Wed Nov 19 2025 11:34:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:43:16.045Z">Wed Dec 03 2025 08:43:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -170,8 +170,8 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 23</li>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 4</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 3</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 95</li>
         </ul>
       </td>
@@ -244,7 +244,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 49</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +285,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 26</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -339,9 +339,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 68</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 96</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +378,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 72</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 79</li>
         </ul>
       </td>
@@ -419,7 +417,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 26</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -465,9 +463,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 40</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -522,7 +520,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +545,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -572,9 +570,9 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 45</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
             <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 100</li>
         </ul>
@@ -671,10 +669,10 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 55</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -958,8 +956,8 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 65</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 72</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +994,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 22</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1021,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/d--YcGPlLxlNBO1jyvvCLFwfegbNetL6A7YFnCnu9tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY1/MTgxLTE1NzUwODQz/MDAtODI4MC5qcGVn.jpeg" alt="Cover for Blue John" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03eccec85342c12f832b9b70d39230a1.png" alt="Cover for Blue John" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>John Patton</td>
@@ -1056,8 +1054,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1098,13 +1095,14 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49921617427005c1f0cb493eecfceff1.png" alt="Cover for Soul of Mann (Instrumental) [Mono]" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-22</td>
       <td>Manfred Mann</td>
@@ -1664,7 +1662,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1712,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1814,10 +1812,10 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 48</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1859,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/AaWwnax3mb9wKWviT1vJc4zQ9x-TNlae2eqTaPw_rZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzkw/MDU1LTE2MzU2MjMz/MzEtNTU2OS5qcGVn.jpeg" alt="Cover for Dance Awhile With Doggett" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/397a6045552ab9b35188e9c5b4b52e12.png" alt="Cover for Dance Awhile With Doggett" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Bill Doggett</td>
@@ -1894,7 +1892,7 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1933,8 +1931,8 @@ Soul jazz blends the improvisational spirit of jazz with the groove and emotiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 10</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 35</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 89</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 97</li>
         </ul>
       </td>

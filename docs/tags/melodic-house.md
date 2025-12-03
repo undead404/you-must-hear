@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T01:25:47.417Z
+date: 2025-12-03T06:41:30.321Z
 permalink: tags/melodic-house
 title: melodic house
 ---
 
 ## melodic house
 
-Last updated: <time datetime="2025-11-17T01:25:47.417Z">Mon Nov 17 2025 03:25:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:41:30.321Z">Wed Dec 03 2025 08:41:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,9 +141,10 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 86</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 75</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
         </ul>
       </td>
@@ -164,7 +165,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 61</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +186,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 33</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +228,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 26</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -305,7 +306,8 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 34</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 3</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 33</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 98</li>
         </ul>
       </td>
@@ -329,7 +331,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 18</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 80</li>
         </ul>
       </td>
@@ -465,6 +467,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 7</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 76</li>
         </ul>
       </td>
@@ -486,8 +489,8 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 14</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +536,7 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 25</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 24</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 47</li>
         </ul>
       </td>
@@ -1518,8 +1521,8 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 66</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 99</li>
         </ul>
       </td>
@@ -1856,8 +1859,8 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 45</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 58</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 50</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2112,8 +2115,6 @@ Melodic house emphasizes euphoric, emotionally resonant synthesizer lines and ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 89</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 100</li>
         </ul>
       </td>

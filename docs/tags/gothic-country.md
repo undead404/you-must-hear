@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:40:51.917Z
+date: 2025-12-03T06:42:35.115Z
 permalink: tags/gothic-country
 title: gothic country
 ---
 
 ## gothic country
 
-Last updated: <time datetime="2025-11-24T14:40:51.917Z">Mon Nov 24 2025 16:40:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:42:35.115Z">Wed Dec 03 2025 08:42:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 18</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 67</li>
         </ul>
       </td>
@@ -120,7 +120,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 68</li>
         </ul>
       </td>
@@ -327,7 +327,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 83</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +350,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -563,11 +563,11 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
         </ul>
       </td>
@@ -693,7 +693,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 98</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +742,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 8</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 15</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1114,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 75</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 76</li>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 94</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 100</li>
         </ul>
@@ -1183,11 +1183,11 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
@@ -1245,7 +1245,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>
         <ul>
             <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 25</li>
             <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 77</li>
         </ul>
       </td>
@@ -1434,13 +1434,6 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       <td>Under the World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
       <td>
@@ -1543,7 +1536,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 19</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1585,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 7</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1670,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 48</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 65</li>
         </ul>
@@ -1833,6 +1826,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1886,7 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 10</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2037,4 +2031,4 @@ Gothic country blends traditional country, folk, and Americana with dark, broodi
 - [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
 - [neofolk]({{ "/tags/neofolk" | relative_url }})
-- [gothic rock]({{ "/tags/gothic-rock" | relative_url }})
+- [dark folk]({{ "/tags/dark-folk" | relative_url }})

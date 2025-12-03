@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T09:34:38.083Z
+date: 2025-12-03T06:42:49.772Z
 permalink: tags/japanese-rock
 title: japanese rock
 ---
 
 ## japanese rock
 
-Last updated: <time datetime="2025-11-19T09:34:38.083Z">Wed Nov 19 2025 11:34:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:42:49.772Z">Wed Dec 03 2025 08:42:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
   </thead>
   <tbody>
     <tr>
-      <td>18</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Foi7TU1vloUJKbbATgd-mnBnOcs10LT20gtFn1uD2e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTkx/OTYtMTQ0ODI1ODU0/MC0yMjU0LmpwZWc.jpeg" alt="Cover for After" style="max-width:120px; height:auto;" />
       </td>
@@ -51,7 +51,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/nT6mYAakIIG74FxlQhzR_tpevs55rk2HdDxwIdGVqPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM5/NzY5LTE1NDg3NjIx/MDEtNDM1Mi5qcGVn.jpeg" alt="Cover for BASILISK" style="max-width:120px; height:auto;" />
       </td>
@@ -79,7 +79,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf708c235fae70c8079be191d4e1841.png" alt="Cover for 狂った太陽" style="max-width:120px; height:auto;" />
       </td>
@@ -88,9 +88,6 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       <td>狂った太陽</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
         </ul>
       </td>
       <td>
@@ -100,7 +97,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8f014c066b147e9471caa27d7658cd9.png" alt="Cover for DUNE" style="max-width:120px; height:auto;" />
       </td>
@@ -118,7 +115,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/jCEtm3UX2g_mQNrpiLTaSiypCtwLSpTpwuzQxT5r4sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/MTI1LTE1ODA2ODEz/ODUtMTEyOC5qcGVn.jpeg" alt="Cover for BAAD" style="max-width:120px; height:auto;" />
       </td>
@@ -143,7 +140,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e448c995eab498da82bfd808a7c1bb9.png" alt="Cover for Loose" style="max-width:120px; height:auto;" />
       </td>
@@ -164,7 +161,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg" alt="Cover for REVIEW～BEST OF GLAY" style="max-width:120px; height:auto;" />
       </td>
@@ -189,7 +186,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg" alt="Cover for Beautiful Dreamer" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +209,24 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b846b14cd958428ee4179a42758f2c15.png" alt="Cover for COSMOS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-06-21</td>
+      <td>BUCK-TICK</td>
+      <td>COSMOS</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg" alt="Cover for DRIVE ～GLAY complete BEST～" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +252,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>1998-01-21</td>
@@ -258,7 +272,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/FlCi50DntWqh7cRXOTKiL0TvviLTHdJ2i6JD3cL-t5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU5/MTktMTM0Mzk0NjIw/MC01NTgxLmpwZWc.jpeg" alt="Cover for Dune [HML-009]" style="max-width:120px; height:auto;" />
       </td>
@@ -278,7 +292,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd88b8d0377136810bd421f7fe53f9cf.png" alt="Cover for スリーアウトチェンジ" style="max-width:120px; height:auto;" />
       </td>
@@ -296,7 +310,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/zI5k0dTDWpBBVRPny8sUFIx8OktrOUI4Lto_EtZfgu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYz/OTItMTUwMzkwNTY3/Ny00OTI1LmpwZWc.jpeg" alt="Cover for 翔～カケラ～裸" style="max-width:120px; height:auto;" />
       </td>
@@ -314,7 +328,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
       </td>
       <td>2000-09-20</td>
@@ -331,12 +345,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 34</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/V84nf-geNMbz21dmDbIHGzUEuNfqCN_FFVgpwP-spYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/MDItMTUxNTk3NzY1/NS03NzI0LmpwZWc.jpeg" alt="Cover for LIVE LIVE LIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -354,7 +368,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/Nmy1JWJkXRV6qmsBj9cOf-0kJK4dY3dqVvUcZ9EBGc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTIx/MC0xNDczODk3NDU4/LTgyODEuanBlZw.jpeg" alt="Cover for Hey! Bob! My Friend!" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +387,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/344529637dd649888c08331843d8e337.png" alt="Cover for ONE LOVE" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +407,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/bItEjEiwrgVsKkBz5QgVYL-w8RwuVQadrOFQGofjgmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTMx/MzktMTM2MDkzNDI5/OC0zMjYxLmpwZWc.jpeg" alt="Cover for Angel&#39;s tale" style="max-width:120px; height:auto;" />
       </td>
@@ -419,7 +433,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/0jrnbYGitPduE04fxRNM89oPQoM_ONqhg8rcyEj_7kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk2/ODItMTQxMDc5ODg2/NC0yMzE5LmpwZWc.jpeg" alt="Cover for Yume Izuru Chi" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +450,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/-Bwm6X33ryeX3XuK_R7SkecVVNsvytyqJwvbLR180HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgz/Nzk1LTE1NDk1Mzcx/NjItNzYyNS5qcGVn.jpeg" alt="Cover for CHUNKY GOD POP" style="max-width:120px; height:auto;" />
       </td>
@@ -469,7 +483,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/l43jSQCju-pJWznUAvnKzJU5hs5PBW3nQnA_LAi-K4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzU2/ODItMTQwNzg0Mjk0/OC00NTIyLmpwZWc.jpeg" alt="Cover for Unity Roots and Familly Away" style="max-width:120px; height:auto;" />
       </td>
@@ -490,7 +504,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/q0yWle0RQ_EjTIunplIKUwTsMkvcxlreyQ4jrbpeXiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM3/NTUtMTM1MDYzMzQ4/NC02NjU1LmpwZWc.jpeg" alt="Cover for HERO" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +528,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/mxN8NyCYCjyZtPWGAowdhkYKG6hJhjLXPUqrcxGyjTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUw/NjU2LTE1MzM0ODI3/MDAtNjcyMy5qcGVn.jpeg" alt="Cover for Nue" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +545,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/vWohjMJC5ofsz1kaLILbv2ixzmO2J7BWtT8zedyN39I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTg3/MDctMTU4MTM1NjM4/Ny0yNzE4LmpwZWc.jpeg" alt="Cover for rare collectives vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -553,7 +567,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>73</td>
       <td>
       </td>
       <td>2003-03-19</td>
@@ -573,29 +587,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/rX_Cuyv9yU6z6n2fzJ6shFTf-hr5Dztnp5jhThResfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg4/NDgtMTQxMDUxNTYz/My02OTA5LmpwZWc.jpeg" alt="Cover for kamiuta" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-07-30</td>
-      <td>Kagrra,</td>
-      <td>kamiuta</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/rX_Cuyv9yU6z6n2fzJ6shFTf-hr5Dztnp5jhThResfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg4/NDgtMTQxMDUxNTYz/My02OTA5LmpwZWc.jpeg" alt="Cover for kakashi" style="max-width:120px; height:auto;" />
       </td>
@@ -612,8 +609,26 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>97</td>
       <td>
+          <img src="https://i.discogs.com/rX_Cuyv9yU6z6n2fzJ6shFTf-hr5Dztnp5jhThResfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg4/NDgtMTQxMDUxNTYz/My02OTA5LmpwZWc.jpeg" alt="Cover for kamiuta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-30</td>
+      <td>Kagrra,</td>
+      <td>kamiuta</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51f74d485431465da4665d325f80c3cb.png" alt="Cover for Galyuu" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12-02</td>
       <td>雅-MIYAVI-</td>
@@ -630,7 +645,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/k14vLMkhiEthMEFY8RVRshOgwo1Q2RDZWyFzkJTq7JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU0/MzQtMTIzNjI3MjUy/Ni5qcGVn.jpeg" alt="Cover for 1st CONTACT" style="max-width:120px; height:auto;" />
       </td>
@@ -649,7 +664,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ed773593884247f78e44b671bcf195.png" alt="Cover for 天龍" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +688,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>77</td>
       <td>
       </td>
       <td>2004-01-28</td>
@@ -692,29 +707,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
       </td>
       <td>2004-04-14</td>
       <td>フジファブリック</td>
       <td>桜の季節</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td>2004-06-23</td>
-      <td>グループ魂</td>
-      <td>荒ぶる日本の魂たち</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
@@ -745,7 +743,24 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2004-06-23</td>
+      <td>グループ魂</td>
+      <td>荒ぶる日本の魂たち</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91723ede74e62edf52e72d6902c4ad25.png" alt="Cover for 教育" style="max-width:120px; height:auto;" />
       </td>
@@ -763,7 +778,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/ahS6p3J6QMuqGlpoFDFH9OkCkuVvJ_fUzBDjpuhS19s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM2/NjY1LTE2MTk4MzEw/MTAtNTEyMS5qcGVn.jpeg" alt="Cover for AWAKE" style="max-width:120px; height:auto;" />
       </td>
@@ -777,12 +792,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 72</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9751a7ddc448369b85e2d9a70a1a08d.png" alt="Cover for Hunting!!!!" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +820,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/SArFijWtq-s4wMeD91ITktudC3BYBb881vXenLRI3co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTA2/NS0xMTc0NjQ0MDEz/LmpwZWc.jpeg" alt="Cover for Yotogibanashi" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +837,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
@@ -867,23 +882,23 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/gGBfltL9JvRiKRvlN02uaaC9MFVrsTjvhD7R0C_ovBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODIz/MjYtMTQxMDYxNzUy/NC0xMDIzLmpwZWc.jpeg" alt="Cover for irohanihoheto" style="max-width:120px; height:auto;" />
       </td>
@@ -900,7 +915,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea87838cd2111f31d3dc301ce3d700b2.png" alt="Cover for 耳鳴り" style="max-width:120px; height:auto;" />
       </td>
@@ -920,9 +935,9 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
-          <img src="https://i.discogs.com/shNlCncGxmaRvgynY0P3bmEFpq94MviQ39ea6v_F6CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjEy/NDgtMTM3MTQxMTUx/OC04MjAzLmpwZWc.jpeg" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bd68790de54bd8b0c60dd27054ce60.png" alt="Cover for Good Morning" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-22</td>
       <td>SPECIAL OTHERS</td>
@@ -938,13 +953,13 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 19</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 56</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fad59db04294af6ca16f4e13fc49f4e.png" alt="Cover for RADWIMPS 4 ~おかずのごはん~" style="max-width:120px; height:auto;" />
       </td>
@@ -961,33 +976,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 5</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1b83f4a312a4509a067acf4c8d5f568.png" alt="Cover for RADWIMPS 4 ～おかずのごはん～" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-12-06</td>
-      <td>RADWIMPS</td>
-      <td>RADWIMPS 4 ～おかずのごはん～</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/NLc1kZyPODdedq2ASogSD1BqLwTvDm6M2pH9iEn-Rjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTcw/MzgtMTQ1MDI1NDcw/Ny0yMzE3LmpwZWc.jpeg" alt="Cover for Radwimps: 4 -おかずのごはん" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,7 +1002,28 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1b83f4a312a4509a067acf4c8d5f568.png" alt="Cover for RADWIMPS 4 ～おかずのごはん～" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-06</td>
+      <td>RADWIMPS</td>
+      <td>RADWIMPS 4 ～おかずのごはん～</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e3bd5b5910961ccc9ef0b791dd49db0.png" alt="Cover for 生命力" style="max-width:120px; height:auto;" />
       </td>
@@ -1029,41 +1044,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg" alt="Cover for Fuunroku" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Kagrra,</td>
-      <td>Fuunroku</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg" alt="Cover for Haru Urara" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Kagrra,</td>
-      <td>Haru Urara</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg" alt="Cover for kotodama" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1061,41 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg" alt="Cover for Haru Urara" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Kagrra,</td>
+      <td>Haru Urara</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg" alt="Cover for Fuunroku" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Kagrra,</td>
+      <td>Fuunroku</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/0jrnbYGitPduE04fxRNM89oPQoM_ONqhg8rcyEj_7kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk2/ODItMTQxMDc5ODg2/NC0yMzE5LmpwZWc.jpeg" alt="Cover for Sakura" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1113,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfc2db1d39894a7dbc22f85eb112b474.png" alt="Cover for by all means - BELIVER" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,15 +1136,15 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 9</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 12</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 84</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/KX-7KuY5x9oC2lEgktZHCdMi2XF9SULnlpd5o1SkLZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzMx/MDk2LTE2MzkzNzM5/NTItMTIwNy5qcGVn.jpeg" alt="Cover for RAGING BLOOD" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,61 +1160,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 10</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2008-08-29</td>
-      <td>志方あきこ</td>
-      <td>Umineko no Naku Koro ni Theme Song</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 31</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/PVaqJ1Bl6frgG0keO6pFrd7P7nyewm39GGGwihw3QTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjc3/ODQtMTM0NTk5MDUw/OC01ODYxLmpwZWc.jpeg" alt="Cover for 紅と黒のMATADORA&#x2F;I LOVE YOUをさがしてる" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1192,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/0rggE53GD9wqGwowt_vj5M7qla2TcBwP0OuyCYH3sd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/MDctMTIxODk2MzU1/MC5qcGVn.jpeg" alt="Cover for B&#39;z The Best &quot;Treasure&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1214,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcec445506f344da92a39267aa94b8be.png" alt="Cover for 牙をみせろ" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1244,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/4yTsshX3meb6MASAtZni7TgNeBQzMJTdsJJ3nWwtnxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU0/MDc0LTE0OTk3ODkx/MzEtNTU4Ny5qcGVn.jpeg" alt="Cover for Sister" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1264,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57efa5aae4cb41f6c180e4e8d52545fc.png" alt="Cover for Niche Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1315,12 +1281,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 39</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/872ade99bf84c272605448e21cce3250.png" alt="Cover for 告白" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1306,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2dfe059ec5a471e96bc7cd1a615ce98.png" alt="Cover for VERSUS" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,7 +1324,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/D6dktUvOMQe0bMuco-ueUrCMUJX4ujr2wcwGzsk8LBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUz/MzQ5LTE1Nzc0NDgy/MjUtMjYzNy5qcGVn.jpeg" alt="Cover for NAMInoYUKUSAKI ～ TV SPECial COLLECTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1376,7 +1342,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/GyUI_yrov-T_9CzkRlEvIRzpjTdlLV_XikIy8DMP_Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg0/OTAtMTMwMTk2ODY0/MS5qcGVn.jpeg" alt="Cover for 0.6" style="max-width:120px; height:auto;" />
       </td>
@@ -1395,7 +1361,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3cc2318cec060fb3e02a1a01f65df16.png" alt="Cover for Swallowed scenery" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1387,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 74</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 94</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 95</li>
@@ -1429,7 +1395,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e7e04f015a1454c9a0018f9a3062ef6.png" alt="Cover for REVOLVER BLAST" style="max-width:120px; height:auto;" />
       </td>
@@ -1447,12 +1413,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 62</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/5VaTvW6SIlM6iXKCMYkDl0oPSHfVkyu6VYz3Bgnkxpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDc4/ODYtMTM2Njg1NTI0/NS02Mjk4LmpwZWc.jpeg" alt="Cover for A forlorn hope" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1439,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/bigIBKdqSJVihQmwZ8bYMlipFBzzJO8ptQ_R_ng9X94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTI3/ODUtMTQyMzA4NDUy/Ny04NDExLmpwZWc.jpeg" alt="Cover for On The Painted Desert - Rampant Colors" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1459,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84bff41a0bf0877a764d90cb52213fad.png" alt="Cover for 爆弾の作り方" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,7 +1480,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_V08JAvMmrCP0la9tXrXrDjy7OOBRh0bz8qgpmIRqSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/NTA5LTE1ODY4MjA5/NDEtNjQwNS5qcGVn.jpeg" alt="Cover for overHORIZON" style="max-width:120px; height:auto;" />
       </td>
@@ -1536,7 +1502,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-10-26</td>
@@ -1557,7 +1523,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/GJSyYgdKsBmCCKzeez4Bpl_EHPaAGc-9WYHZgSeUHWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDg1/MzctMTQ1MDExNTA3/Ni0zNzM4LmpwZWc.jpeg" alt="Cover for 千年幸福論" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1542,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/XGYolCdToh9zIGna8QgJ4oxfTEkmqmncY7GiYLSHqjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/OTA0LTE2MDY4NDI5/NTctNDI5Mi5qcGVn.jpeg" alt="Cover for 夕暮れ" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1565,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/85cf690ec57d458eac5c657b5d31919c.png" alt="Cover for Sarau Fue to Yakusoku" style="max-width:120px; height:auto;" />
       </td>
@@ -1626,7 +1592,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/745f60ee81540630eca0c8ec76b45b12.png" alt="Cover for Portal" style="max-width:120px; height:auto;" />
       </td>
@@ -1645,26 +1611,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/ebykuG3RMadfHrIoWm0dQHKqwadg-fFLlsuPtpivyrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjAy/MDgtMTQyOTUyOTU2/Mi02MDU5LmpwZWc.jpeg" alt="Cover for No Reason in the Pit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-02-08</td>
-      <td>Roach</td>
-      <td>No Reason in the Pit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>67</td>
       <td>
       </td>
       <td>2012-02-08</td>
@@ -1683,7 +1630,26 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/ebykuG3RMadfHrIoWm0dQHKqwadg-fFLlsuPtpivyrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjAy/MDgtMTQyOTUyOTU2/Mi02MDU5LmpwZWc.jpeg" alt="Cover for No Reason in the Pit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-08</td>
+      <td>Roach</td>
+      <td>No Reason in the Pit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/-hFgL3T0rUc7PkTVMJTwU3o-eCasfFJdJVeqXZaO_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA0/NTktMTQyMTM0OTI0/Ny00NzYxLmpwZWc.jpeg" alt="Cover for Discovery" style="max-width:120px; height:auto;" />
       </td>
@@ -1739,15 +1705,15 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 5</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 13</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 74</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 87</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bd96241f795428f92791381da924f2c.png" alt="Cover for Baby, It&#39;s Cold Outside" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1730,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/MYXbWbnVpqlYK9FKk4mTeIHATIvwsjJBvYHFXHJchDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc2/NTEtMTUyODczNDUx/MC0zMzYxLmpwZWc.jpeg" alt="Cover for Ainikoiyo &#x2F; Nounai Shoukyo Game (International Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1755,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>49</td>
       <td>
       </td>
       <td>2013-03-25</td>
@@ -1808,7 +1774,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/YFlCQuIM9XDnuTGrm_nuRfPRbkvuCbBBA_Hy-71BaBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTcx/MjUtMTQ0MDkzOTY1/Mi00MjcyLmpwZWc.jpeg" alt="Cover for ねえママ あなたの言うとおり" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1793,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>62</td>
       <td>
       </td>
       <td>2013-09-04</td>
@@ -1850,7 +1816,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-10-30</td>
@@ -1868,7 +1834,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/sjLKpP1DmCtiq3nLTJ2bDW_8yOtcqec5NkLirEUlFt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzYw/NDUtMTQ0MzQ5Mzg2/MC0xMTUzLmpwZWc.jpeg" alt="Cover for TIME" style="max-width:120px; height:auto;" />
       </td>
@@ -1887,7 +1853,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/215eb3bc472406a98f6dc2c5f6843d91.png" alt="Cover for CHUBBY GROOVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1874,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/0WpqAn7n9VUpiqZAv4Rg09SGKuGcTXhZ_AoRIkIx2wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDA1LTE1NjQ4NzQx/NzYtODIxMy5qcGVn.jpeg" alt="Cover for I STAND ALONE" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1902,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/-ZJCBUz3p_GE8ic1Nt5W7gQFXIppECHDHOK2uzVwtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NTkyLTE0OTQ2ODc3/NTctNDYxNC5qcGVn.jpeg" alt="Cover for Melon Soda" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1929,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9a692fa97c163fc8bc1a80c010ba9b.png" alt="Cover for World Domination" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1946,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b29747034c2c40c180bdd7a6f9dc3210.png" alt="Cover for Dune 10th Anniversary Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -2001,7 +1967,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/t23yhG22ghPZLZUV7cZ4ETyRwFeRbTvkr6JwV_26ff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/ODc2LTE1ODgwNjcz/MjktMTY0Ni5wbmc.jpeg" alt="Cover for From Apple To Pepper" style="max-width:120px; height:auto;" />
       </td>
@@ -2035,7 +2001,7 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png" alt="Cover for harutosyura" style="max-width:120px; height:auto;" />
       </td>
@@ -2051,14 +2017,14 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3e0f03639021bbe9f93f9f5aed7571.png" alt="Cover for We Are The Times" style="max-width:120px; height:auto;" />
       </td>
@@ -2077,12 +2043,12 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 27</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/088fea2b4baa6f4ee55d9925a4aa9d8f.png" alt="Cover for No New World" style="max-width:120px; height:auto;" />
       </td>
@@ -2099,14 +2065,35 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 53</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 69</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aedcd324c220e1223e75e35a5dcede3.png" alt="Cover for 大正義" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Polkadot Stingray</td>
+      <td>大正義</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
       </td>
       <td></td>
@@ -2146,51 +2133,32 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 28</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>50</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aedcd324c220e1223e75e35a5dcede3.png" alt="Cover for 大正義" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcdbd49a7c83151115fb9e2ace2f293.png" alt="Cover for Die Happy!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Polkadot Stingray</td>
-      <td>大正義</td>
+      <td>Guitar Vader</td>
+      <td>Die Happy!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 75</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee45dd64c1ee5bcfdce3113124569188.png" alt="Cover for Ichidaiji - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Polkadot Stingray</td>
-      <td>Ichidaiji - EP</td>
-      <td>
-        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -2199,7 +2167,59 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>グループ魂</td>
+      <td>TMC</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>グループ魂</td>
+      <td>Run魂Run</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Death★Rabbits</td>
+      <td>Heipo no Gyaku Shou</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
       </td>
       <td></td>
@@ -2220,74 +2240,20 @@ Japanese rock blends Western rock traditions with Japan&#39;s distinct melodic s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee45dd64c1ee5bcfdce3113124569188.png" alt="Cover for Ichidaiji - EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Death★Rabbits</td>
-      <td>Heipo no Gyaku Shou</td>
+      <td>Polkadot Stingray</td>
+      <td>Ichidaiji - EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>グループ魂</td>
-      <td>Run魂Run</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>グループ魂</td>
-      <td>TMC</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcdbd49a7c83151115fb9e2ace2f293.png" alt="Cover for Die Happy!" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Guitar Vader</td>
-      <td>Die Happy!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>

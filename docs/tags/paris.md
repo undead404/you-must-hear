@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T13:52:54.588Z
+date: 2025-12-03T06:41:44.448Z
 permalink: tags/paris
 title: paris
 ---
 
 ## paris
 
-Last updated: <time datetime="2025-10-25T13:52:54.588Z">Sat Oct 25 2025 16:52:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:41:44.448Z">Wed Dec 03 2025 08:41:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 28</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 30</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 44</li>
         </ul>
       </td>
@@ -125,8 +125,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 63</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 94</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 97</li>
         </ul>
@@ -135,7 +135,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/IqpTOBaPMeoDFkLDbNH-f7ypOcvzI4vffA6fF3SqFms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NC0xMTM2NTg4NTU3/LmpwZWc.jpeg" alt="Cover for Imparfait inconnu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0d6d15d29891a3128833cbd22cd2cd0.png" alt="Cover for Imparfait inconnu" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Adé</td>
@@ -219,7 +219,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/K-TnXyIlz5BoLvEhAKdXOCVdy9kyrqvd2WDl90FCI9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/NDkzLTE2NTU2OTAz/NzgtMzg1My5qcGVn.jpeg" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ec363e6ab661035d4d019c29ba245b.png" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-01</td>
       <td>Santa</td>
@@ -249,7 +249,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/SiSftBStemTLCmBSgZd2WGUJzqUsQZzS7Qjruduue2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTEx/NjktMTQ0OTI2NjIw/MC03MzY1LmpwZWc.jpeg" alt="Cover for Turn Up The Radio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76d475202e94299a998fe22a1bc381a.png" alt="Cover for Turn Up The Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Madonna</td>
@@ -283,7 +283,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 10</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -311,8 +311,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 20</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 31</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 67</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 83</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 86</li>
         </ul>
@@ -333,7 +333,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 45</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -355,8 +355,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 58</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 24</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 42</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 88</li>
         </ul>
       </td>
@@ -380,8 +380,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 20</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 19</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 83</li>
         </ul>
       </td>
@@ -389,6 +389,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8063098b1944471a95ef3d68b61317f.png" alt="Cover for Allure" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-06</td>
       <td>Allure</td>
@@ -404,14 +405,14 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 63</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/lUn2HmJDhZ-swCR-8A2-LSC8RKFufxE9XHn2zVSI_kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTEw/NS0xMTU0ODg4Nzk3/LmpwZWc.jpeg" alt="Cover for C&#39;était ici" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79a6534cbfe9a62c481401367d431bc0.png" alt="Cover for C&#39;était ici" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Dominique A</td>
@@ -431,8 +432,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 52</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 71</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 29</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +458,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/6HhwPdH2KRpBjbFN-5y_X5l5hARFpnKnZOHj7AAXnVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTU2/LTE0MjQ3OTM3NDQt/MzkxMC5qcGVn.jpeg" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed0302aaa8a92459d889a8a9caaae65.png" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-03</td>
       <td>Mara</td>
@@ -482,8 +483,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 76</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 84</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 78</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 85</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
         </ul>
       </td>
@@ -532,7 +533,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Ht7muhSrJcAZih9Tqvz6lFs0FhHdj4acAekG7J2-_dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQx/OTAxLTE2MzU5NzI2/NDEtNTU3NC5qcGVn.jpeg" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4187477df3aae2956dc191370ac4d4a3.png" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Refuge</td>
@@ -558,7 +559,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/ZL3Im4CVyEoerRLb8Hq8q-WmH-wm9FjN4b2pfgCXAr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzkx/LTEzNTg1Njg2NzAt/MTg2My5qcGVn.jpeg" alt="Cover for Dans ta bouche" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3328fc3f1cc61c6ad1523690d550f5d8.png" alt="Cover for Dans ta bouche" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mara</td>
@@ -611,17 +612,17 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 56</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 31</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/CPVDQe6nsEn9bBdgDSUnzUqmV9ptEXuKT0BU_TS1jTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDg3/MjYtMTM1ODYwMTc2/My02MDQ3LmpwZWc.jpeg" alt="Cover for JTM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e9f8d8f0cf67d7dcc56410b46edadf8.png" alt="Cover for JTM" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Myra</td>
@@ -678,9 +679,9 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 77</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 80</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 88</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 94</li>
         </ul>
       </td>
@@ -742,7 +743,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/qeyt3KdoiGjg7PL1ZiII6DtWDVMAWgOKO3Po-0Ag_hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQ5/OC0xMTYwODUzMjkw/LmpwZWc.jpeg" alt="Cover for White Flag" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb0101b8308ecbef4b77bdc696817d8f.png" alt="Cover for White Flag" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-01</td>
       <td>Dido</td>
@@ -797,6 +798,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e3323bcbbc484090cac9ecdbb68c13.png" alt="Cover for Le klub des 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-29</td>
       <td>Le Klub des 7</td>
@@ -813,8 +815,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 46</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -829,7 +831,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 82.6086956521739 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
         </ul>
       </td>
       <td>
@@ -859,10 +861,10 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 39</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 26</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 60</li>
             <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 69</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 71</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -898,14 +900,14 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 69</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 88</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
         </ul>
       </td>
@@ -930,8 +932,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 67</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 68</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 97</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 98</li>
         </ul>
@@ -988,15 +990,15 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 86</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
             <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
             <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
         </ul>
       </td>
@@ -1036,6 +1038,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765972ebe787982474159fd58d6de20d.png" alt="Cover for Aurore" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -1068,6 +1071,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3a9694d3effc59cedec2c4e8d5e45f.png" alt="Cover for Téléphone" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -1101,7 +1105,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/4_6ml7hjggwf-ITpzE_3w6Xia7pHQVhAR36k0obW-qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU2/MTItMTMxMTgyMDMy/MC5wbmc.jpeg" alt="Cover for Sick Sad Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc74a2b8cf43175096d2994a05b478a2.png" alt="Cover for Sick Sad Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Cloud</td>
@@ -1184,7 +1188,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 60</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 61</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 78</li>
             <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 89</li>
         </ul>
@@ -1221,8 +1225,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 5</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 34</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
             <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 94</li>
         </ul>
       </td>
@@ -1266,7 +1270,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1323,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 2</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 93</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 99</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 100</li>
         </ul>
       </td>
@@ -1328,7 +1332,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/qYR36yRc8izYFVTL_s9DtO-bueshX0CZo3B-uWZyQt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTI3/NjItMTQyMTg0NzY1/Ni01Mjg4LmpwZWc.jpeg" alt="Cover for RUNNING IN CIRCLES" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6a9d56e396ef0fef42b33d458150e44.png" alt="Cover for RUNNING IN CIRCLES" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>lya!</td>
@@ -1467,8 +1471,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 72</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 79</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 20</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 73</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 94</li>
         </ul>
       </td>
@@ -1476,7 +1480,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/QuMW05WpyZ6mIjW-gv8HcsxzoqM6ufTy9qUwlfqSdlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTYz/MDMtMTQyNzIyMjE3/OS00MjA0LmpwZWc.jpeg" alt="Cover for Confetti - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1573d1e170254271da47a3cd922afec1.png" alt="Cover for Confetti - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Julia Jean-Baptiste</td>
@@ -1544,7 +1548,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 56</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 44</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 72</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 80</li>
@@ -1573,7 +1577,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Q0lNvtPKTXhnH0AkZKSdb4R1ER-KTgf0nmwyJyDSEUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ3/NDItMTQ0MjY1MjAw/MS03NDgzLmpwZWc.jpeg" alt="Cover for Corpo Inferno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d30d3f17c5087458e5415cd6aab255a.png" alt="Cover for Corpo Inferno" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09</td>
       <td>Mansfield.TYA</td>
@@ -1592,8 +1596,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 39</li>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 70</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 29</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 42</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 90</li>
         </ul>
       </td>
@@ -1601,7 +1605,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg" alt="Cover for MDP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c371042632d7b55ba1f2f7b5ee6a25c.png" alt="Cover for MDP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01</td>
       <td>Doria</td>
@@ -1623,7 +1627,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       <td>
         <ul>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 52</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 72</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 71</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 73</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 96</li>
         </ul>
@@ -1632,7 +1636,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/tQz-mAqE7MCIo8IZ3W-UlcsHTKi6WIaRjG4fofUuDXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjQ5/MTYtMTQ2NjE4MzI2/NC04MDY5LmpwZWc.jpeg" alt="Cover for Radio Girl - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38efc69f747f0c1c32c4a372c42b9ae3.png" alt="Cover for Radio Girl - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-17</td>
       <td>Pi Ja Ma</td>
@@ -1650,7 +1654,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 50</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 93</li>
         </ul>
@@ -1675,8 +1679,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 86</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 97</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 4</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 88</li>
             <li> <a href="{{ "/tags/lds" | relative_url }}">lds</a> # 98</li>
         </ul>
       </td>
@@ -1684,7 +1688,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/7vocHGCkXnV9rWd_ayQM7r45xQsOyDQLcV7pexh2ZvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAz/MTMzLTE1MDA3NjIw/ODgtOTYxMi5qcGVn.jpeg" alt="Cover for Soft Machines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b38c12205a5a4bd8a95b268f6ce854e.png" alt="Cover for Soft Machines" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Rocky</td>
@@ -1713,7 +1717,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/lhf095vcte9BiUv1t9et1KSR_VuU8rlhuAi8uOwQ2nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUx/MzI1LTE2NjI2NDI5/MTYtNDgyMi5qcGVn.jpeg" alt="Cover for Paris La Bande Originale du Film de Cédric Klapisch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b365d4f65ae24ade801b9a96f8e3e1ea.png" alt="Cover for Paris La Bande Originale du Film de Cédric Klapisch" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Kraked Unit</td>
@@ -1751,7 +1755,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 16</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 82</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 85</li>
         </ul>
@@ -1781,7 +1785,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/TI_TLk4TPxAxFbduKWlF717yiEK5ZTuJ5BCtUGmH0o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM4/NDQ0LTE2OTgzNDE0/ODktOTA3Ni5qcGVn.jpeg" alt="Cover for Ma peau aime" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df608c1611886a28f076f852fb0c54f3.png" alt="Cover for Ma peau aime" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-07</td>
       <td>Alma</td>
@@ -1802,8 +1806,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 32</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 27</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 66</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 85</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
         </ul>
@@ -1812,7 +1816,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/GUSPrdUZljMEmWSYKSyVafUM6RGkq1eUiqHoVrXfZ38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk3/NzYzLTE1MDc5MjMy/MzEtNTk3Mi5wbmc.jpeg" alt="Cover for Octets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819f99670e1292355a1dc9d323e48669.png" alt="Cover for Octets" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-23</td>
       <td>Alligator</td>
@@ -1841,7 +1845,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/IsGbPoIX_6W_w0mgKBo8qHm8-4Tf5N6YVapY3F2wI9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/NzUxLTE1MzIwMjE0/NjQtODQ4Mi5qcGVn.jpeg" alt="Cover for Carla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c77c752b555dcc3f356caeab6f900af.png" alt="Cover for Carla" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-27</td>
       <td>Carla</td>
@@ -1868,7 +1872,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Ihl5a_oWiiBgpViild0VhVnJ0eDw0M_q6HJf2TJtWpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/OTYyLTE1NDE5NDU0/NTQtMzQwMC5qcGVn.jpeg" alt="Cover for Ponytail - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75542308b02d9965625034dc1c294582.png" alt="Cover for Ponytail - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Pi Ja Ma</td>
@@ -1927,7 +1931,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/ney1zwfgJOwgAPLH0S-YDWWjzkHrFPIELZgHdR60gyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc0/MjQwLTE2MDQ3MDM1/NTktNzEwMy5qcGVn.jpeg" alt="Cover for La Lune &amp; Le Soleil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc007ce7b56b14e5e3a0f4630bbc5ed7.png" alt="Cover for La Lune &amp; Le Soleil" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06</td>
       <td>Bonnie Banane</td>
@@ -1960,7 +1964,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/QRNWST7QP6OsFQsTDTj1caWKKsN6U9TxDl5q5b3qFEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA3/MjI4LTE1Mjg0NTI2/NTAtMzU4MS5qcGVn.jpeg" alt="Cover for Soeur Nature - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc66f9a5788424f3f7f7045ca95ae3c2.png" alt="Cover for Soeur Nature - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06</td>
       <td>Bonnie Banane</td>
@@ -1984,7 +1988,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 40</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 43</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 86</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 90</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 91</li>
@@ -2014,7 +2018,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/zTNA2SVIA4p1rqVhwhMHN8AaxW0n8B0d7xL6GA1jaiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY5/NTE1LTE2NDUwNzEz/MTgtNTc2Mi5qcGVn.jpeg" alt="Cover for But You Will" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/609527569906a88e038decf5b665af3d.png" alt="Cover for But You Will" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-30</td>
       <td>Silly Boy Blue</td>
@@ -2067,7 +2071,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/0DnX1VH7Gyf8JDVf2636q7IYcQd0HgAhjHbi6yUBZ3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI4/NDYyLTE1NTk4ODU4/OTUtOTUyMy5qcGVn.jpeg" alt="Cover for Les étoiles vagabondes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6947ad4926b10dafc675d247ddd9e091.png" alt="Cover for Les étoiles vagabondes" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-06</td>
       <td>Nekfeu</td>
@@ -2084,7 +2088,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 42</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 45</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 93</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 98</li>
         </ul>
@@ -2093,7 +2097,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/WM45eDDVinb8truXSipDuRohXWw0yChzF1v81KSwQ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAx/NzYyLTE1Njc4NzUw/OTgtOTUzMi5qcGVn.jpeg" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/935856874d5dc7c61eb6818b49405aac.png" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Hoshi</td>
@@ -2116,8 +2120,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 69</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 76</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 70</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 95</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 97</li>
@@ -2128,7 +2132,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Bh1t_hc2mkwsYT4eZe8YTXnapGpRQdNHyAzqmbZZ2aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc1/Mzg2LTE1OTM4ODc2/NzYtMTI5NC5qcGVn.jpeg" alt="Cover for Glaces brûlantes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d35a6520b357fd05c453d58da5fdfd.png" alt="Cover for Glaces brûlantes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-02</td>
       <td>Lucie Vagenheim</td>
@@ -2181,7 +2185,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/ney1zwfgJOwgAPLH0S-YDWWjzkHrFPIELZgHdR60gyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc0/MjQwLTE2MDQ3MDM1/NTktNzEwMy5qcGVn.jpeg" alt="Cover for Sexy Planet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/775b2cec625bc1063f637c115e20fc3a.png" alt="Cover for Sexy Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-13</td>
       <td>Bonnie Banane</td>
@@ -2205,7 +2209,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 21</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 25</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 78</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 84</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 87</li>
@@ -2234,7 +2238,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/CYn741x9cHa7uWaJWdwJjjposb7-fojB2iGeHsQBhMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYy/NTM3LTE2NDk1Nzkx/NDItNDM4MC5qcGVn.jpeg" alt="Cover for Breakup Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0accbadbdb9cbbca1b58b13be95c4eda.png" alt="Cover for Breakup Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Silly Boy Blue</td>
@@ -2316,22 +2320,23 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/SOlH9965pO6iGPTAOxYsRRk3kwQxQeUixvePDYjezg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc4/NzkzLTE2MjY3ODI3/NTctNTk3Ni5qcGVn.jpeg" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a008bf718839c6b147d0420adfc5702d.png" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-18</td>
       <td>Hoshi</td>
@@ -2387,18 +2392,18 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 75</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 77</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 90</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 92</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/9kzYenukfzizu5e65vyD26p5sbZJOsR7pNLs5XzLfhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM5/ODU4LTE2NjA4NDI0/OTQtOTY2Mi5qcGVn.jpeg" alt="Cover for Spectre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c57ebdaa81e6162f527daededd539fb6.png" alt="Cover for Spectre" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-03</td>
       <td>Ogee</td>
@@ -2447,8 +2452,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 56</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 43</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 92</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 95</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 97</li>
@@ -2458,7 +2463,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/9FcO1OUJHpjUlqyElCTaTmXBZ9v_RVkkPMRIs6mhmUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NjMyNTM3/MTgtNzAyNy5qcGVn.jpeg" alt="Cover for 999" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030f45dea7cb2f61148188f6547ad255.png" alt="Cover for 999" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Santa</td>
@@ -2488,7 +2493,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/QEg_-AAdW6TokVLva0wDeCES2UTcEy-XAC8-zz1lrbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk1/MzMxLTE2NjM4NTI3/MTMtNjk3Mi5qcGVn.jpeg" alt="Cover for Et alors ?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a6838be010df9b5f92e31e38db20e3.png" alt="Cover for Et alors ?" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>Adé</td>
@@ -2509,8 +2514,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 59</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 68</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 30</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 61</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 92</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 94</li>
         </ul>
@@ -2519,7 +2524,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/M33CNCopidBaXfdt8chqQw0_VK0C9fZss5fBq5qI2fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ3/MTc3LTE2NzkwMzg0/NTMtOTI2My5qcGVn.jpeg" alt="Cover for Rose (La bande originale du film)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11413f4f6370f2f79415e393838ad852.png" alt="Cover for Rose (La bande originale du film)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Aurélie Saada</td>
@@ -2539,16 +2544,16 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 79</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/vyOAg2Ttap2BSrksLRiBqPTjXOk4QxwFaI0TvP1s5yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjI5/NjctMTU3MDI2ODcw/OC05MzYxLmpwZWc.jpeg" alt="Cover for Mauvaise Foi - A COLORS SHOW" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aed18297ecee43a611a68025f4f1e42f.png" alt="Cover for Mauvaise Foi - A COLORS SHOW" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-19</td>
       <td>Bonnie Banane</td>
@@ -2581,7 +2586,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for 13 juin 2021" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7b8e93ece0f9d749a86417af88e054.png" alt="Cover for 13 juin 2021" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>Zélie</td>
@@ -2605,13 +2610,14 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 73</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 74</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 78</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>Zélie</td>
@@ -2632,8 +2638,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 25</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 35</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 29</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 89</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
@@ -2664,8 +2670,8 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 74</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 81</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 75</li>
             <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 95</li>
             <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 97</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 99</li>
@@ -2675,7 +2681,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/iAMxitrc_Sq4T9hQt9LE8DxP3PHLN4vvdmvpxLJ5KHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA4/NTgtMTI1MDQ0NzQx/OS5qcGVn.jpeg" alt="Cover for Nouveau Genre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ff22900779aa9b4740ca4f86167e623.png" alt="Cover for Nouveau Genre" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Klon</td>
@@ -2701,7 +2707,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/5tTdrGKL1oT_3_4zOCeWptcgLbAFTvxw1AKIHQfSahE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjQx/NzEtMTU3MDI2OTE4/NS05NDU0LmpwZWc.jpeg" alt="Cover for S.O.S." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/203a396cb9e1f9e2d27e663564a1bd06.png" alt="Cover for S.O.S." style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-05</td>
       <td>Bonnie Banane</td>
@@ -2734,6 +2740,7 @@ The &quot;paris&quot; tag captures music with a distinctly French sensibility, b
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbca7e0dbb5ab2a65a3e7d42e077281e.png" alt="Cover for Trust the Process" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vickie Cherie</td>

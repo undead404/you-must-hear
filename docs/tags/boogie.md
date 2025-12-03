@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:42:26.981Z
+date: 2025-12-03T06:34:56.042Z
 permalink: tags/boogie
 title: boogie
 ---
 
 ## boogie
 
-Last updated: <time datetime="2025-11-19T07:42:26.981Z">Wed Nov 19 2025 09:42:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:34:56.042Z">Wed Dec 03 2025 08:34:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,7 +60,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 34</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 42</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +514,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 44</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -707,10 +707,6 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       <td>I&#39;ll Do My Best</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
@@ -809,7 +805,6 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +849,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 78</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 99</li>
         </ul>
       </td>
@@ -1206,8 +1201,8 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 12</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 69</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 32</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1255,9 +1250,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 22</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
         </ul>
       </td>
@@ -1265,6 +1260,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/568e709e5e2b49779343740ffe451926.png" alt="Cover for Border Town Legend" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Long John Hunter</td>
@@ -1341,13 +1337,14 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 17</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d454e17c8bf84c6e9c9f75484aa3f02e.png" alt="Cover for Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Hound Dog Taylor &amp; The Houserockers</td>
@@ -1468,7 +1465,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/UvE4uxViR-4uKkPgM-D2P8ewLk5JSiP8Mi1z9MIN8Ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODgy/MjYtMTQzNTY5OTQ1/My01MTgwLmpwZWc.jpeg" alt="Cover for Nothing But Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6529b6821d624fed981e7acdf59c7473.png" alt="Cover for Nothing But Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Svet Boogie Band</td>
@@ -1576,7 +1573,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 39</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1717,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 29</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1739,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 46</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1827,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 37</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1884,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 56</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1945,9 +1942,9 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 77</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 83</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1966,8 +1963,8 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 28</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1982,7 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 6</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2008,11 +2005,11 @@ Boogie is a groove-oriented dance music style that emerged in the late 1970s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 45</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 28</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 95</li>
         </ul>
       </td>
     </tr>

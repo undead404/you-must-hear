@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:44:20.129Z
+date: 2025-12-03T06:42:39.441Z
 permalink: tags/indie-rock
 title: indie rock
 ---
 
 ## indie rock
 
-Last updated: <time datetime="2025-11-24T14:44:20.129Z">Mon Nov 24 2025 16:44:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:42:39.441Z">Wed Dec 03 2025 08:42:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 84</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 16</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 98</li>
         </ul>
       </td>
@@ -84,8 +84,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 23</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 29</li>
             <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 33</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -140,8 +140,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 73</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 48</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 98</li>
         </ul>
       </td>
@@ -161,15 +161,15 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 17</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a220f4b102c7a571e94cc9b85aaa5b6f.png" alt="Cover for You Forgot It In People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f6755c362df30246083d2bcd965629.png" alt="Cover for You Forgot It In People" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-15</td>
       <td>Broken Social Scene</td>
@@ -216,7 +216,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 12</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -235,10 +235,10 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 37</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 48</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 60</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 82</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 50</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 61</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 74</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +275,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 29</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 62</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 21</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 11</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +441,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 2</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -515,9 +515,9 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 26</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 73</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -537,8 +537,9 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 7</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 54</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 16</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -574,8 +575,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 48</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 51</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 76</li>
         </ul>
       </td>
@@ -648,7 +649,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 47</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 49</li>
             <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 71</li>
         </ul>
       </td>
@@ -705,7 +706,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 39</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +725,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 14</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +744,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 46</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 53</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 93</li>
         </ul>
       </td>
@@ -769,10 +770,10 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 30</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 70</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
         </ul>
       </td>
@@ -810,7 +811,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 85</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -829,8 +830,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 8</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 48</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +963,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 84</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 87</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 89</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
         </ul>
@@ -1019,7 +1020,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 47</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1058,9 +1059,9 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 24</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 25</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 55</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 57</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 99</li>
@@ -1083,7 +1084,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 42</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 43</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 91</li>
         </ul>
       </td>
@@ -1121,7 +1122,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 57</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 42</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 66</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 88</li>
         </ul>
@@ -1143,7 +1144,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 91</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 100</li>
         </ul>
       </td>
@@ -1182,7 +1183,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 74</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1238,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 45</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1276,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 14</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1294,8 +1295,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 62</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 70</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1316,8 +1317,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1373,7 +1374,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1411,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1429,7 +1430,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 7</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 8</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 83</li>
         </ul>
       </td>
@@ -1509,7 +1510,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 97</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 100</li>
         </ul>
@@ -1532,7 +1533,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 19</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
             <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 96</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
@@ -1553,8 +1554,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 62</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 96</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 4</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 63</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 97</li>
         </ul>
       </td>
@@ -1595,8 +1596,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 87</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 5</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1652,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 78</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1670,10 +1671,11 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 17</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 75</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 80</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1733,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 89</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 89</li>
         </ul>
@@ -1829,8 +1831,8 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 60</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 90</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 62</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 91</li>
         </ul>
       </td>
@@ -1892,7 +1894,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 64</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 67</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 94</li>
         </ul>
       </td>
@@ -1953,7 +1955,7 @@ Indie rock emerged in the 1980s as guitar-driven music produced outside major re
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 83</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 84</li>
         </ul>
       </td>
     </tr>

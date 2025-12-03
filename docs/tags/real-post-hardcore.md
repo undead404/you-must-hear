@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:45:50.824Z
+date: 2025-12-03T06:53:19.535Z
 permalink: tags/real-post-hardcore
 title: real post-hardcore
 ---
 
 ## real post-hardcore
 
-Last updated: <time datetime="2025-11-17T05:45:50.824Z">Mon Nov 17 2025 07:45:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:53:19.535Z">Wed Dec 03 2025 08:53:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -167,8 +167,8 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 3</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 11</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 6</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -393,6 +393,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -413,6 +414,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       <td>
         <ul>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 74</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -435,9 +437,9 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 46</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 56</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 49</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +477,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 46</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +838,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/X6GpFnrxtf8dOgSK81Y3kqjTK5RgiZnwLpSXX29rLBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM4/MjQtMTQ3MjA1NDAz/NC02NTA0LmpwZWc.jpeg" alt="Cover for Map, Monitor, Surge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c2c9ac0cadc4f6b714ba6428e4ab25.png" alt="Cover for Map, Monitor, Surge" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Craw</td>
@@ -992,7 +994,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1169,12 +1171,10 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1266,13 +1266,14 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 17</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b02c054f6b8776885975ce53e9655983.png" alt="Cover for The Egg" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-23</td>
       <td>Shiner</td>
@@ -1288,7 +1289,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 32</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1381,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 68</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1395,12 +1396,10 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1418,6 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
@@ -1427,7 +1425,6 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 46</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1447,8 +1444,8 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 33</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 44</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 65</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 88</li>
         </ul>
       </td>
@@ -1523,17 +1520,15 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 32</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 33</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 49</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 68</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1566,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1587,14 +1582,12 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 50</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1609,12 +1602,10 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1648,12 +1639,10 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1812,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 12</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1945,7 +1934,6 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
 
 - [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
 - [noise rock]({{ "/tags/noise-rock" | relative_url }})
-- [real screamo]({{ "/tags/real-screamo" | relative_url }})
 - [sludge]({{ "/tags/sludge" | relative_url }})
 - [math rock]({{ "/tags/math-rock" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
@@ -1953,3 +1941,4 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [screamo]({{ "/tags/screamo" | relative_url }})
+- [sasscore]({{ "/tags/sasscore" | relative_url }})
