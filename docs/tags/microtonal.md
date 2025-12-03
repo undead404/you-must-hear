@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:41:45.068Z
+date: 2025-12-03T09:26:15.965Z
 permalink: tags/microtonal
 title: microtonal
 ---
 
 ## microtonal
 
-Last updated: <time datetime="2025-10-28T06:41:45.068Z">Tue Oct 28 2025 08:41:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:26:15.965Z">Wed Dec 03 2025 11:26:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 31</li>
+            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 89</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 48</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 47</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 73</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 80</li>
         </ul>
@@ -150,7 +150,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Crack My Pitch Up" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d47b76c107c9404fa199a03a3f3c2543.png" alt="Cover for Crack My Pitch Up" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -381,6 +381,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/705779c344fa5c24863afab32065f25d.png" alt="Cover for Batman&amp;Tyrone" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Tyrone Miller</td>
@@ -482,14 +483,13 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 72</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/dgrM_k9HWauny3wXVZoSw9v2NoszzLmEiFX0c2ureH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE0/Ny0xMTUyODQ4MzEy/LmpwZWc.jpeg" alt="Cover for [mn005] distante" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-31</td>
       <td>Coeval</td>
@@ -509,7 +509,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 13</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +530,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 7</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +554,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 14</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -581,7 +581,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/LEzo4fl3p69IPztb4EY7qIZERdnFqAVQZdCzEXFkGf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjYw/Ny0xMTc3MjYwMTgx/LmpwZWc.jpeg" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec43b99f4a4fc28ab2fcc7fcddcbbe.png" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-01</td>
       <td>Letna</td>
@@ -641,7 +641,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 84</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 16</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +759,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 20</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 21</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 29</li>
         </ul>
       </td>
@@ -808,8 +808,8 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 70</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 71</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -857,14 +857,13 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 21</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 45</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/VF2_cWNmPPlfQZXwSy-tsnXdMelxNyC0Kd9SIsH4ToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY0/MzMtMTM5NTI2MzI3/Ni00NjY5LmpwZWc.jpeg" alt="Cover for Agnosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Aboombong</td>
@@ -888,7 +887,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/GWdipp9c5ly8P9QmhbN30XbID8Cy8PNQlKafoDMhp5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTE2/NjAtMTMxOTgzNDk2/MS5qcGVn.jpeg" alt="Cover for Golden Hour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9135168fd07b24e12111778567ba73de.png" alt="Cover for Golden Hour" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-04</td>
       <td>Sevish</td>
@@ -927,6 +926,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16231aa81d7e7f7379e389082fc6e7f7.png" alt="Cover for NANA WODORI" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-08</td>
       <td>knowsur</td>
@@ -994,13 +994,14 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 8</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ec706318df492892dac00898306e1d.png" alt="Cover for Human Astronomy" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-15</td>
       <td>Sevish</td>
@@ -1064,6 +1065,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa6c81741291459e9f920945a8c765ed.png" alt="Cover for Gammatar" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-05</td>
       <td>Carlo Serafini</td>
@@ -1084,7 +1086,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/kVePrindAY0LKQPr0MkNttL1i61B0NMRMoUFutwNrdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzU0/MjgtMTM3Njk5NzEz/MS03MzY1LmpwZWc.jpeg" alt="Cover for Mater Natura" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7519d3294e60dab2db793164b48cbae3.png" alt="Cover for Mater Natura" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-15</td>
       <td>Marco Lucchi</td>
@@ -1118,14 +1120,14 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 38</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/a_K4qbSrk8v30GjzYQH7IguYB1Kqa5PH1KEyFiv-6mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg3/NDItMTMwNDI5NTAy/OS5wbmc.jpeg" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bdc073bec7646f09a6c8b4adebc11b3.png" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-01</td>
       <td>Derek Piotr</td>
@@ -1143,8 +1145,8 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 45</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1201,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 38</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 39</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 44</li>
         </ul>
       </td>
@@ -1272,7 +1274,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/B1YwZJ-QDCEHkDWvME2aYKRJJra6N_Sq4JS9waNp28A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY5/OTY2LTE1MTExMzc1/NDQtMTg1Ny5qcGVn.jpeg" alt="Cover for Micropangaea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3bd4223c804386c3ef8c86420e47b1.png" alt="Cover for Micropangaea" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-28</td>
       <td>Brendan Byrnes</td>
@@ -1328,7 +1330,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/NgT-ebwZUlTe9cF6wJ6kx1wRXqYzdwaf9IXOsW47hcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTkw/NTAtMTM2NjYxMjY4/Ny0yNDM1LmpwZWc.jpeg" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f462d49b6e0242b1b6bfe8d5cc55e2d7.png" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-17</td>
       <td>Nils Quak</td>
@@ -1355,7 +1357,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       <td>
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 32</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 33</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 47</li>
         </ul>
       </td>
@@ -1407,7 +1409,8 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 43</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 65</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 67</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1433,7 +1436,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/j5xJJ_KHh3q9MxjeZkIuM_RoC37uEPoNLyyXz31yoHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODgx/MjQtMTQzMzQzNzU1/MC00MjU1LmpwZWc.jpeg" alt="Cover for Reign Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0d3aac61fdc4f8dcfcaddd7128750a5.png" alt="Cover for Reign Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-12</td>
       <td>Cinchel</td>
@@ -1512,7 +1515,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ASMheRW5DACcwzjxK0yV4TPywEchrwmJp-egD5CWUCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDI1/MjgtMTQ1NTE4OTUx/Ni04OTg0LmpwZWc.jpeg" alt="Cover for Rhythm and Xen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f45f7c939fd91d36ff36392f517ad5e5.png" alt="Cover for Rhythm and Xen" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-10</td>
       <td>Sevish</td>
@@ -1559,15 +1562,15 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 58</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 62</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 62</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/I6UJ-C_HSF49NXnjFvvfPMiG6NWSqAIf_IeXFocL5d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUz/OTIzLTE1MDA3MjIz/NTAtMTkxMi5qcGVn.jpeg" alt="Cover for Bombinate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/368d062bc3f600f04dca6592794ea90f.png" alt="Cover for Bombinate" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-01</td>
       <td>Haarvöl</td>
@@ -1586,7 +1589,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 36</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1627,14 +1630,13 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 53</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/-YKxuzM2N0QZikqJcprG08SVnHrlh2aa10cmzuhb5F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI2/Nzc1LTE1MzcwMDgx/NTctODc1OC5qcGVn.jpeg" alt="Cover for Shimano" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-14</td>
       <td>Gallo&#39;84</td>
@@ -1706,7 +1708,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 57</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1746,14 +1748,13 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 74</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/AOOCCreQ4CKEjsvhbAlX-PIBXVUrKW1z91CshvOjms4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzE2/OTEtMTQ3MDUwODE0/MS04MjUzLmpwZWc.jpeg" alt="Cover for L.W." style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-20</td>
       <td>King Gizzard &amp; The Lizard Wizard</td>
@@ -1761,20 +1762,19 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/_7bXNf_1tqt3Yv5LuZ0aw6iSW2vGKqmw4nw0vHuLzvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDc0/NTMtMTM4NDY5ODQy/Ny05NTg4LmpwZWc.jpeg" alt="Cover for The Absence of Light Contains the Shadow of Loss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9e997a8203c538b9de207db3b72cd0.png" alt="Cover for The Absence of Light Contains the Shadow of Loss" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-15</td>
       <td>Scott Lawlor</td>
@@ -1803,7 +1803,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/ghEHxHIWWQ2Un0x9GoP35_lF7vEV473sdSvLLI5VL9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU1/MjUzLTE2MTYzODY3/MTEtOTYyMC5qcGVn.jpeg" alt="Cover for Frameworks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9811d415e6261b942d55adc34d25bd15.png" alt="Cover for Frameworks" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-26</td>
       <td>Micah Pick</td>
@@ -1825,6 +1825,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/466fc02fe5df0ee79afdc58c17e1798a.png" alt="Cover for Mitrealität" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Jute Gyte</td>
@@ -1846,8 +1847,8 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 25</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1877,6 +1878,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 1</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 11</li>
         </ul>
       </td>
@@ -1924,13 +1926,14 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 3</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f3a6f044c37499492e4f0071267976c.png" alt="Cover for Transylvanian Chilean" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Keith Rudolph</td>
@@ -1968,7 +1971,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 45</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1994,6 +1997,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b480a44ecc12412cb42e9b84c20afe54.png" alt="Cover for King Arthur Hop" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Keith Rudolph</td>
@@ -2101,6 +2105,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0adea3eba07886869968c907ec1a806.png" alt="Cover for 2011" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cuchufleta</td>
@@ -2149,6 +2154,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deba71f0266c4e3ca726a63ae16b4f87.png" alt="Cover for Transcendissonance" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>City of the Asleep</td>
@@ -2172,6 +2178,7 @@ Microtonal music uses intervals smaller than the standard half-steps found on a 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/036c0274caeb1c7707c093bcd7a19360.png" alt="Cover for A North Facing Window" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Trauma Triad</td>

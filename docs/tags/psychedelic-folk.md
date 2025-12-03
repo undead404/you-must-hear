@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:51:05.288Z
+date: 2025-12-03T07:07:57.244Z
 permalink: tags/psychedelic-folk
 title: psychedelic folk
 ---
 
 ## psychedelic folk
 
-Last updated: <time datetime="2025-11-23T08:51:05.288Z">Sun Nov 23 2025 10:51:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:07:57.244Z">Wed Dec 03 2025 09:07:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,8 +64,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 3</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 64</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 10</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +123,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 41</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -143,9 +144,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 9</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 28</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 60</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +165,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 60</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +202,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -219,8 +220,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 12</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 89</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
         </ul>
       </td>
@@ -259,8 +260,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 24</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 93</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -377,8 +377,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 3</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 76</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -402,9 +402,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 33</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 34</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 77</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -461,8 +461,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 37</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 84</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -517,15 +517,16 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 21</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 23</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6e7512b64caa08c579c9d5139356bc2.png" alt="Cover for Alone, Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Hungry Ghosts</td>
@@ -536,8 +537,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 48</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 40</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -554,8 +555,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 70</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 43</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +595,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 91</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -633,9 +634,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 23</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 26</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 89</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 90</li>
         </ul>
       </td>
@@ -730,7 +731,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 49</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 94</li>
         </ul>
       </td>
@@ -790,7 +791,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 44</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -809,7 +810,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +856,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/43le-7w-O8jC5GA5vOp3WaCr8o4BmKvrhU-K1SkS1xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzY5/Ny0xMTY1OTg0Mjkx/LmpwZWc.jpeg" alt="Cover for If The Sky Falls, We Shall Catch Larks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c116810dfbc6b101c410e49fdd2c089.png" alt="Cover for If The Sky Falls, We Shall Catch Larks" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-20</td>
       <td>Kiss the Anus of a Black Cat</td>
@@ -938,11 +939,12 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 1</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 41</li>
             <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 72</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 100</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1042,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 71</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1080,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 56</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1134,7 +1136,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 12</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 74</li>
         </ul>
       </td>
@@ -1163,6 +1165,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed456d3ef65421e9c534bf68774341b.png" alt="Cover for The Nebulous Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-23</td>
       <td>Kiss the Anus of a Black Cat</td>
@@ -1195,8 +1198,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 7</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 9</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1214,13 +1217,14 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af4b13d87c843f28820d490ac373406.png" alt="Cover for Dustland" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-20</td>
       <td>The Gentleman Losers</td>
@@ -1236,7 +1240,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 48</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 49</li>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 97</li>
         </ul>
       </td>
@@ -1258,7 +1262,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1284,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1300,8 +1304,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 4</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 74</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1325,7 +1329,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1349,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1363,8 +1367,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 7</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 44</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1388,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 100</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1488,6 +1491,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 20</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 51</li>
         </ul>
       </td>
@@ -1511,7 +1515,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 23</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1534,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1576,8 +1580,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 12</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 57</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 77</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 24</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 59</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 96</li>
         </ul>
       </td>
@@ -1634,7 +1638,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1675,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 70</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1716,9 +1720,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 67</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 87</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 93</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 70</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 89</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1779,8 +1783,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 37</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 38</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 94</li>
         </ul>
       </td>
@@ -1807,13 +1811,13 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 81</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1840,9 +1844,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 85</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1864,8 +1868,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 32</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 55</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1888,9 +1892,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 37</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 17</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 41</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1933,8 +1937,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 92</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 98</li>
         </ul>
       </td>
@@ -1959,8 +1963,8 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2039,7 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 32</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2054,9 +2058,9 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 71</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 30</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2073,5 +2077,5 @@ Psychedelic folk is a musical genre that emerged in the mid-1960s and is charact
 - [avant-folk]({{ "/tags/avant-folk" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
-- [indie folk]({{ "/tags/indie-folk" | relative_url }})
 - [drone]({{ "/tags/drone" | relative_url }})
+- [indie folk]({{ "/tags/indie-folk" | relative_url }})

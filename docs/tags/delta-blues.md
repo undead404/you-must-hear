@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:54:52.965Z
+date: 2025-12-03T08:10:59.703Z
 permalink: tags/delta-blues
 title: delta blues
 ---
 
 ## delta blues
 
-Last updated: <time datetime="2025-11-23T08:54:52.965Z">Sun Nov 23 2025 10:54:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T08:10:59.703Z">Wed Dec 03 2025 10:10:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,7 +121,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 32</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 38</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 65</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 54</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -267,8 +267,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 24</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 20</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 11</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -507,7 +507,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 35</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -572,11 +572,11 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 22</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 55</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +595,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 77</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 75</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +706,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 91</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +746,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 81</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -838,6 +838,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +856,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 37</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -875,8 +876,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 66</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 71</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +953,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 46</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 48</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 55</li>
         </ul>
       </td>
@@ -992,8 +993,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 22</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 24</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1012,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 19</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1112,16 +1113,16 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 27</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 40</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 59</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 41</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/c58onRP9ZtLECNItM4-KyWiU_SZZFCjazdQaXV0D5Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDUz/MTktMTM2MjEzNzk1/Mi01NjA3LmpwZWc.jpeg" alt="Cover for Black Pearls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca2375d9eb94059a99b401085e7b07c.png" alt="Cover for Black Pearls" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-26</td>
       <td>Eric Sardinas</td>
@@ -1154,8 +1155,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 90</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 96</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1176,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 39</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1236,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 46</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1295,9 +1296,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 38</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 48</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 68</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 33</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1323,9 +1324,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 40</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 50</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 73</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 28</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 52</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1365,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 42</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1448,12 +1449,12 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 19</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 68</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1476,25 +1477,6 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937535ff8483b5cefa12cd89d2c5fe1b.png" alt="Cover for Delta Kream" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>The Black Keys</td>
-      <td>Delta Kream</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 18</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910c3195e1504bf281cfa77b42095bd9.png" alt="Cover for Undercover Blues" style="max-width:120px; height:auto;" />
@@ -1512,7 +1494,25 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 25</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937535ff8483b5cefa12cd89d2c5fe1b.png" alt="Cover for Delta Kream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>The Black Keys</td>
+      <td>Delta Kream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1535,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 34</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1561,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 83</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1605,9 +1605,9 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 36</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 47</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 67</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 34</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 49</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1645,7 +1645,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 79</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1670,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1694,8 +1694,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 40</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 70</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 61</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1720,8 +1720,8 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 1</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 16</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 18</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1802,13 +1802,13 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 44</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1838,12 +1838,12 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 20</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 73</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1961,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 38</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1981,7 +1981,7 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 59</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2070,4 +2070,4 @@ Delta blues is a raw, emotionally intense style of blues that originated in the 
 - [roots]({{ "/tags/roots" | relative_url }})
 - [americana]({{ "/tags/americana" | relative_url }})
 - [electric blues]({{ "/tags/electric-blues" | relative_url }})
-- [blues rock]({{ "/tags/blues-rock" | relative_url }})
+- [chicago blues]({{ "/tags/chicago-blues" | relative_url }})

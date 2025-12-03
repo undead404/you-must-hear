@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T09:18:40.167Z
+date: 2025-12-03T07:10:03.686Z
 permalink: tags/concert
 title: concert
 ---
 
 ## concert
 
-Last updated: <time datetime="2025-10-30T09:18:40.167Z">Thu Oct 30 2025 11:18:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:10:03.686Z">Wed Dec 03 2025 09:10:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
   </thead>
   <tbody>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
-          <img src="https://i.discogs.com/KTAaJWY6Si2kGn-adiT5u-O-2vzHWPCdr6rIqwHX26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUz/ODEtMTM2MDE0NDM3/Ny0xNTMxLmpwZWc.jpeg" alt="Cover for Joan Baez 75th Birthday Celebration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e733d96cc1101e00a22bcf9c36003e.png" alt="Cover for Joan Baez 75th Birthday Celebration" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Joan Baez</td>
@@ -51,7 +51,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1968-12</td>
@@ -68,7 +68,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/-psVVeQJcA7rIcaf6-2vnFTmGr8UcjalK7n1hENxi1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEz/ODktMTMzOTczMTI5/NS04NDI3LmpwZWc.jpeg" alt="Cover for Live (2006)" style="max-width:120px; height:auto;" />
       </td>
@@ -91,12 +91,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 22</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg" alt="Cover for One For The M6" style="max-width:120px; height:auto;" />
       </td>
@@ -112,12 +112,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 57</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/yTdw9_Td_BAKE9neWtn7CHn2dn4a2SqNygiRomJeOgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MjUtMTM2NTU4ODg4/Ny00NjI4LmpwZWc.jpeg" alt="Cover for Mary Jane&#x60;s Last Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/cB6Zrh2k0Ebl6_rOm2mreAkqQqKkLbthlQ56LuyPeZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/OTEtMTM5MDUxNDUy/MS04OTcxLmpwZWc.jpeg" alt="Cover for Concertos for Oboe and Oboe d&#39;Amore" style="max-width:120px; height:auto;" />
       </td>
@@ -155,9 +155,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/NtT63Ry6tC9EF5Ri8sgS5crnyznRG87VBOqoFOFQKlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/MjUtMTYwMTc3MTEz/Ni02NDA4LmpwZWc.jpeg" alt="Cover for Live Punk Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbaf801364d14a08ab5cb7731aecc812.png" alt="Cover for Live Punk Club" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-04-15</td>
       <td>Slime</td>
@@ -174,13 +174,13 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 3</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 49</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/tTQeGimTa3WQJbN4hHEI05iH5y7Qh281Os_2aRdJNNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDE1/NDItMTQyMzc0MTg4/Mi03NTk4LmpwZWc.jpeg" alt="Cover for BBC In Concert (4th November 1982, recorded at Hammersmith Odeon 4&#x2F;11&#x2F;82 tx 11&#x2F;12&#x2F;82)" style="max-width:120px; height:auto;" />
       </td>
@@ -197,9 +197,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/4Buu1cm2fYKzYPkeukZJ-mK6Ol1xuirtExAZJotZ5R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYy/MDItMTMxNzc1MzE5/NC5qcGVn.jpeg" alt="Cover for Open Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a851c8bbce94f35a3f6080066944779.png" alt="Cover for Open Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Y&amp;T</td>
@@ -216,7 +216,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/R3tKQVvIWlq328vzIyxm8AsJZhg7BT00VBbmUbjnUjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEz/LTExNjQ2NjU3MTgu/anBlZw.jpeg" alt="Cover for Recording The Universe: Live In Düsseldorf 27&#x2F;02&#x2F;2010" style="max-width:120px; height:auto;" />
       </td>
@@ -235,7 +235,27 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/005f4fd529d2327d5b8ec2f74cb11317.png" alt="Cover for Live From Metropolis Studios" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Public Enemy</td>
+      <td>Live From Metropolis Studios</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/IZfuKB0MGsFUB72VQDJsbJlRDaTEmJeWbn7BnBUev_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgw/NjYtMTM3NjQ2NzE2/NS01NDM3LmpwZWc.jpeg" alt="Cover for Uprising Live!" style="max-width:120px; height:auto;" />
       </td>
@@ -252,34 +272,14 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 22</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/U07i90hkQEbEavcYKX9nDmX_2URqM6jyf8Z9aN4n004/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI4/MzMtMTM5MzQ5MTc1/Ni02MDkyLmpwZWc.jpeg" alt="Cover for Live From Metropolis Studios" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Public Enemy</td>
-      <td>Live From Metropolis Studios</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/VblrTw1rSCRzEN5K5nNJgE9KsG_HYJunXV3NgcH8BYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk5/My0xMjQ4NDc2Nzg0/LmpwZWc.jpeg" alt="Cover for Live in Overhausen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3ec71dd6849d4f3d6ff86ed3a02b4af.png" alt="Cover for Live in Overhausen" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-03</td>
       <td>Overkill</td>
@@ -293,14 +293,32 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 29</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/Bs378yoDAU9QtTg5qnSPlSYXVp7ZJAe5x3DghSkQer8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTY2/LTE2NTk5OTgzNDEt/MTcyNC5qcGVn.jpeg" alt="Cover for Live In Monaco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1d2d34e0823478cbb79aeeb76b9881e.png" alt="Cover for Kylie Live in New York" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Kylie Minogue</td>
+      <td>Kylie Live in New York</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8d7700c5280ef1ebb7eed2eb307691a.png" alt="Cover for Live In Monaco" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Jean Michel Jarre</td>
@@ -322,16 +340,18 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>99</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1d2d34e0823478cbb79aeeb76b9881e.png" alt="Cover for Kylie Live in New York" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/sB9IuF954HXEwFuhkEvi5agl2FaK4T3DqN-0Tn3pLec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg3/MjgtMTQ0OTM3ODU4/Ni00ODE5LmpwZWc.jpeg" alt="Cover for Live in London" style="max-width:120px; height:auto;" />
       </td>
-      <td>1988</td>
-      <td>Kylie Minogue</td>
-      <td>Kylie Live in New York</td>
+      <td>1989</td>
+      <td>The Only Ones</td>
+      <td>Live in London</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -340,7 +360,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/digP7Ht2XJiqJNcna0zLSH6dckhy924Nbf0QUz8fneQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/MS0xNDU4MzIxNDk2/LTI4NjguanBlZw.jpeg" alt="Cover for Concert&#x2F;Live In London" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +380,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1484ad8b303226151ab0f9cae181abf7.png" alt="Cover for Live + Cuddly" style="max-width:120px; height:auto;" />
       </td>
@@ -377,13 +397,13 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 68</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 35</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
       </td>
       <td>1993</td>
@@ -400,7 +420,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
       </td>
       <td>1995</td>
@@ -417,15 +437,15 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 50</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 13</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/jnqGASLcCnZZZVd_9ymplBh0EvQDimz5N3f59bPijtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzYw/ODktMTU0MDczMzA0/MC00MTM5LmpwZWc.jpeg" alt="Cover for Live At The Rock Hard Festival 2016" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91a668fd4dc3e703ea04d50c32aa0919.png" alt="Cover for Live At The Rock Hard Festival 2016" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Tankard</td>
@@ -444,7 +464,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/yKyzCXGVGWzC_2nFnw85XjDM79J1Fj47viJk7VzbcUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg4/NzktMTY4Mzg4NTMy/MS04NzQxLmpwZWc.jpeg" alt="Cover for Beethoven: Complete Works For Violin And Orchestra" style="max-width:120px; height:auto;" />
       </td>
@@ -464,7 +484,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/aTD3Kp2w91weP5AyTTqyFJZSQkXd2YefH6GGldHLnms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODItMTQxNjkwMjE1/MS0xNzY1LmpwZWc.jpeg" alt="Cover for 1, 2, 3 Soleils" style="max-width:120px; height:auto;" />
       </td>
@@ -477,15 +497,15 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 14</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 15</li>
             <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/AR4rcD6HdgoK5B7GT8EfCtbV2yD5t4CAHJH9Lm8kWAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzc5/MDctMTQ0MDg1OTI4/NS00MTY4LmpwZWc.jpeg" alt="Cover for Live,Pankehallen 21.1.1984" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0201b92b6ed347439c0c3eba030b60e1.png" alt="Cover for Live,Pankehallen 21.1.1984" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Slime</td>
@@ -500,7 +520,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
       </td>
       <td>1998-10-20</td>
@@ -517,24 +537,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://i.discogs.com/XE2t9D5AbcWNlkYcYWspWbAnl3NlUCPvqWId345u4U0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/NDAtMTM1MTY4NDAz/Ni03MjgwLmpwZWc.jpeg" alt="Cover for (sic)nesses: Live At The Download Festival, 2009" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000-03-14</td>
-      <td>Slipknot</td>
-      <td>(sic)nesses: Live At The Download Festival, 2009</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/dfZrLwIN7ALRp4_5NdmuFtmYwCueQ5dodJFRaKRvbXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgx/OTUtMTM3NzE3NTI3/MC0yMzAzLmpwZWc.jpeg" alt="Cover for Showgirl (The Greatest Hits Tour Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -552,9 +555,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/LCQtob1RmB-bur3LmrvRFGOaGAcQfcj1zxT1rkm1sGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDkw/NzMtMTU1MjU2Njkz/Ni04OTE0LmpwZWc.jpeg" alt="Cover for Prologue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a0089e44bd2f7ee0b8d14c78cfd103d.png" alt="Cover for Prologue" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11</td>
       <td>Gentle Giant</td>
@@ -574,9 +577,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/VSv_doOtbdXc3u_JJN_KK3fRqnx9_QyPdeqBnzvFdaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTM1/Ni0xNjc2MzE1NDIz/LTI5NjEuanBlZw.jpeg" alt="Cover for Live @ The Key Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/550d9fecca674ad7ca975f3eeb2af890.png" alt="Cover for Live @ The Key Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Pennywise</td>
@@ -592,12 +595,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 59</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/AxzA5aRHk_OIawVO1x22lhjMwro3PQkZa6hb4-o53Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjE5/MzMtMTQ1MDM4MzA2/OS0yOTY3LmpwZWc.jpeg" alt="Cover for 200 More Miles" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +619,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/a_d4Qqi8EYaIzWmfvRQWBfZi6cJ1bBEJ68f7RHoYrfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzYy/OTItMTMyMTczNjk2/NS5qcGVn.jpeg" alt="Cover for S Club Party Live" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +637,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2002</td>
@@ -649,12 +652,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 59</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
       </td>
       <td>2002-05-09</td>
@@ -671,7 +674,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/Wkvc913abmIX7AZIJq0cCJbonWcP_fHeLN0gXVNu3wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDU2/OS0xMTIyNDE4Mzg3/LmpwZw.jpeg" alt="Cover for Live At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -690,24 +693,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/62DsRROjmuHVP8GC-t-tIv_k671bVSFSBxR_A5MjApI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ2/OTk5LTE1MDM1NzEz/MTQtNDY5OS5qcGVn.jpeg" alt="Cover for As&#x2F;Is: Volume 3 (Live Houston, TX - 7&#x2F;24&#x2F;04)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>John Mayer</td>
-      <td>As&#x2F;Is: Volume 3 (Live Houston, TX - 7&#x2F;24&#x2F;04)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/meuK1kO7yhHDTDB_mLaTxO98eUP0K6Vvi0S-3EeuxME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDk1/NDYtMTQ1NDU4MTYx/Mi01MDEwLmpwZWc.jpeg" alt="Cover for Live Volume 2 - Golden Gate Park, San Fransisco" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +710,24 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/62DsRROjmuHVP8GC-t-tIv_k671bVSFSBxR_A5MjApI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ2/OTk5LTE1MDM1NzEz/MTQtNDY5OS5qcGVn.jpeg" alt="Cover for As&#x2F;Is: Volume 3 (Live Houston, TX - 7&#x2F;24&#x2F;04)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>John Mayer</td>
+      <td>As&#x2F;Is: Volume 3 (Live Houston, TX - 7&#x2F;24&#x2F;04)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/DWO4e3Pgi_eHVVD5EM1AM23Dd7N1thGn55hGPiQopB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjA3/MjQtMTU5NzUwMTM5/NS04ODk1LmpwZWc.jpeg" alt="Cover for Live In Texas (Japan)" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +747,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/CLgBxvPQL0Po8nKCt6OM-Esip7CjrPmvjfTPZJALrpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA1/MzktMTI3MjM4Nzc2/MS5qcGVn.jpeg" alt="Cover for Free Larry Hoover Benefit Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +765,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004-02-10</td>
@@ -779,7 +782,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/Wvxvv5TcSUgyPhBgm6bu8N0XdkJuPuT9TIGEm-Jfplg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NjktMTM3OTU1MDU4/Ni02OTMxLmpwZWc.jpeg" alt="Cover for Heirs + Grievances" style="max-width:120px; height:auto;" />
       </td>
@@ -808,7 +811,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2004-07-13</td>
@@ -826,7 +829,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/aNFrtT1BC6KD7ZzXJHxZczJvkqag0OuzeeNV2bjSyRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTE2/My0xMTY1MzI5NTE2/LmdpZg.jpeg" alt="Cover for Orphan Tunes from the Mono Times" style="max-width:120px; height:auto;" />
       </td>
@@ -853,15 +856,15 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 25</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 73</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>93</td>
       <td>
-          <img src="https://i.discogs.com/Wz_oYoubF9Ps6xfHN8Y8o2cSinY5OdeQ2NqHksxd9p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjA4/NDEtMTM5OTIyMjI4/OC0xMjI4LmpwZWc.jpeg" alt="Cover for Futuresex&#x2F;Loveshow Live from Madison Square Garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33d202d86b804f358c220db843240784.png" alt="Cover for Futuresex&#x2F;Loveshow Live from Madison Square Garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Justin Timberlake</td>
@@ -877,7 +880,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/WIhU86f7KwJ6UHCq5-husHcW1LWRXsmPKWM7UUsIDJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/NjUtMTI4MjU4NzY0/My5qcGVn.jpeg" alt="Cover for Neverender - Good Apollo I&#39;m Burning Star IV, Vol. II - No Word for Tomorrow (Night IV)" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +897,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/WyyOfIisS2KTd7zG0CTS0g7nVhIp-rqJCQ_Ubb9g1Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MDgtMTI4MTgwNzE5/MS5qcGVn.jpeg" alt="Cover for Kingdom Of Comfort" style="max-width:120px; height:auto;" />
       </td>
@@ -912,9 +915,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/5Gq19u-YH7dTh1NFIklyAKzcpPTyoFZnOcA6Ku3lwZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzU3/NzEtMTUzNDkyNTgz/Ny05MzY1LmpwZWc.jpeg" alt="Cover for Hahnenkampf Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cc816885d9d4fbfb3430a8665de125c.png" alt="Cover for Hahnenkampf Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-13</td>
       <td>K.I.Z.</td>
@@ -934,15 +937,16 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 76</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 26</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/3tZCO52iG9kXEDNJ4RYtbLrsmwW6bIFoTolfMrBTkRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUz/MjEtMTQ4NjU4NzU2/OC0zNjQwLmpwZWc.jpeg" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de25a5d5efc4ba7e6d83e357a4b70ea.png" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Kreator</td>
@@ -957,12 +961,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 46</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/JBRuND_1gUzttAcVyTmTOCDiaOWSVJUQxJ_n9pXInZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/ODQtMTI4OTkzODQ4/Ni5qcGVn.jpeg" alt="Cover for Live At The Fillmore East" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +986,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/9B-Om4GJArQsfacS1ab240OBzkQBKh4t6AJz530a9Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzUz/MTAtMTQ3MjkwNDEy/NS01OTg1LmpwZWc.jpeg" alt="Cover for Discovery (Live in Rio 1994) [2021 Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,8 +1004,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6e4e7971b964a16994130de638949dd.png" alt="Cover for Kylie: Live in New York" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-15</td>
       <td>Kylie Minogue</td>
@@ -1019,7 +1024,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/eFqM31T5djc5pXrc50slJf54OhxJJzNZRFRx--_KLOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjEx/NzEtMTM3NjU2MDE5/OC03ODQ2LmpwZWc.jpeg" alt="Cover for No simili" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,9 +1048,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/riDsXv9or0ziLGsvyzJlsNlA8mKbrUiKFjhOCu-ZvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/MjUtMTMxNjIzMTg5/OS5qcGVn.jpeg" alt="Cover for The End: Live in Birmingham" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fbb90c729ebbac63f48b86442b63447.png" alt="Cover for The End: Live in Birmingham" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Black Sabbath</td>
@@ -1064,7 +1069,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-03-30</td>
@@ -1081,7 +1086,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/iE5xsa-WSRIxwqnJ1p-cU60IHhNy1FoZiN3NIvtx7Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE1/NTUtMTQ1NDc2MDE1/Mi01NDMyLmpwZWc.jpeg" alt="Cover for 2008-07-12 - Comcast Center" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1104,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Xn4fxPZF3N6EmNUUnofsj-B-t3naajX3Q4jgzYeTfMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkz/NTMtMTI0NTQ3OTEw/MC5qcGVn.jpeg" alt="Cover for Апельсин. Электричество" style="max-width:120px; height:auto;" />
       </td>
@@ -1118,9 +1123,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/tQ74iYphvMtRbirSNVquF1PM_AYBNoLtjS1-OJTzQ5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTc3/MC0xNjU4Mzc5MzE1/LTU0NDAuanBlZw.jpeg" alt="Cover for Aphrodite: Les Folies Tour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5a9a455a2c941e78bd9eac90cdd9269.png" alt="Cover for Aphrodite: Les Folies Tour" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07</td>
       <td>Kylie Minogue</td>
@@ -1137,7 +1142,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg" alt="Cover for 2008-08-02 - Cynthia Woods Mitchell Pavilion" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1160,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg" alt="Cover for As&#x2F;Is: Volume 4 (Cleveland &#x2F; Cincinnati, OH - 8&#x2F;03&#x2F;04-8&#x2F;04&#x2F;04)" style="max-width:120px; height:auto;" />
       </td>
@@ -1172,9 +1177,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/J4rMeptruZReUxUuD73a-NNIsKhX9IBXlVG_OHFSBjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTY3/NTEtMTQ4MDE5NDkz/MS0xMTUyLmpwZWc.jpeg" alt="Cover for Live in Switzerland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbad8332fdd0495fc961b39a01c5c839.png" alt="Cover for Live in Switzerland" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-22</td>
       <td>NoRMAhl</td>
@@ -1195,7 +1200,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/1fpfqf54GonMLm-3EM0NAXpC35rXhU-t0DCHKaVDg4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE2/NjUwLTE1MzQ4NTc3/MzYtNDkyNS5qcGVn.jpeg" alt="Cover for Live in Altona" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1220,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/6DI_chc6wpfFyTzFPoHbPkzcUFq9L1DdNUwvfTwho7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDAw/MzYtMTM0NDkwNjg5/OC03Mjk4LmpwZWc.jpeg" alt="Cover for As&#x2F;Is: Volume 5 (Live Philadelphia, PA&#x2F;Hartford, CT - 8&#x2F;14&#x2F;04-8&#x2F;15&#x2F;04)" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1237,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/nIkoGAHcpQSTGc-nOMWGSSE0fyWYGdBecpDXJzgvwjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA2/OTMtMTM0MDEyMDk5/Ny0zMzI5LmpwZWc.jpeg" alt="Cover for Our Darkest Days Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1251,9 +1256,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/_xUcfOoR_bduK8GNFz1UslCSTuchQBPXc2UZiuzvYuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ4/NzktMTQ1MTk1MjA3/Ni05Mjc2LmpwZWc.jpeg" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/877b6a11524f4017a7653b6344ac6a06.png" alt="Cover for Still Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-30</td>
       <td>American Standards</td>
@@ -1277,13 +1282,13 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 27</li>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 55</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg" alt="Cover for As&#x2F;Is: Volume 2 (Live @ Mountain View, CA - 7&#x2F;16&#x2F;04)" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1305,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35d929eb8ee942aba138569860a64a27.png" alt="Cover for Live at River Plate" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,12 +1319,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 87</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/ou-HZenLU-E_ElTc7yQ0WBb4x3vdKBbuVsFos9Ix3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDY3/MzItMTM2NjgyMzg2/Mi0yNjMwLmpwZWc.jpeg" alt="Cover for Caught In the Act: Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,7 +1344,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/jLgioDgyOy4V2-B4eYcDrUCGOESEK6ljmyiin6itxcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzQw/ODMzLTE2OTUyMTcx/NDAtMjIyNS5qcGVn.jpeg" alt="Cover for One Mile High...Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,7 +1362,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/b25mvWtmWEqLbOzqPRnWQoo6W3WLXvLwxXNwyq2Qjgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTAy/MjQtMTM3NjIyOTk2/My03MjI4LmpwZWc.jpeg" alt="Cover for As&#x2F;Is: Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1375,9 +1380,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/jrTuhEPmxiZO-R60IXf3CaGhEfFnc8qaAjHj4CKHCC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzQz/ODUtMTU5MjgzODIz/Ny0yMDgzLmpwZWc.jpeg" alt="Cover for Welcome to Chinatown: D.O.A. Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d453a14f6044e2c4a5223956a1516d.png" alt="Cover for Welcome to Chinatown: D.O.A. Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-27</td>
       <td>D.O.A.</td>
@@ -1392,34 +1397,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 76</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/OISCuJFde0Y87TN-yueRdnHmyDTRB0KjQ_n-Wr20rIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDY4/MDgtMTQxNjA4MjY5/OC00MzkxLmpwZWc.jpeg" alt="Cover for Metal Veins - Alive At Rock In Rio" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Sepultura &amp; Les Tambours du Bronx</td>
-      <td>Metal Veins - Alive At Rock In Rio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/wAc1HySLIZ5kRdFeF3cvlPucj1OUlyr0kCH3SAG-63Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI3/ODUtMTQyNDM0MDU5/NS05NDA1LmpwZWc.jpeg" alt="Cover for SUPERNOVA" style="max-width:120px; height:auto;" />
       </td>
@@ -1439,9 +1422,31 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/a4EKyYrQUUBb70NY1TYJIbXLrcE961h8oKRlNM6EXQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDE3/NTItMTQyOTEyNTQ2/Ny02ODczLmpwZWc.jpeg" alt="Cover for iKON JAPAN TOUR 2019" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0068a9ec20b4abbca848cd7fe05ec59.png" alt="Cover for Metal Veins - Alive At Rock In Rio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Sepultura &amp; Les Tambours du Bronx</td>
+      <td>Metal Veins - Alive At Rock In Rio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8877b3259e6523c291fd95877bd29bff.png" alt="Cover for iKON JAPAN TOUR 2019" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Ikon</td>
@@ -1461,7 +1466,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/w4PJKRGEXwfio1cuQmW_vmo_dyGL03V3Qw3f4ryoS8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/OTctMTQ2NDExMzYy/My04Mzc0LmpwZWc.jpeg" alt="Cover for Live In Woodstock Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -1478,14 +1483,14 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 37</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/X-vAqrq-7Yk_0zdoCOQ3OzOf7G8r3U1blxcpORGKT5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzk1/ODktMTQ3NjE3MjE5/NS0yMjA1LmpwZWc.jpeg" alt="Cover for Shelter Live" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef0a8022e1ca576a629084cde3612e2f.png" alt="Cover for Shelter Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-13</td>
       <td>Porter Robinson &amp; Madeon</td>
@@ -1505,7 +1510,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ncelLyI59s3OotHdkLd8yMSQTh8X9JkO_b1e76s5Fbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjU0/NzgtMTQ3NDE2NDAz/MC03MzQ1LmpwZWc.jpeg" alt="Cover for Ariana Grande: BBC Live In London" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1528,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Epre0eBR9ioMqOXkDP6zG4lTYjBW788Za0A8XF7QBOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODc2/NjYtMTQ3NjMxMzE4/Ni01Mzc2LmpwZWc.jpeg" alt="Cover for Neverender London" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1547,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/-1prdaBt1v7Ub5qkfqrUBMhZEgG4pjmWRyH_-P5Rntc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njg3/NjMtMTIzNTc0MDE3/MS5qcGVn.jpeg" alt="Cover for This House is not for Sale: Live from the London Palladium" style="max-width:120px; height:auto;" />
       </td>
@@ -1565,9 +1570,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/xZryDUPiiQx1_wa5dogcCqjixSYq8pgkAr99zI7QHgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE4/LTE2NzE5NjU4NTEt/NzUyOC5qcGVn.jpeg" alt="Cover for Water for Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfb9ba95b9750abb108a863c93e29dab.png" alt="Cover for Water for Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Jean Michel Jarre</td>
@@ -1589,32 +1594,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/w-Q4xPMZbqTD0P1PMHzKOtH5BCNGFEX4c5d4hcfnIzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIx/OTA1LTE1MDg0OTkz/MDMtNDMwOC5qcGVn.jpeg" alt="Cover for Day of the Gusano: Live in Mexico" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-10-06</td>
-      <td>Slipknot</td>
-      <td>Day of the Gusano: Live in Mexico</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/z0LU0kLfnBbYdet5e48tXRPGqsfufP8M7BbNWUjXF6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUx/Mjg0LTE2MTgxNDk0/MjMtNTgxMS5qcGVn.jpeg" alt="Cover for Gebäck in the Days - Live in Hamburg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15403ffa70b6c1cadb0f99125f3c577e.png" alt="Cover for Gebäck in the Days - Live in Hamburg" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-08</td>
       <td>Fettes Brot</td>
@@ -1630,13 +1612,13 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 53</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 51</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/2_aEWUFREOBb0re2wl8sQ7oJqyvn7bkeltP-N5TSEik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjcz/NTE5LTE2NDE3NjI0/NTAtODUwMy5qcGVn.jpeg" alt="Cover for The 2nd Concert Album &#x60;SHINee WORLD Ⅱ in Seoul&#x60;" style="max-width:120px; height:auto;" />
       </td>
@@ -1656,7 +1638,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/AyCN_HuIaYzpJtJSTugscSmru7Mt1lWus9FiNX6Bzug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MTk2LTE1ODYzMzk0/OTgtNjAwMy5qcGVn.jpeg" alt="Cover for Meine Damen und Herren (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,12 +1654,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 9</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/cBmp4cFjAwttrXV-tiiTKK7owFLZ7pTk_ZjcrWz4yoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUx/MTY5LTE1NTI5ODI0/ODUtMzc4NC5qcGVn.jpeg" alt="Cover for Joël Bons: Nomaden" style="max-width:120px; height:auto;" />
       </td>
@@ -1696,7 +1678,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/P0XgrLRR30eJN87hXQST9nqEZnj4GqMoVh9q_Hddxwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM0/NjE0LTE1ODA1NjQy/MjAtMTYzNC5qcGVn.jpeg" alt="Cover for Live at Ringkirche Wiesbaden" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1697,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/UW6_VmiU-XsQkMlVTS8qRWS0w3MFb4PxSWC0Il0HuRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk4/MDUtMTYwMDYxODMw/My05OTAwLmpwZWc.jpeg" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,12 +1712,12 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 60</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/976dd02153494209ac435d441ea2b3c7.png" alt="Cover for Coldplay Live 2003" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,9 +1735,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/HaESmF8HTn3I9BMlgDT27GcTupREl1FEQ9hOAaOD8AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc5/NDkyLTE1Nzk0NzE3/NzAtMzEyMC5qcGVn.jpeg" alt="Cover for Live @ 2010.10.24 Estadio Municipal de La Florida; Santiago, CL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f319661253f34b408f51a74144d87376.png" alt="Cover for Live @ 2010.10.24 Estadio Municipal de La Florida; Santiago, CL" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-03</td>
       <td>Green Day</td>
@@ -1770,7 +1752,7 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/WnxsNEGWtyMJXSmjRt7X42ZNI8qTejtLlGlKOMFKczo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM2/NTg2LTE1ODMzNTAx/NzUtNjk3Ni5qcGVn.jpeg" alt="Cover for Live at Dechenhöhle Iserlohn" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,29 +1771,34 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
-      <td>Volodja Balžalorsky</td>
-      <td>Live in Maribor</td>
+      <td>Castrobydidge</td>
+      <td>Castrobydidge</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 35</li>
-            <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
-            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
-            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 59</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -1841,34 +1828,183 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
-      <td>Castrobydidge</td>
-      <td>Castrobydidge</td>
+      <td>Volodja Balžalorsky</td>
+      <td>Live in Maribor</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 36</li>
+            <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>椎名林檎</td>
+      <td>Electric Mole</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sharareh</td>
+      <td>First Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Van Nispen t.P. Bros</td>
+      <td>Eindexamen Compositie Concert van Matthias van Nispen tot Pannerden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hipgnosis Polish band</td>
+      <td>Still Ummadelling (Live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Prahphet</td>
+      <td>Mixed Record</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 59</li>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>80</td>
+      <td>
+      </td>
+      <td></td>
+      <td>志方あきこ</td>
+      <td>志方あきこコンサート2009～Harmonia～ パンフレットCD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orchestra de Blonde</td>
+      <td>Twenty15</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Van Nispen t.P. Bros</td>
+      <td>Live Recordings Compilations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
       <td>
       </td>
       <td></td>
@@ -1892,152 +2028,16 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>100</td>
       <td>
       </td>
       <td></td>
-      <td>Van Nispen t.P. Bros</td>
-      <td>Live Recordings Compilations</td>
+      <td>Abracadaband</td>
+      <td>15 juillet 2005</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra de Blonde</td>
-      <td>Twenty15</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>志方あきこ</td>
-      <td>志方あきこコンサート2009～Harmonia～ パンフレットCD</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Prahphet</td>
-      <td>Mixed Record</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hipgnosis Polish band</td>
-      <td>Still Ummadelling (Live)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Van Nispen t.P. Bros</td>
-      <td>Eindexamen Compositie Concert van Matthias van Nispen tot Pannerden</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sharareh</td>
-      <td>First Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>椎名林檎</td>
-      <td>Electric Mole</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
         </ul>
       </td>
       <td>
@@ -2063,8 +2063,9 @@ The &quot;concert&quot; tag captures live performances recorded in front of audi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7eb4b40b1a418cb61ea060e96a8d0a.png" alt="Cover for Rock, Scissors, Gun" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Crocodile Mansion</td>

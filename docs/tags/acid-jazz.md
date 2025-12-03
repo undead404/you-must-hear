@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:51:40.380Z
+date: 2025-12-03T07:09:41.873Z
 permalink: tags/acid-jazz
 title: acid jazz
 ---
 
 ## acid jazz
 
-Last updated: <time datetime="2025-11-23T08:51:40.380Z">Sun Nov 23 2025 10:51:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:09:41.873Z">Wed Dec 03 2025 09:09:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 100</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 1</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 100</li>
         </ul>
       </td>
@@ -100,7 +100,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +195,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 68</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 33</li>
             <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 83</li>
         </ul>
       </td>
@@ -838,7 +838,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 40</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -919,7 +919,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 58</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -940,7 +940,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 59</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -982,8 +982,8 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 40</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 81</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 20</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1001,7 +1001,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 6</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1022,8 +1022,8 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 11</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
         </ul>
@@ -1081,7 +1081,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 32</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 34</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 87</li>
         </ul>
       </td>
@@ -1161,9 +1161,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 2</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 67</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 44</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
         </ul>
       </td>
@@ -1300,6 +1300,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/628799c10a4b4585954e61dd5430493e.png" alt="Cover for The Benevolent Volume Lurkings EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-31</td>
       <td>Xploding Plastix</td>
@@ -1333,9 +1334,9 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 27</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 37</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 66</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1407,7 +1408,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 56</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1550,8 +1551,8 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 52</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 76</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 25</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1572,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 99</li>
         </ul>
       </td>
@@ -1627,8 +1628,8 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 51</li>
             <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 66</li>
             <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 69</li>
-            <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 70</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 70</li>
+            <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1774,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 66</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1868,26 +1869,26 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1928,17 +1929,17 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 20</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
             <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2040,12 +2041,12 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 47</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2065,7 +2066,7 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 34</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2109,10 +2110,10 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 72</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 28</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 88</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 88</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 89</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2134,8 +2135,8 @@ Acid jazz is a music genre that combines elements of jazz, funk, soul, and disco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 35</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 51</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 53</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 67</li>
         </ul>
       </td>
     </tr>

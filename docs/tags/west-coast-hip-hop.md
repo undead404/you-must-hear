@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:56:07.777Z
+date: 2025-12-03T09:26:33.954Z
 permalink: tags/west-coast-hip-hop
 title: west coast hip hop
 ---
 
 ## west coast hip hop
 
-Last updated: <time datetime="2025-11-23T08:56:07.777Z">Sun Nov 23 2025 10:56:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:26:33.954Z">Wed Dec 03 2025 11:26:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 52</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -76,14 +76,14 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 92</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 93</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 46</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 23</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 40</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 97</li>
         </ul>
@@ -124,14 +124,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 23</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 70</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -145,15 +142,13 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>All Eyez on Me</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 27</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 94</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 29</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 60</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +172,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 35</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 50</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 80</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 94</li>
         </ul>
@@ -198,9 +193,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 19</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 31</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 35</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 54</li>
             <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 98</li>
         </ul>
       </td>
@@ -225,7 +220,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 49</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 65</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 94</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 99</li>
         </ul>
@@ -251,7 +246,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 56</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -270,7 +265,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 66</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -285,20 +280,14 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 14</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 46</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 94</li>
         </ul>
       </td>
@@ -319,7 +308,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 62</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -333,13 +322,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>Resurrection</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 65</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -407,8 +394,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 17</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 25</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -427,8 +414,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 12</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 21</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +445,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/u2pZCdWrC66VdSnI0D6Aw2U0hz78h3gyQTKJD8HIwwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk2/OC0xMjU2OTI3NDk1/LmpwZWc.jpeg" alt="Cover for Still I Rise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fbed5998aa649b8c942a13ad1c23a28.png" alt="Cover for Still I Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>2Pac</td>
@@ -472,7 +459,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 54</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +483,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 69</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -519,8 +506,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 53</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 54</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +530,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 47</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -561,14 +548,14 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 34</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/nuR-bMm_DkqCt_4e15YgDVU9OtyaBPTT9T5t3VSdxhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQz/ODQtMTQxMTA1NDcy/MC0zOTEzLmpwZWc.jpeg" alt="Cover for Straight Outta Compton: 20th Anniversary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db7480f470574586b35102db4cf2923c.png" alt="Cover for Straight Outta Compton: 20th Anniversary" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>N.W.A</td>
@@ -582,7 +569,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 66</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +592,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 50</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +612,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 42</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +668,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -698,9 +685,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 23</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -714,13 +701,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>EARL</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 90</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -779,8 +764,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 62</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 64</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -797,11 +782,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 47</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 84</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 65</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -821,8 +806,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
         <ul>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 93</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 99</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -840,14 +825,15 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 24</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38e992ae27de4a0ba2e2da501e29a668.png" alt="Cover for The OF Tape, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-20</td>
       <td>OFWGKTA</td>
@@ -858,7 +844,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -913,6 +899,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 99</li>
             <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 100</li>
         </ul>
@@ -951,7 +938,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +956,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -987,10 +974,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 1</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 22</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 92</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 18</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 45</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1008,9 +995,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 50</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 64</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1027,10 +1014,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 60</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 58</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 61</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1048,9 +1036,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 26</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 33</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1068,10 +1056,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 46</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 59</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 35</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 54</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 62</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1089,12 +1077,12 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 85</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 86</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 93</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1112,13 +1100,15 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 37</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 49</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 32</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 49</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 59</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 69</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 70</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1126,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 74</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 100</li>
         </ul>
       </td>
@@ -1151,16 +1141,13 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>Summertime &#39;06</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 87</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 56</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1203,8 +1190,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 21</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1209,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1240,10 +1227,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 3</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 23</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 24</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 45</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1248,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 4</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1282,11 +1269,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 25</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1304,11 +1291,11 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 2</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 94</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1326,14 +1313,14 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 38</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
         </ul>
       </td>
@@ -1373,7 +1360,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 39</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1391,10 +1378,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 81</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1420,12 +1407,12 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 98</li>
             <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
         </ul>
       </td>
@@ -1461,7 +1448,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1469,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 50</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1504,6 +1491,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1529,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1566,10 +1554,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 41</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 78</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 55</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 80</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1587,7 +1575,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1608,7 +1596,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 13</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1626,8 +1614,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 29</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 71</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1646,8 +1634,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 34</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1669,8 +1657,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 30</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1678,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 63</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1711,8 +1700,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 91</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1735,9 +1724,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 47</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1745,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 31</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1774,8 +1763,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 53</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1793,6 +1782,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 14</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1804,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 79</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 22</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
             <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 100</li>
@@ -1836,9 +1827,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 40</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 88</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 13</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 64</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1850,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 53</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1869,27 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c50b8fb0d6073befc75e62e3aa938cf.png" alt="Cover for SATURATION II" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>BROCKHAMPTON</td>
+      <td>SATURATION II</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1896,7 +1907,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1927,7 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 7</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1934,14 +1946,14 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 72</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874304f6869f3db52ad965650ed5b85d.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d769a0d403484d2398120a22a2a29e.png" alt="Cover for Cherry Bomb" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tyler, The Creator</td>
@@ -1952,9 +1964,29 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 37</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b683926780c7e257ca46098232bd7574.png" alt="Cover for Attention" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Doja Cat</td>
+      <td>Attention</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +2004,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1990,8 +2023,9 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 15</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2009,7 +2043,10 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2028,7 +2065,8 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2043,23 +2081,6 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c50b8fb0d6073befc75e62e3aa938cf.png" alt="Cover for SATURATION II" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>BROCKHAMPTON</td>
-      <td>SATURATION II</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -2084,23 +2105,6 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b683926780c7e257ca46098232bd7574.png" alt="Cover for Attention" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Doja Cat</td>
-      <td>Attention</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2114,5 +2118,5 @@ West Coast hip hop is a subgenre of hip hop music that originated in the western
 - [california]({{ "/tags/california" | relative_url }})
 - [experimental hip hop]({{ "/tags/experimental-hip-hop" | relative_url }})
 - [hardcore hip hop]({{ "/tags/hardcore-hip-hop" | relative_url }})
-- [sampling]({{ "/tags/sampling" | relative_url }})
 - [conscious hip hop]({{ "/tags/conscious-hip-hop" | relative_url }})
+- [sampling]({{ "/tags/sampling" | relative_url }})

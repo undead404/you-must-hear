@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:47:19.589Z
+date: 2025-12-03T07:13:05.995Z
 permalink: tags/traditional
 title: traditional
 ---
 
 ## traditional
 
-Last updated: <time datetime="2025-11-14T01:47:19.589Z">Fri Nov 14 2025 03:47:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:13:05.995Z">Wed Dec 03 2025 09:13:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/633bb8422261b4be26c33ffa5a29fb1d.png" alt="Cover for Frankly Sentimental" style="max-width:120px; height:auto;" />
       </td>
       <td>1949-06-20</td>
       <td>Frank Sinatra</td>
@@ -47,7 +48,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 48</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +71,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 32</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -97,7 +98,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 80</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +170,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 30</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 54</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 53</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
@@ -193,7 +194,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 82</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +212,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 47</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +257,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 23</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +299,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 61</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +436,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 76</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +479,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -520,18 +521,19 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aca54e47730344b72b4fbb0b436eb9f.png" alt="Cover for Blue Bayou" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Linda Ronstadt</td>
@@ -557,7 +559,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 80</li>
         </ul>
       </td>
@@ -744,8 +746,8 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 13</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 83</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 18</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +770,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +794,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 54</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +875,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 74</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 86</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1024,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 81</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1127,8 +1129,8 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
         </ul>
@@ -1205,7 +1207,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 89</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1248,7 +1250,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 44</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 57</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 90</li>
         </ul>
       </td>
@@ -1341,9 +1343,9 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 46</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 52</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 91</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 48</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 54</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1384,11 +1386,11 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 13</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 26</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 24</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 27</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 76</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1428,15 +1430,15 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 11</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 44</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 64</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 80</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1459,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 34</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1480,7 +1482,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 8</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 9</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 95</li>
         </ul>
       </td>
@@ -1597,7 +1599,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1654,8 +1656,8 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 45</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 59</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 54</li>
             <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 62</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 63</li>
         </ul>
@@ -1664,6 +1666,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Phase</td>
@@ -1702,17 +1705,17 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 35</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 74</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
@@ -1820,8 +1823,8 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 53</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 57</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 44</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1848,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 42</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1891,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 42</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1968,7 +1971,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 35</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
         </ul>
@@ -1994,7 +1997,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 4</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
@@ -2044,7 +2047,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
@@ -2072,7 +2075,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 18</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 47</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 46</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
@@ -2099,7 +2102,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 27</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 52</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 51</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
@@ -2126,7 +2129,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 59</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
@@ -2223,7 +2226,7 @@ Traditional music encompasses culturally rooted sounds passed down through gener
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 11</li>
             <li> <a href="{{ "/tags/fingerstyle-guitar" | relative_url }}">fingerstyle guitar</a> # 98</li>
         </ul>
       </td>
@@ -2346,8 +2349,8 @@ Traditional music encompasses culturally rooted sounds passed down through gener
 
 - [folk]({{ "/tags/folk" | relative_url }})
 - [world]({{ "/tags/world" | relative_url }})
-- [ethno]({{ "/tags/ethno" | relative_url }})
 - [persian]({{ "/tags/persian" | relative_url }})
+- [ethno]({{ "/tags/ethno" | relative_url }})
 - [iranian]({{ "/tags/iranian" | relative_url }})
 - [iran]({{ "/tags/iran" | relative_url }})
 - [farsi]({{ "/tags/farsi" | relative_url }})

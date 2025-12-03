@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:51:15.851Z
+date: 2025-12-03T07:08:18.735Z
 permalink: tags/pop-soul
 title: pop soul
 ---
 
 ## pop soul
 
-Last updated: <time datetime="2025-11-23T08:51:15.851Z">Sun Nov 23 2025 10:51:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:08:18.735Z">Wed Dec 03 2025 09:08:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +176,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -265,8 +265,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 43</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 94</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 13</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -285,8 +285,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 35</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -305,7 +305,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 23</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +473,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 28</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 3</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -584,7 +585,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 1</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -603,15 +604,15 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 5</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 9</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 6</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/-HyJ_MqXjdHxgIRj3RVODM9KjiE9p4VPOQuEipEaEpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzEz/NzAtMTU4ODYxNDYy/NS04NjM4LmpwZWc.jpeg" alt="Cover for Sol-Angel &amp; the Hadley St. Dreams (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a813e3bfbd220a9a80518ac984369e.png" alt="Cover for Sol-Angel &amp; the Hadley St. Dreams (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Solange</td>
@@ -648,12 +649,12 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 25</li>
             <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -667,9 +668,6 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       <td>Incondicional</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
         </ul>
       </td>
       <td>
@@ -729,8 +727,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 15</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 90</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 87</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -814,8 +812,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 6</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 66</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +831,6 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +853,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 86</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -888,9 +885,6 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       <td>Queen of Disaster</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
         </ul>
       </td>
       <td>
@@ -913,8 +907,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 2</li>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 99</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
         </ul>
       </td>
@@ -933,9 +927,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 37</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -991,13 +983,14 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 66</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb215c83ed0d1220193ffdc27ac066f0.png" alt="Cover for Strange Little Bird EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-16</td>
       <td>Chløë Black</td>
@@ -1107,8 +1100,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 84</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 85</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 82</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1132,10 +1125,10 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 53</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 82</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 81</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 90</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
         </ul>
       </td>
@@ -1195,9 +1188,9 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 23</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 52</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 74</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1228,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 94</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1282,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 43</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1301,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 47</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1689,8 +1682,6 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 27</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 73</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 96</li>
         </ul>
       </td>
@@ -1711,10 +1702,10 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 24</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 26</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1732,7 +1723,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1761,7 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 52</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1779,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1844,9 +1835,9 @@ Pop soul blends the catchy melodies and polished production of pop music with th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 85</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 94</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 97</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 16</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 41</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2066,8 +2057,8 @@ Pop soul blends the catchy melodies and polished production of pop music with th
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [alternative pop]({{ "/tags/alternative-pop" | relative_url }})
 - [pop rap]({{ "/tags/pop-rap" | relative_url }})
-- [indie pop]({{ "/tags/indie-pop" | relative_url }})
 - [soul]({{ "/tags/soul" | relative_url }})
+- [indie pop]({{ "/tags/indie-pop" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
 - [alternative rap]({{ "/tags/alternative-rap" | relative_url }})
 - [emo rap]({{ "/tags/emo-rap" | relative_url }})

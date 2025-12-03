@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:51:29.380Z
+date: 2025-12-03T07:12:59.964Z
 permalink: tags/funky-house
 title: funky house
 ---
 
 ## funky house
 
-Last updated: <time datetime="2025-11-17T05:51:29.380Z">Mon Nov 17 2025 07:51:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:12:59.964Z">Wed Dec 03 2025 09:12:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -55,7 +55,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 45</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -87,8 +87,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 35</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 53</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -179,9 +179,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 76</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 17</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 25</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 71</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 74</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -259,7 +259,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 71</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 99</li>
         </ul>
       </td>
@@ -326,10 +326,10 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 17</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 41</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 60</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -391,11 +391,12 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 61</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 11</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 16</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -611,7 +612,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 16</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 88</li>
         </ul>
@@ -695,7 +696,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +767,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 21</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -785,7 +786,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 72</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -882,8 +883,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 36</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 80</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +911,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 55</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -950,9 +951,10 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 24</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 22</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 27</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1008,9 +1010,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 46</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 55</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1044,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 54</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 47</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 66</li>
         </ul>
       </td>
@@ -1115,8 +1117,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 33</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 30</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1149,8 +1151,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 38</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 20</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 40</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
         </ul>
       </td>
@@ -1196,7 +1198,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 46</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1248,8 +1250,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 75</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 93</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 25</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 97</li>
         </ul>
       </td>
@@ -1306,7 +1308,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 52</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1368,8 +1370,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 2</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 28</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 49</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 52</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1411,10 +1413,10 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 45</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 48</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
@@ -1461,7 +1463,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 38</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1549,11 +1551,11 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 6</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 49</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1594,16 +1596,17 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 61</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1638,9 +1641,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 15</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 69</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 32</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1671,8 +1674,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 33</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 81</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 20</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1713,10 +1716,10 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 30</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 44</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1753,9 +1756,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 40</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 67</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
         </ul>
       </td>
@@ -1816,9 +1819,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 53</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 89</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 52</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 78</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1843,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 60</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1863,7 +1866,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 78</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1928,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 1</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1943,8 +1946,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 33</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 87</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2002,9 +2004,9 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 43</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 57</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 58</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2034,7 +2036,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 37</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 38</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 84</li>
         </ul>
       </td>
@@ -2077,7 +2079,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 87</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 92</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 92</li>
         </ul>
       </td>
@@ -2145,7 +2147,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 65</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2175,8 +2177,8 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 39</li>
             <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 58</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 62</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 67</li>
         </ul>
       </td>
@@ -2353,7 +2355,7 @@ Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 49</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 50</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 91</li>
         </ul>
       </td>

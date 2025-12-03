@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:51:42.627Z
+date: 2025-12-03T07:11:10.607Z
 permalink: tags/digicore
 title: digicore
 ---
 
 ## digicore
 
-Last updated: <time datetime="2025-11-24T14:51:42.627Z">Mon Nov 24 2025 16:51:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:11:10.607Z">Wed Dec 03 2025 09:11:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -199,9 +199,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 56</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 67</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 61</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 59</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 60</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
         </ul>
       </td>
@@ -269,8 +269,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 54</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -350,8 +350,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 31</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 40</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 67</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +438,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 49</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 52</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 87</li>
         </ul>
       </td>
@@ -484,7 +484,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 36</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -527,9 +527,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 69</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -587,12 +587,12 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 18</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 48</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 82</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 83</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -682,9 +682,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 46</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 52</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 66</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 47</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +706,6 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 19</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 96</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -764,8 +763,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 20</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -787,9 +786,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 80</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 90</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -815,7 +814,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 47</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 74</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 87</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 88</li>
@@ -855,7 +854,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 85</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -901,10 +900,10 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 28</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 86</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 94</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 88</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +922,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +948,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 34</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +967,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1083,7 +1082,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 68</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1103,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 99</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1168,8 +1167,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 38</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1190,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 33</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1290,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 88</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1329,8 +1328,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 65</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1371,7 +1370,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 74</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 75</li>
         </ul>
       </td>
@@ -1421,10 +1420,10 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 18</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 72</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 81</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1553,10 +1552,8 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 33</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 85</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 88</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1614,7 +1611,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 52</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 100</li>
         </ul>
       </td>
@@ -1635,7 +1632,7 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 47</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1720,9 +1717,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 64</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 68</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1767,9 +1764,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
             <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 75</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 94</li>
         </ul>
       </td>
@@ -1808,9 +1805,9 @@ Digicore is an extremely online genre blending hyperpop&#39;s distorted vocals a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 22</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 30</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 56</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 57</li>
         </ul>
       </td>
     </tr>

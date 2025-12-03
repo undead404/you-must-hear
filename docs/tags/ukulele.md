@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:40:24.327Z
+date: 2025-12-03T07:12:21.340Z
 permalink: tags/ukulele
 title: ukulele
 ---
 
 ## ukulele
 
-Last updated: <time datetime="2025-10-28T06:40:24.327Z">Tue Oct 28 2025 08:40:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:12:21.340Z">Wed Dec 03 2025 09:12:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/89DkbPZi_VuDoJDBq4qBXFPwTIUGhZzOMrpuMIqYhQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQw/MzctMTU4MDI4MTEw/NS00Nzg1LmpwZWc.jpeg" alt="Cover for Likelike Highway" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/420ebdb251024ebbceb1f230f350cdb4.png" alt="Cover for Likelike Highway" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Jontom</td>
@@ -52,7 +52,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/ZwHCqFV2mi4HAH_m5gDD5VZt-2XWhNbCZ07uKSAkzN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzUx/Ni0xMTMxOTU0ODIz/LmpwZWc.jpeg" alt="Cover for For All My Little Friends" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e01abd1ca15fe2996ff9f5c0411fb86.png" alt="Cover for For All My Little Friends" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Tiny Tim</td>
@@ -110,7 +110,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/HpJiFUXxOslKNIQcLwJ8C7L5EnTd_Gg1HJV-8pLr24s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTM5/ODItMTM1MjM1NDE3/My0xMDA5LmpwZWc.jpeg" alt="Cover for Girl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/603ab9489900cfdd52e3e9ba416d2667.png" alt="Cover for Girl" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Tiny Tim</td>
@@ -146,7 +146,6 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/ZvgCveSFXnzrQ6Zu0-05avcVICxhZGLKJ1TR7Z47nZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzIx/MzEtMTQyNTU0Nzkx/OS01NzM4LmpwZWc.jpeg" alt="Cover for Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>George Formby</td>
@@ -588,7 +587,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 28</li>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 29</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -614,6 +613,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ce237b86b5f6c4e7d6bf62dcba71f4.png" alt="Cover for Feztastic" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-18</td>
       <td>Big Al Davies</td>
@@ -656,7 +656,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/bUDVmdWc73ZOTttVqmB6_hQPz6_8-jj3XvyF8q-Roho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYy/ODM2LTE0OTYwNDcw/MjctMjE0OS5qcGVn.jpeg" alt="Cover for Idiot Strings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f1b3a324d8044f08154736d12b1c88d.png" alt="Cover for Idiot Strings" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-19</td>
       <td>Carmaig de Forest</td>
@@ -752,7 +752,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 37</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +837,6 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Sd_0du72k_wtli9Qnwsg8xmeev_yCnFlMAfFleAP6d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk4/MDMtMTU1Mzc5ODc1/Ny0zODc4LmpwZWc.jpeg" alt="Cover for The String Family" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Israel Kamakawiwo&#39;ole</td>
@@ -877,6 +876,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20555720e16047d69ac05fe8bb2652f2.png" alt="Cover for Bird and Whale" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Rosie and Me</td>
@@ -891,14 +891,14 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 49</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/DQrFJDLc5DsqTUflyzP-mD6UJYWWXYU7DyHV4nllzbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDYx/ODItMTQ1OTc5OTgx/OS02NDMzLmpwZWc.jpeg" alt="Cover for Petits Thèmes #2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc9e6ccb00ce4dc19b896b9963087143.png" alt="Cover for Petits Thèmes #2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-15</td>
       <td>Carton Sonore</td>
@@ -920,6 +920,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991c117f2b684fcf803eb748ce71e0bb.png" alt="Cover for Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-20</td>
       <td>Amanda Palmer</td>
@@ -938,7 +939,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/-T-lc9C2I9--RiSg6utoFNPuP0-sWiJ3DC5Na8tHJ9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTIx/NjItMTMyNTI1ODI0/Ny5qcGVn.jpeg" alt="Cover for The Bleak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48d7cc3c477545d3bc738e37a3714dfe.png" alt="Cover for The Bleak" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-06</td>
       <td>Trippy Wicked &amp; the Cosmic Children of the Knight</td>
@@ -980,7 +981,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/890w6rsOgAyu-ROHC17DOQjjzTTtPY2tsep1Bp_stjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njkx/MzQtMTQ4NDQ5MDk0/My04MzI4LmpwZWc.jpeg" alt="Cover for Dream a Little Dream of Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97c177be8dd8b6ba65d7c5efacda662d.png" alt="Cover for Dream a Little Dream of Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-09</td>
       <td>Handsome and Gretyl</td>
@@ -1000,7 +1001,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/vyMcaBGDGfpt4LHV5HWeMdeapnIEakZPE_soS-PHxcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE0/MzYtMTQ0OTcyMzA3/Mi0zNjIzLmpwZWc.jpeg" alt="Cover for Ukulele Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80c72d4bcf064c2a8b0ce6039da89f1d.png" alt="Cover for Ukulele Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-26</td>
       <td>Eddie Vedder</td>
@@ -1051,7 +1052,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 39</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1097,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/mjgZsMDgYzZNat0LTGjDqe0cI-l7cbHP-hO9mKOqP28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjYw/MjEtMTQyOTY1MDc1/MC01NTY4LmpwZWc.jpeg" alt="Cover for Dreams in the Moonlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65bf480d1c048ab907ff3797fd02fef.png" alt="Cover for Dreams in the Moonlight" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-17</td>
       <td>Norman Wall</td>
@@ -1135,7 +1136,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/i7POIEwZ1fiA-o6om57i2cjzR-ThvufyWmIEiH7_MNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDA2/NjQtMTQ3NjU0ODMy/Ni00NDQwLmpwZWc.jpeg" alt="Cover for Faulty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aeb2274056834f1a860eed152fc7244e.png" alt="Cover for Faulty" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-03</td>
       <td>The Scapegoat</td>
@@ -1154,7 +1155,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/5CeY185yfX43ic1FAzkOxZdoiTRLfcqiM1e56IaDtXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzA1/NDUtMTQ0NjM4NDk5/OS0zMTQxLmpwZWc.jpeg" alt="Cover for Music Covers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f7408550d055e64217c092f71fd639.png" alt="Cover for Music Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-31</td>
       <td>Krapo</td>
@@ -1271,7 +1272,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/OXK_dAmc7aLnZVqt3-d1fc_0rBZE9yWLdHh6wtnNPro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIw/NzgzLTE2MjU3NTQ0/MDgtMzUyOS5qcGVn.jpeg" alt="Cover for Mangos For Breakfast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aa2f71e21d2d0c8b1ec4676120c1559.png" alt="Cover for Mangos For Breakfast" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-31</td>
       <td>Kevin Paris</td>
@@ -1318,7 +1319,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/GESC98yD0j9Vxum6J3y91RLgowFdSgJxyZemLRVr8s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY0/MTY2LTE1NjA2MjIx/MjItMTMyNC5qcGVn.jpeg" alt="Cover for A qualcuno piace piccolo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb4103833ba7e1a8d72907fa72480af9.png" alt="Cover for A qualcuno piace piccolo" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Youkus</td>
@@ -1359,7 +1360,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/DU9S8ys92OSmFr009n7_Urgp8ICdDOifKLqX7ULL_gQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/NjQ5LTE1NzIzOTYx/MjQtOTg1Mi5wbmc.jpeg" alt="Cover for Project 52 Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48fa90607c1f428e8a63feab504a4c5c.png" alt="Cover for Project 52 Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Daniel Michael</td>
@@ -1497,8 +1498,8 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 30</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 37</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 64</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1523,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 43</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1548,6 +1549,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd402903487943c96ae7ed7695652d5e.png" alt="Cover for Por Outras Mentes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ives Lamego</td>
@@ -1800,6 +1802,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44dbd94bd7ef4f7d8e0adf69ae4a6b28.png" alt="Cover for Stay Asleep" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Minor Constellations</td>
@@ -1863,6 +1866,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72222f53b71c4be8b7017fca3692069e.png" alt="Cover for It&#39;s Somebody&#39;s Birthday" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ronnie Hock</td>
@@ -1884,6 +1888,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5a6fc52c609105aabceb219edd44256.png" alt="Cover for ON THE ROAD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>平井大</td>
@@ -1957,6 +1962,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08c9f4c0c17ac5fb2b5a7f4f7dc35bd3.png" alt="Cover for Q Japan &#x2F;Unseasonable Flowering" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Q Japan</td>
@@ -1981,6 +1987,7 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df7dba62bb599b09577f2601b3fa011a.png" alt="Cover for Solo Congress" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Peter Alamoo</td>
@@ -2012,8 +2019,8 @@ The ukulele tag encompasses music featuring the bright, cheerful sound of this s
 - [folk]({{ "/tags/folk" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [lo-fi]({{ "/tags/lo-fi" | relative_url }})

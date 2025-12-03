@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T01:54:42.860Z
+date: 2025-12-03T06:55:58.307Z
 permalink: tags/eurovision
 title: eurovision
 ---
 
 ## eurovision
 
-Last updated: <time datetime="2025-10-20T01:54:42.860Z">Mon Oct 20 2025 04:54:42 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:55:58.307Z">Wed Dec 03 2025 08:55:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -87,6 +87,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed45fef4f1b4dd79bfa2db1f6791123.png" alt="Cover for Ruth Jacott" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ruth Jacott</td>
@@ -127,7 +128,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/muhJkminfQI-rzT_xpHGh5BdaBKDTc0IvU55gfAanZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTMy/Ny0xNjE3OTk1NTgy/LTk0MjguanBlZw.jpeg" alt="Cover for Dotyk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a2cfdd59b1d468d94a11c29148df753.png" alt="Cover for Dotyk" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-05-08</td>
       <td>Edyta Górniak</td>
@@ -140,7 +141,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 43</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +179,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 51</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -260,7 +261,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/c9R3qTY78wnkr4d0cO6HOJ3CtrliskbU5sF7tvrv190/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/MzA0LTE0OTc1Mjgz/MzUtNzc2MC5qcGVn.jpeg" alt="Cover for Luces y Sombras" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea9c46461120b586dec6f53e1387dab2.png" alt="Cover for Luces y Sombras" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Soraya</td>
@@ -275,14 +276,14 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 60</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/sZMZiLUFTyWqqAgsQh0251Bbd-8ueMzuKNRvf8jEe8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc2/MTEtMTI5OTIzNzkz/MS5qcGVn.jpeg" alt="Cover for Qué Bonito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3c681bd916b4d7fba44a1c3e2ae91b.png" alt="Cover for Qué Bonito" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Soraya</td>
@@ -298,7 +299,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 63</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -414,6 +415,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/093efdeac7d55b1ba6176ec68f95632f.png" alt="Cover for My Number One" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-25</td>
       <td>Helena Paparizou</td>
@@ -556,9 +558,9 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 52</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 91</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 48</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +604,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Eurovision Song Contest - Athens 2006" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ceb4072c91f4dad956e065df574efc8.png" alt="Cover for Eurovision Song Contest - Athens 2006" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -637,19 +639,18 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e10ec0acbb40840a05d2aa799045393.png" alt="Cover for Fairytale" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-12</td>
       <td>Alexander Rybak</td>
       <td>Fairytale</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 100</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -731,14 +732,13 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31c5c90cf320468eb89c1e9f894e6a9b.png" alt="Cover for Fairytales" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>Alexander Rybak</td>
       <td>Fairytales</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -749,7 +749,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/bYdscVAJ-fv_GJJeOCyM-pmPErImb2_7or_bLd-o-XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODE1/NzctMTU3MTA2NzY2/OC0yMzc0LmpwZWc.jpeg" alt="Cover for It&#39;s All About You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d0a5db1cb31433f811d0463e0572c4d.png" alt="Cover for It&#39;s All About You" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Juliana Pasha</td>
@@ -804,7 +804,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/xK_wwMInZxhr1DwsqhmOALFHLB6QBSH7sElKEXuFsw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU3/OTEtMTI4NTU5NDM3/Ni5qcGVn.jpeg" alt="Cover for Je Ne Sais Quoi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3053cc2c49f51223d78711bf3bc67375.png" alt="Cover for Je Ne Sais Quoi" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Hera Björk</td>
@@ -840,7 +840,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/YybBg7fgTF8-XbvOCrqVLNW9ycsfbewf2JK50XME84s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc3/MDUtMTY0MjM4Mzk0/OC00OTI4LmpwZWc.jpeg" alt="Cover for Fake Is The New Dope" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/681f9cc121bb99a37acf937ae3ab9d20.png" alt="Cover for Fake Is The New Dope" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11</td>
       <td>Hooverphonic</td>
@@ -857,7 +857,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 63</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +877,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 83</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -897,14 +897,14 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 72</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/VjFR0jWhEyR4ETdCL_b5ZG0WVjYcADUmDL5UjXmL2Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjUy/NTYtMTQyODI3NDM4/My0xMDQ1LmpwZWc.jpeg" alt="Cover for Get You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f54cbb3a38921697c31908d9a43ebc.png" alt="Cover for Get You" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Алексей Воробьёв</td>
@@ -1096,20 +1096,17 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/724fda5367764ab99820693bda904519.png" alt="Cover for Heal" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-22</td>
       <td>Loreen</td>
       <td>Heal</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1149,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/rwX3101rwRdMDthVph4NW_Nxx1AJU8tgaQnfz8xyDM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ4/Mzc0LTE2MTYzNDgx/MzYtOTM4MC5qcGVn.jpeg" alt="Cover for Wonderland (Korean Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ccc1ad430095376a2d2a2f1f78c8276.png" alt="Cover for Wonderland (Korean Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Alexa</td>
@@ -1206,7 +1203,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/66Fu5lIRPOgp51ZX78MidxY0MtVh0vTQwJad1n-X3iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTg1/ODItMTM5MDQyMTYz/MS05NDQxLmpwZWc.jpeg" alt="Cover for Ljubav Je Svuda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d7fab8a5c08412891c716b7a96cdd96.png" alt="Cover for Ljubav Je Svuda" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-04</td>
       <td>Moje 3</td>
@@ -1238,7 +1235,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 41</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1280,6 +1277,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0209439e56c8495db645f0c109224df9.png" alt="Cover for I Feed You My Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-12</td>
       <td>Margaret Berger</td>
@@ -1299,7 +1297,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/StLQ1vQWWWVcmFkbfRZ3SjLl2po8pFu1ZaGED0Gt9RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzU5/OTUtMTQxNDQxOTc5/MS0yNjM5LmpwZWc.jpeg" alt="Cover for Planeta Azul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e086f593c7dc4230c24e4dcc4d8e010f.png" alt="Cover for Planeta Azul" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Ruth Lorenzo</td>
@@ -1367,7 +1365,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 93</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1390,7 +1388,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 88</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 89</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 99</li>
         </ul>
       </td>
@@ -1418,7 +1416,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/esTFeGH0BXqqOb0T-qDexYAcmCQGTc-pUEqhaMN7kqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzMz/NDEtMTQ2NDQ0NTAy/My05MjM0LmpwZWc.jpeg" alt="Cover for Sound of Silence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c63bf05bbe2a27f9e2ccd3602b29244b.png" alt="Cover for Sound of Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-01</td>
       <td>Dami Im</td>
@@ -1432,14 +1430,14 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 22</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/uaD26F8FAMDPRF8qcMmHCZKYe-I__wJ3-4cofiDaapI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjAw/NDE4LTE1MTI3ODk5/NjItODY2Ny5qcGVn.jpeg" alt="Cover for Magellano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3196ca0592351bd07e615509b6e4052b.png" alt="Cover for Magellano" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Francesco Gabbani</td>
@@ -1462,7 +1460,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/cdoGVmaV31gK9thvaVrmsFcrh09PrSEDEeg78PvO9nY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDYz/NzEtMTQ5Mjk3NTcz/Ni0yMTUyLmpwZWc.jpeg" alt="Cover for Occidentali&#39;s Karma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ac8d0888a50f2cf2a6dbee7b7fa2a78.png" alt="Cover for Occidentali&#39;s Karma" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Francesco Gabbani</td>
@@ -1575,7 +1573,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/w-SH0AI1oPl51qYAKB4bA7dvZQAZ3PtQ6Y9G150MG5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAz/NDg2LTE1Mzg0MTcz/NjAtNTQ0Mi5qcGVn.jpeg" alt="Cover for Identification" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb3ebb29b49fc04d76500fba54c42ed.png" alt="Cover for Identification" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Benjamin Ingrosso</td>
@@ -1612,7 +1610,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/W9H6q4eKyxEWrWCK_bDK00mQwzfMowY0A224nDJxsPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU5/Mzg5LTE1ODc0NTky/NDgtNDYzMy5qcGVn.jpeg" alt="Cover for Sentimentai" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fb78d0fe485a9cf3707adaec99f9ce3.png" alt="Cover for Sentimentai" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-20</td>
       <td>Monika Liu</td>
@@ -1663,7 +1661,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1699,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 45</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1776,7 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WgiCvf8UpakpkHrdF6GCz8Oi8TVFbcvPXwwcLNzVKNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjIx/NDItMTU2OTQwOTQ5/OS00NDc5LmpwZWc.jpeg" alt="Cover for Tattoo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aad0e34e89f8d83b9cb8b93a5e344fac.png" alt="Cover for Tattoo" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-25</td>
       <td>Loreen</td>
@@ -1792,8 +1790,8 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 97</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 70</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1812,13 +1810,14 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 23</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb1ea01310e479472918a6e6cacebb41.png" alt="Cover for Dance Alone" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jana Burčeska</td>
@@ -1834,26 +1833,6 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       <td>
         <ul>
             <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>
-      </td>
-      <td></td>
-      <td>LUM!X</td>
-      <td>Halo (feat. PIA MARIA)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1893,25 +1872,6 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0a7722a6790d7e3d4c92800ef8daa60.png" alt="Cover for The Singles (The First Fifty Years)" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>ABBA</td>
-      <td>The Singles (The First Fifty Years)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>98</td>
       <td>
       </td>
@@ -1921,6 +1881,40 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0a7722a6790d7e3d4c92800ef8daa60.png" alt="Cover for The Singles (The First Fifty Years)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>ABBA</td>
+      <td>The Singles (The First Fifty Years)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ce2f0cad9c2a2de68ab9f6bb520cd6d.png" alt="Cover for Halo (feat. PIA MARIA)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>LUM!X</td>
+      <td>Halo (feat. PIA MARIA)</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1940,6 +1934,6 @@ Eurovision is a theatrical pop music style originating from Europe&#39;s annual 
 - [spanish]({{ "/tags/spanish" | relative_url }})
 - [spain]({{ "/tags/spain" | relative_url }})
 - [russian]({{ "/tags/russian" | relative_url }})
-- [electropop]({{ "/tags/electropop" | relative_url }})
 - [russia]({{ "/tags/russia" | relative_url }})
+- [electropop]({{ "/tags/electropop" | relative_url }})
 - [switzerland]({{ "/tags/switzerland" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:38:09.967Z
+date: 2025-12-03T06:56:27.325Z
 permalink: tags/ballet
 title: ballet
 ---
 
 ## ballet
 
-Last updated: <time datetime="2025-10-28T06:38:09.967Z">Tue Oct 28 2025 08:38:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:56:27.325Z">Wed Dec 03 2025 08:56:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -213,7 +213,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 59</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/gPpN34Qb95NU7n_MDgZdOtEIY4_PB0skiFYT6lX_ohs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDc1/NDYtMTQxMTMwMzcz/NC0zOTI5LmpwZWc.jpeg" alt="Cover for Kamasutra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74dd16d22d1044c98790f3bbdcff28ef.png" alt="Cover for Kamasutra" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-12-04</td>
       <td>Prince</td>
@@ -977,6 +977,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba8f0ba6dc3f3cb300b7ea11b09c0667.png" alt="Cover for The most incredible thing" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Chris Lowe</td>
@@ -1363,6 +1364,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d17b57dd1b6d4613a8bfa9806d2b22b7.png" alt="Cover for A Few Beer Tears Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mammute</td>
@@ -1505,6 +1507,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e45d411c86804e699bb2cb422cdce8ee.png" alt="Cover for Coitus Hiatus ep" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mammute</td>
@@ -1646,6 +1649,7 @@ Ballet music encompasses orchestral compositions specifically created to accompa
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dff84032ffb44d22a74daad09c731638.png" alt="Cover for mammute ep" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mammute</td>

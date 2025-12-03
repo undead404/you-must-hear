@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:50:40.090Z
+date: 2025-12-03T07:11:04.898Z
 permalink: tags/breakbeat-hardcore
 title: breakbeat hardcore
 ---
 
 ## breakbeat hardcore
 
-Last updated: <time datetime="2025-11-17T05:50:40.090Z">Mon Nov 17 2025 07:50:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:11:04.898Z">Wed Dec 03 2025 09:11:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,14 +62,14 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for Das Duell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08a4581db8f448d26cdcd915ebf2314.png" alt="Cover for Das Duell" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -691,8 +691,8 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 8</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -710,7 +710,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 67</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 70</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 75</li>
         </ul>
       </td>
@@ -733,9 +733,9 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 9</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +801,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 32</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 39</li>
         </ul>
       </td>
@@ -828,6 +828,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ecc52fcf46345a9875beee4cfcd648a.png" alt="Cover for Bass Terror EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Alec Empire</td>
@@ -879,9 +880,9 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 9</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 25</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 51</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1162,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/8J4Bh32cL0TIyGqBHQUWaVVg6ek0rmfXZDIBChPIlaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODEt/MTE2NzQ1MjMzNi5q/cGVn.jpeg" alt="Cover for Squeeze the Trigger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dd628a5eaac82502695e794484dcdf9.png" alt="Cover for Squeeze the Trigger" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Alec Empire</td>
@@ -1222,9 +1223,9 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 58</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 63</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
         </ul>
       </td>
@@ -1331,13 +1332,13 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1452,7 +1453,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/Ct85LuSXn2oCJLtQ3dybrAGD7G3e5POH3vQ3la1Uccg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE1/NC0xMTQzNTc3MTky/LmpwZWc.jpeg" alt="Cover for Das Duell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/061493bf5434807c921cbc5bedad2797.png" alt="Cover for Das Duell" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Alec Empire</td>
@@ -1594,7 +1595,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 31</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1634,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1657,13 +1658,14 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 5</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/682cf4e63f4e4ac6a5b4514717698ad1.png" alt="Cover for Bass Terror" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-03</td>
       <td>Alec Empire</td>
@@ -1697,7 +1699,6 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 1</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 87</li>
         </ul>
       </td>
@@ -1842,7 +1843,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/0h41GtfM3a9FiywDpEiqnXBUiIQANA7bORLX3P1_bPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzIw/NTktMTQ2NjI3NDM1/OS03ODAzLmpwZWc.jpeg" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bdeedbc59e2b404c613db10f564eceb.png" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>Lone</td>
@@ -1857,8 +1858,8 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 23</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 91</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 10</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 49</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 99</li>
         </ul>
       </td>
@@ -1942,16 +1943,16 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 1</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 99</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 100</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/vRUufVWZZeZcjRpWGvT19wWMDpyy-gwRoAnhUq3Zwfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg0/OTM2LTE2MjMzMDIx/NjMtMTkwMi5qcGVn.jpeg" alt="Cover for Wanton Witch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2543d3be9401eac6e1e1b4b75c5fb44a.png" alt="Cover for Wanton Witch" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>Wanton Witch</td>
@@ -2075,7 +2076,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 91</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 96</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 99</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 100</li>
@@ -2093,25 +2094,13 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       <td>Carousel From Hell</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 10</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2149,7 +2138,7 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 61</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2162,8 +2151,8 @@ Breakbeat hardcore emerged in early 1990s UK rave culture, combining frenetic ch
 - [old school hardcore]({{ "/tags/old-school-hardcore" | relative_url }})
 - [breakbeat]({{ "/tags/breakbeat" | relative_url }})
 - [jungle]({{ "/tags/jungle" | relative_url }})
-- [electronic]({{ "/tags/electronic" | relative_url }})
 - [drum and bass]({{ "/tags/drum-and-bass" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
 - [breakcore]({{ "/tags/breakcore" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})

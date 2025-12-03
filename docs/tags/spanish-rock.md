@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:40:29.560Z
+date: 2025-12-03T07:12:27.571Z
 permalink: tags/spanish-rock
 title: spanish rock
 ---
 
 ## spanish rock
 
-Last updated: <time datetime="2025-10-28T06:40:29.560Z">Tue Oct 28 2025 08:40:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T07:12:27.571Z">Wed Dec 03 2025 09:12:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -113,8 +113,6 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       <td>Corre Corre</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
         </ul>
       </td>
       <td>
@@ -480,7 +478,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -507,7 +505,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Versus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cadd46543bf2484db4b0b55a5e20fe64.png" alt="Cover for Versus" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Various Artists</td>
@@ -530,7 +528,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 7</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 10</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -731,9 +729,28 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 10</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 25</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 26</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 85</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>M-Clan</td>
+      <td>Usar Y Tirar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -786,24 +803,6 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>1999</td>
-      <td>M-Clan</td>
-      <td>Usar Y Tirar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
         </ul>
       </td>
@@ -985,7 +984,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/LInYJEfJEM_bk0jn5rEInREsBDdMvU5XDDjDF-fgYTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njc1/My0xNDgwNjIxMzg5/LTkzOTEuanBlZw.jpeg" alt="Cover for Objection (Tango)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacf27e83a98486bc8ebfc899293f899.png" alt="Cover for Objection (Tango)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-04</td>
       <td>Shakira</td>
@@ -1001,7 +1000,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 31</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1021,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1211,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 8</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1240,9 +1239,9 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 5</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 35</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 44</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 55</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1296,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 70</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1319,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/66bkObRIPPm__0mRUZMZ2DHn8BYtqEMw-D17hqIBRpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjIx/MjYtMTQ2MjA5NTcz/My0yNTI5LmpwZWc.jpeg" alt="Cover for Adentro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcf1c0a6f23f439f9223d7fcfe784bdd.png" alt="Cover for Adentro" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-06</td>
       <td>Ricardo Arjona</td>
@@ -1525,7 +1524,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/9OgUYWOdMC9Bob5rebQ0On56NvJkb_a_cA-CwTAId1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/Mzg1LTE1NDM2Njkw/MjMtNDQ4NC5qcGVn.jpeg" alt="Cover for Kaleya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa662e148f11d254d4796fd0dab6e9d6.png" alt="Cover for Kaleya" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kaleya</td>
@@ -1548,7 +1547,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 26</li>
+            <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 38</li>
             <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 83</li>
         </ul>
       </td>
@@ -1651,14 +1650,14 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 83</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/eVFP1QreZ_A_JeWOaJOorN6iElttONgHJdiTqtxsujY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDE1/ODUtMTQ1NTE2MDMy/My01NzUzLmpwZWc.jpeg" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6790f4635fb34a63b1371ce1df019a6a.png" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Reyli Barba</td>
@@ -1680,8 +1679,8 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 47</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
             <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 75</li>
         </ul>
       </td>
@@ -1746,7 +1745,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/UJlfdHexYbm7ywa8S6anAqBJiI0waIsKrEOl3DgyxdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc1/NzYtMTU4MTU5NzU5/OS0zMjUwLmpwZWc.jpeg" alt="Cover for El Espiritu Del Vino" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8e4ba7d1175d85f2fb17cda699866cc.png" alt="Cover for El Espiritu Del Vino" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Héroes del Silencio</td>
@@ -1784,7 +1783,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/rEuIxNP9vm86_wT4B9-wJWJzaH9d2pTnxGZ5qoOKqZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzY1/NjUtMTYyMzk5OTI5/OS05MDY3LmpwZWc.jpeg" alt="Cover for Discos De Oro, Jets Privados y Chicas En Bikini" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8489f93906704ba8cb8efcca5f224aa2.png" alt="Cover for Discos De Oro, Jets Privados y Chicas En Bikini" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-06</td>
       <td>Los Furtivos</td>
@@ -1834,7 +1833,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1860,7 +1859,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/fT3z2iTOf5b8H4KsgPkSZHX9SWdJH6QfcNNVNkr5VPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE5/MjM3LTE2MzUxMTk0/MjAtNTEyNi5qcGVn.jpeg" alt="Cover for Erik Rubin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3608bc55e324ba9906cf95a20ea346e.png" alt="Cover for Erik Rubin" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-01</td>
       <td>Erik Rubin</td>
@@ -1893,7 +1892,7 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 27</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1967,8 +1966,8 @@ Spanish rock encompasses guitar-driven rock music sung primarily in Spanish, ble
 - [spanish]({{ "/tags/spanish" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [latin rock]({{ "/tags/latin-rock" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [latin]({{ "/tags/latin" | relative_url }})

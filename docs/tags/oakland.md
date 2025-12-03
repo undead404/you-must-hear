@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T14:49:20.362Z
+date: 2025-12-03T06:56:18.729Z
 permalink: tags/oakland
 title: oakland
 ---
 
 ## oakland
 
-Last updated: <time datetime="2025-11-24T14:49:20.362Z">Mon Nov 24 2025 16:49:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:56:18.729Z">Wed Dec 03 2025 08:56:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -273,7 +273,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 86</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -371,8 +371,8 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 25</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 52</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 28</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -399,11 +399,11 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 71</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 5</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 10</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 74</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 42</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +563,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 67</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +603,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 58</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -626,9 +626,9 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 63</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 12</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 68</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 71</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1095,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 33</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1201,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1221,8 +1221,8 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 47</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 49</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 52</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1242,7 +1242,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 75</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 8</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1426,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/QWyGTN08gzk5bTpc5yRoRBf983ALn38gjjNF_RMp_FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDM0/MTItMTM0NDU0ODky/Ny0zNDA5LmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d6b94222184a508a2151549d489980.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Replica</td>
@@ -1483,14 +1483,14 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 66</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/Smu35TGm42A_rNBbvgI_IvXiTYiOCe0BhbYBS5u9N2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTAy/NzMtMTM2NTkwNzIw/Ni0xMzUxLmpwZWc.jpeg" alt="Cover for Replica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ab9e7da911453f85785aa801a21722.png" alt="Cover for Replica" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Replica</td>
@@ -1526,8 +1526,8 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 11</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/jctkBC7qstrUF_m_AGBwzlpd-RmJXa57q3FHyLyKbHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjUw/MzQtMTQ1MTc2ODYy/MC05ODMwLmpwZWc.jpeg" alt="Cover for Attorney at Law" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ce4f07b35eb43fec38dd0c718e70d31.png" alt="Cover for Attorney at Law" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Lil Dowager</td>
@@ -1597,7 +1597,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/gXO-Y559-QIuneeBQcPT5rA6HnEum8lQhxJaWsObIU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjE3/MjctMTQxNzQ3Njkz/OC00MjA1LmpwZWc.jpeg" alt="Cover for Beast EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66cea93c4687a6d1b1522cc70b7b2667.png" alt="Cover for Beast EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-24</td>
       <td>Replica</td>
@@ -1842,12 +1842,6 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       <td>People Eat Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>
@@ -1858,7 +1852,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/2rw22kblJ-KyJ0bcXOjhLMUTkg0jcNgOjCMKvM9SZ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg1/NTMwLTE2NjE3MTI5/MzAtMTE4Mi5qcGVn.jpeg" alt="Cover for Universal Funeral" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d4b682499429d710a265cb56da4f5af.png" alt="Cover for Universal Funeral" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-18</td>
       <td>Morbikon</td>
@@ -1879,7 +1873,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/2rw22kblJ-KyJ0bcXOjhLMUTkg0jcNgOjCMKvM9SZ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg1/NTMwLTE2NjE3MTI5/MzAtMTE4Mi5qcGVn.jpeg" alt="Cover for Cursed to March on Shattered Limbs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc3e246c2acd82d58f07e86e9c2ff177.png" alt="Cover for Cursed to March on Shattered Limbs" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-13</td>
       <td>Morbikon</td>
@@ -1913,7 +1907,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 16</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2084,6 +2078,7 @@ Oakland represents the distinct West Coast hip-hop sound emerging from Californi
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aafb77cf1f543311ab43e4fcf24011ef.png" alt="Cover for smartmeterBPD : demo" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SmartMeter</td>
