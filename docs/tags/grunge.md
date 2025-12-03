@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:53:15.599Z
+date: 2025-12-03T09:27:35.572Z
 permalink: tags/grunge
 title: grunge
 ---
 
 ## grunge
 
-Last updated: <time datetime="2025-11-17T05:53:15.599Z">Mon Nov 17 2025 07:53:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:27:35.572Z">Wed Dec 03 2025 11:27:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -151,7 +151,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -170,7 +170,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 25</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 16</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +442,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -478,14 +478,14 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 89</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23f92dcd4d6c0762422d0587a1b6a656.png" alt="Cover for Siamese Dream (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac1142b8ab1dcf3481b3ff6d092980b0.png" alt="Cover for Siamese Dream (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Smashing Pumpkins</td>
@@ -499,7 +499,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 51</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +518,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 5</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -538,6 +538,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -572,8 +573,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 69</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 100</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -680,6 +680,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +809,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 31</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 35</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 81</li>
         </ul>
       </td>
@@ -827,8 +828,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 88</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 70</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 100</li>
         </ul>
       </td>
@@ -864,7 +864,6 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +882,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 49</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +900,6 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -937,6 +935,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1014,7 +1013,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
     <tr>
       <td>48</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f0f8cd1d2cca69620a2d264b2897968.png" alt="Cover for Dust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90b99255f4774489ab0147011de873e9.png" alt="Cover for Dust" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-25</td>
       <td>Screaming Trees</td>
@@ -1098,7 +1097,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1260,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 28</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 99</li>
         </ul>
       </td>
@@ -1421,7 +1420,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 100</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1441,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 63</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1461,10 +1460,10 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 14</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 20</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 66</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 85</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 99</li>
         </ul>
       </td>
@@ -1501,7 +1500,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 41</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1610,8 +1609,8 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 32</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1646,8 +1645,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 26</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 98</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1706,10 +1704,10 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 12</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 65</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 88</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 54</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1738,11 +1736,11 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 3</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 27</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 32</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 65</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 89</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 46</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 56</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 66</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 73</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1759,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 97</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1789,8 +1787,8 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 18</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 85</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1846,8 +1844,7 @@ Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 68</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 92</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 44</li>
         </ul>
       </td>
     </tr>

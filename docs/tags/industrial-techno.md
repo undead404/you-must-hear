@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:28:22.215Z
+date: 2025-12-03T09:26:43.486Z
 permalink: tags/industrial-techno
 title: industrial techno
 ---
 
 ## industrial techno
 
-Last updated: <time datetime="2025-11-03T06:28:22.215Z">Mon Nov 03 2025 08:28:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:26:43.486Z">Wed Dec 03 2025 11:26:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/zOA6v15P_soHg-Fz435_WgQFscUeWFTGNCl8m0PFfxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDMz/MTk2LTE2MTE1NDU3/MjUtNTI0Ni5qcGVn.jpeg" alt="Cover for Omala Kcohs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03fa9f5751a233647f61e9085c5be3cf.png" alt="Cover for Omala Kcohs" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>PØLI</td>
@@ -50,6 +50,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11938b6e5eb9539500d6521798bafd89.png" alt="Cover for From Heaven on Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>November Növelet</td>
@@ -64,7 +65,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 22</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -133,7 +134,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/2k8lvYrRUDhfChddomIoSi13uxq8F5qL3jwGReetB0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzMw/OC0xMTEzMzI0Mzk1/LmpwZw.jpeg" alt="Cover for Matter + Form" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c403014868744abc45402800aef2de8.png" alt="Cover for Matter + Form" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05</td>
       <td>VNV Nation</td>
@@ -145,8 +146,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 31</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 84</li>
+            <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 34</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -173,7 +174,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/29RoKTS3zA9IBBsNL-AfSVvcoaX_phyNv-vvyvWh-Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTI4/MC0xMzE2ODg0MjI0/LmpwZWc.jpeg" alt="Cover for Galvanize" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/929e0936ab920b41193a390003718735.png" alt="Cover for Galvanize" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11</td>
       <td>The Chemical Brothers</td>
@@ -191,7 +192,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/VYgw4N0urex3WIH_BvVKjEeXrwcAwUIS1hNXWSTRmhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTE0/OC0xNTc5NTE2NTM2/LTU1ODcuanBlZw.jpeg" alt="Cover for Pattern Recognition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/411093b8a7534ba2cb2b70a394b188bd.png" alt="Cover for Pattern Recognition" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-29</td>
       <td>Headscan</td>
@@ -248,7 +249,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/QHKp44GTa4DYRtB9RF6QWaD2SIrjOnUDV5_Vl3RQe68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/MTUtMTIzMjY1MjE0/Ny5qcGVn.jpeg" alt="Cover for Third Method" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47591d67c87a48308a6511ec24595de0.png" alt="Cover for Third Method" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Ancient Methods</td>
@@ -281,7 +282,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 72</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +302,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 73</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -322,15 +323,16 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 57</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 64</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 59</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 66</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da455700a5274a76b94ffe5a88859d75.png" alt="Cover for Primate" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-21</td>
       <td>Tommy Four Seven</td>
@@ -351,7 +353,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/ENtJt72S81U6S9gV2JcFR2MPnJjJ568nM89rkUMNnYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc4/NjEtMTMxNjY5MjM4/NS5qcGVn.jpeg" alt="Cover for Breaking the Frame" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0444a94915d4385c37c0ba28307d6ae.png" alt="Cover for Breaking the Frame" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-18</td>
       <td>Surgeon</td>
@@ -407,7 +409,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/scQBKADRC7xi8Cz2IISWppyg7TvOp2AHqXuq_DASJbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjM3/ODUtMTM5MDU2MjQw/NC02NDQ5LmpwZWc.jpeg" alt="Cover for At War for Youth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e878cf20c32491db9364f714d877dc3.png" alt="Cover for At War for Youth" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>Vår</td>
@@ -460,7 +462,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 61</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 62</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 90</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 94</li>
         </ul>
@@ -469,7 +471,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/YQFD2cBYkvIcWclLntqM9LCDoGvQgVFSyrOFeMLs1Aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTMy/MTktMTM5NDgwOTgw/NS00MTc1LmpwZWc.jpeg" alt="Cover for INCINERATOR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a48dcba4cbb0b1b274f0f7ff38376dd.png" alt="Cover for INCINERATOR" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-09</td>
       <td>Dreamcrusher</td>
@@ -485,16 +487,17 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 86</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 96</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 71</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 76</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 87</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb5198af70a27977936793693beb902.png" alt="Cover for Incubation" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-04</td>
       <td>Function</td>
@@ -515,6 +518,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a655ea05724494e80500ca27a734930.png" alt="Cover for Seventh Seal" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-30</td>
       <td>Ancient Methods</td>
@@ -533,7 +537,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/vyLjeBfMdXJpyu-tpLPB5WHVodS-DR1lEBowNUdpqEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODc0/MDItMTM2OTE5ODAy/NC0xMzcxLmpwZWc.jpeg" alt="Cover for It Stands To Conceal (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe9f05bcde6c433cc3b192f9cc7ffc36.png" alt="Cover for It Stands To Conceal (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05</td>
       <td>Vatican Shadow</td>
@@ -554,6 +558,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ee03e4831494dc18c8e514552fb3474.png" alt="Cover for STRGTHS" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-15</td>
       <td>SHXCXCHCXSH</td>
@@ -591,11 +596,11 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 78</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 12</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 40</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
         </ul>
       </td>
@@ -641,8 +646,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -689,15 +694,16 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 89</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 90</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 90</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 91</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f23e882e58fc041aecf93872081bda.png" alt="Cover for Deathvox" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-27</td>
       <td>Paula Temple</td>
@@ -714,7 +720,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 75</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 79</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 96</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 96</li>
         </ul>
@@ -723,7 +729,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/NKuvlrfpWD6cnMDTL3AzelL-tC1L9stEwrGFm8bmKq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDA1/OTctMTYyODA3MzI3/MS0yNzU3LmpwZWc.jpeg" alt="Cover for Always Offended Never Ashamed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c52f366b1e84bd2cb96a2481af29174.png" alt="Cover for Always Offended Never Ashamed" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-13</td>
       <td>Kerridge</td>
@@ -778,14 +784,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 4</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/5yCMcDXCd4633iDRNtUbPzqsvN3-Wz7ynRUykFv2PwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTE1/NTktMTQ1MjI5NDI3/OC02OTQxLmpwZWc.jpeg" alt="Cover for Demain est une autre nuit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/979bbc5d7a2eb4ece954f78407a4fd3a.png" alt="Cover for Demain est une autre nuit" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>Essaie Pas</td>
@@ -802,9 +808,10 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 56</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 62</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 25</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +861,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
         <ul>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 80</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 86</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 88</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
@@ -864,7 +871,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/7cF-6gedwqfMIRuE7uXY-EejsjePn0ocBY-PzRHzn-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/Mjk2LTE1Mzc3MDEx/NjMtNjk0Ny5qcGVn.jpeg" alt="Cover for Body of Lila" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4da23fcef0428204cab8168fade6ffad.png" alt="Cover for Body of Lila" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-30</td>
       <td>Croatian Amor</td>
@@ -881,6 +888,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +909,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 48</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -928,7 +936,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/OhOyuwPsJPjBVf1W8vGvBegBGF9-ingyrtT2mglIhhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjMy/NzUtMTQ4NzU2ODky/MC05MTg5LmpwZWc.jpeg" alt="Cover for 東方不敗" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c157a9ac65a137a09198eb3e1ef317a6.png" alt="Cover for 東方不敗" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-28</td>
       <td>Tzusing</td>
@@ -941,14 +949,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 5</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/aCViZVxiM-sIPQts-cAZSRBW4kS2F3ha38Zrj4zZpHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzk5/MTItMTQ4OTU5NzIx/Mi02NzMyLmpwZWc.jpeg" alt="Cover for Detroit House Guests" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f286cd91c14c32fb7045a6dfb4c6611.png" alt="Cover for Detroit House Guests" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-17</td>
       <td>ADULT.</td>
@@ -966,7 +974,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +996,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 58</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 83</li>
         </ul>
       </td>
@@ -1010,8 +1018,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 73</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 77</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 24</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1036,7 +1044,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/5-Z8IfhCbWyOWMiaJTT5eGmwbh36GDA7TPG9bbc2F_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MTA5LTE1MDcwMjQ4/OTktOTkzMi5qcGVn.jpeg" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>IAMX</td>
@@ -1058,12 +1066,12 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 11</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1097,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/ArLnokQNIWUgYDE4_AuCaGK0pk14I2t41sDuspAPD40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/OTIxLTE1MjU1NTIx/MTQtMjgzMS5qcGVn.jpeg" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cdb847e35e2dbd7db186a306109e432.png" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Zanias</td>
@@ -1109,12 +1117,12 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 21</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 64</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 76</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 13</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
       </td>
@@ -1139,8 +1147,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 21</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 49</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1164,8 +1172,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 65</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 32</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 34</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 97</li>
         </ul>
       </td>
@@ -1189,7 +1197,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 34</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 74</li>
         </ul>
       </td>
@@ -1213,7 +1221,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 32</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 67</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 91</li>
         </ul>
       </td>
@@ -1221,7 +1229,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/-UBuDXXVboXWFHs7NOrYhhPNxT761vTfxgi8Xsk8DpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIy/MjUyLTE1NTU3OTE4/NTgtNDU1NC5qcGVn.jpeg" alt="Cover for Drift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98a58c74f70248af61b0cf77ebdc3033.png" alt="Cover for Drift" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-10</td>
       <td>Bliss Signal</td>
@@ -1240,7 +1248,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/rGpkc2RS6OokffHpwjL1c1AQLZFQdBs8MRbPhe1nfi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/NjM4LTE1MzYzNDMw/NDAtNzI1OS5qcGVn.jpeg" alt="Cover for This Behavior" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0808b8243bcaaf064e4d4bededde5cf3.png" alt="Cover for This Behavior" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-07</td>
       <td>ADULT.</td>
@@ -1258,8 +1266,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 44</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1287,10 +1295,10 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 47</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 83</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 85</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
@@ -1317,7 +1325,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       <td>
         <ul>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 86</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 87</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1352,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f0e10481fca74737ed7af82fc45f9.png" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>Zanias</td>
@@ -1370,10 +1378,10 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 18</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
         </ul>
@@ -1382,7 +1390,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/AriM8st2zgLsobKIamkrwfM_R7tyvQTrS_MshC--eSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/ODk0LTE1NTgwMjk4/NzItNjc4OS5qcGVn.jpeg" alt="Cover for Uncovered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fd900647242553558660ad23579c1df.png" alt="Cover for Uncovered" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Zamilska</td>
@@ -1399,8 +1407,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 32</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 59</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1449,7 +1457,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
         <ul>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 78</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 80</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1511,7 +1519,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47aaea738cbe3a9afedeaf62d6bb9010.png" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Rue Oberkampf</td>
@@ -1531,9 +1539,9 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 58</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 61</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 41</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 100</li>
         </ul>
       </td>
@@ -1563,12 +1571,12 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 21</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 42</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 49</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 84</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1588,14 +1596,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 92</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/pFNCKGWKUXmOb0GhgoM6voYZSJUjIKf01q9OlWAruQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTcxLTE1NzU0MTI5/NzgtMTc1NC5qcGVn.jpeg" alt="Cover for American Flesh For Violence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6d3c8358e48c1e086bfb0596451b17.png" alt="Cover for American Flesh For Violence" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-08</td>
       <td>Vatican Shadow</td>
@@ -1683,14 +1691,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 41</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/571fdb8cba922db1ac83f9fe2d998457.png" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>ADULT.</td>
@@ -1710,10 +1718,10 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 17</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 40</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 58</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1748,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
         <ul>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 77</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 79</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 89</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1786,11 +1794,11 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 13</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 65</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 16</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 28</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
         </ul>
@@ -1817,7 +1825,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 68</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 29</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 69</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 93</li>
         </ul>
@@ -1846,10 +1854,11 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 29</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 48</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 70</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 87</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 89</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1870,7 +1879,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 88</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1900,7 +1909,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/vaP7yxXhPhDjrvCKrHkzY9KOcKPHtevNX8D5p4RucE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/MjY2LTE2MzA5NTE5/NzAtNTQ2MS5qcGVn.jpeg" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c92bf55f1c0dc033e6515e662a64ae1.png" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-06</td>
       <td>Zanias</td>
@@ -1921,9 +1930,9 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 31</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 59</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 62</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 66</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 95</li>
         </ul>
       </td>
@@ -1946,7 +1955,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 53</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1968,8 +1977,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 37</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1989,14 +1998,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 80</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/amM35WAfJtQaCnrl94wDb-nkLKx63rKvOy7RPwiJums/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzUz/MzUxLTE2MzI1MDE2/MTAtMzc0Ny5qcGVn.jpeg" alt="Cover for +&#x2F;-" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0553006e2d3794dc725ef91c3eed9a7.png" alt="Cover for +&#x2F;-" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Boys Noize</td>
@@ -2014,7 +2023,8 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 37</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 11</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2036,7 +2046,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 53</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 84</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2078,14 +2088,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/BeCv9nB7iZlfEI9WlbarsiCGwucRVRBEDTJ3k-ppCGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ5/MTM0LTE2Njc1NjY2/MTctNTE3OS5qcGVn.jpeg" alt="Cover for 24" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed132aef6acd8428fbd42188c5572275.png" alt="Cover for 24" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Minuit Machine</td>
@@ -2106,14 +2116,14 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 86</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/4w3ExUByhtn0FN76esMaHVRGLhC2uJeYZmydK0FeqD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NzQ4LTE2NjkyODEz/OTctMzMyOS5qcGVn.jpeg" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764cc71e42b22f7937460e15464e7776.png" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-25</td>
       <td>Buzz Kull</td>
@@ -2136,18 +2146,18 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 85</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/tyir75x7ulCzsIrNJL4V96_UKSls-8_QOEayoVpuPLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/OTMyLTE2Nzk2OTIx/NTgtOTcwNi5qcGVn.jpeg" alt="Cover for End of an Era" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921dbf2ac7b845ba2f8d052ea3b61890.png" alt="Cover for End of an Era" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-07</td>
       <td>WNDRLST</td>
@@ -2170,7 +2180,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/qsYJK-wp6B7pq2gO2p_jcr9K9BJ9rlTU0wqEoGkyWCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzky/NTcxLTE2Nzg2MjA4/NTMtNzgyNC5qcGVn.jpeg" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/554f314ff026c375c2b2ee0a182086e3.png" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-03</td>
       <td>Ultra Sunn</td>
@@ -2189,7 +2199,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 91</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 93</li>
         </ul>
@@ -2210,7 +2220,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 10</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2233,9 +2243,9 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 11</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 34</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 76</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 38</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 75</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2261,7 +2271,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/pTCfCKc0vwjES3d1_nKid9uKbL9O_2aMjIuDke_PXa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjMz/MTE0LTE3MTE2NDA3/MDgtNDM1My5qcGVn.jpeg" alt="Cover for GAMMA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/911bb8cde7721fc2c8106f3944a0df16.png" alt="Cover for GAMMA" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-29</td>
       <td>Gesaffelstein</td>
@@ -2281,9 +2291,9 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 39</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 83</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 53</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 91</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 100</li>
         </ul>
       </td>
@@ -2291,6 +2301,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224b8683c15717c6321dd748aa636257.png" alt="Cover for Semiotics Department Of Heteronyms" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SDH (Semiotics Department of Heteronyms)</td>
@@ -2308,14 +2319,15 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 16</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 36</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10284bdb0af601e012358edeff04198.png" alt="Cover for Against Strong Thinking" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SDH (Semiotics Department of Heteronyms)</td>
@@ -2333,9 +2345,9 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 25</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 39</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 52</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 70</li>
         </ul>
       </td>
     </tr>

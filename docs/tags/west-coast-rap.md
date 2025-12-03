@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T15:34:07.772Z
+date: 2025-12-03T09:45:40.187Z
 permalink: tags/west-coast-rap
 title: west coast rap
 ---
 
 ## west coast rap
 
-Last updated: <time datetime="2025-11-24T15:34:07.772Z">Mon Nov 24 2025 17:34:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:45:40.187Z">Wed Dec 03 2025 11:45:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -226,8 +226,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 10</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 21</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -285,8 +284,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 8</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 81</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +343,6 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -366,7 +364,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 63</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +407,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
     <tr>
       <td>40</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1257a53795675891dad75becddaf11.png" alt="Cover for Black Sunday" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14bb090c98a504c71a84ebe040ab90f1.png" alt="Cover for Black Sunday" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-07-20</td>
       <td>Cypress Hill</td>
@@ -454,8 +452,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 70</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 99</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 61</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -477,8 +475,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 82</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 87</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 13</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +531,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 63</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -560,11 +558,11 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 2</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 5</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 10</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +585,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 16</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -606,9 +604,10 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 92</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -627,8 +626,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 85</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 88</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 91</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +647,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 82</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +684,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 98</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +703,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 72</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -744,9 +743,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 22</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 60</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 78</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 22</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 30</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -769,9 +768,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 4</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 12</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 71</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 89</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +919,6 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -941,8 +939,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 35</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 38</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 36</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -961,7 +959,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 56</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +977,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 67</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1015,7 +1013,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 28</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1052,10 +1050,10 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 23</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 31</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 53</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 35</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 54</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1109,8 +1107,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 62</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 78</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 65</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1130,6 +1128,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1278,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 59</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1333,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 85</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 95</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 6</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1373,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 64</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1393,8 +1392,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 44</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1431,7 +1430,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1490,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 22</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 70</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 83</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1782,8 +1782,9 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 1</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 18</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 89</li>
         </ul>
       </td>
@@ -1854,14 +1855,14 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 17</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 37</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
         </ul>
       </td>
@@ -1893,12 +1894,12 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 28</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 73</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1916,7 +1917,8 @@ West Coast rap, also known as West Coast hip-hop, is a subgenre of hip-hop music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 14</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 43</li>
         </ul>
       </td>
     </tr>

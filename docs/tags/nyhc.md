@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:08:13.598Z
+date: 2025-12-03T09:27:41.262Z
 permalink: tags/nyhc
 title: nyhc
 ---
 
 ## nyhc
 
-Last updated: <time datetime="2025-11-26T04:08:13.598Z">Wed Nov 26 2025 06:08:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:27:41.262Z">Wed Dec 03 2025 11:27:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -656,7 +656,6 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +861,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 66</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1063,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 4</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 6</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 30</li>
         </ul>
       </td>
@@ -1194,10 +1193,10 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 25</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 31</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 16</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 32</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 55</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 85</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1298,6 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1752,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 22</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1832,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 67</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 71</li>
         </ul>
       </td>
@@ -1912,7 +1910,7 @@ NYHC (New York Hardcore) is an aggressive, street-level punk subgenre that emerg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 36</li>
         </ul>
       </td>
     </tr>

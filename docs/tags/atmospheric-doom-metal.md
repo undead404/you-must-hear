@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T05:54:23.886Z
+date: 2025-12-03T09:29:20.114Z
 permalink: tags/atmospheric-doom-metal
 title: atmospheric doom metal
 ---
 
 ## atmospheric doom metal
 
-Last updated: <time datetime="2025-11-17T05:54:23.886Z">Mon Nov 17 2025 07:54:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:29:20.114Z">Wed Dec 03 2025 11:29:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,7 +87,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/8x637xSgrP_ClyHw7Rpg-eJI3de-rp2oiiWqFDXhho4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTYx/OS0xNDc1ODQzNDMx/LTM2MzcuanBlZw.jpeg" alt="Cover for From the Shadows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26a7ed75bd004f2082c3434535ebb73d.png" alt="Cover for From the Shadows" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Unholy</td>
@@ -145,6 +145,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc1dbe01113f41f3bd30dac57fe22126.png" alt="Cover for Tears Laid in Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-21</td>
       <td>The 3rd and the Mortal</td>
@@ -232,23 +233,18 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/itVwHAo55wEc1X1rWs5qQ9Ar07rJ8v2QDgqU_4PvKUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/Ny0xMzk4NjExMDkx/LTYyMjQuanBlZw.jpeg" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a1ab9a0dbe43ecbf768d8ce8ce5122.png" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-08-28</td>
       <td>The Gathering</td>
       <td>Mandylion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 26</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 46</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 45</li>
             <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 100</li>
         </ul>
       </td>
@@ -417,7 +413,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/P4OsGAafIdyy7H_fkKAUOYVA5YA8m1SsxplgLU85bSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDc2/Ni0xMzY1MzM2ODQ5/LTIzMTMuanBlZw.jpeg" alt="Cover for Rapture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/729d04688c60161c432913be957349df.png" alt="Cover for Rapture" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Unholy</td>
@@ -437,7 +433,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/2BmrsRQuEuwOe0vjRSW_-lNug8N3ttSa4JdzZBDYCoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODM3/OTItMTQyMjcxNzI3/MS01ODA4LmpwZWc.jpeg" alt="Cover for Joy Parade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dd01c3a903ddc9b44be75b9918f17ed.png" alt="Cover for Joy Parade" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-26</td>
       <td>Flowing Tears &amp; Withered Flowers</td>
@@ -470,9 +466,9 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 26</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -519,6 +515,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79753af324374d0dbab7a05c795e09ac.png" alt="Cover for When All the Laughter Has Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01-01</td>
       <td>Dolorian</td>
@@ -608,7 +605,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 43</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 97</li>
         </ul>
       </td>
@@ -631,8 +628,8 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 30</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 59</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -714,6 +711,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6855452c21cc4dc4cd61f1af99720097.png" alt="Cover for Human Antithesis" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-14</td>
       <td>Void of Silence</td>
@@ -732,6 +730,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e0bf821482411e9741361a93e4063c.png" alt="Cover for Bathos" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-17</td>
       <td>Aarni</td>
@@ -781,7 +780,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 26</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 43</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -918,7 +917,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 37</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 67</li>
         </ul>
       </td>
@@ -926,6 +925,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe7deb09d3dac1e0e6647cefb6bd588.png" alt="Cover for Monumento" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-23</td>
       <td>Dakrya</td>
@@ -1172,6 +1172,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32c9090890143da9434c6947f8b129c.png" alt="Cover for Kuu.." style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-26</td>
       <td>Kauan</td>
@@ -1267,7 +1268,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/2mhFeTrRudm8sfp4Eg3v1HWu9H0RF7Au3_E7pWHqzwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjI5/NzUtMTM3MzQyMjQy/NS04MjcwLmpwZWc.jpeg" alt="Cover for The Devil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe56a1a69d1495e683a8c859fcc0d63.png" alt="Cover for The Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>The Devil</td>
@@ -1285,6 +1286,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60135c0f022e24b83e4d62640e894976.png" alt="Cover for Season of Raven Words" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-06</td>
       <td>Lethian Dreams</td>
@@ -1440,7 +1442,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1558,6 +1560,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bad983b86fd3b62a11dc79f356312b6f.png" alt="Cover for Red Silence Lodge" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-30</td>
       <td>Lethian Dreams</td>
@@ -1632,7 +1635,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/M1aqXtYByq-VjiQCpBeFEu7C2stzj8mmx1mp7dRf1_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODU2/NzQtMTQzMDU2Nzk3/Ny0yOTMzLmpwZWc.jpeg" alt="Cover for Muistumia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6213c69041164ec2ce1b78eddc6630ac.png" alt="Cover for Muistumia" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-04</td>
       <td>Kauan</td>
@@ -1890,7 +1893,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 29</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 33</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 92</li>
         </ul>
       </td>
@@ -1919,7 +1922,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/UuCipY1BggQlNQrVxHC0xdUesr8QsOc1HW02z7DJJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA4/NzIwLTE1NDQzMDE1/NjctNTA3Ni5qcGVn.jpeg" alt="Cover for Verlies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82cffd3565c5c61de4d4e9807e0711e9.png" alt="Cover for Verlies" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Nachtvorst</td>
@@ -1938,7 +1941,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 4</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2064,16 +2067,14 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/AodQ5K03I-ejbcFdjSXQe3ks5FmRGnN8NKu8Gq6FobM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/MjQ2LTE2MzEyNzg4/NTMtOTYxNC5qcGVn.jpeg" alt="Cover for The Spell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e56471d87c4e10a783c32d86cd7e4efb.png" alt="Cover for The Spell" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-22</td>
       <td>Cellar Darling</td>
       <td>The Spell</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
         </ul>
       </td>
       <td>
@@ -2126,7 +2127,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/za_R-o_sQ-RF2eKfff3u-wqT7BaxaiiX9CfWiJPXwsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTg1/Mjg3LTE2Mzg3MTcz/ODctMTM4MS5qcGVn.jpeg" alt="Cover for Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbd61be334b9d49ae5666f3dbf76cd33.png" alt="Cover for Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-08</td>
       <td>Cellar Darling</td>
@@ -2225,7 +2226,7 @@ Atmospheric doom metal blends the crushing weight and glacial tempos of doom wit
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/0nE6c92nyp6j6OHKt4P2j-ORnP3uTeoi4zwF1POqWzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE0/ODI5LTE2ODAzNTM5/MTUtMzUyMC5qcGVn.jpeg" alt="Cover for Abyssgazer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68e316b13e1617ee1e909be7f75ec3d2.png" alt="Cover for Abyssgazer" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>Aphotic</td>

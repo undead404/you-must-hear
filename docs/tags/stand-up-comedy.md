@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T09:49:39.449Z
+date: 2025-12-03T09:28:36.312Z
 permalink: tags/stand-up-comedy
 title: stand-up comedy
 ---
 
 ## stand-up comedy
 
-Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:28:36.312Z">Wed Dec 03 2025 11:28:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -517,7 +517,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 32</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 49</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 48</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 94</li>
         </ul>
       </td>
@@ -625,7 +625,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 41</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 43</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 69</li>
         </ul>
       </td>
@@ -692,7 +692,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 29</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 57</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 40</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 87</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 98</li>
         </ul>
@@ -782,7 +782,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 31</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 53</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 44</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 84</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 96</li>
         </ul>
@@ -1178,9 +1178,9 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 20</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 21</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 37</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 39</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1204,8 +1204,8 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 39</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 62</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 80</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 92</li>
         </ul>
@@ -1273,7 +1273,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 11</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1297,8 +1297,8 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 30</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 40</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 91</li>
         </ul>
@@ -1318,8 +1318,8 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 3</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 8</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1435,8 +1435,9 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 1</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 19</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 66</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 31</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 91</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 100</li>
         </ul>
@@ -1551,8 +1552,8 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 18</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 48</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1672,9 +1673,9 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 51</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 71</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 87</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 88</li>
         </ul>
       </td>
@@ -1705,10 +1706,10 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 24</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
             <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 61</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 74</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 89</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 95</li>
             <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
@@ -1839,6 +1840,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40278725724445f182b5eed750842daf.png" alt="Cover for Fart and Wiener Jokes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>Brian Posehn</td>
@@ -1949,16 +1951,15 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 19</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 43</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 71</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 80</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 93</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
       </td>
@@ -1977,13 +1978,13 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 17</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 22</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 23</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 82</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 84</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2056,7 +2057,7 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 30</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 54</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 43</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 85</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 97</li>
         </ul>
@@ -2106,8 +2107,8 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 25</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 44</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 74</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 75</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 90</li>
         </ul>
@@ -2127,13 +2128,13 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 26</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 28</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 81</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 83</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2288,15 +2289,16 @@ Stand-up comedy is a performance art where solo comedians deliver humorous monol
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 14</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 42</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 73</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 83</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
         </ul>
       </td>
     </tr>

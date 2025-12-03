@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T19:38:12.411Z
+date: 2025-12-03T09:27:30.077Z
 permalink: tags/dark-rock
 title: dark rock
 ---
 
 ## dark rock
 
-Last updated: <time datetime="2025-11-11T19:38:12.411Z">Tue Nov 11 2025 21:38:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:27:30.077Z">Wed Dec 03 2025 11:27:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
   </thead>
   <tbody>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf453c1382f4dafa0cd87073861e1a3.png" alt="Cover for Blues Funeral" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/oFmwiY24wqRONPugrEM3i499BptiosFqzzNjRcrm6DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDEy/MTYtMTM4NDQyNjA5/Ny04MjkyLmpwZWc.jpeg" alt="Cover for Poison" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0308fa66b1448e1c8023c8cc6751fae.png" alt="Cover for One Second" style="max-width:120px; height:auto;" />
       </td>
@@ -83,13 +83,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 26</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 54</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg" alt="Cover for Greatest Lovesongs VOL.666" style="max-width:120px; height:auto;" />
       </td>
@@ -98,17 +98,20 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>Greatest Lovesongs VOL.666</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 1</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 11</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg" alt="Cover for Greatest Lovesongs Vol. 666" style="max-width:120px; height:auto;" />
       </td>
@@ -117,18 +120,20 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>Greatest Lovesongs Vol. 666</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 20</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 70</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 10</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/SE3l1PRJIZcltR8eaBdd04vrSIm2TkaJQDNirRnOLjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUw/MjEtMTMxMzA4ODI2/Ni5qcGVn.jpeg" alt="Cover for One Second MCD" style="max-width:120px; height:auto;" />
       </td>
@@ -143,13 +148,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 94</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65f1bbf0c6f49538acba1533ed68727.png" alt="Cover for Host" style="max-width:120px; height:auto;" />
       </td>
@@ -166,7 +171,34 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af01fcac45c941f5b0b1450effa422df.png" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Katatonia</td>
+      <td>Last Fair Deal Gone Down - 10th Anniversay Edition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66aeaac8e38048c48f3649146adbc7f4.png" alt="Cover for Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -191,34 +223,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af01fcac45c941f5b0b1450effa422df.png" alt="Cover for Last Fair Deal Gone Down - 10th Anniversay Edition" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Katatonia</td>
-      <td>Last Fair Deal Gone Down - 10th Anniversay Edition</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 6</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 64</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/zkqMdCjWkQD3VMbeaoak6nFThY41BFg9mVHgYjG8iC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgw/MTMtMTIzMDgwNDI2/MS5qcGVn.jpeg" alt="Cover for Locked Doors Drinks and Funerals (Songs from the desert)" style="max-width:120px; height:auto;" />
       </td>
@@ -241,9 +246,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/NnUcdlhyIHcIgzgjNjEEOnkqgkAklsUDSTDHgp2M9H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTA0/My0xMjg0NDc3NjQy/LmpwZWc.jpeg" alt="Cover for Destination Zero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2adbbae3ac9bbcceac909068dadb9269.png" alt="Cover for Destination Zero" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-05</td>
       <td>Elusive</td>
@@ -259,7 +264,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/zkqMdCjWkQD3VMbeaoak6nFThY41BFg9mVHgYjG8iC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgw/MTMtMTIzMDgwNDI2/MS5qcGVn.jpeg" alt="Cover for Locked Doors, Drinks And Funerals (Songs From The Desert)" style="max-width:120px; height:auto;" />
       </td>
@@ -276,7 +281,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ebc3774df627ac25bec846328feaf09.png" alt="Cover for Into the Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -299,27 +304,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/loeR0OIUi33sJ06NkNDxudQ8ukBCueJ3qK8I-GbRbI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDQ5/MzEtMTM1Mzk0MjM2/Mi0yNjM4LmpwZWc.jpeg" alt="Cover for The Darkest Night" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Shapeshifter</td>
-      <td>The Darkest Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f86c9a8cc871e09feaf2622000bf9f7.png" alt="Cover for Framed in Blood: The Very Blessed of The 69 Eyes" style="max-width:120px; height:auto;" />
       </td>
@@ -336,7 +321,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/YqEBBy83aSEG4Rk74ty7NvlGeyLRrmNC_VZbKnQJCbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ1/NTYtMTM0ODAzODc2/MC03MjA4LmpwZWc.jpeg" alt="Cover for Love Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -345,16 +330,18 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>Love Metal</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 40</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51b9eb022cef0d23ee70f041e498e741.png" alt="Cover for Devils" style="max-width:120px; height:auto;" />
       </td>
@@ -368,12 +355,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c3926591d23017758daa97a2cf733a4.png" alt="Cover for Anywhere but Home" style="max-width:120px; height:auto;" />
       </td>
@@ -391,27 +378,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-          <img src="https://i.discogs.com/uFkK5PQNw_dTUEmWd7Vvh5hA_tBpWF_V6iGU9uPijPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTEz/ODEwLTE2MzA3NzYx/MDItMzk5Ny5qcGVn.jpeg" alt="Cover for Fame Addiction EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Jupiter Crash</td>
-      <td>Fame Addiction EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Q5rqFSqom01XwJQE-MQ-VGEdtPexjlpK74KV5tJl1QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODMx/MTktMTI4MDgxNTAz/Mi5qcGVn.jpeg" alt="Cover for The Last One Kills (Ultima Necat)" style="max-width:120px; height:auto;" />
       </td>
@@ -432,6 +399,26 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b83baad1134743bba9667600c1c7b1.png" alt="Cover for Fame Addiction EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Jupiter Crash</td>
+      <td>Fame Addiction EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b5877fd73254244c262458acfdc01f3.png" alt="Cover for Deadwing [2006, Japan, WHD Ent. Inc., IECP-20003~4]" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04</td>
@@ -447,9 +434,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/WfwRZcb0Z8we9WDyB9s5O6qkMNI_qBQPmtNzwIxWDHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTA1/MS0xMTQzNjI1MTY5/LmpwZWc.jpeg" alt="Cover for The Great Silence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe2ac2b2e5064f8899b5925c838a54bf.png" alt="Cover for The Great Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-27</td>
       <td>Elusive</td>
@@ -463,12 +450,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 10</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ec6467090543cdc399ba42ecd0ed72.png" alt="Cover for Complications: Trilogy of Intricacy" style="max-width:120px; height:auto;" />
       </td>
@@ -509,7 +496,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/J2nQutYE-9o5IPOQwWc04_8MXO48S12m3dKCRMtBpPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODY0/NDk0LTE2MTAyODkz/NDEtNzMwMC5qcGVn.jpeg" alt="Cover for Songs of love and death - 2006" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +515,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/833dcb23569c4378b05a27efb40ed2b1.png" alt="Cover for OLIVIA inspi&#39; REIRA (TRAPNEST)" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +535,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/8QS40eaDWkbBi_XucWOWoEoP-mAYgk1Q6NSDruRLajw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjQz/MDAtMTM4ODAyMTM3/Ny00OTgwLmpwZWc.jpeg" alt="Cover for Locked Doors, Drinks &amp; Funerals" style="max-width:120px; height:auto;" />
       </td>
@@ -565,7 +552,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/7-_HbUN51nu0uaXjq-yysW6VhgTK7EYTPBYFh2lEDQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzAy/OTMtMTQ1NDU2NzI2/My02NTQ5LmpwZWc.jpeg" alt="Cover for The Skin Before the Art" style="max-width:120px; height:auto;" />
       </td>
@@ -586,7 +573,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf0b32be80ac40b9c0857373683b304b.png" alt="Cover for Erotik" style="max-width:120px; height:auto;" />
       </td>
@@ -595,19 +582,17 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>Erotik</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 95</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ebb40c3808ebe2f6f3dc5bb1c1952dc.png" alt="Cover for Angels" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +609,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/vbqcQWdpburkTBogEgAI1cxU_Inw3hCWgGZGolVEdcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEz/OTctMTE5Mzc2Nzgz/NS5qcGVn.jpeg" alt="Cover for Heroes" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +629,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/j4T6df2t7c2kAceMCTmhMp_VmatLlAoMtt2xnpLbtD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzYw/NjQtMTM4MzgzODI4/Ny02NjI3LmpwZWc.jpeg" alt="Cover for Above and Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -667,7 +652,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d919e84533d4d62b4aa234f0d5a23ca.png" alt="Cover for SINFONY 23" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +666,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 31</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 30</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/994f4a60666e4fb8cf438f017d444b5b.png" alt="Cover for This Is Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -700,13 +686,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 40</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 96</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 42</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/52d8875813cd4e2385c0764818872abd.png" alt="Cover for The Trick To Life" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +710,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a6e2de476bb4d28b93788fb76ead02e.png" alt="Cover for Até Que A Morte Não Separe" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +730,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/840789d472201006bc0412e1de07670a.png" alt="Cover for Dead to the Past, Blind For Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -757,12 +743,14 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec84e03a13b2f719ab4d371483f6bb49.png" alt="Cover for Rebirth: A New Gothic Revival" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -783,7 +771,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d5ecb72fee94a6392942f1edfbf5f90.png" alt="Cover for Wildes Herz" style="max-width:120px; height:auto;" />
       </td>
@@ -797,12 +785,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 45</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cde1eb1441547b7a98cc586a60a33b1.png" alt="Cover for Back in Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -820,9 +808,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/7jpjed_kGpp4p4mj2eKCXlIadX7XqauNtLFRNvDbWho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzAx/MjUtMTI1OTU1NDc3/My5qcGVn.jpeg" alt="Cover for Sister Devil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fea76787b2c48913c8fffdf1cb78d40.png" alt="Cover for Sister Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-13</td>
       <td>Sixx</td>
@@ -837,13 +825,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 11</li>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 51</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
       </td>
       <td>2009-11-02</td>
@@ -857,14 +845,14 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 63</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 65</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2010-02-10</td>
@@ -885,7 +873,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04bce3c33008deb63ab511dd7a8ee84d.png" alt="Cover for The Great Cold Distance (10th Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -907,15 +895,15 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 87</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 89</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 88</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>83</td>
       <td>
-          <img src="https://i.discogs.com/a--Cmg-DsgClt4edQr1vdzQOdUNx_i-qWVA66g2vhj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQy/ODEtMTI4MjY5MzIy/Ny5qcGVn.jpeg" alt="Cover for Stop the World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4725cff622737d45141a9fe9d5a90d13.png" alt="Cover for Stop the World" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08</td>
       <td>Shadegrown</td>
@@ -934,7 +922,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/X9jrnWJk2uWn-uYZ43uX77QXUpW0_-m4mUSgC0IED1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTMxLTE1NzU0MTIy/NzMtMjc4Mi5qcGVn.jpeg" alt="Cover for Wrapped Up In Pinstripes" style="max-width:120px; height:auto;" />
       </td>
@@ -947,14 +935,14 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 19</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
-          <img src="https://i.discogs.com/bs1Ob6WG-M-dCY6cPkUQmNcIEWEr_a7b70BkQhtEIZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ5/MjQtMTMwMDQ2Njcx/Ny5qcGVn.jpeg" alt="Cover for No Paint On The Wall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a230155554d4257a281a95463896f2c.png" alt="Cover for No Paint On The Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-01</td>
       <td>Spiral69</td>
@@ -975,8 +963,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7998deaa7174aff8830893f3b90cf06.png" alt="Cover for A Dance You Won&#39;t Forget - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-16</td>
       <td>Farewell, My Love</td>
@@ -987,13 +976,13 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 65</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 44</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/5J8xYW4almUi6E8XlOrEMxEoY4j-vogucISNjAveYLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjMx/MjAtMTQyNzM3NjM4/OS00NDUwLmpwZWc.jpeg" alt="Cover for Carmini Mortis" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1002,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/814f7b0f565dbf395cbfa6a2312a0a72.png" alt="Cover for I Compagni di Baal" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1021,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Ml4ffRG5aytXDJaMygb0yAspJLJRrzVIjlw2F9DohmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzYw/NTEtMTM4MzgzNzgx/MS0xODA5LmpwZWc.jpeg" alt="Cover for Human Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1044,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dcf65a8378143d7c39b80432f17cac6.png" alt="Cover for Todsünde 8" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,7 +1063,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7454f2e0397ea4e37f3605dd28d1df4f.png" alt="Cover for Fear of a Unique Identity" style="max-width:120px; height:auto;" />
       </td>
@@ -1093,44 +1082,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/lapsBJyjxJ-ILjM1Wyi0amXmrbG1Mz0zP6AjvPYj-jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc1/NTctMTM5MTEzNzEz/OS02NTQ4LmpwZWc.jpeg" alt="Cover for The Nightside EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-12-13</td>
-      <td>1476</td>
-      <td>The Nightside EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 62</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f0486e96d83492982c861d244927985.png" alt="Cover for Wildwood" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1122,63 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1679d19886437782ac132a73783b33.png" alt="Cover for The Nightside EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-13</td>
+      <td>1476</td>
+      <td>The Nightside EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/Tos4UFbKM1ZxU92uaBGbd1lNqIoXiq3Qm8dPl-t7nIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODUy/MTAtMTM2OTEzNTQ0/Mi0xNzk2LmpwZWc.jpeg" alt="Cover for Medication" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Mal Etre</td>
+      <td>Medication</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/1ssruTVn7er5CmxjHEbSbH-1MFRdXPXJ5nRH-ixkmpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU4/MTc1LTE1ODYxMTEz/ODktODM4Ny5qcGVn.jpeg" alt="Cover for Eiszeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,26 +1201,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/Tos4UFbKM1ZxU92uaBGbd1lNqIoXiq3Qm8dPl-t7nIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODUy/MTAtMTM2OTEzNTQ0/Mi0xNzk2LmpwZWc.jpeg" alt="Cover for Medication" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Mal Etre</td>
-      <td>Medication</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e90fe24bb3d46a0ba5f03a2a55fe78f.png" alt="Cover for Bye-Bye Borderline" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,8 +1210,6 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>Bye-Bye Borderline</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
         </ul>
       </td>
       <td>
@@ -1231,9 +1218,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/FgK9CC2IRTu-iAaP_B8xba8jQhgktuBU9b60rwKOulw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njk3/MDM4LTE2ODEwMDI3/NjAtMzAxMS5qcGVn.jpeg" alt="Cover for Gold Tattoos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/724dc7710410466f8596584311fc637a.png" alt="Cover for Gold Tattoos" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-10</td>
       <td>Farewell, My Love</td>
@@ -1244,12 +1231,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 32</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/A33ZLocvqDN6kJuaJLlf30opl5eSDCMsbehGSMhbM4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTQ1/MTItMTQwMTczODE3/NS01MTQ5LmpwZWc.jpeg" alt="Cover for Rosenkreuzer" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1257,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bc5f4d213fc7441301c69ff4246e22c.png" alt="Cover for Monsters in the Closet" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1275,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9be6f63b55c72b6a2b7ae6a10188b85.png" alt="Cover for The Missing" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,12 +1290,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 23</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/MeQF2IYxF6aIR-h9WskLh70eG1nLkHEVarRXyPkW8DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODI3/NzgtMTQyNDU0MTg1/MS04MDQwLmpwZWc.jpeg" alt="Cover for DREAM ON SISTER" style="max-width:120px; height:auto;" />
       </td>
@@ -1329,7 +1316,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/S3iZV-NCQWqpgyrMv_Rcg7kD5elWoOLn0Jalt9C_AxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzgz/MzctMTUwNjg2MzMw/Mi0zMDMzLmpwZWc.jpeg" alt="Cover for Visionaers" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,9 +1335,27 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Tzm7rbF6xS88iQnotYoV87J-HNDw_l7rUP5m0ILSn9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzEy/MTAtMTQ2MTQ4MjY1/MC00NTI4LmpwZWc.jpeg" alt="Cover for Raise the Curtain" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/wze02WFD611Ee-WQJFOfdg3af8CgDtNdp2Mcfp802y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI0/OTktMTQyNDMzMzQy/MC0zMTMyLmpwZWc.jpeg" alt="Cover for Live at The Rainbow [unreleased]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-19</td>
+      <td>The Sins</td>
+      <td>Live at The Rainbow [unreleased]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5894663fbe9a13603a70025d547551f7.png" alt="Cover for Raise the Curtain" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-24</td>
       <td>Circus of Fools</td>
@@ -1372,7 +1377,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2013cc2a1deb7fa8634a6f0e13f07be7.png" alt="Cover for Black Lines" style="max-width:120px; height:auto;" />
       </td>
@@ -1389,7 +1394,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/KtsuKyVbO20_c6fJryW36P93JYC-NpdW_MWsRY5j0kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDMw/ODktMTQ0NDk0MTYx/Ni04NTc4LmpwZWc.jpeg" alt="Cover for In Gedenken" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1412,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b65b6f57f4c3bf3dfac8f0011dfd968e.png" alt="Cover for 不条理種劇" style="max-width:120px; height:auto;" />
       </td>
@@ -1427,9 +1432,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/-uaCa45qlu7CYZs7QIAsxeYZLqHHpqA4PivJ9rjzMlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTUz/MTktMTQ2MDY1ODcx/Mi0yNjA4LmpwZWc.jpeg" alt="Cover for Sorrow Returns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea1670a7bc500322299ac19dfa4e68e0.png" alt="Cover for Sorrow Returns" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-11</td>
       <td>Long Night</td>
@@ -1448,9 +1453,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/X9jrnWJk2uWn-uYZ43uX77QXUpW0_-m4mUSgC0IED1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTMxLTE1NzU0MTIy/NzMtMjc4Mi5qcGVn.jpeg" alt="Cover for Mirror, Mirror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423a0da5b441b3b3c418682721e6ba4e.png" alt="Cover for Mirror, Mirror" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-22</td>
       <td>Farewell, My Love</td>
@@ -1461,12 +1466,12 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 31</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2697fd40ed1d94ed59c3c907bccbead.png" alt="Cover for I LOVE YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1491,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/hyeqekUQc7uYtgOaAwq3Xtj1WCXoBc3dTWldE-BQ7Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/ODAwLTE2MDA0ODY0/NTctMjQxNi5qcGVn.jpeg" alt="Cover for The Infancy Gospels" style="max-width:120px; height:auto;" />
       </td>
@@ -1504,14 +1509,14 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 18</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>61</td>
       <td>
-          <img src="https://i.discogs.com/3vfE4Ro5Z006Yd9HqQKwlJTf6wKqn3u0MyowHwDvD3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI5/ODQwLTE1MDEyNjg1/MDQtNTI0OS5qcGVn.jpeg" alt="Cover for Lebenszeitverschwender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ac805fcf61180411a6b300173627ea.png" alt="Cover for Lebenszeitverschwender" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-28</td>
       <td>Kaizer</td>
@@ -1529,7 +1534,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33d941faa5066a1e4cb2800245264350.png" alt="Cover for In incontinence" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1555,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/D2xPbfbSZSkb2bi70cJhscfkxc3nqw8UWLrTMIhIMak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc3/MDgzLTE1NDc2NDc1/NjctNjYwNi5qcGVn.jpeg" alt="Cover for Nikola Cvetkovic Plays KATATONIA (A collection of solo piano renditions)" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,9 +1577,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/jSr6e7vq8d3hiKF7wpUgBM9Jk2I-8ur_GJowLKaW5Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk0/MzQzLTE1MzY0MDQx/MDQtNjUyNC5qcGVn.jpeg" alt="Cover for The Tragedy Of Seconds Gone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dbe7117e1214ad5db66f85ad991ed46.png" alt="Cover for The Tragedy Of Seconds Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-27</td>
       <td>Wisborg</td>
@@ -1595,7 +1600,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/5PFOwSLORtzIHRbS9YU4CDyQW1wFhAVWR7z__AO9dEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjM5/NTM2LTE2Mzg3MjIz/OTgtODYzNi5qcGVn.jpeg" alt="Cover for Бессмертный" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1621,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/3ASlc4qZhg1bMmNtcuPhkdzJMgA5RC-M3ImE6Hbf4yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc0/NDcyLTE1NDg5NjQ4/NzMtNzIyMi5qcGVn.jpeg" alt="Cover for Barren Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1642,47 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea8117966e2efd5dd7e99c7d7e0074e.png" alt="Cover for Tick Tock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-12</td>
+      <td>Long Night</td>
+      <td>Tick Tock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78f4dbace7fe1df8bf340b1e1c3a97d5.png" alt="Cover for Tick Tock (2nd press)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-12</td>
+      <td>Long Night</td>
+      <td>Tick Tock (2nd press)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/gLPFzuMM95ODSwir3-PMO3pWZYPyLpuUGB-Nufc9oIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NzkyLTE1ODcwNjE3/MTAtNjY5Ny5qcGVn.jpeg" alt="Cover for Tick Tock - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1658,48 +1703,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>54</td>
       <td>
-          <img src="https://i.discogs.com/gLPFzuMM95ODSwir3-PMO3pWZYPyLpuUGB-Nufc9oIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NzkyLTE1ODcwNjE3/MTAtNjY5Ny5qcGVn.jpeg" alt="Cover for Tick Tock (2nd press)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-12</td>
-      <td>Long Night</td>
-      <td>Tick Tock (2nd press)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://i.discogs.com/gLPFzuMM95ODSwir3-PMO3pWZYPyLpuUGB-Nufc9oIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NzkyLTE1ODcwNjE3/MTAtNjY5Ny5qcGVn.jpeg" alt="Cover for Tick Tock" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-03-12</td>
-      <td>Long Night</td>
-      <td>Tick Tock</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c4b71b1312a0cb16c22d078efea436.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-26</td>
       <td>Oceanlord</td>
@@ -1722,9 +1728,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/-YOpUAH4-L5S52Hlwombj-ART7H8BrwRiuqQ6pGGrms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI1/NzY4LTE2MTExOTg0/OTItNzkzMC5qcGVn.jpeg" alt="Cover for Irkalla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b14b4a0ae59f4ab661f0f8c1e548e4f3.png" alt="Cover for Irkalla" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-01-15</td>
       <td>Vajra</td>
@@ -1743,7 +1749,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Z9tok5ij3no_brQPFaoLMlkaKJSrznliQqqGtm0cHUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI2/MjQ3LTE2Mzc5MjAw/NjUtNTk0OC5qcGVn.jpeg" alt="Cover for FREMD (FREMDER-ZYKLUS, TEIL 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1760,9 +1766,9 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/N_uIhNVyL7qsOOPlR-tmDQVVPMYLdJig4XkbZm4Z0iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjM1/MzMzLTE2NjQxODcy/OTAtMTU0NS5qcGVn.jpeg" alt="Cover for Gotta Light?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82661bdad2ca04bee64ddb9fdd27029c.png" alt="Cover for Gotta Light?" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>Crone</td>
@@ -1780,7 +1786,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09bb895b73018b158d15af851d600337.png" alt="Cover for Autonomy" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,7 +1807,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/9JLQiO5NyLNPHIyATmKAL1r-rxiR5Nh8e5F09bH3gwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQw/NjUtMTQ4NTk4NTE4/OS05OTcxLmpwZWc.jpeg" alt="Cover for Bring Me To Life: Evanescence Tribute" style="max-width:120px; height:auto;" />
       </td>
@@ -1821,7 +1827,7 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5c5c0684b20f45712881feaa77cdaab.png" alt="Cover for Neon Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,19 +1837,22 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 21</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 25</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9488ec4e89af6286ecae52f339b33ad3.png" alt="Cover for Kingdom Cold" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-26</td>
       <td>Oceanlord</td>
@@ -1866,111 +1875,133 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84b5bb1aadf93cfdbc6c26c8ade2bf5.png" alt="Cover for Greatest Lovesongs Vol. 666" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HIM</td>
+      <td>Greatest Lovesongs Vol. 666</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 12</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Same Old Shiver</td>
+      <td>Treasure What You Find</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5239e1c016ca46a6bc765731e140b8b7.png" alt="Cover for Screamworks: Love In Theory And Practice" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HIM</td>
+      <td>Screamworks: Love In Theory And Practice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd8807ddb743eec22dd424b5d2dc3611.png" alt="Cover for Love Metal" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>HIM</td>
+      <td>Love Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
       </td>
       <td></td>
       <td>Herdwhite</td>
-      <td>Self Mutation</td>
+      <td>The Gift</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Herdwhite</td>
-      <td>Despair</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 36</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Herdwhite</td>
-      <td>All Out Aggression</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Herdwhite</td>
-      <td>Lost In The Big City</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -2015,193 +2046,111 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
       <td>Herdwhite</td>
-      <td>The Gift</td>
+      <td>Lost In The Big City</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Herdwhite</td>
+      <td>All Out Aggression</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 16</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd8807ddb743eec22dd424b5d2dc3611.png" alt="Cover for Love Metal" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>HIM</td>
-      <td>Love Metal</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>88</td>
       <td>
       </td>
       <td></td>
-      <td>Thomas Hornauer</td>
-      <td>Hornauers großes musikalisches Kunstwerk</td>
+      <td>Herdwhite</td>
+      <td>Despair</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 20</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 27</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 34</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 48</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Same Old Shiver</td>
-      <td>Treasure What You Find</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>95</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e84b5bb1aadf93cfdbc6c26c8ade2bf5.png" alt="Cover for Greatest Lovesongs Vol. 666" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>HIM</td>
-      <td>Greatest Lovesongs Vol. 666</td>
+      <td>Herdwhite</td>
+      <td>Self Mutation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acd444154dac98f45b7147a7ac759974.png" alt="Cover for Lament" style="max-width:120px; height:auto;" />
       </td>
@@ -2220,15 +2169,18 @@ Dark rock blends heavy guitar-driven sounds with melancholic atmospheres, gothic
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>99</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5239e1c016ca46a6bc765731e140b8b7.png" alt="Cover for Screamworks: Love In Theory And Practice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06a295aee5aad50a966fb39f8ce25aae.png" alt="Cover for Bad Burn" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>HIM</td>
-      <td>Screamworks: Love In Theory And Practice</td>
+      <td>squealshuft</td>
+      <td>Bad Burn</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:57:00.511Z
+date: 2025-12-03T09:28:12.211Z
 permalink: tags/ambient-dub
 title: ambient dub
 ---
 
 ## ambient dub
 
-Last updated: <time datetime="2025-11-23T08:57:00.511Z">Sun Nov 23 2025 10:57:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T09:28:12.211Z">Wed Dec 03 2025 11:28:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 98</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 3</li>
             <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 100</li>
         </ul>
       </td>
@@ -124,7 +124,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 5</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -144,8 +144,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 7</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 17</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -189,9 +189,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 11</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 15</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 12</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 69</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 86</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 94</li>
         </ul>
       </td>
@@ -325,8 +325,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 26</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 43</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 75</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 91</li>
         </ul>
       </td>
@@ -564,9 +564,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 20</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 57</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -612,9 +612,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 11</li>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 47</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 12</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 49</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 73</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +743,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 29</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 38</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 39</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 79</li>
         </ul>
       </td>
@@ -790,7 +790,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 3</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 80</li>
         </ul>
       </td>
@@ -810,11 +810,11 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 45</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 52</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +838,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 15</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 85</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -876,9 +876,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 41</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 18</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 83</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 60</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
         </ul>
       </td>
@@ -987,9 +987,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 12</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 25</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 58</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 13</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 30</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1198,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 10</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 11</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 53</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 57</li>
         </ul>
@@ -1222,10 +1222,10 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
@@ -1294,7 +1294,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 63</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 92</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
@@ -1339,9 +1339,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 36</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 54</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 64</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1360,7 +1360,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1385,9 +1385,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 25</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 27</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 73</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
         </ul>
       </td>
@@ -1412,7 +1412,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 2</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 3</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 71</li>
         </ul>
       </td>
@@ -1472,9 +1472,9 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1512,6 +1512,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1531,7 +1532,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 66</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 100</li>
         </ul>
       </td>
@@ -1611,7 +1612,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1755,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 96</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 5</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 99</li>
         </ul>
       </td>
@@ -1843,7 +1844,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 34</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 89</li>
         </ul>
       </td>
@@ -2034,7 +2035,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 39</li>
             <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 73</li>
         </ul>
       </td>
@@ -2065,7 +2066,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/8d1y4cVjewfyIyutsJIw21jgKeqJ1DXhde97UZ4Pxpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDAz/MzI0LTE2NjcyMTEy/NjktMTAyMC5qcGVn.jpeg" alt="Cover for Faded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1143ecf9937b51608fc878c514cbf3e2.png" alt="Cover for Faded" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-24</td>
       <td>mu tate</td>
@@ -2104,8 +2105,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 33</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 63</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2163,7 +2164,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 35</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2231,8 +2232,8 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 4</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2253,14 +2254,15 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 30</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 63</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c4780c2fb5ec09dc4712a53211aaf4d.png" alt="Cover for Järnnätter" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Civilistjävel!</td>
@@ -2275,7 +2277,7 @@ Ambient dub fuses the spacious, atmospheric textures of ambient music with dub&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 52</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 53</li>
         </ul>
       </td>
     </tr>
