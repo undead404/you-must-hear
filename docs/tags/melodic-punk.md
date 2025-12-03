@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:20:49.305Z
+date: 2025-12-03T03:51:45.925Z
 permalink: tags/melodic-punk
 title: melodic punk
 ---
 
 ## melodic punk
 
-Last updated: <time datetime="2025-11-14T00:20:49.305Z">Fri Nov 14 2025 02:20:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:51:45.925Z">Wed Dec 03 2025 05:51:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -91,7 +91,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/9VqArERi4l5gOm7FAfIMfBfjZRq7EgBpJP6QD_JS8K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTMw/NDgtMTYxNDkwNjEz/Ny0zNDk2LnBuZw.jpeg" alt="Cover for Rollkicker Laydown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1468a68b12d11f8fde67e508ac166330.png" alt="Cover for Rollkicker Laydown" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Rollkicker Laydown</td>
@@ -108,7 +108,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 61</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -127,7 +127,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 88</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +465,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 41</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -520,9 +520,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 37</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -599,7 +598,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 18</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -699,7 +698,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 12</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -761,7 +760,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/EeC07xVVBqnEvWI1Ku_h0VFEkEYBxdrLG5-b8TcWvXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjE4/NTEtMTQyOTU1ODI2/OC02NzgyLmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a9a7c6cb5044428f60b7f646396206.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Rearranged</td>
@@ -781,8 +780,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 40</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 57</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 42</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 73</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 76</li>
         </ul>
@@ -802,8 +801,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 25</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 63</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -973,8 +972,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 78</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -992,7 +991,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 99</li>
         </ul>
       </td>
@@ -1036,7 +1036,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 3</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 4</li>
             <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 90</li>
         </ul>
       </td>
@@ -1044,7 +1044,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/FJMJV2ATSPRCEYAypczw5XNH6A4cgUfDfB-UOo426XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODUz/MzktMTY0ODI3MDQ1/OS0zNTgxLmpwZWc.jpeg" alt="Cover for At Half Mast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/018c120e5cec41f1af470e6e31a2f870.png" alt="Cover for At Half Mast" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Scarred</td>
@@ -1251,6 +1251,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1488,8 +1489,8 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 1</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 49</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 53</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 66</li>
         </ul>
       </td>
@@ -1546,10 +1547,10 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
@@ -1578,7 +1579,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       <td>
         <ul>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 55</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 63</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1833,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/cQukNZ06CoGInqCZoyLQr-9r010q_thsDZm4R0JbHNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDQ1/MTMtMTQxNjk1NjA0/MC0xMTgyLmpwZWc.jpeg" alt="Cover for Trashfiction" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/081933903c7c4666c6fad07a4e3362c3.png" alt="Cover for Trashfiction" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Feral Trash</td>
@@ -1882,14 +1883,13 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/zpZELryx7cse2dbMLfHFW2b1rUU4CwHTHD1AieAbXlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY1/NjQ3LTE1MTUwMTk3/MTQtMzE0My5qcGVn.jpeg" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89eefec82b1cea4a41a41464e48b9c64.png" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-26</td>
       <td>Shadows</td>
@@ -1988,8 +1988,9 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 27</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 38</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2016,7 +2017,7 @@ Melodic punk combines the aggressive energy and fast tempos of punk rock with ca
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/7eSTjxSVxWHI92fswkkQV2cBeS8x5lYMe2tWyD187CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU1/OTk5LTE2ODgyOTY4/MzUtOTA4MC5qcGVn.jpeg" alt="Cover for torches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d65e12d62076e62c52b9387c646b11.png" alt="Cover for torches" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-12</td>
       <td>Shadows</td>

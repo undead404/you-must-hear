@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:19:14.482Z
+date: 2025-12-03T03:43:39.954Z
 permalink: tags/indie-emo
 title: indie emo
 ---
 
 ## indie emo
 
-Last updated: <time datetime="2025-11-14T00:19:14.482Z">Fri Nov 14 2025 02:19:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:43:39.954Z">Wed Dec 03 2025 05:43:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -184,9 +184,8 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       <td>Stereo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
       <td>
@@ -599,6 +598,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8225603623854f2f886eed59499ee81b.png" alt="Cover for The Record Play" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-01</td>
       <td>Mock Orange</td>
@@ -701,6 +701,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cb6b983fd104e16ce4496963c2e9147.png" alt="Cover for Where You Are and Where You Want to Be" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-19</td>
       <td>On The Might of Princes</td>
@@ -777,26 +778,9 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/474b7d0cc6530f6d3e0041b527841cd1.png" alt="Cover for Something Loud" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Jimmy Eat World</td>
-      <td>Something Loud</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e410095869842bebf78eb3d1a3f1f9d.png" alt="Cover for Demure" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-01</td>
       <td>Engine Down</td>
@@ -942,7 +926,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 5</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1131,11 +1115,10 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 42</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 43</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
@@ -1188,10 +1171,10 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
         <ul>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 69</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1242,13 +1225,13 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 5</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
         </ul>
       </td>
@@ -1309,7 +1292,6 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1741,8 +1723,8 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 1</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 33</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 66</li>
         </ul>
       </td>
@@ -1799,10 +1781,10 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 6</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 44</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 18</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 45</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
         </ul>
       </td>
@@ -1861,7 +1843,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1879,25 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 55</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/474b7d0cc6530f6d3e0041b527841cd1.png" alt="Cover for Something Loud" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-10</td>
+      <td>Jimmy Eat World</td>
+      <td>Something Loud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2044,7 +2044,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 14</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2064,7 +2064,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 2</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2089,7 +2089,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 11</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2109,7 +2109,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 38</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2129,7 +2129,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 45</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2148,7 +2148,7 @@ Indie emo blends the introspective lyrics and emotional intensity of emo with in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 56</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 57</li>
         </ul>
       </td>
     </tr>

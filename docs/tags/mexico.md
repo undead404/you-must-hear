@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T20:08:44.719Z
+date: 2025-12-03T03:43:14.309Z
 permalink: tags/mexico
 title: mexico
 ---
 
 ## mexico
 
-Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:43:14.309Z">Wed Dec 03 2025 05:43:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -106,9 +106,9 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 37</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 65</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
         </ul>
       </td>
@@ -186,7 +186,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 97</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -230,9 +230,9 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 17</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 52</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 66</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 67</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 89</li>
         </ul>
       </td>
@@ -292,7 +292,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 25</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -340,10 +340,10 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 39</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -377,11 +377,11 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 89</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
         </ul>
@@ -526,7 +526,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       <td>
         <ul>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 85</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 95</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 75</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +678,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 56</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -737,8 +737,8 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 27</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 42</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -760,8 +760,8 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 24</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 44</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -863,8 +863,8 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 17</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 52</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +956,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 85</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1256,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/hHiQXtIyUdkyWo37iYSnppaMEdAfn03A7ETUVxZ3HU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc5/NjEtMTQ4MzgxMTE4/Mi0zMjM4LmpwZWc.jpeg" alt="Cover for BUSH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2f47e51669a47ccc73c5c3735166cc5.png" alt="Cover for BUSH" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Snoop Dogg</td>
@@ -1349,7 +1349,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       <td>
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 14</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 27</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 28</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 94</li>
         </ul>
       </td>
@@ -1368,7 +1368,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 74</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1628,10 +1628,10 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 38</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 47</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 78</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1657,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 4</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1681,8 +1681,8 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 82</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 84</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 18</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1928,7 +1928,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 55</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2007,7 +2007,7 @@ Last updated: <time datetime="2025-11-16T20:08:44.719Z">Sun Nov 16 2025 22:08:44
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 3</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 9</li>
         </ul>
       </td>
     </tr>

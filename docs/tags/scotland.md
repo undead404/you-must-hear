@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:51:24.220Z
+date: 2025-12-03T03:56:46.160Z
 permalink: tags/scotland
 title: scotland
 ---
 
 ## scotland
 
-Last updated: <time datetime="2025-11-24T12:51:24.220Z">Mon Nov 24 2025 14:51:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:56:46.160Z">Wed Dec 03 2025 05:56:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -347,7 +347,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/sK4oAj5tbPSzg4to5Qg4j6TKYw0125Ftf6kV11yGkNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzgy/OS0xMTIxOTcwOTQx/LmpwZw.jpeg" alt="Cover for Sideway Look" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bedb771be0c83cd6cf92801529728f.png" alt="Cover for Sideway Look" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Sideway Look</td>
@@ -385,7 +385,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       <td>
         <ul>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 26</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 68</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -565,7 +565,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
         <ul>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 76</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 77</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
@@ -628,7 +628,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 36</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -870,8 +870,8 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 6</li>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 92</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1120,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 66</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 80</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 21</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 81</li>
         </ul>
       </td>
@@ -1285,7 +1285,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 89</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1378,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 79</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1500,7 +1500,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 68</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1598,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 65</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1646,9 +1646,9 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 23</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 66</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 67</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 78</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 90</li>
         </ul>
       </td>
@@ -1690,7 +1690,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 96</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1738,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 92</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1778,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 94</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1799,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 82</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1905,7 @@ Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 30</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 71</li>
         </ul>
       </td>
     </tr>

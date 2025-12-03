@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:36:10.902Z
+date: 2025-12-03T03:41:48.274Z
 permalink: tags/dream-folk
 title: dream folk
 ---
 
 ## dream folk
 
-Last updated: <time datetime="2025-11-15T01:36:10.902Z">Sat Nov 15 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:41:48.274Z">Wed Dec 03 2025 05:41:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,9 +45,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 60</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 73</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 92</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 50</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -93,8 +93,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
         </ul>
@@ -164,7 +164,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 32</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -228,9 +228,10 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 23</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 25</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 26</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 59</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 72</li>
         </ul>
       </td>
@@ -252,8 +253,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 62</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 70</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
@@ -277,8 +278,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 8</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 70</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 72</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 71</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 77</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 88</li>
         </ul>
@@ -311,7 +312,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 19</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
         </ul>
       </td>
@@ -334,8 +335,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 57</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 73</li>
         </ul>
       </td>
@@ -357,10 +358,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 14</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 28</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 3</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 30</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 98</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
         </ul>
       </td>
@@ -380,16 +383,16 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
             <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -414,9 +417,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 19</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 22</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
         </ul>
@@ -455,7 +458,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 66</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -511,11 +514,11 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 14</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 38</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 57</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 67</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -564,11 +567,11 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 15</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 21</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
@@ -597,7 +600,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/C-x2-F9P_Ixv9QCL8pMsWkXcdWbP27aE1Sl42NhBd-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODcy/OS0xMTY0MDI0OTA4/LmpwZWc.jpeg" alt="Cover for Sweet Beliefs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0497b1845946a98f8c3d8cc8b41ee6.png" alt="Cover for Sweet Beliefs" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-11</td>
       <td>Cyann &amp; Ben</td>
@@ -637,8 +640,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 48</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
@@ -731,20 +734,17 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d57005b78804d57cd6984b1856bbecf.png" alt="Cover for The Ventriloquist" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-07</td>
       <td>Ruby Throat</td>
       <td>The Ventriloquist</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -789,10 +789,10 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 25</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 37</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 46</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 26</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +827,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 7</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 44</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 46</li>
         </ul>
       </td>
@@ -835,7 +835,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/QpuDORlSwD3pTDeGsAbX5_1AJfJ4-NVqSeqHLWXMPro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MjI0LTE1Njk3Njgw/MjgtNDIzNS5qcGVn.jpeg" alt="Cover for Rock Falls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6631eba07ed940fccb9a02b9c61c4e5.png" alt="Cover for Rock Falls" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Rock Falls</td>
@@ -909,6 +909,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -929,8 +930,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 18</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 19</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 75</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
         </ul>
@@ -1002,9 +1003,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 60</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 36</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 66</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 74</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 97</li>
         </ul>
       </td>
@@ -1012,6 +1013,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac970ddb6900fdf88864a9f9a582b38.png" alt="Cover for Kari-gurashi" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-07</td>
       <td>Cécile Corbel</td>
@@ -1038,15 +1040,16 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 66</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 66</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 67</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b637a9e651d739b1d45c23e425f062b.png" alt="Cover for Yuni In Taxco EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-30</td>
       <td>Yuni in Taxco</td>
@@ -1064,9 +1067,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 2</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 29</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 8</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1087,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 24</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 8</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 36</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 79</li>
         </ul>
       </td>
@@ -1108,9 +1112,9 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 17</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 31</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 33</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 18</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 35</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 44</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
         </ul>
@@ -1149,8 +1153,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 65</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 66</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
@@ -1183,10 +1187,10 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 16</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 52</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 57</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1222,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 40</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 68</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 77</li>
         </ul>
@@ -1292,7 +1296,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 26</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 75</li>
         </ul>
       </td>
@@ -1364,12 +1368,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 19</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 24</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 25</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1434,7 +1438,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 38</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 42</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1459,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 59</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 81</li>
         </ul>
       </td>
@@ -1511,7 +1515,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 39</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 56</li>
         </ul>
       </td>
@@ -1519,7 +1523,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Luc Arbogast</td>
@@ -1540,12 +1544,12 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 10</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 9</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 45</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 46</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 47</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
         </ul>
       </td>
@@ -1707,8 +1711,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 34</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 36</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1733,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1757,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 14</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 28</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 53</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 55</li>
@@ -1784,13 +1788,13 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 40</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 52</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1840,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3767ec2dab0ad025ea9f3426896b9fbb.png" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>Luc Arbogast</td>
@@ -1853,8 +1857,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 36</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 12</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 37</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 51</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 56</li>
         </ul>
@@ -1945,7 +1949,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/VN-Fy2vgFZQKsBOZ5mRtStZZT4yUMKSQU_Ulsi3xXxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQ2/MDg3LTE2MTE4NDYx/MDQtNzk3NC5qcGVn.jpeg" alt="Cover for Капитаны ждут рассвета" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c082c62605004dccd34bc607cc2a6cd.png" alt="Cover for Капитаны ждут рассвета" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-27</td>
       <td>Утроворту</td>
@@ -2028,14 +2032,14 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/eccGwAXixl4wjbZd9rEHEzY0R5ssT6cMNiG5M7J6puU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjE5/ODIwLTE1NzgzMTY0/MjgtOTY3Ny5qcGVn.jpeg" alt="Cover for Deep Maine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1004f82b7e7828c68167cb9e7aedee40.png" alt="Cover for Deep Maine" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-30</td>
       <td>Big Blood</td>
@@ -2055,7 +2059,7 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/SWuuGsrewAbQqGfwBHOJOsi_f8llnB1AMqymzABxBxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE2/OTk5LTE2MzI5NjIz/MDgtOTM1NS5qcGVn.jpeg" alt="Cover for Sylvan Lands, Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd606a600a3efbf526e136b6001f1ca.png" alt="Cover for Sylvan Lands, Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-14</td>
       <td>Holden Days</td>
@@ -2079,26 +2083,13 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>The Wrath of the Clouds</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 79</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2135,8 +2126,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 26</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -2162,30 +2153,8 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 39</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Flёur</td>
-      <td>Флёрография</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2358,8 +2327,28 @@ Dream folk blends the intimate storytelling of folk music with ethereal, atmosph
       </td>
     </tr>
     <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/621ccd4fbff245079a91d5f91cbeb320.png" alt="Cover for Флёрография" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Flёur</td>
+      <td>Флёрография</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bfe22e2e889c8c3a72f2cf85145c637.png" alt="Cover for Full Hearts, Empty Places" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Allen Odell</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T07:10:51.367Z
+date: 2025-12-03T03:43:23.006Z
 permalink: tags/hair-metal
 title: hair metal
 ---
 
 ## hair metal
 
-Last updated: <time datetime="2025-11-04T07:10:51.367Z">Tue Nov 04 2025 09:10:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:43:23.006Z">Wed Dec 03 2025 05:43:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,8 +79,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 46</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 99</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 96</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -134,7 +134,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 90</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -152,7 +152,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -189,7 +189,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 97</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +208,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 29</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -226,8 +226,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 12</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 46</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 57</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 69</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +265,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 13</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -301,8 +301,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 1</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 21</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -338,8 +338,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 50</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 91</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -375,9 +375,9 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 51</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 52</li>
             <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 80</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -467,7 +467,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 14</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 65</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -525,7 +525,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 21</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 75</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +615,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 21</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +701,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 29</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 94</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +738,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -756,8 +756,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 8</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 26</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -781,6 +781,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/855b90a9a004eba0debf66ff7b1bebf3.png" alt="Cover for After the Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Nelson</td>
@@ -827,7 +828,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 54</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +846,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 22</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -978,6 +979,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1009,8 +1011,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 85.33333333333334 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -1071,7 +1072,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1133,8 +1134,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 17</li>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1208,14 +1209,15 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 34</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 81</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 65</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb6ac52b010491e3bac75cc9019e450c.png" alt="Cover for Psychedelic Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-01</td>
       <td>The Creation</td>
@@ -1262,7 +1264,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1304,6 +1306,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/620ba79bd8e946cfc60a34cba41f0dd2.png" alt="Cover for Wig Wamania" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-13</td>
       <td>Wig Wam</td>
@@ -1319,7 +1322,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 45</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1411,6 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -1425,24 +1427,23 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 13</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 38</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 52</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 68</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
@@ -1542,10 +1543,10 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 11</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 88</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 13</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 63</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1589,32 +1590,31 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 1</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 21</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1645,17 +1645,18 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 6</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 7</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 11</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 31</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
         </ul>
       </td>
@@ -1731,7 +1732,6 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1753,37 +1753,38 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1802,14 +1803,15 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 6</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 22</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1860,13 +1862,13 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 16</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 21</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 43</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 47</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 49</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 58</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 71</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 80</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1885,16 +1887,16 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 15</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 85</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
         </ul>
       </td>
@@ -1902,6 +1904,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>A$AP Rocky</td>
@@ -1928,19 +1931,19 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 1</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 1</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 1</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 4</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 99</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
         </ul>
       </td>
@@ -2017,12 +2020,12 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 28</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 20</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 56</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2041,12 +2044,12 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 40</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 13</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 17</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 36</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 59</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 66</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 78</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 91</li>
         </ul>
@@ -2128,13 +2131,13 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       <td>
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 5</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 49</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 51</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 37</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2210,25 +2213,25 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 18</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
@@ -2305,11 +2308,12 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 24</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 37</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 2</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 23</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 53</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 78</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2337,9 +2341,9 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 38</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 47</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 57</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 62</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 70</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 81</li>
         </ul>
@@ -2355,8 +2359,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       <td>Drown</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
@@ -2371,16 +2375,16 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 30</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
         </ul>
@@ -2389,7 +2393,7 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/HXRBS0tGwWqKjC3AcPjQXEGH_OPsJh3oM0wSlBsnOT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI2/NjItMTQ1NjUwNjc2/Mi05MzQ4LmdpZg.jpeg" alt="Cover for Live from Lexxi&#39;s Mom&#39;s Garage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc1d65cca26b26920a24e889b09c6dc1.png" alt="Cover for Live from Lexxi&#39;s Mom&#39;s Garage" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Steel Panther</td>
@@ -2405,8 +2409,8 @@ Hair metal, also known as glam metal, is a subgenre of heavy metal and hard rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 6</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 35</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 36</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 93</li>
         </ul>
       </td>
     </tr>

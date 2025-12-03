@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T18:48:31.964Z
+date: 2025-12-03T04:01:46.008Z
 permalink: tags/jamaican
 title: jamaican
 ---
 
 ## jamaican
 
-Last updated: <time datetime="2025-11-08T18:48:31.964Z">Sat Nov 08 2025 20:48:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:01:46.008Z">Wed Dec 03 2025 06:01:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/jvWkMPGDTO5n8doXRjVzPlcL5v3GKLGWwnvmOBbTY3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzQz/NDMtMTQ4NjE0NDc0/Ni0xMDUyLmpwZWc.jpeg" alt="Cover for Jamaican Folk Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51fb46a7ee684b758d2fa0100e64f0fd.png" alt="Cover for Jamaican Folk Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1954</td>
       <td>Louise Bennett</td>
@@ -136,7 +136,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 64</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 65</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 69</li>
         </ul>
       </td>
@@ -155,7 +155,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 62</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 63</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 88</li>
         </ul>
       </td>
@@ -174,7 +174,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 43</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 64</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 76</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -230,7 +230,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 36</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 38</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 74</li>
         </ul>
       </td>
@@ -452,15 +452,11 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       <td>Nightclubbing</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 23</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 59</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +574,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 77</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 78</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 98</li>
         </ul>
       </td>
@@ -954,7 +950,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1050,6 +1046,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 2</li>
             <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 71</li>
         </ul>
       </td>
@@ -1072,7 +1069,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 8</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1161,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 34</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1191,6 +1188,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/589637d79e6c7841af07de2b9a31931a.png" alt="Cover for Love You" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-01</td>
       <td>Ghost</td>
@@ -1244,7 +1242,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 51</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1300,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 40</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1323,7 +1321,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 25</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1354,14 +1352,11 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       <td>Dutty Rock</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 38</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 78</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 57</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
         </ul>
       </td>
@@ -1582,7 +1577,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 66</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1595,6 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 23</li>
             <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 98</li>
         </ul>
       </td>
@@ -1691,6 +1685,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c05e72b2bd04819b1d56fb65bbcc08e.png" alt="Cover for Marley" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-16</td>
       <td>Bob Marley &amp; The Wailers</td>
@@ -1712,7 +1707,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/KKLAEaqq2ou96VHPiPG52b_xuEMYXZjCRozoLe_sruY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjA3/NTYtMTQ0NTMwNzIz/Mi00MjI5LmpwZWc.jpeg" alt="Cover for Me 4 U" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2192b49665cafa28330248ddcd30594.png" alt="Cover for Me 4 U" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-16</td>
       <td>Omi</td>
@@ -1728,15 +1723,15 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 94</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/ctZ7ManJ-svtHApFMcvacNY0zA_DWB3m_uT_wAszQ04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTAx/ODUtMTQ1NDE4MTI0/MS01MTM3LmpwZWc.jpeg" alt="Cover for Madlib Medicine Show No. 4 - 420 Chalice All Stars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbe634a8a6444070935f6ec59b53196b.png" alt="Cover for Madlib Medicine Show No. 4 - 420 Chalice All Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-09</td>
       <td>Madlib</td>
@@ -1831,7 +1826,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 11</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1864,7 @@ Jamaican music encompasses the diverse sounds originating from Jamaica, includin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 6</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 11</li>
         </ul>
       </td>
     </tr>

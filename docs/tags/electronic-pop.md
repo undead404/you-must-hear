@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:54:02.615Z
+date: 2025-12-03T05:16:51.366Z
 permalink: tags/electronic-pop
 title: electronic pop
 ---
 
 ## electronic pop
 
-Last updated: <time datetime="2025-11-24T12:54:02.615Z">Mon Nov 24 2025 14:54:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T05:16:51.366Z">Wed Dec 03 2025 07:16:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -102,9 +102,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 20</li>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 81</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
@@ -140,8 +140,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 78</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 98</li>
         </ul>
       </td>
@@ -194,7 +194,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/k-nryYiKvEzRqfjahImVA2dOdBDg3HMXGW6UA9Ku1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDg3/OC0xMTcyMzUxMjk2/LmpwZWc.jpeg" alt="Cover for AUSLÄNDER (REMIXES)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb02ac1c4071d5d8a037908f1d33b34.png" alt="Cover for AUSLÄNDER (REMIXES)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Rammstein</td>
@@ -308,7 +308,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 84</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +464,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
@@ -676,12 +676,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 39</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 51</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 53</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
@@ -833,7 +833,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 8</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -912,8 +912,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 8</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 43</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 60</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 41</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -942,8 +942,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 67</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 88</li>
         </ul>
       </td>
@@ -1038,8 +1038,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 35</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
@@ -1065,8 +1065,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 94</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 97</li>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 97</li>
         </ul>
@@ -1082,8 +1082,6 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       <td>Body Talk Pt. 3</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
         </ul>
       </td>
       <td>
@@ -1131,6 +1129,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 1</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 81</li>
         </ul>
       </td>
@@ -1263,6 +1262,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdd8b255037453fa9faab09cd708bad.png" alt="Cover for qia songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-07</td>
       <td>N-qia</td>
@@ -1321,10 +1321,10 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 42</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 53</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 48</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1408,9 +1408,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 7</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 32</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1496,8 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 31</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 59</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1528,9 +1528,9 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 43</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 64</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 37</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 47</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 82</li>
         </ul>
       </td>
@@ -1656,7 +1656,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 12</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1709,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 23</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1849,10 +1849,10 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 6</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1925,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2041,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 21</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 22</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 36</li>
         </ul>
       </td>
@@ -2120,7 +2120,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 62</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2186,12 +2186,12 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 12</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 16</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 18</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 82</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 83</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2230,7 +2230,7 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 95</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2262,11 +2262,11 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 94</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
@@ -2463,6 +2463,26 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
       </td>
     </tr>
     <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Long Gone Blond</td>
+      <td>Where?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>13</td>
       <td>
       </td>
@@ -2515,25 +2535,6 @@ Electronic pop merges synthesizers, drum machines, and digital production with c
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Long Gone Blond</td>
-      <td>Where?</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T02:00:51.019Z
+date: 2025-12-03T05:11:46.823Z
 permalink: tags/italiana
 title: italiana
 ---
 
 ## italiana
 
-Last updated: <time datetime="2025-11-03T02:00:51.019Z">Mon Nov 03 2025 04:00:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T05:11:46.823Z">Wed Dec 03 2025 07:11:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
   </thead>
   <tbody>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/2MdEvEFrV7GkUR4KTSLTw1HYu9MbQ6gxtWdHJFeeZWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE0/NDItMTI2ODQwNzY5/OC5qcGVn.jpeg" alt="Cover for Rita Pavone" style="max-width:120px; height:auto;" />
       </td>
@@ -47,8 +47,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59b29309a29d516f04ec41386459a49f.png" alt="Cover for Non al denaro non all&#39;amore né al cielo" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Fabrizio De André</td>
@@ -68,30 +69,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>83</td>
       <td>
-      </td>
-      <td>1972</td>
-      <td>Claudio Lolli</td>
-      <td>Aspettando Godot</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/EKxhzHgHrsT3v7E65mOSPuBR6G9cQtc4SynfLdbxEFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDEy/MzQtMTQ5MzcyNzY3/MC02NjkyLmpwZWc.jpeg" alt="Cover for Fabrizio De André Opere Complete" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75e70243daf54bebab89c06bb85e046f.png" alt="Cover for Fabrizio De André Opere Complete" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Fabrizio De André</td>
@@ -114,6 +94,27 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       <td>90</td>
       <td>
       </td>
+      <td>1972</td>
+      <td>Claudio Lolli</td>
+      <td>Aspettando Godot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
       <td>1972-04</td>
       <td>Lucio Battisti</td>
       <td>Umanamente Uomo: Il Sogno</td>
@@ -130,7 +131,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
       </td>
       <td>1972-09</td>
@@ -150,8 +151,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/633970fd374e4473b3c6b81d929bd234.png" alt="Cover for Il Mio Canto Libero" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-11</td>
       <td>Lucio Battisti</td>
@@ -169,9 +171,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/td5iHTVvoLBQTeHJ-5SpgX0ZPQkM6mPUopX9oz2pL-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEx/MTAtMTI0Nzc3ODEz/My5qcGVn.jpeg" alt="Cover for Storia Di Un Impiegato" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09a046cc8647468cbd6adc71542c20d8.png" alt="Cover for Storia Di Un Impiegato" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Fabrizio De André</td>
@@ -188,8 +190,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/343efc77cf9c529379e5d73ebb64863e.png" alt="Cover for Il Nostro Caro Angelo" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-09</td>
       <td>Lucio Battisti</td>
@@ -211,8 +214,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7859973fbfbf485fb825f9dfa28c995d.png" alt="Cover for Fabrizio De André" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-12-15</td>
       <td>Fabrizio De André</td>
@@ -231,7 +235,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>71</td>
       <td>
       </td>
       <td>1977</td>
@@ -249,9 +253,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
-          <img src="https://i.discogs.com/t1Rc7iUaugYbvXwmkSyotkwyO9TFW8XVZSwo_zzMKHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjcz/MDktMTY4NzYyNjM5/My0xMTUzLmpwZWc.jpeg" alt="Cover for Nuntereggae più" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96dfbfa7634e4a13850e232c93dbcbaf.png" alt="Cover for Nuntereggae più" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Rino Gaetano</td>
@@ -269,8 +273,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3afa0c09d8eca3ed8e1c0d870a797220.png" alt="Cover for La Mia Banda Suona Il Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Ivano Fossati</td>
@@ -294,7 +299,24 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>11</td>
+      <td>
+      </td>
+      <td>1979</td>
+      <td>Umberto Tozzi</td>
+      <td>Gloria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
       </td>
       <td>1979</td>
@@ -313,26 +335,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>6</td>
       <td>
-      </td>
-      <td>1979</td>
-      <td>Umberto Tozzi</td>
-      <td>Gloria</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/wjrBGaDOG1oHe1KAQT05Vc-apSsTdgUCL_qji73AAg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/NTgtMTI4NTAwMzg1/Ni5qcGVn.jpeg" alt="Cover for Nero A Metà" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/479263df6f8b4856c88ca431f04f8c06.png" alt="Cover for Nero A Metà" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Pino Daniele</td>
@@ -352,15 +357,16 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 21</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 32</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 58</li>
             <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fae9bac908762671bae4eb51cc4ca55.png" alt="Cover for E Io Ci Sto" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Rino Gaetano</td>
@@ -377,8 +383,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd2ff1b717746679e33f9faba0423d3e.png" alt="Cover for Panama E Dintorni" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Ivano Fossati</td>
@@ -394,13 +401,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 80</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 81</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>1981</td>
@@ -418,7 +425,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>79</td>
       <td>
       </td>
       <td>1983</td>
@@ -440,8 +447,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33849e453fd1f3e0f79160cb27a2e181.png" alt="Cover for 700 Giorni" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ivano Fossati</td>
@@ -457,7 +465,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>94</td>
       <td>
       </td>
       <td>1987</td>
@@ -474,8 +482,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d480848bb1d469c24735983a4797c6b.png" alt="Cover for Blue&#39;s" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-06-15</td>
       <td>Zucchero</td>
@@ -495,9 +504,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Nk-vxfPmxc32FS7j3ir3fWL_-51taWGL7eU4qgm_Gn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcx/MTctMTU0ODM1OTc2/OC01OTk5LmpwZWc.jpeg" alt="Cover for In Questo Mondo Di Ladri" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1f08d1c85b84485bafc490e7c0d2f07.png" alt="Cover for In Questo Mondo Di Ladri" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Antonello Venditti</td>
@@ -513,13 +522,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 63</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/h0lZMeDeeH8HPmWHsnV4us5XDBn5kKWEszS9D7efbH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk2/MjgtMTYyMzY2Mzcw/MS0zNDE1LmpwZWc.jpeg" alt="Cover for Canzoni Per Parlare" style="max-width:120px; height:auto;" />
       </td>
@@ -538,32 +547,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>31</td>
       <td>
-      </td>
-      <td>1990</td>
-      <td>Marco Masini</td>
-      <td>Marco Masini</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 68</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/9bjCyLv15idApGoznxaPei8xRvZEDb2zwSfSeknnoBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgx/NTEtMTI2NDI2NjQ4/NC5qcGVn.jpeg" alt="Cover for Ligabue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73bb381701f003a0ba82b89bfec1d8c4.png" alt="Cover for Ligabue" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Luciano Ligabue</td>
@@ -582,7 +568,48 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdb89b0c11fe4b2bbfb56304eeb5f61d.png" alt="Cover for Marco Masini" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Marco Masini</td>
+      <td>Marco Masini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 69</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Lucio Dalla</td>
+      <td>Cambio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/rfLZhqLlDHTHkkrCukqfNFiSFv1u4sQa55etT2U-SeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzE1/NDctMTQ4NjQxNDIy/MS02ODYyLmpwZWc.jpeg" alt="Cover for Collezione Italiana" style="max-width:120px; height:auto;" />
       </td>
@@ -600,26 +627,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>91</td>
       <td>
-      </td>
-      <td>1990</td>
-      <td>Lucio Dalla</td>
-      <td>Cambio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf82f2c5d1ef44eb5873591f78b9f00c.png" alt="Cover for El Diablo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84ca633b92fd94abf0686797d1d70516.png" alt="Cover for El Diablo" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Litfiba</td>
@@ -634,7 +644,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/JQCS3HPLgTUEPXi8TjD3F_4n8tDIzgTy0FRmFcZUQq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDg1/OTYtMTI3ODY4MTIz/My5qcGVn.jpeg" alt="Cover for All&#39;una e trentacinque circa" style="max-width:120px; height:auto;" />
       </td>
@@ -655,9 +665,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>73</td>
       <td>
-          <img src="https://i.discogs.com/y4C6ektog5aSk3OWQL8VAWNNCz0D3SFZEq8fZK79wHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDA3/MS0xNjQwNDQ1MDU2/LTc3NTIuanBlZw.jpeg" alt="Cover for Malinconoia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad5394c0bf14278b38eba202ead1e73.png" alt="Cover for Malinconoia" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Marco Masini</td>
@@ -673,14 +683,15 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 70</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 71</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffbee8ecf066017b4a35427928505b57.png" alt="Cover for Benvenuti in Paradiso" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Antonello Venditti</td>
@@ -696,7 +707,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/2fMZS5_r6zK4klAKhkbq9GvJhheF788U6QTs7nAU5H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgw/ODMtMTI5NzM5MDk2/NS5qcGVn.jpeg" alt="Cover for &#39;NA BRUTA BANDA" style="max-width:120px; height:auto;" />
       </td>
@@ -718,26 +729,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1992</td>
-      <td>Jovanotti</td>
-      <td>Lorenzo 1992</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/vpL4VSWUwZTajc_t2oOe57N9f3c9xz39bL7nG08PHCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTEy/NzgtMTM2ODEyMzIw/OC0xMjYzLmpwZWc.jpeg" alt="Cover for SpiritoDiVino" style="max-width:120px; height:auto;" />
       </td>
@@ -757,8 +749,29 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b45e5c45714835c8280e87616ea9e7.png" alt="Cover for Lorenzo 1992" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Jovanotti</td>
+      <td>Lorenzo 1992</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a66a0997e3ff460ec6c930d468342fde.png" alt="Cover for Henna" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucio Dalla</td>
@@ -776,38 +789,34 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 67</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 68</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 85</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/hn_ypl6yrQjE7WYHz5XZMYEasotxb7XGPFTXfurUKpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDM5/OTMtMTQ0NDg0MTg2/NS02MjU2LmpwZWc.jpeg" alt="Cover for Lorenzo 2015 CC." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29b8101a6994162c193ded5a4e36345.png" alt="Cover for Spirito" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
-      <td>Jovanotti</td>
-      <td>Lorenzo 2015 CC.</td>
+      <td>Litfiba</td>
+      <td>Spirito</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 92</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
       </td>
       <td>1994</td>
@@ -825,7 +834,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
       </td>
       <td>1994-10-28</td>
@@ -845,7 +854,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/JsNi5jn82Fp1ep-guIswNN3ItW-5QBRel9g6rbow8Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTcx/ODgtMTUzMDI0OTA4/MS0zNTI4LmpwZWc.jpeg" alt="Cover for Prima Di Essere Un Uomo" style="max-width:120px; height:auto;" />
       </td>
@@ -863,9 +872,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/HJ5uza2lNS0zvgWceBMb1Uy_dEWFY9KIChtvD8J_cwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQw/OTktMTI4OTIyNjEx/My5qcGVn.jpeg" alt="Cover for Equilíbrio Distante" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9aa6e72373dcc10620b78f7a7289e96.png" alt="Cover for Equilíbrio Distante" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Renato Russo</td>
@@ -880,9 +889,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/mZX_P6oRegO6uMVXf-TJF2pPQuXrGfzhq0ua0pBTYpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM2/OTMtMTE5NzM0NTMy/Ny5qcGVn.jpeg" alt="Cover for Il Cielo Della Vergine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e9eddf31f34d0faf718cddc22cd11e.png" alt="Cover for Il Cielo Della Vergine" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01</td>
       <td>Marco Masini</td>
@@ -898,13 +907,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 61</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 62</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/xHQPHlHMRo4842ZKdYD6pslr3vJfXAHXC3stYIHbM6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk2/NjAtMTQ0ODkxNjg2/NC0yNTcyLmpwZWc.jpeg" alt="Cover for Destinazione Paradiso" style="max-width:120px; height:auto;" />
       </td>
@@ -923,16 +932,16 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 57</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 59</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 81</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
       </td>
       <td>1996-09-05</td>
@@ -949,7 +958,28 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1996-10-15</td>
+      <td>Vinicio Capossela</td>
+      <td>Il Ballo di San Vito</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td>1997</td>
@@ -968,7 +998,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>74</td>
       <td>
       </td>
       <td>1997</td>
@@ -986,25 +1016,54 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/YzDRuLQMOg2e_0qyX9u7Saqu6TVLeWSgoe9VEJTn3H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk5/MTgtMTI5NjkyNTY2/OC5qcGVn.jpeg" alt="Cover for La favola di Adamo ed Eva" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>Max Gazzè</td>
-      <td>La favola di Adamo ed Eva</td>
+      <td>Prozac+</td>
+      <td>Acido Acida</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c1b0a218c7c223840bc8b9a1b3d8d7a.png" alt="Cover for Acidoacida" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Prozac+</td>
+      <td>Acidoacida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/4RrEMiLZasStwXwIVIB1WfwfYsX8UKkwgmK3JxIeT0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/MjY0LTE1NTEyODkw/MTgtNzcyNi5qcGVn.jpeg" alt="Cover for Edoardo Vianello" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1082,25 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93be00d2250d48eec8a1451fde5e1fb8.png" alt="Cover for La favola di Adamo ed Eva" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Max Gazzè</td>
+      <td>La favola di Adamo ed Eva</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/v6FR7Rq5J_hG6tRS1cyZX0-oBtYSs8_zXykx6Ki0VQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTIw/NDctMTQzMTU0MzQw/Ni00NjIzLmpwZWc.jpeg" alt="Cover for Siamo Solo Noi" style="max-width:120px; height:auto;" />
       </td>
@@ -1040,9 +1117,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/egOnDNwhxwCYBLxQr_Nf3TCWcSVS-TihbICXUSrbuZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc3/NzktMTQxODcwMTE3/MC03MzkwLmpwZWc.jpeg" alt="Cover for Unici" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/702cd94c6bf63bc02eb0ec43adc5d36e.png" alt="Cover for Unici" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-04</td>
       <td>Nek</td>
@@ -1058,32 +1135,15 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 69</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 70</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/hdZ_Ha2XKRwXXu-hnnmF2YTwsTAQTinzG7AVDRHpoh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjY4/MjEtMTU5NTQ1ODk4/MC0xNzczLmpwZWc.jpeg" alt="Cover for Sig. Dapatas" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Daniele Silvestri</td>
-      <td>Sig. Dapatas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de90bf8db30b5de9b7f8b50537bd83e4.png" alt="Cover for Craccracriccrecr" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Elio e le Storie Tese</td>
@@ -1101,8 +1161,27 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>88</td>
       <td>
+          <img src="https://i.discogs.com/hdZ_Ha2XKRwXXu-hnnmF2YTwsTAQTinzG7AVDRHpoh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjY4/MjEtMTU5NTQ1ODk4/MC0xNzczLmpwZWc.jpeg" alt="Cover for Sig. Dapatas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Daniele Silvestri</td>
+      <td>Sig. Dapatas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3e5d6def6f4e68b60741001f4cb63d.png" alt="Cover for Reset" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01-25</td>
       <td>Negrita</td>
@@ -1122,7 +1201,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd2528d18f8446c9e6f3e8ae884c3e2.png" alt="Cover for La Cura" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,31 +1217,14 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 11</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>20</td>
       <td>
-      </td>
-      <td>2000</td>
-      <td>99 Posse</td>
-      <td>La vida que vendrà</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bd5e1104c5b43f6230f86bc31461a29.png" alt="Cover for Television" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Paola &amp; Chiara</td>
@@ -1179,7 +1241,26 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/635f49800d8d4a46b1be5a2517f04c9a.png" alt="Cover for La vida que vendrà" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>99 Posse</td>
+      <td>La vida que vendrà</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
       </td>
       <td>2000-02-04</td>
@@ -1199,7 +1280,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/Ph_ViPpVgpAJ7GThmx22CNuASV6ScUCkF5Y53z2K72M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU1/MjAtMTM5MDQ3NTQy/OS0zNDYwLmpwZWc.jpeg" alt="Cover for l&#39;Oroscopo Speciale" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,8 +1302,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af3d589db5f5015f3b5b63a786c5b01.png" alt="Cover for Canzoni a manovella" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-09</td>
       <td>Vinicio Capossela</td>
@@ -1237,12 +1319,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/44h9Ewq5x2DDYUXtPfXhqurEwi6DUY3CBOSTjld11pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE1/MzItMTM1NDk1NjAx/NC03ODAyLmpwZWc.jpeg" alt="Cover for Sei Bellissima" style="max-width:120px; height:auto;" />
       </td>
@@ -1257,12 +1340,12 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 72</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>67</td>
       <td>
       </td>
       <td>2001-05-08</td>
@@ -1285,7 +1368,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/cZhhbfTxswGRltFOIP8gmcEclp3rD9-ri5ZWxTwIsMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE2/NzY3LTE1ODY4ODY0/NzYtMjYzMS5qcGVn.jpeg" alt="Cover for Dalla Pace Del Mare Lontano" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1388,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>40</td>
       <td>
       </td>
       <td>2001-09-01</td>
@@ -1326,7 +1409,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/vAxRXmzvh_yKyWLuTfXokPwnyHL6gxVXv1CiUTXD5Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk5/NjYtMTMyODMwNjY0/Mi5qcGVn.jpeg" alt="Cover for Tenco" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1429,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/npkvvAHHYoqNGdN3MLI6vXbBtXHxfQ5jzMBcnlsoYDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzkw/MzktMTQ3MzcwNDY1/NS0zMTE2LmpwZWc.jpeg" alt="Cover for Tony Renis" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,9 +1448,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/1Fpvh1Cc5uo3i489FI0qJmn00VoPuMCl2Az5Kb7GGvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg3/MS0xMTk0NDcwODI2/LmpwZWc.jpeg" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ddde6763e47b7c7216b25cdc4108b.png" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-28</td>
       <td>Tiziano Ferro</td>
@@ -1381,7 +1464,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 50</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
@@ -1389,9 +1472,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/2dtu6pBYqnxz9BKwk4SquZ5IrmGlGFbPDJ2pgxybuV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY0/MzYtMTUzMTA3OTMy/My0xNjk5LmpwZWc.jpeg" alt="Cover for Bagus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54f558afd11cfaa76d64c73dd74f753d.png" alt="Cover for Bagus" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-15</td>
       <td>Cesare Cremonini</td>
@@ -1406,13 +1489,37 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 8</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 10</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c29e6deb92e44ebf6a0f4161486f8d9.png" alt="Cover for Sorriso Nucleare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Dolcenera</td>
+      <td>Sorriso Nucleare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
       <td>
       </td>
       <td>2003</td>
@@ -1432,31 +1539,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>82</td>
       <td>
-      </td>
-      <td>2003</td>
-      <td>Dolcenera</td>
-      <td>Sorriso Nucleare</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 86</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93326814a7124911aaef1d3c89a1b6ac.png" alt="Cover for L&#39;indispensabile" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-31</td>
       <td>Vinicio Capossela</td>
@@ -1472,7 +1557,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
       </td>
       <td>2003-02</td>
@@ -1491,14 +1576,14 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 23</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/xTGBfV0QcV7QHOT8KWmQVn60Y35No3JG0jzPE8CpHJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk4/MzEtMTYwNzAzMDY3/MS03MTMyLmpwZWc.jpeg" alt="Cover for Dove Sei Tu" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,9 +1603,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4a2384accb74ad7bb870334bac838b1.png" alt="Cover for Le Vibrazioni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa04ec901679e5350fa71af2eafbb096.png" alt="Cover for Le Vibrazioni" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05</td>
       <td>Le Vibrazioni</td>
@@ -1537,7 +1622,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>62</td>
       <td>
       </td>
       <td>2003-06-06</td>
@@ -1554,7 +1639,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>65</td>
       <td>
       </td>
       <td>2003-08-27</td>
@@ -1570,7 +1655,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>53</td>
       <td>
       </td>
       <td>2004-02-20</td>
@@ -1591,7 +1676,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/uBGqOZMQfm_e2WbEfoS9ts1K35G-1nCaFw_F84zK0Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjI5/ODMtMTMyNDk0ODc0/OS5qcGVn.jpeg" alt="Cover for Sul Sentiero" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1694,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/KzOJZJo-B5syYUK39vmWfxsujCP7gH9Q7N2SgMlqtgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE3/NTQtMTU4NTgwMjEy/MC0xODk2LmpwZWc.jpeg" alt="Cover for Calma Apparente" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,8 +1712,27 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>99</td>
       <td>
+      </td>
+      <td>2005-01-07</td>
+      <td>Laura Bono</td>
+      <td>Laura Bono</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764e2c7353553ba62ef48adc1c0a8693.png" alt="Cover for Le Vibrazioni II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03</td>
       <td>Le Vibrazioni</td>
@@ -1654,7 +1758,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
       </td>
       <td>2005-10-14</td>
@@ -1668,32 +1772,12 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 31</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Riccardo Cocciante</td>
-      <td>Tutti I Miei Sogni</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006</td>
@@ -1712,7 +1796,28 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8dde25fda8c465694bd9b07ceaec8aa.png" alt="Cover for Tutti I Miei Sogni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Riccardo Cocciante</td>
+      <td>Tutti I Miei Sogni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td>2006-06-09</td>
@@ -1733,7 +1838,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007-02-09</td>
@@ -1750,13 +1855,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 59</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 60</li>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/sg-XAsLGp6OnRnAC8uRttVDsFDpOD5BrXnfIanw5dJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIz/MDktMTIwNDYzMDgw/OC5qcGVn.jpeg" alt="Cover for Occhi da Orientale" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1879,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-11-16</td>
@@ -1792,7 +1897,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Md3QsSoCaCzt-QPY53llART9Aiir9Kh0Wennftp7Yxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDk1/MDUtMTM4ODcwODEz/NS0zNTA5LmpwZWc.jpeg" alt="Cover for Piccola Faccia" style="max-width:120px; height:auto;" />
       </td>
@@ -1811,7 +1916,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>92</td>
       <td>
       </td>
       <td>2008-04-28</td>
@@ -1828,7 +1933,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/4MxmWi64Qr7MZJ__r2aD043kufE-pW1s0Blukvtze2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjY2/MjEtMTM3NzkzMjUy/NC0zODkxLmpwZWc.jpeg" alt="Cover for Arrivederci, Mostro!" style="max-width:120px; height:auto;" />
       </td>
@@ -1846,27 +1951,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/YXJESpf_b32M7nEE9BH1g_svykdRogv7TRjn7TbkZMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzI5/MjUtMTMyNzgzMjMw/NS5qcGVn.jpeg" alt="Cover for Vol. 1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Brunori Sas</td>
-      <td>Vol. 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00215a14a974235ba7678ea14b1d915.png" alt="Cover for Dietro Le Apparenze" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-06</td>
       <td>Giorgia</td>
@@ -1882,14 +1969,15 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 84</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 85</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c00bd5b5a5c441978b9811ee47469a2f.png" alt="Cover for Vol. 2 - Poveri Cristi" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Brunori Sas</td>
@@ -1908,53 +1996,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
     <tr>
       <td>61</td>
       <td>
-      </td>
-      <td>2013-02-14</td>
-      <td>Max Gazzè</td>
-      <td>Sotto casa</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 83</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-      </td>
-      <td>2013-06-04</td>
-      <td>Max Pezzali</td>
-      <td>MAX 20</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 64</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://i.discogs.com/STNiTLqKGXPKgKQHwYXTnCkPPsgqMzNPJoXzOUk62P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODA0/NjQtMTM4Mzk1MjY4/NC0xNDU5LmpwZWc.jpeg" alt="Cover for Water Resistance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e3f7a4a63e248bfb5fc72a3186602bb.png" alt="Cover for Water Resistance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>Neo</td>
@@ -1978,33 +2020,9 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/UM9FjTppxMrKH7sN1aJGNeXXfICtnyvk_h-J9RALK_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUx/NDI2LTE1NTQ0NzA1/NTEtNjMxOS5qcGVn.jpeg" alt="Cover for Fuori dall&#39;hype" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-04-05</td>
-      <td>Pinguini Tattici Nucleari</td>
-      <td>Fuori dall&#39;hype</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 96</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 99</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/Qqf-Ff0P8SX-WZMVRF26tKdFeUYTA6mAqcuO3WbL0O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA4/ODM2LTE1NzUxNDU0/NTEtODM5NC5qcGVn.jpeg" alt="Cover for Accetto Miracoli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97542bb3cdb9b357c1bd01865a9a99c8.png" alt="Cover for Accetto Miracoli" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-18</td>
       <td>Tiziano Ferro</td>
@@ -2020,13 +2038,13 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 75</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 77</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/pF6Ku82qgFwYmj8zpLMG2dmZZSYacaaK7RCHnjFxrj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzMw/MTMxLTE2MjIwNTk3/OTMtNzU4MS5qcGVn.jpeg" alt="Cover for AHIA!" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,16 +2062,16 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 18</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 100</li>
             <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/bIQt8NxtnG8FhyFUTZ5DMGJ051B35jJsJ8KO1rEMiB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk0/MTEzLTE1OTk3NDAw/MDAtNjE5OS5qcGVn.jpeg" alt="Cover for 111" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ed3b2fbc37b125c643b19ba9a62cf1a.png" alt="Cover for 111" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-02</td>
       <td>Tiziano Ferro</td>
@@ -2068,7 +2086,7 @@ Italiana is Italian-language pop and singer-songwriter music that blends melodic
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 85</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 86</li>
         </ul>
       </td>
     </tr>

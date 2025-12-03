@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:19:55.820Z
+date: 2025-12-03T03:44:45.992Z
 permalink: tags/aussie
 title: aussie
 ---
 
 ## aussie
 
-Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:44:45.992Z">Wed Dec 03 2025 05:44:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,6 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/-wj5C86unAb4S0eT07wW1aeVp7aLDeC-lPuk9CTJiXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU3/NTQ1LTE1MDE4MzQ3/MTAtNjk4Mi5qcGVn.jpeg" alt="Cover for The Den Tapes" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Slim Dusty</td>
@@ -285,11 +284,13 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 85</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 19</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +344,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 14</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +594,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 17</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -619,7 +620,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 73</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -644,6 +645,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b54cc5407192f7cfe37e64f94f6968.png" alt="Cover for That&#39;s What I&#39;m Talking About" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-01</td>
       <td>Shannon Noll</td>
@@ -721,6 +723,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a76e246193a32013b9a88af087f6522.png" alt="Cover for Element V" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04</td>
       <td>Voyager</td>
@@ -735,7 +738,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +825,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/BJQl79fNOCiGIewzQMGNWiMV6mGEEjRSw7zcPthH2lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDMz/OS0xMTE4Mjk0NzUx/LmpwZw.jpeg" alt="Cover for Version" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f9c43ac6b2c2e1b477f2837722f50c.png" alt="Cover for Version" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10</td>
       <td>Mieli</td>
@@ -882,7 +885,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 52</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 49</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 90</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 92</li>
         </ul>
@@ -959,7 +962,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 31</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -985,7 +988,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/nLZCYM9SruIJRiCmTHJPgbW6Y8sNpHsgqOCyzCU4ZSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDA3/MjctMTUyMjYwMDg2/MS02MjI1LmpwZWc.jpeg" alt="Cover for Dreams Come True" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6652126128296afd5d43f0b4f221c99e.png" alt="Cover for Dreams Come True" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Spatial Unity</td>
@@ -1138,7 +1141,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 24</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1460,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1481,10 +1484,10 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 5</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 74</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 96</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 98</li>
         </ul>
       </td>
@@ -1531,10 +1534,10 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 62</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 63</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 92</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 94</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 95</li>
         </ul>
       </td>
@@ -1559,10 +1562,10 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 68</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 94</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 95</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 96</li>
         </ul>
       </td>
@@ -1609,10 +1612,10 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
             <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 96</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 100</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 100</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 100</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 99</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 100</li>
         </ul>
       </td>
@@ -1655,10 +1658,10 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 41</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 85</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 42</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 93</li>
         </ul>
       </td>
@@ -1811,7 +1814,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 34</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1839,6 +1842,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70f58511a0db1a027de3b7910f7dd547.png" alt="Cover for Celtic Mythology" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Entwash Snogglethorn</td>
@@ -1884,6 +1888,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f88a3aeada9b2c023318c132252374b.png" alt="Cover for Galileo&#39;s Moons" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Entwash Snogglethorn</td>
@@ -1971,6 +1976,7 @@ Last updated: <time datetime="2025-11-14T00:19:55.820Z">Fri Nov 14 2025 02:19:55
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ac314c8ac50622d1e217f5a70ccd129.png" alt="Cover for Kath &amp; Kim&#39;s Party Tape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kath and Kim</td>

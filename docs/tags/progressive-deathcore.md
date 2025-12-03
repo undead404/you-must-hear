@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T04:05:18.471Z
+date: 2025-12-03T04:06:45.902Z
 permalink: tags/progressive-deathcore
 title: progressive deathcore
 ---
 
 ## progressive deathcore
 
-Last updated: <time datetime="2025-11-23T04:05:18.471Z">Sun Nov 23 2025 06:05:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:06:45.902Z">Wed Dec 03 2025 06:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,7 +104,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 15</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 30</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 93</li>
         </ul>
       </td>
@@ -125,7 +125,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 67</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 83</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -221,7 +221,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 39</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -522,7 +522,6 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +543,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -626,6 +625,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b39622d3a85564c301633a9ec45eb770.png" alt="Cover for Insurrection" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-25</td>
       <td>Molotov Solution</td>
@@ -691,7 +691,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 40</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -737,12 +737,12 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 2</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 9</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 9</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 90</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +952,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1053,8 +1053,8 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 33</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1080,8 +1080,8 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 7</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 21</li>
         </ul>
       </td>
@@ -1124,7 +1124,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 30</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 50</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1145,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 31</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 35</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 93</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 93</li>
         </ul>
@@ -1192,10 +1192,10 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 6</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 12</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 25</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 75</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 89</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 90</li>
         </ul>
       </td>
@@ -1236,7 +1236,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 58</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 97</li>
         </ul>
       </td>
@@ -1327,7 +1327,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 39</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1532,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 40</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1559,9 +1559,10 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 3</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 32</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 65</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 13</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 36</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1584,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1661,14 +1662,14 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 41</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/UokU9P1GjvmMPWy9ejcnnDPtDrit0wJ5uTHq1YxMMM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY0/NDgxLTE1NjUwNDA0/ODYtMjg2MC5qcGVn.jpeg" alt="Cover for No Longer Human or Known" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8eb6b80124a2a0308dc933c165ff0e.png" alt="Cover for No Longer Human or Known" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Our Common Collapse</td>
@@ -1769,7 +1770,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 24</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 38</li>
         </ul>
       </td>
@@ -1838,7 +1839,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1859,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 42</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1968,7 @@ Progressive deathcore fuses the brutal breakdowns and crushing heaviness of deat
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 20</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 55</li>
         </ul>
       </td>
     </tr>

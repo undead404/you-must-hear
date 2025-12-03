@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T04:00:17.985Z
+date: 2025-12-03T03:42:01.413Z
 permalink: tags/latin-jazz
 title: latin jazz
 ---
 
 ## latin jazz
 
-Last updated: <time datetime="2025-11-23T04:00:17.985Z">Sun Nov 23 2025 06:00:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:42:01.413Z">Wed Dec 03 2025 05:42:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -103,7 +103,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 42</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -142,8 +142,8 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 8</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 93</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +322,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 31</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 69</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 72</li>
         </ul>
       </td>
@@ -832,7 +832,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -977,7 +977,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 67</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1053,10 +1053,10 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 79</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 2</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 99</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
         </ul>
       </td>
@@ -1337,8 +1337,8 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 26</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 60</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 73</li>
             <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 86</li>
         </ul>
       </td>
@@ -1601,7 +1601,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1622,8 +1622,8 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 12</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 78</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 79</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1670,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 59</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1708,7 +1708,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 87</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1827,7 +1827,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 30</li>
             <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 75</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 97</li>
         </ul>
@@ -1936,7 +1936,7 @@ Latin jazz blends jazz improvisation with rhythms from Cuba, Brazil, and other L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 46</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 55</li>
         </ul>
       </td>
     </tr>

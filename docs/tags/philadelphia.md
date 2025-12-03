@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T10:15:55.269Z
+date: 2025-12-03T03:41:52.576Z
 permalink: tags/philadelphia
 title: philadelphia
 ---
 
 ## philadelphia
 
-Last updated: <time datetime="2025-11-24T10:15:55.269Z">Mon Nov 24 2025 12:15:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:41:52.576Z">Wed Dec 03 2025 05:41:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 19</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 20</li>
             <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 26</li>
         </ul>
       </td>
@@ -297,7 +297,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 89</li>
         </ul>
       </td>
@@ -378,9 +378,9 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 17</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/cnFh2DQn8x8sEFD61_TI8S8qQPTlIXMYCfGdp1pJJcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU5/Ny0xNjg2NTU4OTkw/LTM1MDMuanBlZw.jpeg" alt="Cover for For Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4fce7fbc57b0c9b0730df96ec393a0f.png" alt="Cover for For Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-08</td>
       <td>provide</td>
@@ -497,7 +497,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 3</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -572,7 +572,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 35</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 38</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 66</li>
         </ul>
       </td>
@@ -656,7 +656,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 80</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1013,10 +1013,10 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 29</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 85</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1073,10 +1073,10 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 35</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 22</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 23</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 58</li>
         </ul>
       </td>
@@ -1337,7 +1337,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 84</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1522,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 17</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1647,8 +1647,8 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 33</li>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 83</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 17</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1738,6 +1738,26 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
     </tr>
     <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brickyard Pro</td>
+      <td>I SEE HATERS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>34</td>
       <td>
       </td>
@@ -1753,7 +1773,7 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 5</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1808,8 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 42</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1912,25 +1932,6 @@ The Philadelphia tag represents the city&#39;s rich musical legacy spanning soul
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Brickyard Pro</td>
-      <td>I SEE HATERS</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>

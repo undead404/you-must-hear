@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:28:44.963Z
+date: 2025-12-03T04:10:45.965Z
 permalink: tags/salsa
 title: salsa
 ---
 
 ## salsa
 
-Last updated: <time datetime="2025-11-14T00:28:44.963Z">Fri Nov 14 2025 02:28:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:10:45.965Z">Wed Dec 03 2025 06:10:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 5</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 81</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -358,6 +358,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87af16ea53ff54f483c82624645d5571.png" alt="Cover for Sensual" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Tito Rojas</td>
@@ -544,7 +545,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 53</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +797,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 6</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 21</li>
             <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 87</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 99</li>
         </ul>
@@ -821,8 +822,8 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 88</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 88</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 11</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 91</li>
             <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 95</li>
         </ul>
       </td>
@@ -878,7 +879,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 92</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -954,7 +955,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 91</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1153,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/FDEwgj7kfDOlz_RZBw2rksLnizgb7FdtjFOOi-DB4xs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzkx/MDE5LTE1MjI0Mzgw/NzQtNTMwMy5qcGVn.jpeg" alt="Cover for De Verdad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81c910806a964624b68c2d58c1e67b22.png" alt="Cover for De Verdad" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-29</td>
       <td>Eddie Santiago</td>
@@ -1184,7 +1185,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 93</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1222,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 92</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1259,7 +1260,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 97</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1418,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 75</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1548,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 99</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1566,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 40</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1584,7 +1585,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 80</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1676,7 +1677,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 2</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 12</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1730,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 35</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1753,8 +1754,8 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 26</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 30</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 97</li>
         </ul>
       </td>
@@ -1829,7 +1830,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 85</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 16</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 97</li>
         </ul>
       </td>
@@ -1849,7 +1850,7 @@ Salsa is a vibrant Latin dance music genre that emerged in New York City during 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 22</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 23</li>
         </ul>
       </td>
     </tr>

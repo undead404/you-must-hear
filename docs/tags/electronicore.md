@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T04:02:57.841Z
+date: 2025-12-03T03:50:46.021Z
 permalink: tags/electronicore
 title: electronicore
 ---
 
 ## electronicore
 
-Last updated: <time datetime="2025-11-23T04:02:57.841Z">Sun Nov 23 2025 06:02:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:50:46.021Z">Wed Dec 03 2025 05:50:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 8</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 78</li>
         </ul>
       </td>
@@ -95,7 +95,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 43</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 44</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 87</li>
         </ul>
       </td>
@@ -156,8 +156,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 2</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 61</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +181,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 27</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 97</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -399,8 +399,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 73</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 87</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 14</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 26</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 99</li>
         </ul>
       </td>
@@ -449,7 +449,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 16</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 34</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -511,8 +511,6 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>Sky Eats Airplane</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -534,7 +532,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 20</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 17</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 71</li>
         </ul>
       </td>
@@ -554,10 +552,10 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 14</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 16</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 17</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 21</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -576,7 +574,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 62</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 82</li>
         </ul>
       </td>
@@ -615,7 +613,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 74</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +659,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 58</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -712,6 +710,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 2</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 77</li>
         </ul>
@@ -796,7 +795,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 28</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 72</li>
         </ul>
       </td>
@@ -840,7 +839,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 55</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +889,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 35</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +933,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -954,9 +953,9 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 13</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 19</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 19</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 74</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1054,7 +1053,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1170,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 54</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1190,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 97</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1209,8 +1208,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 20</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 48</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1255,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 33</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1360,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 5</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1383,9 +1382,9 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 7</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 67</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 68</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1412,8 +1411,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 10</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 67</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1474,8 +1473,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       <td>
         <ul>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 7</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 30</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1500,8 +1499,8 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 45</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 81</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 48</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 82</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 97</li>
         </ul>
       </td>
@@ -1526,7 +1525,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 44</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1589,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 46</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1640,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 33</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1710,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1856,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 65</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1938,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 56</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2053,7 +2052,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 42</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2092,7 +2091,7 @@ Electronicore fuses metalcore&#39;s aggressive breakdowns and screamed vocals wi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 67</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 69</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 81</li>
         </ul>
       </td>

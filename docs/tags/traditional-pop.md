@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T05:30:06.693Z
+date: 2025-12-03T04:12:46.000Z
 permalink: tags/traditional-pop
 title: traditional pop
 ---
 
 ## traditional pop
 
-Last updated: <time datetime="2025-11-23T05:30:06.693Z">Sun Nov 23 2025 07:30:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:12:46.000Z">Wed Dec 03 2025 06:12:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
   </thead>
   <tbody>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>1945</td>
@@ -45,7 +45,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797183724dd8f4c7197244c6e333520c.png" alt="Cover for The Voice Of Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>1948</td>
@@ -78,14 +78,14 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 73</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/633bb8422261b4be26c33ffa5a29fb1d.png" alt="Cover for Frankly Sentimental" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>1954</td>
@@ -128,7 +128,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abccd4044fac4ec697b05d7eb920e914.png" alt="Cover for In the Wee Small Hours" style="max-width:120px; height:auto;" />
       </td>
@@ -148,7 +148,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b4e39c5930fcda4d1b3f782afc506ef.png" alt="Cover for Julie Is Her Name" style="max-width:120px; height:auto;" />
       </td>
@@ -163,33 +163,14 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 63</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/TWr_PTSz3pffcTXe2MhxBDv6nrRS7UZYvFxMZ3XBddw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/MDEtMTM1MjA1ODky/Ni0xOTY2LmpwZWc.jpeg" alt="Cover for The Wildest" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1957</td>
-      <td>Louis Prima</td>
-      <td>The Wildest</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9ee076b0a6e53b44faee67d9bd1222c.png" alt="Cover for The Wildest Show At Lake Tahoe" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +193,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/SNJ6MnvyHEG05H49knh5MtKAt5jSfM8OadaG0hn-9yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg5/OTAtMTUwNTk5NDY3/Ny02NDQ0LmpwZWc.jpeg" alt="Cover for Dream Street" style="max-width:120px; height:auto;" />
       </td>
@@ -231,25 +212,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/YLYj8mCotLPxZ-BALz-GZfUgkdzQJqpdU5OAtpGTdYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ2/NTk4LTE2MjE4MDk4/MDgtNzgwOS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1958</td>
-      <td>The McGuire Sisters</td>
-      <td>Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/fwKxprry3kQTWvQTpuIPr8wXRY1QnLlbwkABpqSWH14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIy/MjktMTQ3NTgzMTky/MC04NTIyLmpwZWc.jpeg" alt="Cover for Sea Shells" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +234,25 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/YLYj8mCotLPxZ-BALz-GZfUgkdzQJqpdU5OAtpGTdYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ2/NTk4LTE2MjE4MDk4/MDgtNzgwOS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958</td>
+      <td>The McGuire Sisters</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5ed6baa7bb0c0ffd75b1590675008d8.png" alt="Cover for Come Fly With Me" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +271,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg" alt="Cover for Love Is A Season" style="max-width:120px; height:auto;" />
       </td>
@@ -308,22 +289,22 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 6</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>29</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3003f14e9dbc8c8fec2a4e4f15d8efce.png" alt="Cover for I Wish You Love" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/QGE_2piBLN_EMiwUd0yvulZou5kk6YsBBTXrouvBxU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDMw/ODYtMTUxMjcwODc4/NS0xMzYxLmpwZWc.jpeg" alt="Cover for Sleep Warm" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
-      <td>Keely Smith</td>
-      <td>I Wish You Love</td>
+      <td>Dean Martin</td>
+      <td>Sleep Warm</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -333,7 +314,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc93977139c007f0e5dadb80b8363644.png" alt="Cover for The Fabulous Shirley Bassey" style="max-width:120px; height:auto;" />
       </td>
@@ -354,16 +335,16 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>53</td>
       <td>
-          <img src="https://i.discogs.com/QGE_2piBLN_EMiwUd0yvulZou5kk6YsBBTXrouvBxU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDMw/ODYtMTUxMjcwODc4/NS0xMzYxLmpwZWc.jpeg" alt="Cover for Sleep Warm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3003f14e9dbc8c8fec2a4e4f15d8efce.png" alt="Cover for I Wish You Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
-      <td>Dean Martin</td>
-      <td>Sleep Warm</td>
+      <td>Keely Smith</td>
+      <td>I Wish You Love</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -373,7 +354,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d72d5e4b8e6b15f4d7cc1c587268d34.png" alt="Cover for That&#39;s All" style="max-width:120px; height:auto;" />
       </td>
@@ -388,12 +369,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 83</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/16a23bd9c43f8bd96618d41b3c86430d.png" alt="Cover for Flamingo Serenade" style="max-width:120px; height:auto;" />
       </td>
@@ -414,30 +395,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>66</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c21e7cd59326db0841fde058b36fd75.png" alt="Cover for Good Timin&#39;" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1960</td>
-      <td>Jimmy Jones</td>
-      <td>Good Timin&#39;</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/3vfH2B_TOtPOfTNXysMVZVU1mAZyIJnA3flTNIUxJWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ1/NzItMTM2MDAzNDY2/OS0xMDc1LmpwZWc.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
       </td>
@@ -457,13 +415,35 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>35</td>
       <td>
-          <img src="https://i.discogs.com/J8wLsX_-saK4PqWo2ZIvOJTBBsxzUrHZeAhIxwQ-iZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDMy/OTQtMTQ1NzA4MDM1/Ni0zOTA2LmpwZWc.jpeg" alt="Cover for Stepping High Dance ... and Other Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c21e7cd59326db0841fde058b36fd75.png" alt="Cover for Good Timin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1960</td>
-      <td>Eddie Murray</td>
-      <td>Stepping High Dance ... and Other Songs</td>
+      <td>Jimmy Jones</td>
+      <td>Good Timin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>1960</td>
+      <td>Julie London</td>
+      <td>Around Midnight</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
@@ -476,27 +456,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://i.discogs.com/9pF1utXR2F-OVgZZjDMUOFPnnqpBNV8F_1eRT-YYjfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjE2/MTEtMTM5MTg4NDgx/OC01ODQyLmpwZWc.jpeg" alt="Cover for The Cool School" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1960</td>
-      <td>June Christy</td>
-      <td>The Cool School</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
+      <td>72</td>
       <td>
       </td>
       <td>1960</td>
@@ -517,12 +477,33 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>87</td>
       <td>
+          <img src="https://i.discogs.com/9pF1utXR2F-OVgZZjDMUOFPnnqpBNV8F_1eRT-YYjfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjE2/MTEtMTM5MTg4NDgx/OC01ODQyLmpwZWc.jpeg" alt="Cover for The Cool School" style="max-width:120px; height:auto;" />
       </td>
       <td>1960</td>
-      <td>Julie London</td>
-      <td>Around Midnight</td>
+      <td>June Christy</td>
+      <td>The Cool School</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/J8wLsX_-saK4PqWo2ZIvOJTBBsxzUrHZeAhIxwQ-iZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDMy/OTQtMTQ1NzA4MDM1/Ni0zOTA2LmpwZWc.jpeg" alt="Cover for Stepping High Dance ... and Other Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1960</td>
+      <td>Eddie Murray</td>
+      <td>Stepping High Dance ... and Other Songs</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
@@ -535,7 +516,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/KcXGRkjdS8VcEf_YejcnaqsJ7aqsF0MrrkCBY-dSApo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg4/NDAtMTUxMTQ2MjEz/NS04MzA3LmpwZWc.jpeg" alt="Cover for Brita Koivunen ja Olli Hämeen kvintetti" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +536,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>1962</td>
@@ -573,19 +554,14 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>6</td>
       <td>
       </td>
       <td>1962</td>
-      <td>Peggy Lee</td>
-      <td>Blues Cross Country</td>
+      <td>Skeeter Davis</td>
+      <td>The End of the World</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -595,7 +571,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>1962</td>
@@ -619,14 +595,19 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>56</td>
       <td>
       </td>
       <td>1962</td>
-      <td>Skeeter Davis</td>
-      <td>The End of the World</td>
+      <td>Peggy Lee</td>
+      <td>Blues Cross Country</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -636,7 +617,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>1963-06-01</td>
@@ -657,7 +638,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>1964</td>
@@ -674,7 +655,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>1964</td>
@@ -700,7 +681,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a6f0bcffd6c9e7d917662d572d4e52b.png" alt="Cover for People" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +699,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe9723cf7c1afd3996f7cd9f19cfb67b.png" alt="Cover for The Beach Boys&#39; Christmas Album" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +717,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1965</td>
@@ -755,7 +736,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/HwWzq4c0Yul0ODt4qB6ga7paQlF0fIbVMfnQi3cs_n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDIw/MDAtMTQ1NTE3NjY0/MC0zNjMyLmpwZWc.jpeg" alt="Cover for September Of My Years (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -775,26 +756,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/UQ_vvXkO0cJXAIaGkcnYIS2xoAehtZY_GA0lklUbzJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMx/NTMtMTMyOTI3MDEz/OS5qcGVn.jpeg" alt="Cover for Capitol Collectors Series" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1966</td>
-      <td>Al Martino</td>
-      <td>Capitol Collectors Series</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/LgBUsHjsCsK4n61OyshWPb6aAbDb3zh2SxH68AxRXIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDU4/MTAtMTMyMjQyOTg1/Ni5qcGVn.jpeg" alt="Cover for Encore: Movie Partners Sing Broadway" style="max-width:120px; height:auto;" />
       </td>
@@ -813,17 +775,16 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Aocz5BaDb2XKZdsqvGW0q_iJJWOMmKpFl-SRfmSUKTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI5/OTA3LTE2OTU2NTc1/OTgtNDM1MC5qcGVn.jpeg" alt="Cover for Complete Jazz Series 1926 - 1929" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/UQ_vvXkO0cJXAIaGkcnYIS2xoAehtZY_GA0lklUbzJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMx/NTMtMTMyOTI3MDEz/OS5qcGVn.jpeg" alt="Cover for Capitol Collectors Series" style="max-width:120px; height:auto;" />
       </td>
-      <td>1968</td>
-      <td>Ethel Waters</td>
-      <td>Complete Jazz Series 1926 - 1929</td>
+      <td>1966</td>
+      <td>Al Martino</td>
+      <td>Capitol Collectors Series</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -833,7 +794,43 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/THU9C-0NGyIk8jImWHrHZ3ZmpjTfSViFTzM9xstYu8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDYz/ODMtMTQ0NjkwMjAy/OS0zMzM0LmpwZWc.jpeg" alt="Cover for Easy Does It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Julie London</td>
+      <td>Easy Does It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/K4MuGG5y_GUmnKkdMHTxsmWoS5kB-fQHnu7szww1B_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzU0/NDktMTQzNjI3NDgy/NS0yNDg1LmpwZWc.jpeg" alt="Cover for God Bless Tiny Tim: The Complete Reprise Recordings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Tiny Tim</td>
+      <td>God Bless Tiny Tim: The Complete Reprise Recordings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/XXGlT_bm-MjiIIo6Rh3_BH4pvUXpYlpQFZpNmWM3hMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjEw/MTEtMTQ3NDg1NTQ1/NS01NjQxLmpwZWc.jpeg" alt="Cover for Sing And Dance With Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -854,15 +851,17 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/K4MuGG5y_GUmnKkdMHTxsmWoS5kB-fQHnu7szww1B_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzU0/NDktMTQzNjI3NDgy/NS0yNDg1LmpwZWc.jpeg" alt="Cover for God Bless Tiny Tim: The Complete Reprise Recordings" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Aocz5BaDb2XKZdsqvGW0q_iJJWOMmKpFl-SRfmSUKTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI5/OTA3LTE2OTU2NTc1/OTgtNDM1MC5qcGVn.jpeg" alt="Cover for Complete Jazz Series 1926 - 1929" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
-      <td>Tiny Tim</td>
-      <td>God Bless Tiny Tim: The Complete Reprise Recordings</td>
+      <td>Ethel Waters</td>
+      <td>Complete Jazz Series 1926 - 1929</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
@@ -872,25 +871,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/THU9C-0NGyIk8jImWHrHZ3ZmpjTfSViFTzM9xstYu8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDYz/ODMtMTQ0NjkwMjAy/OS0zMzM0LmpwZWc.jpeg" alt="Cover for Easy Does It" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1968</td>
-      <td>Julie London</td>
-      <td>Easy Does It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
       </td>
       <td>1969</td>
@@ -907,7 +888,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2d0c0ab51eecf19b467afc4e20d6c6.png" alt="Cover for Watertown" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +908,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de18dd05e57fb75bc80b17258cf0193.png" alt="Cover for Songs for Swingin&#39; Lovers!" style="max-width:120px; height:auto;" />
       </td>
@@ -947,7 +928,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/68b3837ee15d334a059b72f65023f7ff.png" alt="Cover for Sail Away" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +946,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8db304bb9685ec531a424b0a23274cd.png" alt="Cover for Now &amp; Then (Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -979,31 +960,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/qvKjExyKr3aTM-rTVgIWCLXgZeACzvV0kttjOuMRtSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc0/NzMtMTQyNjI4MTg5/NC01MzI1LmpwZWc.jpeg" alt="Cover for Dedicated To You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1973</td>
-      <td>Frank Sinatra</td>
-      <td>Dedicated To You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/679b6e471977d9161769850ecd2b1319.png" alt="Cover for Bittersweet White Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +987,26 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/qvKjExyKr3aTM-rTVgIWCLXgZeACzvV0kttjOuMRtSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc0/NzMtMTQyNjI4MTg5/NC01MzI1LmpwZWc.jpeg" alt="Cover for Dedicated To You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Frank Sinatra</td>
+      <td>Dedicated To You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/2il2pPjdPYd-STOsD2GOSOKHqSEdOB8e7wa4TsgW2Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE5/MTYtMTM0NDI2MzAy/OC03MTEwLmpwZWc.jpeg" alt="Cover for Triplicate: Devil Dolls" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1024,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/yhw_4R0Te5K3cFB2Bm90czoxuRKknz4FEzZ7GYg3QsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQw/NDI1LTE1NjIzMjM4/MjAtMzE0OS5tcG8.jpeg" alt="Cover for Capitol Collectors Series" style="max-width:120px; height:auto;" />
       </td>
@@ -1061,7 +1042,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74d5c252d8360d3d2f9713b80106d74f.png" alt="Cover for Triplicate" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1061,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab76ebdb1c7c9c4757bb2e27d9fdf6d2.png" alt="Cover for Álibi" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,12 +1075,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 32</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/KxnPsJqn4IuprtOFui4Rs9a4tWs4ReB1V_pf4AScM2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk5/MDktMTM1NDIzNjkz/NC04NjU0LmpwZWc.jpeg" alt="Cover for Triplicate: Comin&#39; Home Late" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1098,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/ATiJXWVizUnd7ItytzgqxbKV3YTsxSCa5tQD-PXkgWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMw/MzUtMTMxMTI0MDM3/NS5qcGVn.jpeg" alt="Cover for Copacabana" style="max-width:120px; height:auto;" />
       </td>
@@ -1141,14 +1122,14 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 64</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 37</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 44</li>
             <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
       </td>
       <td>1981</td>
@@ -1165,7 +1146,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/T5Xqs4vESfKuDVAfU28kHFhT-s_d3BIdWc1m5Bzv8UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjM1/NDAtMTMzNTQzMDk3/OS5qcGVn.jpeg" alt="Cover for Because of You (The Origins)" style="max-width:120px; height:auto;" />
       </td>
@@ -1184,7 +1165,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/YwxqPANNvpuljxcsrtRtVIFqR9Y587bqmNZ_GmuWzD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc5/MDMtMTI4NDAzNDA0/MS5qcGVn.jpeg" alt="Cover for Mack the Knife: Ella in Berlin" style="max-width:120px; height:auto;" />
       </td>
@@ -1207,7 +1188,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/zmuzXDP3kwX4GmHWDJNav2wGEIuLm6f1vqq5iK0v0Z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjUz/OS0xNDE0NzI0NzI3/LTI3ODYuanBlZw.jpeg" alt="Cover for Tiptoe through the Tulips: Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1206,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c100edbeffdff05ba9e72de87f9d830c.png" alt="Cover for The Nat King Cole Story" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,12 +1220,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 8</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/tSwVI4UT3YH4Lt0fD1ZNt1KR5EshZ6A4fy8ENQUNnRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjY2/NDQtMTQ0ODAzOTU5/MS00NjQxLmpwZWc.jpeg" alt="Cover for 16 Most Requested Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,12 +1240,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 93</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>1992</td>
@@ -1283,7 +1264,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70d7f43c7a0692f059cfe1c409fbbc21.png" alt="Cover for The Ultimate Petula Clark" style="max-width:120px; height:auto;" />
       </td>
@@ -1300,7 +1281,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
       </td>
       <td>1995-11-10</td>
@@ -1317,7 +1298,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>73</td>
       <td>
       </td>
       <td>1997</td>
@@ -1336,7 +1317,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/-CvWs1o-dxx1IcMO9BZ2aF9K-0z4W1G_RxN2kmXBe8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTgw/NzItMTQ4MDE1MTgw/NS02NjM0LmpwZWc.jpeg" alt="Cover for Simply Ella Fitzgerald" style="max-width:120px; height:auto;" />
       </td>
@@ -1357,7 +1338,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1997-02-11</td>
@@ -1376,7 +1357,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/l0KMCUveuIQkvY5ZROMJEXl-TBA_i3lDgfyMAUZayZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTE5/MDQtMTM5MTM4OTI1/My0yODgxLmpwZWc.jpeg" alt="Cover for Beauty and the Beat!" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1378,26 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f96af159db40418f9e3224ae435e7e9f.png" alt="Cover for The Very Best of Andy Williams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Andy Williams</td>
+      <td>The Very Best of Andy Williams</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/WBhittUgG5e-uoTeCwQQ0_xL6KB5rMJb1nRS1rJMmg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMy/MzA5LTE2MjU2NjA4/MzYtMjExNi5qcGVn.jpeg" alt="Cover for The World Of Nat King Cole" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,9 +1418,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>98</td>
       <td>
-          <img src="https://i.discogs.com/BdWN5hWAHUoeEe12UUHMrplPPdHjqVCppSeC7AoKgmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODEw/NS0xNjQxOTk5NDQy/LTkzOTguanBlZw.jpeg" alt="Cover for Don&#39;t Shoot Me I&#39;m Only The Piano Player (Bonus Tracks Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/403dba8c02cf65444459b523a1d68428.png" alt="Cover for Don&#39;t Shoot Me I&#39;m Only The Piano Player (Bonus Tracks Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Elton John</td>
@@ -1428,7 +1428,6 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
       <td>
@@ -1437,7 +1436,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/49b60d2802741e7ab6557dba88f71ac0.png" alt="Cover for Both Sides Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1454,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/cy10Nh9XMb3zesV1bfnE0z-2eiXLsnuUOvX-1bSnsqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU4/ODI2LTE1MDM3OTQ5/MTAtMTc2NC5qcGVn.jpeg" alt="Cover for A Centennial Anthology Of His Decca Recordings" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1475,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/kgKJqKCu2NCS3CjdcooqgvgDJYVNqTqNBaY0BYK657c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzkz/ODI1LTE1NzM2MzY5/MTgtNjk2Ni5qcGVn.jpeg" alt="Cover for Mel Torme&#39;s Finest Hour" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1495,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9fe14d3e0eab1fb628427b2211f8072.png" alt="Cover for The Lady Sings" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1518,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
       </td>
       <td>2002</td>
@@ -1537,7 +1536,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/IqAxHz0Sq5ANr_Gu_lu3Zj2i1gpC16Y9tuJ65_dy7a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE1/MjEtMTM2ODk4OTg4/NS00NzgyLmpwZWc.jpeg" alt="Cover for The Ultimate Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1555,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2003-09-09</td>
@@ -1577,7 +1576,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2007-09-25</td>
@@ -1596,7 +1595,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/vovZ-4iaMJa0J4u0r6G_-1MX0dAJASPuW1kEjQiLin8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIy/NDIxLTE1Mjg3NDU2/NjMtNjIxNC5qcGVn.jpeg" alt="Cover for My American Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1614,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/JbFBa3wcAXmXTbZ4TFoWFML7n_uKYn7QWCIE93G2Kf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI2/MTI5LTE2NzU4MDEx/NzctMjE0NS5qcGVn.jpeg" alt="Cover for The Essential Michael Bublé" style="max-width:120px; height:auto;" />
       </td>
@@ -1636,7 +1635,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Oe92iIO2fj9HHRg5dWV4LXKoKyoSVvCgHx-meJlsyNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzAx/NzQtMTM5NTc1MzE4/MC0zMzczLmpwZWc.jpeg" alt="Cover for Your Number Please" style="max-width:120px; height:auto;" />
       </td>
@@ -1661,47 +1660,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://i.discogs.com/Ji9VCjAyCbSsTpzxQ_xHk8OK4h-2WV-1brBXlHd2j00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcz/MDA0LTE1NTg2MDY1/OTMtMzc5OS5qcGVn.jpeg" alt="Cover for Joker: Folie à Deux (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Lady Gaga</td>
-      <td>Joker: Folie à Deux (Music from the Motion Picture)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/K17sPdTRDzzoE9I-0qmtW_PgMC7e-vl3_ytDT4g68Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUz/MTAyLTE2NjczNjQz/MTUtODg1NS5qcGVn.jpeg" alt="Cover for The Tony Bennett&#x2F;Bill Evans Album" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Tony Bennett</td>
-      <td>The Tony Bennett&#x2F;Bill Evans Album</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/BdmE-vqXrBUqy-oqv5z_6aL-dsRN507X_uVb9gdOnho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTA4/ODEtMTQ0ODgyODcz/NC05ODMyLnBuZw.jpeg" alt="Cover for Alive At The Village Vanguard" style="max-width:120px; height:auto;" />
       </td>
@@ -1721,7 +1680,47 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/K17sPdTRDzzoE9I-0qmtW_PgMC7e-vl3_ytDT4g68Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUz/MTAyLTE2NjczNjQz/MTUtODg1NS5qcGVn.jpeg" alt="Cover for The Tony Bennett&#x2F;Bill Evans Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tony Bennett</td>
+      <td>The Tony Bennett&#x2F;Bill Evans Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/Ji9VCjAyCbSsTpzxQ_xHk8OK4h-2WV-1brBXlHd2j00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcz/MDA0LTE1NTg2MDY1/OTMtMzc5OS5qcGVn.jpeg" alt="Cover for Joker: Folie à Deux (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Lady Gaga</td>
+      <td>Joker: Folie à Deux (Music from the Motion Picture)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg" alt="Cover for Did You Know That There&#39;s a Tunnel Under Ocean Blvd" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,17 +1735,17 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 84</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 81</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/910ed91b502c4346837321f8e76715d6.png" alt="Cover for Kisses on the Bottom" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1763,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3753cc55a4a47caac691ba98be2c4ce.png" alt="Cover for Long Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1780,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55521cac0fb5977fa468b6fee87bb849.png" alt="Cover for Harlequin" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1798,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba7c4808ca2201b32b1545e7324fabc.png" alt="Cover for Shadows in the Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1818,7 +1817,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/PELpRiYSJh9vXJdkzkzbzeEmBQuEzBU_UFe7uTByyHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDgy/NTQ1LTE2NDQzNjI2/MDktOTc5MS5qcGVn.jpeg" alt="Cover for Triplicate: &#39;Til The Sun Goes Down" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1835,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de681fa9cce294e633a110761f2ee2e.png" alt="Cover for Press Start!" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,12 +1854,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 80</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59a0e10359ce174c4c0124f77615a30.png" alt="Cover for Choose Your Character!" style="max-width:120px; height:auto;" />
       </td>
@@ -1880,12 +1879,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       <td>
         <ul>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 81</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/7xcn5wnXsaj_FMnrfBAKKDR2YtNn7NGrCuPaLYy4t-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIy/NDQ0LTE2MTExNzU3/MzktMzYzMS5qcGVn.jpeg" alt="Cover for Backwards Compatible" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,12 +1903,12 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 74</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4202b19c488be8ca759874faa8548a.png" alt="Cover for Everything I Know About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,13 +1921,13 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 55</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 56</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/UwSYO_qHH8aGJVB6KjLqdrCN6zsll34nJhKIHn6XVXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcx/NzQ5LTE2NjUzNDUz/NjQtMjI3Ny5qcGVn.jpeg" alt="Cover for Christmas With Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1942,14 +1941,14 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 60</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/TodZEbjL67k1kklfVTZLfHuTo9rvBbfcbOFzKa4jgBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE4/MDE1LTE3MDAwMTI2/NjAtNDk1Ny5qcGVn.jpeg" alt="Cover for Quartet Plus Two" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1968,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/bZM2rgn8Nhahh0x_wuiWCPzKA71rUQvUbXj5b43H-pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg3/NTQ2LTE3MjY5MDI2/NzQtMTI0NC5qcGVn.jpeg" alt="Cover for I&#39;ll See You In My Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1987,9 +1986,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/UQi99mxtnWlL5eSAYnhcdlM9qNE5skdSJc6Lxx8qAKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEw/ODEyLTE3MjgyNzU0/MDktOTE1Ni5qcGVn.jpeg" alt="Cover for Joker: Folie à Deux (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e1cc048031a86765e58f9b60c48f643.png" alt="Cover for Joker: Folie à Deux (Music From The Motion Picture)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-10-04</td>
       <td>Joaquin Phoenix</td>
@@ -2009,7 +2008,7 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ec51ae814148acc8b6949121482f83.png" alt="Cover for Christmas Songs by Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -2023,9 +2022,9 @@ Traditional pop is a vocal-centered style that emerged in the 1940s-1960s, featu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 35</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 55</li>
             <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 85</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 88</li>
         </ul>
       </td>
     </tr>

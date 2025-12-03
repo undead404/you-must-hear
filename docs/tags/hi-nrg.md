@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:50:59.869Z
+date: 2025-12-03T03:53:46.013Z
 permalink: tags/hi-nrg
 title: hi-nrg
 ---
 
 ## hi-nrg
 
-Last updated: <time datetime="2025-11-24T12:50:59.869Z">Mon Nov 24 2025 14:50:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:53:46.013Z">Wed Dec 03 2025 05:53:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
             <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 61</li>
         </ul>
       </td>
@@ -426,7 +426,8 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -446,8 +447,8 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 1</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 49</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -501,7 +502,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 8</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +918,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 45</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1083,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 33</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1582,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 12</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1964,11 +1965,11 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 17</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 20</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 77</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 84</li>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 87</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
         </ul>
@@ -1998,9 +1999,9 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 3</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 22</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 52</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2079,7 +2080,7 @@ Hi-NRG is a fast-paced, electronic dance music genre that emerged in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 44</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 57</li>
         </ul>
       </td>
     </tr>

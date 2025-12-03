@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T02:51:37.944Z
+date: 2025-12-03T03:48:45.953Z
 permalink: tags/sertanejo
 title: sertanejo
 ---
 
 ## sertanejo
 
-Last updated: <time datetime="2025-11-19T02:51:37.944Z">Wed Nov 19 2025 04:51:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:48:45.953Z">Wed Dec 03 2025 05:48:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,7 +141,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/Ndzu4TKGpMp5lNRKgprsgvz0MHfdPzSoJk0ZL8mW3LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY3/OC0xNTU3ODkzMDE4/LTg4MjUuanBlZw.jpeg" alt="Cover for Zezé Di Camargo &amp; Luciano (2000)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef661a8c8e6ad4511022deeb11d1cb59.png" alt="Cover for Zezé Di Camargo &amp; Luciano (2000)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Zezé Di Camargo &amp; Luciano</td>
@@ -217,7 +217,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/Ndzu4TKGpMp5lNRKgprsgvz0MHfdPzSoJk0ZL8mW3LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY3/OC0xNTU3ODkzMDE4/LTg4MjUuanBlZw.jpeg" alt="Cover for Zezé Di Camargo &amp; Luciano 2003" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/068b5d6ea245f0d49cf965bbf9277027.png" alt="Cover for Zezé Di Camargo &amp; Luciano 2003" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Zezé Di Camargo &amp; Luciano</td>
@@ -298,7 +298,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/r1Ffh-z81oZqSuhgpAmQijYsLUdvBMTRey_CquZxkrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzAx/NTgtMTM1OTE3ODQ4/Ni00ODI4LmpwZWc.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8f64569a6294215a75890d467ed9cf2.png" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Leonardo</td>
@@ -407,6 +407,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d159556637ff079bd9992e6c3ae1e907.png" alt="Cover for Aqui o sistema é bruto" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Chitãozinho &amp; Xororó</td>
@@ -422,7 +423,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 69</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 72</li>
             <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 99</li>
         </ul>
       </td>
@@ -444,7 +445,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 80</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -776,6 +777,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1edbfacb0bd4907aec96c04224271da.png" alt="Cover for Boa Sorte Pra Você" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Victor &amp; Leo</td>
@@ -974,8 +976,8 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 3</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 83</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 5</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1111,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 24</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 73</li>
         </ul>
       </td>
@@ -1574,7 +1576,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 84</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1650,14 +1652,7 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       <td>Mesa Vermelha</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a></li>
         </ul>
@@ -1665,7 +1660,6 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1935,9 +1929,9 @@ Sertanejo is a popular Brazilian music genre rooted in rural folk traditions, bl
 - [country]({{ "/tags/country" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [brazil]({{ "/tags/brazil" | relative_url }})
-- [mpb]({{ "/tags/mpb" | relative_url }})
 - [viola]({{ "/tags/viola" | relative_url }})
+- [mpb]({{ "/tags/mpb" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
 - [romantica]({{ "/tags/romantica" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})

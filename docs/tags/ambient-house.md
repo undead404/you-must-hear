@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:44:59.999Z
+date: 2025-12-03T04:09:45.931Z
 permalink: tags/ambient-house
 title: ambient house
 ---
 
 ## ambient house
 
-Last updated: <time datetime="2025-11-26T02:44:59.999Z">Wed Nov 26 2025 04:44:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:09:45.931Z">Wed Dec 03 2025 06:09:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -498,7 +498,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 44</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 56</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 77</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 96</li>
@@ -1000,8 +1000,8 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 19</li>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 43</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1540,8 +1540,8 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 13</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 37</li>
             <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
@@ -1671,7 +1671,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 73</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 28</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 93</li>
         </ul>
       </td>
@@ -1837,7 +1837,7 @@ Ambient house blends the atmospheric textures and slow-building soundscapes of a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 89</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 12</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T20:07:16.895Z
+date: 2025-12-03T03:42:05.694Z
 permalink: tags/psychill
 title: psychill
 ---
 
 ## psychill
 
-Last updated: <time datetime="2025-11-16T20:07:16.895Z">Sun Nov 16 2025 22:07:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:42:05.694Z">Wed Dec 03 2025 05:42:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 10</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 94</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 95</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 97</li>
         </ul>
       </td>
@@ -115,6 +115,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3122b1fd3ec5d372a74c97607d243aba.png" alt="Cover for Hicksville" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Celtic Cross</td>
@@ -126,7 +127,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 3</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +169,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 85</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 16</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 94</li>
         </ul>
       </td>
@@ -194,6 +195,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1af1afee234816a5b4c9794c656160.png" alt="Cover for Code Eternity" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Asura</td>
@@ -245,8 +247,8 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 45</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 89</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +345,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 85</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -362,10 +364,10 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 48</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 14</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
         </ul>
       </td>
@@ -387,7 +389,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 66</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -452,6 +454,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f66e1d3f34e41a8809701124a1950b7.png" alt="Cover for Emotivision" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08</td>
       <td>Androcell</td>
@@ -484,7 +487,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -522,9 +525,10 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 2</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 41</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 83</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -542,7 +546,6 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -584,6 +587,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53cca337545f46af8a69e2d29b248e58.png" alt="Cover for Leaving Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-05</td>
       <td>Solar Fields</td>
@@ -636,17 +640,17 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +691,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 93</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -735,12 +739,12 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 45</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 56</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 80</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +766,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 62</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +844,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -864,6 +868,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ced539a6541497c8d88978a7f9f352b.png" alt="Cover for Mastura" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01</td>
       <td>Master Margherita</td>
@@ -945,7 +950,6 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
         </ul>
       </td>
       <td>
@@ -987,13 +991,14 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 86</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91f43fa01464d17cd4ea0fc5e3f3417.png" alt="Cover for Cosmotherapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-27</td>
       <td>Dream Lab</td>
@@ -1058,9 +1063,8 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 94</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 97</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 20</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1079,8 +1083,8 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 24</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 27</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1141,7 +1145,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1162,20 +1166,20 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 28</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 70</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/ObVwzhjQtFxWvx7w_a-lHcgPD8SMcuQc2bNdKWaEXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc5/MzktMTMxMTk0MjQw/OS5qcGVn.jpeg" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00754c6d66ae2f4b99bb9392b1893ddf.png" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10</td>
       <td>Carbon Based Lifeforms</td>
@@ -1189,7 +1193,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 83</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1235,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/RJnIqxZUcSNxn_InN3_jlukOWI03NADlh-EEbFyiwqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAx/MzgtMTMyNzc1MDk4/OC5qcGVn.jpeg" alt="Cover for [Movements]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b67f1a1f8225443398abaf19551e0cfc.png" alt="Cover for [Movements]" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-19</td>
       <td>Solar Fields</td>
@@ -1250,7 +1254,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>78</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed27857d54934e73859c69cf00f615cc.png" alt="Cover for Movements" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/798d063bb25f4714f8503b4403dfc517.png" alt="Cover for Movements" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-20</td>
       <td>Solar Fields</td>
@@ -1268,6 +1272,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4b7f3cd69e42c0a3b95ffbf99fef36.png" alt="Cover for Substans" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-29</td>
       <td>Circular</td>
@@ -1281,7 +1286,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 72</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1321,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 77</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1341,6 +1346,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e483c379964fdac2157bed894053d24c.png" alt="Cover for Energy Mind Consciousness" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-31</td>
       <td>Mystical Sun</td>
@@ -1453,6 +1459,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8355231023754704b820bb8d3738097e.png" alt="Cover for Heart Ache &amp; Dethroned" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-16</td>
       <td>Jesu</td>
@@ -1496,6 +1503,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1e930746b4f4afc8146dc5b431f7e5d.png" alt="Cover for The Fables Of Belovodye" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-06</td>
       <td>Koan</td>
@@ -1627,7 +1635,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 51</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 97</li>
         </ul>
       </td>
@@ -1782,7 +1790,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/rBqEV04yEPisqE5mVI2JtmY5tkQDz7tIMikq-pug2d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc5/MjUtMTQzNTQ3OTc2/NS03MjEyLmpwZWc.jpeg" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5de27dbfc23dd1f580acb6708135a83.png" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-23</td>
       <td>Entheogenic</td>
@@ -1796,7 +1804,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 73</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1877,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/NO4dUE3F6Pcwk37JZqNoAZPEt2ojM1e5ZScQnFHjvFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk0/NDktMTUwODQ3MjE5/Ny0yOTUwLmpwZWc.jpeg" alt="Cover for Venus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d86f5eff4f4e4fd26bca6bce7aa020.png" alt="Cover for Venus" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-15</td>
       <td>Suduaya</td>
@@ -1937,7 +1945,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 79</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1985,7 @@ Psychill is a downtempo electronic genre blending psychedelic textures with chil
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 90</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 91</li>
         </ul>
       </td>
     </tr>

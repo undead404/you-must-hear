@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T15:52:17.536Z
+date: 2025-12-03T04:11:46.174Z
 permalink: tags/quebec
 title: quebec
 ---
 
 ## quebec
 
-Last updated: <time datetime="2025-10-18T15:52:17.536Z">Sat Oct 18 2025 18:52:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T04:11:46.174Z">Wed Dec 03 2025 06:11:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/3Iins0tp6FyO3dvyXdkXge4ODqmXlM71eTVsy1Tg4iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAz/MC0xMzUyMTM4MDU5/LTc0NzkuanBlZw.jpeg" alt="Cover for J&#39;un Oeil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76235889c6571e6b6380f053412c28c.png" alt="Cover for J&#39;un Oeil" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-12</td>
       <td>Sloche</td>
@@ -52,8 +52,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9806423d363049f3bd2116a4b9467f05.png" alt="Cover for Menteur" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-06-21</td>
       <td>Jean Leloup</td>
@@ -70,7 +71,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>1990</td>
@@ -86,12 +87,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 60</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/92BX2zd_2uE8vGpW6dfxeDy2gBU6ubCOSfEf583qopQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/NTI2LTE0OTA5ODYz/MjEtNzE4My5qcGVn.jpeg" alt="Cover for Magneto" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +110,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
       </td>
       <td>1995-10-23</td>
@@ -126,7 +127,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>1996-05-05</td>
@@ -143,7 +144,24 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Okoumé</td>
+      <td>Okoumé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
       </td>
       <td>1997</td>
@@ -160,24 +178,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Okoumé</td>
-      <td>Okoumé</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/8GXoqjpu_nxLlCC7jsmaHLrAv0OQm11L4Nt9jgII8bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjQ5/MzQtMTQ1MjY2NTI5/My0yMjA4LmpwZWc.jpeg" alt="Cover for Lili Fatale" style="max-width:120px; height:auto;" />
       </td>
@@ -195,41 +196,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>La Chicane</td>
-      <td>En Catimini</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>1998</td>
-      <td>Les Cowboys Fringants</td>
-      <td>Sur mon canapé</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1998</td>
@@ -247,7 +214,41 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>52</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Les Cowboys Fringants</td>
+      <td>Sur mon canapé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>La Chicane</td>
+      <td>En Catimini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
       </td>
       <td>1998-05</td>
@@ -264,8 +265,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1402accb7018cb5281760fab7e4747d9.png" alt="Cover for Les Fourmis" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-24</td>
       <td>Jean Leloup</td>
@@ -282,9 +284,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/tY6PJcVg4Z5Ro-CF5nBKnVtgeaeLjOlVCfeHA-EYutM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTIx/NjctMTM1NTYzMzQ4/OC00ODEwLmpwZWc.jpeg" alt="Cover for No Worries &#x2F; No Limits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d29d5339a5a84b3584810a945388cff1.png" alt="Cover for No Worries &#x2F; No Limits" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Reset</td>
@@ -300,12 +302,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 64</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
       </td>
       <td>1999</td>
@@ -324,7 +326,24 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1999-12-31</td>
+      <td>Les Respectables</td>
+      <td>$ &#x3D; bonheur</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
       </td>
       <td>2000</td>
@@ -339,13 +358,13 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 59</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 86</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 61</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2000</td>
@@ -362,7 +381,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/f__YDDBYl2pZnyQjBO0Z3lt_XLfTLCNUahcKZVQVV9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjU2/MDktMTY2MjU4MTQy/Mi01MDMwLmpwZWc.jpeg" alt="Cover for Mr. Grape Presents: Hardstyle" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +405,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
       </td>
       <td>2000-10-10</td>
@@ -406,7 +425,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2000-10-17</td>
@@ -423,7 +442,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
       </td>
       <td>2001</td>
@@ -435,12 +454,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 5</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
       </td>
       <td>2001-11-13</td>
@@ -457,18 +476,16 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>58</td>
       <td>
       </td>
       <td>2002</td>
-      <td>Anonymus</td>
-      <td>Daemonium</td>
+      <td>GrimSkunk</td>
+      <td>Seventh Wave</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -477,7 +494,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/MdYPt_kofW0uMnAlC2EkZmCRomtqH5jOjm_Hrw8NhrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDQ3/NzMtMTQzNjU0OTg3/MC0yNTQ3LmpwZWc.jpeg" alt="Cover for For Reel" style="max-width:120px; height:auto;" />
       </td>
@@ -498,16 +515,19 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a39f71090d4139b2f588d8891f02c7.png" alt="Cover for Daemonium" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
-      <td>GrimSkunk</td>
-      <td>Seventh Wave</td>
+      <td>Anonymus</td>
+      <td>Daemonium</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -516,7 +536,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2002-03-05</td>
@@ -533,7 +553,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
       </td>
       <td>2002-08-08</td>
@@ -551,8 +571,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c701beda0345aa68f76c75e9f05f68.png" alt="Cover for Aimer Le Mal" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-17</td>
       <td>Vulgaires Machins</td>
@@ -568,7 +589,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2002-12-03</td>
@@ -587,7 +608,24 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Les Trois Accords</td>
+      <td>Gros Mammouth Album Turbo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/jiq6mA1gmLJTCQozNcREepS6xAN--49YzbXucEsZyH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA1/Njg5LTE2MTk4MTM2/OTItNTExOS5qcGVn.jpeg" alt="Cover for Gros Mammouth Album" style="max-width:120px; height:auto;" />
       </td>
@@ -605,24 +643,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td>2003</td>
-      <td>Les Trois Accords</td>
-      <td>Gros Mammouth Album Turbo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
       </td>
       <td>2003-04-22</td>
@@ -639,7 +660,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2003-04-29</td>
@@ -657,13 +678,13 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 50</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 52</li>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td>2003-05-13</td>
@@ -680,7 +701,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/9Hd7HeRGFEoSoeg019QMlwl6CAa7DMVoADxg8iXz3oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDY5/OC0xNDUyOTc1OTQ0/LTQ4NTkuanBlZw.jpeg" alt="Cover for Le Décor" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +719,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
       </td>
       <td>2004-01</td>
@@ -718,7 +739,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2004-02-17</td>
@@ -737,7 +758,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
       </td>
       <td>2004-02-17</td>
@@ -755,7 +776,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2004-05-04</td>
@@ -772,7 +793,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2004-05-26</td>
@@ -789,7 +810,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
       </td>
       <td>2004-08-10</td>
@@ -812,7 +833,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2004-09-28</td>
@@ -829,7 +850,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
       </td>
       <td>2004-10-26</td>
@@ -848,7 +869,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/t-P_imuBsN9kIy7YHGoHI3zkDZZD2-v8Gp7ForH-DBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTky/OTc2LTE1MzEyMzY4/NDUtMTAxMy5qcGVn.jpeg" alt="Cover for Chill&#39;em All" style="max-width:120px; height:auto;" />
       </td>
@@ -863,12 +884,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 91</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
       </td>
       <td>2004-11-23</td>
@@ -887,7 +908,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/tvEnaA1oNDp9zY7U8sNlCTKx5B2KIGdvdIPGU0z02IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE4/NTQtMTUzMDU0NDE3/Ny02NDI3LnBuZw.jpeg" alt="Cover for La Grand Messe" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +927,27 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Tiga</td>
+      <td>Louder Than A Bomb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
       </td>
       <td>2005</td>
@@ -928,32 +969,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 62</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Tiga</td>
-      <td>Louder Than A Bomb</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-06-20</td>
@@ -970,27 +991,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/0JC5U8HSg7EFOCbwc-sSUwdaAPrlJWEyW7d46zuTChA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjYz/NDgtMTQ3MjYwNDE4/MS04NDI0LmpwZWc.jpeg" alt="Cover for Western Shanghai" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Call Me Poupee</td>
-      <td>Western Shanghai</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
       </td>
       <td>2006</td>
@@ -1004,12 +1005,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 82</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/r2MrBt-A8EbKyRiNVq7nyIbC0VYN-fU3G6NpjnH2wLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzY0/ODMtMTM0MjMwODc1/My0yMzkxLmpwZWc.jpeg" alt="Cover for Introducing New Details" style="max-width:120px; height:auto;" />
       </td>
@@ -1027,7 +1028,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2006-09-05</td>
@@ -1047,7 +1048,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
       </td>
       <td>2006-09-19</td>
@@ -1064,7 +1065,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/19xy6407vAVer80N505Cm29C0pUsd58I2OnDFGYPrh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzA0/NS0xMTYyODM1ODQx/LmpwZWc.jpeg" alt="Cover for Nulla Lullabies" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,14 +1082,14 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 43</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/TsR-gSnemKKVfMOxtdARBWa6PjFWSWyCx8IwJmm3SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/NDYyLTE1MTg2MDI3/MDgtOTk3Mi5qcGVn.jpeg" alt="Cover for L&#39;Idéologie Des Stars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dc8246fbe3771abdabcf927d2b606d.png" alt="Cover for L&#39;Idéologie Des Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-07</td>
       <td>Numéro#</td>
@@ -1106,32 +1107,15 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 76</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 88</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 89</li>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>2006-11-28</td>
-      <td>Mes Aïeux</td>
-      <td>Tire-toi Une Bûche</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td>2006-11-28</td>
@@ -1148,9 +1132,26 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>95</td>
       <td>
-          <img src="https://i.discogs.com/MNCbJYL6VedL-UZ6sx17P0YMPRJprKVAJInpfPHGn9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njg1/NDItMTM5OTQyODI1/MS02NzMwLmpwZWc.jpeg" alt="Cover for Final Genocide" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-28</td>
+      <td>Mes Aïeux</td>
+      <td>Tire-toi Une Bûche</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b07801a9794a5a3598dd98a46bb8135.png" alt="Cover for Final Genocide" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Dissection</td>
@@ -1167,7 +1168,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -1182,12 +1183,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 72</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>37</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -1204,7 +1205,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/brniFyiCzJtoqFyts-wk6tEuwNO00Hebw7TuXhxrfZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgx/NDE1LTE2MDY1MTA2/NDctNjIyOC5qcGVn.jpeg" alt="Cover for De bon matin" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1223,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/bBLFRHGLXO8zY6bkBqX3fK_d59-MPDShweyCxtAIPLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI2/MzAtMTQzODkxODgx/NC02Nzc4LmpwZWc.jpeg" alt="Cover for Au Grand Théâtre de Québec" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1242,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/lgN9_8631DQnTmVR-rkpAtDeRsUY-rlOhL6hR7j0W0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTcx/MTUtMTI5Njk5MzE3/OS5qcGVn.jpeg" alt="Cover for Timbervision" style="max-width:120px; height:auto;" />
       </td>
@@ -1256,12 +1257,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 71</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
       </td>
       <td>2007-08-18</td>
@@ -1277,12 +1278,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 8</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/VhMEL-vHQ3g_0jHDsr7YAlhjVBg-gsdO-CSxT8SR_-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDg1/OTEtMTU2MjA5NDM1/My05NjM5LmpwZWc.jpeg" alt="Cover for Death and Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1302,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2007-10-30</td>
@@ -1320,9 +1321,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/PN6hx4nRSSqqVKagvqo5hniXfzxgWszZCjI6osXgyQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDUw/MjYtMTQxMjE4ODc4/Mi04NjY1LmpwZWc.jpeg" alt="Cover for No Intensity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e95a1f4725b9848cd7cfc47533d264a.png" alt="Cover for No Intensity" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Reset</td>
@@ -1339,14 +1340,15 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 73</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 74</li>
             <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc7c3e422f64498090cc41a952946e97.png" alt="Cover for Evolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Spaced Out</td>
@@ -1364,7 +1366,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2008-04-22</td>
@@ -1379,13 +1381,13 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 71</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 73</li>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2008-09-01</td>
@@ -1402,8 +1404,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0daebc511b7249819f055d23aad1d0bc.png" alt="Cover for Cœur de Pirate" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-16</td>
       <td>Cœur de Pirate</td>
@@ -1420,7 +1423,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2008-09-23</td>
@@ -1439,7 +1442,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/230f3aebdae649ba9065b191eb491ddc.png" alt="Cover for sur un air de déjà vu" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,12 +1458,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 1</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/rRAwN3-ipjTuJIXZIFn4nlKtKIn27t9jVY7TYqPXfx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA3/NTAtMTI1NzE1MjA1/Ny5qcGVn.jpeg" alt="Cover for Farewell Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1479,12 +1482,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 44</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/dgDJ98l3F3P_CTc4FqIIKpcIuKmusVl-TivEScgP5-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/OTctMTQ5NzI4OTI2/OS01NjU3LnBuZw.jpeg" alt="Cover for Golden Bombay" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,14 +1512,14 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 69</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 74</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 92</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 71</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 76</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/gLb9ilYeCkiXfH9OH6L1tvBq-l6CdDr7Hh4ydbxn4Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA3/NDktMTU0MTU0NDY0/Mi00OTkzLmpwZWc.jpeg" alt="Cover for La Prochaine Etape" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1537,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/dWL7c9Oh20tBh4aso6ht0gYori0k04RYkrYtspKrshg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU3/NjMtMTMyMDA5ODk0/OS5qcGVn.jpeg" alt="Cover for Nordmen" style="max-width:120px; height:auto;" />
       </td>
@@ -1555,7 +1558,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
       </td>
       <td>2011-05-03</td>
@@ -1576,8 +1579,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/151a56783b78495593e9f9424eef4171.png" alt="Cover for Flamingo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-13</td>
       <td>Sean Nicholas Savage</td>
@@ -1599,17 +1603,17 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 80</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 95</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
       </td>
       <td>2012-08-23</td>
@@ -1621,13 +1625,14 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 53</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cc4478b27a4df3cde6efba4c2023fa.png" alt="Cover for Ev" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>VioleTT Pi</td>
@@ -1643,30 +1648,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       <td>
         <ul>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 22</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 66</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/38S4dBjrWDcBVUE2-Zdky-BftPMftB8JtQLJrkosly4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTE4/NDUtMTQwMTY1Nzk4/NC03Mzg5LmpwZWc.jpeg" alt="Cover for La Manière Noire" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014</td>
-      <td>Nous Étions</td>
-      <td>La Manière Noire</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
       </td>
       <td>2014</td>
@@ -1686,7 +1673,25 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/38S4dBjrWDcBVUE2-Zdky-BftPMftB8JtQLJrkosly4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTE4/NDUtMTQwMTY1Nzk4/NC03Mzg5LmpwZWc.jpeg" alt="Cover for La Manière Noire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Nous Étions</td>
+      <td>La Manière Noire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/uNQ5QsdpOrJrXewFSQeAZy1JjcICyXN2iEUURJ_6nt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjYy/OTQtMTQxNzIyNTc1/NS05MTQxLmpwZWc.jpeg" alt="Cover for July First" style="max-width:120px; height:auto;" />
       </td>
@@ -1711,15 +1716,34 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 69</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 70</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 76</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>69</td>
       <td>
+          <img src="https://i.discogs.com/x-a6TuDYx8aCIxI05e69SC5GB-1rKB2Of9SVLnVrnG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjY5/MzgtMTQ2MjE3NjEy/Ny03MjA2LmpwZWc.jpeg" alt="Cover for Cool LOL" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Lova</td>
+      <td>Cool LOL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e619208aa82b68216166c7698dfa5a8.png" alt="Cover for Santa Barbara" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Gab Paquet</td>
@@ -1741,27 +1765,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/x-a6TuDYx8aCIxI05e69SC5GB-1rKB2Of9SVLnVrnG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjY5/MzgtMTQ2MjE3NjEy/Ny03MjA2LmpwZWc.jpeg" alt="Cover for Cool LOL" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Lova</td>
-      <td>Cool LOL</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://i.discogs.com/TuUGYAn6Yoe5eNGRlYhcaIp_aH8gzi8hF_z7YrMHPXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzky/NjQtMTQ1Nzc0NDk5/Mi0xNDYzLmpwZWc.jpeg" alt="Cover for Ultramarr" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/631b0b1e01a1f1298aafe74a46492af1.png" alt="Cover for Ultramarr" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-18</td>
       <td>Fred Fortin</td>
@@ -1778,7 +1784,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/kxhDR_AoW4gChxGfzx7sGwkr_KgDwpYQ9sIyfaIpPiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODQw/MTItMTQ4NDcxOTky/Ny02NzE5LmpwZWc.jpeg" alt="Cover for Let It Play" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,12 +1799,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vOy3DPJbV3z4lhJghGLc49w2HtpTHqnI7rcTYpFyP_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjI4/ODgtMTQ4OTMxMTU5/Ni05NDM2LmpwZWc.jpeg" alt="Cover for Récits patriotiques" style="max-width:120px; height:auto;" />
       </td>
@@ -1815,12 +1821,12 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 11</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e49052bbc3473d3f41760b146134429.png" alt="Cover for Bon Enfant" style="max-width:120px; height:auto;" />
       </td>
@@ -1841,9 +1847,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
-          <img src="https://i.discogs.com/xkmkErxFEtO_GBxOGXVzPY3Uy_cEyFYxU14jSC0G7n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEz/MDEzLTE2Mzg1NDQ3/MzMtMzQ2NC5qcGVn.jpeg" alt="Cover for Choses Sauvages II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8e8f336e9716bda76171e1de5af5a39.png" alt="Cover for Choses Sauvages II" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-15</td>
       <td>Choses Sauvages</td>
@@ -1864,7 +1870,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/fa-8o2Sau9jryQ5WhGD45oqO2PqoUIk0Up7IughDzy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjYz/NTAyLTE2NDgzOTUw/MzItOTI1MC5qcGVn.jpeg" alt="Cover for Ta main" style="max-width:120px; height:auto;" />
       </td>
@@ -1882,7 +1888,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/5JWmjVQqLn6-nGeU9DTrwIF0I8PwQ15_yVFipQiO-jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA4/MzE1LTE3MzEyMzYx/MjgtMjc0OS5qcGVn.jpeg" alt="Cover for le dernier qui sort eteint la lumiere" style="max-width:120px; height:auto;" />
       </td>
@@ -1896,14 +1902,14 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 22</li>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 62</li>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 78</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
       </td>
       <td>2023</td>
@@ -1921,9 +1927,9 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/CGwWziFmS4N8muhQdXisXCIxWUFSvm_WqduSEzwJjbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkz/MzI2LTE2NzkzOTY1/NzItMzA0OS5qcGVn.jpeg" alt="Cover for Inside Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41f1f037de3832c7434fdb75eb8c033f.png" alt="Cover for Inside Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-29</td>
       <td>Peer Pressure</td>
@@ -1943,30 +1949,7 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Grape Kool-Aid Experience</td>
-      <td>Remixes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 48</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>
@@ -1992,12 +1975,35 @@ Quebec music represents the vibrant French-language music scene from Canada&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 55</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Grape Kool-Aid Experience</td>
+      <td>Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canada" | relative_url }}">canada</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
       </td>
       <td></td>

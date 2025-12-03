@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:33:43.249Z
+date: 2025-12-03T04:08:45.893Z
 permalink: tags/retrowave
 title: retrowave
 ---
 
 ## retrowave
 
-Last updated: <time datetime="2025-11-19T07:33:43.249Z">Wed Nov 19 2025 09:33:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:08:45.893Z">Wed Dec 03 2025 06:08:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,9 +46,9 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 40</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 42</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 64</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 77</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Kung Fury (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf608208437c2fe1e5758f228ad5dc80.png" alt="Cover for Kung Fury (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -171,7 +171,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 36</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 29</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +481,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 48</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 49</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 78</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 86</li>
         </ul>
@@ -579,7 +579,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 63</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +601,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 80</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -641,7 +641,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 58</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/W2ar-Uh-dUHVXUyRX_mYHupQX3wAEzynpPYiwR_vlIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTY0/MjktMTQ0OTM5NDA3/Ny02MTA1LmpwZWc.jpeg" alt="Cover for Chronicles Of The Wasteland &#x2F; Turbo Kid Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb55926072b436328a656e049824758f.png" alt="Cover for Chronicles Of The Wasteland &#x2F; Turbo Kid Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-04</td>
       <td>Le Matos</td>
@@ -954,7 +954,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 25</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 26</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 85</li>
         </ul>
       </td>
@@ -1039,7 +1039,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 46</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1211,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 75</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1274,8 +1274,8 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 24</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 63</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1337,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 61</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 39</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 62</li>
         </ul>
       </td>
@@ -1382,7 +1382,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 43</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1436,25 +1436,15 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       <td>Bend &amp; Break</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 3</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 97</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 100</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 4</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1479,8 +1469,8 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 17</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 79</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1513,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/uU-SukaKTyvBMqv6QI7wlZC0_AlP2sl23dN5BYo54eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQz/MzQ5LTE1MDg3ODg4/MDctNDUzNC5qcGVn.jpeg" alt="Cover for Stranger Things 2 (A Netflix Original Series Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0c32b884ba85bbb14c8b7f5501fc7bb.png" alt="Cover for Stranger Things 2 (A Netflix Original Series Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-04</td>
       <td>Kyle Dixon</td>
@@ -1560,8 +1550,8 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 23</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 86</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 14</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1719,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 51</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1816,8 +1806,8 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 3</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 53</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1903,7 +1893,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 82</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1929,7 +1919,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 86</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1998,8 +1988,8 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 45</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 77</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 23</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 54</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 85</li>
         </ul>
       </td>
@@ -2087,7 +2077,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 55</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2106,7 +2096,7 @@ Retrowave is a synthesizer-driven electronic music genre that emerged in the mid
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 8</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 10</li>
         </ul>
       </td>
     </tr>

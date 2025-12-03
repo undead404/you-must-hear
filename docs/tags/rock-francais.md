@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T04:03:19.823Z
+date: 2025-12-03T03:52:45.923Z
 permalink: tags/rock-francais
 title: rock francais
 ---
 
 ## rock francais
 
-Last updated: <time datetime="2025-11-23T04:03:19.823Z">Sun Nov 23 2025 06:03:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:52:45.923Z">Wed Dec 03 2025 05:52:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -324,7 +324,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 69</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -379,8 +379,8 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 60</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 33</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +416,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -500,7 +500,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 16</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 17</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 95</li>
             <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 97</li>
         </ul>
@@ -828,7 +828,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 64</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 37</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 78</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 97</li>
         </ul>
@@ -1107,7 +1107,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 71</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1338,9 +1338,9 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 3</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 78</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 96</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1364,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 33</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 83</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 98</li>
         </ul>
@@ -1509,7 +1509,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 11</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 42</li>
         </ul>
       </td>
@@ -1904,7 +1904,7 @@ Rock français is French-language rock music that emerged in the 1960s and flour
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/YVp5ZTFxWiCXwP_cwyYrTvLJh4vwFEP8KzCJpdWPob8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjE3/NzQtMTQ2MDEyNDIx/Ny0zNjQ4LmpwZWc.jpeg" alt="Cover for SixTape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2bdc043e916fad40efb45decffac65f.png" alt="Cover for SixTape" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Superbus</td>

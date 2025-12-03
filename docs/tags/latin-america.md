@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:31:52.643Z
+date: 2025-12-03T05:21:55.414Z
 permalink: tags/latin-america
 title: latin america
 ---
 
 ## latin america
 
-Last updated: <time datetime="2025-11-14T01:31:52.643Z">Fri Nov 14 2025 03:31:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T05:21:55.414Z">Wed Dec 03 2025 07:21:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -96,7 +96,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -165,6 +165,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4837f8191a6e47e8993fdd79e9e86c70.png" alt="Cover for Breathe 01" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -306,7 +307,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 75</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -353,9 +354,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 2</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 57</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 65</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
         </ul>
       </td>
@@ -375,7 +376,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 94</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -395,8 +396,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 24</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 18</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +419,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 21</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 22</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 53</li>
         </ul>
       </td>
@@ -464,8 +465,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 42</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 49</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 68</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 53</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 69</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 89</li>
         </ul>
       </td>
@@ -486,7 +487,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 9</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -516,9 +517,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 14</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 54</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 74</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -583,8 +584,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 56</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 71</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 79</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 75</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 80</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 94</li>
         </ul>
       </td>
@@ -604,9 +605,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 47</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 73</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -709,7 +710,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 63</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -757,11 +758,11 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 55</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 56</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 78</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -820,9 +821,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 26</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 60</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 73</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +871,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -988,10 +989,10 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 33</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 65</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 66</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 68</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
         </ul>
       </td>
@@ -1070,9 +1071,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 9</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 10</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 8</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 11</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 90</li>
         </ul>
       </td>
@@ -1159,7 +1160,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 36</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1193,6 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-13</td>
       <td>Todosantos</td>
@@ -1214,9 +1214,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 21</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 22</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1244,9 +1244,9 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
         </ul>
       </td>
@@ -1297,7 +1297,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 61</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 65</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 90</li>
         </ul>
       </td>
@@ -1321,7 +1321,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 7</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 34</li>
         </ul>
       </td>
@@ -1450,7 +1450,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 95</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1476,8 +1476,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 62</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 76</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 85</li>
         </ul>
       </td>
@@ -1510,7 +1510,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 48</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 73</li>
         </ul>
       </td>
@@ -1531,8 +1531,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 59</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 82</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 18</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1589,6 +1589,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dff10b8cecd4498c4e6d98613362ab2.png" alt="Cover for 1A10" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-04</td>
       <td>Vate</td>
@@ -1642,7 +1643,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 63</li>
         </ul>
       </td>
@@ -1664,7 +1665,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 67</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1691,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 56</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 55</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 67</li>
         </ul>
       </td>
@@ -1721,8 +1722,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 87</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 95</li>
         </ul>
@@ -1786,7 +1787,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 16</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1842,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/-SVzld3ifuIsOyzHOT30ATepvpN5nxG-HbmSQiHV2vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODY4/MjUtMTMyODM5MjMy/NS5qcGVn.jpeg" alt="Cover for Vitam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e677fa839e479481ca890cf14c618d.png" alt="Cover for Vitam" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-29</td>
       <td>Vate</td>
@@ -1880,7 +1881,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 37</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1995,8 +1996,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 7</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 88</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2018,6 +2019,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 1</li>
             <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 20</li>
         </ul>
       </td>
@@ -2093,8 +2095,8 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 23</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 84</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 87</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 92</li>
         </ul>
       </td>
@@ -2253,7 +2255,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 24</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2272,7 +2274,7 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 36</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2444,4 +2446,4 @@ Latin America encompasses the diverse musical traditions spanning from Mexico to
 - [mexican]({{ "/tags/mexican" | relative_url }})
 - [chile]({{ "/tags/chile" | relative_url }})
 - [brazilian]({{ "/tags/brazilian" | relative_url }})
-- [argentina]({{ "/tags/argentina" | relative_url }})
+- [brazil]({{ "/tags/brazil" | relative_url }})

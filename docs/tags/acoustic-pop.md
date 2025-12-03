@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:26:36.970Z
+date: 2025-12-03T03:43:18.690Z
 permalink: tags/acoustic-pop
 title: acoustic pop
 ---
 
 ## acoustic pop
 
-Last updated: <time datetime="2025-11-24T12:26:36.970Z">Mon Nov 24 2025 14:26:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:43:18.690Z">Wed Dec 03 2025 05:43:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -147,7 +147,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 50</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 51</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 51</li>
         </ul>
       </td>
@@ -279,7 +279,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 54</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 81</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 97</li>
         </ul>
@@ -675,17 +675,10 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       <td>ONErpm Showcase (Ao Vivo)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +706,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 33</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 62</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -813,7 +806,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
             <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 38</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
@@ -1164,8 +1157,8 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 23</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 75</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 76</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 95</li>
         </ul>
       </td>
@@ -1312,10 +1305,8 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 4</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 13</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 8</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 64</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 91</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 92</li>
         </ul>
       </td>
@@ -1342,7 +1333,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 29</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 30</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
@@ -1531,7 +1522,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 56</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
         </ul>
@@ -1648,14 +1639,11 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       <td>The Hardest Part (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 11</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1686,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 71</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1710,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1763,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 77</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2206,6 +2194,7 @@ Acoustic pop blends the accessible melodies and contemporary song structures of 
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25ec95e8971d0f3228a9021ff256f476.png" alt="Cover for Whatever." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mark Deck</td>

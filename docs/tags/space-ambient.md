@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T06:54:44.873Z
+date: 2025-12-03T03:58:46.015Z
 permalink: tags/space-ambient
 title: space ambient
 ---
 
 ## space ambient
 
-Last updated: <time datetime="2025-11-19T06:54:44.873Z">Wed Nov 19 2025 08:54:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:58:46.015Z">Wed Dec 03 2025 05:58:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -183,7 +183,6 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -208,7 +207,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 13</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 91</li>
         </ul>
       </td>
@@ -1053,7 +1052,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 52</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1431,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 34</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1489,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 83</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1552,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 37</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1578,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 46</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1599,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 62</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1708,8 +1707,8 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 27</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1757,8 +1756,8 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 8</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 37</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 38</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 94</li>
         </ul>
       </td>
@@ -1888,10 +1887,10 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 63</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 81</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 100</li>
         </ul>
@@ -1915,7 +1914,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 50</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 49</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 72</li>
         </ul>
       </td>
@@ -1939,7 +1938,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2009,7 +2008,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 61</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
         </ul>
@@ -2035,7 +2034,7 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 13</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2059,10 +2058,10 @@ Space ambient is atmospheric electronic music that evokes the vast emptiness and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
         </ul>
       </td>
     </tr>

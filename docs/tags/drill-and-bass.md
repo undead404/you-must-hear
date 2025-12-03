@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:44:13.825Z
+date: 2025-12-03T04:03:45.923Z
 permalink: tags/drill-and-bass
 title: drill and bass
 ---
 
 ## drill and bass
 
-Last updated: <time datetime="2025-11-26T02:44:13.825Z">Wed Nov 26 2025 04:44:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:03:45.923Z">Wed Dec 03 2025 06:03:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -201,7 +201,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
         <ul>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 57</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
         </ul>
       </td>
@@ -258,7 +258,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 41</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 51</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
         </ul>
       </td>
@@ -296,6 +296,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -313,7 +314,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 80</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -349,6 +350,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -366,8 +368,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 28</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 96</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +388,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
             <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 99</li>
         </ul>
       </td>
@@ -442,12 +443,12 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 42</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -541,8 +542,8 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 82</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 89</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -566,7 +567,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +606,6 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1381,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 44</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 98</li>
         </ul>
       </td>
@@ -1587,8 +1587,8 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 85</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 97</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1607,7 +1607,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 43</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1633,10 +1633,10 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 7</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 93</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1794,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 16</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 77</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 23</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
         </ul>
       </td>
@@ -1831,9 +1831,9 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 5</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 43</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1895,8 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 83</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1960,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 3</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 100</li>
         </ul>
       </td>
@@ -2241,7 +2242,7 @@ Drill and bass is characterized by hyperkinetic, fragmented breakbeats pushed to
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 18</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 74</li>
         </ul>
       </td>

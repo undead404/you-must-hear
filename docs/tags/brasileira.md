@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T08:59:36.728Z
+date: 2025-12-03T04:05:45.912Z
 permalink: tags/brasileira
 title: brasileira
 ---
 
 ## brasileira
 
-Last updated: <time datetime="2025-10-23T08:59:36.728Z">Thu Oct 23 2025 11:59:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T04:05:45.912Z">Wed Dec 03 2025 06:05:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Chiquititas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e167846045ef47a6b2a0598dbf83d801.png" alt="Cover for Chiquititas" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -126,7 +126,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/AWnaE7Hn-vZsh1hN5Xz2kHYKFAxi0CNTJDP2uTaU-yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM2/MTQtMTQxOTE2MDA2/Ny0xOTQzLmpwZWc.jpeg" alt="Cover for RPM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92a2779cc46d407bc04d62154d22299f.png" alt="Cover for RPM" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>RPM</td>
@@ -141,7 +141,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 35</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/nz2un02yvr3SQiivB7-agAOLHykBWFS-vgB0v8Lrnk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/MzUtMTYwMDk3NjA1/NC0zNDM4LmpwZWc.jpeg" alt="Cover for Morte e Vida Severina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4b0ae144bb57a6eeabcd3b4f0c42973.png" alt="Cover for Morte e Vida Severina" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Chico Buarque</td>
@@ -202,7 +202,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 32</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -252,6 +252,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b368b0d170244200a5fb7a069f57e0.png" alt="Cover for SLA² ~ Be Sample" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Fernanda Abreu</td>
@@ -310,14 +311,13 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6d00d6a1565463fed8a5d83b60f4210.png" alt="Cover for Tô De Bem Com A Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-14</td>
       <td>Xuxa</td>
       <td>Tô De Bem Com A Vida</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -328,7 +328,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/PCf2DJbgZC_LoTVJa81ZZmjewJzmfCVFKBfrjQ7i4P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzc4/NTQtMTY2NzY5MzUw/My0xMDgzLmpwZWc.jpeg" alt="Cover for Ora Pro Nobis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86426e57bd827af18047da1aac8424d7.png" alt="Cover for Ora Pro Nobis" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Baby Do Brasil</td>
@@ -352,6 +352,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d76e02e6e6db7dbb61a9cb22d1f6089.png" alt="Cover for Boas Notícias" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-22</td>
       <td>Xuxa</td>
@@ -385,38 +386,14 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>
-          <img src="https://i.discogs.com/kOu7FJZScLTR4_nSzIN7kBrUmRAyRMMiaweQ4Og5t2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUz/MjMzLTE2MTE4NzM5/OTQtOTM2Ni53ZWJw.jpeg" alt="Cover for Te Vi Na Rua" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Silva</td>
-      <td>Te Vi Na Rua</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 70</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/PCf2DJbgZC_LoTVJa81ZZmjewJzmfCVFKBfrjQ7i4P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzc4/NTQtMTY2NzY5MzUw/My0xMDgzLmpwZWc.jpeg" alt="Cover for Cósmica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffc3bae87f8c05a34b9359a88c7313c9.png" alt="Cover for Cósmica" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Baby Do Brasil</td>
@@ -441,6 +418,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5580a6668ad4787c7fe79ca8325abf2.png" alt="Cover for Só Faltava Você" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Xuxa</td>
@@ -449,6 +427,23 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4136231b4a32f7e9be4c06b78162fd0.png" alt="Cover for Te Vi Na Rua" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Silva</td>
+      <td>Te Vi Na Rua</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -566,7 +561,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +713,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/NoBc30JRZFRPFksFo-dnD4K1-sziyLyaq5z0o2Wrcos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njcx/NTA4LTE2ODkzMzY4/MDQtMTc3MC5qcGVn.jpeg" alt="Cover for Ana e Jorge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/552f74e90eb4794ba7b134790a1f9ed2.png" alt="Cover for Ana e Jorge" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Seu Jorge</td>
@@ -742,7 +737,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/4CPiDG7SEw4xoAd7sSkyib8MQVxJ-DorLvrUkhlFo0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI5/NTEtMTQwNDIzMjkz/OS02NzUwLmpwZWc.jpeg" alt="Cover for Xuxa Só para Baixinhos 5 (XSPB 5) - Circo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a302b03d5a69e0ec1ca8a8aba1a7a85.png" alt="Cover for Xuxa Só para Baixinhos 5 (XSPB 5) - Circo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-24</td>
       <td>Xuxa</td>
@@ -758,7 +753,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 62</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -778,7 +773,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 20</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -822,14 +817,14 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/GWTpC1sx1_zwU6fh7ZGPs3qAXfINq1OiIn1cxYrtAoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjA3/NjM3LTE2MDg3NjQ0/MzYtNDU2OC5qcGVn.jpeg" alt="Cover for Canção pra Dois" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d5237d86cf7bd046330939a2b8f46f3.png" alt="Cover for Canção pra Dois" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Alex Maia</td>
@@ -869,7 +864,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/IJ2qUycL5CGu1c1jN0nDvRUFR04tUpFq5HL6S1RN_d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg1/NjUtMTYxNTkzMzQ4/My03NjExLmpwZWc.jpeg" alt="Cover for Falso Brilhante (Remastered 2022)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75089b9d8535dfcdba176291706422bd.png" alt="Cover for Falso Brilhante (Remastered 2022)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Elis Regina</td>
@@ -914,7 +909,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/QugqxQLyYmgTpvVNkTDP2daA8ZHIzuHM3ShwV05B2jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ2/OTQtMTI2MjUzOTE3/Ny5qcGVn.jpeg" alt="Cover for Dois Quartos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4a436311a7a853a839c6e06c8bd02b.png" alt="Cover for Dois Quartos" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-28</td>
       <td>Ana Carolina</td>
@@ -932,7 +927,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/2Fizi-ZG7WNlqfCXECgOT_hwi_tI8TFIeKzUiEY3CPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/MzYxLTE1Mjg5MjA1/NjItNjg4OS5qcGVn.jpeg" alt="Cover for Sim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19166eb4b39a4b05b8a94d29dbcf5b70.png" alt="Cover for Sim" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Vanessa da Mata</td>
@@ -946,9 +941,9 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 46</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 87</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 98</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 51</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 89</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +964,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 77</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1035,7 +1030,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/_O-qx7Bk-dUharOXNG4RMbZ5Myp3lzWbSS2HePAmjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM3/NjItMTMxNDQ4NjMz/NC5qcGVn.jpeg" alt="Cover for Jorge Vercilo (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2981921182b6afaf54751ce5d76c6f2.png" alt="Cover for Jorge Vercilo (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-19</td>
       <td>Jorge Vercillo</td>
@@ -1051,7 +1046,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 12</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1109,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/OnEfHeFmonZ-3BZzj5xQEgCPdpT2D75S85BiS7LmRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg2/OTQtMTI5NzA0MDMx/Ny5qcGVn.jpeg" alt="Cover for Paula e Bebeto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec321ad275860a6051944072076ace92.png" alt="Cover for Paula e Bebeto" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Gal Costa</td>
@@ -1136,26 +1131,18 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/V9kjH10zzgPiRp_ZsdVlKNR6hV0Wi2FmqUHJHBAoLAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDI3/NzgtMTQzNDY2NDUw/NC0zMDEzLmpwZWc.jpeg" alt="Cover for Bons Ventos Sempre Chegam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0eca8bfbc244e07a8da3a579cc12415.png" alt="Cover for Bons Ventos Sempre Chegam" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-29</td>
       <td>Luiza Possi</td>
       <td>Bons Ventos Sempre Chegam</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1170,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/J81RPM43rl-6a1IrBJPcpGaXq5Qr--J6iX1bUyBEPKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTUz/ODItMTQ0ODkyNDE1/NC05MTcyLmpwZWc.jpeg" alt="Cover for Canibália - Ritmos do Brasil (ao Vivo Na Praia de Copacabana)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50b3c753e78cba298cee3178e27f6e03.png" alt="Cover for Canibália - Ritmos do Brasil (ao Vivo Na Praia de Copacabana)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-23</td>
       <td>Daniela Mercury</td>
@@ -1216,8 +1203,8 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 15</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 16</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1324,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 45</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1363,7 +1350,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/SI6krJy4d0PjobzwtrDEGNxgUmA_hnnsidh3vhJTOLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTIw/MjQtMTUwNzQyODI0/Ny04MTcxLmpwZWc.jpeg" alt="Cover for Farofei (feat. Boss in Drama) - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ecd9f6dfb4e1e92cae9edddba0520d6.png" alt="Cover for Farofei (feat. Boss in Drama) - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Karol Conká</td>
@@ -1397,38 +1384,31 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 81</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/srBrJN7dm-9D1gNdOPJsJLAfpaeAMi7Em7qOgK9ZmCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTY1/ODgtMTQ0NjkyOTQ2/NC00MjE3LmpwZWc.jpeg" alt="Cover for Acústico MTV Tiago Iorc (Ao Vivo)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16c44c83ea9366df513323105564a4e.png" alt="Cover for Acústico MTV Tiago Iorc (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-10</td>
       <td>Tiago Iorc</td>
       <td>Acústico MTV Tiago Iorc (Ao Vivo)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/fNMMd1dur2kPlGENrOQfJXcjnegeKLcQK0A_t1qhL6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTc5/MzgtMTU4NzI3MDM4/OS02NzI0LmpwZWc.jpeg" alt="Cover for Sobre Crianças, Quadris, Pesadelos e Lições de Casa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb7e3046366134b48ddff1a46fa8697a.png" alt="Cover for Sobre Crianças, Quadris, Pesadelos e Lições de Casa" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-07</td>
       <td>Emicida</td>
@@ -1464,7 +1444,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/cj4yyUO9T-YPScoZzY0qiET-Z7cy2axWvlYpHoDUEHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYx/MzcwLTE1Njg5OTI3/NjMtMzc4MS5qcGVn.jpeg" alt="Cover for Dança Pra Mim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f738df83c863758894ff168d8174e122.png" alt="Cover for Dança Pra Mim" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-24</td>
       <td>Jão</td>
@@ -1521,7 +1501,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/enrfcqvKYPxZuPwGtw-RdSDeD54M3PhCbO6JB1ujsFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgy/ODY2LTE2MDczODM3/NDctODg4My5qcGVn.jpeg" alt="Cover for Ambulante" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27881375a2e5524906cc36f543116319.png" alt="Cover for Ambulante" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Karol Conka</td>
@@ -1559,14 +1539,14 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 4</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/Egk3xiVJkGuNQMKpbB-ajW9x9QQi7LNoSUa1_A5iSpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/ODg0LTE1NDkxNTU0/MTEtMTQzNS5qcGVn.jpeg" alt="Cover for Câmera Lenta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d2a4bdc8acba64a8e72d52a6c8bfbd0.png" alt="Cover for Câmera Lenta" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-01</td>
       <td>GAAB</td>
@@ -1621,7 +1601,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 19</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1647,15 +1627,15 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/j_db74_KtVct5L5b8EpXexAW1kKP4bZo36IRSZ3mPqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzYz/MDAzLTE2NzgzOTY1/NzItODUwMi5qcGVn.jpeg" alt="Cover for Você Aprendeu A Amar?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd39d0307dbaf46d9ed57b9df88ab25d.png" alt="Cover for Você Aprendeu A Amar?" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-29</td>
       <td>Priscilla</td>
@@ -1687,7 +1667,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 16</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1696,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
       <td>
         <ul>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 47</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 61</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1822,6 +1802,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9528c0eb3b74fafe8ac031989f9dd73.png" alt="Cover for Beija Outro" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Inxama</td>
@@ -1954,6 +1935,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65ee55078ac4536de80c480c0771e2fb.png" alt="Cover for Gaby Estrella - Trilha Sonora Original" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vários intérpretes</td>
@@ -2049,6 +2031,7 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4accb3387f12c935fbef8ab7071df436.png" alt="Cover for Paralamas E Titãs Juntos E Ao Vivo (Ao Vivo Na Marina Da Glória, Rio de Janeiro, RJ, Brazil &#x2F; 2008)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Os Paralamas Do Sucesso &amp; Titãs</td>
@@ -2090,6 +2073,6 @@ Brasileira encompasses the diverse musical landscape of Brazil, blending traditi
 - [rock]({{ "/tags/rock" | relative_url }})
 - [brazilian pop]({{ "/tags/brazilian-pop" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
-- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [samba]({{ "/tags/samba" | relative_url }})
-- [bossa nova]({{ "/tags/bossa-nova" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [alternativo]({{ "/tags/alternativo" | relative_url }})

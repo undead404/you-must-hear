@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T02:24:20.515Z
+date: 2025-12-03T03:45:45.975Z
 permalink: tags/avant-folk
 title: avant-folk
 ---
 
 ## avant-folk
 
-Last updated: <time datetime="2025-11-19T02:24:20.515Z">Wed Nov 19 2025 04:24:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:45:45.975Z">Wed Dec 03 2025 05:45:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -225,9 +225,10 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 1</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 76</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
       </td>
@@ -251,7 +252,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 88</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 97</li>
         </ul>
       </td>
@@ -271,7 +272,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 16</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 20</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 76</li>
         </ul>
       </td>
@@ -296,7 +297,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>
         <ul>
             <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 24</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -320,9 +321,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 33</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 36</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +424,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 28</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 42</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 97</li>
         </ul>
       </td>
@@ -447,7 +448,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 12</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +471,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 13</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -511,7 +512,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 60</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 38</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 79</li>
         </ul>
       </td>
@@ -519,6 +520,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6e7512b64caa08c579c9d5139356bc2.png" alt="Cover for Alone, Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Hungry Ghosts</td>
@@ -529,8 +531,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 26</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -544,20 +546,16 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>Myloveilove</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 56</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 70</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 77</li>
         </ul>
       </td>
@@ -637,7 +635,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 83</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -712,9 +710,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 39</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 45</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 93</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -737,8 +735,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 45</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 51</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -760,6 +758,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -778,10 +777,10 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 35</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 57</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +824,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Q8YopO3pk2h-F68UsyqWj8w42nG2o7neDuHjwyeoiks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzkz/MTctMTMzMjAxNDg2/Mi5qcGVn.jpeg" alt="Cover for Caroline" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/101d26194a33557f8c529fe6d26457e9.png" alt="Cover for Caroline" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Caroline</td>
@@ -938,7 +937,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 15</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1056,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/BtkA_XSkzM345JnS7qzE1t-UdPcwgdsKklJNR1dSuh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA5/NjQtMTI2NTcxNjg2/OS5qcGVn.jpeg" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0b0838eec7a37ca937ccf65e4d5bf6.png" alt="Cover for Wooden Veil" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Wooden Veil</td>
@@ -1135,8 +1134,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 78</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 5</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1156,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1191,10 +1190,10 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 9</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 13</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 64</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
@@ -1240,7 +1239,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1259,7 +1258,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 37</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1300,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 45</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1341,7 +1340,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 68</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1404,8 +1403,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 57</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 57</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 12</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 61</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 96</li>
         </ul>
       </td>
@@ -1427,7 +1427,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1466,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 72</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1571,8 +1571,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 9</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 13</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 51</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 80</li>
         </ul>
       </td>
@@ -1619,13 +1619,13 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 57</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 80</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 90</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 56</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1644,7 +1644,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 76</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1667,8 +1667,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 6</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 92</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 95</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 98</li>
         </ul>
       </td>
@@ -1692,8 +1692,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 64</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 71</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1718,8 +1718,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 51</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 15</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 54</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 81</li>
         </ul>
       </td>
@@ -1760,7 +1760,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 48</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 50</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 78</li>
         </ul>
       </td>
@@ -1784,8 +1784,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 98</li>
         </ul>
       </td>
@@ -1826,7 +1826,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 16</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 82</li>
         </ul>
       </td>
@@ -1961,7 +1961,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 55</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2001,7 +2001,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 12</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2044,9 +2044,9 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 4</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 84</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2066,7 +2066,7 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2084,8 +2084,8 @@ Avant-folk blends traditional folk instrumentation with experimental techniques,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 59</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 62</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>

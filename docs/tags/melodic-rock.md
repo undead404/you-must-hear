@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T07:04:51.433Z
+date: 2025-12-03T03:42:35.321Z
 permalink: tags/melodic-rock
 title: melodic rock
 ---
 
 ## melodic rock
 
-Last updated: <time datetime="2025-11-04T07:04:51.433Z">Tue Nov 04 2025 09:04:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:42:35.321Z">Wed Dec 03 2025 05:42:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae09ae547ed7983ac49eb7aa86ab3cb.png" alt="Cover for Metro" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Metro</td>
@@ -44,7 +45,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 80</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 81</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 87</li>
         </ul>
       </td>
@@ -52,6 +53,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b8e49fe46148b2df4fd8c47e15944e.png" alt="Cover for Celebrate Me Home" style="max-width:120px; height:auto;" />
       </td>
       <td>1977-04-13</td>
       <td>Kenny Loggins</td>
@@ -75,7 +77,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/e1Awgd3fcCl22cynistOQq2RBefUUjqeMsbN1Nn-C94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTA0/MjctMTY4NDU5NTAx/MC01MzUyLmpwZWc.jpeg" alt="Cover for This Night Won&#39;t Last Forever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c07d572711c3e3a4743c442a45c7c4f.png" alt="Cover for This Night Won&#39;t Last Forever" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Bill LaBounty</td>
@@ -145,7 +147,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/E-a_3FmrldxAPFUmS2A-tYuzakuGiWkKQwzZeJBFrkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODE3/ODItMTU3NzQwNTEy/OS0xNDcwLmpwZWc.jpeg" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96d07e6c9dda5d526441f54919f1c9f.png" alt="Cover for Airplay" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-01-15</td>
       <td>Airplay</td>
@@ -157,8 +159,8 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 43</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 64</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 9</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -271,14 +273,14 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 2</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/XIR6gottPp8BmK7sN_JLftUgh8UCNzfYoxwlBtCa9cQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg3/MjAtMTU0ODQ1NDIx/OS0xOTg4LmpwZWc.jpeg" alt="Cover for Mad Max Beyond Thunderdome" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bafd313e3da21914e2a690897aeccce8.png" alt="Cover for Mad Max Beyond Thunderdome" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Tina Turner</td>
@@ -310,7 +312,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 17</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -353,6 +355,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3abef4c41fbdabb259fe167fb35531.png" alt="Cover for St. Elmo&#39;s Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>John Parr</td>
@@ -371,6 +374,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20905efb2dad7a3a6ec7d4a3ca115f54.png" alt="Cover for Crazy From the Heat" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-01-25</td>
       <td>David Lee Roth</td>
@@ -388,7 +392,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>28</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b22348aa8ef602e4fe531b73b0ba401.png" alt="Cover for Everybody&#39;s Crazy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3bfec2af2d469fc69530d025214f88.png" alt="Cover for Everybody&#39;s Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-03</td>
       <td>Michael Bolton</td>
@@ -475,7 +479,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/NiZYfXXuIn4fnJsen6W9aXQhJ9IuUE9LT_nA4NtTSD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg2/MS0xMTU2Njk5NTUy/LmpwZWc.jpeg" alt="Cover for Jefferson Airplane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/169372c66b1a17012292406ebd16ced4.png" alt="Cover for Jefferson Airplane" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-10</td>
       <td>Jefferson Airplane</td>
@@ -545,13 +549,14 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/840043aaf50b4db5882e5f0cac88b69a.png" alt="Cover for Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Eyes</td>
@@ -606,7 +611,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/hE-1ztRBSI05mQsxzwbBI9ckR14pPvGURkWP9vCwixo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQ3/MjEtMTI2Njk1ODI4/My5qcGVn.jpeg" alt="Cover for Le Mans" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d882c1d80104d639163facc7af7a051.png" alt="Cover for Le Mans" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Le Mans</td>
@@ -699,6 +704,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e99adfa611ef3c156b98d056ff67358f.png" alt="Cover for Moving Target" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-09</td>
       <td>Royal Hunt</td>
@@ -802,7 +808,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 27</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -827,6 +833,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fba7a5856b465ddb4e6de824bf3c53.png" alt="Cover for Latest &amp; Greatest" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Great White</td>
@@ -900,7 +907,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/H2FAc4WOB4YzcA6dcO74ulpkUDZHpq1chxHONl__ZxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODAx/NTYtMTQ5MTM3OTM2/Ni00MDM2LmpwZWc.jpeg" alt="Cover for Seventh Key" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb83801fbc80c70ce95571f4b33ed37c.png" alt="Cover for Seventh Key" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-25</td>
       <td>Seventh Key</td>
@@ -991,8 +998,8 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 17</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 20</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1071,6 +1078,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95d11087a11548319f16471b387ffda5.png" alt="Cover for Heart, Mind And Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Hardline</td>
@@ -1102,30 +1110,8 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 66</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14499555dba5b97937e23b7a7e460dcb.png" alt="Cover for You Are Free" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Jimmy Eat World</td>
-      <td>You Are Free</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 48</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1201,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 54</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1330,6 +1316,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d15166b60f704e7fbba7dd02e24de7ca.png" alt="Cover for Год Собаки" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-01</td>
       <td>Илья Орлов</td>
@@ -1348,7 +1335,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Rz3CeTRCAYwDsEk9AnMguOswyG_Rd5mCFRJyYi304F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDc5/NTAtMTM0OTE5ODU2/Ni0xMTUxLmpwZWc.jpeg" alt="Cover for Euphoria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b534bdd3a0b4ea789c09d77a6e4e5d9.png" alt="Cover for Euphoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Euphoria</td>
@@ -1382,7 +1369,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 78</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1424,6 +1411,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9e51cd919cddbf6d531cc886cb8b6a3.png" alt="Cover for Last Of Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Pat Monahan</td>
@@ -1453,7 +1441,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 75</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1511,6 +1499,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62734c2c59f54b94a186872e18e76902.png" alt="Cover for Greatest Hits Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-18</td>
       <td>Triumph</td>
@@ -1580,6 +1569,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3105979cab6b446d9b333db1a2ff8843.png" alt="Cover for In Progress" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-29</td>
       <td>Work of Art</td>
@@ -1686,6 +1676,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f8d5964410143d2938a0c30c534d7df.png" alt="Cover for Outbound" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-31</td>
       <td>Keldian</td>
@@ -1701,13 +1692,14 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/162e761aa46b46f9c64b959748ba46e7.png" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-10</td>
       <td>Tina Turner</td>
@@ -1782,6 +1774,28 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
     </tr>
     <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14499555dba5b97937e23b7a7e460dcb.png" alt="Cover for You Are Free" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Jimmy Eat World</td>
+      <td>You Are Free</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>13</td>
       <td>
       </td>
@@ -1801,6 +1815,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a8691b66fe84211a0ece03276fa67cf.png" alt="Cover for Dok svira radio" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-10</td>
       <td>Boris Novković</td>
@@ -1833,7 +1848,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 4</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1869,7 @@ Melodic rock emphasizes strong vocal harmonies, memorable hooks, and polished pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 65</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 66</li>
         </ul>
       </td>
     </tr>

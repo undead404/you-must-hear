@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:58:10.310Z
+date: 2025-12-03T03:41:32.382Z
 permalink: tags/danish-poprock
 title: danish poprock
 ---
 
 ## danish poprock
 
-Last updated: <time datetime="2025-10-28T05:58:10.310Z">Tue Oct 28 2025 07:58:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:41:32.382Z">Wed Dec 03 2025 05:41:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -221,6 +221,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c9775116ba7dcee99cd63d3ef874f17.png" alt="Cover for Tøsedrengene 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Tøsedrengene</td>
@@ -421,7 +422,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 12</li>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 19</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 81</li>
         </ul>
       </td>
@@ -607,7 +608,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 26</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 28</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 54</li>
         </ul>
       </td>
@@ -672,7 +673,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/xpJFyBTaq8xB3FQrZuD9ZEyEdnQ_b2JwxAyLA3zHQwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzUw/NTktMTQ2NjM3MTUw/Ny04MjU5LmpwZWc.jpeg" alt="Cover for På Sådan En Morgen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef6dcde8e562453dc58b71c389ffe2c0.png" alt="Cover for På Sådan En Morgen" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Lis Sørensen</td>
@@ -836,7 +837,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 58</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 62</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 97</li>
         </ul>
@@ -877,7 +878,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 35</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 37</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 57</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 87</li>
         </ul>
@@ -1049,7 +1050,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/_3SvHSUzWCsRkccsyIE1Z8gc3l_j3v9Ej1W9EiLItyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDk5/LTE0MTMxNDkzMDUt/MTA1OS5qcGVn.jpeg" alt="Cover for Before The Dinosaurs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a40044e995af4edd89c16f5bbfa920c5.png" alt="Cover for Before The Dinosaurs" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Aura</td>
@@ -1213,6 +1214,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2124fdb064124cbfa2cf3bb6f35cf7f6.png" alt="Cover for National" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Love Shop</td>
@@ -1267,7 +1269,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 8</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 9</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 34</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 77</li>
         </ul>
@@ -1359,7 +1361,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/qTcIu-FNd1NGZD8whprvftHVuLkTrxINpEZVXQfXR8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NzI2LTE1NzkzNDMx/MzAtMjIzMS5qcGVn.jpeg" alt="Cover for Tænder På Et Kys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/492f84f727e74a039f07aee50d9e1a4f.png" alt="Cover for Tænder På Et Kys" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Alberte</td>
@@ -1476,7 +1478,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 55</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 56</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 77</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 95</li>
         </ul>
@@ -1499,7 +1501,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 23</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 81</li>
         </ul>
@@ -1670,6 +1672,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dc30d6b36536bc58df03325a3d9eae8.png" alt="Cover for Tættere på" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-27</td>
       <td>Anna David</td>
@@ -1722,7 +1725,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 30</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 52</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 84</li>
         </ul>
@@ -1784,7 +1787,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 17</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 18</li>
             <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 42</li>
         </ul>
       </td>
@@ -1872,7 +1875,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/YTF_-ZLWcM0DV16D3JuQiZqOSw4BkWe4whceQ7oParw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MzItMTM0OTAzMDk1/OS01MTAzLmpwZWc.jpeg" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52869d3ef4945bbb58b416d1b6d8239.png" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Love Shop</td>
@@ -1932,6 +1935,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e923814c823a47e2b0e54033d9f94376.png" alt="Cover for I byen igen" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-29</td>
       <td>Marie Key</td>
@@ -1973,7 +1977,7 @@ Danish poprock blends catchy melodic pop sensibilities with rock instrumentation
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/rFm3tWaw0nKqUEM0UR2rPbL5h-fJV-o6rQ0vDk0ZE0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ4/MjgtMTM5ODk3NzA5/NC03OTI4LmpwZWc.jpeg" alt="Cover for Skandinavisk Lyst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/417b39221bac4b35a1cda79ea2f8a4f8.png" alt="Cover for Skandinavisk Lyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Love Shop</td>

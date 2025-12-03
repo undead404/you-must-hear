@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T00:19:19.593Z
+date: 2025-12-03T03:43:45.119Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-11-14T00:19:19.593Z">Fri Nov 14 2025 02:19:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:43:45.119Z">Wed Dec 03 2025 05:43:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -247,7 +247,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 36</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 35</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 46</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 51</li>
         </ul>
@@ -308,7 +308,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 19</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 27</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 32</li>
         </ul>
       </td>
@@ -344,8 +344,8 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 12</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 95</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 69</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -793,7 +793,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 55</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 53</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 72</li>
         </ul>
       </td>
@@ -851,7 +851,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 80</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +927,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 78</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -960,6 +960,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afc05eee00594deca3694af61188f85a.png" alt="Cover for Oozing Bass Spasms" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-30</td>
       <td>Otto von Schirach</td>
@@ -984,6 +985,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb1ab2d1e8dc4e0d890d8c7ca5204e10.png" alt="Cover for Nuttin&#39; Butt Funk" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-14</td>
       <td>Detroit Grand Pubahs</td>
@@ -1093,6 +1095,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6159a97a2effd2cb3a787b514764b980.png" alt="Cover for Shawty" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Maybe Baby</td>
@@ -1193,7 +1196,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>97</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3595099caf38a0c64fccd9dd1d14f95a.png" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f183c38964a6ff6b9e2157c6851de2d4.png" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-20</td>
       <td>Ayesha Erotica</td>
@@ -1204,7 +1207,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 24</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 27</li>
             <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 98</li>
         </ul>
       </td>
@@ -1292,7 +1295,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 31</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 37</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 72</li>
             <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 93</li>
         </ul>
@@ -1644,17 +1647,17 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
@@ -1704,7 +1707,6 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1960,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/mI7U4fVPz4gp1ZkHMbeLjC1m8KUyRBEh--XNwLm8GAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ1/MjAyLTE1ODg2MDc5/NDMtNTk5Ny5wbmc.jpeg" alt="Cover for BAILE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6749f2c7314e078d3d31028fd8284912.png" alt="Cover for BAILE" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-01</td>
       <td>FBC</td>
@@ -1970,6 +1972,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2050,6 +2053,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cd0b0cbbdcc32519e3fdb8c83c5cfa5.png" alt="Cover for Funk 4 Da Trunk" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>MX008</td>
@@ -2091,6 +2095,7 @@ Miami bass is a high-energy electronic dance music style that emerged from Miami
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6562b58cdb4b920495c3ea41d2c897.png" alt="Cover for 340: Good Night, Sweet Prince, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bull of Heaven</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T03:06:46.692Z
+date: 2025-12-03T03:49:46.229Z
 permalink: tags/meditation
 title: meditation
 ---
 
 ## meditation
 
-Last updated: <time datetime="2025-11-19T03:06:46.692Z">Wed Nov 19 2025 05:06:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:49:46.229Z">Wed Dec 03 2025 05:49:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 86</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +591,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1171,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1396,9 +1396,9 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 9</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 41</li>
             <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 86</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1530,6 +1530,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 2</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 72</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 90</li>
         </ul>
@@ -1585,9 +1586,9 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 79</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
             <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 96</li>
@@ -1679,10 +1680,10 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 33</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 67</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 72</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1761,9 +1762,9 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 68</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 75</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
         </ul>
       </td>
@@ -1810,7 +1811,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 80</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 100</li>
         </ul>
       </td>
@@ -1854,7 +1855,7 @@ Meditation music is a tranquil genre designed to facilitate relaxation, mindfuln
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 12</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 89</li>
         </ul>
       </td>
     </tr>

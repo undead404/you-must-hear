@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T11:28:42.417Z
+date: 2025-12-03T03:42:39.639Z
 permalink: tags/korean
 title: korean
 ---
 
 ## korean
 
-Last updated: <time datetime="2025-11-24T11:28:42.417Z">Mon Nov 24 2025 13:28:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:42:39.639Z">Wed Dec 03 2025 05:42:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -136,7 +136,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 52</li>
             <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 90</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 94</li>
         </ul>
@@ -436,7 +436,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 47</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 99</li>
+            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       <td>
         <ul>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 64</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 76</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 77</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 78</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1272,10 +1272,10 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 7</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 66</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 79</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 79</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 94</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 80</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1355,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 50</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 79</li>
         </ul>
       </td>
@@ -1834,8 +1834,8 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 61</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 65</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 62</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1934,7 @@ Korean pop, or K-pop, blends electronic dance music, hip-hop, and R&amp;B with m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 60</li>
         </ul>
       </td>
     </tr>

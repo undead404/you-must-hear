@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:45:36.181Z
+date: 2025-12-03T04:31:47.154Z
 permalink: tags/dark-jazz
 title: dark jazz
 ---
 
 ## dark jazz
 
-Last updated: <time datetime="2025-11-26T02:45:36.181Z">Wed Nov 26 2025 04:45:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:31:47.154Z">Wed Dec 03 2025 06:31:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -200,8 +200,6 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       <td>The For Carnation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
         </ul>
       </td>
       <td>
@@ -213,6 +211,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d142f2d36d0e6ac8db056fddcfc88acb.png" alt="Cover for Hysteria" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-25</td>
       <td>Kammerflimmer Kollektief</td>
@@ -280,7 +279,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -665,6 +664,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23a173a21eba4d0486c49d971842e63b.png" alt="Cover for Nausea" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-15</td>
       <td>Heroin and Your Veins</td>
@@ -1074,7 +1074,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/pwHi0XPaAiD3qqrxaQmmvm-DN5RckKcu1Nzj1QIrSPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA0/NTYtMTM3MDQ2MzUy/MC01MDkzLmpwZWc.jpeg" alt="Cover for A Fabric Of Beliefs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba6e484645d44ba9cbe552a0af7ad185.png" alt="Cover for A Fabric Of Beliefs" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-17</td>
       <td>Witxes</td>
@@ -1278,7 +1278,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/ZYC9nDoDxXpA0kZGCu84tEUZsegr0QdoBCWe9757ywQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTU5/NzUtMTQ0MjY3MzYx/MC02MDg4LmpwZWc.jpeg" alt="Cover for Im Argen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eead093bc91db26a516793e8a888c8a8.png" alt="Cover for Im Argen" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-16</td>
       <td>Radare</td>
@@ -1349,7 +1349,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 93</li>
         </ul>
@@ -1509,8 +1509,8 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1585,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/ZDtOM76NoU4MumuJGs4EKl1InGFbG1YZqMzS79k-uVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM1/NTA4LTE1NTQxNTQw/MDEtNTQ0NC5qcGVn.jpeg" alt="Cover for Der Endless Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8db66bb3e65a33affa26108ecf430965.png" alt="Cover for Der Endless Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-29</td>
       <td>Radare</td>
@@ -1624,8 +1624,8 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 27</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 40</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 61</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1686,8 +1686,9 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 6</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 83</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1744,7 +1745,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1773,8 +1774,8 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 30</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 31</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 44</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
@@ -1933,7 +1934,7 @@ Dark jazz is a brooding, atmospheric subgenre that fuses traditional jazz elemen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 11</li>
         </ul>
       </td>
     </tr>

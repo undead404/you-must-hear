@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:45:29.106Z
+date: 2025-12-03T04:26:43.179Z
 permalink: tags/aggrotech
 title: aggrotech
 ---
 
 ## aggrotech
 
-Last updated: <time datetime="2025-11-26T02:45:29.106Z">Wed Nov 26 2025 04:45:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:26:43.179Z">Wed Dec 03 2025 06:26:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,8 +52,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       <td>
         <ul>
             <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 8</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 23</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 45</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -76,7 +76,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -96,9 +96,9 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 37</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 45</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 49</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -257,8 +257,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +313,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 90</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 8</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -377,7 +377,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 54</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -431,8 +431,6 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 36</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -472,10 +470,10 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 73</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 74</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 27</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 59</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +492,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +514,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 71</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 94</li>
         </ul>
       </td>
@@ -535,8 +533,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +551,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 65</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -589,9 +586,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 33</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 61</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +624,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 84</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -649,7 +644,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +664,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 31</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -691,7 +686,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       <td>
         <ul>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 94</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 100</li>
         </ul>
       </td>
@@ -712,8 +707,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 1</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 52</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 2</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +728,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +769,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 82</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -812,7 +807,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -831,7 +826,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +930,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 86</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +954,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -977,7 +972,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -997,7 +992,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1051,9 +1046,9 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 16</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 22</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 92</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 35</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1091,10 +1086,10 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 21</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 38</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 23</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 40</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1133,8 +1128,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 21</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1213,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 81</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1241,8 +1236,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 42</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 41</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1264,8 +1259,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 58</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 43</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1279,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1357,8 +1352,6 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 36</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1448,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1619,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1766,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1795,7 +1788,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1877,7 +1870,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1902,8 +1895,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 1</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1927,8 +1920,8 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 65</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2000,7 +1993,7 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 87</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 90</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 94</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 98</li>
         </ul>
@@ -2030,11 +2023,11 @@ Aggrotech is an aggressive electronic music genre that emerged from industrial a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 80</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 98</li>
         </ul>
       </td>
     </tr>

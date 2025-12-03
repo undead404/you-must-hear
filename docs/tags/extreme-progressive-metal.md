@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T03:40:25.346Z
+date: 2025-12-03T03:45:22.059Z
 permalink: tags/extreme-progressive-metal
 title: extreme progressive metal
 ---
 
 ## extreme progressive metal
 
-Last updated: <time datetime="2025-12-03T03:40:25.346Z">Wed Dec 03 2025 05:40:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:45:22.059Z">Wed Dec 03 2025 05:45:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -500,7 +500,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Extreme progressive metal fuses the technical complexity and ambitious song stru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 67</li>
         </ul>
       </td>
     </tr>

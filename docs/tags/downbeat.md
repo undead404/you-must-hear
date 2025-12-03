@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T20:13:22.649Z
+date: 2025-12-03T05:06:42.892Z
 permalink: tags/downbeat
 title: downbeat
 ---
 
 ## downbeat
 
-Last updated: <time datetime="2025-11-16T20:13:22.649Z">Sun Nov 16 2025 22:13:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T05:06:42.892Z">Wed Dec 03 2025 07:06:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -71,8 +71,8 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 100</li>
             <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +253,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 86</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -346,7 +346,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 4</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -496,15 +496,15 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 20</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 21</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 23</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 31</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 33</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 42</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 59</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 61</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 70</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 80</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 80</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 82</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 83</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 85</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 90</li>
         </ul>
@@ -584,11 +584,11 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 14</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +677,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 62</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 36</li>
             <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 83</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 90</li>
         </ul>
@@ -754,9 +754,10 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 2</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 18</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 83</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 83</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +780,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -866,17 +867,17 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 43</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +985,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 10</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1035,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 28</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1060,6 +1061,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d53e84ef9884b5cb1d60598f6ec4b02.png" alt="Cover for Feral Vapours Of The Silver Ether" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Carter Tutti</td>
@@ -1184,7 +1186,6 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 1</li>
             <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 89</li>
         </ul>
       </td>
@@ -1365,7 +1366,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1425,10 +1426,10 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 20</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 28</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 54</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 55</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 80</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1449,13 +1450,13 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 28</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1560,9 +1561,9 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 30</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 54</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 63</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1584,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1769,8 +1770,8 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 35</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 75</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
@@ -1816,8 +1817,8 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1906,9 +1907,9 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 59</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1965,14 +1966,14 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 23</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 50</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 60</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/_6CBQ_qZuX8FlImyGv4WlaZTxETfAd0ZJdaa85j1w2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzIx/NTUtMTM5ODQ5NDE0/Ni0zNzEzLmpwZWc.jpeg" alt="Cover for Difference" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/670f945c7b45490bc9a57b382b0e3ff5.png" alt="Cover for Difference" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-19</td>
       <td>Mystic Crock</td>
@@ -2048,8 +2049,8 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 95</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2144,7 +2145,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 5</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2258,7 +2259,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2338,7 +2339,7 @@ Downbeat describes atmospheric electronic music characterized by slower tempos, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 37</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 36</li>
         </ul>
       </td>
     </tr>

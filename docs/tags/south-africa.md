@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T14:27:01.764Z
+date: 2025-12-03T03:55:46.318Z
 permalink: tags/south-africa
 title: south africa
 ---
 
 ## south africa
 
-Last updated: <time datetime="2025-10-18T14:27:01.764Z">Sat Oct 18 2025 17:27:01 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:55:46.318Z">Wed Dec 03 2025 05:55:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/lpCG66XtNyqFaCQ1OZ29rGNn4ZW_J5XB71ApFp3iMbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE2/MDEtMTY0MDM2MzAz/Ni0xODYyLmpwZWc.jpeg" alt="Cover for An Evening With Belafonte&#x2F;Makeba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b1a4a168a150dcec854f1bc92a05f59.png" alt="Cover for An Evening With Belafonte&#x2F;Makeba" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Miriam Makeba</td>
@@ -91,7 +91,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/QMQRyD-t8F9e1aWAeOs8twy3wjonm_tTSHpvrc3uolg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU0/NzUtMTMyNTEyMDk0/NS5qcGVn.jpeg" alt="Cover for Light is like Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fb19911e3924783a9b729d7405edf4f.png" alt="Cover for Light is like Water" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>His Latest Flame</td>
@@ -309,6 +309,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e288d9f0d45e8a7ddae3aaef0bf29114.png" alt="Cover for &#39;n Suitcase Vol Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Piet Botha</td>
@@ -433,7 +434,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 27</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +665,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/8nXxM0cbutI_Xg72KskqWzV1fPn-aUgd-r8klUQhAWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/ODItMTM3Mzc4NzMy/My01NTgxLmpwZWc.jpeg" alt="Cover for African Magic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3c1db20eaefefe00f2e39c19406003a.png" alt="Cover for African Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Abdullah Ibrahim</td>
@@ -719,6 +720,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adc33a20f7c74224c2efd1908d24feab.png" alt="Cover for Tjailatyd" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-27</td>
       <td>Theuns Jordaan</td>
@@ -756,6 +758,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14cc051b953099fdf2a0b8f528508a5c.png" alt="Cover for Melkstraat Confessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Jan Blohm</td>
@@ -793,13 +796,13 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60822c7c0b984bfb9cf7e1d18419b494.png" alt="Cover for Nomvula" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Freshlyground</td>
       <td>Nomvula</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a></li>
         </ul>
       </td>
       <td>
@@ -963,6 +966,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7211c25a588e1b2d7804d4a5f6bc30de.png" alt="Cover for N Stille Runaway" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-22</td>
       <td>Jan Blohm</td>
@@ -1017,6 +1021,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d453e95127c84a1eb17174cb33998a3d.png" alt="Cover for Groen Trui" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Jan Blohm</td>
@@ -1073,6 +1078,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af68c7447ad48a0a21b0d023bd734aa.png" alt="Cover for Feel Good" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-06</td>
       <td>Lira</td>
@@ -1210,7 +1216,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/romoQZOYFDWVG7gthxDhBg9VmMRInjMeJl-_I488tk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc4/NDUxLTE1OTU3NjM1/MzAtNTE3Ni5qcGVn.jpeg" alt="Cover for Eponymous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bea90c41fb8c0368e3dc70afb12dad2.png" alt="Cover for Eponymous" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Cutout Collective</td>
@@ -1249,6 +1255,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ab579b632fd49d99acfe8ce3fd7b166.png" alt="Cover for Loneliness As An Art Form" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-20</td>
       <td>The Watermark High</td>
@@ -1340,7 +1347,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 14</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1368,6 +1375,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aefd979aa5284a29befadef9400bf9e2.png" alt="Cover for Pantheion" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-30</td>
       <td>Crow Black Sky</td>
@@ -1390,7 +1398,6 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/uiNJ4V1yyxIVrJGW8Sw3YaEPtDWDpfZDzCCbGSCUncs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA4/NjM4LTE2MjQxODg3/NDMtNTI5NS5qcGVn.jpeg" alt="Cover for The Wild Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Nate Maingard</td>
@@ -1411,6 +1418,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/105e621b0423465b8d1cb034a170eaa1.png" alt="Cover for Loliwe" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Zahara</td>
@@ -1450,6 +1458,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3d03b7cb11d42aea97f08d230d4293b.png" alt="Cover for Home Is Home EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-01</td>
       <td>Car Boot Vendors</td>
@@ -1469,6 +1478,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5fa3790a6141e6e8fa3dd8113b27ef7.png" alt="Cover for Architects of Sadism" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-28</td>
       <td>A Walk With the Wicked</td>
@@ -1524,7 +1534,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 26</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1579,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/VH7TuNrI4YH4Uh8ajF1GDCO0HBMr5H_N4ZCkSyCgY5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/MjMwLTE2MDQ5NDg0/NjItMjQwMi5qcGVn.jpeg" alt="Cover for Same Chords. New Songs - Novella" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45c5aaf6252c4b9ab77f970c67b92d34.png" alt="Cover for Same Chords. New Songs - Novella" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-25</td>
       <td>All These Wasted Nuts</td>
@@ -1610,7 +1620,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/h02ez7I1e-MeT4tJGbTR2mM82aK-5-oEFs--BmjCpd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/NzgxLTE2MDQ5NTU1/MjctNjgxNS5qcGVn.jpeg" alt="Cover for ContraMundi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00352046ceb50062b1bc0c155243281.png" alt="Cover for ContraMundi" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-01</td>
       <td>ContraMundi</td>
@@ -1627,7 +1637,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 2</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1680,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 4</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1701,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 9</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1770,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Og1yCSkKvxXiPCoumhVSI81gx5PwRZ_MfYBJYrRN_FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODAw/NjE0LTE2MjE0NzMy/NzQtNzEyMS5qcGVn.jpeg" alt="Cover for Restless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae06a3e53290fa8563ff00b5497f1112.png" alt="Cover for Restless" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-17</td>
       <td>Craig Lucas</td>
@@ -1792,7 +1802,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 6</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1877,6 +1887,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f45d971dc8df4689b0d40361b8cdb3d9.png" alt="Cover for Slow Motion Clarity EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Watermark High</td>
@@ -1901,6 +1912,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d322a04978450c22a05ad98f6fa57e3f.png" alt="Cover for Amagama" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nomfundo Moh</td>
@@ -1920,6 +1932,7 @@ South African music encompasses a rich diversity of sounds reflecting the nation
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2281d9f3d861230cff3d942c11f7c801.png" alt="Cover for Maya-Rose" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Maya-Rose</td>

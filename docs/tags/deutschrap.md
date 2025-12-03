@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:44:08.059Z
+date: 2025-12-03T04:02:45.884Z
 permalink: tags/deutschrap
 title: deutschrap
 ---
 
 ## deutschrap
 
-Last updated: <time datetime="2025-11-26T02:44:08.059Z">Wed Nov 26 2025 04:44:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T04:02:45.884Z">Wed Dec 03 2025 06:02:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -123,8 +123,8 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 10</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 83</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -542,9 +542,9 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 75</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 26</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 93</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -975,12 +975,12 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 76</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
@@ -1031,8 +1031,8 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 61</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 39</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 79</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 92</li>
@@ -1073,7 +1073,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1094,7 +1094,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 18</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1237,8 +1237,8 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 2</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 24</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1260,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 9</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1549,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1696,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 85</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1782,8 +1782,8 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 4</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 68</li>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1979,7 @@ Deutschrap is German-language hip-hop that emerged in the 1990s, blending Americ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 81</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 20</li>
         </ul>
       </td>
     </tr>
