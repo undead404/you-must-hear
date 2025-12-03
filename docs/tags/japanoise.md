@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:58:06.148Z
+date: 2025-12-03T03:27:42.793Z
 permalink: tags/japanoise
 title: japanoise
 ---
 
 ## japanoise
 
-Last updated: <time datetime="2025-10-28T04:58:06.148Z">Tue Oct 28 2025 06:58:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:42.793Z">Wed Dec 03 2025 05:27:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 42</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 77</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 20</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +476,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/gxi4vYhtPWt1FcLUAhHmQvB8gPIJKrBDPGCWd2AYdtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTIz/NS0xMjI4NDU1NTY2/LmpwZWc.jpeg" alt="Cover for Mechanical Violator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed9bfb3a9d7dcf4fca59ffd6a224691.png" alt="Cover for Mechanical Violator" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Thirdorgan</td>
@@ -496,6 +496,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/811ddbea6baced7776a11252c089cbb7.png" alt="Cover for Rusty Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>K2</td>
@@ -535,7 +536,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/I315XWTVWCyxHxToORqwddwiFq4HMpGJ8ML3Z69M0TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODUx/NC0xMTMxMzkzMjg1/LmdpZg.jpeg" alt="Cover for Scratch or Stitch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e5082f4b4bcdbbc05bd509e8dc03290.png" alt="Cover for Scratch or Stitch" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-11</td>
       <td>Melt-Banana</td>
@@ -547,7 +548,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 25</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -584,8 +585,8 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 63</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 89</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 64</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -649,6 +650,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc6af2dd158f46aeab80730656b5f47d.png" alt="Cover for Hybrid Noisebloom" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-10</td>
       <td>Merzbow</td>
@@ -660,7 +662,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +681,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -755,13 +757,14 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1134048313ffd8a83f1807d15ab5085.png" alt="Cover for Amplifier Worship" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-25</td>
       <td>Boris</td>
@@ -775,9 +778,9 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 42</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 46</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 79</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 50</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 60</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -822,6 +825,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/800504aa61892b5affae4ed0731cd1bf.png" alt="Cover for Vision Creation Newsun" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-27</td>
       <td>Boredoms</td>
@@ -829,7 +833,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 94.64285714285714 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
       <td>
@@ -941,7 +945,6 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/XXtBEfdNxXfUg9QbubUW5o4MrbmZ8_PWy5Glt0YAsdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTcz/OS0xMzcxMjMzNjQz/LTg4NjIuanBlZw.jpeg" alt="Cover for Origin&#39;s Hesitation" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-25</td>
       <td>Fushitsusha</td>
@@ -962,6 +965,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0e70d37721f4932c95f0111b06957a2.png" alt="Cover for Merzbeat" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04</td>
       <td>Merzbow</td>
@@ -973,7 +977,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 75</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -997,7 +1001,6 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/wtz_k18mwfAqISBd5BgN0AS3hNiGezA1NGc0dRXZipk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDY2/ODctMTQ1MjIwMTI3/Mi03NTc1LmpwZWc.jpeg" alt="Cover for Secret Black Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Fushitsusha</td>
@@ -1140,6 +1143,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/950d58c021f82b4f1f6bc2da1c745551.png" alt="Cover for Neinfuturer" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07</td>
       <td>Xinlisupreme</td>
@@ -1180,7 +1184,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/argJhQwmFjZVysAxlhrIEQHHD68Pu5g3PODSPnnTt6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/Ni0xMjc0OTA5MDY3/LmpwZWc.jpeg" alt="Cover for No Longer Human" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3c06eed3d19871b9ad843176ae9964.png" alt="Cover for No Longer Human" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Dissecting Table</td>
@@ -1265,9 +1269,9 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 21</li>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 25</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 29</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 26</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 32</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 55</li>
         </ul>
       </td>
@@ -1286,7 +1290,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 73</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1628,7 +1632,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/t1ir32Qu2qqtAN4k6KYiA78ZAuVadujqpp0VWn8S914/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUy/NTYtMTM1MDEwNzM2/My05NDQ5LmpwZWc.jpeg" alt="Cover for 4 Bombs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a05936e7a6d4dd1cdf20273b4f0be10.png" alt="Cover for 4 Bombs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-13</td>
       <td>Xinlisupreme</td>
@@ -1683,7 +1687,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1709,6 +1713,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -1721,23 +1726,22 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 7</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
         </ul>
       </td>
@@ -1827,7 +1831,6 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/hrkSl1I_Rz7SBQ1UczXzvixk2JJ04N7bmHQQ0sH5_mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ2/Nzk2LTE1NjI0NjA1/MzMtOTAxMC5qcGVn.jpeg" alt="Cover for Supergeil! - Oktoberfest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-05</td>
       <td>K2</td>
@@ -1946,7 +1949,6 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
@@ -2073,7 +2075,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 34</li>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2158,6 +2160,7 @@ Japanoise refers to the extreme noise music movement that emerged from Japan&#39
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ab45d7e8f04072a4a33cffbdda69a9.png" alt="Cover for Inhale Fumes Of Burning Plastic" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ƒIƒVƒŠƒyƒ“ƒyƒ“ƒY</td>

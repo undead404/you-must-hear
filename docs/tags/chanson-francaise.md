@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:14:40.245Z
+date: 2025-12-03T03:27:04.936Z
 permalink: tags/chanson-francaise
 title: chanson francaise
 ---
 
 ## chanson francaise
 
-Last updated: <time datetime="2025-11-11T10:14:40.245Z">Tue Nov 11 2025 12:14:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:04.936Z">Wed Dec 03 2025 05:27:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 42</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 45</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -230,7 +230,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 39</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 47</li>
         </ul>
       </td>
@@ -338,7 +338,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 43</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -456,6 +456,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb568b0f76255fe5d02e712f71c8fdba.png" alt="Cover for Boris Vian chante Boris Vian" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Boris Vian</td>
@@ -549,6 +550,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/433c57d65b584797867afdb52ededcf2.png" alt="Cover for O Lucky Man!" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Alan Price</td>
@@ -579,7 +581,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 27</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +619,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 56</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 98</li>
         </ul>
       </td>
@@ -755,7 +757,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 54</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 56</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 68</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 90</li>
         </ul>
@@ -1093,14 +1095,14 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 16</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/GRWx8iEOJ5tFfvh6ZASpZnSTGVeE8jHklSrOeFXlTwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY2/MjItMTE5NDk4ODE5/NC5qcGVn.jpeg" alt="Cover for Qui de nous deux" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/272e509e9041411ea518c6600ffc8394.png" alt="Cover for Qui de nous deux" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-24</td>
       <td>-M-</td>
@@ -1256,7 +1258,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 83</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 85</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 96</li>
         </ul>
       </td>
@@ -1413,7 +1415,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 39</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1617,6 +1619,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7797c007bfc34f72bd3af9862df5e20f.png" alt="Cover for Trash yéyé" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-07</td>
       <td>Benjamin Biolay</td>
@@ -1668,9 +1671,9 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 58</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 60</li>
             <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 73</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1824,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 84</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1843,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 45</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1891,8 +1894,8 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 37</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 51</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 40</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1911,7 +1914,7 @@ Chanson française is a lyric-driven French music genre emphasizing poetic story
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 51</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 57</li>
         </ul>
       </td>
     </tr>

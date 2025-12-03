@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T14:27:42.320Z
+date: 2025-12-03T03:32:08.876Z
 permalink: tags/german-hip-hop
 title: german hip hop
 ---
 
 ## german hip hop
 
-Last updated: <time datetime="2025-11-08T14:27:42.320Z">Sat Nov 08 2025 16:27:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:32:08.876Z">Wed Dec 03 2025 05:32:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -114,7 +114,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 17</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -223,6 +223,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +312,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 4</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +390,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 10</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 15</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 83</li>
         </ul>
       </td>
@@ -465,13 +466,12 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>81</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e828950ba40240f38b4b4cc060c4a747.png" alt="Cover for Überfall" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-19</td>
-      <td>Massive Töne</td>
-      <td>Überfall</td>
+      <td>Freundeskreis</td>
+      <td>Esperanto</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a></li>
@@ -479,16 +479,18 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e828950ba40240f38b4b4cc060c4a747.png" alt="Cover for Überfall" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-19</td>
-      <td>Freundeskreis</td>
-      <td>Esperanto</td>
+      <td>Massive Töne</td>
+      <td>Überfall</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a></li>
@@ -515,7 +517,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 19</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +588,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 9</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -819,7 +821,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 53</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1315,8 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 75</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 6</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 26</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 93</li>
         </ul>
       </td>
@@ -1502,7 +1505,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 35</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1601,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 94</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1663,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1759,7 +1762,7 @@ German hip hop is rap music performed in the German language, emerging in the 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 66</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 68</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 99</li>
         </ul>
       </td>
@@ -1893,5 +1896,5 @@ German hip hop is rap music performed in the German language, emerging in the 19
 - [hamburg]({{ "/tags/hamburg" | relative_url }})
 - [live recording]({{ "/tags/live-recording" | relative_url }})
 - [concert]({{ "/tags/concert" | relative_url }})
-- [conscious hip hop]({{ "/tags/conscious-hip-hop" | relative_url }})
 - [berlin]({{ "/tags/berlin" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})

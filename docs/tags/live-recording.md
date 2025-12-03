@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:40:35.168Z
+date: 2025-12-03T03:31:23.177Z
 permalink: tags/live-recording
 title: live recording
 ---
 
 ## live recording
 
-Last updated: <time datetime="2025-11-13T16:40:35.168Z">Thu Nov 13 2025 18:40:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:31:23.177Z">Wed Dec 03 2025 05:31:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -246,7 +246,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/VblrTw1rSCRzEN5K5nNJgE9KsG_HYJunXV3NgcH8BYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk5/My0xMjQ4NDc2Nzg0/LmpwZWc.jpeg" alt="Cover for Live in Overhausen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3ec71dd6849d4f3d6ff86ed3a02b4af.png" alt="Cover for Live in Overhausen" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-03</td>
       <td>Overkill</td>
@@ -306,7 +306,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/cGojwBinK9chUJTcDyIaZEuaz1Fl76SiOcZ9MGviNQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTk1/MC0xMjkzMTM1Mzkz/LmpwZWc.jpeg" alt="Cover for Kings Among Scotland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06bf1fcd35970ed6af761a6e22543dd9.png" alt="Cover for Kings Among Scotland" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Anthrax</td>
@@ -365,7 +365,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 40</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 42</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 92</li>
         </ul>
       </td>
@@ -599,6 +599,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16ed0778256a4f7db100104d173a897a.png" alt="Cover for No Holds Barred: Live In Europe" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-12</td>
       <td>Biohazard</td>
@@ -616,7 +617,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/RT8zYrhe3EmISUY7CLL_6_-ePDfF2jPw2MnjttofRLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/NTgtMTQ4MjY3Mjg2/OC03ODM3LmpwZWc.jpeg" alt="Cover for Live Royal Albert Hall October 10 1997" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbc46a0762a4d64a1137923687f7f5d.png" alt="Cover for Live Royal Albert Hall October 10 1997" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Spiritualized</td>
@@ -629,7 +630,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 96</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -713,6 +714,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3afb4bdc9c4c5d43cfc9012ffac7d0dc.png" alt="Cover for Royal Albert Hall October 10 1997" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-09</td>
       <td>Spiritualized</td>
@@ -725,7 +727,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 95</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +772,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 81</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1073,9 +1075,9 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 14</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 13</li>
             <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 26</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 85</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1095,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 69</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1158,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 3</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 6</li>
             <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 93</li>
         </ul>
@@ -1165,7 +1167,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/3tZCO52iG9kXEDNJ4RYtbLrsmwW6bIFoTolfMrBTkRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUz/MjEtMTQ4NjU4NzU2/OC0zNjQwLmpwZWc.jpeg" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de25a5d5efc4ba7e6d83e357a4b70ea.png" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Kreator</td>
@@ -1347,7 +1349,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 35</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 95</li>
         </ul>
       </td>
@@ -1389,7 +1391,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 90</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1460,6 +1462,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29b48c63aa164c98bb04f2116a018ae2.png" alt="Cover for Tourism" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-02</td>
       <td>Leftfield</td>
@@ -1474,7 +1477,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 44</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1718,7 +1721,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/JqCjVw5_N_wm8Pmrt_fBvK_o9SP6MOdV1fToJJr_USc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/ODA1LTE1NDA5OTE5/MDktMTg3My5qcGVn.jpeg" alt="Cover for 10 Years &#x2F; 1000 Shows - Live at the Regent Theater" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca217a35e686f6072a2614ec73ea09bd.png" alt="Cover for 10 Years &#x2F; 1000 Shows - Live at the Regent Theater" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-02</td>
       <td>Touché Amoré</td>
@@ -1737,7 +1740,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/64T2_UWnKy5SQAXCe4hv8HLxIqX0QDMZDXYnF_RTS8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjUx/MTI0LTE1ODg2OTM3/NTEtMzMwMy5qcGVn.jpeg" alt="Cover for Live at Dynamo Open Air 1997" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24ea4b889783cd7f8055a13c2a1768e5.png" alt="Cover for Live at Dynamo Open Air 1997" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Testament</td>
@@ -1772,7 +1775,7 @@ A live recording captures musical performances as they happen in front of an aud
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/GK-RJ27Ikb6Gfs0ddk9WtY_bCATjPgFnqrzkwttQrfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTgw/OTI3LTE1ODYxODI2/ODQtMzQ3MS5qcGVn.jpeg" alt="Cover for Viva the Underdogs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2049a1d31742b76b2ac61d148da67c1f.png" alt="Cover for Viva the Underdogs" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Parkway Drive</td>
@@ -1959,7 +1962,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 52</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 56</li>
         </ul>
       </td>
     </tr>

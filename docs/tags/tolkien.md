@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:19:58.757Z
+date: 2025-12-03T03:30:48.711Z
 permalink: tags/tolkien
 title: tolkien
 ---
 
 ## tolkien
 
-Last updated: <time datetime="2025-11-26T02:19:58.757Z">Wed Nov 26 2025 04:19:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:30:48.711Z">Wed Dec 03 2025 05:30:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -226,7 +226,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 92</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -558,6 +558,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +704,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 27</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -832,7 +833,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 17</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 48</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 47</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 80</li>
         </ul>
       </td>
@@ -952,7 +953,7 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/KK6HGemX-EfVSYhv1MOLwW0g1C9wShAAvbJ0xUj_JNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE1/My0xMTU3NDg1MDYw/LmpwZWc.jpeg" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c971abd13dc44fdb113c77b595db239.png" alt="Cover for Third Age of the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-25</td>
       <td>Battlelore</td>
@@ -964,9 +965,9 @@ Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing ep
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 2</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 1</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 92</li>
         </ul>
       </td>
     </tr>

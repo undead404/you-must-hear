@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T08:33:03.718Z
+date: 2025-12-03T03:30:16.159Z
 permalink: tags/new-prog
 title: new prog
 ---
 
 ## new prog
 
-Last updated: <time datetime="2025-10-25T08:33:03.718Z">Sat Oct 25 2025 11:33:03 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:30:16.159Z">Wed Dec 03 2025 05:30:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/QnTMMsK_87iZLMJn9-MG1MNS1Gqc0bcVtRJQCaFPPUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI0/MzU2LTE1ODY5ODQ0/NDUtODg4MC5qcGVn.jpeg" alt="Cover for Peter Gabriel 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31a8cc9df43f96ccaa5cb1963d3f4a8d.png" alt="Cover for Peter Gabriel 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Peter Gabriel</td>
@@ -109,7 +109,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/hPnfuAAM5b0UdSLbkFvczszwurXztRZpxD626EoT8Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/ODQtMTU1MjgyMDY5/Mi0xODY0LmpwZWc.jpeg" alt="Cover for Mike + The Mechanics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3bf69aa6deb14a49e81e718201fb787.png" alt="Cover for Mike + The Mechanics" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Mike + The Mechanics</td>
@@ -164,6 +164,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daaa28b8e13540a0c02c38c02f870e33.png" alt="Cover for Word Of Mouth" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-03-11</td>
       <td>Mike &amp; The Mechanics</td>
@@ -220,7 +221,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/Qs2QfkF5hXYkuxaR1eQe3n5Oco2Hgxw8-62Oz0YdhK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MS0xMTA4NDIwNzgy/LmpwZw.jpeg" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca27c47feb344ad9c6014bf04700359.png" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Hercules</td>
@@ -290,6 +291,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d82de2689102606d0f589ab9526f561.png" alt="Cover for M6" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-05-31</td>
       <td>Mike &amp; The Mechanics</td>
@@ -309,6 +311,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87480021191328af5dc130dd879d8bd2.png" alt="Cover for Half the World Is Watching Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-04</td>
       <td>Mew</td>
@@ -322,7 +325,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 51</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 96</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 99</li>
         </ul>
@@ -331,7 +334,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/JChaIkMQYgZA9p1BfAzotgiJ8aT6lfBWTY7G2TaBIE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEw/MTAtMTI5NjIzMzc1/Ni5qcGVn.jpeg" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bff192261c3bf34b365aa639a399b760.png" alt="Cover for Amarok" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Amarok</td>
@@ -356,12 +359,13 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 91</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
         </ul>
       </td>
@@ -423,6 +427,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f96d5eb7eb6f730ec807deb45357581.png" alt="Cover for Unison" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-20</td>
       <td>Homesick for Space</td>
@@ -463,6 +468,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6b2e9cc2174288f4bc66123a4886c5b.png" alt="Cover for My Hotel Year" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Tim Bowness</td>
@@ -515,7 +521,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/8VRs5Bpav7Aw-Ig_a9nEMBjbHe2DxGvxrH-UYtg6sgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc0/MTAtMTE5MjU1MTI0/NC5qcGVn.jpeg" alt="Cover for The Intention Craft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a4c4b60db5c91f4e659f7342d9d542b.png" alt="Cover for The Intention Craft" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-24</td>
       <td>Pure Reason Revolution</td>
@@ -533,6 +539,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f629286ae5b14d23ac91cb246ced1760.png" alt="Cover for The Dark Third" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>Pure Reason Revolution</td>
@@ -550,6 +557,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f89d76d6932f41e886acfaf9a1f0f835.png" alt="Cover for Silence" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-21</td>
       <td>A.C.T</td>
@@ -586,6 +594,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69dd0e1e329e4928adb175dd783914c2.png" alt="Cover for She" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-06</td>
       <td>Ray Wilson &amp; Stiltskin</td>
@@ -621,7 +630,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/fRZNudneUxXltWFLMvftF1myNH6a0vwnt2r4Hy0--qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/MTUtMTMwODY3NTA3/OS5qcGVn.jpeg" alt="Cover for Mirror (Remastered Versions)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e92fdfd3ca534df8cd3c48ea0ea9ca8a.png" alt="Cover for Mirror (Remastered Versions)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Blind Ego</td>
@@ -639,7 +648,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Stx06YzaUspac7t2uGBRBd1yMkgkyAWElVOOwx56QZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njg5/MDEtMTMwNDg0MTI3/Ni5qcGVn.jpeg" alt="Cover for Once &#x2F; 1000 People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67abfa9b77de50e0161e9fba8f920087.png" alt="Cover for Once &#x2F; 1000 People" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Blackfield</td>
@@ -675,7 +684,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/Cv7UrhdkpAUU4U_m6NANJrgG_qPzNFkerGQheJrNtsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM3/MS0xMTc0Njg3MTgz/LmpwZWc.jpeg" alt="Cover for Blackfield II (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d4ab5d14f4f9b7dee73c420ce573ac7.png" alt="Cover for Blackfield II (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Blackfield</td>
@@ -693,6 +702,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de62303b744148f2c803b77fda2a8fe6.png" alt="Cover for There&#39;s No 666 In Outer Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-30</td>
       <td>Hella</td>
@@ -704,12 +714,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/892e89f180e9e72450eed448eeeab623.png" alt="Cover for Harmony Korine" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-25</td>
       <td>Steven Wilson</td>
@@ -727,7 +739,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/_i_bZ8z5pTh16gRwvdYdoZd4L1UjvM79KgPHaP6dzwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzQw/NDctMTUxMTg2MTAx/NS0xNzc3LmpwZWc.jpeg" alt="Cover for Beautiful &amp; Monstrous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e2d09fe4e3d87132cdfb02af14ba4da.png" alt="Cover for Beautiful &amp; Monstrous" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-25</td>
       <td>Subsignal</td>
@@ -752,8 +764,6 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       <td>Mountains - Single</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a></li>
         </ul>
       </td>
       <td>
@@ -817,6 +827,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97f6b17d892a41dc936c3f8a355e86f3.png" alt="Cover for No Decoder" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-05</td>
       <td>Yogi Lang</td>
@@ -852,7 +863,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/VvKMZx2z2iUKJIapeMkjFaUeT3JzLrP-tWcnni5y7Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk1/ODQtMTM0MTI1ODc1/Ni0zNDU4LmpwZWc.jpeg" alt="Cover for Storm Corrosion (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d46de559aac649dde81156a9f4dbdee8.png" alt="Cover for Storm Corrosion (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Storm Corrosion</td>
@@ -908,6 +919,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eb8f87dc2664831b2dffd80b68df9d5.png" alt="Cover for The Man Left in Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-05</td>
       <td>Cosmograf</td>
@@ -921,13 +933,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 80</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312157de0a224a60b160c956d7c86c74.png" alt="Cover for Echo Street" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-07</td>
       <td>Amplifier</td>
@@ -946,6 +959,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/131323a4073f418b9d326ede6261bb88.png" alt="Cover for Chasing Rainbows" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04</td>
       <td>Ray Wilson</td>
@@ -963,6 +977,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Phase</td>
@@ -1001,16 +1016,16 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 70</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
             <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
@@ -1033,13 +1048,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 73</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc64dcdd4ecb418dc18b2d0304a3c6a7.png" alt="Cover for I Will Not Break" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-14</td>
       <td>James LaBrie</td>
@@ -1058,6 +1074,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddab77cbb5f24429c49e11a02f4d3428.png" alt="Cover for Capacitor" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-02</td>
       <td>Cosmograf</td>
@@ -1071,13 +1088,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 29</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/697c57f359b252b571fe61a5f3434645.png" alt="Cover for Second Nature (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-29</td>
       <td>Flying Colors</td>
@@ -1115,6 +1133,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d70e13e7bb4d64cde6f8d5a8e7ca75.png" alt="Cover for Lullabies in a Car Crash" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-03</td>
       <td>Bjørn Riis</td>
@@ -1129,7 +1148,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 84</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 85</li>
             <li> <a href="{{ "/tags/crossover-prog" | relative_url }}">crossover prog</a> # 99</li>
         </ul>
       </td>
@@ -1173,7 +1192,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/eEBPkM64M3Xn-zaS0lN07stls4cCSuzRiTNNvp4yYxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDkx/NzEtMTQzNzEzOTkw/NC01NDc4LmpwZWc.jpeg" alt="Cover for Stupid Things That Mean The World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87f4202b1a94a48743d7d9e428ee06d9.png" alt="Cover for Stupid Things That Mean The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-17</td>
       <td>Tim Bowness</td>
@@ -1189,7 +1208,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 90</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1230,8 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 52</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 7</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1278,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/K_vUi-mj0JzDbADemlpL0_DsoTozbuxG1pQE-SlIhUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzY5/MTMtMTQ2ODA2NDA5/Ny04MDM5LmpwZWc.jpeg" alt="Cover for The Seasons Turn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee4110c2ca8b232334f8e7ec43da7c3.png" alt="Cover for The Seasons Turn" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-25</td>
       <td>Lee Abraham</td>
@@ -1294,7 +1314,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/eTniqh7FRP70JNbBSFJqBSu7LVdl9fAwGq5tDXyv4zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDEw/MzMtMTQ3NzQwODg3/Ni03MTc2LmpwZWc.jpeg" alt="Cover for Liquid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a16f74cd1f60ceaaf681a2ee5387830.png" alt="Cover for Liquid" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Blind Ego</td>
@@ -1312,7 +1332,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/PFKuS7Go9V6Q69Elwx1MtHEvpOufWXVJ67UOyqW9Q-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDgz/ODUtMTQ3Mzg2ODAx/My04MjkyLmpwZWc.jpeg" alt="Cover for Makes Me Think Of Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fb8b0302545022393599c93c793f7b9.png" alt="Cover for Makes Me Think Of Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10</td>
       <td>Ray Wilson</td>
@@ -1330,7 +1350,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/J-inCMvXUbFzckrn3quA5bTqoYV9j3JJxS2z3f4IFBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQy/OTEwLTE0OTc4MzU4/NTItNDAxMC5qcGVn.jpeg" alt="Cover for The Bride Said No" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c176f87e4557fd5b337be4bf66ecf1b.png" alt="Cover for The Bride Said No" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Nad Sylvan</td>
@@ -1344,7 +1364,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 61</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1389,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/tkWm4lZBSSQ_nQb8i_yzqI2xbNJMN3r7X1GIhpbsNuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTA4/MDgtMTQ4NzM2MDA2/Ny01MzAzLmpwZWc.jpeg" alt="Cover for Lost In The Ghost Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea6a33608f6addd0425a74eac3a5fcd1.png" alt="Cover for Lost In The Ghost Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-17</td>
       <td>Tim Bowness</td>
@@ -1383,14 +1403,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 53</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/wbs-UIZ1CJZSCN5uRDX8MqP3GQxwlM2QcIWaCy5aG6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ1/OTc5LTE0OTI0MzIw/OTMtNjM5Ny5qcGVn.jpeg" alt="Cover for Remedies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c23e0a94871282dd70cdf13607e1f52e.png" alt="Cover for Remedies" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-07</td>
       <td>Soup</td>
@@ -1408,7 +1428,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/gwGH954sWBF-ATKVrPxY1GOmHIs9Ph0gJNWnKFMzXAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/MzQzLTE1NTc1ODE5/NjctOTEzNC5qcGVn.jpeg" alt="Cover for The Big Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/520470af4eec555ffd52f7fb4ebde518.png" alt="Cover for The Big Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-28</td>
       <td>Lonely Robot</td>
@@ -1427,7 +1447,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/t77dYJFOJsl4pIGV-_nkyAi5IrcuVey-YWpVw6edeGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzEw/ODI2LTE2Njg0MjU1/ODctMzgwNi5qcGVn.jpeg" alt="Cover for Forever Comes to an End" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f50f05e1501b784ae60f5280cc58506.png" alt="Cover for Forever Comes to an End" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05</td>
       <td>Bjørn Riis</td>
@@ -1445,7 +1465,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Qcuyl7NuERuCGvmtKBilRFoml-3EI6Ns5wBUGFDOdHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc3/MjAxLTE1ODk3MTAx/MzgtNTM0MS5qcGVn.jpeg" alt="Cover for Hunt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c13f6f9eec2a9eac2c65ffbc7a2efa3.png" alt="Cover for Hunt" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-23</td>
       <td>Amarok</td>
@@ -1459,14 +1479,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 55</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/-dZdPElHew-shUW5cwWxTMWwr2iS8Fz_9b9Q5J7XgqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYx/NjMwLTE1MTI5Mzc4/ODYtNDQ5OC5qcGVn.jpeg" alt="Cover for Last Day Of June (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d536e01f1f17bd6fd2c08740284867b.png" alt="Cover for Last Day Of June (Original Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-01</td>
       <td>Steven Wilson</td>
@@ -1502,7 +1522,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/aRX0pgBOog_dTmTMTHYWukTXRZHD52ObB8LTlIvkXp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEx/MzkzLTE1MTk5OTYy/MTMtODY1OS5qcGVn.jpeg" alt="Cover for Coming Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/624606b3b9013a620c0d4daf22be6e53.png" alt="Cover for Coming Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Bjørn Riis</td>
@@ -1516,14 +1536,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 38</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/_Xj9Dc4WYw9GXVv7Rbl-6ScjNGMGUZenu_QPAWIA1q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg3/MjEwLTE1NDMzMTk5/NjEtNjIwMy5qcGVn.jpeg" alt="Cover for Civilisation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e3a9c5376740b2de7f991ce5ba56af1.png" alt="Cover for Civilisation" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-20</td>
       <td>Southern Empire</td>
@@ -1537,7 +1557,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 88</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1585,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/bHOqR--Nc-K9gVHrESmuCCnS8-sRgZ6gfQd7R8C5Pkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEx/NDc3LTE1Njk5NDU1/MTAtMTk5MS5qcGVn.jpeg" alt="Cover for Third Degree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423fd8fa98f3b1e49d704c344dffb0b6.png" alt="Cover for Third Degree" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Flying Colors</td>
@@ -1579,14 +1599,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 93</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/UNbaickwqBecb4cvpGkGrmWtHKODeLhLwP6L4pWgp8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgz/NDA4LTE1NTEzNTA2/NDktOTg3NC5qcGVn.jpeg" alt="Cover for Flowers At The Scene" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d212abf67ca233f34351bf2ccbd696.png" alt="Cover for Flowers At The Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-01</td>
       <td>Tim Bowness</td>
@@ -1604,7 +1624,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/SQ1gjVTUzE_3kcCsXsblIrvOq4zt1AVT1MfTswZ3ppU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA2/NDYwLTE1NTc0MDIx/ODUtODE2OC5qcGVn.jpeg" alt="Cover for A Storm is Coming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b3e67550fa64a3be4b57a24b5408788.png" alt="Cover for A Storm is Coming" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-09</td>
       <td>Bjørn Riis</td>
@@ -1618,14 +1638,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 68</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/nzj_MUaEoPi7dLNqruIJJl7IZJL_i4NfmFeOoIjmixo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkz/MjU4LTE1NTkxNTQ1/NTYtMTY3OS5qcGVn.jpeg" alt="Cover for Pattern-Seeking Animals" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b77a6f1c515547fcf745e7d5818e8761.png" alt="Cover for Pattern-Seeking Animals" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-05</td>
       <td>Pattern-Seeking Animals</td>
@@ -1639,7 +1659,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 44</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1664,7 +1684,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/ItHfWTHlZMPDvn7tviWUOs3n4rTNA4D0w7IN2Mm1P-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/MDUyLTE1NzI4Njgy/ODgtMzg3OC5qcGVn.jpeg" alt="Cover for Comatose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c72518534fc9865277e60aff4f3d8f8.png" alt="Cover for Comatose" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-27</td>
       <td>Lee Abraham</td>
@@ -1678,14 +1698,14 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 24</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/73F_4F67i3wp0Z9x1cyPqFxihjaQXvBAF4Bg0uCMzfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM2/MjEwLTE1NzM3NTk3/OTQtNzgwOS5qcGVn.jpeg" alt="Cover for All This Will Be Yours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/544ebf38f2efb4f496674b054d291e44.png" alt="Cover for All This Will Be Yours" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>Bruce Soord</td>
@@ -1703,7 +1723,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/dTIN5_B5lJ5bsFKykpa-OAD98qoJVjd6vui7J7mqnto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/NzgyLTE1NzM3Njcw/MjQtOTM2Ni5qcGVn.jpeg" alt="Cover for A Way Out Of Here" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b0a672b6f0437ea33ad78f2d32786b9.png" alt="Cover for A Way Out Of Here" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-08</td>
       <td>Yogi Lang</td>
@@ -1717,7 +1737,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 67</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1762,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/Ecizhjg2U4jKfslrrEVZrjY0Ftu-XXwzNXyDNDYGqU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ5/NDYxLTE1ODg2NzQz/NjAtNTUyMy5qcGVn.jpeg" alt="Cover for A Day at the Beach" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4913675d17f180076006416f02fa382f.png" alt="Cover for A Day at the Beach" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Airbag</td>
@@ -1870,7 +1890,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/mrIXJIuOol-74uuiT45_n0NkzK1s-qqSMSvyemZseFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjQ1/NTc2LTE2NjIyMjc0/MzEtNDE4MS5qcGVn.jpeg" alt="Cover for Blackfield (remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ea7122dd07659541ba79fe93c669f5b.png" alt="Cover for Blackfield (remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-12</td>
       <td>Blackfield</td>
@@ -1941,6 +1961,7 @@ New prog is a modern evolution of progressive rock that emerged in the late 1980
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e0add41c62751be75e0faec1adbd1f3.png" alt="Cover for Monochrome" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Daniel Cavanagh</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T08:04:38.088Z
+date: 2025-12-03T03:31:13.705Z
 permalink: tags/american-underground
 title: american underground
 ---
 
 ## american underground
 
-Last updated: <time datetime="2025-11-24T08:04:38.088Z">Mon Nov 24 2025 10:04:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:31:13.705Z">Wed Dec 03 2025 05:31:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 41</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -89,8 +89,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 48</li>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 97</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 6</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 46</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -167,14 +167,14 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Z_SqiL8Z-QYmlXlufDTioAGgeyHkk3R-EgYi8IJ_Rts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUw/Ni0xMzA4NTQ5NDMw/LmpwZWc.jpeg" alt="Cover for Rock for Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3be21630d704a28b8b6605883d6263a.png" alt="Cover for Rock for Light" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-03</td>
       <td>Bad Brains</td>
@@ -186,7 +186,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 51</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 9</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 59</li>
         </ul>
       </td>
@@ -442,7 +442,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -472,8 +472,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 7</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 64</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 8</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +535,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 16</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +569,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 18</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 63</li>
         </ul>
       </td>
@@ -661,13 +661,13 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
             <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +695,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 37</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 56</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 57</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 84</li>
         </ul>
       </td>
@@ -723,7 +723,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 82</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 83</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 90</li>
         </ul>
       </td>
@@ -750,8 +750,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 16</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 35</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -846,7 +846,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 70</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 93</li>
         </ul>
       </td>
@@ -906,7 +906,7 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 55</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
@@ -1032,7 +1032,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 68</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1060,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 23</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 67</li>
         </ul>
       </td>
@@ -1090,7 +1090,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 88</li>
         </ul>
       </td>
@@ -1141,7 +1141,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 84</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 97</li>
         </ul>
       </td>
@@ -1149,7 +1149,6 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/BDwC61xiK_dsxq6FB7n7NHsqPtV0O5mUlKyv_3-CCn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMx/ODAtMTMwNzQ3NjYy/MC5qcGVn.jpeg" alt="Cover for &amp; New Past Tense" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-27</td>
       <td>M. Pyres</td>
@@ -1200,7 +1199,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 23</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 41</li>
             <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
@@ -1263,7 +1262,7 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 13</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 20</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 21</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 84</li>
         </ul>
       </td>
@@ -1304,7 +1303,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 86</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 97</li>
         </ul>
       </td>
@@ -1353,7 +1352,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 26</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1382,8 +1381,8 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 8</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 59</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 43</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1436,8 +1435,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 72</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 67</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 88</li>
         </ul>
       </td>
@@ -1492,9 +1491,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 29</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 85</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
             <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 94</li>
         </ul>
       </td>
@@ -1556,7 +1555,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 52</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 53</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 54</li>
         </ul>
       </td>
@@ -1689,9 +1688,9 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 64</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
@@ -1756,8 +1755,8 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 32</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 34</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1783,7 +1782,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 64</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 75</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 83</li>
         </ul>
@@ -1812,7 +1811,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 60</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 85</li>
         </ul>
       </td>
@@ -1820,7 +1819,7 @@ American underground represents the raw, independent music scenes that flourishe
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/966d071fd45145b09087d8c36d6ce6a0.png" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-20</td>
       <td>Riding Alone for Thousands of Miles</td>
@@ -1843,7 +1842,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 83</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 84</li>
             <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 94</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 97</li>
         </ul>
@@ -1989,9 +1988,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 21</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 42</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 55</li>
         </ul>
       </td>
@@ -2048,6 +2047,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 73</li>
         </ul>
@@ -2076,8 +2076,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 3</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 30</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 4</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2099,8 +2099,8 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 89</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2133,7 +2133,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 18</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 59</li>
         </ul>
       </td>
@@ -2165,9 +2165,9 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 42</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 53</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 68</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 43</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 69</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 82</li>
         </ul>
       </td>
@@ -2201,7 +2201,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 30</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 44</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 45</li>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 47</li>
         </ul>
       </td>
@@ -2287,7 +2287,7 @@ American underground represents the raw, independent music scenes that flourishe
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
             <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 54</li>
         </ul>
       </td>
@@ -2384,8 +2384,8 @@ American underground represents the raw, independent music scenes that flourishe
         <ul>
             <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 6</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 40</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
         </ul>
@@ -2560,11 +2560,11 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 94</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
@@ -2703,7 +2703,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 10</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 12</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 27</li>
         </ul>
       </td>
@@ -2728,7 +2728,7 @@ American underground represents the raw, independent music scenes that flourishe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 80</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
         </ul>
       </td>
     </tr>

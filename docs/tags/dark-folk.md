@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:19:07.817Z
+date: 2025-12-03T03:30:39.068Z
 permalink: tags/dark-folk
 title: dark folk
 ---
 
 ## dark folk
 
-Last updated: <time datetime="2025-11-26T02:19:07.817Z">Wed Nov 26 2025 04:19:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:30:39.068Z">Wed Dec 03 2025 05:30:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -185,7 +185,7 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 42</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
         <ul>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 3</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 19</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 30</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
@@ -893,8 +893,8 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 5</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 15</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 79</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1158,7 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 46</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1342,7 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 45</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
@@ -1491,8 +1491,8 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 5</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 29</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 70</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 72</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 82</li>
         </ul>
       </td>
@@ -1607,7 +1607,7 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 7</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 63</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 63</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
         </ul>
@@ -1697,9 +1697,9 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
@@ -1802,12 +1802,12 @@ Dark folk is a somber acoustic genre blending traditional folk instrumentation w
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 90</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
             <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>

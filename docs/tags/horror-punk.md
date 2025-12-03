@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:16:48.328Z
+date: 2025-12-03T03:27:29.855Z
 permalink: tags/horror-punk
 title: horror punk
 ---
 
 ## horror punk
 
-Last updated: <time datetime="2025-11-26T02:16:48.328Z">Wed Nov 26 2025 04:16:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:29.855Z">Wed Dec 03 2025 05:27:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -169,7 +169,7 @@ Horror punk is a subgenre of punk rock and alternative rock that incorporates ho
       <td>
         <ul>
             <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 48</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Horror punk is a subgenre of punk rock and alternative rock that incorporates ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 6</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 7</li>
             <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 61</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 83</li>
         </ul>
@@ -735,7 +735,7 @@ Horror punk is a subgenre of punk rock and alternative rock that incorporates ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 15</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1271,7 @@ Horror punk is a subgenre of punk rock and alternative rock that incorporates ho
         <ul>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 51</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 54</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1598,7 @@ Horror punk is a subgenre of punk rock and alternative rock that incorporates ho
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 5</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 6</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T16:00:51.197Z
+date: 2025-12-03T03:27:25.308Z
 permalink: tags/finland
 title: finland
 ---
 
 ## finland
 
-Last updated: <time datetime="2025-11-18T16:00:51.197Z">Tue Nov 18 2025 18:00:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:25.308Z">Wed Dec 03 2025 05:27:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -219,14 +219,14 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 82</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/kyLtpaVCleYxwyc7G0tf6QJQj7fqDnSeVh3lBslhA5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/OTUtMTM4MDMxMzk0/OC03NjE5LmpwZWc.jpeg" alt="Cover for Rattlesnake Bite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82337bce6c85430a98c7a0f5ab9efc87.png" alt="Cover for Rattlesnake Bite" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Smack</td>
@@ -242,7 +242,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 85</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 48</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 48</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 79</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -501,7 +501,8 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 49</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 3</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 51</li>
             <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 93</li>
         </ul>
       </td>
@@ -545,7 +546,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +564,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +841,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 1</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1065,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/LwjrY49pZRpAM1eXk8tyJGUdS1CB9ojAZI3p97ObDPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI3/MDQtMTYxMTkxMzI0/NS03MzE2LmpwZWc.jpeg" alt="Cover for Nothing as Whole as a Broken Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee5a630f210b46d98025733d46872280.png" alt="Cover for Nothing as Whole as a Broken Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Manzana</td>
@@ -1130,7 +1131,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/wxAzZGuARR0Iwqm-qtKqG7U6AyB74WzHiuT2ApR9uU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjEz/MDEtMTMzNzYwMzI2/MC01OTg0LmpwZWc.jpeg" alt="Cover for Babies of Revolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/949beffc92b172e3e531156b56e23f45.png" alt="Cover for Babies of Revolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-24</td>
       <td>Manzana</td>
@@ -1181,7 +1182,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 19</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 20</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
             <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
@@ -1193,6 +1194,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1268c86a0c32407b884340be30a51160.png" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-23</td>
       <td>Frozen Silence</td>
@@ -1214,7 +1216,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 4</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 9</li>
             <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 98</li>
         </ul>
       </td>
@@ -1294,8 +1296,8 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 58</li>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1476,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1549,8 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 40</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1733,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/aInjmHvV2FlAkapp5AxgOT8_j0K130IUfs1kUJK4YUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTMz/NDQtMTQ5NDA3NTcx/MC02NTQwLmpwZWc.jpeg" alt="Cover for Rautaa ja Tulta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7692fb6c1d3377067d8260168a66a150.png" alt="Cover for Rautaa ja Tulta" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-02</td>
       <td>Havukruunu</td>
@@ -1752,7 +1754,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 17</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 37</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 66</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 84</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 89</li>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 94</li>
@@ -1800,7 +1802,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/RX6OUW1X_DouLhwDEIyZ1dQCAJNVNy2QTwXxI002M9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjMy/MzEtMTYyMDA4Njgw/Ny05MDQxLmpwZWc.jpeg" alt="Cover for Severed Monolith" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a073ac1a103f23eb15d46206dd4006d.png" alt="Cover for Severed Monolith" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-03</td>
       <td>Gorephilia</td>
@@ -1841,7 +1843,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/q32cBoy3JwLI16asyPLG-1fyTmNUsRH84JdXU5vD1g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/MjgxLTE1Njk1MzEw/MDgtNzQ2MS5qcGVn.jpeg" alt="Cover for The Journey Begins" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/048d10e21d44570379b6d1a6ff437a30.png" alt="Cover for The Journey Begins" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-11</td>
       <td>Celestial Aeon Project</td>
@@ -1875,7 +1877,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 11</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2122,7 +2124,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 89</li>
             <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 97</li>
         </ul>
       </td>
@@ -2161,9 +2163,6 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       <td>Uneasy Listening Vol. 1 &amp; 2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a></li>
         </ul>
       </td>
       <td>

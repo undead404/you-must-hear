@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:14:34.853Z
+date: 2025-12-03T03:25:06.424Z
 permalink: tags/jam-band
 title: jam band
 ---
 
 ## jam band
 
-Last updated: <time datetime="2025-11-26T02:14:34.853Z">Wed Nov 26 2025 04:14:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:25:06.424Z">Wed Dec 03 2025 05:25:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -689,7 +689,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 36</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 46</li>
             <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 99</li>
         </ul>
       </td>
@@ -1382,7 +1382,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1795,7 +1795,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 18</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 62</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 95</li>
         </ul>
@@ -1889,7 +1889,7 @@ Jam bands are rock-oriented groups known for extended improvisational performanc
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/IrUADclj2_QXuWZA8vTbZfT2mC-tHkTlKhUSoBwtK7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTMz/OTYyLTE2NTE4NTIz/MTMtOTMzMS5qcGVn.jpeg" alt="Cover for &#39;97-&#39;99" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaae7f2a440d180d7443ffed3b131a69.png" alt="Cover for &#39;97-&#39;99" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-20</td>
       <td>Laddio Bolocko</td>

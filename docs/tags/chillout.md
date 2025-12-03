@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:51:50.504Z
+date: 2025-12-03T03:31:55.289Z
 permalink: tags/chillout
 title: chillout
 ---
 
 ## chillout
 
-Last updated: <time datetime="2025-11-23T03:51:50.504Z">Sun Nov 23 2025 05:51:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:31:55.289Z">Wed Dec 03 2025 05:31:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 18</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -194,8 +194,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 45</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 31</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 31</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 69</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 99</li>
         </ul>
       </td>
@@ -408,8 +408,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 52</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 54</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 53</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 56</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 93</li>
         </ul>
       </td>
@@ -464,7 +464,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 4</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 37</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 63</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 100</li>
         </ul>
       </td>
@@ -506,9 +506,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       <td>
         <ul>
             <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 44</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 45</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 97</li>
         </ul>
       </td>
@@ -547,7 +547,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -794,9 +794,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 40</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 56</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 71</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 72</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
         </ul>
       </td>
@@ -835,7 +835,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 16</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +854,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 70</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +872,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 2</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -899,6 +899,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a833facd8eaa7ac4aa4bee58b6ec6112.png" alt="Cover for Who Did You Think I Was" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>John Mayer Trio</td>
@@ -918,6 +919,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 19</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -975,7 +978,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 30</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 35</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 99</li>
         </ul>
       </td>
@@ -995,8 +998,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 32</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 72</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1059,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 10</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 11</li>
             <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 95</li>
         </ul>
       </td>
@@ -1093,7 +1096,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1215,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 77</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1268,8 +1271,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 20</li>
             <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 81</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1294,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 34</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1332,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 36</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1352,9 +1355,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 59</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 13</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 63</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 88</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 96</li>
         </ul>
       </td>
@@ -1488,7 +1491,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 20</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 47</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 66</li>
             <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 74</li>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 99</li>
@@ -1550,8 +1553,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 39</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 55</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1576,9 +1579,9 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 70</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 93</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1597,7 +1600,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 2</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 4</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 80</li>
         </ul>
       </td>
@@ -1616,7 +1619,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1680,8 +1683,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1725,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 64</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 65</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 99</li>
         </ul>
       </td>
@@ -1761,7 +1764,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 89</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1784,8 +1787,8 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 20</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 73</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 27</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 74</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 86</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 93</li>
         </ul>
@@ -1808,7 +1811,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 71</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 30</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 100</li>
         </ul>
       </td>
@@ -1900,7 +1903,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 56</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1926,7 +1929,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 43</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 44</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 70</li>
         </ul>
       </td>
@@ -1967,7 +1970,7 @@ Chillout music is a subgenre of electronic music that is characterized by its me
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 67</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 69</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T10:17:58.700Z
+date: 2025-12-03T03:32:04.178Z
 permalink: tags/slow-jams
 title: slow jams
 ---
 
 ## slow jams
 
-Last updated: <time datetime="2025-11-11T10:17:58.700Z">Tue Nov 11 2025 12:17:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:32:04.178Z">Wed Dec 03 2025 05:32:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,6 +105,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f357cf658bd4cf9bd1862580ac5c7cb.png" alt="Cover for Shotgun" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Shotgun</td>
@@ -436,7 +437,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 9</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -482,6 +483,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2d0ced7ea1f4e738d802a45e192d825.png" alt="Cover for Playtyme Is Over" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-08-02</td>
       <td>Immature</td>
@@ -1322,6 +1324,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1407,7 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1647,8 +1650,8 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 14</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 28</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1666,10 +1669,10 @@ Slow jams are sensual R&amp;B songs with relaxed tempos, smooth melodies, and ro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 1</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
             <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
         </ul>
       </td>

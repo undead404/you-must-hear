@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:42:08.376Z
+date: 2025-12-03T02:47:57.168Z
 permalink: tags/cool-jazz
 title: cool jazz
 ---
 
 ## cool jazz
 
-Last updated: <time datetime="2025-11-23T02:42:08.376Z">Sun Nov 23 2025 04:42:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T02:47:57.168Z">Wed Dec 03 2025 04:47:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 92</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,8 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 6</li>
             <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 100</li>
         </ul>
       </td>
@@ -199,7 +200,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +237,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 56</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +257,8 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 54</li>
             <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 96</li>
         </ul>
       </td>
@@ -329,7 +331,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +444,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 3</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 9</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 99</li>
         </ul>
       </td>
@@ -463,8 +465,8 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 45</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 48</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +525,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 73</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -655,8 +657,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       <td>
         <ul>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 27</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 81</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -674,7 +675,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -752,7 +753,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 30</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -773,7 +774,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -814,8 +815,8 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 6</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 15</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +837,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 50</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +954,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 75</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1086,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 63</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1144,6 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
         <ul>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 34</li>
             <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 67</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1352,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1550,6 +1550,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f4bea69e877382e7eccb46de4e5cf02.png" alt="Cover for Conception" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-04</td>
       <td>Miles Davis</td>
@@ -1601,7 +1602,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 84</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1644,7 +1645,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1867,7 @@ Cool jazz emerged in the late 1940s as a softer, more relaxed alternative to beb
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 65</li>
         </ul>
       </td>
     </tr>

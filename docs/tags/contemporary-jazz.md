@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T03:42:48.906Z
+date: 2025-12-03T03:29:51.289Z
 permalink: tags/contemporary-jazz
 title: contemporary jazz
 ---
 
 ## contemporary jazz
 
-Last updated: <time datetime="2025-11-23T03:42:48.906Z">Sun Nov 23 2025 05:42:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:29:51.289Z">Wed Dec 03 2025 05:29:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -348,7 +348,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +494,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -570,7 +570,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 48</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 49</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 88</li>
         </ul>
       </td>
@@ -634,6 +634,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/366ea10f7d87431fadb520bf80b2dd65.png" alt="Cover for 301" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-26</td>
       <td>Esbjörn Svensson Trio</td>
@@ -651,7 +652,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 70</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 73</li>
             <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 94</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 100</li>
         </ul>
@@ -713,8 +714,8 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 19</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +740,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 56</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 66</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 67</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 87</li>
         </ul>
       </td>
@@ -965,7 +966,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1003,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 24</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1084,8 +1085,8 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 29</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1618,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 23</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1844,7 @@ Contemporary jazz is a modern evolution of jazz that blends traditional improvis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 10</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 13</li>
             <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 92</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T17:39:18.547Z
+date: 2025-12-03T03:28:04.222Z
 permalink: tags/jungle
 title: jungle
 ---
 
 ## jungle
 
-Last updated: <time datetime="2025-11-16T17:39:18.547Z">Sun Nov 16 2025 19:39:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:28:04.222Z">Wed Dec 03 2025 05:28:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,7 +52,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 29</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 28</li>
             <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 74</li>
         </ul>
       </td>
@@ -76,7 +76,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 93</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -98,9 +98,9 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 17</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 16</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 12</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 36</li>
         </ul>
       </td>
@@ -296,9 +296,9 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 44</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 92</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 49</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 93</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -375,7 +375,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 64</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +493,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 85</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +553,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 81</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 82</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 99</li>
         </ul>
       </td>
@@ -593,7 +593,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 42</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 70</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 73</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 74</li>
         </ul>
       </td>
@@ -776,7 +776,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 78</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 80</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +794,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 3</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 2</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 73</li>
         </ul>
       </td>
@@ -854,8 +854,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 31</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -875,7 +875,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 67</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 33</li>
             <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 70</li>
         </ul>
       </td>
@@ -973,8 +973,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 70</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 85</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 71</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1095,7 +1095,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/0h41GtfM3a9FiywDpEiqnXBUiIQANA7bORLX3P1_bPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzIw/NTktMTQ2NjI3NDM1/OS03ODAzLmpwZWc.jpeg" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bdeedbc59e2b404c613db10f564eceb.png" alt="Cover for Levitate" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>Lone</td>
@@ -1110,8 +1110,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 4</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 23</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 49</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 97</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 99</li>
         </ul>
       </td>
@@ -1171,7 +1171,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 71</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 73</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 86</li>
         </ul>
       </td>
@@ -1272,9 +1272,9 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 74</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 78</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 97</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 78</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 81</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1335,10 +1335,10 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 46</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 68</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 69</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 29</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 47</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 79</li>
         </ul>
       </td>
@@ -1364,7 +1364,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/qvYsHwgXJRAi8ZRqauxsW4vRxDtVALKD1Qb4w7FRp5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg3/NTI2LTE1OTI3MzU5/MDUtMjI2MS5qcGVn.jpeg" alt="Cover for RVE002" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3f7aa5c660df296271ddbe0f72938c2.png" alt="Cover for RVE002" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Tommy Holohan</td>
@@ -1380,7 +1380,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 57</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1443,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 17</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1465,6 +1465,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 3</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 99</li>
         </ul>
       </td>
@@ -1485,7 +1486,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 80</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1509,8 +1510,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 35</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 41</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 41</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 48</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 68</li>
             <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 90</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 93</li>
@@ -1552,7 +1553,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 4</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1575,14 +1577,14 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 94</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/w1vao8lo31MyDLpw_q4FPOQcUxO6547nBPem8xjalAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYx/MzE4LTE2MzExMTgy/ODYtMzgyNC5qcGVn.jpeg" alt="Cover for Teeth Restoration" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/421805cae1f3febd9cf5caa59cbedd37.png" alt="Cover for Teeth Restoration" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-14</td>
       <td>bye2</td>
@@ -1595,7 +1597,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 53</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1616,8 +1618,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 88</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 98</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 100</li>
             <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
@@ -1641,7 +1643,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 57</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 62</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 75</li>
         </ul>
       </td>
@@ -1704,7 +1706,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 94</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1732,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 29</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 64</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 82</li>
             <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 84</li>
@@ -1790,7 +1792,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 88</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1815,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 59</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 64</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 76</li>
         </ul>
       </td>
@@ -1832,9 +1835,9 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 82</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 53</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 82</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1857,8 +1860,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 70</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 89</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 90</li>
             <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 91</li>
         </ul>
       </td>
@@ -1877,7 +1880,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 41</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1891,15 +1894,11 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       <td>Sunrise Bang Ur Head Against Tha Wall</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1921,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 36</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 38</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 56</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 75</li>
         </ul>
@@ -1943,6 +1942,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1962,7 +1962,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 52</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1989,8 +1989,8 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 52</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 51</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 54</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 89</li>
         </ul>
       </td>
@@ -2016,8 +2016,33 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 55</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 62</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 56</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcbaeb01b2821b2939770bc09fe7800b.png" alt="Cover for ジャングル" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>地球</td>
+      <td>ジャングル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2042,7 +2067,7 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 43</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2063,8 +2088,9 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 32</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 1</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 39</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2078,29 +2104,6 @@ Jungle is a fast-paced electronic music genre that emerged from UK rave culture 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>地球</td>
-      <td>ジャングル</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>

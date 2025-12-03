@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:59:17.874Z
+date: 2025-12-03T03:25:33.980Z
 permalink: tags/female-fronted-metal
 title: female fronted metal
 ---
 
 ## female fronted metal
 
-Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:25:33.980Z">Wed Dec 03 2025 05:25:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -163,7 +163,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 94</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 97</li>
         </ul>
       </td>
@@ -264,7 +264,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
         <ul>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 54</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 65</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -283,8 +283,8 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 20</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 23</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 22</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 14</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 78</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 98</li>
         </ul>
       </td>
@@ -433,7 +433,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 46</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 58</li>
         </ul>
       </td>
@@ -472,7 +472,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 6</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +493,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 76</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 78</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 81</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +648,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 59</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 61</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 69</li>
         </ul>
       </td>
@@ -689,7 +689,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -709,6 +709,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +749,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +785,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 54</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +828,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 53</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +944,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       <td>
         <ul>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 83</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +999,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 98</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1018,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 73</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 100</li>
         </ul>
       </td>
@@ -1099,7 +1100,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1130,16 +1131,17 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 6</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 7</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 31</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
         </ul>
@@ -1197,11 +1199,11 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 16</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 22</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 63</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 65</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 75</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
@@ -1267,7 +1269,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 85</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 86</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 98</li>
         </ul>
       </td>
@@ -1287,8 +1289,8 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 89</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1325,16 +1327,16 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 15</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
         </ul>
       </td>
@@ -1409,20 +1411,20 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 1</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 1</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 4</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 99</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 99</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1463,10 +1465,10 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 16</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 41</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 17</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 36</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 59</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 63</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 66</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 67</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 78</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 88</li>
@@ -1489,10 +1491,9 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 9</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 10</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 42</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 59</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 60</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 76</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 85</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 89</li>
@@ -1523,7 +1524,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 30</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1548,7 +1549,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 36</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1574,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1750,18 +1751,18 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 8</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 69</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 71</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1791,9 +1792,9 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 14</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 40</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 62</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 62</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 77</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 86</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 90</li>
@@ -1824,7 +1825,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 50</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1850,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 52</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1932,7 +1933,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 38</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1978,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2002,7 +2003,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2074,9 +2075,10 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 11</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 23</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 95</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 18</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 19</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 98</li>
         </ul>
       </td>
@@ -2101,6 +2103,7 @@ Last updated: <time datetime="2025-11-23T02:59:17.874Z">Sun Nov 23 2025 04:59:17
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 94</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 96</li>
         </ul>

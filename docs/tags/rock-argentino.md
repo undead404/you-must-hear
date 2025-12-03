@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:35:47.941Z
+date: 2025-12-03T03:26:03.408Z
 permalink: tags/rock-argentino
 title: rock argentino
 ---
 
 ## rock argentino
 
-Last updated: <time datetime="2025-11-13T16:35:47.941Z">Thu Nov 13 2025 18:35:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:26:03.408Z">Wed Dec 03 2025 05:26:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 55</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -76,17 +76,11 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       <td>Artaud</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 37</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 73</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 99</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +177,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 23</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +198,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -223,6 +217,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -241,7 +236,8 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 47</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 11</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +368,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 18</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +464,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 1</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +486,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 86</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 89</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 96</li>
         </ul>
       </td>
@@ -563,7 +559,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 71</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +594,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 96</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -641,8 +637,8 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 18</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 44</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 40</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +657,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 86</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -717,7 +713,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 70</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +750,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 13</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +849,9 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 22</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 67</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 42</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 69</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 72</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 75</li>
         </ul>
       </td>
@@ -877,7 +873,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 21</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 25</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 31</li>
         </ul>
       </td>
@@ -898,7 +894,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 84</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1025,23 +1021,19 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       <td>Bocanada</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 75.9493670886076 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 16</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 45</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 57</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 84</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efc48f9fb09644cab0d656b095308771.png" alt="Cover for Leche" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-08-10</td>
       <td>Illya Kuryaki And The Valderramas</td>
@@ -1075,7 +1067,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 48</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 49</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1188,6 +1180,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed80c665022e04eab2ac6c676e6dd39.png" alt="Cover for Silver Sorgo" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Luis Alberto Spinetta</td>
@@ -1206,7 +1199,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/LEga1Y_BOPpNG4DJcL2fckHNMskXl7Tlly_Ho7CNbtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA2/MDY2LTE1MzY5MDg1/MjktNDMxOS5qcGVn.jpeg" alt="Cover for 11 Episodios Sinfónicos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a57e4af4ce2649e17aba06f33392814f.png" alt="Cover for 11 Episodios Sinfónicos" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Gustavo Cerati</td>
@@ -1405,7 +1398,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1561,14 +1554,14 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 77</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/KMyc8ReHQwHUJ504Jw49epy9GzmwP5EKBd4Jxap-hlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODc0/NC0xNTg2Mzk0NjQ1/LTQzMjIuanBlZw.jpeg" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ccff0fcf9b64ea1a16d9e76470201b8.png" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Gustavo Cerati</td>
@@ -1582,8 +1575,8 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 78</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 94</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 80</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1639,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 43</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 65</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1706,7 +1699,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 61</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1719,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 92</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1749,7 +1742,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 22</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 46</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1799,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 26</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 30</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 77</li>
         </ul>
       </td>
@@ -1905,7 +1898,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1936,7 +1929,7 @@ Rock argentino is a distinctive Latin American rock movement that emerged in Arg
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/RBHfDtC4AGL5agc-Wl8WSyY_Za_IauUT1-9YSO1Z9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzk0/NTQ0LTE2OTkwNTg4/NTMtOTYwNy5wbmc.jpeg" alt="Cover for Lo Más Cercano a Caer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a41ecaf64bd960438f322fc0c2adf29.png" alt="Cover for Lo Más Cercano a Caer" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-26</td>
       <td>NENAGENIX</td>

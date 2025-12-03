@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:17:26.661Z
+date: 2025-12-03T03:28:08.464Z
 permalink: tags/post-hardcore
 title: post-hardcore
 ---
 
 ## post-hardcore
 
-Last updated: <time datetime="2025-11-26T02:17:26.661Z">Wed Nov 26 2025 04:17:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:28:08.464Z">Wed Dec 03 2025 05:28:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -195,8 +195,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 77</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 80</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +252,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 90</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +432,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>64</td>
       <td>
       </td>
-      <td>2005-06-08</td>
+      <td>2005-06-13</td>
       <td>Funeral for a Friend</td>
       <td>Hours</td>
       <td>
@@ -482,7 +482,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +519,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 63</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -577,9 +577,9 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 53</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 73</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 84</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +671,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 85</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 90</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 93</li>
         </ul>
       </td>
@@ -748,7 +748,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 10</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 82</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 98</li>
         </ul>
@@ -769,7 +769,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 50</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +807,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 65</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +828,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 76</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 88</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +885,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 14</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 21</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 58</li>
             <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 73</li>
         </ul>
@@ -967,7 +967,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 68</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 83</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 89</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
         </ul>
@@ -1025,7 +1025,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 2</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 49</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 90</li>
         </ul>
@@ -1115,14 +1115,14 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 17</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 6</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 20</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 22</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 34</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 67</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 82</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 91</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 95</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
         </ul>
       </td>
@@ -1200,7 +1200,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 56</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 91</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 94</li>
         </ul>
@@ -1258,10 +1258,10 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 23</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 26</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 58</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 61</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
         </ul>
       </td>
@@ -1318,7 +1318,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 71</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1379,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 12</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 86</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1465,16 +1465,16 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 8</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 36</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 85</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 93</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 98</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 99</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 99</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 100</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 100</li>
         </ul>
@@ -1498,8 +1498,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 10</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 75</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1557,10 +1557,10 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 66</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 67</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 73</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 81</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1643,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 91</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 100</li>
         </ul>
@@ -1686,7 +1686,7 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 32</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 46</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1713,10 +1713,10 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
@@ -1744,8 +1744,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 59</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 62</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 93</li>
         </ul>
       </td>
@@ -1786,7 +1786,6 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 43</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 85</li>
         </ul>
       </td>
@@ -1828,8 +1827,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 16</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 20</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1852,8 +1851,8 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 50</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 54</li>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 60</li>
         </ul>
       </td>
@@ -1948,9 +1947,10 @@ Post-hardcore is a subgenre of punk rock and hardcore punk that emerged in the 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 57</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 58</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 96</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 99</li>
         </ul>
       </td>
     </tr>

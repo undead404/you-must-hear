@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:20:36.667Z
+date: 2025-12-03T03:31:27.757Z
 permalink: tags/electropunk
 title: electropunk
 ---
 
 ## electropunk
 
-Last updated: <time datetime="2025-11-26T02:20:36.667Z">Wed Nov 26 2025 04:20:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:31:27.757Z">Wed Dec 03 2025 05:31:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,9 +85,9 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 62</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 72</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 95</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -110,7 +110,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 89</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
         <ul>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 73</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 74</li>
             <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 100</li>
         </ul>
       </td>
@@ -247,6 +247,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de600d064e8e4884c84f215ac43e427b.png" alt="Cover for Tight" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-04-06</td>
       <td>Mindless Self Indulgence</td>
@@ -278,7 +279,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -303,8 +304,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 12</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 66</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +440,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/zgvdSkRAtmXDgOKD83QS2u3MT_BPQxcRF9OXaX8JQ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzA3/LTExNDM1NTgzODIu/anBlZw.jpeg" alt="Cover for Addicted to You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d23eadb9643b4e858a35cba899469e6c.png" alt="Cover for Addicted to You" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Alec Empire</td>
@@ -455,7 +456,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 67</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -521,7 +522,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 3</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 4</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 67</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
@@ -585,7 +586,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 94</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -606,8 +607,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 94</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +917,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 2</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 21</li>
         </ul>
       </td>
@@ -1017,7 +1018,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 85</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1144,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 70</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
             <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 79</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 82</li>
         </ul>
@@ -1163,7 +1164,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 57</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 59</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 93</li>
         </ul>
       </td>
@@ -1312,8 +1314,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 92</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
         </ul>
@@ -1339,7 +1341,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
             <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 99</li>
         </ul>
@@ -1393,7 +1395,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 18</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 69</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 81</li>
         </ul>
       </td>
@@ -1458,7 +1460,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 47</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 55</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 56</li>
             <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 73</li>
         </ul>
       </td>
@@ -1484,7 +1486,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 44</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 45</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 88</li>
         </ul>
       </td>
@@ -1644,7 +1646,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 52</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 68</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 90</li>
         </ul>
@@ -1668,7 +1670,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 39</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 92</li>
         </ul>
       </td>
@@ -1716,8 +1718,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       <td>
         <ul>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
         </ul>
@@ -1795,9 +1797,9 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 7</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 8</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1824,8 +1826,8 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 50</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 50</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 51</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2022,11 +2024,11 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
             <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
         </ul>
       </td>
@@ -2052,7 +2054,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 81</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 86</li>
         </ul>
       </td>
@@ -2073,7 +2075,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2101,11 +2103,11 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 22</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 87</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 82</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2233,8 +2235,6 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2260,7 +2260,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 30</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 31</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 53</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 74</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 75</li>
@@ -2339,7 +2339,7 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 34</li>
             <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 83</li>
         </ul>
@@ -2369,13 +2369,13 @@ Electropunk fuses the raw energy and rebellious attitude of punk rock with elect
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 16</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 94</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 95</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:17:42.014Z
+date: 2025-12-03T03:28:20.277Z
 permalink: tags/new-romantic
 title: new romantic
 ---
 
 ## new romantic
 
-Last updated: <time datetime="2025-11-26T02:17:42.014Z">Wed Nov 26 2025 04:17:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:28:20.277Z">Wed Dec 03 2025 05:28:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -334,7 +334,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 77</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 95</li>
         </ul>
       </td>
@@ -462,7 +462,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -498,6 +498,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 1</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 74</li>
         </ul>
       </td>
@@ -917,7 +918,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 85</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1830,8 +1831,8 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 36</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 64</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
       </td>
@@ -1863,8 +1864,8 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 25</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1981,7 @@ New Romantic emerged in early 1980s Britain as a glamorous reaction to punk, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 16</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 18</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 29</li>
         </ul>
       </td>

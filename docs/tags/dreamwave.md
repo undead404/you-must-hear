@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T08:16:07.450Z
+date: 2025-12-03T03:08:11.720Z
 permalink: tags/dreamwave
 title: dreamwave
 ---
 
 ## dreamwave
 
-Last updated: <time datetime="2025-11-11T08:16:07.450Z">Tue Nov 11 2025 10:16:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:08:11.720Z">Wed Dec 03 2025 05:08:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,8 +67,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 15</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 23</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 17</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -97,7 +97,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/OOh7CrBHN7H6TJd4SgPCwEgpnW307NLrExOQHud7Ci0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA0/MC0xMjkxMjk3NjYy/LmpwZWc.jpeg" alt="Cover for Streets Of Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e4bb8e6158e8e35350e8ce40d30003.png" alt="Cover for Streets Of Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Symmetry</td>
@@ -115,7 +115,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -188,6 +189,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 3</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 46</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 67</li>
         </ul>
@@ -239,7 +241,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Z-OlsGC6peT73FK885s8giO6nfjZU9VrTVAFQo7SJtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDYx/MjEtMTI1MTU1MTE1/NC5qcGVn.jpeg" alt="Cover for Seek Magic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1d03b951b144c5938c2ad06be505f2.png" alt="Cover for Seek Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-24</td>
       <td>Memory Tapes</td>
@@ -247,12 +249,11 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -271,8 +272,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 35</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 88</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -290,15 +290,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 43</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 75</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/UtOQjXHfORgrkOuNQqIsjotcVkay9FWZceJY0DSWX24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjEw/NjYtMTYxODI0MTAw/OS0xOTg0LmpwZWc.jpeg" alt="Cover for summer vacation EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04652e3194f7a85869770c3d0603c75d.png" alt="Cover for summer vacation EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-09</td>
       <td>2muchachos</td>
@@ -358,7 +357,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/EgJWFuSyEmEhejkUTpOapF7fjCop9m5qt8GOO7ROLGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjM1/MDktMTMxMjE5Nzcy/My5qcGVn.jpeg" alt="Cover for Making Mountains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b248f5c735fa4fb698d87a7c6d620c89.png" alt="Cover for Making Mountains" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-14</td>
       <td>The Sky Drops</td>
@@ -391,10 +390,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 33</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 21</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 37</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +413,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -429,14 +428,10 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>Flutter EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
@@ -444,14 +439,12 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 32</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 71</li>
         </ul>
       </td>
@@ -466,7 +459,6 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>kin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -512,7 +504,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -535,8 +527,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 7</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 74</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 20</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +547,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +617,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/YuIgnY_W1YejGUGDfyZACs6kwQ6DbJp8SMbfortoFdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDg5/MjUtMTM5MjYzMjk5/MC01OTA2LmpwZWc.jpeg" alt="Cover for Childhood Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f258a888c4d0409bc0ab891ed61b84fd.png" alt="Cover for Childhood Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-14</td>
       <td>Timecop1983</td>
@@ -801,14 +794,14 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 45</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/bDD31vdRC6P46frxpYTgeMqp5O2ZdVooow5bIIr1sRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTkw/NTctMTQzMTM1ODI4/OC00MDQ0LmpwZWc.jpeg" alt="Cover for RITM VREMENI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9d96ac5025dadadc2bf43e1183ae577.png" alt="Cover for RITM VREMENI" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-01</td>
       <td>STEREOYUNOST</td>
@@ -842,7 +835,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 42</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +857,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 63</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -894,6 +887,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/855175421cdf4ef1ce8f511cf529c563.png" alt="Cover for Daydreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-03</td>
       <td>Timecop1983</td>
@@ -933,8 +927,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 35</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 35</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 37</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 47</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
         </ul>
       </td>
@@ -942,7 +936,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/E_UBKeSccJVk9jmupEjX_BwB2HGYAKuYgIEm-ktGZ5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkz/ODgxLTE1MTkwNzc3/OTYtMzU1NC5qcGVn.jpeg" alt="Cover for Beyond Horizons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c993be3bcdddcaad5643dd9eb67d2a23.png" alt="Cover for Beyond Horizons" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-28</td>
       <td>Stellar Dreams</td>
@@ -958,7 +952,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 36</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -980,10 +974,11 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 3</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1060,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 72</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1189,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 16</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1215,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1235,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 3</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1266,9 +1261,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 7</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 72</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 84</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 75</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1314,8 +1309,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 4</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 19</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 8</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1339,8 +1334,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 11</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 77</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 82</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1363,7 +1358,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 54</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1399,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 63</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 85</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1440,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 40</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 44</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 62</li>
         </ul>
       </td>
@@ -1472,7 +1467,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 54</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1495,6 +1490,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1529,23 +1525,15 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>Bend &amp; Break</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 90</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 30</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 91</li>
             <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 100</li>
         </ul>
       </td>
@@ -1573,9 +1561,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 16</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 37</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 52</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 21</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 39</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1588,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 68</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 71</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 79</li>
         </ul>
       </td>
@@ -1608,7 +1596,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/l_cVBogdIRcx7hFJqs-OFRS3X82a2BBAAcmeTlQt3Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ1/NzU2LTE1MzMzODcx/MDUtMTQxMC5qcGVn.jpeg" alt="Cover for America Online" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d2f9976a48529982ff5411f52b909c4.png" alt="Cover for America Online" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-03</td>
       <td>The Midnight</td>
@@ -1624,8 +1612,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 20</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 78</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 24</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1674,8 +1662,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1705,8 +1693,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 67</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 76</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 78</li>
         </ul>
       </td>
@@ -1731,7 +1719,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 12</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1847,6 +1835,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1873,10 +1862,10 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 54</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 65</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 82</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1966,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 54</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 75</li>
         </ul>
       </td>
@@ -2022,7 +2011,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 65</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2050,10 +2039,10 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2109,21 +2098,13 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>Love Made Me Do It</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
         </ul>
       </td>
@@ -2154,8 +2135,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 33</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 55</li>
         </ul>
       </td>
@@ -2205,8 +2186,8 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 7</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 26</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2229,11 +2210,9 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 26</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 36</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 44</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 51</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 46</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2292,20 +2271,13 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       <td>I Am Your God</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2353,7 +2325,7 @@ Dreamwave blends nostalgic 1980s synthesizer aesthetics with modern production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 24</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 28</li>
         </ul>
       </td>
     </tr>

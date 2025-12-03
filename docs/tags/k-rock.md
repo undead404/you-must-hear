@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T01:08:09.066Z
+date: 2025-12-03T03:28:59.520Z
 permalink: tags/k-rock
 title: k-rock
 ---
 
 ## k-rock
 
-Last updated: <time datetime="2025-11-15T01:08:09.066Z">Sat Nov 15 2025 03:08:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:28:59.520Z">Wed Dec 03 2025 05:28:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -250,7 +250,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 24</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -298,6 +298,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9555098234ee406bb1ad1570597a83d3.png" alt="Cover for Fight Against The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-23</td>
       <td>Schizo</td>
@@ -534,7 +535,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/8N5UbwuQ3f4Znng3kLYyiPiiNo-PlCFdXxjKlgOCeQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE4/Njg5LTE1OTgzNzE5/OTktNDI0Mi5qcGVn.jpeg" alt="Cover for 10th Anniversary ALL TIME BEST &#x2F; Yellow [2010-2020]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a94c56a62ca7f3e77663faf0f572e273.png" alt="Cover for 10th Anniversary ALL TIME BEST &#x2F; Yellow [2010-2020]" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>FTISLAND</td>
@@ -591,7 +592,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/auxLO8YGZXBRBDrPiR0eLMSMl8yrSA8g8lNoDeIMDh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAy/Mzg5LTE1MzAzODI4/MDEtOTUwNS5qcGVn.jpeg" alt="Cover for I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7951a103eeb18ff4112f60eca1ae148.png" alt="Cover for I" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-17</td>
       <td>김재중</td>
@@ -610,6 +611,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60f8c6ba89dec8d47b0ba2a1dafd2f91.png" alt="Cover for WWW" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>김재중</td>
@@ -1093,6 +1095,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1207,14 +1210,14 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 1</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/tObPTV8YSwDiVrTystHg4HPGTzrUWpa62LgjuBzIfS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMx/NzY5LTE1OTY3NTA4/NTEtMTk3Ny5qcGVn.jpeg" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76ba4fdb4160dd36f68098cc50791fe6.png" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-21</td>
       <td>Bursters</td>
@@ -1607,7 +1610,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 61</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1671,6 +1674,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdcb58515512419eb5cddce801401fc6.png" alt="Cover for With Mate (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>메이트</td>
@@ -1706,6 +1710,7 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ada663faf2709979cc4910db7e84f521.png" alt="Cover for Glorious End" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>IVITs</td>
@@ -1898,26 +1903,6 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
     </tr>
     <tr>
-      <td>72</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/270cffeedc8682baa233212718001c1d.png" alt="Cover for Band Aid" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>DAY6</td>
-      <td>Band Aid</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b8595c474a8a828f1452cc73eaf4ba6.png" alt="Cover for 23" style="max-width:120px; height:auto;" />
@@ -1968,6 +1953,23 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       <td></td>
       <td>Xdinary Heroes</td>
       <td>Hello, world!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/270cffeedc8682baa233212718001c1d.png" alt="Cover for Band Aid" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>DAY6</td>
+      <td>Band Aid</td>
       <td>
         <ul>
         </ul>

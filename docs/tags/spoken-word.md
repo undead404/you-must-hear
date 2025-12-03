@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:14:04.817Z
+date: 2025-12-03T03:24:45.193Z
 permalink: tags/spoken-word
 title: spoken word
 ---
 
 ## spoken word
 
-Last updated: <time datetime="2025-11-26T02:14:04.817Z">Wed Nov 26 2025 04:14:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:24:45.193Z">Wed Dec 03 2025 05:24:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -314,12 +314,12 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
             <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 59</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 76</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 78</li>
             <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
@@ -952,7 +952,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 15</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1178,6 +1178,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 3</li>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 59</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
@@ -1256,7 +1257,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 49</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 53</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 97</li>
         </ul>
       </td>
@@ -1550,7 +1551,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1605,9 +1606,9 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 79</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 92</li>
             <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 98</li>
         </ul>
@@ -1738,12 +1739,12 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 47</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
             <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
         </ul>
@@ -1785,7 +1786,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 51</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 53</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 70</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
         </ul>
@@ -1827,7 +1828,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 78</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
         </ul>
@@ -1891,7 +1892,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
         <ul>
             <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 47</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 56</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
             <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 82</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
@@ -1934,7 +1935,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 68</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1961,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/e7p_lreQURPH_D_gWn_K4ZzyEiE1wWVdX-xmCALqSBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU2/MTk0LTE2NjY4MTQ5/NzktMTk1Ni5qcGVn.jpeg" alt="Cover for Paste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae134776517926c766ebd7482c884b4f.png" alt="Cover for Paste" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Moin</td>
@@ -2042,7 +2043,7 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       <td>
         <ul>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 41</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 50</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 51</li>
             <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 76</li>
         </ul>
       </td>
@@ -2102,8 +2103,8 @@ Spoken word blends poetry and music, featuring vocal delivery that prioritizes r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 23</li>
             <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 25</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 26</li>
         </ul>
       </td>
     </tr>

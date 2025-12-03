@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T14:32:28.271Z
+date: 2025-12-03T03:26:34.900Z
 permalink: tags/schlager
 title: schlager
 ---
 
 ## schlager
 
-Last updated: <time datetime="2025-11-16T14:32:28.271Z">Sun Nov 16 2025 16:32:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:26:34.900Z">Wed Dec 03 2025 05:26:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -348,7 +348,7 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 10</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 32</li>
             <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 94</li>
         </ul>
       </td>
@@ -614,7 +614,7 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/OLdDEJ_2YG2CqYOxW1tQsiZjSoPsUf21P1VISwO1XUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU4/ODctMTMyMDI1NTA3/OC5qcGVn.jpeg" alt="Cover for Single Hit Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ed46f855e51c50bf38648f3a47c022.png" alt="Cover for Single Hit Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>George Baker Selection</td>
@@ -654,6 +654,7 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39b85676d45b4373b87f20228c4e6e0b.png" alt="Cover for Ein Bett Im Kornfeld" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jürgen Drews</td>
@@ -729,7 +730,7 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/WxqrXIyGhwWFionV8vhbhkeU8ET1kxXnqycBCoTxvZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQw/NzAtMTQwNzc5MDk4/MC0yODExLmpwZWc.jpeg" alt="Cover for Meine Größten Erfolge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb6674addad6e9d8fffe52ee5bf81209.png" alt="Cover for Meine Größten Erfolge" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-05-02</td>
       <td>Michael Holm</td>
@@ -1020,15 +1021,15 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
         <ul>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 84</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
@@ -1193,7 +1194,7 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/k8Vh_HZ0Xpqj4oGmiGn4G4hh41Vvvu1imrVysfC0kVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTkw/ODItMTU1MDI0MDkx/MS01NTM5LmpwZWc.jpeg" alt="Cover for 16 Biggest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/806fa35901bb42e9c234f1480aabac09.png" alt="Cover for 16 Biggest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Lynn Anderson</td>
@@ -1389,12 +1390,12 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
             <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
@@ -1698,11 +1699,11 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 19</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 20</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 56</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1825,13 +1826,13 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 5</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 36</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 37</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 41</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1925,24 +1926,24 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
@@ -2020,11 +2021,12 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 2</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 10</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 23</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 53</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2190,12 +2192,12 @@ Schlager is a popular European music genre, primarily from Germany and Austria, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 61</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 83</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
             <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>

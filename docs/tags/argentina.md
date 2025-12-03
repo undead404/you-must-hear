@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T07:44:38.000Z
+date: 2025-12-03T03:27:59.212Z
 permalink: tags/argentina
 title: argentina
 ---
 
 ## argentina
 
-Last updated: <time datetime="2025-11-24T07:44:38.000Z">Mon Nov 24 2025 09:44:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:59.212Z">Wed Dec 03 2025 05:27:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -176,7 +176,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 57</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 19</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -216,8 +216,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 9</li>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 100</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 1</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +257,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 13</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +399,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 1</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +421,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 7</li>
             <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 96</li>
         </ul>
       </td>
@@ -588,7 +588,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 10</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -664,8 +664,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 17</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 31</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +685,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 92</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -732,7 +732,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/N4AWklCff0JboZZgZPYjkWNojnfcoPEVDEvXRGwzGw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjEw/MTYtMTQxNTAyOTM1/NC0xMTk3LmpwZWc.jpeg" alt="Cover for Para no Olvidarte" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb1903fd230fcfabf7507aefec743fb.png" alt="Cover for Para no Olvidarte" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Clamor</td>
@@ -802,7 +802,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 81</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +823,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 43</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 48</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1092,6 +1092,26 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
     </tr>
     <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/8Ltz0eqNKFejT-r0lkjmV9apcc6JVXZwENojAOLvozg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTY1/NC0xMjI3Mjg3MzU1/LmpwZWc.jpeg" alt="Cover for STIFFYTHOVEN" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Stiffy</td>
+      <td>STIFFYTHOVEN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9986e93775a420bf306bceef9c4741.png" alt="Cover for Excursiones" style="max-width:120px; height:auto;" />
@@ -1124,25 +1144,6 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/8Ltz0eqNKFejT-r0lkjmV9apcc6JVXZwENojAOLvozg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTY1/NC0xMjI3Mjg3MzU1/LmpwZWc.jpeg" alt="Cover for STIFFYTHOVEN" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Stiffy</td>
-      <td>STIFFYTHOVEN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
         </ul>
       </td>
       <td>
@@ -1194,7 +1195,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/KMyc8ReHQwHUJ504Jw49epy9GzmwP5EKBd4Jxap-hlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODc0/NC0xNTg2Mzk0NjQ1/LTQzMjIuanBlZw.jpeg" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ccff0fcf9b64ea1a16d9e76470201b8.png" alt="Cover for Ahi Vamos" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Gustavo Cerati</td>
@@ -1208,8 +1209,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 79</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 94</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 22</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1247,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 67</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1268,8 +1269,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 37</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 43</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1348,7 +1349,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 58</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1388,8 +1389,8 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 8</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 22</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1584,7 +1585,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 75</li>
             <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 77</li>
         </ul>
       </td>
@@ -1833,7 +1834,7 @@ Argentina&#39;s music scene blends tango traditions with rock nacional, folk, an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 81</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 82</li>
         </ul>
       </td>
     </tr>

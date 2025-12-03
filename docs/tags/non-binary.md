@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T08:41:37.297Z
+date: 2025-12-03T03:23:23.480Z
 permalink: tags/non-binary
 title: non-binary
 ---
 
 ## non-binary
 
-Last updated: <time datetime="2025-10-18T08:41:37.297Z">Sat Oct 18 2025 11:41:37 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:23:23.480Z">Wed Dec 03 2025 05:23:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -40,7 +40,6 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -53,7 +52,6 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 35</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 65</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +212,7 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 13</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 44</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 57</li>
@@ -242,7 +240,7 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 7</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 16</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 46</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 55</li>
@@ -324,7 +322,7 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 9</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 42</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 59</li>
@@ -389,6 +387,7 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2040785e7c70f6515b660e3a3b5bf1.png" alt="Cover for Let&#39;s Start a Riot" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-16</td>
       <td>Blood on the Dance Floor</td>
@@ -401,7 +400,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 24</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
@@ -427,10 +426,10 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 4</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 6</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 12</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 13</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 14</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 43</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 52</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 58</li>
@@ -442,7 +441,7 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/UteYP0Y8iQnC8gTjNnwXmPn8vGpzvmT9zIV04e319_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk4/NzUtMTQ1ODM4MDYy/Mi04OTU4LmpwZWc.jpeg" alt="Cover for It&#39;s Hard To Be A Diamond In A Rhine Stone World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82f38e4150668e3197f979b05166c8b.png" alt="Cover for It&#39;s Hard To Be A Diamond In A Rhine Stone World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-12</td>
       <td>Blood on the Dance Floor</td>
@@ -458,7 +457,7 @@ This tag represents music created by or associated with artists who identify out
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 4</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 19</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 53</li>
@@ -491,7 +490,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 22</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 27</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
@@ -632,7 +631,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 52</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
@@ -693,7 +692,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 25</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
@@ -725,7 +724,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 52</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 54</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 58</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
@@ -757,7 +756,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 62</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 67</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
@@ -788,7 +787,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 47</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
@@ -820,7 +819,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 61</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 62</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
@@ -851,7 +850,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 49</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
@@ -883,7 +882,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 27</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
@@ -1023,7 +1022,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 46</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
@@ -1055,7 +1054,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 57</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
@@ -1086,7 +1085,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 43</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 58</li>
@@ -1145,7 +1144,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 45</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
@@ -1168,9 +1167,8 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 1</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 7</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 8</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 9</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 41</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 46</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 48</li>
@@ -1202,7 +1200,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 41</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 41</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
@@ -1276,7 +1274,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 7</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 23</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 24</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 25</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 55</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 71</li>
@@ -1307,7 +1305,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 37</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
@@ -1319,12 +1317,14 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/242fc565375748c48c10ca9122ce6160.png" alt="Cover for Dustin Lynch" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-21</td>
       <td>Dustin Lynch</td>
       <td>Dustin Lynch</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
@@ -1363,7 +1363,7 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 8</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 22</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 24</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 48</li>
@@ -1422,7 +1422,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 36</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
@@ -1480,7 +1480,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 61</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
@@ -1541,6 +1541,7 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a224316aced7fcbe70b857dd8089c077.png" alt="Cover for Bitchcraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-10</td>
       <td>Blood on the Dance Floor</td>
@@ -1593,7 +1594,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -1609,7 +1609,6 @@ This tag represents music created by or associated with artists who identify out
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 77</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 86</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 87</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 91</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
         </ul>
       </td>
@@ -1637,7 +1636,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 2</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 5</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 6</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 20</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 39</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 61</li>
@@ -1655,7 +1654,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -1667,7 +1665,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 13</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 79</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 90</li>
         </ul>
       </td>
@@ -1683,7 +1680,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -1696,7 +1692,6 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 21</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 79</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1719,7 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/IJ73A6vnAql-ZsxoEN3Ya53w_cCcMRfgIfKd-iIPb9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDIw/NjktMTQ4MjQwMDg5/MS00NDE0LmpwZWc.jpeg" alt="Cover for business casual" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/badd2e50ccf678ad1476b25089d4c5f1.png" alt="Cover for business casual" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Rubyred</td>
@@ -1741,7 +1736,7 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 4</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1798,7 +1793,7 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 10</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 23</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 24</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 47</li>
@@ -1822,12 +1817,12 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 82</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 86</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 89</li>
-            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 91</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 91</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 95</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
         </ul>
       </td>
@@ -1884,7 +1879,7 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 3</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 4</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 13</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 37</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 63</li>
@@ -1971,7 +1966,7 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 2</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 17</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
@@ -1996,7 +1991,7 @@ This tag represents music created by or associated with artists who identify out
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 6</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 20</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 23</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
@@ -2028,7 +2023,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 28</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
@@ -2061,7 +2056,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 51</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 65</li>
@@ -2117,7 +2112,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 35</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 51</li>
@@ -2150,7 +2145,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 55</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 59</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
@@ -2182,7 +2177,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 64</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 74</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
@@ -2242,7 +2237,7 @@ This tag represents music created by or associated with artists who identify out
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
         </ul>
       </td>
@@ -2357,7 +2352,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 49</li>
@@ -2426,7 +2421,6 @@ This tag represents music created by or associated with artists who identify out
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2438,7 +2432,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 8</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 75</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 95</li>
         </ul>
       </td>
@@ -2454,7 +2447,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2466,7 +2458,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 9</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 76</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 94</li>
         </ul>
       </td>
@@ -2511,7 +2502,6 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a></li>
@@ -2527,7 +2517,6 @@ This tag represents music created by or associated with artists who identify out
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 64</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 82</li>
-            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 90</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
         </ul>
       </td>
@@ -2582,8 +2571,8 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 45</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 70</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 82</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 85</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
@@ -2640,7 +2629,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 4</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 16</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 75</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
@@ -2671,9 +2660,9 @@ This tag represents music created by or associated with artists who identify out
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 6</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 14</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 5</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 15</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 15</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 24</li>
             <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 45</li>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 56</li>
@@ -2704,8 +2693,8 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 32</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
@@ -2737,7 +2726,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 38</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 39</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
             <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 55</li>
@@ -2770,7 +2759,7 @@ This tag represents music created by or associated with artists who identify out
       <td>
         <ul>
             <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 54</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
             <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
@@ -2782,7 +2771,7 @@ This tag represents music created by or associated with artists who identify out
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/JUb5xhxgaE9KCqOJIKacvqWznwRTJ3ZdozSC_mnF88g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU4/MDk1LTE1ODc0Mjgz/NTMtNTkzMC5qcGVn.jpeg" alt="Cover for Me Redesenho" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f11870b132bb51ec5b391d14ce7c367.png" alt="Cover for Me Redesenho" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-24</td>
       <td>Numa Gama</td>
@@ -2886,10 +2875,10 @@ This tag represents music created by or associated with artists who identify out
 - [sjw]({{ "/tags/sjw" | relative_url }})
 - [queercore]({{ "/tags/queercore" | relative_url }})
 - [racist country]({{ "/tags/racist-country" | relative_url }})
-- [queer metal]({{ "/tags/queer-metal" | relative_url }})
 - [genderqueer]({{ "/tags/genderqueer" | relative_url }})
+- [queer metal]({{ "/tags/queer-metal" | relative_url }})
 - [country rap]({{ "/tags/country-rap" | relative_url }})
 - [bro-country]({{ "/tags/bro-country" | relative_url }})
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
 - [nsbm]({{ "/tags/nsbm" | relative_url }})
-- [neoliberal]({{ "/tags/neoliberal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

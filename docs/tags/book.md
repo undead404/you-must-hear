@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T04:04:00.010Z
+date: 2025-12-03T03:28:16.178Z
 permalink: tags/book
 title: book
 ---
 
 ## book
 
-Last updated: <time datetime="2025-10-23T04:04:00.010Z">Thu Oct 23 2025 07:04:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T03:28:16.178Z">Wed Dec 03 2025 05:28:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -123,6 +123,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2cf667aacc8e8b64e0de3ba5dd42dac.png" alt="Cover for Souviens-toi de m&#39;oublier" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Catherine Deneuve</td>
@@ -146,7 +147,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 45</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +253,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 40</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -299,7 +300,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 8</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +337,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 20</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +498,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 16</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +528,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 20</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +663,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 25</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -757,7 +758,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 37</li>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 54</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -781,7 +782,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -803,6 +804,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -906,7 +908,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 49</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1019,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 72</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 79</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 85</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1076,7 +1078,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 64</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1142,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 17</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 55</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1168,7 +1170,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/GfuH4m7PBHuex5bHXa7iJenfJ1pUF-5fg4LuGrwOxRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODg2/NTktMTQwODE5Mzg1/Ni01ODIwLmpwZWc.jpeg" alt="Cover for Wildwood Flower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdbee472b42d278ab59fc4d5710ced97.png" alt="Cover for Wildwood Flower" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>The Carter Family</td>
@@ -1207,7 +1209,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 6</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 7</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 60</li>
         </ul>
       </td>
@@ -1234,7 +1236,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 15</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 16</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 63</li>
         </ul>
       </td>
@@ -1302,9 +1304,9 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 13</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 66</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 70</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 79</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 68</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 72</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1336,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 2</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1439,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/6YpcJljLepSKxs0qrbYfUSwi9aJzLWdjKhHR1Ozmmhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzkz/ODMtMTI4NjU1NTAw/My5qcGVn.jpeg" alt="Cover for Hang With Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f136c8e36e485ca3bb2fd25baf23ed.png" alt="Cover for Hang With Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-09</td>
       <td>Robyn</td>
@@ -1471,7 +1473,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 46</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1540,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 29</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 36</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 83</li>
         </ul>
       </td>
@@ -1546,32 +1548,22 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/C_HgMEbqZ4Xkr7KSNxoQEDHkvKxzYM4_v6dJGsHI65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg1/MTctMTM0NDQ0NTk5/Ni00NjAzLmpwZWc.jpeg" alt="Cover for Forever EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7d52c58d1014adfa8e1a9825fd98a7a.png" alt="Cover for Forever EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>HAIM</td>
       <td>Forever EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/book" | relative_url }}">book</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 34</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 59</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 94</li>
             <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 100</li>
         </ul>
       </td>
@@ -1721,7 +1713,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 3</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1835,7 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 31</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1904,8 +1896,8 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 57</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2028,8 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 1</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 59</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 2</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2229,26 +2221,6 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
         </ul>
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td>
-      </td>
-      <td></td>
-      <td>Robyn</td>
-      <td>Body Talk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -2263,4 +2235,4 @@ I don&#39;t believe &quot;book&quot; is an established music genre. The artists 
 - [rock]({{ "/tags/rock" | relative_url }})
 - [ccm]({{ "/tags/ccm" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
-- [folk]({{ "/tags/folk" | relative_url }})
+- [woman]({{ "/tags/woman" | relative_url }})

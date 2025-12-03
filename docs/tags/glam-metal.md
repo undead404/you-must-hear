@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:14:19.968Z
+date: 2025-12-03T03:24:57.859Z
 permalink: tags/glam-metal
 title: glam metal
 ---
 
 ## glam metal
 
-Last updated: <time datetime="2025-11-26T02:14:19.968Z">Wed Nov 26 2025 04:14:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:24:57.859Z">Wed Dec 03 2025 05:24:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -325,7 +325,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 47</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 56</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +625,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 83</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +929,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 24</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 47</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
         </ul>
@@ -1331,7 +1331,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 2</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 3</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 89</li>
             <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 93</li>
         </ul>
@@ -1472,7 +1472,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 14</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1585,6 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -1602,24 +1601,23 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 12</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 13</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 52</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 68</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 71</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
@@ -1689,7 +1687,7 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/W81VvSN5tGduZgvqeKgno1x55FwFJ-W7bQmqoLCH5ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjE2/NzItMTYwNDYxNTI1/NS05MTA5LmpwZWc.jpeg" alt="Cover for Young &amp; Reckless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57127b7bfdb155bc243675fc85abe8bb.png" alt="Cover for Young &amp; Reckless" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-09</td>
       <td>Dirty Penny</td>
@@ -1722,10 +1720,10 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 63</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 87</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1751,23 +1749,22 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
         <ul>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 21</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 82</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
@@ -1830,16 +1827,16 @@ Glam metal is a subgenre of heavy metal and hard rock that emerged in the late 1
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 9</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 51</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 91</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
         </ul>
       </td>

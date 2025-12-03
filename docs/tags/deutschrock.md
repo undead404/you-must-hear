@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T16:37:08.631Z
+date: 2025-12-03T03:27:34.433Z
 permalink: tags/deutschrock
 title: deutschrock
 ---
 
 ## deutschrock
 
-Last updated: <time datetime="2025-11-13T16:37:08.631Z">Thu Nov 13 2025 18:37:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:27:34.433Z">Wed Dec 03 2025 05:27:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,10 +67,11 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 5</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 33</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 36</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 36</li>
-            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 36</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +690,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 11</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +932,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 93</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +971,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 12</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 20</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 56</li>
         </ul>
       </td>
@@ -1191,7 +1192,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 33</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1563,8 +1564,9 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 3</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 39</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
@@ -1724,10 +1726,10 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
             <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 78</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
@@ -1876,7 +1878,7 @@ Deutschrock is German-language rock music that emerged in the 1980s, blending pu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 71</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 72</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 86</li>
         </ul>
       </td>

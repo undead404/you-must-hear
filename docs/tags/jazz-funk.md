@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:59:48.179Z
+date: 2025-12-03T03:25:46.744Z
 permalink: tags/jazz-funk
 title: jazz-funk
 ---
 
 ## jazz-funk
 
-Last updated: <time datetime="2025-11-23T02:59:48.179Z">Sun Nov 23 2025 04:59:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T03:25:46.744Z">Wed Dec 03 2025 05:25:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 88</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 90</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 88</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 95</li>
         </ul>
       </td>
@@ -234,7 +234,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 48</li>
             <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
         </ul>
       </td>
@@ -304,7 +304,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 56</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
@@ -330,8 +330,8 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 6</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 5</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 25</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 73</li>
         </ul>
       </td>
@@ -433,7 +433,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 44</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
             <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
@@ -678,8 +678,8 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 84</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 92</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -892,7 +892,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 72</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 78</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1202,9 +1202,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 73</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 89</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 90</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 99</li>
         </ul>
       </td>
@@ -1298,7 +1298,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 54</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1382,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1478,9 +1478,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 7</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 18</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1552,16 +1552,12 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 63</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
         </ul>
       </td>
@@ -1586,7 +1582,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1647,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1739,8 +1735,8 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 72</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
@@ -1824,7 +1820,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 41</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 46</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 96</li>
         </ul>
@@ -1872,7 +1868,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
         <ul>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 52</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 74</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1974,7 +1970,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +1992,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 54</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 56</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 59</li>
         </ul>
       </td>
@@ -2023,7 +2019,7 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 47</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 48</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 73</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 94</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 95</li>
             <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 99</li>
         </ul>
       </td>
@@ -2070,9 +2066,9 @@ Jazz-funk emerged in the late 1960s, blending jazz improvisation with funk&#39;s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 67</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 27</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 70</li>
         </ul>
       </td>
     </tr>
