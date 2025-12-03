@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:08:58.207Z
+date: 2025-12-03T12:21:39.414Z
 permalink: tags/blackened-thrash-metal
 title: blackened thrash metal
 ---
 
 ## blackened thrash metal
 
-Last updated: <time datetime="2025-11-23T10:08:58.207Z">Sun Nov 23 2025 12:08:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:21:39.414Z">Wed Dec 03 2025 14:21:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,8 +65,8 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 43</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 51</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -143,9 +143,9 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 7</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 79</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1058,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/OXP3aGXSCGNjT0HDnaEAbgl1-z4XmSGmRLgMHROWDm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTUx/NTAtMTMxNjQ3MTQy/MC5qcGVn.jpeg" alt="Cover for Helvitismyrkr" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3f7eabcf1b43b880d691aee5cd1ed3.png" alt="Cover for Helvitismyrkr" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Arckanum</td>
@@ -1318,7 +1318,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 35</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1569,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 80</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 82</li>
             <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 97</li>
         </ul>
       </td>
@@ -1687,7 +1687,7 @@ Blackened thrash metal fuses the aggressive speed and riffs of thrash metal with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 49</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 51</li>
             <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 98</li>
         </ul>
       </td>

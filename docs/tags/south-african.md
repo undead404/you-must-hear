@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:34:02.215Z
+date: 2025-12-03T12:31:40.025Z
 permalink: tags/south-african
 title: south african
 ---
 
 ## south african
 
-Last updated: <time datetime="2025-11-03T06:34:02.215Z">Mon Nov 03 2025 08:34:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:31:40.025Z">Wed Dec 03 2025 14:31:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,6 +50,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8474d6c04dbb4a568002b8065e2d29db.png" alt="Cover for Africa She Too Can Cry" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Hawk</td>
@@ -364,7 +365,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/WU7CZ3GTL_5WSIUZIAc6th56rkLkQSWTKXJ8VsFj6So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/NC0xMTgwNjk1MDM3/LmpwZWc.jpeg" alt="Cover for Conspiracy to Dance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/548af15079354c909ae1612536402dda.png" alt="Cover for Conspiracy to Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Urban Hype</td>
@@ -424,7 +425,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/8Rkvw1FAZd7fpipJnng4e6vF6Hcd0BzCcPadNn--EE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzIz/MDQtMTUyNzYxNDE0/OC01ODk3LmpwZWc.jpeg" alt="Cover for Forthcoming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28de12a18d54c3483eee8c6d1cf01f2.png" alt="Cover for Forthcoming" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Agro</td>
@@ -495,7 +496,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 97</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +568,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 45</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +591,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 10</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +649,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 35</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -710,6 +711,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a59e4d2c17ae4b909b32e037c388e196.png" alt="Cover for True Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Dan Patlansky</td>
@@ -799,7 +801,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 44</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +840,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 64</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1090,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/-HAbTSxW0OdU66khN5kBHe6rN5huhoi2V0OZczXcmvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzM3/MDAtMTQzOTEzODM4/NC03NTQ4LmpwZWc.jpeg" alt="Cover for Albinobeach EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eade1849ae089089db8b20a58a747d11.png" alt="Cover for Albinobeach EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-20</td>
       <td>Albinobeach</td>
@@ -1113,20 +1115,17 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32831451df223fffff21fb11497c0779.png" alt="Cover for Perceptions Of Pacha" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-01</td>
       <td>Goldfish</td>
       <td>Perceptions Of Pacha</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/south-african" | relative_url }}">south african</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1156,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/ntUTZ4IRd_xuJQvgzmOfGgM2kIZWy9RVffWwUA7m17Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/OTk0LTE1NjExMTYz/ODktMjE1NC5qcGVn.jpeg" alt="Cover for Act of Goat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccef47f2523c44b891b6cdfb75f0d56e.png" alt="Cover for Act of Goat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Juggernaught</td>
@@ -1172,7 +1171,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1193,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 41</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1219,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/ce04i0Np5AH4RJ0dEKYkOQ2t_e5_xw8HQuD0aqIXMNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg1/OTAtMTI5NzAzNzM1/NS5qcGVn.jpeg" alt="Cover for N3X+" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cc3dad0b86d2f3f4bc550e403029291.png" alt="Cover for N3X+" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Qkumba Zoo</td>
@@ -1231,24 +1230,6 @@ South African music encompasses a diverse range of sounds from traditional chora
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/south-african" | relative_url }}">south african</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d96b328c59340178c169b38f4c6bb59.png" alt="Cover for Move My Soul" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Dan Patlansky</td>
-      <td>Move My Soul</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
       <td>
@@ -1268,6 +1249,23 @@ South African music encompasses a diverse range of sounds from traditional chora
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/south-african" | relative_url }}">south african</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d96b328c59340178c169b38f4c6bb59.png" alt="Cover for Move My Soul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Dan Patlansky</td>
+      <td>Move My Soul</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -1330,14 +1328,14 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 42</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/lXEHJUso9m3Et0gtkPuOnihkerBdLqRHaM1ClpN-uS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzg2/NjgtMTQ4NzE1Mjcz/MC0xMjk5LmpwZWc.jpeg" alt="Cover for Standing at the Station" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05a2b2b017cd4d9e860533d2cc5edc33.png" alt="Cover for Standing at the Station" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Dan Patlansky</td>
@@ -1358,7 +1356,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/aAKri0HsPup3X0z1Z6zuhNjy_DjL5gkFqIrftbzn0n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDcy/MjItMTQ4MDQzOTEz/Ni0zODAyLmpwZWc.jpeg" alt="Cover for The Rude Mechanical" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf73b8a286794060aa06869ef9a28089.png" alt="Cover for The Rude Mechanical" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Wrestlerish</td>
@@ -1412,7 +1410,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 80</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1438,6 +1436,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5fa3790a6141e6e8fa3dd8113b27ef7.png" alt="Cover for Architects of Sadism" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-28</td>
       <td>A Walk With the Wicked</td>
@@ -1456,7 +1455,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       <td>
         <ul>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 18</li>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 36</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1482,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/JjU3wRMQWAfovHc3oas5TPg5cbi6shYhsLWdlT3spcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/MDAwLTE1MjExMzM4/MTYtODczNy5qcGVn.jpeg" alt="Cover for Fokofpolisiekar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32f88de250264e05cee461d81c51ba55.png" alt="Cover for Fokofpolisiekar" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Fokofpolisiekar</td>
@@ -1503,6 +1502,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ffedec608484b43cb7819906816ffaa.png" alt="Cover for Su Casa" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-16</td>
       <td>Mi Casa</td>
@@ -1523,7 +1523,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/Ch_VEZDc34L5CTSEF5obxHfcdGGOWgZWkIK8O604k9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzE0/MDctMTM4ODIzOTg3/MC00ODA3LmpwZWc.jpeg" alt="Cover for History Repeats Itself" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd7adf9cff50fe2805cf9e5080f57c06.png" alt="Cover for History Repeats Itself" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-28</td>
       <td>Arx</td>
@@ -1563,7 +1563,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/mS_zR4INbglsnOQrgrxEwzIPcgsYDYSCUU7hw4SiVvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDgx/MDgtMTQ2MTc5NDA2/Ni05Mjc5LmpwZWc.jpeg" alt="Cover for The Speed of Dark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df3f83a2c0f848d7c8d454d9878d97af.png" alt="Cover for The Speed of Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Pestroy</td>
@@ -1596,7 +1596,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 100</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1626,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/K7xYacjFpQQQDftm0FroJ-cCsHYD6h0Lx1iDDVFLF0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/MzkyLTE1NTE3MTU4/NzUtMzMwOC5qcGVn.jpeg" alt="Cover for Your Mind Is A Picture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/506a388cde081eb03781ecec6175aeac.png" alt="Cover for Your Mind Is A Picture" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Sean Koch</td>
@@ -1687,7 +1687,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/oAqBiBRi4GVa0RhGN6XxwLx-OjFFUjNGvuKzqAg7Obo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODU3/MjcyLTE2MjE4MzUx/MTEtNTQ3OC5qcGVn.jpeg" alt="Cover for The Country Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a1e4540b52536711438a3292be8ac5d.png" alt="Cover for The Country Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Steve Hofmeyr</td>
@@ -1706,7 +1706,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/1oI0aOI48pm93XONBjlvR6kYrN9yc8g1_7z4mdAxvTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkz/NjYzLTE1NTk1ODcw/OTctMjQ4NS5wbmc.jpeg" alt="Cover for She&#39;s A Witch - Tikoloshi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b729d13c3e18cb6539cd2d5df1ef25.png" alt="Cover for She&#39;s A Witch - Tikoloshi" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>The Bees</td>
@@ -1810,7 +1810,7 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 20</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1830,13 +1830,14 @@ South African music encompasses a diverse range of sounds from traditional chora
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 85</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197e684b68f442c9a54c37771960e17c.png" alt="Cover for The Black Tape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Koos</td>
@@ -1856,6 +1857,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed8bc86565f4779ac28b775a0fc6968.png" alt="Cover for Hidden tracks (en andere)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kabaal (klankbaan)</td>
@@ -1918,6 +1920,7 @@ South African music encompasses a diverse range of sounds from traditional chora
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3396462c398ef427c03ae07e7e1f9d72.png" alt="Cover for 3T" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>YoungstaCPT</td>

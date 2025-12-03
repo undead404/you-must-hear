@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T18:01:49.354Z
+date: 2025-12-03T12:05:26.079Z
 permalink: tags/art-rock
 title: art rock
 ---
 
 ## art rock
 
-Last updated: <time datetime="2025-11-24T18:01:49.354Z">Mon Nov 24 2025 20:01:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:05:26.079Z">Wed Dec 03 2025 14:05:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,8 +44,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 43</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 92</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 44</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -65,9 +65,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 28</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 34</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 35</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 68</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 51</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 77</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -262,12 +262,11 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 66</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -284,8 +283,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 4</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 34</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -303,7 +302,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 12</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +413,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 16</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -505,8 +504,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 84</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 89</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 90</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 95</li>
         </ul>
       </td>
@@ -562,11 +561,11 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 10</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 43</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 90</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -589,9 +588,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 68</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 76</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 88</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 97</li>
         </ul>
       </td>
@@ -632,8 +631,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 8</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 15</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +670,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 96</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -743,8 +742,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 45</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 10</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 47</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 99</li>
         </ul>
       </td>
@@ -783,9 +782,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 86</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +806,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 30</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 42</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 64</li>
         </ul>
       </td>
@@ -828,8 +827,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
         </ul>
       </td>
@@ -875,9 +874,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 7</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 99</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 2</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 8</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +915,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -971,9 +970,10 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 5</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 10</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
             <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 82</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1011,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 100</li>
         </ul>
       </td>
@@ -1034,7 +1034,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 55</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1130,11 +1130,11 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 24</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 73</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 94</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1156,8 +1156,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 20</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 39</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1342,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 75</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1361,10 +1361,11 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 37</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 75</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 64</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 80</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1400,8 +1401,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 26</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 74</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 27</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1497,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 16</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 81</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 20</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1518,10 +1519,10 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 59</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 65</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 84</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 73</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 85</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
         </ul>
       </td>
@@ -1540,7 +1541,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 20</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1559,8 +1560,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 14</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1620,8 +1621,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 3</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 90</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 2</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1640,8 +1641,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 65</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 90</li>
         </ul>
       </td>
@@ -1697,12 +1698,12 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 19</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 27</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 73</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 77</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1763,7 +1764,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 36</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1781,8 +1782,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 51</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 92</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 7</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1803,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
         <ul>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 55</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1820,11 +1821,11 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 23</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 51</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 82</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 18</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 37</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
@@ -1834,7 +1835,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ff72ea2767e7a16bdd44e667fe0216d.png" alt="Cover for Adderall" style="max-width:120px; height:auto;" />
       </td>
-      <td>2023-05-26</td>
+      <td>2023-06-09</td>
       <td>Slipknot</td>
       <td>Adderall</td>
       <td>
@@ -1846,7 +1847,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1866,8 +1867,8 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 74</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 84</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 16</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1906,9 +1907,9 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 7</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 27</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 76</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 94</li>
         </ul>
       </td>
@@ -1948,7 +1949,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 41</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1968,7 +1969,7 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 44</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 57</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 94</li>
         </ul>
@@ -2005,5 +2006,5 @@ Art rock is a subgenre of rock music that emphasizes artistic and conceptual ele
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
 - [post-rock]({{ "/tags/post-rock" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})
-- [experimental rock]({{ "/tags/experimental-rock" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [experimental rock]({{ "/tags/experimental-rock" | relative_url }})

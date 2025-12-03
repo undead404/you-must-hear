@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:27:03.282Z
+date: 2025-12-03T12:31:34.721Z
 permalink: tags/solo-piano
 title: solo piano
 ---
 
 ## solo piano
 
-Last updated: <time datetime="2025-10-20T04:27:03.282Z">Mon Oct 20 2025 07:27:03 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T12:31:34.721Z">Wed Dec 03 2025 14:31:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -53,6 +53,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff13d72a507e477d9d3aa84aae9b2665.png" alt="Cover for Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Bill Evans</td>
@@ -65,7 +66,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -147,8 +148,8 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 24</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 73</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -488,6 +489,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17b5d44800d72e7c307bcd18951d9288.png" alt="Cover for Eden Roc" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Ludovico Einaudi</td>
@@ -499,7 +501,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 31</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -618,6 +620,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/620376306e94e4eade32cc9a1d9999ca.png" alt="Cover for Piano Landscapes v.3" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Jon Dahlander</td>
@@ -729,7 +732,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/tzdBD2caaKrdyjrCkJqZ4yL8yW3SIJ9cKppZuO4oJxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcx/NjA5LTE2NDEwOTYz/MzktMTgxNy5qcGVn.jpeg" alt="Cover for At Peace - solo piano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb90f30349ad4bf8afafb95a02407caa.png" alt="Cover for At Peace - solo piano" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Joe Bongiorno</td>
@@ -766,7 +769,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/sBaMyqp-5CEPHxv5D9wRy6rN60qP9-nR2-E6AtIp4G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzky/MDAtMTQyOTAxNzU4/MC0xODI2LmpwZWc.jpeg" alt="Cover for Piano For The Third Ear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb63a266cbaf7ba58f36f4163aa7cef.png" alt="Cover for Piano For The Third Ear" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Cyrille Verdeaux</td>
@@ -789,6 +792,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/135d94d04a8d3fe62c27fd907b5aced8.png" alt="Cover for All by Hisself: Live at the Lonestar" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Dr. John</td>
@@ -846,7 +850,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/awRBUaCPKocQZwSpVm0JpEEnrqF1EeYslQmfgBr_5Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDkx/OS0xNTI1NDgyODY5/LTIwMTguanBlZw.jpeg" alt="Cover for Live In Tokyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/808565a1e4c64695aa7688f8d9568857.png" alt="Cover for Live In Tokyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-14</td>
       <td>Brad Mehldau</td>
@@ -859,7 +863,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -886,6 +890,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f7392855d81483f86aebc49d9aa5e58.png" alt="Cover for No Concept" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Giovanni Allevi</td>
@@ -918,8 +923,8 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 8</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 39</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 57</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1044,9 +1049,9 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 7</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 67</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 73</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1091,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 40</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1169,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 73</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1216,12 +1221,12 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 19</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 5</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 79</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 81</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 86</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1418,7 +1423,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 92</li>
         </ul>
       </td>
@@ -1464,7 +1469,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/sIG6oHuvaL8bhmsWeKsgNkp7EsTFVGsjaqDA1BWkPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc2/OTAtMTI4ODM2MTg3/NC5qcGVn.jpeg" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70ac3e4e4bb946e7b818aa8eaac33180.png" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Clem Leek</td>
@@ -1482,14 +1487,14 @@ Solo piano features a single pianist performing without accompaniment, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 75</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1596,7 @@ Solo piano features a single pianist performing without accompaniment, creating 
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Endless Melancholy</td>
@@ -1627,13 +1632,13 @@ Solo piano features a single pianist performing without accompaniment, creating 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 58</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 71</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
             <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
         </ul>
       </td>
