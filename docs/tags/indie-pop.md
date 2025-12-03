@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:48:38.058Z
+date: 2025-12-03T13:50:57.867Z
 permalink: tags/indie-pop
 title: indie pop
 ---
 
 ## indie pop
 
-Last updated: <time datetime="2025-11-26T04:48:38.058Z">Wed Nov 26 2025 06:48:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T13:50:57.867Z">Wed Dec 03 2025 15:50:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,10 +49,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -150,7 +150,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
@@ -177,7 +177,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 26</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -196,11 +196,11 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
         </ul>
       </td>
@@ -304,8 +304,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 27</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 68</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 69</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 82</li>
         </ul>
       </td>
@@ -362,8 +362,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 13</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +421,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +460,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 55</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 62</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
         </ul>
       </td>
@@ -481,9 +481,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 20</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 12</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 73</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 89</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -545,11 +545,11 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       <td>
         <ul>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 10</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 12</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 21</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 30</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 70</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -603,8 +603,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 59</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -622,8 +622,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
         </ul>
@@ -645,7 +645,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 80</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 21</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 100</li>
         </ul>
       </td>
@@ -837,10 +837,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 2</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 39</li>
             <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 92</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 99</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 99</li>
         </ul>
       </td>
@@ -865,8 +865,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 59</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 91</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 96</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 99</li>
         </ul>
@@ -889,10 +889,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
@@ -949,8 +949,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 25</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 36</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1054,8 +1054,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 18</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 75</li>
         </ul>
       </td>
@@ -1077,7 +1077,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 25</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 87</li>
         </ul>
       </td>
@@ -1174,6 +1174,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 42</li>
         </ul>
       </td>
@@ -1197,8 +1198,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 60</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 55</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 61</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 89</li>
         </ul>
       </td>
@@ -1219,7 +1220,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 88</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1238,9 +1239,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 20</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1282,7 +1283,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 29</li>
             <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 95</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 100</li>
@@ -1304,7 +1305,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 100</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1324,7 +1325,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 78</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1343,8 +1344,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 50</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 33</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1366,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 67</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1386,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 97</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 98</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1442,8 +1443,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 100</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1461,8 +1462,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 6</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 90</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 95</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 98</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 100</li>
         </ul>
@@ -1502,7 +1503,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 84</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 85</li>
         </ul>
       </td>
@@ -1527,9 +1528,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 92</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 96</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 99</li>
         </ul>
       </td>
@@ -1552,8 +1553,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 9</li>
             <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 91</li>
             <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 98</li>
         </ul>
       </td>
@@ -1577,10 +1578,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 17</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 49</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 53</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 84</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 54</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 95</li>
         </ul>
       </td>
@@ -1604,10 +1605,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 1</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 1</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 1</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 99</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 100</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 100</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1651,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 43</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 47</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 72</li>
         </ul>
       </td>
@@ -1670,7 +1671,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 86</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1691,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1708,8 +1709,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 47</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 58</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 43</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 54</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 78</li>
         </ul>
       </td>
@@ -1731,8 +1732,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 72</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 29</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1833,9 +1834,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 58</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 93</li>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 99</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
@@ -1860,9 +1861,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 63</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 15</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 65</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 80</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 85</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 91</li>
         </ul>
       </td>
@@ -1881,7 +1882,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 95</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1904,10 +1905,10 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 1</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 98</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 98</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 100</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 100</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1947,9 +1948,9 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 1</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 97</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1970,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 78</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1989,7 +1990,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 67</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2010,8 +2011,8 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 98</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 99</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2030,7 +2031,7 @@ Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
         </ul>
       </td>
     </tr>

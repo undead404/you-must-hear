@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:12:18.010Z
+date: 2025-12-03T14:49:58.432Z
 permalink: tags/progressive-rock
 title: progressive rock
 ---
 
 ## progressive rock
 
-Last updated: <time datetime="2025-11-23T10:12:18.010Z">Sun Nov 23 2025 12:12:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T14:49:58.432Z">Wed Dec 03 2025 16:49:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 83</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +63,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 65</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +153,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 87</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +262,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 15</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -316,7 +316,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 72</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -372,7 +372,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 74</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 56</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -408,8 +408,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 66</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 97</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 4</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -558,7 +558,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 5</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +577,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 74</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -596,7 +596,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 70</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -615,7 +615,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 62</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 59</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -710,7 +710,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 81</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +765,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 39</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -841,11 +841,11 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 9</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 10</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 11</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 87</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 90</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 91</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -868,10 +868,10 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 76</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 87</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 88</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 96</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 14</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +890,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1002,7 +1003,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1021,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1039,8 +1040,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 50</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 3</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1098,7 +1099,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 28</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 34</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1117,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1154,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1177,11 +1178,11 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 71</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 100</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 1</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 30</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1257,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1276,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1294,7 +1295,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1315,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1459,7 +1460,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1513,8 +1514,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 12</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 2</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1534,8 +1535,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 19</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 78</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 85</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 95</li>
         </ul>
       </td>
@@ -1554,7 +1555,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1592,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 17</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1646,30 +1647,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e0eb295310209bd9b9271092460187.png" alt="Cover for The Foundations of Decay" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>My Chemical Romance</td>
-      <td>The Foundations of Decay</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 58</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1669,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 69</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1689,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 88</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 96</li>
         </ul>
@@ -1751,7 +1729,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 84</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1845,12 +1823,35 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 5</li>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 75</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 77</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 82</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 19</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 80</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 88</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 94</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e0eb295310209bd9b9271092460187.png" alt="Cover for The Foundations of Decay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-12</td>
+      <td>My Chemical Romance</td>
+      <td>The Foundations of Decay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 40</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1870,12 +1871,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 46</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 53</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 70</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 54</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 58</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 84</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1895,9 +1896,9 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 44</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 93</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 57</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 57</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 94</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T18:51:38.009Z
+date: 2025-12-03T13:51:36.180Z
 permalink: tags/british
 title: british
 ---
 
 ## british
 
-Last updated: <time datetime="2025-11-24T18:51:38.009Z">Mon Nov 24 2025 20:51:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T13:51:36.180Z">Wed Dec 03 2025 15:51:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
   </thead>
   <tbody>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ab261d7da8374c8afb0834228491969.png" alt="Cover for Your City Gave Me Asthma" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f53795b2b0c428ea599dd9a8b337382a.png" alt="Cover for The Kinks Are the Village Green Preservation Society" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f220a1afd589a02b37f2592bf0b0898b.png" alt="Cover for Elton John" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0a0029c26ff3c4bdb69f3ba3bdea618.png" alt="Cover for Electra Heart (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -107,15 +107,15 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9e95df14f0a81d2df198e182c27b10.png" alt="Cover for Ladies &amp; Gentlemen" style="max-width:120px; height:auto;" />
       </td>
@@ -135,7 +135,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1795412592fe11f22c78aefb2e60beb9.png" alt="Cover for Hatful of Hollow" style="max-width:120px; height:auto;" />
       </td>
@@ -148,36 +148,15 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2269d19214f35168b3a325fca4f07240.png" alt="Cover for No Jacket Required (2016 Remaster)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>Phil Collins</td>
-      <td>No Jacket Required (2016 Remaster)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/827fbd1bac1d3ed232ec6c95a2526139.png" alt="Cover for The Queen Is Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -190,9 +169,9 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 30</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
@@ -200,7 +179,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d7e688392c1e49c2075e00786f99f84.png" alt="Cover for Hatful of Hallow" style="max-width:120px; height:auto;" />
       </td>
@@ -214,17 +193,17 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/djoyNRlOMowraKB3voOfTplHjL3WAnMmEZwg-qn1qpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTI4/LTE1MDEzNTkyNzkt/NjM0MS5qcGVn.jpeg" alt="Cover for Galore (The Singles 1987-1997)" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +223,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76ffca0fb50e04176cdb623b27e7d53.png" alt="Cover for Le Jardin de Heavenly" style="max-width:120px; height:auto;" />
       </td>
@@ -262,7 +241,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6006e5ff83244d8fba4ec1709820a6f5.png" alt="Cover for Rocket Man" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +259,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b9fa942d2c3fcbcf1d3b0fd2e799d91.png" alt="Cover for Definitely Maybe (Deluxe Edition Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -302,7 +281,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1999-08-16</td>
@@ -319,7 +298,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.png" alt="Cover for Parachutes" style="max-width:120px; height:auto;" />
       </td>
@@ -333,13 +312,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 65</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/IYk6l81XAjgWkDC8ypWQMb9Yl3h-xBTDykla_yAyUcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjQ0/NDQtMTM5NDA1NTIz/My01OTEyLmpwZWc.jpeg" alt="Cover for Green, Green Grass Of Home" style="max-width:120px; height:auto;" />
       </td>
@@ -359,7 +338,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30f7fcab9c5d4820a1857910766640c6.png" alt="Cover for Love Is Here" style="max-width:120px; height:auto;" />
       </td>
@@ -378,7 +357,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9e827adbc9d4b15beb3b69813fce527.png" alt="Cover for Escapology" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +375,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c5de980e224db7990e2d60d39957ed.png" alt="Cover for Tattoo You (2009 Re-Mastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -414,14 +393,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 35</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 70</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 89</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 12</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004</td>
@@ -438,7 +417,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bc99e626f09ad6828333b62c08dc335.png" alt="Cover for Somewhere Only We Know" style="max-width:120px; height:auto;" />
       </td>
@@ -456,7 +435,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4522f2ef36575206fd8799c5a81ae8b1.png" alt="Cover for Up All Night" style="max-width:120px; height:auto;" />
       </td>
@@ -475,7 +454,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8444c39c5728abd260684cbcef4edb04.png" alt="Cover for Unwritten" style="max-width:120px; height:auto;" />
       </td>
@@ -493,7 +472,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7fe1afb38ef73a4ab9cc819e9e8b1a.png" alt="Cover for Best of Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -512,7 +491,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ac765797b08aaa96a0c7e25795d3bf4.png" alt="Cover for Munich" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +511,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/v55K9bbAqo4zdiPAH-pbdXvnDqFbfFp1w7_M0CFmm_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTMy/NC0xNDgwMzM3NDM2/LTk4NDAuanBlZw.jpeg" alt="Cover for Who The F*** Are Arctic Monkeys?" style="max-width:120px; height:auto;" />
       </td>
@@ -551,16 +530,16 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 36</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 75</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 67</li>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cff8d461535740ecb77cb793e545c688.png" alt="Cover for The Magic Numbers" style="max-width:120px; height:auto;" />
       </td>
@@ -581,7 +560,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6550ba259337d73982d89bc93e5de2b.png" alt="Cover for Wind in the Wires" style="max-width:120px; height:auto;" />
       </td>
@@ -595,12 +574,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 93</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b130923ed70f4951b15555ce678f9a26.png" alt="Cover for Alright Still" style="max-width:120px; height:auto;" />
       </td>
@@ -620,7 +599,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png" alt="Cover for Whatever People Say I Am, That&#39;s What I&#39;m Not" style="max-width:120px; height:auto;" />
       </td>
@@ -633,14 +612,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 48</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 2</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 51</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8af5b14bdf74d15976056ad506ea4c8.png" alt="Cover for Inside In &#x2F; Inside Out" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +636,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b59b57443a634702541d8657532e43b.png" alt="Cover for Alright, Still" style="max-width:120px; height:auto;" />
       </td>
@@ -674,7 +653,24 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c4929524ed494f83a4aa3ef3a6dab0.png" alt="Cover for Razorlight" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-17</td>
+      <td>Razorlight</td>
+      <td>Razorlight</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6693ca1df1134307bd159e9cf4a90dc6.png" alt="Cover for Leave Before the Lights Come On" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +688,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e8b279da10957d060253256c8302f8f.png" alt="Cover for Back to Black" style="max-width:120px; height:auto;" />
       </td>
@@ -705,13 +701,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 75</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
       </td>
       <td>2006-11-06</td>
@@ -728,7 +724,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eae80c9e8cc4464d8f51f70ae380d6ca.png" alt="Cover for Colour It In" style="max-width:120px; height:auto;" />
       </td>
@@ -746,7 +742,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/433e64744f294d1f95a9c697ce66d023.png" alt="Cover for Toothpaste Kisses" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +761,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/js31thWpDbc_PRQv7T-xhZT6ygpoaHsVsKm3iSpJhcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzMx/MS0xMzc5NDIyNzc2/LTI0NjkuanBlZw.jpeg" alt="Cover for Unintended" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +780,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4debfeb504dc47779f0ff3df43fd9529.png" alt="Cover for Favourite Worst Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -798,13 +794,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 98</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 3</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c79c0b8e30c8039528721987d0218cc.png" alt="Cover for Made of Bricks" style="max-width:120px; height:auto;" />
       </td>
@@ -822,7 +818,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaffc8d6a1e9d2b761c7595de6b84b17.png" alt="Cover for Songs For You, Truths For Me (International Exclusive Bundle)" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +835,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a9a10b96ac70e224f67c8c41e406e7.png" alt="Cover for 19" style="max-width:120px; height:auto;" />
       </td>
@@ -853,13 +849,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 59</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 98</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 3</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/054d88071fd2b719f4f1aacca7b0c408.png" alt="Cover for Shine" style="max-width:120px; height:auto;" />
       </td>
@@ -874,14 +870,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 27</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 35</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 42</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 66</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/981259785d6c6e48da9f85b5c3c69eaf.png" alt="Cover for Konk" style="max-width:120px; height:auto;" />
       </td>
@@ -895,12 +891,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aba0fe52a686d388ae8c7e5073517f5b.png" alt="Cover for The Age of the Understatement" style="max-width:120px; height:auto;" />
       </td>
@@ -914,12 +910,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df7ea51b2826b60175d4c332e0f7b8ca.png" alt="Cover for Viva la Vida or Death and All His Friends" style="max-width:120px; height:auto;" />
       </td>
@@ -935,14 +931,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 25</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da2293b3a3c4172bcbcc7286dfa1489.png" alt="Cover for Standing Next To Me" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +958,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/672f4e21e16d443ec41cd4d8c0cc9e31.png" alt="Cover for West Ryder Pauper Lunatic Asylum" style="max-width:120px; height:auto;" />
       </td>
@@ -977,12 +973,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-05-28</td>
@@ -999,7 +995,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01109af55e654c5ba71e69d21a6e3ddd.png" alt="Cover for Sunny Side Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1018,7 +1014,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00577c6d1b7425bc26406e0169ed943.png" alt="Cover for Reservoir" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,11 +1029,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/46def4fa25d2821f092448be01e639ea.png" alt="Cover for Lungs" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,13 +1047,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 19</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b18aec1f03ced8563b9e4898740cea3.png" alt="Cover for Harry Patch (In Memory Of)" style="max-width:120px; height:auto;" />
       </td>
@@ -1075,7 +1072,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/696d1b64cd9d44bf85aad10df414e959.png" alt="Cover for xx" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,14 +1085,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 23</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 36</li>
             <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 66</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png" alt="Cover for Humbug" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,17 +1107,17 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 30</li>
             <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 42</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 55</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 71</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 57</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
             <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d014c629b28caef48063bef2e4def71.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1139,7 +1136,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc28c71d6ae34442894a65ee652e89af.png" alt="Cover for Chase the Tear" style="max-width:120px; height:auto;" />
       </td>
@@ -1157,7 +1154,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83d90bb2ac034a93ca9a7c3c04b9ad66.png" alt="Cover for Butterfly House" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,7 +1172,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80daaf62c7fbbf6ddaa143030b684e12.png" alt="Cover for Shape of You" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,15 +1190,34 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 57</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 58</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 98</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 98</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37930c31c50b4007a7e025ece697ab14.png" alt="Cover for Different Gear Still Speeding" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Beady Eye</td>
+      <td>Different Gear Still Speeding</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/icEP8Ypc_lYHNMTYwx0LAx06zL6wLBxyenpMFOCBiR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE2/NjctMTI2Nzk2MjEy/Ni5qcGVn.jpeg" alt="Cover for Galore - The Singles 1987-1997" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,26 +1237,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37930c31c50b4007a7e025ece697ab14.png" alt="Cover for Different Gear Still Speeding" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Beady Eye</td>
-      <td>Different Gear Still Speeding</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7694508c2aa520df08bb8e6248bfedf0.png" alt="Cover for 21" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,13 +1251,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 95</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 6</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/034f4f10b4d62cbb97deecf171becb04.png" alt="Cover for The Cold Still" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1276,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de2e59b91bd3482b86df6737cf9eafe7.png" alt="Cover for Build a Rocket Boys!" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1294,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011-03-14</td>
@@ -1314,7 +1311,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40d53539bbc54d23964fa01a4ea72a99.png" alt="Cover for Rearrange" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1331,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ad3c283d0b64feaa1a4e69cdb6e1a9c.png" alt="Cover for Colour Of The Trap" style="max-width:120px; height:auto;" />
       </td>
@@ -1352,7 +1349,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd11e7d7424e4d57ac2dc1b14dba757b.png" alt="Cover for Junk of the Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1369,7 +1366,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d08fbb920e514f5c893d95552379d3fc.png" alt="Cover for +" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1382,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 75</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 96</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 97</li>
@@ -1393,7 +1390,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8faaf58a491491ea00e6d3b7ac5d7db.png" alt="Cover for Suck It and See" style="max-width:120px; height:auto;" />
       </td>
@@ -1408,12 +1405,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 72</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c0848f0473106ab74d2c398464bf88e.png" alt="Cover for Birdy" style="max-width:120px; height:auto;" />
       </td>
@@ -1431,7 +1428,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d188a8fb00f34036bb5d072114c55dbb.png" alt="Cover for Jake Bugg" style="max-width:120px; height:auto;" />
       </td>
@@ -1444,12 +1441,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 54</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a701bd388c95415ac140405686cdd0af.png" alt="Cover for An Awesome Wave" style="max-width:120px; height:auto;" />
       </td>
@@ -1465,16 +1462,16 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 73</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 89</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 94</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 51</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/95efa11366be46cf9af9439ef44874ce.png" alt="Cover for Candy" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,12 +1488,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 4</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c706334ccdaf1a42c4029af89fce61d.png" alt="Cover for Anti-Social" style="max-width:120px; height:auto;" />
       </td>
@@ -1514,14 +1511,14 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 71</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 93</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4a7523820512a645304ec79e6cb85f7.png" alt="Cover for Bad Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1539,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2b77ad3a629093d1d5fa5c237831470.png" alt="Cover for Agape" style="max-width:120px; height:auto;" />
       </td>
@@ -1561,7 +1558,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f579e414e20f40969185e41182d72472.png" alt="Cover for AM" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,13 +1572,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 1</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 83</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/822c7d6cbaee5580d10830d031dae463.png" alt="Cover for Fire Within" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,7 +1597,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-12-06</td>
@@ -1616,13 +1613,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 24</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 43</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2e84b712d94940c9926dfe1dd5b7d3.png" alt="Cover for Listen" style="max-width:120px; height:auto;" />
       </td>
@@ -1640,7 +1637,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/qeHo7UzXTyhX9olXzJwGBm-9KHoYz8eB32VnKUL1jQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODcy/MzktMTQwODIyMjkw/OC02NjI4LmpwZWc.jpeg" alt="Cover for Boom Clap" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,13 +1654,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 70</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 31</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
       </td>
       <td>2014-08-26</td>
@@ -1680,7 +1677,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2014-10-12</td>
@@ -1698,7 +1695,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/22536db392e4b02c18afad418af53700.png" alt="Cover for Symphony (feat. Zara Larsson)" style="max-width:120px; height:auto;" />
       </td>
@@ -1716,15 +1713,15 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 74</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 2</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 98</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/kTs-DuNHN1A53t8oDSviFK7DJaKPB8wLj7i5qyiHGkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDM5/OTEtMTQzMjQwMzAz/Mi0yNzk5LmpwZWc.jpeg" alt="Cover for Black Magic" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1740,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d4a34802428ef2e48e4ea2fe7732df5.png" alt="Cover for Communion (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1762,7 +1759,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a322d2dca75926637e1a353eaef894c4.png" alt="Cover for White Tiger" style="max-width:120px; height:auto;" />
       </td>
@@ -1780,13 +1777,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 55</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 57</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/_Vyuvtf9bvuubDdHPwioMY75IF2r-c8gMTCyKICjPFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjA2/NDAtMTQ2NDYxMDU5/Mi01Mzk5LmpwZWc.jpeg" alt="Cover for The Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1802,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d91da671c6ade4ced52691348d2cc9.png" alt="Cover for Adventure Of A Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,15 +1820,15 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 50</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 52</li>
             <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/469b8bfe70646d02b2ccc12844930819.png" alt="Cover for Glory Days: The Platinum Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1850,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7026efe7971fba52f75e8367a261c835.png" alt="Cover for Feel Something" style="max-width:120px; height:auto;" />
       </td>
@@ -1867,12 +1864,12 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 50</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81ae959aa4bfdc1c2b2a299d3ef14c8f.png" alt="Cover for Naked" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1889,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg" alt="Cover for Girl, so confusing featuring lorde" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,10 +1902,10 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 4</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
@@ -1916,7 +1913,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c78fe1f153baf46000868e8e69f8b33c.png" alt="Cover for Speak Your Mind (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1936,7 +1933,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee4a423608fdbc937a99bc9135496f1.png" alt="Cover for Quarter Past Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1952,13 +1949,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 16</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 53</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d32d2f463418c4f086fb4ae5133f03b8.png" alt="Cover for Flamingo" style="max-width:120px; height:auto;" />
       </td>
@@ -1986,7 +1983,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26561c52f51aec10fee436811b9a22f.png" alt="Cover for Divinely Uninspired to a Hellish Extent" style="max-width:120px; height:auto;" />
       </td>
@@ -2005,7 +2002,7 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/308667102b5e8672408799b50ef4e513.png" alt="Cover for Body Paint" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,13 +2015,13 @@ British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driv
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 65</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 76</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a698df89633c0f66b70cf6bdc784073f.png" alt="Cover for Two of Us" style="max-width:120px; height:auto;" />
       </td>
