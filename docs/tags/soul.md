@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:09:59.755Z
+date: 2025-12-03T12:50:38.481Z
 permalink: tags/soul
 title: soul
 ---
 
 ## soul
 
-Last updated: <time datetime="2025-11-23T10:09:59.755Z">Sun Nov 23 2025 12:09:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:50:38.481Z">Wed Dec 03 2025 14:50:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 65</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -62,7 +62,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 2</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 71</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -155,8 +155,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 81</li>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 87</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 20</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 93</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -341,6 +341,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       <td>
         <ul>
             <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 2</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +360,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 9</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 92</li>
         </ul>
       </td>
@@ -418,9 +419,9 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 22</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 89</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 91</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
         </ul>
       </td>
@@ -540,7 +541,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 68</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 33</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 75</li>
         </ul>
       </td>
@@ -710,7 +711,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 75</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +766,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 33</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 44</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +806,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 27</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -823,8 +824,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 22</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -881,8 +882,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 3</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 81</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +940,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 26</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 27</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 59</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
         </ul>
@@ -961,7 +962,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -980,7 +981,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 43</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1020,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 79</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1059,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 11</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1100,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 82</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1135,11 +1136,11 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 4</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
-            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 16</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 73</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1159,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1177,8 +1178,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 86</li>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 99</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 2</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 14</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
         </ul>
       </td>
@@ -1197,8 +1198,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 10</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
             <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
         </ul>
       </td>
@@ -1258,10 +1259,10 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 11</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 20</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 24</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 96</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 5</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 19</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1303,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1420,7 +1421,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 96</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1464,8 +1465,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 79</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 91</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 10</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1484,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 23</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 90</li>
         </ul>
       </td>
@@ -1507,8 +1508,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 71</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 87</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 95</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 98</li>
         </ul>
@@ -1530,9 +1531,9 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 15</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 64</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 63</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1552,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 32</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1613,8 +1614,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 92</li>
             <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 100</li>
         </ul>
       </td>
@@ -1655,7 +1656,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1696,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 33</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1768,8 +1769,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 10</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 86</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1811,8 +1812,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 7</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 92</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 94</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 100</li>
         </ul>
       </td>
@@ -1853,7 +1854,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 59</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1908,7 +1909,7 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1950,8 +1951,8 @@ Soul is a music genre that emerged from African American communities in the 1950
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 10</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 13</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 28</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 44</li>
         </ul>
       </td>

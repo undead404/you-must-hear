@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:38:37.984Z
+date: 2025-12-03T12:50:35.086Z
 permalink: tags/progressive-thrash-metal
 title: progressive thrash metal
 ---
 
 ## progressive thrash metal
 
-Last updated: <time datetime="2025-11-26T04:38:37.984Z">Wed Nov 26 2025 06:38:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:50:35.086Z">Wed Dec 03 2025 14:50:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -220,8 +220,8 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 6</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 19</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +713,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 76</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1179,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1197,6 +1197,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
@@ -1210,6 +1211,7 @@ Progressive thrash metal combines the aggressive speed and intensity of thrash w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 8</li>
             <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 67</li>
             <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>

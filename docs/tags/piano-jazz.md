@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:27:22.056Z
+date: 2025-12-03T12:32:11.754Z
 permalink: tags/piano-jazz
 title: piano jazz
 ---
 
 ## piano jazz
 
-Last updated: <time datetime="2025-10-20T04:27:22.056Z">Mon Oct 20 2025 07:27:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T12:32:11.754Z">Wed Dec 03 2025 14:32:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,8 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 46</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -107,6 +108,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dfcb7eb61091d50824f85c0ff3cb93e.png" alt="Cover for Once Upon A Summertime" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>Blossom Dearie</td>
@@ -159,7 +161,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/2uQJqFp-tHHr09n3FgtQ79RH1Z_NfoS30Hz8XLL7FK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODIz/MjUtMTMyODIxMjE3/Ny5qcGVn.jpeg" alt="Cover for Undercurrent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/863196360d587dc377453c80eb5c9f68.png" alt="Cover for Undercurrent" style="max-width:120px; height:auto;" />
       </td>
       <td>1961</td>
       <td>Kenny Drew</td>
@@ -210,14 +212,14 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 40</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/4KY3SElrbnNPZJXTodbdcIuhTgqxCPrdKTS7i2vLJck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg1/MzEtMTI5NTMyOTg5/OS5qcGVn.jpeg" alt="Cover for Poinciana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a0bd96a0fcc28890dc81035bc6d1d1b.png" alt="Cover for Poinciana" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Ahmad Jamal</td>
@@ -237,6 +239,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/861822f12e98662304a6d37be1c2fc33.png" alt="Cover for Time In" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Dave Brubeck</td>
@@ -248,7 +251,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 26</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -291,15 +294,13 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/LAfzEpKJ_fXr4CeCzaEtSbzv__8AN7PIx4ZMVxwUPlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTM3/MzQtMTQxNTc3MjQ0/MC00MjI0LmpwZWc.jpeg" alt="Cover for Piano Starts Here" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35d758bf339145c28c3801edac1358bd.png" alt="Cover for Piano Starts Here" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Art Tatum</td>
       <td>Piano Starts Here</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
@@ -384,7 +385,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 88</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -406,8 +407,8 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 12</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +433,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/zTMg5U26woWwFnHHwuKQqsTGYReO7FVXe1fue9Gc0dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTA3/NC0xMjYyMTEwMTMw/LmpwZWc.jpeg" alt="Cover for Radha-Krsna Nama Sankirtana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f84dc6f99efcf4bd738eb70f2dcccaa.png" alt="Cover for Radha-Krsna Nama Sankirtana" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Alice Coltrane</td>
@@ -471,7 +472,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/m_Bz5j8GplcHLDyveGzKeLOwvVL3cGG4mR3xlyiyp-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTI5/NzYtMTMxODA0MDE2/Mi5qcGVn.jpeg" alt="Cover for The Last of the Blue Devils" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c374d7085970b3e4c9b34c7dcc4582d5.png" alt="Cover for The Last of the Blue Devils" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Jay McShann</td>
@@ -492,6 +493,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41cc11e800df970c7c4795d1a9b3801b.png" alt="Cover for My Conception" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Sonny Clark</td>
@@ -528,7 +530,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/bPMz5qjVk5nxpavZ_3B-wQ6LbsHBCHkzl03csqvgZjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc4/MjQwLTE1MjU4ODU4/MjItMjIzMS5qcGVn.jpeg" alt="Cover for I Will Say Goodbye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2aa08e30a356f5f23d715537284965a7.png" alt="Cover for I Will Say Goodbye" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Bill Evans Trio</td>
@@ -560,7 +562,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 25</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -603,6 +605,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d9c50beb425c1cee8113be73e85fa6.png" alt="Cover for Master Trio" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Tommy Flanagan</td>
@@ -616,7 +619,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 73</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -654,7 +657,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 49</li>
             <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 58</li>
         </ul>
       </td>
@@ -734,14 +737,14 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 68</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/qIHyJRoK5F9bK1ebXxgc1p40mWh5W-nOUsZSSXcXjlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjc4/OC0xNjAxNDc1NjA1/LTE0NzAuanBlZw.jpeg" alt="Cover for The Best Of Bud Powell - The Blue Note Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a674095e4a042879121345ad59fa192.png" alt="Cover for The Best Of Bud Powell - The Blue Note Years" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Bud Powell</td>
@@ -828,13 +831,14 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 28</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d11ea07b2944ac4c9f8e11818e14c8b.png" alt="Cover for Aziza Mustafa Zadeh" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Aziza Mustafa Zadeh</td>
@@ -871,6 +875,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef435f0c5c39a4b472654ba1d31cfcba.png" alt="Cover for Rendezvous" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Michel Camilo</td>
@@ -1038,6 +1043,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1595ada05b944e45aa9c716d4d577824.png" alt="Cover for Verve Jazz Masters 57" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-21</td>
       <td>George Shearing</td>
@@ -1088,7 +1094,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1356,7 +1362,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/d0tG7d9W6YXY-924zwpunoV9FsvhE2sj3jzf-uoSRtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI0/NjItMTIyMjYzODc1/NC5qcGVn.jpeg" alt="Cover for The Definitive Art Tatum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d2a7528628c4deba509b390c8503c0f.png" alt="Cover for The Definitive Art Tatum" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-24</td>
       <td>Art Tatum</td>
@@ -1388,7 +1394,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 93</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1432,6 +1438,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/208cf420744b4dcc85865eba281a943f.png" alt="Cover for Changing Places" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-17</td>
       <td>Tord Gustavsen Trio</td>
@@ -1443,7 +1450,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 59</li>
             <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 85</li>
         </ul>
       </td>
@@ -1464,7 +1471,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1531,6 +1538,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f0538cd421845eda2a26d3fa74c45c9.png" alt="Cover for Viaticum" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-26</td>
       <td>Esbjörn Svensson Trio</td>
@@ -1538,13 +1546,12 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 36</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 78</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1666,6 +1673,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1698,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/FM9cDTOUvN9QQCj5RVzVIyXeN0RfWO6b6Ubec6cI3Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/OTktMTM3OTQzNTU0/OC05Mjg0LmpwZWc.jpeg" alt="Cover for January" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0723fb00d314d1ca7bcb2b4ef5e241c.png" alt="Cover for January" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-11</td>
       <td>Marcin Wasilewski Trio</td>
@@ -1702,8 +1710,8 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 30</li>
             <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 75</li>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1753,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 46</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 48</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 62</li>
         </ul>
       </td>
@@ -1753,7 +1761,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/DfsefLFEpXW0ANQHb-X_i8ivlBD5E1zwhrPavC0Z8NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI1/OTEtMTQ4MzQ2Mzkx/Ni0xNzMyLmpwZWc.jpeg" alt="Cover for Serenade To A Soul Sister" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e487e3cdb6817f09b4b2f604cc8ff5f0.png" alt="Cover for Serenade To A Soul Sister" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Horace Silver</td>
@@ -1811,6 +1819,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/366ea10f7d87431fadb520bf80b2dd65.png" alt="Cover for 301" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-26</td>
       <td>Esbjörn Svensson Trio</td>
@@ -1828,8 +1837,8 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 45</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 73</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 100</li>
         </ul>
       </td>
@@ -1865,7 +1874,7 @@ Piano jazz is a style centered on the piano as the lead instrument, emerging fro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 40</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 41</li>
         </ul>
       </td>
     </tr>

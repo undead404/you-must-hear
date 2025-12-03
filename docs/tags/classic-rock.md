@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T18:38:38.045Z
+date: 2025-12-03T12:50:23.950Z
 permalink: tags/classic-rock
 title: classic rock
 ---
 
 ## classic rock
 
-Last updated: <time datetime="2025-11-24T18:38:38.045Z">Mon Nov 24 2025 20:38:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T12:50:23.950Z">Wed Dec 03 2025 14:50:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,8 +101,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 91</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 10</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 21</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -180,9 +180,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 3</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 69</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 74</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +262,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 38</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 39</li>
             <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 99</li>
         </ul>
       </td>
@@ -282,7 +282,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 61</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 78</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -338,9 +338,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 19</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 60</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 12</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 61</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -360,7 +360,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 83</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +417,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 13</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 14</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 38</li>
         </ul>
       </td>
@@ -438,8 +438,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 16</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 50</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 83</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 90</li>
         </ul>
       </td>
@@ -461,7 +461,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 10</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 12</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -499,7 +499,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 86</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -536,7 +536,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 53</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +591,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 83</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 93</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 8</li>
             <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 100</li>
         </ul>
       </td>
@@ -745,7 +745,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 17</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 18</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 69</li>
         </ul>
       </td>
@@ -803,7 +803,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 38</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 70</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 100</li>
         </ul>
       </td>
@@ -846,7 +846,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 85</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 89</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +866,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 56</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -926,8 +926,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 13</li>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 25</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -947,7 +947,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 37</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1048,8 +1048,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 7</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 92</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 94</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 100</li>
         </ul>
       </td>
@@ -1131,7 +1131,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
     <tr>
       <td>76</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec5cac8403fbda275b8200b77c8318.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7068d1d94a280cb2e9f8bc041de55f65.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-11-03</td>
       <td>Queen</td>
@@ -1198,8 +1198,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 36</li>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 45</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 46</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 49</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
         </ul>
@@ -1221,7 +1221,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 74</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1428,7 +1428,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 30</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1577,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 39</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1609,13 +1609,11 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       <td>Best of Bowie</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 90</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1638,9 +1636,9 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 70</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 12</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 31</li>
             <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 73</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1660,8 +1658,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 17</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 33</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 58</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1680,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 44</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 57</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 97</li>
         </ul>
       </td>
@@ -1780,7 +1778,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 89</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1819,7 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 1</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1859,8 +1857,8 @@ Classic rock is a guitar-driven genre that emerged in the 1960s-70s, blending bl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 15</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 51</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 84</li>
             <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 91</li>
         </ul>
       </td>
