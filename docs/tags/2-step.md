@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T13:48:03.302Z
+date: 2025-12-03T06:31:45.905Z
 permalink: tags/2-step
 title: 2-step
 ---
 
 ## 2-step
 
-Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:45.905Z">Wed Dec 03 2025 08:31:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/pF74ROpJTI8-tqP_DGzl-eIYi2r73gUVkXFO4dKSjmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzk1/MTctMTQ3Nzg2Nzc4/OC01Nzk5LmpwZWc.jpeg" alt="Cover for You &amp; Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e8b604e13de4b8ca06607e8116c47bc.png" alt="Cover for You &amp; Me" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Disclosure</td>
@@ -65,8 +65,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 73</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 22</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 66</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 95</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 97</li>
         </ul>
@@ -106,14 +106,14 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 74</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/D_BL1-jM8VZkyI3LhdEZNipweB6Q80bL7kJuUpgN-tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OS0x/NTI2NjgzNjkxLTgz/MzguanBlZw.jpeg" alt="Cover for Messy Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dde16d7e94ec18ea1b9576b25bc4cdb6.png" alt="Cover for Messy Room" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Deep</td>
@@ -135,7 +135,9 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 66</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +162,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 61</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +532,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +557,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/NWbqbr0STFfKreDccX3RwzhaGFd7y0vq-mWpGb-RCiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA2/MzItMTU0ODYxMzU3/NC0zMDExLmpwZWc.jpeg" alt="Cover for Skreamizm, Volume 4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e6c8c2230bb4c33a03a6c3f0f7e862b.png" alt="Cover for Skreamizm, Volume 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Skream</td>
@@ -583,16 +585,16 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 35</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 61</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/DLQybKxss6YUv8jdZF5Am9XdO3Cjl0BPq6NH3GX7c3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTEx/OTctMTU4MTg2NjYy/NC0xNjIxLmpwZWc.jpeg" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/177f26517929d3f6ee0628601867ea0a.png" alt="Cover for Unreleased" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-05</td>
       <td>Burial</td>
@@ -623,8 +625,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 26</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -740,7 +742,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 64</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +792,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +911,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +967,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/_K5fVitQmcJyPHFUaR766i_s6-qkAJy8X6IDfMBdGe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQ0/MzUtMTMxMTc2OTAx/NS5qcGVn.jpeg" alt="Cover for Nicolas &#x2F; Halo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adfac91d45954ab9a3935856dd780146.png" alt="Cover for Nicolas &#x2F; Halo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-17</td>
       <td>The Industrialism</td>
@@ -990,7 +992,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 26</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1018,6 +1020,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05f11052f0e74b14bf399665ce3a5d2b.png" alt="Cover for Make A Change" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-25</td>
       <td>Maddslinky</td>
@@ -1145,15 +1148,15 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 59</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 42</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/b5Lq9ryqdzjPBW9qRbnupeDSju9oHyoxv04lpVVLw68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDgx/MTM2LTE2MDgwMDE0/OTgtODU2OS5wbmc.jpeg" alt="Cover for Misanthropy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d40c8ccf42f4447d8b77369d94c7e627.png" alt="Cover for Misanthropy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Existence</td>
@@ -1174,7 +1177,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/3Vrmo131yYeVhGIEhxVsh7R1RbSAOxTzygPnGBCAZgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzc3/MjYtMTM2NTk4Njky/MS05MDcwLmpwZWc.jpeg" alt="Cover for The Sixth Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efce99946190437ea91f7c15d088a0dc.png" alt="Cover for The Sixth Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Desolated</td>
@@ -1194,7 +1197,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/4h612J9flA1gAwrkxPoaGkp6r3QcsyYEkdqy-KXqqSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzUz/MzctMTMxMjcxNjg0/MC5qcGVn.jpeg" alt="Cover for Drink Drink, Fan Fan, Rub Rub" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f19b76b83914892b1f822c0a3a72015.png" alt="Cover for Drink Drink, Fan Fan, Rub Rub" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-26</td>
       <td>Syncretic</td>
@@ -1211,18 +1214,18 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a74afaa56334e54b393420ef998f14a.png" alt="Cover for Speaker of the Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>Emmure</td>
       <td>Speaker of the Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 89</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1264,8 +1267,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 76</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 22</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1294,6 +1297,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2099242d098d49c9c944f6ef050d712c.png" alt="Cover for Souled Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-10</td>
       <td>Makoto</td>
@@ -1328,7 +1332,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       <td>
         <ul>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 3</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 61</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 62</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 77</li>
         </ul>
       </td>
@@ -1336,7 +1340,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/RK2A0xWtIn_mzchSH4ZFvsNGtARnf1TCIbnzhFmsgsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA4/NzktMTMyMzI3OTAz/Mi5qcGVn.jpeg" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b06558eb0494aeba9b583bbf7323377.png" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-06</td>
       <td>The Hairy Giant</td>
@@ -1363,7 +1367,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/0lBc6x2X1sLEx25u1efCPAQTS2Iof0yM8-USypplOqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDIz/MDUtMTU0MjQwOTA1/MS0xMTIwLmpwZWc.jpeg" alt="Cover for The Foggy Tales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e473a6063c3a893213592bb7c1710d8.png" alt="Cover for The Foggy Tales" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>Hayfevah</td>
@@ -1385,7 +1389,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 57</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1431,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 42</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1453,7 +1457,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/njFmjEfEr0sCXZJ2ubcuEpoget1w-YarS6ojZ373un8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTQy/OTMtMTM2OTY3ODE4/NC0zMzA5LmpwZWc.jpeg" alt="Cover for Settle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6c11048f1da4335b72d712c23f8c3f6.png" alt="Cover for Settle" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Disclosure</td>
@@ -1465,11 +1469,11 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 61</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 63</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
             <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 74</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 91</li>
         </ul>
       </td>
@@ -1477,7 +1481,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/9rA19-v0_6w8fU4SSqOYkxaoVvRE0RjIFSKbO3d4mNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI4/MzgtMTM3MzEwMDE2/MC00NzY2LnBuZw.jpeg" alt="Cover for Surrealistic Cityscapes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00e41d897bae46d2b072b132a8d239ca.png" alt="Cover for Surrealistic Cityscapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-05</td>
       <td>The Industrialism</td>
@@ -1504,14 +1508,14 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 54</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/ke3aIi3SE0QBouEghFtnvqKL5vQlFJhT94rLH7YdL4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODI0/OTgtMTM4Njc2ODcx/Ni00MDA1LnBuZw.jpeg" alt="Cover for Ego &#x2F; Mirror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18b5355226258837c43ca5730e3cd9e1.png" alt="Cover for Ego &#x2F; Mirror" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-14</td>
       <td>Burial</td>
@@ -1537,8 +1541,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 13</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 19</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1696,8 +1700,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 69</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 78</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 20</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 30</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 91</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 97</li>
         </ul>
@@ -1717,13 +1721,14 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 16</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab8bf083a5a4307b83e7fea97376a36a.png" alt="Cover for Rogue Intruder, Soul Enhancer" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-22</td>
       <td>Oli XL</td>
@@ -1740,7 +1745,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/gER1iih3M6dF-P319K_bRaw0NV8BOJBLz3vw7tge7cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY4/MjYwLTE2MTg4NTAw/NTMtMzg0My5wbmc.jpeg" alt="Cover for Ladbroke Grove (Remix) [feat. General Levy &amp; Novelist] - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b88e96cba6a7626cb54f74bd20ca47.png" alt="Cover for Ladbroke Grove (Remix) [feat. General Levy &amp; Novelist] - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-02</td>
       <td>AJ Tracey</td>
@@ -1831,9 +1836,9 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 84</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 96</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 88</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 98</li>
             <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 100</li>
         </ul>
@@ -1918,8 +1923,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 36</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 60</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 44</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 61</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 98</li>
         </ul>
       </td>
@@ -1964,9 +1969,10 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 46</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 55</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 57</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 49</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 63</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
         </ul>
       </td>
@@ -1988,8 +1994,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 95</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 96</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2010,7 +2016,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2029,8 +2035,8 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 14</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 81</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 22</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2053,15 +2059,16 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 86</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 92</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 12</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/VjrpkCJ-4wMzKOWGNpFUj3xkkTEdpLT-5VIoQENT-jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk1/Mjk1LTE2NDcxNzk1/NTAtMzQ5OC5wbmc.jpeg" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c5dcd0c4e1cecf93843c632f9895449.png" alt="Cover for This is Night Bass: Vol. 13" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-09</td>
       <td>Night Bass</td>
@@ -2078,7 +2085,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 11</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 12</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 67</li>
         </ul>
       </td>
@@ -2086,6 +2093,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50145585bbbe01258d3e4da67bc7e66a.png" alt="Cover for Barr Tenderzz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2132,7 +2140,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2163,6 +2171,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c5b9d284909adc5e51d7200cf90c58.png" alt="Cover for Demo 2009" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Geodudes</td>
@@ -2181,6 +2190,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e121b2344b444126afdfe696ff6e9fcd.png" alt="Cover for White" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>AmTronic</td>
@@ -2202,6 +2212,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e514093e43e5a7986f3e2d6d028951eb.png" alt="Cover for Something" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fagin</td>
@@ -2224,6 +2235,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f4aa7aa1254428c4598a08e8eefc50.png" alt="Cover for Our Will Prevails" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hatetrigger</td>
@@ -2279,6 +2291,7 @@ Last updated: <time datetime="2025-11-11T13:48:03.302Z">Tue Nov 11 2025 15:48:03
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8eaaaf8c9c64d22cdc6a3027d8d93d4.png" alt="Cover for Brain as a Weapon" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Waves Like Walls</td>

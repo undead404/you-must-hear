@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T20:39:50.167Z
+date: 2025-12-03T06:31:58.010Z
 permalink: tags/liquid-funk
 title: liquid funk
 ---
 
 ## liquid funk
 
-Last updated: <time datetime="2025-10-18T20:39:50.167Z">Sat Oct 18 2025 23:39:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:58.010Z">Wed Dec 03 2025 08:31:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 95</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 66</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -182,6 +182,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84e853e859164748bf13fca11e11439d.png" alt="Cover for Human Elements" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-15</td>
       <td>Makoto</td>
@@ -272,7 +273,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/UhLfV4IBrX3191N4YCuHvoKe0k938a39E95HThXWHEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzY5/NjMtMTQ3MzY3ODE2/Ny0xNjgwLmpwZWc.jpeg" alt="Cover for Welcome To The Best Years Of Your Life (Brownswood Recordings)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77882c74dfe148d9a4d749eccb353b96.png" alt="Cover for Welcome To The Best Years Of Your Life (Brownswood Recordings)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Ben Westbeech</td>
@@ -291,6 +292,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e1ce7fd98644a38d2d5c91526cf226.png" alt="Cover for Believe In My Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-28</td>
       <td>Makoto</td>
@@ -400,6 +402,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a937a2af5684c10a57ad16a4cf9a4b4.png" alt="Cover for Syncopated City" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-01</td>
       <td>London Elektricity</td>
@@ -412,7 +415,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 66</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +439,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/HrVKm9MS2mV78zu8Y7AtbxWYmevoZrYXul5CtUIpnIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTY2/MTAtMTYwNDc1MDAy/Ny03NjQxLmpwZWc.jpeg" alt="Cover for Netsky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d34f0f12f544ba89756bde49e6880b4.png" alt="Cover for Netsky" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-27</td>
       <td>Netsky</td>
@@ -448,7 +451,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 56</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -640,6 +643,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e08b273b4658dd4351ad412d9e9536.png" alt="Cover for Cross the Line" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Camo &amp; Krooked</td>
@@ -654,8 +658,8 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 18</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 39</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 25</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 99</li>
         </ul>
       </td>
@@ -676,7 +680,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 34</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -701,6 +705,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f2380402074d4cb58f9f3cdb8f8094.png" alt="Cover for 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-25</td>
       <td>Netsky</td>
@@ -712,7 +717,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 40</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 47</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 64</li>
         </ul>
       </td>
@@ -1008,7 +1013,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/wYWcpN_EHZzfCXa9k-3ve_qaHC2N9IpsvyJzTnP919Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjE5/MTYtMTQ2Mjc5NjM5/MS02MDczLmpwZWc.jpeg" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0506949a18ab1ac8ec263a66b6deb1e.png" alt="Cover for The Mindsweep: Hospitalised" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-19</td>
       <td>Enter Shikari</td>
@@ -1029,9 +1034,9 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 62</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 11</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 65</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 79</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1061,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/igE5LwFSdwYxYYpGo60nDMhaueLceK5Jk15hZjEO0Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc3/ODY5LTE1ODYzOTk1/MzItMzEwMS5qcGVn.jpeg" alt="Cover for Be the One (Netsky Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd212e9f7445359ddd40f04b4521909f.png" alt="Cover for Be the One (Netsky Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>Dua Lipa</td>
@@ -1090,7 +1095,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 32</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1121,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/cjoir7aWjkS-23RXN1OYJYMOLdh1zo37etzlAts1aMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODIz/NDctMTM5NzE4MzUw/My00MDQ5LmpwZWc.jpeg" alt="Cover for SiCK Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb88c8a0f46c12c161318732ec712706.png" alt="Cover for SiCK Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-05</td>
       <td>Cyantific</td>
@@ -1267,9 +1272,9 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 21</li>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 40</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 79</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1357,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/jOgunATbhuvI4EZWfqhwiJ-Liuqud2jtwBUaUDl9sFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUx/MzQ0LTE1MjAwNjA1/NDgtMjM0Ni5qcGVn.jpeg" alt="Cover for In Stillness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c4d66a7d1e727699cb666e4271f5cac.png" alt="Cover for In Stillness" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-02</td>
       <td>Etherwood</td>
@@ -1429,7 +1434,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/Iy9-_CzFKZoUA9Ewvu3OmRo8wdC42COf89WEh2LqWpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk4/MDA1LTE1MzAzMDMy/NjktODI4OS5qcGVn.jpeg" alt="Cover for Shelflife 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b351234de0b81191e17050cc2058b391.png" alt="Cover for Shelflife 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-29</td>
       <td>Calibre</td>
@@ -1519,15 +1524,15 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 4</li>
             <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 94</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/litiBOfUIsiOO_gWfAbvUfq17PgbDJYwubavc9K_8k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc3/ODI1LTE1MzIwMDU3/NjgtOTU0MS5qcGVn.jpeg" alt="Cover for Wild Grace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9d7714b74fc0fdc51a6008dd176ec64.png" alt="Cover for Wild Grace" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-20</td>
       <td>Tokyo Prose</td>
@@ -1729,7 +1734,7 @@ Liquid funk is a melodic subgenre of drum and bass that emerged in the early 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
         </ul>
       </td>
     </tr>

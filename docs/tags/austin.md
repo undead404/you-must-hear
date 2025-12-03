@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-04T09:30:28.724Z
+date: 2025-12-03T06:33:51.746Z
 permalink: tags/austin
 title: austin
 ---
 
 ## austin
 
-Last updated: <time datetime="2025-11-04T09:30:28.724Z">Tue Nov 04 2025 11:30:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:51.746Z">Wed Dec 03 2025 08:33:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,6 +69,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce240a53e598603aee07b03e034d1294.png" alt="Cover for Outdebox" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>SoulHat</td>
@@ -309,7 +310,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/DLIR80UaVEuOKvsmvpqE6NZkSg1eU3lZ9JPfGK2jNyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTg5/Ny0xMzk0ODA2MTgw/LTUxNzYuanBlZw.jpeg" alt="Cover for Kill the Moonlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7e89c161969f9ccc1c9843719797ff.png" alt="Cover for Kill the Moonlight" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-20</td>
       <td>Spoon</td>
@@ -381,8 +382,8 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 42</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 76</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 25</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +561,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 37</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -603,6 +604,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10e755634c84bdfcba8927a71db782b.png" alt="Cover for Miss Understood" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-05</td>
       <td>Carolyn Wonderland</td>
@@ -620,8 +622,8 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 58</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 63</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 43</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 65</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 96</li>
         </ul>
       </td>
@@ -629,7 +631,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/2HqwwmIZs2Az_9yzFYC2kv6MF3YuFrcSL00TcRMVpiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMz/ODktMTIyMDEyNTg5/Ny5qcGVn.jpeg" alt="Cover for How We Lost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/749aed50e8864501b331b49d9ac06a10.png" alt="Cover for How We Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-20</td>
       <td>Windsor For The Derby</td>
@@ -714,7 +716,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/dwne7Z_viAVqUDJX_MfzwmCRgiptIbS6bx1Ox5p7rGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjAw/NzEtMTQ3Njg5MjAx/Mi0zNjQ1LmpwZWc.jpeg" alt="Cover for Live at Gruene Hall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8cb2d49fb4d46459fa53edf296cf137.png" alt="Cover for Live at Gruene Hall" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Guy Forsyth</td>
@@ -772,6 +774,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7141db660a774417b6437a5191845788.png" alt="Cover for Myth of the Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-31</td>
       <td>Sahara Smith</td>
@@ -786,7 +789,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 15</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +839,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 12</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -857,14 +860,14 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 91</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/csR8SSitTH1r5YPJPA8rmw9r4Uy5oECClN4BxfeWcr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTQ4/NjctMTUyMzc4MzM2/NC0xNzIyLmpwZWc.jpeg" alt="Cover for an introduction to..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5ace760771926ecaba9551e2d69f1cf.png" alt="Cover for an introduction to..." style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Black Books</td>
@@ -880,7 +883,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 72</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -978,6 +981,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e37c2c97eddf4d7aa93ce0e78566b70e.png" alt="Cover for Last Looks" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-10</td>
       <td>The Sour Notes</td>
@@ -1036,7 +1040,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 41</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1067,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/dZkM8w9Y7tNl40GjOFVY4KE17Q3pK688PU9t0rIO88c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI2/NTEzLTE2MDcwODYy/NjAtNzA5Mi5wbmc.jpeg" alt="Cover for Radixxx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38bc051da8440db98ca2dd181d1d3f78.png" alt="Cover for Radixxx" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>DD Dagger</td>
@@ -1139,7 +1143,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/8wD6jeaZu2S_gFFaszpKl8zTEZ0xDAL7JLYqHZ6tNEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjUz/MzItMTM2NDU0NDIw/MC0zODc2LnBuZw.jpeg" alt="Cover for Demo 2012" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a9ac81c7b5f9da5bab5bacd1cf2eb0.png" alt="Cover for Demo 2012" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-12</td>
       <td>Glue</td>
@@ -1154,7 +1158,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 32</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1225,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 25</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1271,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/9PLJqzKc3t5BZTQgdsmHIA4QCoIviZ5mWn91Uv1N_Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ5/MDcxLTE2Nzg0NzA3/NTQtOTc0NS5qcGVn.jpeg" alt="Cover for Hard Times Straight Lines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b97d0cdff2641cbc17e1974c1434bae.png" alt="Cover for Hard Times Straight Lines" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Aaron Stephens</td>
@@ -1288,6 +1292,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a417af9b0b4876c83c25a0dcb24768.png" alt="Cover for The Lights from the Chemical Plant" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-07</td>
       <td>Robert Ellis</td>
@@ -1304,7 +1309,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 94</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1359,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/PlBd6YRQkImar94lhuQ4J6TR7Pr6dlCIhVjuvmf-A8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/NDY4LTE1NTM3Mjcy/MzYtMjY0MS5qcGVn.jpeg" alt="Cover for Brains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f3db6a26b4ace559654b3f51c3d8497.png" alt="Cover for Brains" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-12</td>
       <td>Grace London</td>
@@ -1377,7 +1382,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/vMPhfBS6WioKb-jr-5Zb40TtQaiz-oQTtzbShQMNjEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTgy/MzgtMTQ4Njk5MjEw/Ni03ODg5LmpwZWc.jpeg" alt="Cover for Bad Breaks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/752f175989944e2b9092078426bb0633.png" alt="Cover for Bad Breaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-24</td>
       <td>Bad Breaks</td>
@@ -1397,7 +1402,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/lzoTO19FXxUQwRbcu1iw3v_uECT-_SgzxEwwrbxQ48A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODQ0/MzItMTQ4NDcyODQ3/NS05MjQ4LmpwZWc.jpeg" alt="Cover for Forecast Infinite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c803f6806f29d097d697a6937cfe17d.png" alt="Cover for Forecast Infinite" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-31</td>
       <td>Today is Tomorrow</td>
@@ -1421,7 +1426,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/lzoTO19FXxUQwRbcu1iw3v_uECT-_SgzxEwwrbxQ48A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODQ0/MzItMTQ4NDcyODQ3/NS05MjQ4LmpwZWc.jpeg" alt="Cover for Going Gone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25026c77bc3c154ab976683311f17df3.png" alt="Cover for Going Gone" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-31</td>
       <td>Today is Tomorrow</td>
@@ -1462,7 +1467,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/bej5TtxwMJJ5gFAQ0oVyQS5RQH3R_WmzGwmV23BBLQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/NzQ0LTE1NDY0ODYz/MjYtNDAzMS5qcGVn.jpeg" alt="Cover for Mode Dodeca" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4ea45a2122ae4ef08d6deea97661dbc.png" alt="Cover for Mode Dodeca" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-21</td>
       <td>Mode Dodeca</td>
@@ -1497,7 +1502,8 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 96</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 23</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1531,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/QKMeAPZ8wwxpVxzEd1ewDMc-ObrJTOd7Udvd7JonVIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/Mjc3LTE2MDQwMjg5/NDgtNTkwNi5qcGVn.jpeg" alt="Cover for Dies Mercurii" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/989a2599fffcbea8e2d7df5bcfa51e5e.png" alt="Cover for Dies Mercurii" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-09</td>
       <td>Scaphoid</td>
@@ -1588,6 +1594,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0059bd586f1d4e5cb4c738935e73b610.png" alt="Cover for Letters To Andrea" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ash- Blaize</td>
@@ -1636,6 +1643,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1a32da0f76c43d3bdfff8962c9a2f80.png" alt="Cover for Into the Umbra" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Zarquon</td>
@@ -1698,6 +1706,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b71af80facaa45a0893668e00389ac85.png" alt="Cover for Award Winning Concert in Space" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Upside Down Cake</td>
@@ -1828,6 +1837,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/549d179b625645759e87bf76005b3b27.png" alt="Cover for The Warplanes" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Warplanes</td>
@@ -1890,6 +1900,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87b9d8807c4346e7962043db915744a2.png" alt="Cover for Glow In The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>glow in the sun</td>
@@ -1933,6 +1944,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66cca7d51a2b37efff2fc75d165d07f9.png" alt="Cover for Self tilted EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Warplanes</td>
@@ -1975,6 +1987,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb40195c751159e42a343f455020e8a.png" alt="Cover for Slippery People" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Scuare x sow</td>
@@ -2033,6 +2046,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cc7f495d18d497ca69bd43c361b7b55.png" alt="Cover for Be Vigilant" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Paper Shapes</td>
@@ -2053,6 +2067,7 @@ The &quot;austin&quot; tag represents the eclectic, genre-blending music scene o
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/103520f9b95f4627a9b296244797698a.png" alt="Cover for My Medicine" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The RainDoggs</td>

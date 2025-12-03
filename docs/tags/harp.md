@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:36:54.339Z
+date: 2025-12-03T06:30:25.266Z
 permalink: tags/harp
 title: harp
 ---
 
 ## harp
 
-Last updated: <time datetime="2025-11-19T07:36:54.339Z">Wed Nov 19 2025 09:36:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:30:25.266Z">Wed Dec 03 2025 08:30:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,6 +87,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c51d0da46ceec1e31a926dfb2d5069ce.png" alt="Cover for Afro-Harping" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Dorothy Ashby</td>
@@ -98,9 +99,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 68</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -125,6 +124,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e926e3986f1d00dc3d2b5536b80414b5.png" alt="Cover for Journey in Satchidananda" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Alice Coltrane</td>
@@ -136,9 +136,8 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +157,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -198,7 +197,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +236,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 50</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +594,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 30</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +635,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 22</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 57</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 71</li>
         </ul>
@@ -696,7 +695,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 29</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +778,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 22</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +924,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 82</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 15</li>
             <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 98</li>
         </ul>
       </td>
@@ -987,7 +986,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1165,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 79</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 82</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 87</li>
         </ul>
       </td>
@@ -1270,12 +1269,12 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       <td>
         <ul>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 24</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 36</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1353,8 +1352,8 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 51</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 54</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 50</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1373,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 70</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1676,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 27</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1810,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 41</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1838,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 34</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1863,7 @@ The harp tag encompasses music prominently featuring the harp&#39;s distinctive 
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 33</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 35</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 66</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:22:18.838Z
+date: 2025-12-03T06:32:44.783Z
 permalink: tags/vocaloid
 title: vocaloid
 ---
 
 ## vocaloid
 
-Last updated: <time datetime="2025-11-23T08:22:18.838Z">Sun Nov 23 2025 10:22:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:44.783Z">Wed Dec 03 2025 08:32:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -194,9 +194,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 61</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 32</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 67</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
         </ul>
       </td>
@@ -220,7 +220,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 19</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -746,8 +746,8 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 27</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 65</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +882,8 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 58</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 3</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 60</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
         </ul>
       </td>
@@ -953,7 +954,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 97</li>
         </ul>
       </td>
@@ -1093,7 +1094,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 76</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1140,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 23</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 24</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 51</li>
         </ul>
       </td>
@@ -1201,7 +1202,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>
         <ul>
             <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 42</li>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1246,8 +1247,8 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 50</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 36</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1285,6 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
@@ -1292,10 +1292,9 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 65</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 89</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1351,7 +1350,7 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 45</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 59</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1523,7 +1522,6 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
@@ -1532,7 +1530,27 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>
         <ul>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 79</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ead6854fa76e10430f97af603ff5e5.png" alt="Cover for ねむるピンクノイズ" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>いよわ</td>
+      <td>ねむるピンクノイズ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1602,26 +1620,6 @@ Vocaloid is a genre built around singing synthesizer software, primarily from Ja
       <td>Story of Hope</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ead6854fa76e10430f97af603ff5e5.png" alt="Cover for ねむるピンクノイズ" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>いよわ</td>
-      <td>ねむるピンクノイズ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>

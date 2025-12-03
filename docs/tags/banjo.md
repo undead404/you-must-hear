@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:22:34.810Z
+date: 2025-12-03T06:32:58.536Z
 permalink: tags/banjo
 title: banjo
 ---
 
 ## banjo
 
-Last updated: <time datetime="2025-11-23T08:22:34.810Z">Sun Nov 23 2025 10:22:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:58.536Z">Wed Dec 03 2025 08:32:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e35e81be1dc24d8d98c84ca98ade48c9.png" alt="Cover for Ragtime Jug Stompers" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Dave Van Ronk</td>
@@ -127,7 +128,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 19</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +491,6 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/5SExRiBfhv-nc6x6Rp_VYo0vACvHJkvObGoUkIYKEDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ4/MTEtMTUyMjI0OTE0/Ni05MTMwLmpwZWc.jpeg" alt="Cover for Best of the Dubliners [Epic&#x2F;Legacy]" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Dubliners</td>
@@ -507,7 +507,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 31</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +763,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -922,8 +922,8 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 52</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 82</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 19</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 49</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 92</li>
         </ul>
       </td>
@@ -971,12 +971,12 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       <td>
         <ul>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
             <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 36</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 52</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -995,12 +995,12 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 35</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 9</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 45</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 46</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 64</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1135,11 +1135,11 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 61</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
         </ul>
       </td>
@@ -1234,7 +1234,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1442,10 +1442,10 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
@@ -1520,11 +1520,11 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
             <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 47</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
@@ -1757,8 +1757,8 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 30</li>
             <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 63</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1805,8 +1805,8 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 15</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 72</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 14</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1830,8 +1830,8 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 24</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 71</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 23</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1855,7 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 77</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1879,9 +1879,9 @@ The banjo tag highlights music featuring the distinctive, bright twang of this s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 14</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 7</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 15</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 37</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 94</li>
         </ul>
       </td>
     </tr>

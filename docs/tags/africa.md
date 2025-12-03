@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:20:31.426Z
+date: 2025-12-03T06:31:34.150Z
 permalink: tags/africa
 title: africa
 ---
 
 ## africa
 
-Last updated: <time datetime="2025-11-23T08:20:31.426Z">Sun Nov 23 2025 10:20:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:34.150Z">Wed Dec 03 2025 08:31:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,8 +44,8 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 10</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 66</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 100</li>
         </ul>
       </td>
@@ -257,7 +257,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 32</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 72</li>
         </ul>
       </td>
@@ -562,6 +562,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/517fe6f16d38454f8951da039e7408d2.png" alt="Cover for Muso Ko" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Habib Koité &amp; Bamada</td>
@@ -691,7 +692,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 92</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -750,7 +751,6 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/Bx-3u0y-xyufnDYC6IK6nTklrDig1-J9y0MQQhKlFek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ1/MDktMTI3OTA2MzIy/Ni5qcGVn.jpeg" alt="Cover for Maya" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Habib Koité &amp; Bamada</td>
@@ -1137,7 +1137,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/czWPocVZS6zHeOU8zBWbKVOb6c6tDmM64N2OyDD-EJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDI4/MTYtMTQzNDY2NTgy/Ni0xMTk2LmpwZWc.jpeg" alt="Cover for Je chanterai pour toi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/610aa6bf57ca4235abf8d861bbba4a13.png" alt="Cover for Je chanterai pour toi" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Boubacar Traoré</td>
@@ -1158,6 +1158,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0d19444ed147f1bbf19631d9564e39.png" alt="Cover for Timbuktu" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-20</td>
       <td>Issa Bagayogo</td>
@@ -1337,7 +1338,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/1Fe8XKCuu0J-FNJLl3KOT7RT46f_Q4yj9kns8cD6r8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEy/MTAtMTMyNDI5NjE2/Mi5qcGVn.jpeg" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/478eef88888e4b64cbe5a06227d50c2e.png" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Salif Keita</td>
@@ -1395,7 +1396,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/zYnGgTA55ufSR2v26hPPjpl--9sKlhEgD62iwgbyMaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjY1/MDYtMTQ4ODQzMjUw/Ni03NTIzLmpwZWc.jpeg" alt="Cover for Orientation : Egypt - India - Senegal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/291f5270aa714db9b049376ed716e688.png" alt="Cover for Orientation : Egypt - India - Senegal" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-09</td>
       <td>Thione Seck</td>
@@ -1488,7 +1489,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 70</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1751,8 +1752,8 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 70</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 98</li>
             <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 100</li>
         </ul>
       </td>
@@ -1829,7 +1830,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 91</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1851,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 98</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1907,7 +1908,7 @@ African music encompasses the diverse musical traditions of the continent, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 72</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1971,6 +1972,7 @@ African music encompasses the diverse musical traditions of the continent, blend
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb0c50266f5b4fca878de9861b609c00.png" alt="Cover for The Constant Gardener" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>

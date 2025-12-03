@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T03:53:10.226Z
+date: 2025-12-03T06:32:11.860Z
 permalink: tags/cyberpunk
 title: cyberpunk
 ---
 
 ## cyberpunk
 
-Last updated: <time datetime="2025-11-26T03:53:10.226Z">Wed Nov 26 2025 05:53:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:11.860Z">Wed Dec 03 2025 08:32:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
   </thead>
   <tbody>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
       </td>
       <td>1990</td>
@@ -46,7 +46,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/Sh2bB2oq0NnXdgypBOyXWfYQica0M9to5bEZt5GKdI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODU4/NTUtMTU1MjA2Njg0/Mi01Nzg3LmpwZWc.jpeg" alt="Cover for Radioactivity" style="max-width:120px; height:auto;" />
       </td>
@@ -65,7 +65,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d0b04b73b1404cffde22a3e3f1d5c19.png" alt="Cover for Man-Amplified" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65fa5b15d0ae4476bb41083ac5720783.png" alt="Cover for TETSUO" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7fd7aab645e5292eedbde6913e069d3.png" alt="Cover for Cyberpunk" style="max-width:120px; height:auto;" />
       </td>
@@ -120,25 +120,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/Sbx6vSJFWTvMQAW3OnY466P3PCe4nGKIm32N1gmdYAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI3/MTEtMTUwNDg3Mzkx/My00MjQ2LmpwZWc.jpeg" alt="Cover for Neuromancer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>William Gibson</td>
-      <td>Neuromancer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ec0597f10258818661d5dc0d76bd8d9.png" alt="Cover for DreamWeb" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +140,25 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/Sbx6vSJFWTvMQAW3OnY466P3PCe4nGKIm32N1gmdYAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI3/MTEtMTUwNDg3Mzkx/My00MjQ2LmpwZWc.jpeg" alt="Cover for Neuromancer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>William Gibson</td>
+      <td>Neuromancer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/msa6PbCI73__cjJJiJhWLn_Fak7HhMIUAiYYFrPCpvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/LTE1OTc2NTEzMDkt/NDA1MC5wbmc.jpeg" alt="Cover for Dreams Of Cryotank" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +176,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>56</td>
       <td>
       </td>
       <td>1994-11</td>
@@ -193,7 +193,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee5ba9a0d16948c7c83d48c0b222a688.png" alt="Cover for Null" style="max-width:120px; height:auto;" />
       </td>
@@ -212,7 +212,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
       </td>
       <td>1995-03-06</td>
@@ -236,7 +236,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
       </td>
       <td>1995-09-11</td>
@@ -253,7 +253,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a1dea4ab7b4a42dfd8ff25814582dc.png" alt="Cover for Hard Wired" style="max-width:120px; height:auto;" />
       </td>
@@ -269,13 +269,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 23</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e0003f2357adaea48b7e8affd89a55.png" alt="Cover for Solutions For A Small Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -293,12 +293,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>42</td>
       <td>
       </td>
       <td>1997</td>
@@ -316,7 +316,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/664900a4a6c14d56b00c53b4f0644677.png" alt="Cover for The Future of War" style="max-width:120px; height:auto;" />
       </td>
@@ -335,17 +335,15 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>39</td>
       <td>
-          <img src="https://i.discogs.com/VgHvn-AwXW2NcJHARMH7phCe3loaRVIZp2bfykNEePc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTg1/OS0xMjY0OTMxMjk1/LmpwZWc.jpeg" alt="Cover for SEXY STREAM LINER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fb7ad33c5ccbcadc9278e3ca661ca6.png" alt="Cover for SEXY STREAM LINER" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-10</td>
       <td>BUCK-TICK</td>
       <td>SEXY STREAM LINER</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
@@ -353,12 +351,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 32</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fc70e51ac7e476065e4c3c0a7f0b35d.png" alt="Cover for Wormhole" style="max-width:120px; height:auto;" />
       </td>
@@ -375,12 +373,30 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 22</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d162c52dced4471bb59d6014e0545edc.png" alt="Cover for Syntax" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-08-04</td>
+      <td>Informatik</td>
+      <td>Syntax</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/QMz5RgV-88VSvmuBlR3OciJKz1GTcsTSkIWHNk-EqKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/LTEyMDIxNzU2Njgu/anBlZw.jpeg" alt="Cover for Re-Wind" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +416,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/z9woUzosl_bb1VCu_jWHzXaoM1NUT2z9_wwLsFZJ1vA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTQ5/LTEwOTk2Mzc4OTUu/anBn.jpeg" alt="Cover for Live in Philadelphia Dec. 1997" style="max-width:120px; height:auto;" />
       </td>
@@ -422,7 +438,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/NtkTHizBJoedFjrn-4Uoanv8Vu8HRdtB2ANXjqCjw_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTY4/MC0xMTQ2MTg2MjIy/LmpwZWc.jpeg" alt="Cover for Rock Is Still Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +457,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/jWTEd9s6UwEYMdrchNBYRZ7_UpnVd6oVUBjcFUY0XNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ3/MS0xMTkyMTM3NTAz/LmpwZWc.jpeg" alt="Cover for In Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -458,12 +474,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 16</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/vTs1Bi2VE2Uo49lxx7PJCa4t8Ao38Oh_H3X1pwhxUDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjM0/Mi0xMjE4MzAxNTUx/LmpwZWc.jpeg" alt="Cover for Courtesy Of Choice" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +499,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/vOoUVO30aVaO8Ahs3PK3JABUJumJ4hzA7wan3T4AJFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/Mi0xMTU4Nzg2Mjg2/LmpwZWc.jpeg" alt="Cover for Synergy: Live In Europe" style="max-width:120px; height:auto;" />
       </td>
@@ -501,7 +517,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg" alt="Cover for pope john paul the third" style="max-width:120px; height:auto;" />
       </td>
@@ -530,15 +546,15 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 38</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/JC48AwUCFzPU_HtrX-FKT4_PvzPmQXl_IP6wjNZNu9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODIz/NS0xNDMyOTQ0NDMw/LTE3MDkuanBlZw.jpeg" alt="Cover for The Diagene EP" style="max-width:120px; height:auto;" />
       </td>
@@ -556,7 +572,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/PhXTzqfjN6qJ5JSaz1PSb1paKVoV-JU3mesDH0FweMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTE3/Mi0xMjY1MTc5MTAx/LmpwZWc.jpeg" alt="Cover for 極東 I LOVE YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +593,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4054fb878d41f8b0612f9335bbcfe9.png" alt="Cover for Intelligence and Sacrifice" style="max-width:120px; height:auto;" />
       </td>
@@ -600,17 +616,17 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 17</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 89</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 93</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
       </td>
       <td>2002-08-05</td>
@@ -628,7 +644,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/rn6VLMOUgU3w1HSnRrm_8UGvGf6uV2PnjUoWuU6JPlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc3/OC0xMTAzMTEwMzI2/LmpwZw.jpeg" alt="Cover for Murder License" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +664,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2002-11-28</td>
@@ -665,7 +681,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
       </td>
       <td>2003-03-18</td>
@@ -683,7 +699,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13a728205fee404ac0eacf306233af9a.png" alt="Cover for Sexplosive Locomotive" style="max-width:120px; height:auto;" />
       </td>
@@ -703,7 +719,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aecfb5d9be0b405ebd141330f093f678.png" alt="Cover for Eurotrash" style="max-width:120px; height:auto;" />
       </td>
@@ -719,14 +735,14 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 29</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 73</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c36e7c856971ebd9aed13491e4eb5783.png" alt="Cover for Amerika" style="max-width:120px; height:auto;" />
       </td>
@@ -735,7 +751,6 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>Amerika</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
         </ul>
       </td>
       <td>
@@ -744,7 +759,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f81fea6da05340a5a549cca763daa4c8.png" alt="Cover for Strain" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +777,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004-12-01</td>
@@ -777,13 +792,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 73</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 28</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>44</td>
       <td>
       </td>
       <td>2005-06-13</td>
@@ -798,12 +813,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 83</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c1055701b4b4cfccc8de1863d888431.png" alt="Cover for Neuromance" style="max-width:120px; height:auto;" />
       </td>
@@ -820,25 +835,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa0725f0e6142173a8cb8e434bec6f48.png" alt="Cover for Mann gegen Mann" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-03-03</td>
-      <td>Rammstein</td>
-      <td>Mann gegen Mann</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d87e3245d73ce4eb3ff7747f3fb8700c.png" alt="Cover for Krankhaus" style="max-width:120px; height:auto;" />
       </td>
@@ -852,12 +849,11 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5716b0d50856333661c40fa1b58b5a57.png" alt="Cover for A Compilation 3" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +873,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/c_vYhKTN2QNDztgw3juVrJKPqsSawQzPkeHMDNhi1KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjQ5/OS0xMTYyNzYxOTI2/LmpwZWc.jpeg" alt="Cover for Corpus Technological" style="max-width:120px; height:auto;" />
       </td>
@@ -891,13 +887,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 28</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 55</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/4EJJnG-CdFE9f2q7MSJhGmkgaw6tXf9w74fVCd1AiNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/MzktMTIyNTExOTc1/MS5qcGVn.jpeg" alt="Cover for The Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -940,16 +936,16 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 17</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 24</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 65</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 77</li>
             <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>38</td>
       <td>
       </td>
       <td>2008-09-11</td>
@@ -963,12 +959,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 86</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/jAR_Qgd_4d4ixhHmdFd2cWdikjTH-moXCbbxHNBYpJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA3/OTAtMTIyNzczNzc4/Ny5qcGVn.jpeg" alt="Cover for Die Young : Stay Pretty" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,14 +998,14 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 2</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 21</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 28</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 73</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
       </td>
       <td>2008-11-14</td>
@@ -1026,7 +1022,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf32dc9b17c517b785f455bf268d080f.png" alt="Cover for iDon" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1045,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/_kDwRuV9-KHnb-DP3mMYTm4QqdS6hgB8ZY_E0GPrCc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU2/MzQtMTY4NTg5NDUw/NS05NzI5LmpwZWc.jpeg" alt="Cover for Black Kingdom Red Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,12 +1059,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d3cd001b644ae6bcd5afcd1977a4ed.png" alt="Cover for The Bachelor" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,14 +1079,14 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 13</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 88</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b9e279fa1b413d91a262c2874a3827.png" alt="Cover for 21st Century Slave" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,19 +1095,16 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>21st Century Slave</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 30</li>
             <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cebd7a02034abfa16efb3f5b91b0d0aa.png" alt="Cover for Noise Diary" style="max-width:120px; height:auto;" />
       </td>
@@ -1128,13 +1121,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 58</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 76</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eb8e537ce43466180da55d8bfd79d29.png" alt="Cover for Adrenochrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1155,7 +1148,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
       </td>
       <td>2011</td>
@@ -1172,7 +1165,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d27efaaccde84ccb9e739fa6808e6cea.png" alt="Cover for Ultrawired" style="max-width:120px; height:auto;" />
       </td>
@@ -1191,7 +1184,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
       </td>
       <td>2011-09-26</td>
@@ -1211,7 +1204,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/01f2c0121fa06fd863a37b8354e0fbfe.png" alt="Cover for Hello My Name Is" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,7 +1223,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>43</td>
       <td>
       </td>
       <td>2011-10-25</td>
@@ -1248,14 +1241,14 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 28</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 42</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 47</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 59</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/4VKOaM6OJhMDadS7pUYNkT0HUmb-nroYkYLVramex1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODc4/NjQtMTQxMDczOTY5/NS04MjAzLmpwZWc.jpeg" alt="Cover for Computer Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1269,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b84a7d22c0f54d4ecddeb114ea20a386.png" alt="Cover for Stratospheric Cannon Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1299,7 +1292,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df67df1bd37dced4cfbd1bddc28226b8.png" alt="Cover for Cyberpunk 2077 - Original Score" style="max-width:120px; height:auto;" />
       </td>
@@ -1314,12 +1307,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Xf-UrPJ-D1w91u9yPZjb40OJIuMhQunrsRpqvnNVxd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTg4/MTQtMTQwNzQwMDMx/MC01MDM2LmpwZWc.jpeg" alt="Cover for Evil Technology" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1334,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/WQQMnjvpMiyL2A6ASP4bs22gtPmTS0YtZGUpNhlSyfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/ODc0LTE2MjA0NzA5/OTYtODYwNC5qcGVn.jpeg" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,14 +1354,14 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 27</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 74</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 78</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81957a4ea968d7e99bb5b0afc0835425.png" alt="Cover for Prototype" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1385,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1468dfaa41526e9f8b36117260afafd.png" alt="Cover for A Color for Fiction" style="max-width:120px; height:auto;" />
       </td>
@@ -1411,12 +1404,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/YWHsPBOtuQmGuA9O5mCCvXBJcxmpC4996yU4gYFjlKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTAy/NzQtMTQ3MjA3Nzgw/Mi04NjYzLmpwZWc.jpeg" alt="Cover for Katana Zero (Original Soundtrack) [Live] [Live Version]" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1429,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/LxW-tTbZO2T8abSpgvbe9fjzd2CMxYSh8rfDX7EyyPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDgy/NDMtMTQ1MjIzOTQz/My01MjA2LnBuZw.jpeg" alt="Cover for Manic" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,7 +1451,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8876634e6628a32d611af02bcf882b9b.png" alt="Cover for Bloodsong (ArcheAge Aria NA Theme)" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,12 +1470,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fb987c3a676c2b60e460278442999bb.png" alt="Cover for Darkness Leaves Nowhere to Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,12 +1493,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24ae258f02cee4b46ed4704acf74fae0.png" alt="Cover for Technomancy" style="max-width:120px; height:auto;" />
       </td>
@@ -1528,7 +1521,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/W7pissYUjzshDanxWoK-9MaskLe90gnjqAQQE4V5ep0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM3/NDM3LTE1OTE1MTk3/NDUtNjMyMC5qcGVn.jpeg" alt="Cover for Cyberpunk: Malware" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1539,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5abf3d9cce5163bda94bc9dac6b80c75.png" alt="Cover for Counterflow" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1562,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Dv140PlPHiW-3ItiBkbpeU3AgazEe87m5z_iTy8gEEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTQ1/NTUtMTQ3OTEzNzUx/OS03NTU0LmpwZWc.jpeg" alt="Cover for VOID" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1584,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce133a2f5317f5ca0c107f08ce1ef489.png" alt="Cover for Revelation (ArcheAge Orchidna NA Theme)" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,12 +1603,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 24</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/yCJdFmlIxj7NJ3L3U_WPjbYQIMkgnj-KG3tMNYnxqTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc0/NzE1LTE1NzEyNDAz/MTQtODY2My5qcGVn.jpeg" alt="Cover for Act 1 (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1633,7 +1626,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5de830008727f104c71a3ee79844159.png" alt="Cover for Gate" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,13 +1650,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 53</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/ETFGSQKMlja3_DEh4Rm0IB3kWFlPZ_v94TiNvEbRfTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU3/ODY3LTE0OTI2MjQw/NTctMzE4MS5qcGVn.jpeg" alt="Cover for A Skeleton Key in the Doors of Depression" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,13 +1678,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 50</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 46</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e004743d01754e78aaee9a94f959d8.png" alt="Cover for Files" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1705,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c18275f5df06ab8a86b76cdae41a9b40.png" alt="Cover for Singularity" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,13 +1726,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 38</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 63</li>
             <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7ac12b782db2fbdcfc9bb28f9e9ec6b.png" alt="Cover for Wrath Of The Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,12 +1749,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 23</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1aaf1005762d1c235b48770a4a369e5.png" alt="Cover for Tech Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1775,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/kE0Tx3zHwxxX3JJg8uDjI1Ijt5YfwyydMrjfjkm1jm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYw/MDMzLTE1MDkxMTI4/MjEtOTA1My5qcGVn.jpeg" alt="Cover for Monochrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1800,7 +1793,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/36410b35aa945b802b6a4e22d1e39eda.png" alt="Cover for SIGMATA FM" style="max-width:120px; height:auto;" />
       </td>
@@ -1822,7 +1815,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df47902f381f6c1c755a4a3b55fe63cd.png" alt="Cover for The Long Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,12 +1835,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 12</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d8e1f4d8b7a5a1a9a73732a8cf466b2.png" alt="Cover for Sacred" style="max-width:120px; height:auto;" />
       </td>
@@ -1868,7 +1861,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9e98c9eb2f30aa267d47499d1b3f944.png" alt="Cover for THE SECOND INDUSTRIAL REVOLUTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1882,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/75bd1f4a87e4e3692ee0b9921b2d5b77.png" alt="Cover for Reincarnated" style="max-width:120px; height:auto;" />
       </td>
@@ -1916,17 +1909,17 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
             <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b26144ffe0ad78a3d29bc239be92cf75.png" alt="Cover for Warp" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1938,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/hqqc3OJrbkcVm1IcoKc8adfx4_ThwRl4hyzHDLsIsBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg1/MzAzLTE1NTg5ODUw/NTctNjU4My5qcGVn.jpeg" alt="Cover for All About Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1965,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/0gSez13YOfGP3tLcb_MY3em7D-Reu8E2R_REznjCERM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcy/MDMtMTMwOTU3ODUz/OS5qcGVn.jpeg" alt="Cover for Activate!" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,12 +1983,12 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       <td>
         <ul>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 11</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b54abcf16e64960062f9dadbe5a6d1e.png" alt="Cover for You Will Never Find Peace" style="max-width:120px; height:auto;" />
       </td>
@@ -2017,12 +2010,13 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 1</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/9iFL4A8LlOLr179EFnk28AKdupVKUa73wGLBbFkr9xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzcz/MjAtMTQ1OTc2NTIx/Ni04MTMxLnBuZw.jpeg" alt="Cover for Biocellulose" style="max-width:120px; height:auto;" />
       </td>
@@ -2044,7 +2038,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/UvYIcHlIcL7phHIbeI4us4g0L-2wGkRpJ13f84FOwxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI0/NTQ1LTE2MTA2Mzgx/MzctODExMi5qcGVn.jpeg" alt="Cover for Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -2067,16 +2061,16 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 19</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 80</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 82</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/FX_99HW0mcqr8W1q2cAo6JIihg8w-IIad4_F0n4SSaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQx/NjA0LTE2MTIyNzEw/MzktMzAxOS5qcGVn.jpeg" alt="Cover for Ultimatum" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,7 +2095,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/ZvjD5gQeZWakSmJJWAg8siXG504CMDGciB_RN13GEgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE4/MDY2LTE2NzMwNTM5/NDMtNDYzMS5qcGVn.jpeg" alt="Cover for Neuroframe" style="max-width:120px; height:auto;" />
       </td>
@@ -2120,7 +2114,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/oxSV5aQx6mSNBXr4qaKkj2iFK9QmaLGZBPyyUjzzly4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzMz/MTQtMTM4ODU3NTIw/OC0yMjMzLmpwZWc.jpeg" alt="Cover for Blade Runner OST [Esper Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -2138,7 +2132,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/YoX_gZv15Nv9a3nnf7V9zB_9lEzFHr9VJ1M89mGPn4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODM0/MjEtMTQ2MjQ5NTU2/Mi0zMDA2LmpwZWc.jpeg" alt="Cover for 極東I LOVE YOU" style="max-width:120px; height:auto;" />
       </td>
@@ -2159,7 +2153,7 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/948f407c5a2848d090d9562bfa32f493.png" alt="Cover for Venom" style="max-width:120px; height:auto;" />
       </td>
@@ -2182,18 +2176,35 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 16</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 84</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Welle:Erdball</td>
+      <td>Alles Ist Möglich</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/caa28bd28ee27c14c4a0623ccfe1296c.png" alt="Cover for World Wide W.E.B." style="max-width:120px; height:auto;" />
       </td>
@@ -2204,23 +2215,6 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Welle:Erdball</td>
-      <td>Alles Ist Möglich</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
         </ul>
       </td>
       <td>
@@ -2240,6 +2234,6 @@ Cyberpunk music blends aggressive electronic sounds with industrial, punk, and s
 - [ebm]({{ "/tags/ebm" | relative_url }})
 - [idm]({{ "/tags/idm" | relative_url }})
 - [digital hardcore]({{ "/tags/digital-hardcore" | relative_url }})
-- [industrial rock]({{ "/tags/industrial-rock" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [industrial rock]({{ "/tags/industrial-rock" | relative_url }})
 - [dark ambient]({{ "/tags/dark-ambient" | relative_url }})

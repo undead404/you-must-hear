@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T18:39:17.157Z
+date: 2025-12-03T06:30:37.333Z
 permalink: tags/jamaica
 title: jamaica
 ---
 
 ## jamaica
 
-Last updated: <time datetime="2025-10-18T18:39:17.157Z">Sat Oct 18 2025 21:39:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:30:37.333Z">Wed Dec 03 2025 08:30:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,6 +51,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6d87abde5e40d74bbc8cf43bdf64ba.png" alt="Cover for 007 Shanty Town" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Desmond Dekker &amp; The Aces</td>
@@ -73,6 +74,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7b9964775742d1896c47d80b06de77.png" alt="Cover for Take It Easy" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Hopeton Lewis</td>
@@ -94,6 +96,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f9bb772d7474f9e9e3796546777ba56.png" alt="Cover for Jimmy Cliff" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Jimmy Cliff</td>
@@ -201,7 +204,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 52</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +241,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 6</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +338,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 22</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 59</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -490,7 +493,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/_XSvCrIpuPFHS_gIMt19B9zCkU3vp5J1DqUfCUVrsiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTEy/My0xNDQ1ODU0MDky/LTcxMTIuanBlZw.jpeg" alt="Cover for Prisoner In The Street" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad0a5480c2cd9a3a9b0b3809e3ec648b.png" alt="Cover for Prisoner In The Street" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Third World</td>
@@ -525,7 +528,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -565,9 +568,9 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 57</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 89</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 97</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 58</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 90</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +725,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 52</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +954,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 87</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1032,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       <td>
         <ul>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 13</li>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 79</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1048,8 +1051,8 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 48</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 81</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 20</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 49</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 90</li>
         </ul>
       </td>
@@ -1094,8 +1097,8 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 12</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 63</li>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1116,8 +1119,8 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 12</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 15</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1220,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 9</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1335,7 +1338,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 47</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1412,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 25</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1448,7 +1451,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 63</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1493,6 +1496,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8304d21a03b44ba82ad258f3d85a3bf.png" alt="Cover for Welcome to Jamrock" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-12</td>
       <td>Damian Marley</td>
@@ -1504,8 +1508,8 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 87</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 99</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 2</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 89</li>
             <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 100</li>
         </ul>
       </td>
@@ -1561,7 +1565,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 9</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1604,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 84</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1619,28 +1623,26 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 2</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 17</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/9bQFZu-AeeBZrgfdj7hit9XTZqKQQ8lbY1735hJOTkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUw/NDgtMTUyMDc0OTIw/OS00MjI3LmpwZWc.jpeg" alt="Cover for Love Is Wicked" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ce8f209dba4b2aad8548a87d1a7476.png" alt="Cover for Love Is Wicked" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Brick &amp; Lace</td>
       <td>Love Is Wicked</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 22</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1661,15 +1663,15 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 79</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 98</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 3</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/jBjatgn3rlyoFNl8E0fMyrF-qhUZ7R-I8EUgfB8WWQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDAz/MTctMTI5MjUzNTMz/NC5qcGVn.jpeg" alt="Cover for She Loves Me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d3fc7cf836845089b3e69e56e540041.png" alt="Cover for She Loves Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Serani</td>
@@ -1711,8 +1713,8 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       <td>
         <ul>
             <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 40</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 57</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 65</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 58</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1774,6 +1776,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb6e4640b8454c53b82ef03acf81679f.png" alt="Cover for Made in Jamaica" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Bob Sinclar</td>
@@ -1960,7 +1963,7 @@ Jamaican music encompasses the island&#39;s rich musical traditions, including r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 14</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 87</li>
         </ul>
       </td>
     </tr>

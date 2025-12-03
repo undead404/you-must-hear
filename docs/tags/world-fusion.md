@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T01:03:39.596Z
+date: 2025-12-03T06:33:06.122Z
 permalink: tags/world-fusion
 title: world fusion
 ---
 
 ## world fusion
 
-Last updated: <time datetime="2025-10-29T01:03:39.596Z">Wed Oct 29 2025 03:03:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:06.122Z">Wed Dec 03 2025 08:33:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,7 +125,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Café Mundo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9932df87aa624b87bdac76d301bd1b10.png" alt="Cover for Café Mundo" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -293,9 +293,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 39</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 46</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 65</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 42</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 66</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
         </ul>
       </td>
@@ -303,6 +303,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f40bff51ae884a6ecac75935bd1a04fe.png" alt="Cover for To the evening child" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-09</td>
       <td>Stephan Micus</td>
@@ -315,7 +316,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 61</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -364,6 +365,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/beb41f02f434e8543d32c3863fffd254.png" alt="Cover for Dream Of 100 Nations" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Transglobal Underground</td>
@@ -397,7 +399,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +418,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 96</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -437,8 +439,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 36</li>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 63</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 39</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 64</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 99</li>
         </ul>
       </td>
@@ -475,7 +477,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -495,7 +497,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 66</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -519,6 +521,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3299e3afc54451c494591bd215a74d.png" alt="Cover for Imaginary Cuba" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09</td>
       <td>Bill Laswell</td>
@@ -571,7 +574,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 53</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 47</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 89</li>
         </ul>
       </td>
@@ -592,14 +595,15 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 4</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 18</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 5</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/074874f7de64bc376a985e828da17a17.png" alt="Cover for Gigi" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Gigi</td>
@@ -654,7 +658,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 76</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 75</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 97</li>
         </ul>
       </td>
@@ -662,6 +666,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1455bbbd4eb14ef3a5f6e5576bb05d8c.png" alt="Cover for East of the River Ganges" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-12</td>
       <td>The Kumba Mela Experiment</td>
@@ -673,14 +678,14 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 41</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/1EAiRevfOFh37mbJeWPn5fZHiMfqLExC8qZ-027kERM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYw/NDg1LTE1Mzc2Mjk3/MTMtODY4MS5qcGVn.jpeg" alt="Cover for Indolence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3663206eac734a33bbc572b05834f66e.png" alt="Cover for Indolence" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Grand palace</td>
@@ -718,9 +723,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 41</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 45</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 58</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 59</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 65</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 82</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 84</li>
@@ -747,9 +752,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 15</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 26</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 62</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 73</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -770,11 +775,13 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 17</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 81</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 3</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 19</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 30</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 41</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -894,6 +901,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-26</td>
       <td>Emilie Autumn</td>
@@ -905,16 +913,16 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 42</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -941,8 +949,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 78</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 23</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 84</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
@@ -954,7 +962,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/dvpPobs1EEoFkTXipzNp2-jNhmOAkOgz5bwjAGooiCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjUw/OS0xMjY4MDgxMjIw/LmpwZWc.jpeg" alt="Cover for Impossible Broadcasting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9467984e15edc626f84d83942a4e3db.png" alt="Cover for Impossible Broadcasting" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Transglobal Underground</td>
@@ -970,8 +978,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 11</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 78</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1037,7 +1045,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/phVxtg1NrVtLfsoAFMcAgYjzGewYn2uKA8c1xE_UsRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjEw/NS0xMzY2MDUwMjk2/LTU4NzEuanBlZw.jpeg" alt="Cover for Everything Must Change" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06f9b9ed5a65d009e969119788b46b7b.png" alt="Cover for Everything Must Change" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-28</td>
       <td>Orange Blossom</td>
@@ -1101,7 +1109,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 80</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 82</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 100</li>
         </ul>
       </td>
@@ -1146,6 +1154,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -1167,20 +1176,21 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 21</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/715bb548b55b4b2c93196ed14cd030a5.png" alt="Cover for A Thousand Roads" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08-23</td>
       <td>Lisa Gerrard &amp; Jeff Rona</td>
@@ -1217,7 +1227,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 19</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1240,17 +1250,17 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1274,8 +1284,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 20</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 78</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 79</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 100</li>
         </ul>
       </td>
@@ -1283,6 +1293,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415f18b3061fc9d355684d303067a809.png" alt="Cover for Raka" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-25</td>
       <td>志方あきこ</td>
@@ -1299,11 +1310,11 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 33</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 94</li>
         </ul>
       </td>
@@ -1395,9 +1406,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 26</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 46</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1449,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 45</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 55</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 90</li>
         </ul>
       </td>
@@ -1462,7 +1473,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 75</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1488,8 +1499,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 43</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 57</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 60</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 62</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 67</li>
@@ -1545,6 +1556,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2133a9f35405499ec92a49fdd29f1c52.png" alt="Cover for Harmonia" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-18</td>
       <td>志方あきこ</td>
@@ -1564,9 +1576,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       <td>
         <ul>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 48</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 50</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
         </ul>
       </td>
@@ -1574,6 +1586,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f7ff58cb7cf44a5a37e773869fde719.png" alt="Cover for The Golden Thread" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-15</td>
       <td>Stellamara</td>
@@ -1586,7 +1599,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 25</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1630,14 +1643,15 @@ World fusion blends traditional music from diverse cultures with contemporary st
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 6</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 25</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 75</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 26</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9815180521601498c2b7d1d74e0c7078.png" alt="Cover for Abu Nawas Rhapsody" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-01</td>
       <td>Dhafer Youssef</td>
@@ -1655,6 +1669,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bc8e62852cb48f58d81e3920e2d10f2.png" alt="Cover for Offering" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Rajna</td>
@@ -1670,14 +1685,15 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 57</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 75</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 59</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac970ddb6900fdf88864a9f9a582b38.png" alt="Cover for Kari-gurashi" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-07</td>
       <td>Cécile Corbel</td>
@@ -1704,9 +1720,9 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 66</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 67</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 87</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 12</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 66</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1742,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 16</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1757,10 +1773,10 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 17</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 70</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 67</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1788,6 +1804,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52bc2b2841969bdb70160aedd584eb9c.png" alt="Cover for Elektrafone" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-04</td>
       <td>Beats Antique</td>
@@ -1799,7 +1816,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 55</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1825,22 +1842,18 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c926ecba7e04ce394c354379bb9000f.png" alt="Cover for Anastasis" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-09</td>
       <td>Dead Can Dance</td>
       <td>Anastasis</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 26</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 62</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 93</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 55</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 93</li>
         </ul>
       </td>
@@ -1866,6 +1879,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/060c56ef2bbb4d3fcd3ea8a406207921.png" alt="Cover for Ya Nass" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-29</td>
       <td>Yasmine Hamdan</td>
@@ -1883,6 +1897,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a740e9220b135d566d6d91e3741f60e5.png" alt="Cover for L&#39;aventura" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-26</td>
       <td>Sébastien Tellier</td>
@@ -1899,10 +1914,10 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 34</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 84</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1956,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/3UPQxfglXWvWUYg3iGc-gCiVVP0a32mrDarV6pK0904/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjU3/NzctMTQzMDU3NjQ4/Ny00MTI0LmpwZWc.jpeg" alt="Cover for The Fourth Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eeae7b9db573fe7842c43e5074efc23b.png" alt="Cover for The Fourth Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03</td>
       <td>Niyaz</td>
@@ -1984,7 +1999,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/5EwaHl4p1FtkDiTa4ECC_dLZhKmWo0zW8pUfABtnCW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/MjU4LTE1NTE0MjY5/NjgtMTk5Ny5qcGVn.jpeg" alt="Cover for Parakosmos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bcc6999b06c88fd0b3d85d0b105d29c.png" alt="Cover for Parakosmos" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-17</td>
       <td>bottlesmoker</td>
@@ -2021,17 +2036,18 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 95</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
@@ -2082,14 +2098,15 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 25</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 36</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 29</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d05605087940db8c731d2f94b20b76.png" alt="Cover for LAYLANIA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>志方あきこ</td>
@@ -2110,7 +2127,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 7</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 9</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 37</li>
         </ul>
       </td>
@@ -2130,7 +2147,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 54</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2158,6 +2175,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecf4f018f7f40869a22c0ae52d5748bb.png" alt="Cover for Cloud Walk" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ESCPE</td>
@@ -2177,7 +2195,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 33</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2217,7 +2235,7 @@ World fusion blends traditional music from diverse cultures with contemporary st
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 27</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2247,8 +2265,8 @@ World fusion blends traditional music from diverse cultures with contemporary st
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [chillout]({{ "/tags/chillout" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
-- [ethnic]({{ "/tags/ethnic" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
+- [ethnic]({{ "/tags/ethnic" | relative_url }})
 - [fusion]({{ "/tags/fusion" | relative_url }})
 - [new age]({{ "/tags/new-age" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})

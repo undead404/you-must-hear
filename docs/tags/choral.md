@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:34:25.341Z
+date: 2025-12-03T06:31:50.649Z
 permalink: tags/choral
 title: choral
 ---
 
 ## choral
 
-Last updated: <time datetime="2025-11-14T01:34:25.341Z">Fri Nov 14 2025 03:34:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:50.649Z">Wed Dec 03 2025 08:31:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -197,8 +197,8 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 72</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 79</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 33</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -314,8 +314,8 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 57</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 59</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 59</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 81</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 82</li>
             <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 100</li>
         </ul>
       </td>
@@ -474,7 +474,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 13</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +722,8 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 70</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 2</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -831,7 +832,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 37</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -852,8 +853,8 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 26</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 44</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -914,6 +915,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff1bc4b30cfa17755aaf3398b2badcad.png" alt="Cover for Adiemus IV - The Eternal Knot" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-25</td>
       <td>Adiemus</td>
@@ -949,6 +951,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c096279fe4c778eed8b75f96b49767a1.png" alt="Cover for The Armed Man: A Mass For Peace" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-10</td>
       <td>Karl Jenkins</td>
@@ -997,16 +1000,16 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 47</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 57</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1088,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/PfQLp7A9Hxl4JTxm6KrdgXbPqyXBt3FRx5lPSBSGxiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA3/NDgtMTI0NjM1OTA3/NS5qcGVn.jpeg" alt="Cover for Sanctuary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5318af97970e7c3d0f9026e9e8df7d9e.png" alt="Cover for Sanctuary" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-09</td>
       <td>Magna Canta</td>
@@ -1116,7 +1119,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 84</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 85</li>
             <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 89</li>
         </ul>
       </td>
@@ -1250,7 +1253,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 31</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1350,10 +1353,10 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 13</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 68</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 75</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 79</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 26</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 33</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1395,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 14</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 28</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 81</li>
         </ul>
       </td>
@@ -1444,19 +1447,17 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/K7jh8Pcb2bmK7VRkZk4Fx73KqcPE4UZtj7XpHb1GSno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY0/MjI2LTE2MDY0OTY3/MDEtMTg4OS5qcGVn.jpeg" alt="Cover for The Talos Principle (Video Game Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/208fe455b3ba788c893c233011298db5.png" alt="Cover for The Talos Principle (Video Game Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Damjan Mravunac</td>
@@ -1471,7 +1472,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1554,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/5cSOGTzUmDsGYURIe7pbuDgifHmjntLjkxBb4gXNEyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODcz/NjktMTQ3MDgzMDk5/OC0zOTY3LmpwZWc.jpeg" alt="Cover for Mausoleum (Live)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/505111386626daa2515e781af4be0e83.png" alt="Cover for Mausoleum (Live)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-19</td>
       <td>Myrkur</td>
@@ -1566,7 +1567,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 73</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1664,7 +1665,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 34</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 41</li>
             <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 97</li>
         </ul>
       </td>
@@ -1683,9 +1684,7 @@ Choral music features vocal ensembles singing in harmony, often without instrume
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 63</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 75</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 93</li>
         </ul>
       </td>
     </tr>

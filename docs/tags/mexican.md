@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:32:36.034Z
+date: 2025-12-03T06:17:40.828Z
 permalink: tags/mexican
 title: mexican
 ---
 
 ## mexican
 
-Last updated: <time datetime="2025-11-14T01:32:36.034Z">Fri Nov 14 2025 03:32:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:17:40.828Z">Wed Dec 03 2025 08:17:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 19</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 31</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -188,10 +188,10 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 37</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 65</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 16</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 58</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 62</li>
         </ul>
       </td>
@@ -334,8 +334,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 66</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 74</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 25</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -379,7 +379,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 80</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 82</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -408,10 +408,10 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 39</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -445,11 +445,11 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
         </ul>
@@ -472,7 +472,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 38</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 96</li>
         </ul>
       </td>
@@ -480,7 +480,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for Versus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cadd46543bf2484db4b0b55a5e20fe64.png" alt="Cover for Versus" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Various Artists</td>
@@ -523,7 +523,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 3</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -585,7 +585,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 66</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/jRCpudvgtXtTZXYdUUSyN77oWfkv5G3MPqluMDIBZ5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDQw/NjktMTQ2NTg1MTI5/Ny00Mzg0LmpwZWc.jpeg" alt="Cover for ¿Donde jugarán las niñas?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f564246ec299448991de5ed38d4773ed.png" alt="Cover for ¿Donde jugarán las niñas?" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Molotov</td>
@@ -852,7 +852,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 73</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -875,13 +875,14 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 5</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d486f79c267453a3d026af3a61796e9a.png" alt="Cover for Dance And Dense Denso" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Molotov</td>
@@ -889,7 +890,6 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -938,7 +938,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 51</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -961,15 +961,15 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 35</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 36</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/8dGe3YvfX2OKQHhZ7MLmXNy4KxSeDszD6A-COXXJJDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYx/ODAtMTM0NDAzMjIw/Ni04MTU1LmpwZWc.jpeg" alt="Cover for The Mexecutioner! - The Best of Brujeria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b83cc3c61009454ead0eb1a4b69555c0.png" alt="Cover for The Mexecutioner! - The Best of Brujeria" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Brujeria</td>
@@ -1066,7 +1066,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/KeDjzkZ0RXv74pr88jXO73a1nkCJMECHZedGrL6uoTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQx/MS0xMjkzMjE1NzQz/LmpwZWc.jpeg" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e392a0f66b8dc26bea5f28296a5b2d1.png" alt="Cover for Utopìa" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-28</td>
       <td>Murcof</td>
@@ -1085,7 +1085,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1133,9 +1133,9 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 6</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 35</li>
             <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 56</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1157,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 44</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 45</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1228,9 +1228,9 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 11</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 75</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 26</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 90</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 90</li>
         </ul>
       </td>
@@ -1254,6 +1254,24 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6c9b6f67e274a3a87f9b51c073e7113.png" alt="Cover for Utopia 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Belinda</td>
+      <td>Utopia 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1287,23 +1305,6 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6c9b6f67e274a3a87f9b51c073e7113.png" alt="Cover for Utopia 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Belinda</td>
-      <td>Utopia 2</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -1352,8 +1353,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       <td>
         <ul>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 14</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 27</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 83</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 16</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1376,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 62</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1444,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 30</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 31</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 78</li>
             <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 81</li>
         </ul>
@@ -1633,11 +1634,11 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 14</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 24</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 32</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 17</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 34</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 65</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 77</li>
             <li> <a href="{{ "/tags/nigeria" | relative_url }}">nigeria</a> # 88</li>
         </ul>
       </td>
@@ -1661,8 +1662,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 27</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 62</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1702,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 42</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1748,10 +1749,10 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 38</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 62</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1811,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1833,8 +1835,8 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 37</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 52</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 41</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 53</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 100</li>
         </ul>
       </td>
@@ -1969,7 +1971,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 49</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1992,7 +1994,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 23</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2054,7 +2056,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 55</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2172,7 +2174,7 @@ Mexican music encompasses diverse regional styles from Mexico including mariachi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 47</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 52</li>
         </ul>
       </td>
     </tr>

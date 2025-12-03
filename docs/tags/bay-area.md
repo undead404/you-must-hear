@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T12:58:09.034Z
+date: 2025-12-03T06:32:35.171Z
 permalink: tags/bay-area
 title: bay area
 ---
 
 ## bay area
 
-Last updated: <time datetime="2025-11-24T12:58:09.034Z">Mon Nov 24 2025 14:58:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:35.171Z">Wed Dec 03 2025 08:32:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 76</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 79</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 81</li>
         </ul>
       </td>
@@ -144,7 +144,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 8</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 64</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 37</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 87</li>
         </ul>
       </td>
@@ -225,8 +225,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 45</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 87</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 13</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 25</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 28</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 96</li>
         </ul>
       </td>
@@ -273,10 +273,10 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 71</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 5</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 74</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 76</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 76</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
         </ul>
       </td>
@@ -335,7 +335,28 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 79</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>I.M.P.</td>
+      <td>Ill Mannered Playas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +378,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -377,27 +398,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td>1995</td>
-      <td>I.M.P.</td>
-      <td>Ill Mannered Playas</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -456,9 +457,9 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 2</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 22</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 78</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 9</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 22</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -502,8 +503,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 3</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 57</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 7</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +527,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 63</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 68</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 71</li>
             <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 97</li>
         </ul>
@@ -584,7 +585,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 70</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -613,9 +614,9 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 28</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 31</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 32</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 70</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 71</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 83</li>
         </ul>
       </td>
@@ -663,7 +664,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 36</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -689,8 +690,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 56</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 45</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 70</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 79</li>
         </ul>
@@ -885,7 +886,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 79</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 22</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 91</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 94</li>
         </ul>
@@ -993,8 +994,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 78</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 85</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 15</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1014,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 92</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 9</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 99</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 99</li>
         </ul>
@@ -1035,7 +1036,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 94</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1117,10 +1118,10 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 5</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 60</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 3</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 17</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 62</li>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 70</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
         </ul>
@@ -1148,7 +1149,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 76</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 25</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 91</li>
         </ul>
       </td>
@@ -1225,8 +1226,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 86</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 89</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 12</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 14</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 97</li>
         </ul>
       </td>
@@ -1286,8 +1287,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 22</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 22</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1401,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 64</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1427,8 +1428,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 72</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 29</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 85</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 89</li>
         </ul>
@@ -1474,7 +1475,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 61</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 40</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 75</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 83</li>
         </ul>
@@ -1523,7 +1524,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 96</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 97</li>
         </ul>
@@ -1646,7 +1647,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 77</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 24</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 92</li>
         </ul>
       </td>
@@ -1686,7 +1687,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 11</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1728,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 70</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1766,8 +1767,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 41</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 49</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 52</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 58</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 63</li>
         </ul>
       </td>
@@ -1878,8 +1879,8 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 27</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 56</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 57</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 43</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 44</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 69</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 71</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 80</li>
@@ -1908,7 +1909,7 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 45</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 56</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 60</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 71</li>
         </ul>
@@ -1962,12 +1963,12 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
@@ -2042,12 +2043,12 @@ Bay Area hip-hop emerged from the San Francisco Bay Area in the 1980s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 34</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 61</li>
         </ul>
       </td>
     </tr>

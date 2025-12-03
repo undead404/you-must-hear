@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:04:03.625Z
+date: 2025-12-03T06:31:54.288Z
 permalink: tags/polskie
 title: polskie
 ---
 
 ## polskie
 
-Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:54.288Z">Wed Dec 03 2025 08:31:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,6 +50,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de9b50fcee05bce64119184cc84a2a4a.png" alt="Cover for Tyle słońca w całym mieście" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Anna Jantar</td>
@@ -71,7 +72,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/XRSG7w4CaF-Uyu51XT8Z7BWeEYF_Mdb6McXiVi0VFDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk5/NTYtMTI3MDMxNzE1/OC5qcGVn.jpeg" alt="Cover for Za każdy uśmiech" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aab92bbb700f889da1daaa62f838ab8.png" alt="Cover for Za każdy uśmiech" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Anna Jantar</td>
@@ -230,6 +231,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39e6614772e94ad1ac5a2b4c579ecddc.png" alt="Cover for Kolory" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-03-04</td>
       <td>Firebirds</td>
@@ -283,7 +285,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 48</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -394,7 +396,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 35</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -433,14 +435,14 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 85</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 88</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/S0_r0Rf1-CJj4bZIZYStJAnIGaBrjm3zL2JSKA9Wchs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MjktMTIyMDEzNDYx/NC5qcGVn.jpeg" alt="Cover for Ulice Jak Stygmaty - absolutne rarytasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a916624336d045c4a958c0bba77cbade.png" alt="Cover for Ulice Jak Stygmaty - absolutne rarytasy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Pidżama Porno</td>
@@ -531,7 +533,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 45</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 46</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 90</li>
         </ul>
       </td>
@@ -554,7 +556,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -641,6 +643,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a4386c9a14c85c026cf379ca576fe4a.png" alt="Cover for Perła" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-09</td>
       <td>Edyta Górniak</td>
@@ -751,7 +754,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/ZaVHIK_DaRooSYnWESRpUcygl5blXmBAxKhf4O0uE5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzgy/OS0xMjgyMjE5NTUz/LmpwZWc.jpeg" alt="Cover for Revolta 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73c71e1910fc4e19814ec2d9a65b0b13.png" alt="Cover for Revolta 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Sweet Noise</td>
@@ -770,6 +773,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db41b40b9e5f4734aff6462f48e8d58d.png" alt="Cover for Piosenki Toma Waitsa" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Kazik Staszewski</td>
@@ -786,7 +790,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/cUiAKfuUBMASK2a9ZSMh-KJiGSnTEMjui1QtBMUwxpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY1/MzMtMTYwOTE5OTE5/OC05NDc3LnBuZw.jpeg" alt="Cover for Nie czekaj na jutro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c0bbcbdc61e689dfc6acd74045628f8.png" alt="Cover for Nie czekaj na jutro" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-05</td>
       <td>Łzy</td>
@@ -854,7 +858,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 37</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +925,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/6FP8v7q62SQCjLUnPPiDx4fy6NApK5vyEvDsCqSsxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTc2/OS0xNTc4OTA1NDY1/LTE3MzguanBlZw.jpeg" alt="Cover for Jazzurekcja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62f18509a36f42b98bdf3c17ab646107.png" alt="Cover for Jazzurekcja" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-18</td>
       <td>O.S.T.R.</td>
@@ -936,9 +940,9 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 20</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 37</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 37</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 23</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 51</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 54</li>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 98</li>
         </ul>
       </td>
@@ -990,6 +994,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3aa4dfd15b3e4e1294534f0c5c41ea9d.png" alt="Cover for Skazany Na Bluesa" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Dżem</td>
@@ -1009,6 +1014,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea5885845666a8c5955a1c611faabed6.png" alt="Cover for Smak słów" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Goya</td>
@@ -1057,15 +1063,15 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 44</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 71</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 30</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Gy7pMyZ7DCBKfpeLWh46uBJVZ8-POhVjk81VR7fwSS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDUx/OC0xNTkxNTUzMTY3/LTg0MDMuanBlZw.jpeg" alt="Cover for Podroze z i pod prad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9341d4ea69554b988a64769d713b11a0.png" alt="Cover for Podroze z i pod prad" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-12</td>
       <td>happysad</td>
@@ -1077,7 +1083,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 45</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1110,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/qtvBO9gAujpkpU5sI71v9gwOYZtGQk-AoPuYtNFqw_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTIy/NzYtMTY2MzMzNTE2/Ny05NjIzLmpwZWc.jpeg" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc6318768b4595909a156cf00f45e439.png" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Marek Grechuta</td>
@@ -1119,8 +1125,8 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 38</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 84</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1169,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/AJOUWIBTCn190y0LaWuCD3HEPNdgjO6Ss4KGlYj2ssI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjU3/MjktMTI5ODIyNTAw/NS5qcGVn.jpeg" alt="Cover for Słowa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1b27abfe80564c8a7a9cd85720fe48c.png" alt="Cover for Słowa" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Małgorzata Ostrowska</td>
@@ -1204,7 +1210,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Rb59mtqAyCeh2LpzcKrYX_icm-VWFv4WbHWNH14Yc9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjE1/ODItMTQxMDA4MDA0/My0zODY5LmpwZWc.jpeg" alt="Cover for E.K.G" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/738d3f30419a4fcbb40956089acac14b.png" alt="Cover for E.K.G" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-12</td>
       <td>Edyta Górniak</td>
@@ -1235,7 +1241,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 57</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 97</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1257,7 +1263,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 81</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1285,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 15</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1326,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/hdwKm6RKQv2Iozmi-Tp4rNgBXDm1aIZM1ARymqeKf9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIw/OTUtMTIzNTI5OTYy/OS5qcGVn.jpeg" alt="Cover for Co Nie Ma Sobie Równych" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca93ef2abf6db79df81f00d921b9d2b3.png" alt="Cover for Co Nie Ma Sobie Równych" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-14</td>
       <td>Zeus</td>
@@ -1333,7 +1339,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 61</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1527,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/H0gJrmzTHOEozUeP8UMT_Kw_0rXsQRyMNeaQ7Z7MUiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMz/OTA0LTE2MzA5Mjkw/NzQtOTAwMi5qcGVn.jpeg" alt="Cover for Kim Zonk Funk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fc997ed8c744fe5827adc26d21188d8.png" alt="Cover for Kim Zonk Funk" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Cmy</td>
@@ -1698,7 +1704,6 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/GtmvIIx_Mqg29X18ljqcZs618GCcLP-P8V80OZB3RvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk2/NjYtMTU5NzkzMTE0/Ny04MzYwLmpwZWc.jpeg" alt="Cover for Blackout" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-31</td>
       <td>Blackout</td>
@@ -1785,9 +1790,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       <td>Ostateczny Krach Systemu Korp.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
         </ul>
       </td>
@@ -1801,6 +1804,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73a66b1304024212a230e370c8e43005.png" alt="Cover for very good bad music" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>jim duda</td>
@@ -1855,7 +1859,7 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 12</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1998,8 +2002,8 @@ Last updated: <time datetime="2025-10-28T06:04:03.625Z">Tue Oct 28 2025 08:04:03
 - [pop]({{ "/tags/pop" | relative_url }})
 - [electro]({{ "/tags/electro" | relative_url }})
 - [polska]({{ "/tags/polska" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [techno]({{ "/tags/techno" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [polish rock]({{ "/tags/polish-rock" | relative_url }})

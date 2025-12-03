@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:40:36.791Z
+date: 2025-12-03T06:33:24.017Z
 permalink: tags/baltimore
 title: baltimore
 ---
 
 ## baltimore
 
-Last updated: <time datetime="2025-11-19T07:40:36.791Z">Wed Nov 19 2025 09:40:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:24.017Z">Wed Dec 03 2025 08:33:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -462,7 +462,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 74</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -480,7 +480,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 73</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -520,7 +520,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 23</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 6</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +647,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 27</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +867,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 56</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -895,14 +895,13 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/a-xxZ4VI7RiPnwfH89EgDX0LihxX5iCx_uORDCMy20w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQw/NzQtMTMxMTI4MTE2/NS5qcGVn.jpeg" alt="Cover for Still Petals EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-04</td>
       <td>Romantic States</td>
@@ -975,7 +974,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/iKCMrVQhKaHnMi13oqkp_tG8SXa_DOw8wILXx83uR3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ2/MjUtMTMzNTA4NDA4/MS5qcGVn.jpeg" alt="Cover for Finally" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed0e356cb0cb0c6c868b265e0e039d1.png" alt="Cover for Finally" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Rare Candy</td>
@@ -991,7 +990,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 11</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1067,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1204,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/pBuWmUrMfNDrnewqoGLq0Xkm_KHZmklbmZA3__h3n4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzQ2/NTAtMTQ4MTIxODYz/NS0yMzg0LmpwZWc.jpeg" alt="Cover for The New Mystikal Troubadours" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb5a6bbf77f44278963d80aab58f4c4e.png" alt="Cover for The New Mystikal Troubadours" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-01</td>
       <td>The New Mystikal Troubadours</td>
@@ -1290,7 +1289,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 25</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1418,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>
         <ul>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 37</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1442,8 +1441,8 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 6</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 76</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 95</li>
         </ul>
       </td>
@@ -1462,6 +1461,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1483,8 +1483,8 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 40</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1502,8 +1502,8 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 81</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1526,9 +1526,9 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 9</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 91</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 92</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1591,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1613,7 +1613,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 34</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1635,7 +1635,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1710,22 +1710,19 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>beko_15</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 19</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1773,8 +1770,8 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 25</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 25</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 26</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1793,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1839,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1949,8 +1946,8 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 56</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1969,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1995,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 4</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2048,6 +2045,7 @@ Baltimore represents a distinctive sonic identity emerging from Maryland&#39;s l
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a19ff9c5de218376ff1d5f7eff0d9333.png" alt="Cover for Up on Bomber Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lean Horse Marathon</td>

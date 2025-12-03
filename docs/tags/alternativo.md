@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T13:50:29.438Z
+date: 2025-12-03T06:33:02.222Z
 permalink: tags/alternativo
 title: alternativo
 ---
 
 ## alternativo
 
-Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:02.222Z">Wed Dec 03 2025 08:33:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/b-pzi1oySrD3I6I-SBQzA0qzYC6uYifggmRU36Z6c2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA1/OTctMTQxNTkzNDk0/MS03NDg1LmpwZWc.jpeg" alt="Cover for Viajar Lejos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62392768ef224bd1cb6398256b8a3a26.png" alt="Cover for Viajar Lejos" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Los Pillos</td>
@@ -181,10 +181,10 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 6</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 22</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 67</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 75</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 25</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 59</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +453,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/SsTQjduPfn5c7xiQyxlcZ_JcPZ1R-yRmndpDSjw3VZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTQz/MzMtMTQyNDc4MTM4/MS00NDExLmpwZWc.jpeg" alt="Cover for No Te Cabe Na&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d2b191c5560033ab067ed96f9baf699.png" alt="Cover for No Te Cabe Na&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>O&#39;Funk&#39;illo</td>
@@ -477,8 +477,8 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 17</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 45</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 21</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 2</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/K7FB2OYSYea22QPSTBnTPAupnZI-bn20ut4AmANf8KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/MDAtMTM2NTMxNTc2/OS0yMDY5LmpwZWc.jpeg" alt="Cover for La Radiolina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ea5327e82c24507ba54d14b7ff4198f.png" alt="Cover for La Radiolina" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-03</td>
       <td>Manu Chao</td>
@@ -644,7 +644,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 71</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -775,6 +775,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +881,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/M28Z0Is3bGGxHp7EQaIGOlH8P0b18FHRBo1YHa9Id5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTk4/NTItMTQ2MzI1ODUz/Ny01MTEyLmpwZWc.jpeg" alt="Cover for Demos &amp; Covers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/855128b66dbc4e6497937ba8fd7ef479.png" alt="Cover for Demos &amp; Covers" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-06</td>
       <td>Paramore</td>
@@ -1024,7 +1025,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Owo4_CICA4WQfTsfFB_Q578GRShKO1BEevlWkimSOh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/OTEzLTE1MTIxNjgz/NDgtNDA4Ny5qcGVn.jpeg" alt="Cover for Lo Que Más Querés" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b5ffd29048d466fc629a1731c79bdf0.png" alt="Cover for Lo Que Más Querés" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Banda de Turistas</td>
@@ -1039,8 +1040,8 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 24</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 26</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 71</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1179,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 51</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1278,7 +1279,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 79</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1403,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 4</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1416,18 +1417,13 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       <td>Mariners Apartment Complex</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 84</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 90</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 90</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 94</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 8</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 23</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1454,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 30</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 70</li>
             <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 74</li>
         </ul>
       </td>
@@ -1466,7 +1462,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/6xW-JoHBzJCBTf2kV33YLmydNDU3zBiAvKybWk4D39Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAy/OTA0LTE1NDAzNTU3/MTItMTg1My5qcGVn.jpeg" alt="Cover for From Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f82804117ac7479ec7a003fbbf476649.png" alt="Cover for From Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-19</td>
       <td>Novo Amor</td>
@@ -1624,7 +1620,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 65</li>
+            <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1645,7 +1641,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 41</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 60</li>
             <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 67</li>
         </ul>
       </td>
@@ -1653,6 +1649,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/894f9f031e31417ec12fbb438891107c.png" alt="Cover for Demo 2007" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Revival Condor Legend</td>
@@ -1691,7 +1688,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 31</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1713,7 +1710,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 35</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1758,6 +1755,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53f309433e294472c4282910f8d4b3f3.png" alt="Cover for Terra da Mentira" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Douglas Ok</td>
@@ -1931,6 +1929,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d3ec0c25a547d2a7a3230abc5803d1.png" alt="Cover for El Inicio" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Todos los Perros</td>
@@ -1950,6 +1949,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/362ceb5b4ec23cda28dbb3681608723c.png" alt="Cover for Contra Insetos Parasitas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Th6</td>
@@ -1971,6 +1971,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70899d6d908847f081549921b496d6cc.png" alt="Cover for Aire" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>puentedura</td>
@@ -2009,6 +2010,7 @@ Last updated: <time datetime="2025-11-11T13:50:29.438Z">Tue Nov 11 2025 15:50:29
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1adb3d4688399f9f1a48dbe9e6e59f8b.png" alt="Cover for Eu Só Penso Em Você" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Douglas Andrade</td>

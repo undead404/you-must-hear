@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:40:01.766Z
+date: 2025-12-03T06:33:11.317Z
 permalink: tags/norge
 title: norge
 ---
 
 ## norge
 
-Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:11.317Z">Wed Dec 03 2025 08:33:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -145,11 +145,11 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 18</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 48</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 52</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 25</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 50</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 54</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 63</li>
         </ul>
       </td>
@@ -157,7 +157,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/Ugyg2559AP9V_PqXigMl-56cf5feMvGZN6drDu3wz0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQx/OC0xMjUzODA2MzYx/LmpwZWc.jpeg" alt="Cover for Og eg lyger så det renner som en foss gjennom rommet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae903081e253607fa840a46551c881b0.png" alt="Cover for Og eg lyger så det renner som en foss gjennom rommet" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Gabrielle</td>
@@ -176,7 +176,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 4</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 4</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +627,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/i31ou-LOiLS2o8Q52Lf0j9cYBR3pmlIOpIIEbCpBFbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTA5/OTYtMTQ2NTI4MjMy/NC0xNzE3LmpwZWc.jpeg" alt="Cover for Rebels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70af90773b4543e69be4554040d58cc6.png" alt="Cover for Rebels" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Tooji</td>
@@ -649,7 +649,6 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/MppABC0pL1SCJfOyDoa8ztg1Ml-mCwqV9f0lZb852W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDA5/MjktMTM2NzgyOTAy/Mi03NDEzLmpwZWc.jpeg" alt="Cover for Galskapens Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Vidar Johnsen</td>
@@ -713,6 +712,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/086b005ee762163183aa26c3514f8108.png" alt="Cover for Tretten" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-05</td>
       <td>Hellbillies</td>
@@ -768,7 +768,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 79</li>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/95rYjiZi2Qzg2-h9H7ypMlkGVGPQPVVpxt9DyuYviO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODI0/MTktMTM4OTUyOTkz/Ny00MjQ3LmpwZWc.jpeg" alt="Cover for Dyrandé" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e89b612e1f54569dbfbb33d795938d1.png" alt="Cover for Dyrandé" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Hekla Stålstrenga</td>
@@ -838,7 +838,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/KE23nooTWzqTQFZHSQWaqs2A35dTj6rKlc0EUDaxzcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjA2/OTEtMTQwNzQ0MzYx/NC04NjE5LmpwZWc.jpeg" alt="Cover for Festi ekje slutt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8964765d6213931e73542fd9b3bfe20d.png" alt="Cover for Festi ekje slutt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Vassendgutane</td>
@@ -879,7 +879,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/y8vzPEoZifCNrNC--_7FBNV23JoasKDvN36XdBHu7NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcx/MjcxLTE0OTYxNTY3/NjAtNTE5OS5qcGVn.jpeg" alt="Cover for Stugureint" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9038aacb1788c42bc3a45cc57f020c4.png" alt="Cover for Stugureint" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-08</td>
       <td>Staut</td>
@@ -945,7 +945,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/RrAhsYiVZIBUedikSzBTo-iWSneBqG-9Lz3i-74Sf6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/MTktMTM3OTE2MjU0/Ny04ODQ2LmpwZWc.jpeg" alt="Cover for The Fox" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a86881488f5c47c1405f7de1fdec7eab.png" alt="Cover for The Fox" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-02</td>
       <td>Ylvis</td>
@@ -962,16 +962,16 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 88</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 20</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/CZYfC_9UrzHslwAuJLu3kXKGSEq7aE2q22fEUmS5JgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzUy/MjQtMTQxMTkzNTI2/My0yNjg2LmpwZWc.jpeg" alt="Cover for Ville ord" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb3047f4ae434551c556184ece2180ba.png" alt="Cover for Ville ord" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-06</td>
       <td>Frida Ånnevik</td>
@@ -1071,7 +1071,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1094,14 +1094,13 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 12</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/FWbpoM125l2icfL9B1MmG4lqyfvCnneqTh3Yl5Nm3jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDcx/NTItMTQ0NzU3NTA0/Ny0yNDU1LmpwZWc.jpeg" alt="Cover for Six String Love Affair" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-08</td>
       <td>Steffen Jakobsen</td>
@@ -1180,7 +1179,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1201,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 19</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1225,8 +1224,8 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 43</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 49</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 72</li>
         </ul>
       </td>
@@ -1275,7 +1274,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/cn6WJWXTZ3qthqd3rojwXNBZ4VzECDs4U1I-rklnu9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTAx/NDgtMTU2MTQ5NjYw/Ny01NTE0LmpwZWc.jpeg" alt="Cover for LEVANDE LIVe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/043df193e57e2e288d216202800a92d9.png" alt="Cover for LEVANDE LIVe" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Hellbillies</td>
@@ -1360,7 +1359,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/Io0b82UJ_2A8wtKorV6kOKMT2Ms9KBS_I2fTvKb_QfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTY5/MTUtMTY0MDAwMjk5/NS0zOTE5LmpwZWc.jpeg" alt="Cover for Berre meg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2be14ed0d40c513f750e05c8733793f9.png" alt="Cover for Berre meg" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Ingebjørg Bratland</td>
@@ -1466,6 +1465,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b03532b0800dcd26a236ba7669239847.png" alt="Cover for Six" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-14</td>
       <td>Thom Hell</td>
@@ -1508,7 +1508,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/EPVWGfFJcn9X7T-Y_TvF6O9QHo5UQqgBmtXhaRS9dbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEw/MTEtMTM5ODE5NDU3/NC0yNjE4LmpwZWc.jpeg" alt="Cover for No som ailt e bra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2316cc21fab4cd8470c4c62a7841baa.png" alt="Cover for No som ailt e bra" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-07</td>
       <td>Anders Jektvik</td>
@@ -1529,6 +1529,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3359b23c8b64e2bce5c0420de5e69da.png" alt="Cover for Islander" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-25</td>
       <td>Bernhoft</td>
@@ -1544,8 +1545,8 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 6</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 74</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 78</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1591,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 65</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 66</li>
             <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 85</li>
         </ul>
       </td>
@@ -1651,15 +1652,14 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/-Y2BLwk92NPntDZln8f6I0g0gvc_Qzdp_CpUafqsMUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk1/Njk4LTE0OTg2MzA3/MDUtMTUyOS5qcGVn.jpeg" alt="Cover for Mr. Toot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a33ab95c45b1e78b92b605203428147.png" alt="Cover for Mr. Toot" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-03</td>
       <td>Ylvis</td>
@@ -1740,7 +1740,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 21</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1761,8 +1761,8 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 3</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 36</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 10</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1910,15 +1910,15 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 6</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 38</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/dcDrG9a7pP8h5HbFCw0C2JMgCXcR_3RBOZHzYOZhjlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTEx/NTQtMTQ3MzIzNDky/Mi01NjE1LmpwZWc.jpeg" alt="Cover for LA-Files" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d597576539ed459ec57f157e03bf3f7c.png" alt="Cover for LA-Files" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Sandra Lyng</td>
@@ -1961,7 +1961,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/tmwB2yUhvy0ZEueiWVRhKEtrC7aV9A_2AyV0l0DR-aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcy/NzcwLTE1MDU3MjA2/NzktMTQ3My5qcGVn.jpeg" alt="Cover for Lionheart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55030080b8b84182c19bf151b7fdc592.png" alt="Cover for Lionheart" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Sophie Elise</td>
@@ -1997,8 +1997,8 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 4</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 37</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2025,7 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/RngtQY6boGZ_xQPcVQJMftmYkNJ6nQvS6DPc_lIU6oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/OTMzLTE1OTE3OTI5/ODYtMzU2Ny5qcGVn.jpeg" alt="Cover for Nothing Left" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed132282706590ab0ef6879430f91bd.png" alt="Cover for Nothing Left" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-29</td>
       <td>Kygo</td>
@@ -2044,10 +2044,10 @@ Last updated: <time datetime="2025-11-08T19:40:01.766Z">Sat Nov 08 2025 21:40:01
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 41</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 34</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 47</li>
         </ul>
       </td>
     </tr>

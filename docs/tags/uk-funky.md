@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T22:31:22.521Z
+date: 2025-12-03T06:33:55.670Z
 permalink: tags/uk-funky
 title: uk funky
 ---
 
 ## uk funky
 
-Last updated: <time datetime="2025-10-18T22:31:22.521Z">Sun Oct 19 2025 01:31:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:55.670Z">Wed Dec 03 2025 08:33:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ef17ea08d929bb363937984b74ea9f.png" alt="Cover for 187 Lockdown" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-28</td>
       <td>187 Lockdown</td>
@@ -70,7 +71,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c0f11938e8c93ad7ae6e851f70ad07a.png" alt="Cover for Night Slugs Allstars Volume 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -85,7 +86,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 21</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -172,14 +173,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 58</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/kJG358MoEphm9vyEvOJCwJwHphSDo6am7vxE2JdVvug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njc1/MjgtMTYzODM0MzIw/Ny0yOTUyLmpwZWc.jpeg" alt="Cover for What If I Could" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/493de871487f20ac3a24f1a88263dd6d.png" alt="Cover for What If I Could" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Mike Soul</td>
@@ -209,7 +210,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/kJG358MoEphm9vyEvOJCwJwHphSDo6am7vxE2JdVvug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njc1/MjgtMTYzODM0MzIw/Ny0yOTUyLmpwZWc.jpeg" alt="Cover for Look Into The Mirror - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c1e5187b8a1d758001bd235385607e8.png" alt="Cover for Look Into The Mirror - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Mike Soul</td>
@@ -274,7 +275,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 77</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 26</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 82</li>
         </ul>
       </td>
@@ -358,7 +359,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/2rJK4CutSIAe1-3ljQoDc_QRhVP3WqWV4k7toO2KTRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQz/OTQtMTI1OTE5MzAx/NS5qcGVn.jpeg" alt="Cover for The Jelly Roll EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e86eba7704343459e6f1b2b6907bf4d.png" alt="Cover for The Jelly Roll EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-00</td>
       <td>Scratcha DVA</td>
@@ -379,7 +380,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ZjGwBE9-Df7nC1x0y6dIj_eMtFUzWRN1dSAvIy_bA00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE5/MjEtMTQ1NjY2MDg1/My05NDgwLmpwZWc.jpeg" alt="Cover for Julio Bashmore EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d737e8f1de564b43af98d09ae0f5b0bc.png" alt="Cover for Julio Bashmore EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-09</td>
       <td>Julio Bashmore</td>
@@ -393,7 +394,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 45</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +419,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/UOWoHMcFl1tCSvbaOeTys5-dVLuITcLERo18HaR_LWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDMw/NDEtMTI5NjY5NDY2/Ny5qcGVn.jpeg" alt="Cover for Laika" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11c2e8b35c5b48cdad09ccc2f0cebb6f.png" alt="Cover for Laika" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-25</td>
       <td>SBTRKT</td>
@@ -432,7 +433,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 78</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -477,6 +478,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c40fd0bd201a429497a821dc54f2f8fe.png" alt="Cover for 2020" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-05</td>
       <td>SBTRKT</td>
@@ -492,7 +494,8 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 25</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 9</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +522,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/s8QpqIAdlCdgu92In7zGMhR-j6YXBHpnb2g1kPAzgEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQz/MDctMTI4NDk0MTA5/Mi5qcGVn.jpeg" alt="Cover for Batak Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6f2a91f757482ca4e343650f4366a6.png" alt="Cover for Batak Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-23</td>
       <td>Julio Bashmore</td>
@@ -559,7 +562,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/01UauDARw1nhXSlWY9ekkV6HNtBAEZE3QW8MU-VDDPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE2/NzQtMTI4Njk1OTcx/My5qcGVn.jpeg" alt="Cover for Chazm &#x2F; Footsteppin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c340658d83cd4175a39cb09b10e3b534.png" alt="Cover for Chazm &#x2F; Footsteppin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10</td>
       <td>Julio Bashmore</td>
@@ -579,7 +582,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/UXG-IftfhvPFBoA7t3DHCSaDjxadOCqW3WL51OKxioU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE3/MTMtMTMwODg5ODIx/OC5qcGVn.jpeg" alt="Cover for On the Nile EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49575b9b8c8540db8f87665458585684.png" alt="Cover for On the Nile EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Jay Weed</td>
@@ -601,7 +604,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/QQvlQzgxl0uW84EQ7v2FDrRWUx48ZBAvL_rkweXb4BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjMw/MDktMTI5NTU0NjU4/NS5qcGVn.jpeg" alt="Cover for The Look EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/038a477591214d26bbbcd0a11151ec1b.png" alt="Cover for The Look EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01</td>
       <td>Jacques Greene</td>
@@ -615,14 +618,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 49</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/E7ul2l4-S8Fd87ojdI10F9cQeRpS818UuPOAv82GK-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU3/NTEtMTMxOTIzMzk0/Mi5qcGVn.jpeg" alt="Cover for Everyone Needs A Theme Tune" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a56300681d14424abb955292b7240ab2.png" alt="Cover for Everyone Needs A Theme Tune" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01</td>
       <td>Julio Bashmore</td>
@@ -641,7 +644,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/uCEDHWuj6JbzmBJiU6pAiKHQ6ZUyF7lJDOJutYZ4gjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzM0/NzItMTM0OTcwOTY4/Ni0xODkxLmpwZWc.jpeg" alt="Cover for It&#39;s Like That EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81862175e8224033b2737674b2ed42f3.png" alt="Cover for It&#39;s Like That EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-09</td>
       <td>Tuff Wheelz</td>
@@ -660,6 +663,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f87e6aa5fc54d36cdd08932336da6b5.png" alt="Cover for Clumberkicks EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-26</td>
       <td>Disko-ions</td>
@@ -692,7 +696,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/otwK4gFwDplcoki7QFxztXEc2Dc91GVX5hRTM7NKbtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQw/MzQtMTMyMDUyNjY4/MS5qcGVn.jpeg" alt="Cover for Batty Knee Dance EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e28688bacb24c20b3e261b9c88d7908.png" alt="Cover for Batty Knee Dance EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-04</td>
       <td>Julio Bashmore</td>
@@ -711,7 +715,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/jnlFxDQr3gqkfEu5N4jbuvRX-r1ZxAB9yhFwcNVJiX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjc5/OTItMTMwMzI4MDQy/NC5qcGVn.jpeg" alt="Cover for Living Like I Do" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab91afc02a384e00ce6cc3a1f3e142d3.png" alt="Cover for Living Like I Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-11</td>
       <td>SBTRKT</td>
@@ -727,7 +731,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 22</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +752,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 39</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -812,6 +816,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa5e4fbf093743c5be6e72602474f687.png" alt="Cover for SBTRKT" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-27</td>
       <td>SBTRKT</td>
@@ -824,10 +829,10 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 39</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 87</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 96</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 88</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +858,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/mp7nJ5j1wT0_UIHWlfW25alKEwMk_RfGfJ2vOlotjW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzM1/NjctMTM0OTcxMTY0/NS00MTg2LmpwZWc.jpeg" alt="Cover for Fruits And Flowerz EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/298834070c27400c948cb7c833fca5ee.png" alt="Cover for Fruits And Flowerz EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-07</td>
       <td>Kinky Leighton</td>
@@ -874,7 +879,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/r4mIkwnvxODoLgu42smKvENz7NwAIwXISqXdWCNhagM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM1/ODUzLTE2OTc2Nzk1/NjUtNjAyMi5qcGVn.jpeg" alt="Cover for Schiefield" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/064861d2bbba44799b264d55ac569b87.png" alt="Cover for Schiefield" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-12</td>
       <td>TETE DE TIGRE</td>
@@ -893,7 +898,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/-2v99ugV_7WPnChfum2EW-lJRijz86O_yFUMWZdMxLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTM1/MzAtMTMxODIxNTM3/My5qcGVn.jpeg" alt="Cover for Neon Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fc2186a3ed945e190ee4ec565a50fbd.png" alt="Cover for Neon Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>L-Vis 1990</td>
@@ -908,15 +913,15 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 16</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/V7fUMzvrCwPT05KMcQcCYdWmStdqaC56a6P65-aPD8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTI4/MTktMTMyNDMwNDQx/Ni5qcGVn.jpeg" alt="Cover for Hyperdub 10.4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/572f2aaa11614280c2a396545e408327.png" alt="Cover for Hyperdub 10.4" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Funkystepz</td>
@@ -970,7 +975,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 68</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -994,14 +999,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 43</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/3gu4cCZQmC499YPve5zX3lzT_T90TrXdarfTFEdQycA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/MzUtMTM0MDI5Mzc1/My01NjgyLmpwZWc.jpeg" alt="Cover for SEKTA FT. SPOEK MATHAMBO PETERPAN REMIXES" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20b466c1541b449505ca1e636eb8587e.png" alt="Cover for SEKTA FT. SPOEK MATHAMBO PETERPAN REMIXES" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>Dubbel Dutch</td>
@@ -1025,7 +1030,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/3gu4cCZQmC499YPve5zX3lzT_T90TrXdarfTFEdQycA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/MzUtMTM0MDI5Mzc1/My01NjgyLmpwZWc.jpeg" alt="Cover for THROWBACK EP (PALMS OUT SOUNDS)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a96c17a917516e39787d9a65ee1940d.png" alt="Cover for THROWBACK EP (PALMS OUT SOUNDS)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>Dubbel Dutch</td>
@@ -1045,7 +1050,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/zaMmi6jo2A-pd8DKJ2CUahE3vdiQPlC_hmDk8dRRqQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQz/NDgtMTMzOTQzMzQy/Mi0xMDkzLmpwZWc.jpeg" alt="Cover for Break Off" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57e03fc8f40141469462de4a98f94a90.png" alt="Cover for Break Off" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>SBTRKT</td>
@@ -1060,14 +1065,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 38</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/izwzF-MTM6RwpIIkLcwFKfoJagQM9NVLKASnLsM7baA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjI1/MTktMTM1ODk2NzE1/NS0yOTEwLmpwZWc.jpeg" alt="Cover for Rinse: Presents Brackles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfbf9ef0e857479384d9889b98701dad.png" alt="Cover for Rinse: Presents Brackles" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Brackles</td>
@@ -1087,7 +1092,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/vkcTnah6pyqZJWNz-qYYP3ryCTQ6JCFwQLT_XLGVKy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzM1/ODEtMTM0OTcxMTk0/NS02OTU1LmpwZWc.jpeg" alt="Cover for River of Gold EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ae5033458b499493006fae808c41c3.png" alt="Cover for River of Gold EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-16</td>
       <td>Tuff Wheelz</td>
@@ -1149,7 +1154,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/ytZ-nZQJSDz6XvD5bygwsRPUSNZPOYHs1wHyuI2PhlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDk3/OTItMTM5NzkxODA0/My0yMjY3LmpwZWc.jpeg" alt="Cover for Tenderly&#x2F;Flow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7303b92f7c7938aaa10927f2dbd93395.png" alt="Cover for Tenderly&#x2F;Flow" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02</td>
       <td>Disclosure</td>
@@ -1163,8 +1168,8 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 45</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 94</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 37</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1189,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 70</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1236,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/1FMg1x5NI9zfwTw5srDdCDogQ3ReEHq86KXxt7amzv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjM2/NjMtMTMzNTQzNTA0/MS5qcGVn.jpeg" alt="Cover for Back Of My Car EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/777f683572fc4a908074fc01261d1faf.png" alt="Cover for Back Of My Car EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-00</td>
       <td>Black Orange Juice</td>
@@ -1273,7 +1278,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       <td>
         <ul>
             <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 20</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 30</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1321,7 +1326,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/njFmjEfEr0sCXZJ2ubcuEpoget1w-YarS6ojZ373un8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTQy/OTMtMTM2OTY3ODE4/NC0zMzA5LmpwZWc.jpeg" alt="Cover for Settle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6c11048f1da4335b72d712c23f8c3f6.png" alt="Cover for Settle" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Disclosure</td>
@@ -1333,12 +1338,12 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 28</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 39</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 92</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 33</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1403,8 +1408,8 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       <td>
         <ul>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 15</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 32</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1468,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 51</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1485,7 +1490,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 46</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 48</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 79</li>
         </ul>
       </td>
@@ -1511,7 +1516,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/z8FI535fyq9ZXnrs5xV2rxfTjI0GHB2A1MsCu9IASdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI4/ODYtMTI3MDE2NTQy/NC5qcGVn.jpeg" alt="Cover for Soundboy Shift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceed71b9f29e4c3e8dee886e78d5a009.png" alt="Cover for Soundboy Shift" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-25</td>
       <td>SBTRKT</td>
@@ -1527,14 +1532,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 36</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/vW14rUnd3BdP_vQzN615IUPlBlO1ui9rqenEjL38Mlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDY4/NTItMTQ2Mzc4OTQ4/Ny00MzA4LmpwZWc.jpeg" alt="Cover for Folding Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f9df7f85ab0076ac3a51a7064bccc51.png" alt="Cover for Folding Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-20</td>
       <td>Sepalcure</td>
@@ -1549,8 +1554,8 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 68</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 70</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1581,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/jB7qfLQEfdXgz-ziaouolA8b2nd-uoFv8FzxLsRgVPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/ODY4LTE2ODYxMDE3/MTgtNjA3MS5wbmc.jpeg" alt="Cover for Heat Mover &#x2F; Battery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/871f500f553aa48f2c04cd586eb1ec3e.png" alt="Cover for Heat Mover &#x2F; Battery" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-14</td>
       <td>Lurka</td>
@@ -1593,14 +1598,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 54</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Z_b7hrZBozMtdMPuv5MUvUyOadx0nOce7Zaaq6q8yTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NzU1LTE1NjIzMDU2/MDYtNDE2MC5qcGVn.jpeg" alt="Cover for LOGIC1000" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbc4267c11bbe772a6726e9f645c05b.png" alt="Cover for LOGIC1000" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-06</td>
       <td>Logic1000</td>
@@ -1618,7 +1623,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/6HerOxhqABBhYJsZn2h4IhsxGaMn4E4hTliaBx89ZT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA3/MTUwLTE2MTg0OTM2/MjgtOTA3MS5qcGVn.jpeg" alt="Cover for Get To Know" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef8fa6b20f8b6c69983e7ad5d818fd4d.png" alt="Cover for Get To Know" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Becky Hill</td>
@@ -1639,7 +1644,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/hkZeMQawzePeiolBRt5iSqULdjtvyxy7-0en08B0-OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA0/Mzg4LTE2MjE1MDgw/OTAtNzg1My5qcGVn.jpeg" alt="Cover for Natty &#x2F; Ganja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab45fd9da6b845b9b301b1b1a2a83818.png" alt="Cover for Natty &#x2F; Ganja" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-14</td>
       <td>Scratcha DVA</td>
@@ -1658,7 +1663,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/qcgecKxCLNCvdd6-vswpl6GQsLBdGDGS8QSo0B850FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY0/NzY1LTE2MjA2MzIw/MjMtNzIyNy5qcGVn.jpeg" alt="Cover for Shall Go EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5bf00c97b06404ea227150c8b0cb9c5.png" alt="Cover for Shall Go EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Todd Edwards</td>
@@ -1717,7 +1722,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/jTmeYGSCP_c0Y1v9CJ1I4q8BDLprs_aGV-fxRD1hFAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/MTk4LTE2NDk1ODI3/MzAtMjc5Ny5qcGVn.jpeg" alt="Cover for Maisie by the Sea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a355443476c40beaaedcc210efb9f638.png" alt="Cover for Maisie by the Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-26</td>
       <td>Walton</td>
@@ -1762,6 +1767,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bb579d3e9b824ea1f661f0a2276036.png" alt="Cover for Dark &amp; Long Mixtape 4AE" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1798,14 +1804,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 1</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 16</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9196721ae3814d44a2c906d3a76ef82d.png" alt="Cover for 2012 House Promos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>KaneKong</td>
@@ -1827,6 +1833,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d73fa4c64f972a8f00afe9b318afd2e6.png" alt="Cover for ISoLaTioN" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1849,13 +1856,14 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 58</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb79b725f44fb94874d4f40c8d91fa66.png" alt="Cover for Squeeze &amp; Carry On" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1884,6 +1892,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1458c63f4c9ffb41b4a972f749147edf.png" alt="Cover for Blueface Joketime EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1911,6 +1920,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cca6aad103dd82551129aa4f1184276.png" alt="Cover for 100 Camels Of Mr. Bowles EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1983,6 +1993,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1302f32c5dcfee29c369950f9be37145.png" alt="Cover for ISoLaTioN III" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2009,6 +2020,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8d4e7fae218f91a7068af16573038a6.png" alt="Cover for Function Dilemma EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2039,6 +2051,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6ee06ea36424733a291db9371670553.png" alt="Cover for Waverly 1.40pm EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2069,6 +2082,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e19d728a5764bd8a55a8f045b73a0ea.png" alt="Cover for Virtual Acid" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>K Kong</td>
@@ -2089,6 +2103,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66ff5044b248c8b0c15f175f33bef784.png" alt="Cover for Piglets (Loss Of Morals)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2116,6 +2131,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7adfd2111222656de933c44e43bf772d.png" alt="Cover for Easily" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2144,6 +2160,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eea45f683c902d823c4e50e16f698f4.png" alt="Cover for Bruisin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2173,6 +2190,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b47b44672c58d2145c779f5733151dc.png" alt="Cover for It Is Happening Again EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -2240,6 +2258,7 @@ UK funky is a fast-paced electronic dance style that emerged from London&#39;s u
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86d24ff6da2292d6a4de04724628097.png" alt="Cover for Its a Som Tala Ting" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Som Tala</td>

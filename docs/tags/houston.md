@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:09:07.089Z
+date: 2025-12-03T06:31:14.623Z
 permalink: tags/houston
 title: houston
 ---
 
 ## houston
 
-Last updated: <time datetime="2025-11-08T19:09:07.089Z">Sat Nov 08 2025 21:09:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:14.623Z">Wed Dec 03 2025 08:31:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -144,7 +144,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/Z9DlBXUloooQ4z7UvG_91tAscGI0Ry5zflIUNlFr8AI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTIw/Mi0xMTM0MjEzOTI1/LmpwZWc.jpeg" alt="Cover for The Ghetto My Hood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a688440e10e0115f3ececa186142315c.png" alt="Cover for The Ghetto My Hood" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Trinity Garden Cartel</td>
@@ -165,7 +165,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>25</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a8e90bf9f987c86266a918b86ac737.png" alt="Cover for The Diary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfd0f16a6bd2ce2faa20d1f6ef119ef1.png" alt="Cover for The Diary" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-18</td>
       <td>Scarface</td>
@@ -177,14 +177,14 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 23</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 70</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca2732bb7bcd48979759df95eab2bc93.png" alt="Cover for Ain&#39;t No Turnin Back" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Big 50</td>
@@ -243,7 +243,6 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/PSH2EgPLD60feq1S3yhigcKI1WB9s13eyZTTSFFwdgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ0/NzgtMTI2MTE5MzI3/NS5qcGVn.jpeg" alt="Cover for Butler&#39;s Christmas Tunes" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Glenn Miller</td>
@@ -315,8 +314,9 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 30</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 91</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 31</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +335,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 74</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 28</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 4</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -431,7 +431,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Blokgolf Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d1a72a49ec12dd4fdb40f53fad17f72.png" alt="Cover for Blokgolf Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Various Artists</td>
@@ -488,9 +488,9 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 45</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 56</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 79</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 57</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 12</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 84</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -610,8 +610,8 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 17</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 46</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 18</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 49</li>
             <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 89</li>
         </ul>
       </td>
@@ -674,15 +674,15 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 6</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 19</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 8</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/0o3l5GhyMQFoNaQ4S3sCsqRsAhgTWnbYtD6BaXrQxcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODk5/NS0xNTUzNjYyMDY3/LTczOTkuanBlZw.jpeg" alt="Cover for I&#39;d Rather Be Judged By 12 Than Carried By 6" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d795a839be4247858ec8fd77dd7a20.png" alt="Cover for I&#39;d Rather Be Judged By 12 Than Carried By 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Trinity Garden Cartel</td>
@@ -738,9 +738,9 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 52</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 62</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 82</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 64</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +820,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 30</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 31</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 40</li>
         </ul>
       </td>
@@ -925,8 +925,8 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 39</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 51</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +950,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 56</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1181,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 42</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 45</li>
             <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 90</li>
         </ul>
       </td>
@@ -1350,6 +1350,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75f65ed7ab680390536a672089e5b2b5.png" alt="Cover for Thoughts Like Bombs" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-18</td>
       <td>The Watermarks</td>
@@ -1368,7 +1369,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 17</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1447,7 +1448,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 23</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1513,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 38</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1620,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 39</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 55</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1731,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/vU1OxDvRnTv4mgBfFkcnERexLJBNOebBXp3GVhtdgMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc4/NzcxLTE2NjM3MTE1/NTYtNzk3NC5qcGVn.jpeg" alt="Cover for Trappin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819e214b421bad5b8adf2c625b73117c.png" alt="Cover for Trappin" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-25</td>
       <td>Trill Sammy</td>
@@ -1846,7 +1847,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
       <td>
         <ul>
             <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 33</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 56</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1872,6 +1873,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e72d39273b24344a704022205ce9eda.png" alt="Cover for The Man Behind The Madness" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Infamous X-Mann</td>
@@ -1975,6 +1977,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4c44b6c5dd065769a3ccb83b1ceb220.png" alt="Cover for JACKBOYS" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Travi$ Scott</td>
@@ -1994,6 +1997,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87abba6cb7a5b7e674d8b947cc720a22.png" alt="Cover for Another Hit" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Street Military</td>
@@ -2053,6 +2057,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4fade31d09776ad78c85a42664bef88.png" alt="Cover for Mamacita" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Travi$ Scott</td>
@@ -2071,6 +2076,7 @@ Houston represents the distinctive sonic identity of Texas&#39;s largest city, c
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/973a353f7c429bb7beb48368b60d8cc8.png" alt="Cover for Don&#39;t Play" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Travi$ Scott</td>

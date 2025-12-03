@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:37:16.259Z
+date: 2025-12-03T06:33:27.735Z
 permalink: tags/acid-folk
 title: acid folk
 ---
 
 ## acid folk
 
-Last updated: <time datetime="2025-11-14T01:37:16.259Z">Fri Nov 14 2025 03:37:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:27.735Z">Wed Dec 03 2025 08:33:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,6 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -180,9 +179,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 58</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 90</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 60</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -200,9 +199,9 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 24</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 89</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 92</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 27</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -396,7 +395,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 55</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +437,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -512,8 +511,8 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 33</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 68</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 86</li>
         </ul>
       </td>
@@ -548,15 +547,17 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 47</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a00e7f7594f00afa6a0c9d4e1f46df.png" alt="Cover for Лет Ит Би" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Коммунизм</td>
@@ -748,7 +749,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 46</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 54</li>
             <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 81</li>
@@ -773,7 +774,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -876,6 +877,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e203f684e2524d08df7818536bc0c33.png" alt="Cover for Gold Miner&#39;s Daughters" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-05</td>
       <td>Pocahaunted</td>
@@ -1034,7 +1036,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1057,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 71</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1159,7 +1161,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 9</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 23</li>
         </ul>
       </td>
@@ -1240,7 +1242,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/qCPZ70qRZugznTFrHX2ijZ7TvL0cuKpeR4K4WhtTF74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkx/MTgxLTE1MTU0NzY3/MzAtNjIyNi5qcGVn.jpeg" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dad532b31ef4aa79d8f67ac6b448abb.png" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-19</td>
       <td>Saint Julien</td>
@@ -1460,6 +1462,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5819bb5d95d6306d0f79729e4eff9b1e.png" alt="Cover for Сон да не сон" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Шаййм</td>
@@ -1564,8 +1567,8 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 3</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 6</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 4</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1595,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 15</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1622,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 28</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1646,13 +1649,14 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 5</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 27</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>PENTAGONIC</td>
@@ -1681,10 +1685,10 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 8</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 52</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
         </ul>
@@ -1717,16 +1721,17 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 12</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/558cc5c166e8c35040fc0f5a68fc1de5.png" alt="Cover for Nova In The Belly" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1766,6 +1771,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0297488f7f74c54b82c73d5ced07921.png" alt="Cover for Romeo Soy Atom" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1784,6 +1790,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6eeb59f4cf4209968c61670e082929.png" alt="Cover for Odd Socks &amp; A Nest" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1820,6 +1827,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e1b866118c78a6e19e1de130c9751da.png" alt="Cover for Transmissions From The Green Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>electric mystical soul vibration</td>
@@ -1837,6 +1845,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8baa0c5462384b3091658e829f63a07b.png" alt="Cover for Cleopatra" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1855,6 +1864,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71db5bc2dde742debe60ed8887e02e0d.png" alt="Cover for 41" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1909,6 +1919,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbc989b332544b38b786992972f62f53.png" alt="Cover for Travelian Pets" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -1962,6 +1973,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c72592e364764994b0367173758f7f2a.png" alt="Cover for Island Nation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -2109,6 +2121,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc82a2fd1004803ac6df1cc0438eb54.png" alt="Cover for The Boy, The Puppets &amp; The Tiger" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Plum Flower Embroidery</td>
@@ -2141,6 +2154,7 @@ Acid folk blends traditional folk music with psychedelic experimentation, featur
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/180b06a4dfc8b29eb9e5a5debb2cdc58.png" alt="Cover for singles, unreleased and rarities" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>electric mystical soul vibration</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T20:14:35.926Z
+date: 2025-12-03T06:28:53.347Z
 permalink: tags/psybient
 title: psybient
 ---
 
 ## psybient
 
-Last updated: <time datetime="2025-11-16T20:14:35.926Z">Sun Nov 16 2025 22:14:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:28:53.347Z">Wed Dec 03 2025 08:28:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 45</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -103,13 +103,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 89</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3122b1fd3ec5d372a74c97607d243aba.png" alt="Cover for Hicksville" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Celtic Cross</td>
@@ -121,7 +122,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 77</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -158,9 +159,8 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 60</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 95</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 99</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 14</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -179,14 +179,15 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 16</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 100</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 1</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6422ef031c8f4ac092b25f3af9df1b74.png" alt="Cover for 5 Ex Engine" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Aural Planet</td>
@@ -221,8 +222,8 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 7</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 89</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 90</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -242,7 +243,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 44</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 56</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 99</li>
         </ul>
       </td>
@@ -297,11 +298,11 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 14</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 52</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -322,7 +323,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 65</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +426,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 86</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -490,9 +491,9 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 1</li>
-            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 11</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 25</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 84</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 13</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -515,23 +516,24 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
             <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0609e53b1b884f5faf63ff21fa0707c2.png" alt="Cover for Infinite garden" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-13</td>
       <td>Elve</td>
@@ -546,7 +548,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +662,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 73</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +680,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 5</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -716,8 +718,8 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 91</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 10</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +740,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 96</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -757,7 +759,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 29</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -783,6 +785,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78f3f654793f4f50b5a689b232f4a2ee.png" alt="Cover for Back to Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-24</td>
       <td>Eat Static</td>
@@ -817,8 +820,8 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -857,13 +860,13 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
             <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +894,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/ObVwzhjQtFxWvx7w_a-lHcgPD8SMcuQc2bNdKWaEXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc5/MzktMTMxMTk0MjQw/OS5qcGVn.jpeg" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00754c6d66ae2f4b99bb9392b1893ddf.png" alt="Cover for Hydroponic Garden (2015 Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10</td>
       <td>Carbon Based Lifeforms</td>
@@ -905,7 +908,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 65</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -950,6 +953,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4b7f3cd69e42c0a3b95ffbf99fef36.png" alt="Cover for Substans" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-29</td>
       <td>Circular</td>
@@ -963,7 +967,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 56</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1139,6 +1143,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2c6e94b813247ebb32c0dafadc190b8.png" alt="Cover for Black Pyramid" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-01</td>
       <td>AUN</td>
@@ -1209,7 +1214,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 79</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1309,7 +1314,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/kd_kunynvpKaQTuTL7qH6GyEOUVxzwl-AyXLCmhWyKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc2/ODMtMTMzMTk1NTky/OS5qcGVn.jpeg" alt="Cover for Come Back To Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/383a4d063e204256ac9ead6f34f3814b.png" alt="Cover for Come Back To Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-28</td>
       <td>Suduaya</td>
@@ -1341,7 +1346,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1387,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 17</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 84</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 97</li>
         </ul>
       </td>
@@ -1406,8 +1411,8 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 5</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 16</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 44</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 15</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1606,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 52</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1697,7 +1702,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/RjT_Jj_l7hG8EstUuFljWgpDmYcTS-OuxfCfRN82r90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTgz/NTctMTQxMzUwNTU4/Ny0zMjYxLmpwZWc.jpeg" alt="Cover for Asteroidi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5947d2b132ec43bec35f476ee2383472.png" alt="Cover for Asteroidi" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-15</td>
       <td>Progenie Terrestre Pura</td>
@@ -1731,14 +1736,14 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 92</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/rBqEV04yEPisqE5mVI2JtmY5tkQDz7tIMikq-pug2d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzc5/MjUtMTQzNTQ3OTc2/NS03MjEyLmpwZWc.jpeg" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5de27dbfc23dd1f580acb6708135a83.png" alt="Cover for A Singularity Encoded" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-23</td>
       <td>Entheogenic</td>
@@ -1752,7 +1757,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 57</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1874,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 63</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1897,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 94</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 99</li>
         </ul>
       </td>
@@ -1918,7 +1923,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 75</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 77</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 78</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 94</li>
         </ul>
       </td>
@@ -1926,7 +1931,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/1JoNb55yOBk7s3Llhxwwj7KWF05Lpg4gXtIid7LARqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/MDI0LTE1Mjg1NDky/NzQtNzA4Ny5qcGVn.jpeg" alt="Cover for starCross" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb8a286488db81aa4b2733fca4c140cd.png" alt="Cover for starCross" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-11</td>
       <td>Progenie Terrestre Pura</td>
@@ -1983,7 +1988,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 94</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2001,7 +2006,7 @@ Psybient blends psychedelic trance with ambient music, creating atmospheric soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 96</li>
         </ul>
       </td>
     </tr>

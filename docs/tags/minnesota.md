@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:04:59.778Z
+date: 2025-12-03T06:32:53.356Z
 permalink: tags/minnesota
 title: minnesota
 ---
 
 ## minnesota
 
-Last updated: <time datetime="2025-10-28T06:04:59.778Z">Tue Oct 28 2025 08:04:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:53.356Z">Wed Dec 03 2025 08:32:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 74</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -273,6 +273,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83a13a96f5139582dbabe3756e80a2f6.png" alt="Cover for Overcast!" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-01</td>
       <td>Atmosphere</td>
@@ -285,14 +286,14 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 28</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/aI-P6ZGI2HUb37I3qdJNCQhM_DbijDs669afdGItYRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDgw/OTIyLTE2NDcwODUy/OTgtOTAyMi5qcGVn.jpeg" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de5cac04badf459d8040743044aa219d.png" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Alex Rossi</td>
@@ -309,7 +310,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 29</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 30</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 64</li>
         </ul>
       </td>
@@ -317,7 +318,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/gAWseBDE3xlj0fVtydk-UUt84uHkbty82nacGSXK6HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAw/NDMtMTUyNDIzNjE3/OC0zMDUwLmpwZWc.jpeg" alt="Cover for Saté San" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48ff623b8a39eb8bdd075011477e1df4.png" alt="Cover for Saté San" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Ofasia</td>
@@ -428,18 +429,18 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +528,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 18</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 13</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 71</li>
         </ul>
       </td>
@@ -603,6 +604,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7de63c03278541c2809b86c328a65b9c.png" alt="Cover for Those Who Wait" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Ferd Mert</td>
@@ -621,7 +623,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/voAzxDIFeFyTElv1cXgZpDYR6GdwQ87aUQDOmV7na9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NzIyLTE2NDcwNDE1/MjItODE5OS5qcGVn.jpeg" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3661d39caaa3f190980db084da73bd29.png" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-16</td>
       <td>Alex Rossi</td>
@@ -638,7 +640,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 12</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 11</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 53</li>
         </ul>
       </td>
@@ -724,6 +726,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e81762ddb39b4f0384a9059675304c89.png" alt="Cover for A Cynics Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-29</td>
       <td>Tora! Tora! Torrance!</td>
@@ -742,7 +745,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 31</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 27</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 77</li>
         </ul>
       </td>
@@ -750,6 +753,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae6fc740104c4e41a773379173ea0aa7.png" alt="Cover for Seven&#39;s Travels" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-22</td>
       <td>Atmosphere</td>
@@ -761,7 +765,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 30</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 85</li>
         </ul>
       </td>
@@ -904,6 +908,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -946,18 +951,18 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1145,14 +1150,15 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 14</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 56</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6416ed24791043a2bfaa869527b47c10.png" alt="Cover for Strictly Leakage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-25</td>
       <td>Atmosphere</td>
@@ -1250,15 +1256,15 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
             <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1302,8 +1308,9 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 1</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 17</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
@@ -1313,15 +1320,13 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Lipmisc4v7qTSFujU5LTqMwrOdsPQ_ya9oOe8uTKqsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MTIyLTE2MzQ2NTU2/NzMtMTA3My5qcGVn.jpeg" alt="Cover for The Belfast Cowboys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cd89d53c36f478db6821279545d8d94.png" alt="Cover for The Belfast Cowboys" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Belfast Cowboys</td>
       <td>The Belfast Cowboys</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
         </ul>
       </td>
       <td>
@@ -1333,15 +1338,13 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/5lANJanGU6Ht68KYUYW7F6nUKpYA3os2sO04Ipz3bKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTcw/NTIwLTE2ODQ4NzQz/MjktOTEwMC5qcGVn.jpeg" alt="Cover for Switch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ebcc9aad10447dea7f0e4362282e191.png" alt="Cover for Switch" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>St Dominic&#39;s Trio</td>
       <td>Switch</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
         </ul>
       </td>
       <td>
@@ -1383,9 +1386,9 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 16</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 17</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 24</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 39</li>
+            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 40</li>
             <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 87</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 89</li>
         </ul>
@@ -1394,7 +1397,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/JK3wqpmnCWenoykpyJelGTzj8qvgUUYPH7cMTn4F3vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk1/ODEtMTM1Mzg3Mzk0/Ny03MzAwLmpwZWc.jpeg" alt="Cover for OssicleDanceParty!!!!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/194246285a414ff798980134179b1f6d.png" alt="Cover for OssicleDanceParty!!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-04</td>
       <td>JustLikeAmmy</td>
@@ -1464,9 +1467,9 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 74</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 28</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1497,14 +1500,14 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 2</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/ZhbLNet0x_bX2EiKQC4q63aWpUpL6P_rPhPXtgmn908/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk2/MTktMTM1Mzg3NDc2/OS02ODQwLnBuZw.jpeg" alt="Cover for Lobotomy EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ab15e80cb464568a4e2ee269cb5801c.png" alt="Cover for Lobotomy EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-14</td>
       <td>JustLikeAmmy</td>
@@ -1685,10 +1688,10 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 5</li>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 8</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 15</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 13</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 37</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1920,6 +1923,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f139893900d7461dbb4332b1331f84b6.png" alt="Cover for Oceans Into Ashes" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-03</td>
       <td>Maeth</td>
@@ -1939,7 +1943,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/6ibNmkZUxBdqyYP31zSnqkO636hjGWvb_p8Q_RFQ0A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDU2/NzEtMTM4NzY3MjMx/NS01Nzc4LmpwZWc.jpeg" alt="Cover for Fireflies (feat. Grieves)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23bd1b6a25e471f30ae12fba1cc1f6e6.png" alt="Cover for Fireflies (feat. Grieves)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-29</td>
       <td>Atmosphere</td>
@@ -1958,7 +1962,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/WWI8HD5n5fcD8jxMftMxc8Y0NHq0CDGRw_DFba2cRh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODk4/NjUzLTE2NzQ3OTE0/ODItMjcxNy5qcGVn.jpeg" alt="Cover for Turtleneck EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d976dd14f6a188759fe28180b358da2.png" alt="Cover for Turtleneck EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-10</td>
       <td>Candid Kid</td>
@@ -2136,7 +2140,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/PMGftLXpQfGcPRWjC26z3G0MyQe9l3dnaUqms3vz26s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY5/OTM4LTE0OTI4MTUy/MjMtMjQ3Ni5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2994ffc00d101ba38a4529c221069c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-16</td>
       <td>Remo Drive</td>
@@ -2144,12 +2148,11 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 42</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2287,7 +2290,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/XQUHAw1Gy5LQspme3ewAHa7nsfsb1-bT3TSd8LdWPoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NDI4LTE2NDcwMzkx/MDUtODQ3My5qcGVn.jpeg" alt="Cover for Fast Hennepin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f97a2c889e2b1eef0dcbc0d2d87213fd.png" alt="Cover for Fast Hennepin" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>Alex Rossi</td>
@@ -2519,6 +2522,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13c62aacef4540b4abb8b75704c80aee.png" alt="Cover for Breakbread - The Compilation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Breadsquad</td>
@@ -2540,6 +2544,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a14610fd4706493290a21ececa6b9132.png" alt="Cover for Eight Hundred Dollar Thunder" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mighty Fearsome</td>
@@ -2564,6 +2569,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c833ec15fe6ad1358ca2156eed1a5b5.png" alt="Cover for z shaped worm 2008-10-31 Demo EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>z shaped worm</td>
@@ -2585,6 +2591,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a8f1285c221e8e99dfd21cdd47a725.png" alt="Cover for Reckless Holiday" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Windy City Hangover</td>
@@ -2627,14 +2634,15 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 3</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 38</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 39</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ab6c4574264f258715a8fde65097c6.png" alt="Cover for Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Thousand Falls</td>
@@ -2651,7 +2659,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 6</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 5</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 76</li>
         </ul>
       </td>
@@ -2700,7 +2708,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
         </ul>
@@ -2709,6 +2717,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c153fa07a4500003ca0dbc333b68c0d.png" alt="Cover for The Delta Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Delta Rasa</td>
@@ -2729,10 +2738,10 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 3</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 67</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 72</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 83</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2909,6 +2918,7 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e0562d3f5e8a3bbd5a01962b5002078.png" alt="Cover for Singles From Mixtape" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Socks Unter Shoes</td>
@@ -3341,7 +3351,6 @@ The &quot;minnesota&quot; tag represents music associated with the state&#39;s d
     <tr>
       <td>60</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d2eca777141306b433a8d0bfc23cc7.png" alt="Cover for Unravel" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Killed by Kiwis</td>

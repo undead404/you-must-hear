@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:39:19.427Z
+date: 2025-12-03T06:32:31.484Z
 permalink: tags/philly-soul
 title: philly soul
 ---
 
 ## philly soul
 
-Last updated: <time datetime="2025-11-19T07:39:19.427Z">Wed Nov 19 2025 09:39:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:31.484Z">Wed Dec 03 2025 08:32:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,8 +43,8 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 6</li>
             <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 20</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -173,7 +173,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 75</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 40</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 77</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +838,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 50</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1606,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1660,8 +1660,8 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 4</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 29</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       <td>
         <ul>
             <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 57</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 86</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 100</li>
         </ul>
       </td>
@@ -1737,7 +1737,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 44</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ Philly soul emerged from Philadelphia in the late 1960s and 1970s, blending smoo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 48</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T07:39:12.543Z
+date: 2025-12-03T06:32:26.297Z
 permalink: tags/experimental-electronic
 title: experimental electronic
 ---
 
 ## experimental electronic
 
-Last updated: <time datetime="2025-11-19T07:39:12.543Z">Wed Nov 19 2025 09:39:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:26.297Z">Wed Dec 03 2025 08:32:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,14 +43,13 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/FxgD6nGZ0heH_hwX80S79DpuP4_tCo64uLxCh6DOZms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgw/MS0xMzk5MjkzOTc0/LTE2NDIuanBlZw.jpeg" alt="Cover for You Know Us" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Faust</td>
@@ -81,7 +80,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 24</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +122,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 56</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +142,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 22</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 76</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
         </ul>
       </td>
@@ -189,7 +188,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 27</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 28</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
         </ul>
       </td>
@@ -243,8 +242,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 23</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 71</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 78</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 98</li>
         </ul>
       </td>
@@ -357,9 +356,9 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 41</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 57</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
         </ul>
       </td>
@@ -449,12 +448,12 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 77</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -595,7 +594,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -621,6 +620,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/186320d2daa8ed6123604eef46786611.png" alt="Cover for Head Slash Bauch" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01</td>
       <td>AGF</td>
@@ -671,7 +671,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/xm5W8Dq324Yuj9TARPYwyv5kR_5Y-x2VtgZrtT3yclI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDk4/Ni0xMTYxMTcwMTI1/LmpwZWc.jpeg" alt="Cover for Youth Pixxel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/998d47dcc7a171a4402f5cca80e74cfd.png" alt="Cover for Youth Pixxel" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-31</td>
       <td>Germlin</td>
@@ -963,7 +963,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 4</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -986,7 +986,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 69</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1011,15 +1011,15 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 63</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 39</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/88Ic3AirN7Csbx8zqNnik6k4UVXoUEnh1kTlVbOZb6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc4/NTk5LTE1MTEzMDcw/NDgtOTkxOS5qcGVn.jpeg" alt="Cover for Tuned To A Dead Channel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffe173b3e0406c2bcb3385be55e28724.png" alt="Cover for Tuned To A Dead Channel" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-03</td>
       <td>Clouds</td>
@@ -1051,8 +1051,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 45</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 50</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 65</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 88</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
         </ul>
@@ -1073,7 +1073,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 24</li>
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 76</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 93</li>
@@ -1102,7 +1102,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 57</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 59</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 60</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 80</li>
         </ul>
       </td>
@@ -1110,6 +1110,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdd8b255037453fa9faab09cd708bad.png" alt="Cover for qia songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-07</td>
       <td>N-qia</td>
@@ -1132,8 +1133,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 33</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 68</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 78</li>
         </ul>
       </td>
@@ -1161,8 +1162,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 34</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 58</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 66</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 87</li>
         </ul>
       </td>
@@ -1194,8 +1195,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 2</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1225,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1254,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1302,7 +1303,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 17</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 60</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
         </ul>
       </td>
@@ -1331,7 +1332,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 71</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 29</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 74</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 81</li>
         </ul>
@@ -1481,7 +1482,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/PhHxC2M8OakJIxp13aeh2KFutREXPRknBVv_T0jV9Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDAx/MDItMTQxODMwNDMw/OC03MjEzLmpwZWc.jpeg" alt="Cover for Echo Expansion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9af92210db42bdb5282eef772c4236.png" alt="Cover for Echo Expansion" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-27</td>
       <td>Adventure Time</td>
@@ -1530,8 +1531,8 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 18</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 50</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 62</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1570,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 19</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1644,7 +1645,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 91</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1673,19 +1674,19 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/CcRdyTyld5K-BALW6WnuGNtqLWKBVh82N_UciOsJtp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE1/OTE5LTE1OTIzODE0/MTItNjExOC5qcGVn.jpeg" alt="Cover for No Tomorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4d26d98c10e6e9f33e17c22f3742965.png" alt="Cover for No Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Rune Bagge</td>
@@ -1718,7 +1719,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 85</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1788,6 +1789,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1816,28 +1818,25 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/cbBvj3iOE1XvZskFTzS_SEvaMkSwN7Y_wL8450uky3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NTgzLTE2MzIyMjMz/NTktNzMyMi5qcGVn.jpeg" alt="Cover for RIDE IT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a07b63a93082398e0bc8ac868e8c2c36.png" alt="Cover for RIDE IT" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>LustSickPuppy</td>
       <td>RIDE IT</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 67</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 67</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 91</li>
         </ul>
       </td>
@@ -1880,7 +1879,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 19</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 21</li>
             <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 98</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 100</li>
         </ul>
@@ -1889,7 +1888,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/JoygYMLzcjh-lyja5hpzvU9s2lj49qqhGy57xHvGuIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEx/NzAwLTE2MTkxMTA4/MjktNzQyMC5qcGVn.jpeg" alt="Cover for Landfill Totems" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/118ac81be7ce1251b394b7142b4b59d1.png" alt="Cover for Landfill Totems" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-08</td>
       <td>Hainbach</td>
@@ -1921,7 +1920,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1945,9 +1944,9 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 12</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 28</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 33</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 78</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2009,7 +2008,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2055,7 +2054,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 82</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 18</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 85</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 86</li>
         </ul>
@@ -2101,6 +2100,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2128,17 +2128,17 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 16</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/5cVc9g31iDLnwszoe-RAKcQ-GxZBR4OL0lxwvhyiksk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTI2/MDYyLTE2ODAzNDQx/NDgtMTE3MS5qcGVn.jpeg" alt="Cover for Nine Cities" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a5ebde18f0c2214df7db94e49b78e72.png" alt="Cover for Nine Cities" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>The Blood of Heroes</td>
@@ -2211,7 +2211,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 74</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2235,7 +2235,7 @@ Experimental electronic encompasses boundary-pushing electronic music that prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 12</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 87</li>
         </ul>
       </td>
     </tr>

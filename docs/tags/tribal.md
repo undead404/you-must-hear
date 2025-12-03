@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-08T19:40:52.100Z
+date: 2025-12-03T06:34:00.223Z
 permalink: tags/tribal
 title: tribal
 ---
 
 ## tribal
 
-Last updated: <time datetime="2025-11-08T19:40:52.100Z">Sat Nov 08 2025 21:40:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:34:00.223Z">Wed Dec 03 2025 08:34:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e992829b901f4cfa95d1e35cb01b7da0.png" alt="Cover for And the Waters Opened" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Between</td>
@@ -78,7 +79,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 42</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +163,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 11</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 13</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 83</li>
         </ul>
       </td>
@@ -170,6 +171,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7967891446f360aac3c9927db679401d.png" alt="Cover for Zul&#39;m" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04</td>
       <td>Muslimgauze</td>
@@ -205,13 +207,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 91</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b85692a3dc2954b9acf2af1e3d8b5c8.png" alt="Cover for Vote Hezbollah" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-06-15</td>
       <td>Muslimgauze</td>
@@ -230,7 +233,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/KRo-znKvmMcxGs3NbnheSEO336345QZ5HBLkackHOhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI2/MS0xNjcyMzM2NzQ0/LTUyNzUuanBlZw.jpeg" alt="Cover for Hamas Arc" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbdebf6ce303451dc569e46e671d1c7f.png" alt="Cover for Hamas Arc" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-10</td>
       <td>Muslimgauze</td>
@@ -249,6 +252,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a466f1dbe2203114373f8dbe7764e84.png" alt="Cover for Betrayal" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-11</td>
       <td>Muslimgauze</td>
@@ -269,6 +273,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/231ae950c1ec651843bcaaa18b43f495.png" alt="Cover for Citadel" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-05</td>
       <td>Muslimgauze</td>
@@ -281,7 +286,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 25</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 26</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 78</li>
         </ul>
       </td>
@@ -289,6 +294,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7f614ecc09d4213a34d58bc7df72a60.png" alt="Cover for Al-Zulfiquar Shaheed" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-12</td>
       <td>Muslimgauze</td>
@@ -325,8 +331,8 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 62</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 63</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 69</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 94</li>
         </ul>
@@ -355,6 +361,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/968c39f41afe3634566d1a32ba8bfc4c.png" alt="Cover for Gun Aramaic" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-01-08</td>
       <td>Muslimgauze</td>
@@ -369,7 +376,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +402,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/iRK5BR6XHUYF0VkqMpjPIbxCG8xr3GWN-Dv2vxUlvd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA4/MzMtMTM0MDQ2MDA3/My0zNDMyLmpwZWc.jpeg" alt="Cover for Matanza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b96f5b998510e65ee276826ef0da1b.png" alt="Cover for Matanza" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Matanza</td>
@@ -415,7 +422,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/kJIRbfvRoyLWOIGqMn8qWM-Cl8wIiz03VoZkssyYdFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njkx/Mi0xNDYxNjAyNTAz/LTk0NzkuanBlZw.jpeg" alt="Cover for Orange Blossom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f0bcdabe7464900933341adc1898966.png" alt="Cover for Orange Blossom" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Orange Blossom</td>
@@ -436,6 +443,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72349a9d41386a0150c5cb06664eb5fe.png" alt="Cover for Narcotic" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-10</td>
       <td>Muslimgauze</td>
@@ -457,22 +465,18 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec32933ffe854492bf73b5b4afb35ae0.png" alt="Cover for Bible of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-18</td>
       <td>Juno Reactor</td>
       <td>Bible of Dreams</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 50</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 66</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 90</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 34</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 100</li>
         </ul>
       </td>
@@ -480,6 +484,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d25637a791668f4b1d5c5229c2c26b95.png" alt="Cover for Mullah Said" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07</td>
       <td>Muslimgauze</td>
@@ -498,6 +503,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/145901684b0cb8717f10385e66804029.png" alt="Cover for Super Roots 8" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-24</td>
       <td>Boredoms</td>
@@ -517,6 +523,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7606841f84c0480c107228a3d914539b.png" alt="Cover for Hand Of Fatima" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-11</td>
       <td>Muslimgauze</td>
@@ -535,8 +542,8 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 40</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 68</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 75</li>
         </ul>
       </td>
@@ -544,6 +551,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9324a8ea167435e9840ba1dd124e96d.png" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Vibrasphere</td>
@@ -558,7 +566,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 99</li>
         </ul>
       </td>
@@ -604,6 +612,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6a42bc32e449b1b812a241af0e101e.png" alt="Cover for Shango" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-04</td>
       <td>Juno Reactor</td>
@@ -617,9 +626,9 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 13</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 57</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 70</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 23</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 26</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 75</li>
         </ul>
       </td>
@@ -665,6 +674,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b69209e2d243de9730c7d414a35514.png" alt="Cover for Not Without Risk" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-23</td>
       <td>Byron Metcalf</td>
@@ -718,6 +728,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/741a4ead459b4955a93b48d8513259e9.png" alt="Cover for Vindarnas hus" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Ulf Söderberg</td>
@@ -776,9 +787,9 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 16</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 78</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 85</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 100</li>
         </ul>
       </td>
@@ -786,6 +797,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c02b9c92aa44278a379aeb74291d574.png" alt="Cover for Tzolk&#39;in" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-24</td>
       <td>Tzolk&#39;in</td>
@@ -798,13 +810,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 9</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b030fb79186d45ec82e9151206499b28.png" alt="Cover for Labyrinth" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-29</td>
       <td>Juno Reactor</td>
@@ -819,8 +832,8 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 56</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 88</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 9</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 65</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 99</li>
         </ul>
       </td>
@@ -868,7 +881,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/o-DYVLlcVfzHWOfuDHRcH_6I-wz5ddftGE9WAMDiFY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjc5/Mi0xMjA0MTE1MDE3/LmpwZWc.jpeg" alt="Cover for Pedra Branca" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0beb91b065274de8b3824f288678ad9e.png" alt="Cover for Pedra Branca" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Pedra Branca</td>
@@ -890,7 +903,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/iMg3NGr2oDMiRUvGg9T3lw6Nb7mav6x3JI4eUV3Kh7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzA4/NC0xNDI4MTk2MTg2/LTQ0NTQuanBlZw.jpeg" alt="Cover for Wachuma&#39;s Wave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27af2f856c0605cc35efc574babb5f21.png" alt="Cover for Wachuma&#39;s Wave" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-21</td>
       <td>Byron Metcalf</td>
@@ -928,6 +941,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31745d4a24fd4a29ca5819fe380ed116.png" alt="Cover for Draconian Poetry" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-31</td>
       <td>Sephiroth</td>
@@ -939,7 +953,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +977,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/xPZ6tnmDXGc51BIHyRyosP2XpZua0YdS5GDYOdCuEfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTMy/OC0xMTk5NjYwMjYw/LmpwZWc.jpeg" alt="Cover for Feijoada Polifônica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23cda0849e9fb9df688f95d78ff3a461.png" alt="Cover for Feijoada Polifônica" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Pedra Branca</td>
@@ -982,7 +996,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/xPZ6tnmDXGc51BIHyRyosP2XpZua0YdS5GDYOdCuEfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTMy/OC0xMTk5NjYwMjYw/LmpwZWc.jpeg" alt="Cover for Feijoada Polifonica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10f035c220641d7b55ef6de587750f9.png" alt="Cover for Feijoada Polifonica" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Pedra Branca</td>
@@ -1022,7 +1036,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/C-_qrB34NTz6RWnFdfTypHivRYLdBkuwkRtEork03ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTg5/OC0xMTc0NzM3Nzkw/LmpwZWc.jpeg" alt="Cover for Apocalypto (Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b9d7efb2ba2443abcc1b556f43a97e2.png" alt="Cover for Apocalypto (Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-05</td>
       <td>James Horner</td>
@@ -1041,6 +1055,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a395f50ce6a7719127916f3c4f7dade.png" alt="Cover for Sawdust" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Pentaphobe</td>
@@ -1089,13 +1104,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 47</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b695d3508b334c4884e19460db18f41e.png" alt="Cover for Blue Beam" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-14</td>
       <td>Geomatic</td>
@@ -1129,13 +1145,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68fab488dd6b9023a3963ab91a52dc0f.png" alt="Cover for Collide" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-26</td>
       <td>Beats Antique</td>
@@ -1152,6 +1169,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0022a95981a34a5687842d251b750253.png" alt="Cover for Gears of War 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-25</td>
       <td>Steve Jablonsky</td>
@@ -1187,6 +1205,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/965087fbfa6d4443a12d36831b9c0c8b.png" alt="Cover for Organic Space Age" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-13</td>
       <td>Cosmosophy</td>
@@ -1260,15 +1279,15 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 77</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 81</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 20</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/Ic7p7oVQ7A_RmSmT3bwJhysh8ob5a6B3lPhYjJX-Tu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzI1/NDUtMTUyOTc3NDE4/OS05OTcyLmpwZWc.jpeg" alt="Cover for Wireless" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ecf0167571b350d9c289f5f20c6d092.png" alt="Cover for Wireless" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-12</td>
       <td>T++</td>
@@ -1282,7 +1301,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 57</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1303,14 +1322,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 20</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/pE__Gn7dRbXUlgJOnTPpi-dddeU3n3edPn00iwy4yqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU3/NzMtMTM4ODY4OTU3/NC0zNTc3LmpwZWc.jpeg" alt="Cover for Blind Threshold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca3a3d6879714a848dec4bf05e5d7192.png" alt="Cover for Blind Threshold" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-14</td>
       <td>Beats Antique</td>
@@ -1388,7 +1407,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Ss3jaQbpc5dXpykyZkxqjFJsbV30q2u20n1BTF1uOnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODI3/MDMtMTMyMzgzNzA3/OS5qcGVn.jpeg" alt="Cover for Shimmer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b008262337f49ed9185b8037e0454c0.png" alt="Cover for Shimmer" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-12</td>
       <td>Kalya Scintilla</td>
@@ -1411,6 +1430,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d294623333c32b977f4b1353743f71e.png" alt="Cover for Inside The Reactor" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-12</td>
       <td>Juno Reactor</td>
@@ -1428,6 +1448,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd077abd5be34102bffca1d8ec5a9b49.png" alt="Cover for Inténtalo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-06</td>
       <td>3BallMTY</td>
@@ -1445,6 +1466,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b534b837bb400e8f8c94076f06fac6.png" alt="Cover for Warm Pulse" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Nguzunguzu</td>
@@ -1478,13 +1500,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 31</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3454764a3f374499c47a42c1cfc3fdbc.png" alt="Cover for Dance the Spiral Never Ending" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-23</td>
       <td>Kalya Scintilla</td>
@@ -1501,7 +1524,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 86</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1556,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 88</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 89</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 93</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 97</li>
         </ul>
@@ -1560,6 +1583,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f9362eb4354f0082906d61949c4b19.png" alt="Cover for The Golden Sun of the Great East" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Juno Reactor</td>
@@ -1573,7 +1597,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       <td>
         <ul>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 38</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 46</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1664,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/u33FzCTG4XieEydKj4o1AIkSkZp-gBh-pcUy6z30tD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzA4/ODYtMTM5NDIwNjY0/OS02MTE3LmpwZWc.jpeg" alt="Cover for The Ambient Mixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91742dc20a6d2e7a27a762ed2c87224.png" alt="Cover for The Ambient Mixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-07</td>
       <td>Kaya Project</td>
@@ -1657,7 +1681,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 83</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1702,6 +1726,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0337b3ffbd4a40e6c0064275ad6e1d4d.png" alt="Cover for Dances in Dreams of the Known Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04</td>
       <td>The Skull Defekts</td>
@@ -1732,7 +1757,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 27</li>
+            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1800,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/ayAcI4i1gi7eaEmGqCbT1cKE49wVwb48TFpXf0NB01g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzMz/NzgtMTQ2MDMyODUw/OC03NTMxLmpwZWc.jpeg" alt="Cover for Aromobates NDB" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4a12d3689894068c0d0e02d3a0a22b1.png" alt="Cover for Aromobates NDB" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-20</td>
       <td>Ninos Du Brasil</td>
@@ -1815,7 +1840,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/vmVLnja5OI9xmp4kEvVBRw7IDTHjvI-9sb_eKMv064o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjc2/NzUtMTQ1NTY1MjI4/MS00MDY4LmpwZWc.jpeg" alt="Cover for Free Tibet (Vini Vici Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/730a262f62aafa47cc7af53a8ac0deaf.png" alt="Cover for Free Tibet (Vini Vici Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-01</td>
       <td>Hilight Tribe</td>
@@ -1831,7 +1856,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 96</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 3</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 100</li>
             <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 100</li>
         </ul>
@@ -1859,7 +1884,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/3jC-GKwSJVBbj77qGMqM0saQyLOQXPsTMqt1aBNCusk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcy/NDItMTQ2ODEwNzEy/Ni03MDQzLmpwZWc.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c5dbd58b92b2e6a9200505acf0d4c6e.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-08</td>
       <td>Rakta</td>
@@ -1873,7 +1898,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 44</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1926,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/lSIa4uhlwLzQXgwibp4kqeOeGg95ft5usJBIhnTz2Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTkz/ODIzLTE2ODg2MjYw/MTYtNDA4OS5qcGVn.jpeg" alt="Cover for Fire and Flames" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/342a776525eea7d7f0e14995cf7f22fe.png" alt="Cover for Fire and Flames" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-08</td>
       <td>PHI NIX</td>
@@ -1935,21 +1960,22 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 95</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +2022,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/WNrZCdZ5udBu8p-F64PP3kR6r8QpjVww05Fg80tjfCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY3/ODQxLTE2MjM4ODg4/NTAtNzczMC5qcGVn.jpeg" alt="Cover for Battlestar Galactica: Season Two" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b77e58dca9554be9bd0e65dd8568b31d.png" alt="Cover for Battlestar Galactica: Season Two" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-17</td>
       <td>Bear McCreary</td>
@@ -2015,6 +2041,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecf4f018f7f40869a22c0ae52d5748bb.png" alt="Cover for Cloud Walk" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ESCPE</td>
@@ -2034,13 +2061,14 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 27</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e7cc2e17502bd50d3e2bf8b56ac4a89.png" alt="Cover for Bellydance Superstars Vol. IV" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pascal Machaalani</td>
@@ -2057,7 +2085,7 @@ Tribal music emphasizes primal, rhythmic percussion patterns and repetitive drum
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 23</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 24</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 61</li>
         </ul>
       </td>

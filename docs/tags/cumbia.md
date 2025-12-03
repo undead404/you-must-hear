@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T01:32:30.095Z
+date: 2025-12-03T06:12:36.413Z
 permalink: tags/cumbia
 title: cumbia
 ---
 
 ## cumbia
 
-Last updated: <time datetime="2025-11-14T01:32:30.095Z">Fri Nov 14 2025 03:32:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:12:36.413Z">Wed Dec 03 2025 08:12:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 16</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +301,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/q_WCzAIINUNtqLIxTybou9_dT8BZQeh7wYBybeCXVK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njc4/Ni0xMTM3NTk5MjMz/LmpwZWc.jpeg" alt="Cover for Amor Prohibido" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b099d2f5b383c4d71b1f9c2df33480.png" alt="Cover for Amor Prohibido" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-03-22</td>
       <td>Selena</td>
@@ -312,8 +312,8 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 10</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 45</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 16</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +441,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 49</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 54</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +594,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/h0ZnonWve02fwgOhTDmQkIIUyaoGMj-QHqJhpoGQIrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTYw/OS0xNjc5MTg2NTYz/LTM5MjIuanBlZw.jpeg" alt="Cover for Telepathic Sonora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60af9244ea072b39733b98cec4f390f.png" alt="Cover for Telepathic Sonora" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Panico</td>
@@ -687,7 +687,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 67</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -708,7 +708,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 70</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -896,7 +896,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/Oy1Sl_Vxjx3zDDWaQRhrLNKxwpxk__XieVoJlUtOSis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIw/My0xMTYzMTY2ODc4/LmpwZWc.jpeg" alt="Cover for PostSovPop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e4a7c077494193831ffa3e8fe9fc1a.png" alt="Cover for PostSovPop" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>InCulto</td>
@@ -969,9 +969,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 9</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 75</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 8</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 26</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 90</li>
         </ul>
       </td>
@@ -991,7 +991,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 79</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1010,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 57</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1028,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 91</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1046,9 +1046,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 8</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 14</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 13</li>
             <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 26</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 62</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1125,7 +1125,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 33</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 52</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 49</li>
             <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 52</li>
         </ul>
       </td>
@@ -1169,14 +1169,15 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 1</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Sdvdj_xsFw6t_jltJMkoliQFexR_Kr0ocRyeh4I-9hY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA2/MTYtMTI5NTQzNjkx/OS5qcGVn.jpeg" alt="Cover for NGUZUNGUZU EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/498afed6128a8640441a0e9adafd51c5.png" alt="Cover for NGUZUNGUZU EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Nguzunguzu</td>
@@ -1218,6 +1219,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac72db41880e486981035417746f5a3d.png" alt="Cover for Dog With A Rope" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-19</td>
       <td>Quantic Presenta Flowering Inferno</td>
@@ -1267,7 +1269,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 71</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1515,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 55</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1542,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/IlbUwkn978fSbJp-NsMfcqQyj4iS-Yrtb3o_wlW-pxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ4/MDM3LTE1MTQ2ODUy/MzktNjY3Mi5qcGVn.jpeg" alt="Cover for Balnear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cb536dd304e050df6dda0673208d662.png" alt="Cover for Balnear" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-25</td>
       <td>Mitú</td>
@@ -1555,7 +1557,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 74</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1695,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 72</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 26</li>
             <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 89</li>
         </ul>
       </td>
@@ -1715,8 +1717,8 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 7</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 59</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1777,8 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 82</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 2</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1793,7 +1796,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 97</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1861,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/LnWs0Mo6fEKKZc2wvIdKal-M6agqMy-icaulWLOHtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkx/MDI0LTE1NjM0MzAw/NjctODIyMy5qcGVn.jpeg" alt="Cover for PLUG MIXTAPE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c507296202cb11833885ac8f765c0ac.png" alt="Cover for PLUG MIXTAPE" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-05</td>
       <td>Polus</td>
@@ -1913,9 +1916,9 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 62</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 85</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 95</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 5</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 60</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1958,7 @@ Cumbia is a rhythmic Latin American dance music genre that originated along Colo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 78</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 22</li>
         </ul>
       </td>
     </tr>

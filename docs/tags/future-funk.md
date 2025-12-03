@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T01:10:07.040Z
+date: 2025-12-03T06:31:11.025Z
 permalink: tags/future-funk
 title: future funk
 ---
 
 ## future funk
 
-Last updated: <time datetime="2025-11-17T01:10:07.040Z">Mon Nov 17 2025 03:10:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:31:11.025Z">Wed Dec 03 2025 08:31:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,9 +44,8 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 4</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 50</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 97</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 2</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -65,14 +64,14 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 71</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg" alt="Cover for Position 2 (Extended)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3183f167aa35f1695adb98a5909d95cc.png" alt="Cover for Position 2 (Extended)" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Marjorie -W.C. Sinclair</td>
@@ -87,7 +86,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 96</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -329,10 +328,10 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 94</li>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 7</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -447,7 +446,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 78</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +523,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 35</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +560,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 8</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +700,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 21</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -739,7 +738,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 35</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -790,13 +789,11 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       <td>Lovestory</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 76</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -840,6 +837,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe2e42e49306a0c9fa843f7411a5edae.png" alt="Cover for CHEESECAKE+" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-15</td>
       <td>LemKuuja</td>
@@ -953,7 +951,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 68</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -975,7 +973,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 8</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 51</li>
         </ul>
       </td>
@@ -998,7 +996,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 63</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1017,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 55</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1077,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 70</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1099,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 64</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1287,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 90</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1409,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 62</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1455,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 51</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1701,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/tjmnoN7jcNoSTIOzhoES_MN6CJZX3l9KWMsKn_ir1zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ5/NjU5LTE2NTEyMTY1/MDctNjE3OS5qcGVn.jpeg" alt="Cover for Galerie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1010b2a355b309a65123897b0ca3ae2e.png" alt="Cover for Galerie" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-29</td>
       <td>Anomalie</td>
@@ -1719,7 +1717,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1740,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 14</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1793,19 +1791,13 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
       <td>Pink Dance EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 73</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 6</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1848,6 +1840,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06437552ae7b954d6d5daf44257ad1e4.png" alt="Cover for ㅇㄱㄹㅇ﻿ １９８８" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dante Mars Ajeto！</td>
@@ -2020,7 +2013,7 @@ Future funk is an electronic music genre that samples 1970s-80s disco, funk, and
 - [plunderphonics]({{ "/tags/plunderphonics" | relative_url }})
 - [house]({{ "/tags/house" | relative_url }})
 - [funk]({{ "/tags/funk" | relative_url }})
-- [disco]({{ "/tags/disco" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
+- [disco]({{ "/tags/disco" | relative_url }})
 - [french house]({{ "/tags/french-house" | relative_url }})
 - [synthwave]({{ "/tags/synthwave" | relative_url }})

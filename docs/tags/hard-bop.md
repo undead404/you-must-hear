@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:23:52.806Z
+date: 2025-12-03T06:34:03.848Z
 permalink: tags/hard-bop
 title: hard bop
 ---
 
 ## hard bop
 
-Last updated: <time datetime="2025-11-23T08:23:52.806Z">Sun Nov 23 2025 10:23:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:34:03.848Z">Wed Dec 03 2025 08:34:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -171,9 +171,9 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 96</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 5</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 98</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -338,8 +338,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 17</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -358,7 +358,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -377,9 +377,9 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 6</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 18</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 48</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -477,7 +477,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -569,7 +569,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 32</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +718,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 78</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -792,8 +792,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 70</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 83</li>
             <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 99</li>
         </ul>
@@ -834,7 +834,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 25</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +917,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 77</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 84</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1072,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 40</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1118,8 +1118,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 76</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 88</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 25</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 95</li>
         </ul>
       </td>
@@ -1175,7 +1175,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 14</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1215,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 97</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1237,8 +1237,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1279,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1376,7 +1376,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1437,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 55</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1458,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 87</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1498,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1555,8 +1555,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 25</li>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1596,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 48</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1634,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 72</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1731,8 +1731,8 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 9</li>
             <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 92</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1790,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 31</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1829,14 +1829,14 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 37</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/RgZ1Zt22lAzdxXzrbpruNJWeyWya70OndfSzGaT7izo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQ2/NDctMTU1ODYyMzMx/Ny0yMDY1LmpwZWc.jpeg" alt="Cover for Blue Train (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9932847fee0a40f6c0249d3d830af3aa.png" alt="Cover for Blue Train (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>John Coltrane</td>
@@ -1855,7 +1855,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/onnxcyrvTboO7005GAIO1mSOrMYXq8g6AE0nONjTRxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTQ5/NC0xNTkwMTQ2Mzcz/LTEzOTkuanBlZw.jpeg" alt="Cover for Somethin&#39; Else (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/175713996b1f97ef318600d46496062e.png" alt="Cover for Somethin&#39; Else (Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-01</td>
       <td>Cannonball Adderley</td>
@@ -1867,7 +1867,7 @@ Hard bop emerged in the 1950s as a rawer, more soulful evolution of bebop that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
         </ul>
       </td>
     </tr>

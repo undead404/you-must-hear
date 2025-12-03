@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T02:02:40.900Z
+date: 2025-12-03T06:22:46.139Z
 permalink: tags/duo
 title: duo
 ---
 
 ## duo
 
-Last updated: <time datetime="2025-11-15T02:02:40.900Z">Sat Nov 15 2025 04:02:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:22:46.139Z">Wed Dec 03 2025 08:22:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,7 +105,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 35</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 38</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 75</li>
         </ul>
       </td>
@@ -210,13 +210,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 91</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +275,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 54</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -294,14 +295,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 28</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ob9rSVoSIJ8sAGW93djDr56chnSwteknFRl5ohwDqTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI1/MjE2LTE0OTM2ODY0/ODAtODc1Ny5qcGVn.jpeg" alt="Cover for The Day The Finger Pickers Took Over The World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8636d33771aa45e39000eefdb51f7251.png" alt="Cover for The Day The Finger Pickers Took Over The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Chet Atkins &amp; Tommy Emmanuel</td>
@@ -319,6 +320,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f5ca061c3e84920cd1be8cf27caaf8.png" alt="Cover for キミがいる" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-23</td>
       <td>Chemistry</td>
@@ -342,6 +344,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b976c4204f86495e86d45d3fdb2dae97.png" alt="Cover for ここにしか咲かない花" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-11</td>
       <td>コブクロ</td>
@@ -401,13 +404,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 7</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/133112188c0f34fc5a378a11da9be1bb.png" alt="Cover for ビロードの闇" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-15</td>
       <td>KinKi Kids</td>
@@ -431,6 +435,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed5c54e91684d82a890eeb3bf0a52ca.png" alt="Cover for 雨待ち風" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-22</td>
       <td>スキマスイッチ</td>
@@ -493,7 +498,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/n1hr-a-XW2uNrdaaHYmObUlPyZIWGdsEjOePWlg9IxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg4/MDIwLTE2Mjk4OTE2/NzQtNTUyNC5qcGVn.jpeg" alt="Cover for 5センチ。" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b8ae62b1faa4fd5cf8b19f730a21727.png" alt="Cover for 5センチ。" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-25</td>
       <td>WAT</td>
@@ -590,6 +595,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54297230c00540d3b5857abbba09f535.png" alt="Cover for 君という名の翼" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>コブクロ</td>
@@ -612,6 +618,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcfc7c4d735163d3bebeee9bc7c03da3.png" alt="Cover for 約束の場所" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-04</td>
       <td>Chemistry</td>
@@ -821,10 +828,10 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 14</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 33</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +892,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 20</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -905,14 +912,14 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 61</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/BnZbTTHmbUfVXhsLQdMdn7L6OhHewVNqo3bl76zZDHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU3/OTc2LTE1OTcyNDY3/OTgtMjgwMy5wbmc.jpeg" alt="Cover for ZUSHI" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d38e714f25a34925a54e09721879306a.png" alt="Cover for ZUSHI" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-16</td>
       <td>キマグレン</td>
@@ -935,6 +942,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5531da12fe24e658ef98c1e13bde5cd.png" alt="Cover for 時の足音" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-29</td>
       <td>コブクロ</td>
@@ -988,7 +996,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 70</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 81</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 82</li>
             <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 100</li>
         </ul>
       </td>
@@ -1021,6 +1029,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cb781dbdb8746f6abc0fb50181156d6.png" alt="Cover for 虹" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-15</td>
       <td>コブクロ</td>
@@ -1043,6 +1052,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0168a64c09a4350bdeb7f3e85d879fe.png" alt="Cover for 虹のレシピ" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-20</td>
       <td>スキマスイッチ</td>
@@ -1065,6 +1075,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd2b1a9ebc78a21daac330331947edca.png" alt="Cover for ナユタとフカシギ" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-04</td>
       <td>スキマスイッチ</td>
@@ -1194,16 +1205,17 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 29</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 93</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 94</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 7</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e955af3c1a64e1cb3290f82ae11ab6d.png" alt="Cover for 流星" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-17</td>
       <td>コブクロ</td>
@@ -1249,8 +1261,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 52</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 64</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 38</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1280,8 +1292,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 49</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 87</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 95</li>
         </ul>
@@ -1304,7 +1316,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 33</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1350,7 +1362,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1382,6 +1395,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdd8b255037453fa9faab09cd708bad.png" alt="Cover for qia songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-07</td>
       <td>N-qia</td>
@@ -1404,8 +1418,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 43</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 45</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 78</li>
         </ul>
       </td>
@@ -1438,7 +1452,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
             <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 60</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 74</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 95</li>
@@ -1471,7 +1485,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 3</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 37</li>
             <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 80</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 97</li>
         </ul>
@@ -1526,8 +1540,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 30</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 44</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 63</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 39</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1574,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
         <ul>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 51</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 86</li>
         </ul>
       </td>
@@ -1568,6 +1582,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40ee6548b99090dd9272419e4cc9ff6c.png" alt="Cover for Hello Especially" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-31</td>
       <td>スキマスイッチ</td>
@@ -1618,11 +1633,11 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1668,7 +1683,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 5</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1691,7 +1706,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 85</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1839,10 +1854,10 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 78</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 84</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 85</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 85</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 96</li>
         </ul>
       </td>
@@ -1890,7 +1905,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 55</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1937,9 +1952,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 11</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 82</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 87</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 90</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 98</li>
         </ul>
       </td>
@@ -1964,9 +1979,9 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 4</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 96</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 97</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 100</li>
         </ul>
       </td>
@@ -1987,7 +2002,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 41</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2034,8 +2049,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 9</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 10</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2056,7 +2071,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2077,8 +2092,8 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 20</li>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 87</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 14</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2136,7 +2151,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 49</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2178,7 +2193,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 27</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 26</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
@@ -2234,6 +2249,7 @@ The &quot;duo&quot; tag identifies music created by two-person collaborations, w
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9ccbac63b2c4befb386ee5977a1e339.png" alt="Cover for あの太陽が、この世界を照らし続けるように。" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>コブクロ</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:22:13.572Z
+date: 2025-12-03T06:32:41.118Z
 permalink: tags/space-age-pop
 title: space age pop
 ---
 
 ## space age pop
 
-Last updated: <time datetime="2025-11-23T08:22:13.572Z">Sun Nov 23 2025 10:22:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:41.118Z">Wed Dec 03 2025 08:32:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 41</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
@@ -246,7 +246,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 44</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 45</li>
             <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
         </ul>
@@ -255,7 +255,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/7dG5Xmu5B-6HBxZTweYNBZMZq3A9gdSo7wuQXP7LQPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEw/MTQzLTE0OTM0NTY1/OTktMjA2Ni5qcGVn.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/311138cf54ac48d7800ea9eea0a1a470.png" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Herb Alpert and the Tijuana Brass</td>
@@ -500,7 +500,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Risky Business" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/831b8e3ef1f642c1c252ec8c4ac6bd14.png" alt="Cover for Risky Business" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -701,6 +701,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e89a1e90c4f4be2af63f210312f7cc6.png" alt="Cover for Ultra-Lounge, Vol. 7: Crime Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Various Artists</td>
@@ -736,8 +737,8 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 30</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 33</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 46</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 81</li>
         </ul>
       </td>
@@ -845,10 +846,10 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 21</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 39</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 25</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 39</li>
             <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 40</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +950,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -967,9 +968,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 17</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -990,12 +991,12 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 34</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 68</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
         </ul>
@@ -1093,10 +1094,10 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 4</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 57</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1331,7 +1332,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1583,8 +1584,8 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 7</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 76</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 74</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1612,6 +1613,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6f1e3cff4f2fd87d19046cc801be52f.png" alt="Cover for Ultra-Lounge, Vol. 16: Mondo Hollywood" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-14</td>
       <td>Various Artists</td>
@@ -1646,7 +1648,7 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1706,8 +1708,8 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 4</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 21</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 100</li>
         </ul>
       </td>
@@ -2011,9 +2013,9 @@ Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 3</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 27</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T20:40:04.930Z
+date: 2025-12-03T06:32:16.586Z
 permalink: tags/apocalyptic-folk
 title: apocalyptic folk
 ---
 
 ## apocalyptic folk
 
-Last updated: <time datetime="2025-10-18T20:40:04.930Z">Sat Oct 18 2025 23:40:04 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:16.586Z">Wed Dec 03 2025 08:32:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/572d033359a0cb80bed3701769ed5086.png" alt="Cover for Asylum" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Legendary Pink Dots</td>
@@ -39,7 +40,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
       <td>
@@ -50,6 +51,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e312cfac744d454baf39fa1bda624df7.png" alt="Cover for Brown Book" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Death in June</td>
@@ -61,7 +63,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 52</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -109,6 +111,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/110a73cee81848d0b4b8d63b8162cc58.png" alt="Cover for The Golden Age" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>The Legendary Pink Dots</td>
@@ -127,6 +130,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9176112d734a2b0f576663ff27a85ad.png" alt="Cover for Swastikas for Goddy" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Current 93</td>
@@ -199,7 +203,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/-bVc-Dc-0LnTKU_TsLhd2qsG0jUyUmITdva5HrmLccE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQz/MC0xMDk5NTYwOTM5/LmpwZw.jpeg" alt="Cover for Sol Veritas Lux" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee4c5d3ff89877b7c068be5e191376aa.png" alt="Cover for Sol Veritas Lux" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Sol Invictus</td>
@@ -217,14 +221,13 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd86380a4c9649ccc9d45bf65fb28647.png" alt="Cover for The Crushed Velvet Apocalypse" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>The Legendary Pink Dots</td>
       <td>The Crushed Velvet Apocalypse</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
@@ -250,13 +253,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 26</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/285c4d37bbac40e0b03562397e22741e.png" alt="Cover for The Maria Dimension" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>The Legendary Pink Dots</td>
@@ -275,6 +279,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c56136235bab4e15858d855a0dbffd5a.png" alt="Cover for Thunder Perfect Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Current 93</td>
@@ -287,13 +292,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 71</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bac047c69c14d743309411c6ef09265.png" alt="Cover for But, What Ends When the Symbols Shatter?" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-25</td>
       <td>Death in June</td>
@@ -304,7 +310,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 44</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 99</li>
         </ul>
       </td>
@@ -328,7 +334,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 70</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 100</li>
         </ul>
@@ -337,7 +343,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/I_BFmQLMZZWXrRr_6fLmJ3PPAYoTzVqAphx9uMGCgMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MC0xMjU3MDY2NjAz/LmpwZWc.jpeg" alt="Cover for The Moon Lay Hidden Beneath a Cloud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8747bc9d54bb0c8c90f96c7c2ebe1e8.png" alt="Cover for The Moon Lay Hidden Beneath a Cloud" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Moon Lay Hidden Beneath a Cloud</td>
@@ -359,6 +365,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e172e2f05b9b4749846b7c95f93b27d1.png" alt="Cover for Of Ruine Or Some Blazing Starre" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Current 93</td>
@@ -370,13 +377,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 4</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2316b2c8d7c0da0daeabae0020316a5c.png" alt="Cover for A Dozen Summers Against the World" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Nature and Organisation</td>
@@ -391,7 +399,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -411,14 +419,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e970757363c244c993cb874e42182c62.png" alt="Cover for Rose Clouds of Holocaust" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-02-24</td>
       <td>Death in June</td>
@@ -430,7 +439,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 92</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -449,8 +458,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 1</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 41</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 45</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -475,6 +484,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e5365203b92490db3bdec2225dd18fb.png" alt="Cover for Soft Black Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Current 93</td>
@@ -486,7 +496,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 70</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +542,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/WxhSoDUAs9YTtzpmWogKo5Sq_nfKgjGFnC60QjBWI1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzM4/NC0xMTMyNjkxMjkz/LmpwZWc.jpeg" alt="Cover for Bedside Toxicology" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f84feded96097eff6ea8de7060b677.png" alt="Cover for Bedside Toxicology" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-19</td>
       <td>RX</td>
@@ -568,9 +578,9 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 2</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 21</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 58</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 98</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -590,14 +600,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 8</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 71</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9672590b62629cd84dcf656d364dc293.png" alt="Cover for Sleep Has His House" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Current 93</td>
@@ -609,7 +620,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 27</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -698,15 +709,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 12</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 65</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 72</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/TpCOauceqXhdjn-O75rAz_3tc5EHbTib7JhRPLXuJhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM0/OTM3LTE1OTMxODY2/MjUtODA5My5qcGVn.jpeg" alt="Cover for Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edc2b8ed706243d05fcc19d55dfb2891.png" alt="Cover for Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Current 93</td>
@@ -725,7 +736,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/omRBHencLYQetfow8NODKEKv2QEhyUsAPW8PWxsjXDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc4/NC0xMTI4NzA2NjAy/LmpwZWc.jpeg" alt="Cover for Behaviour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20564d608d10c0a9ea7f80384f52179.png" alt="Cover for Behaviour" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06</td>
       <td>Naevus</td>
@@ -744,9 +755,9 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 4</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 20</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 59</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -770,14 +781,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 10</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 54</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/JRTGkfXgDFf9cSBgyPkIij2htSD1PKCDXKYJb_KipCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTc4/OS0xMTU0OTYxODM2/LmpwZWc.jpeg" alt="Cover for Nächtliche Jünger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2010c3b2f3c49030df1f6d1493ce85b.png" alt="Cover for Nächtliche Jünger" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07</td>
       <td>Orplid</td>
@@ -794,7 +805,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 13</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 78</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -814,7 +825,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 63</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 68</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 96</li>
         </ul>
       </td>
@@ -822,6 +833,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc2e26c096624c298425ef510a820c77.png" alt="Cover for Some Soft Black Stars Seen Over London" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Current 93</td>
@@ -869,8 +881,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 11</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 84</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +909,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 25</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +934,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 14</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -943,13 +955,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 57</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b50907ed10e74073c02b6ebd62b5cb8f.png" alt="Cover for Halo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-16</td>
       <td>Current 93</td>
@@ -1031,7 +1044,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 65</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1053,14 +1066,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 71</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/XAnqua-HNS5ikCFyQWzjAwiNKOWxLnjtpMwRBzi_p9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODE1/Ny0xMjc5MDQ5ODU0/LmpwZWc.jpeg" alt="Cover for nidar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efa46754e0065819d194d50d369edde9.png" alt="Cover for nidar" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Sonne Hagal</td>
@@ -1078,7 +1091,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 11</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1097,14 +1110,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 9</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 44</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/_05WI95rWskrbbWmQhT3B0x4cq3cvUivSKOZFAQa9-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk1/My0xMTI0NzkyMzI4/LmpwZw.jpeg" alt="Cover for Hail Hail Hail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92b270097d7f4396bff65f5185330483.png" alt="Cover for Hail Hail Hail" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>:Of the Wand &amp; the Moon:</td>
@@ -1182,7 +1195,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/9fAKMwF9mTlWiyWKG5uCiJehUc5PnTZMBqnECteeAMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjkx/Mi0xMTUwMTIwODQy/LmpwZWc.jpeg" alt="Cover for Reigen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bb31b9fd31280d6b721a63272ff86d8.png" alt="Cover for Reigen" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Nebelung</td>
@@ -1197,8 +1210,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 67</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 67</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 28</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1219,7 +1232,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 6</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 38</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1243,14 +1256,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 5</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 19</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/593dd82a41b341b6970b42efa1615282.png" alt="Cover for Your Children Placate You From Premature Graves" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05</td>
       <td>The Legendary Pink Dots</td>
@@ -1281,8 +1295,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 33</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 36</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1315,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1320,8 +1334,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 44</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 49</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1340,13 +1354,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 82</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7009bb6363584bb19454c6de20e29064.png" alt="Cover for Grace of God" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01</td>
       <td>Puissance</td>
@@ -1364,13 +1379,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 2</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 24</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/042a64a50b164c86ccc66826f6944b79.png" alt="Cover for The Inmost Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03</td>
       <td>Current 93</td>
@@ -1386,14 +1402,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 15</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 27</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4266365c3acf4c89bc802b192eb34196.png" alt="Cover for God is not dead for the birds" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-25</td>
       <td>Lux Interna</td>
@@ -1415,7 +1432,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/CFgA7Uwk2HlldoF_d_umNcMbLTLhjhWxiZbNnDezxoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA4/NzEtMTE5MTg3NjY2/NS5qcGVn.jpeg" alt="Cover for Turn Hegel on his Head" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869c6664a717416497fe2841f083a331.png" alt="Cover for Turn Hegel on his Head" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-28</td>
       <td>Kiss the Anus of a Black Cat</td>
@@ -1434,7 +1451,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 4</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 46</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 48</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 84</li>
         </ul>
       </td>
@@ -1455,7 +1472,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1475,13 +1492,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf29f08202ffaefdc2afe43ea9878f3.png" alt="Cover for Research EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Passione Nera</td>
@@ -1530,8 +1548,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 21</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 81</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1574,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 15</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 68</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1578,13 +1596,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 63</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43953626eb42446f894c436fc76da9a2.png" alt="Cover for Greifenherz" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-21</td>
       <td>Orplid</td>
@@ -1608,6 +1627,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03db312c8991e911851b0f6c49067dcf.png" alt="Cover for Roses Never Fade" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Roses Never Fade</td>
@@ -1630,7 +1650,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/uNxxMoVf2xfU7lGdPvCVp0vZrzqNBzXEIEwMyzrPe3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/MjYtMTIzODY2OTE4/MC5qcGVn.jpeg" alt="Cover for ONANI (Practice Makes Perfect)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ec598b958664e9f546a866956ed7ed.png" alt="Cover for ONANI (Practice Makes Perfect)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02</td>
       <td>Ordo Rosarius Equilibrio</td>
@@ -1649,7 +1669,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/bn3YRaoX7kOWDtzEUYFy6LQHM9l8Z6B-rU2wZHjrsvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU1/OTUtMTI3MzI1ODM2/Mi5qcGVn.jpeg" alt="Cover for Born Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5aaaf36eee228f331cb44aa93c913e8.png" alt="Cover for Born Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05</td>
       <td>Blood Axis</td>
@@ -1664,13 +1684,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c484a38388c5476d8055cf74c96668ea.png" alt="Cover for The Veil Of Queen Mab" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-20</td>
       <td>Hexperos</td>
@@ -1688,8 +1709,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 49</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 45</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 78</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 86</li>
         </ul>
       </td>
@@ -1697,7 +1718,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/_hgho8magg99j4bguTtUshR3wsyFVMJk3E5skSBO3ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTYw/NzAtMTY0ODEyNTAz/MC00MzUxLmpwZWc.jpeg" alt="Cover for Songs 4 Hate &amp; Devotion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5f38a7fc768a6316e7b4c4d35f94e8c.png" alt="Cover for Songs 4 Hate &amp; Devotion" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-29</td>
       <td>Ordo Rosarius Equilibrio</td>
@@ -1710,14 +1731,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/KeCxY9lkJMiWUpwDZieRLJGuA71B2au9IBhFtW3v3mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDM3/NjUtMTUwODY2ODE2/Ny0yMTIyLmpwZWc.jpeg" alt="Cover for Peaceful Snow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf7110ec016da3993de4612b1b9dcb6b.png" alt="Cover for Peaceful Snow" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-09</td>
       <td>Death in June</td>
@@ -1798,15 +1819,16 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 77</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 57</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 77</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8693e90894ff487eb77c3150862999a3.png" alt="Cover for Ultimacy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-26</td>
       <td>Blood Axis</td>
@@ -1826,8 +1848,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 5</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 29</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 54</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 72</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 82</li>
         </ul>
       </td>
@@ -1835,7 +1857,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/VtwJTRdw3NxNSUtZDtwhELirx7WklNdL_Kvub6qsXbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODUx/NC0xNDA4MzYwMDAw/LTExOTMuanBlZw.jpeg" alt="Cover for The Dublin Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b249f35f36ba4a124300930d2a2ca184.png" alt="Cover for The Dublin Session" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Rome</td>
@@ -1861,6 +1883,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec414954fcfd4f85a5094d400054bbab.png" alt="Cover for Mon Meilleur Ennemi" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-24</td>
       <td>Dernière Volonté</td>
@@ -1880,15 +1903,16 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 37</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 77</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 69</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d924bbf025c44047aa3e1bf069a57f6e.png" alt="Cover for Live At The Lodge Of Imploded Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-17</td>
       <td>:Of the Wand &amp; the Moon:</td>
@@ -1927,7 +1951,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 66</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1951,7 +1975,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/2SL7I5sj7mhkMlr3Wfp9yVIRhqxXN5PqfdOLLnoHy_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY1/ODYtMTIzMjQwMDc2/Ni5qcGVn.jpeg" alt="Cover for As The World Disappears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dfdcab4ffca48b69e8fdb4eb0082c54.png" alt="Cover for As The World Disappears" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Current 93</td>
@@ -1991,7 +2015,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/iKXnPrKMXRNURvfm2Skbdug3zNjfGdGSUQSyN_TCi0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzE3/ODgtMTQwMjQwNzQw/MS0zMDE0LmpwZWc.jpeg" alt="Cover for Ana Liil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bebd6ec38994419bc1e584361624a27f.png" alt="Cover for Ana Liil" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05</td>
       <td>Apoptose</td>
@@ -2031,14 +2055,15 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 21</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 73</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a203d63b8fb3ae55df3cef479bec01ed.png" alt="Cover for Ockerwasser" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09</td>
       <td>Sonne Hagal</td>
@@ -2056,7 +2081,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 1</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 3</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2074,7 +2100,7 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 55</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 39</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 100</li>
         </ul>
       </td>
@@ -2095,14 +2121,14 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 62</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/1BPZH6W2ULBLNCFDAj4OH1yT2p0WyS1QWOPhMFyJZl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDc1/Ny0xMTkzNzcxNzY1/LmpwZWc.jpeg" alt="Cover for The Death Of The West" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5594f8c5564402a35ec00ad6c0076e25.png" alt="Cover for The Death Of The West" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-28</td>
       <td>Sol Invictus</td>
@@ -2145,8 +2171,8 @@ Apocalyptic folk emerged in the 1980s as a dark, experimental genre blending aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 15</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 53</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 38</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 82</li>
         </ul>
       </td>
     </tr>

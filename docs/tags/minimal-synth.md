@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T13:46:53.786Z
+date: 2025-12-03T06:30:30.314Z
 permalink: tags/minimal-synth
 title: minimal synth
 ---
 
 ## minimal synth
 
-Last updated: <time datetime="2025-11-11T13:46:53.786Z">Tue Nov 11 2025 15:46:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:30:30.314Z">Wed Dec 03 2025 08:30:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 31</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -65,9 +65,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 66</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 93</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 98</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 3</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 6</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -91,7 +91,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 10</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 61</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +193,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/L1anmGD-61_Pq6VZjcHBBregf5xAHtbgLRx4hqFyTPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDU3/MC0xMjA3Njc3OTc2/LmpwZWc.jpeg" alt="Cover for Pulse Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f76d3c6b8cd45119519b10c99c79d87.png" alt="Cover for Pulse Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Linear Movement</td>
@@ -228,7 +228,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 85</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 10</li>
             <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 99</li>
         </ul>
       </td>
@@ -254,6 +254,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8863e3fece72400e83fbe3b4336985a3.png" alt="Cover for Way Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Robert Turman</td>
@@ -294,7 +295,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/QRTxJ4ww3pnYHLq0XbN-dMmVNhx_utnoxF7VA_BtK7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk1/MDAxLTE2NTYyMjA0/MTYtMTE1OS5qcGVn.jpeg" alt="Cover for The Minimal Wave Tapes: Volume One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58ae5f263d9f4ffca859b1469cda92f8.png" alt="Cover for The Minimal Wave Tapes: Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -307,7 +308,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -327,7 +328,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +370,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 86</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -394,6 +395,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f75b643f06d4f679a9668f8fff84ffe.png" alt="Cover for Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08</td>
       <td>November Növelet</td>
@@ -423,14 +425,14 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/o2b5PZL4cPKs5QOnWADmwxrIHuwauo2LZnxTh6d1x3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQ5/OTYtMTI3MjQ3OTE0/MS5qcGVn.jpeg" alt="Cover for Dirty Beaches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7b39547d0642889ccf986a38bca6c7.png" alt="Cover for Dirty Beaches" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Dirty Beaches</td>
@@ -466,6 +468,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0967cbb1dbeeb2df91072474541b409.png" alt="Cover for Dust on Common" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-18</td>
       <td>Led Er Est</td>
@@ -479,13 +482,14 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 79</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7688eaa1c884146920488a28f295de7.png" alt="Cover for Night City" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Dirty Beaches</td>
@@ -501,8 +505,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 11</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 32</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +527,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 93</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -578,13 +582,14 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c114bef18b6949fab233807e1920d126.png" alt="Cover for Faded Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-28</td>
       <td>Mushy</td>
@@ -623,6 +628,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b815fb3503dd4116acb0361f9f4904e2.png" alt="Cover for Synthesize" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-03</td>
       <td>Autumn</td>
@@ -641,7 +647,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/YpngzScVrLDGLkTqp-44vpABArpCpN74eRP_5_HLCas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/MTUtMTY2MTY4NzU4/Ny00ODg0LmpwZWc.jpeg" alt="Cover for Sin Destino" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0de61266ff3549edc9f929addad95a91.png" alt="Cover for Sin Destino" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-22</td>
       <td>Staccato du Mal</td>
@@ -751,8 +757,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 85</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 85</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 16</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -814,10 +820,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 68</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 79</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 40</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 100</li>
         </ul>
@@ -837,7 +843,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 18</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -860,9 +866,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 5</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 56</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 89</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 19</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -887,10 +893,11 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 95</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 97</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 98</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
         </ul>
       </td>
@@ -916,9 +923,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 14</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 31</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +964,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 23</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +988,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 54</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 59</li>
             <li> <a href="{{ "/tags/chicano-rap" | relative_url }}">chicano rap</a> # 95</li>
         </ul>
       </td>
@@ -996,9 +1003,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>Discreet Desires</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1009,7 +1014,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/efTzWdWuKllipfE5-_zpFwALsfJ-YhKQBmXK43SJlqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODM2/ODQtMTQ1MTQ4MTYw/My01NTM2LmpwZWc.jpeg" alt="Cover for Kingsevil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71ed8ede5e0d0ce4368b4fe2f9121c95.png" alt="Cover for Kingsevil" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>Codex Empire</td>
@@ -1048,8 +1053,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 56</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 64</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 42</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
         </ul>
       </td>
@@ -1074,10 +1080,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 76</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 93</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 98</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 7</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 83</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 93</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1100,10 +1106,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 9</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 59</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 70</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 90</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 97</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 78</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1132,7 +1138,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/aCViZVxiM-sIPQts-cAZSRBW4kS2F3ha38Zrj4zZpHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzk5/MTItMTQ4OTU5NzIx/Mi02NzMyLmpwZWc.jpeg" alt="Cover for Detroit House Guests" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f286cd91c14c32fb7045a6dfb4c6611.png" alt="Cover for Detroit House Guests" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-17</td>
       <td>ADULT.</td>
@@ -1174,8 +1180,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 21</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 58</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1199,8 +1205,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 40</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 63</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1230,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1251,11 +1257,11 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 21</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 65</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 77</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 99</li>
         </ul>
@@ -1281,15 +1287,15 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 21</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 71</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/CM7EIvf51JF_91WS7Cz2Jx7OVolXsWp55vEe9vtyckU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/MDgxLTE1MjQ0MTA0/NDgtNDc0OS5qcGVn.jpeg" alt="Cover for Vitrioli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/728773ece226295deef474ce2b6e04ad.png" alt="Cover for Vitrioli" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-13</td>
       <td>Selofan</td>
@@ -1306,10 +1312,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 40</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 80</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 75</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1333,7 +1339,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 69</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 77</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 97</li>
         </ul>
@@ -1363,10 +1369,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 72</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 74</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 91</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1391,11 +1397,11 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 38</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 44</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 94</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 53</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 53</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 77</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1449,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 47</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1472,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 60</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1498,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 41</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1525,9 +1531,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
@@ -1555,8 +1561,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 68</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1584,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 80</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1624,9 +1630,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 26</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 61</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 71</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1645,8 +1651,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 71</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 92</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 74</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1668,8 +1674,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 15</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 18</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1696,9 +1702,9 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 17</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 52</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 66</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 34</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1742,8 +1748,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 44</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 71</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 53</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1776,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 61</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 66</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 75</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 100</li>
         </ul>
@@ -1800,7 +1806,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 22</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 25</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 41</li>
         </ul>
       </td>
@@ -1831,11 +1837,11 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 42</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 45</li>
             <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 49</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 84</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1861,8 +1867,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 12</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 33</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1890,8 +1896,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 40</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 49</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 81</li>
         </ul>
       </td>
@@ -1923,9 +1929,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 57</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
             <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
         </ul>
       </td>
@@ -1973,10 +1980,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 14</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 68</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 28</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 85</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 98</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
@@ -2004,7 +2011,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 25</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 27</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 67</li>
         </ul>
       </td>
@@ -2032,10 +2039,11 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 48</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 53</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 87</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 89</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2058,8 +2066,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 60</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 77</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2087,10 +2095,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 31</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 44</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2120,13 +2128,13 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 5</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 15</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 19</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 61</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 79</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 93</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 5</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 17</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 20</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 82</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2153,40 +2161,33 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 26</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 48</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 28</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/-jizgM2qZ8HrwYHYIWDIBSs685Jo0_s9TQ7JPfcwin0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIy/NTc4LTE2OTg2NjE2/MTMtMzI2OC5qcGVn.jpeg" alt="Cover for TW20 50" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ae939e6a1422978d45d03bb06f50f20.png" alt="Cover for TW20 50" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>KayCyy</td>
       <td>TW20 50</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/6Ku435Vb1uL8FZOKw40fKYg-gGUgI3Wym9WHEcn_w-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MDYyLTE1MjI2Njcw/MjEtNTczOS5qcGVn.jpeg" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f9e05cf4b99d8a1f0355125ff8dbf04.png" alt="Cover for The Way Through" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-21</td>
       <td>Deca</td>
@@ -2195,15 +2196,13 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 73</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2234,10 +2233,10 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 49</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 85</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2264,8 +2263,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 59</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 64</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 88</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
         </ul>
@@ -2274,7 +2273,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/1JSJFPpgwHSKURBxe7U2u_eCqiZT-PiQqAXTO8qyuDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzk2/Mi0xMTM4OTEzMjE0/LmpwZWc.jpeg" alt="Cover for The Grey Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ca6d42cb8d74e0be2d546106a11efa5.png" alt="Cover for The Grey Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-12</td>
       <td>The Black Dog</td>
@@ -2314,7 +2313,7 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 28</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 36</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2339,15 +2338,16 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 27</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 62</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 67</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61be620f081949f4b7943d30d6ece5ad.png" alt="Cover for Cold Waves And Minimal Electronics Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Various Artists</td>
@@ -2361,8 +2361,8 @@ Minimal synth is a stark, stripped-down electronic music style that emerged in t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 34</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 63</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 64</li>
         </ul>
       </td>
     </tr>

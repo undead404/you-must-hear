@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T12:33:57.619Z
+date: 2025-12-03T06:33:16.260Z
 permalink: tags/dansk
 title: dansk
 ---
 
 ## dansk
 
-Last updated: <time datetime="2025-10-25T12:33:57.619Z">Sat Oct 25 2025 15:33:57 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:33:16.260Z">Wed Dec 03 2025 08:33:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 68</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 62</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 39</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 71</li>
         </ul>
       </td>
@@ -157,7 +157,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 88</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 13</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 90</li>
         </ul>
       </td>
@@ -178,7 +178,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 91</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 10</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 93</li>
         </ul>
       </td>
@@ -200,7 +200,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 83</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 18</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 85</li>
         </ul>
       </td>
@@ -222,7 +222,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 73</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 28</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 78</li>
         </ul>
       </td>
@@ -242,7 +242,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 5</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +262,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 95</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 6</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 96</li>
         </ul>
       </td>
@@ -283,13 +283,14 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 15</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 69</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb532ea468c7fc915a21056583f7aa48.png" alt="Cover for Udenfor Sæsonen" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Johnny Madsen</td>
@@ -321,7 +322,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 64</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +342,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 89</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 12</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 91</li>
         </ul>
       </td>
@@ -397,7 +398,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 27</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -419,8 +420,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 26</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 82</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 19</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +462,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 59</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 42</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 69</li>
         </ul>
       </td>
@@ -499,7 +500,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 44</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -520,8 +521,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 35</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 16</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 37</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 87</li>
         </ul>
       </td>
@@ -631,7 +632,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 79</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 22</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 82</li>
         </ul>
       </td>
@@ -669,7 +670,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 87</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 14</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 89</li>
         </ul>
       </td>
@@ -741,7 +742,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 75</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 26</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 80</li>
         </ul>
       </td>
@@ -782,14 +783,14 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       <td>
         <ul>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 3</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 67</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/8xjfASS2wVb85F53-LNPMEoAuK4AZirjTb4Vv2TcpJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM2/NzEzLTE2MzAyMzUx/MzUtNTM4Ny5qcGVn.jpeg" alt="Cover for Søndagsbarn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/367b8691c190abc648ee66c08c336092.png" alt="Cover for Søndagsbarn" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Suspekt</td>
@@ -804,7 +805,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 57</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 60</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 85</li>
         </ul>
       </td>
@@ -861,8 +862,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 8</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 9</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 29</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 77</li>
         </ul>
       </td>
@@ -885,7 +886,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 71</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 30</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 76</li>
         </ul>
       </td>
@@ -905,7 +906,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 22</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -925,7 +926,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 38</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 63</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 89</li>
         </ul>
       </td>
@@ -1002,8 +1003,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 9</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 75</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1025,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 66</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 35</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 73</li>
         </ul>
       </td>
@@ -1046,8 +1047,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 55</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 7</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 56</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 95</li>
         </ul>
       </td>
@@ -1069,8 +1070,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 23</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 23</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 81</li>
         </ul>
       </td>
@@ -1197,7 +1198,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 86</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 15</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 88</li>
         </ul>
       </td>
@@ -1259,7 +1260,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 73</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 76</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 98</li>
         </ul>
       </td>
@@ -1267,21 +1268,19 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dab106720d44f3bf3995a7fe4d7fb2.png" alt="Cover for Grateful" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-08</td>
       <td>Carpark North</td>
       <td>Grateful</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 82</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 92</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 23</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1318,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 51</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1357,7 +1356,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 14</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1377,7 +1376,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 80</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 21</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 83</li>
         </ul>
       </td>
@@ -1397,7 +1396,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 29</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1418,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 75</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1474,8 +1473,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 20</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 30</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 84</li>
         </ul>
       </td>
@@ -1497,7 +1496,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 65</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 36</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 72</li>
         </ul>
       </td>
@@ -1518,8 +1517,8 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 17</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 76</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 18</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1538,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 61</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1564,24 +1563,20 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e21208e4351466dbd9b7ae1f0c06d06.png" alt="Cover for Philharmonics" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-17</td>
       <td>Agnes Obel</td>
       <td>Philharmonics</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 15</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 69</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 81</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 83</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 8</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 16</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1600,14 +1595,14 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 70</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/YTF_-ZLWcM0DV16D3JuQiZqOSw4BkWe4whceQ7oParw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MzItMTM0OTAzMDk1/OS01MTAzLmpwZWc.jpeg" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52869d3ef4945bbb58b416d1b6d8239.png" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Love Shop</td>
@@ -1622,7 +1617,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 60</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 41</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 70</li>
         </ul>
       </td>
@@ -1630,7 +1625,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/vmsV7pEvw2ylVixlJIImpcHsJuUOYJLh1hnh468zXIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc1/NTctMTMwMDM3OTQ3/NC5qcGVn.jpeg" alt="Cover for Libertiner" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10184e1630ea4ec4ad7855fda9e11e5a.png" alt="Cover for Libertiner" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-19</td>
       <td>L.O.C.</td>
@@ -1696,7 +1691,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 74</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 27</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 79</li>
         </ul>
       </td>
@@ -1704,7 +1699,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/rFm3tWaw0nKqUEM0UR2rPbL5h-fJV-o6rQ0vDk0ZE0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ4/MjgtMTM5ODk3NzA5/NC03OTI4LmpwZWc.jpeg" alt="Cover for Skandinavisk Lyst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/417b39221bac4b35a1cda79ea2f8a4f8.png" alt="Cover for Skandinavisk Lyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Love Shop</td>
@@ -1719,7 +1714,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 57</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1768,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 99</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 2</li>
             <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 100</li>
         </ul>
       </td>
@@ -1795,7 +1790,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 64</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 86</li>
         </ul>
       </td>
@@ -1826,7 +1821,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/Nfbay8h2X4Tv_tfys_I_04SUWO-NFgBV6FEHEqB_ytE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDk2/NDQtMTQyMzg1MTUx/MS0xNDMzLmpwZWc.jpeg" alt="Cover for 6 liter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61f00bf95772290767d8a9303187ef50.png" alt="Cover for 6 liter" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-04</td>
       <td>TopGunn</td>
@@ -1841,7 +1836,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 21</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 22</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 72</li>
         </ul>
       </td>
@@ -1864,7 +1859,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 24</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 26</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 73</li>
         </ul>
       </td>
@@ -1910,14 +1905,14 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 71</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/aLv_TTUvokB9X9MQBE0t3IT20dIB76QKaHk1MhzYwH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/NTA4LTE2MDQzNDA1/MjgtNjQ5OS5qcGVn.jpeg" alt="Cover for Unsolvable" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ea669192f61254dfc946e43964662c3.png" alt="Cover for Unsolvable" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-23</td>
       <td>Nicklas Sahl</td>
@@ -1932,7 +1927,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 20</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 21</li>
             <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 71</li>
         </ul>
       </td>
@@ -1995,7 +1990,7 @@ Dansk refers to music sung in the Danish language or originating from Denmark&#3
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 46</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 48</li>
         </ul>
       </td>
     </tr>

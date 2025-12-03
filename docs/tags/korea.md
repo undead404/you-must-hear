@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T02:03:31.329Z
+date: 2025-12-03T06:30:58.223Z
 permalink: tags/korea
 title: korea
 ---
 
 ## korea
 
-Last updated: <time datetime="2025-11-15T02:03:31.329Z">Sat Nov 15 2025 04:03:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:30:58.223Z">Wed Dec 03 2025 08:30:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -174,7 +174,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 73</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 74</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 75</li>
         </ul>
       </td>
@@ -351,7 +351,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 76</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 77</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 83</li>
         </ul>
       </td>
@@ -379,7 +379,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 83</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 84</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 98</li>
         </ul>
       </td>
@@ -609,7 +609,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 16</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -866,10 +866,6 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       <td>hyde</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korea" | relative_url }}">korea</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1086,6 +1082,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 57</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 57</li>
         </ul>
@@ -1136,7 +1133,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1551,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 82</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 83</li>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 97</li>
         </ul>
       </td>
@@ -1621,7 +1618,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 37</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1648,6 +1645,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a83f88b28929aaed5c3d31f0caa04955.png" alt="Cover for Madame Freedom - The Re-Score" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Spooky feat. the Telos Ensemble</td>
@@ -1684,7 +1682,7 @@ The &quot;korea&quot; tag encompasses music originating from South Korea, primar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 43</li>
+            <li> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a> # 57</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-18T18:54:41.061Z
+date: 2025-12-03T06:30:40.773Z
 permalink: tags/ethnic
 title: ethnic
 ---
 
 ## ethnic
 
-Last updated: <time datetime="2025-10-18T18:54:41.061Z">Sat Oct 18 2025 21:54:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T06:30:40.773Z">Wed Dec 03 2025 08:30:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -89,7 +89,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Spiritual Chillout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a9a3f3fc1644a0b496c438a5e50ec0.png" alt="Cover for Spiritual Chillout" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -107,6 +107,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf3170304509f226ce7a6f71b312043.png" alt="Cover for La Pistola y el Corazón" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-09</td>
       <td>Los Lobos</td>
@@ -124,6 +125,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdaa8b28641f610367ec976be9e6f527.png" alt="Cover for I Will Not Be Sad In This World" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Djivan Gasparyan</td>
@@ -202,6 +204,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ba7e9fc8c374381b283a4e4e45744fc.png" alt="Cover for Into the Labyrinth" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-09-13</td>
       <td>Dead Can Dance</td>
@@ -214,13 +217,15 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 50</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e795c6cf99db4879c8bd3d5d25b9c501.png" alt="Cover for Enchanted" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Enchanted</td>
@@ -242,6 +247,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33768107ccc57a13cd7be65a61e24c9f.png" alt="Cover for Voices from the Distant Steppe" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-07</td>
       <td>Shu-De</td>
@@ -260,7 +266,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/AkIdS7i-2ET46ZkUpiNN-u7Xy1QGCX6hqMmmBomlaGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkx/Ni0xNDkxODk2NDM0/LTY5OTIuanBlZw.jpeg" alt="Cover for Cesaria Evora Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed4bff18cde249cf898b053837e67eab.png" alt="Cover for Cesaria Evora Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cesária Évora</td>
@@ -323,6 +329,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/576e78c8375a4e17bc8fbf4fa19f2966.png" alt="Cover for Boheme" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-08</td>
       <td>Deep Forest</td>
@@ -335,8 +342,8 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 66</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 84</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 75</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -356,13 +363,14 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 39</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/417a90fc9cfe7398b559ecf19285823f.png" alt="Cover for Spiritchaser" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-03</td>
       <td>Dead Can Dance</td>
@@ -370,12 +378,10 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 1</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 39</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 49</li>
         </ul>
@@ -384,7 +390,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/4AkJXQucPnuLrcXo58MSrNiFh0xszrkBM9Kpf_LrKkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mjcx/LTEyMDUwMTI4MzEu/anBlZw.jpeg" alt="Cover for Purple Passage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b90c239239742f7945900d95fff936b.png" alt="Cover for Purple Passage" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Uman</td>
@@ -407,7 +413,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 87</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +441,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/2LG5xqQEavLm4Pz5BiScKuHnQaGehWCOWt1WIjGLeW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDU3/OC0xMzM1NzY3NTA3/LmpwZWc.jpeg" alt="Cover for Snow On The Sahara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/563db3e042a06df80c16021613dbbc7c.png" alt="Cover for Snow On The Sahara" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Anggun</td>
@@ -468,7 +474,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 41</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -494,8 +500,8 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 52</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
@@ -505,7 +511,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/PsjVHjuy8Std_Y5POyVtHUNM9_s7GHeaQO8UufcTxCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMy/OS0xMzgwNDUyODU4/LTkzMzcuanBlZw.jpeg" alt="Cover for Black Rock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c2809606f87fd058aaf00d24a3b710b.png" alt="Cover for Black Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-07</td>
       <td>Djivan Gasparyan &amp; Michael Brook</td>
@@ -557,14 +563,14 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 45</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/iiF3KOG5eQqYg8gd6D3VlPXvMo0QHweh_a1p_mNPLX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjQw/MS0xMjQwNDg0ODE4/LmpwZWc.jpeg" alt="Cover for Global Spirit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991b35c0ea3c561431be79d84c8455f0.png" alt="Cover for Global Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Karunesh</td>
@@ -576,7 +582,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -659,6 +665,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7a225b32b237746cfdb1dc76f7d3939.png" alt="Cover for Isihia" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Isihia</td>
@@ -726,6 +733,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a5b49e4f048e4e563b726b7c84a2c5c.png" alt="Cover for 明天" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-20</td>
       <td>蕭亞軒</td>
@@ -831,10 +839,12 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 12</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 17</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 81</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 3</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 19</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 98</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
         </ul>
       </td>
@@ -857,7 +867,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 44</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 45</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 93</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 95</li>
         </ul>
@@ -884,6 +894,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d5cf16d18774a16a701d63530d78aa7.png" alt="Cover for Ethnic" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-10</td>
       <td>Shiva in Exile</td>
@@ -896,15 +907,15 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 76</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 77</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 77</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/OhISzKgTmC_Y634BUc_Dk6etIDVCzfL9ZBtsCmj9RFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzk1/NDMtMTQ0Mjg0NTI4/OC04ODQ5LmpwZWc.jpeg" alt="Cover for Tete a Tete Margareth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e03f67659d8c8cf3dc59b5c65a4758e3.png" alt="Cover for Tete a Tete Margareth" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-21</td>
       <td>Margareth Menezes</td>
@@ -920,6 +931,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -998,8 +1010,8 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 69</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 84</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
@@ -1052,7 +1064,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/hhPOEo3G296sQjgugXSWSmgX1d_cU6RAVVJEfcUORWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTU2/MTUtMTM2MjY2NTYz/NC05MTQ4LmpwZWc.jpeg" alt="Cover for Musichal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fab030044ebd5c5d42ea28a2527cf535.png" alt="Cover for Musichal" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-16</td>
       <td>Zakopower</td>
@@ -1074,7 +1086,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/FfVTFd1KiTRSxA2_muu2sK_8I51sjhMGUxFp64jf15Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzIw/NS0xMTM0NDk1NjQ5/LmpwZWc.jpeg" alt="Cover for Zero4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a78bacc1050e4470946ec2b78e29fb71.png" alt="Cover for Zero4" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-01</td>
       <td>Antaeus</td>
@@ -1134,8 +1146,8 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 22</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 80</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1158,17 +1170,17 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1189,14 +1201,14 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 46</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/302w8JG2nJ6qcKLMgC5K1W6SrrnX_xyJ4y33VJO7pD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njc3/My0xMTgxMDI5Mjgw/LmpwZWc.jpeg" alt="Cover for Tempting the Muse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04d9a8dd79ee49d7ab5b4242f1dc2c09.png" alt="Cover for Tempting the Muse" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Mysteria</td>
@@ -1215,7 +1227,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/elGaJ9kvpzsd3MTEnuIMI4BEWNCgQSbFbt6awZR2_7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjAz/MjItMTM3MzM0NzE3/Ni0yMTY1LmpwZWc.jpeg" alt="Cover for Ama" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994a9873201348b6b81b9294c363fc85.png" alt="Cover for Ama" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-07</td>
       <td>Yungchen Lhamo</td>
@@ -1254,7 +1266,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 72</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 81</li>
             <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
@@ -1265,6 +1277,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb00716d9bc2115eef91efb20701f29.png" alt="Cover for Elysium For The Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Azam Ali</td>
@@ -1281,8 +1294,8 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 81</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 86</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1314,6 +1327,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3e6ccd7a6d44c5fa09f45b5c3d98da3.png" alt="Cover for Made in Altan Urag" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10</td>
       <td>Altan urag</td>
@@ -1347,7 +1361,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 22</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1383,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 21</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1427,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 18</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1438,6 +1452,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b1ab06bd39344968a387b56190598d5.png" alt="Cover for Folk N&#39; Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Žalvarinis</td>
@@ -1504,7 +1519,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 81</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1552,6 +1567,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00a312322b7346ac8850f5ef38b838b9.png" alt="Cover for Nour" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06</td>
       <td>Shiva in Exile</td>
@@ -1637,14 +1653,15 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 46</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 91</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1a0f407e8b40af784e72896c97d828.png" alt="Cover for Quid est Veritas?" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-06</td>
       <td>Chronos &amp; C.J. Catalizer</td>
@@ -1664,6 +1681,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b16267693b04769c7620f946dab1041.png" alt="Cover for Saurian Exorcisms" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-14</td>
       <td>Karl Sanders</td>
@@ -1676,7 +1694,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1738,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/btVDy8bRtjMhOdFe8Cp8wmIEy8M65pZFQZ948RVL-nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDMx/MTAtMTMyNDgyNDcw/Ny5qcGVn.jpeg" alt="Cover for Hammock Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a60486714dc496d1d9afedf01e764d.png" alt="Cover for Hammock Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Jasmon</td>
@@ -1767,14 +1785,14 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 25</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/RtVnGq53086Z-HsZgoLTd67uQlbHOfVGaXpRiWZOMsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTY4/ODQtMTMwNzU0MTE1/My5qcGVn.jpeg" alt="Cover for Her Sabah" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d01849538444a1b8176ee0d4199571a.png" alt="Cover for Her Sabah" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-13</td>
       <td>Bora Duran</td>
@@ -1840,7 +1858,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 33</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1909,7 +1927,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/u33FzCTG4XieEydKj4o1AIkSkZp-gBh-pcUy6z30tD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzA4/ODYtMTM5NDIwNjY0/OS02MTE3LmpwZWc.jpeg" alt="Cover for The Ambient Mixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c91742dc20a6d2e7a27a762ed2c87224.png" alt="Cover for The Ambient Mixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-07</td>
       <td>Kaya Project</td>
@@ -1953,7 +1971,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/7EBWMQ9Ofa3HOgL572QWLEU-9OOKTvUhZOYCb80BHYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODIy/MzItMTU4NTUxNjM2/NC0xMzMyLmpwZWc.jpeg" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edee592b524202c55d031b5d99c04e41.png" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Jean du Voyage</td>
@@ -1971,15 +1989,16 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 41</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 94</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 17</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/NS05BHgkVDZsP1xIrQbx8ErpntdmPXj8FJELqpR70g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA0/NjkxLTE2NDI2MTMy/MjgtNzQ0OS5qcGVn.jpeg" alt="Cover for Blaze" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3a9894149446ae54e0ec7059dc7d685.png" alt="Cover for Blaze" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-01</td>
       <td>Dirtwire</td>
@@ -2030,20 +2049,21 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 95</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
@@ -2065,14 +2085,14 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 89</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/zDxrL5_srPrnZ7v9bqGqmj0QCqyq6q2f5DCJw-QpqLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODMz/MjE3LTE1NjQ0MzMw/MjUtMzg2Ny5qcGVn.jpeg" alt="Cover for Zero Gravity (Rebirth And Evolution)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa95d630b431439b78a54a31a6668c52.png" alt="Cover for Zero Gravity (Rebirth And Evolution)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-05</td>
       <td>Turilli &#x2F; Lione Rhapsody</td>
@@ -2088,7 +2108,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 62</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2131,7 +2151,7 @@ Ethnic music encompasses traditional and contemporary sounds rooted in diverse c
       <td>
         <ul>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 28</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 29</li>
         </ul>
       </td>
     </tr>

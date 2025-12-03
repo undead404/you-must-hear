@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T08:22:25.925Z
+date: 2025-12-03T06:32:49.673Z
 permalink: tags/new-orleans
 title: new orleans
 ---
 
 ## new orleans
 
-Last updated: <time datetime="2025-11-23T08:22:25.925Z">Sun Nov 23 2025 10:22:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:49.673Z">Wed Dec 03 2025 08:32:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -264,7 +264,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 92</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -836,8 +836,8 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 50</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 56</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 49</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -937,6 +937,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99b476aa14c54fc16c22a1372ad34265.png" alt="Cover for Charge It 2 Da Game" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-17</td>
       <td>Silkk The Shocker</td>
@@ -951,7 +952,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +975,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 32</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 33</li>
             <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 98</li>
         </ul>
       </td>
@@ -1137,7 +1138,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 73</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1195,15 +1196,15 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 8</li>
             <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 60</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/j7uFxP-F1woCpkAFP3bl-Bv5vHJBf_mrLCyDdaGYsSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjkx/NDAtMTM3MjAyOTQy/OC03OTk2LmpwZWc.jpeg" alt="Cover for Do Your Thing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0782c9da11b2411bc13d1ad3396c72a4.png" alt="Cover for Do Your Thing" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Papa Mali</td>
@@ -1256,7 +1257,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 36</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1338,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 53</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 48</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 92</li>
         </ul>
       </td>
@@ -1470,7 +1471,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 45</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1493,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 51</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1632,7 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       <td>
         <ul>
             <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 7</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 93</li>
         </ul>
       </td>
@@ -1903,13 +1904,13 @@ New Orleans music is a vibrant fusion born from the city&#39;s rich cultural mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 47</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 49</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
             <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 63</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
         </ul>
       </td>
     </tr>

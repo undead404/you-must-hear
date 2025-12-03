@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T03:14:55.713Z
+date: 2025-12-03T06:32:04.210Z
 permalink: tags/acid-techno
 title: acid techno
 ---
 
 ## acid techno
 
-Last updated: <time datetime="2025-11-26T03:14:55.713Z">Wed Nov 26 2025 05:14:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T06:32:04.210Z">Wed Dec 03 2025 08:32:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -388,7 +388,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -442,12 +442,12 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 82</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +471,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 17</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 68</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +701,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 1</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -720,7 +720,6 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +886,8 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 85</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 88</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 13</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1233,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 72</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 29</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 81</li>
         </ul>
       </td>
@@ -1292,7 +1291,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 10</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 87</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 98</li>
         </ul>
@@ -1388,9 +1387,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 65</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 43</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1436,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 66</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 34</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 80</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 89</li>
         </ul>
@@ -1522,7 +1521,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 82</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 18</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 84</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 92</li>
         </ul>
@@ -1577,12 +1576,12 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 23</li>
             <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 45</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 84</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1644,8 +1643,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1692,9 +1692,9 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 12</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 92</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2067,7 +2067,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 53</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 47</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 70</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 80</li>
         </ul>
@@ -2095,10 +2095,10 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 30</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 31</li>
             <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 53</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 74</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2122,7 +2122,7 @@ Acid techno is characterized by the squelching, hypnotic sounds of the Roland TB
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 84</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 16</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 86</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 93</li>
         </ul>
